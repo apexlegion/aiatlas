@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T05:21:31.839Z",
+  "generatedAt": "2026-07-26T05:39:22.774Z",
   "entries": {
     "automatic1111-stable-diffusion-webui": {
       "slug": "automatic1111-stable-diffusion-webui",
@@ -1354,50 +1354,6 @@
         "openai-blog"
       ]
     },
-    "huggingface-blog-https-huggingface-co-blog-vllm-jobs": {
-      "slug": "huggingface-blog-https-huggingface-co-blog-vllm-jobs",
-      "typedId": "news/huggingface-blog-https-huggingface-co-blog-vllm-jobs",
-      "name": "Run a vLLM Server on HF Jobs in One Command",
-      "type": "news",
-      "summary": "Run a vLLM Server on HF Jobs in One Command",
-      "tags": [
-        "news",
-        "huggingface-blog"
-      ]
-    },
-    "mit-news-ai-https-news-mit-edu-2026-david-autor-named-head-department-economics-0626": {
-      "slug": "mit-news-ai-https-news-mit-edu-2026-david-autor-named-head-department-economics-0626",
-      "typedId": "news/mit-news-ai-https-news-mit-edu-2026-david-autor-named-head-department-economics-0626",
-      "name": "David Autor named head of the Department of Economics",
-      "type": "news",
-      "summary": "A faculty member since 1999, Autor is a leading researcher in artificial intelligence and the work of the future.",
-      "tags": [
-        "news",
-        "mit-news-ai"
-      ]
-    },
-    "mit-news-ai-https-news-mit-edu-2026-llms-help-robots-understand-vague-instructions-and-focus-key-details-0626": {
-      "slug": "mit-news-ai-https-news-mit-edu-2026-llms-help-robots-understand-vague-instructions-and-focus-key-details-0626",
-      "typedId": "news/mit-news-ai-https-news-mit-edu-2026-llms-help-robots-understand-vague-instructions-and-focus-key-details-0626",
-      "name": "LLMs help robots understand vague instructions and focus on key details",
-      "type": "news",
-      "summary": "To help robots do chores in places like homes and factories, a new approach from MIT uses one language model to clarify users’ instructions, then another to ignore irrelevant info.",
-      "tags": [
-        "news",
-        "mit-news-ai"
-      ]
-    },
-    "openai-blog-https-openai-com-index-previewing-gpt-5-6-sol": {
-      "slug": "openai-blog-https-openai-com-index-previewing-gpt-5-6-sol",
-      "typedId": "news/openai-blog-https-openai-com-index-previewing-gpt-5-6-sol",
-      "name": "Previewing GPT-5.6 Sol: a next-generation model",
-      "type": "news",
-      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-      "tags": [
-        "news",
-        "openai-blog"
-      ]
-    },
     "meta-llama-meta-llama-3-8b": {
       "slug": "meta-llama-meta-llama-3-8b",
       "typedId": "model/meta-llama-meta-llama-3-8b",
@@ -1562,7 +1518,6 @@
         "license:apache-2.0",
         "eval-results",
         "endpoints_compatible",
-        "deploy:azure",
         "deploy:sagemaker",
         "region:us"
       ]
