@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-07-26T05:39:19.544Z",
+  "fetchedAt": "2026-07-27T05:58:11.656Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -123,8 +123,8 @@
       "deploy:sagemaker",
       "region:us"
     ],
-    "downloads": 6115315,
-    "likes": 5983,
+    "downloads": 6004606,
+    "likes": 5987,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -354,10 +354,7 @@
       "hugging-apps/ex-omni-talking-avatar",
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "navidved/open_persian_asr_leaderboard",
-      "phinam112/OmniVoice-Studio",
       "nabil6391/bengali-asr-leaderboard",
-      "ziggysan777/ZIGGYSAN890",
-      "drizzymedia/V8",
       "hf-audio/whisper-large-v3",
       "artificialguybr/Video-Transcription-Smart-Summary",
       "artificialguybr/video-dubbing",
@@ -382,6 +379,7 @@
       "ardha27/Youtube-AI-Summarizer",
       "mozilla-ai/transcribe",
       "mrm8488/whisper-large-v3",
+      "phinam112/OmniVoice-Studio",
       "mfielding92/insanely-fast-whisper-webui-zero",
       "msalhab96/open_universal_arabic_asr_leaderboard_all",
       "richardzheng/whisper-large-v3",
@@ -444,7 +442,9 @@
       "pythonitalia/realtime-transcription",
       "mortimerme/pyvideotrans",
       "haoxiong693/openai-whisper-large-v3",
-      "SahilJ2/VQA_Model"
+      "SahilJ2/VQA_Model",
+      "maroonvillager/openai-whisper-large-v3",
+      "Upgradojha/whisper"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {

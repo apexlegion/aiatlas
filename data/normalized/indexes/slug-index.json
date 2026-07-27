@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T05:39:22.774Z",
+  "generatedAt": "2026-07-27T05:58:14.913Z",
   "entries": {
     "automatic1111-stable-diffusion-webui": {
       "slug": "automatic1111-stable-diffusion-webui",
@@ -177,221 +177,221 @@
         "jupyter notebook"
       ]
     },
-    "2607-21488": {
-      "slug": "2607-21488",
-      "typedId": "paper/2607-21488",
-      "name": "Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections",
+    "2607-22389": {
+      "slug": "2607-22389",
+      "typedId": "paper/2607-22389",
+      "name": "HiKV: Hierarchical Importance-Aware KV Cache with Hardware Acceleration for LLM Decoding",
       "type": "paper",
-      "summary": "Coordinating autonomous vehicles at unsignalized intersections remains a critical challenge for multi-agent reinforcement learning (MARL) systems, which typically struggle with combinatorial action...",
+      "summary": "With the rapid adoption of long-context large language models (LLMs), the continuously growing KV cache during decoding has become the critical memory bottleneck. To tackle this challenge, we propo...",
       "tags": [
         "arxiv",
-        "cs.LG"
+        "cs.AR"
       ]
     },
-    "2607-21495": {
-      "slug": "2607-21495",
-      "typedId": "paper/2607-21495",
-      "name": "Toward Continuous Assurance for the Democratization of AI Agent Creation in Industry",
+    "2607-22393": {
+      "slug": "2607-22393",
+      "typedId": "paper/2607-22393",
+      "name": "SceneActBench: Can Agents Act on the 3D Scenes They See?",
       "type": "paper",
-      "summary": "AI agents are increasingly created inside organizations by non-engineering users through low-code, no-code, and conversational development environments. This democratization enables rapid local inn...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2607-21498": {
-      "slug": "2607-21498",
-      "typedId": "paper/2607-21498",
-      "name": "Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it",
-      "type": "paper",
-      "summary": "A rhetorical figure that Cicero and Quintilian catalogued two thousand years ago reappears, systematically, in the text of large language models: epanorthosis, the self-correction of the specimen «...",
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ]
-    },
-    "2607-21503": {
-      "slug": "2607-21503",
-      "typedId": "paper/2607-21503",
-      "name": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
-      "type": "paper",
-      "summary": "Production AI agents' failures are less often due to an inability to reason well and more often because they cannot manage what is in their reasoning context: conversation histories, large prompts,...",
+      "summary": "Vision-language model (VLM) agents increasingly use tools to act on 3D scenes rather than only describe them. Existing 3D benchmarks score textual responses or single-object operations, leaving age...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2607-21517": {
-      "slug": "2607-21517",
-      "typedId": "paper/2607-21517",
-      "name": "Improved lower bounds for the Shannon capacity of odd cycles",
+    "2607-22400": {
+      "slug": "2607-22400",
+      "typedId": "paper/2607-22400",
+      "name": "A Self-Calibrating Agentic AI Framework for Autonomous Edge Resource Allocation",
       "type": "paper",
-      "summary": "The Shannon capacity $Θ(G)$ of a graph $G$ quantifies the maximum rate at which information can be transmitted with zero error over a noisy channel. It is lower bounded by $α(G^d)^{1/d}$ for any $d...",
+      "summary": "Large Language Models (LLMs) are increasingly deployed as autonomous agents, transitioning from static conversational interfaces to dynamic systems capable of complex reasoning, tool execution, and...",
       "tags": [
         "arxiv",
-        "cs.IT"
+        "cs.NI"
       ]
     },
-    "2607-21518": {
-      "slug": "2607-21518",
-      "typedId": "paper/2607-21518",
-      "name": "Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation",
+    "2607-22422": {
+      "slug": "2607-22422",
+      "typedId": "paper/2607-22422",
+      "name": "PRIMS: Physics-guided Representation for Fluid Identification in Multimodal Sensing",
       "type": "paper",
-      "summary": "Even a current high-capability LLM can appear safer when shown a dangerous objective directly than when other agents transform and relay its direction. Using OpenAI's gpt-5.6-sol model alias, we te...",
+      "summary": "Accurate on-device fluid identification is essential for microfluidic applications, yet maintaining reliability under varying flow, pressure, and temperature remains a key challenge. Existing learn...",
       "tags": [
         "arxiv",
-        "cs.AI"
+        "physics.flu-dyn"
       ]
     },
-    "2607-21522": {
-      "slug": "2607-21522",
-      "typedId": "paper/2607-21522",
-      "name": "GS-Agent: Creating 4D Physical Worlds With Generative Simulation",
+    "2607-22428": {
+      "slug": "2607-22428",
+      "typedId": "paper/2607-22428",
+      "name": "Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability",
       "type": "paper",
-      "summary": "Creating dynamic and physically realistic 4D worlds from natural language descriptions is both fascinating and challenging. Traditional computer graphics methods rely on manual creation, requiring...",
+      "summary": "Explainable AI (XAI) in creative practice can be less about technocentric explanation and more about enabling artists to inspect modify and debug models as part of making Yet largescale texttoimage...",
+      "tags": [
+        "arxiv",
+        "cs.HC"
+      ]
+    },
+    "2607-22434": {
+      "slug": "2607-22434",
+      "typedId": "paper/2607-22434",
+      "name": "Robot Learning to Communicate through Projected Visual Abstractions",
+      "type": "paper",
+      "summary": "Humans routinely communicate through abstractions of their bodies, including shadows, silhouettes, and reflections. Yet robots remain largely confined to expressing themselves through their physica...",
       "tags": [
         "arxiv",
         "cs.RO"
       ]
     },
-    "2607-21529": {
-      "slug": "2607-21529",
-      "typedId": "paper/2607-21529",
-      "name": "ElasticTTT: Prior-Preserving Test-Time Tuning for Video Editing",
+    "2607-22444": {
+      "slug": "2607-22444",
+      "typedId": "paper/2607-22444",
+      "name": "Hyperball May Not Be a Free Lunch",
       "type": "paper",
-      "summary": "Test-Time Tuning (TTT) on pretrained diffusion models has emerged as a powerful paradigm for video editing. However, there exists a foundational mismatch between the distribution-mapping nature of...",
-      "tags": [
-        "arxiv",
-        "cs.CV"
-      ]
-    },
-    "2607-21530": {
-      "slug": "2607-21530",
-      "typedId": "paper/2607-21530",
-      "name": "From Resource Flow to Executable Tests: Petri-Net-Guided LLM Test Generation for Concurrent Stateful Rust APIs",
-      "type": "paper",
-      "summary": "Concurrent stateful library APIs expose behavior through evolving resource ownership, lifecycle states, and competing interleavings. Large language models can synthesize executable Rust tests, but...",
-      "tags": [
-        "arxiv",
-        "cs.SE"
-      ]
-    },
-    "2607-21547": {
-      "slug": "2607-21547",
-      "typedId": "paper/2607-21547",
-      "name": "The Boundaries of Automation: A Theory of Persistent Human Participation",
-      "type": "paper",
-      "summary": "The rapid progress of AI has intensified the long-standing pursuit of automation: replacing human participation with algorithms wherever possible. Implicit in this pursuit is the assumption that hu...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2607-21552": {
-      "slug": "2607-21552",
-      "typedId": "paper/2607-21552",
-      "name": "MIRROR: Learning from the Other View for Multi-Modal Reasoning",
-      "type": "paper",
-      "summary": "Unlike large language models (LLMs) that exhibit strong reasoning capabilities, vision-language models (VLMs) struggle with visual reasoning, even on geometry problems that admit equivalent text, d...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2607-21556": {
-      "slug": "2607-21556",
-      "typedId": "paper/2607-21556",
-      "name": "Visual Contrastive Self-Distillation",
-      "type": "paper",
-      "summary": "On-policy self-distillation (OPSD) is promising as it removes the external teacher required by on-policy distillation (OPD), yet it still needs asymmetric information between teacher and student to...",
-      "tags": [
-        "arxiv",
-        "cs.CV"
-      ]
-    },
-    "2607-21557": {
-      "slug": "2607-21557",
-      "typedId": "paper/2607-21557",
-      "name": "OpenForgeRL: Train Harness-native Agents in Any Environment",
-      "type": "paper",
-      "summary": "Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these comple...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2607-21558": {
-      "slug": "2607-21558",
-      "typedId": "paper/2607-21558",
-      "name": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning",
-      "type": "paper",
-      "summary": "Building socially calibrated large language models, which can learn from others without simply yielding to them, requires more than reducing sycophancy as a one-dimensional failure mode. Models mus...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2607-21559": {
-      "slug": "2607-21559",
-      "typedId": "paper/2607-21559",
-      "name": "Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana",
-      "type": "paper",
-      "summary": "A consensus anomaly detection framework was applied to monthly malaria surveillance data from Ghana (2014-2023) to identify atypical transmission patterns. Anomalies were highly structured in space...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2607-21573": {
-      "slug": "2607-21573",
-      "typedId": "paper/2607-21573",
-      "name": "Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity",
-      "type": "paper",
-      "summary": "Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However...",
+      "summary": "For scale-invariant deep networks, Hyperball-style optimizers have shown strong performance in large-scale training by fixing the norms of matrix-valued parameters and normalizing updates. However,...",
       "tags": [
         "arxiv",
         "cs.LG"
       ]
     },
-    "2607-21577": {
-      "slug": "2607-21577",
-      "typedId": "paper/2607-21577",
-      "name": "Synthetic data generation framework for quality control automation in gravure printing",
+    "2607-22445": {
+      "slug": "2607-22445",
+      "typedId": "paper/2607-22445",
+      "name": "Dynamic Capability Scoping for Enterprise AI Agents: A Synthetic Dataset and Three-Source Permission Architecture",
       "type": "paper",
-      "summary": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining hi...",
+      "summary": "Enterprise AI agents are typically granted static credential sets at configuration time, holding every tool the role might need for every task they perform. This persistent over-privilege expands t...",
       "tags": [
         "arxiv",
-        "cs.CV"
+        "cs.AI"
       ]
     },
-    "2607-21579": {
-      "slug": "2607-21579",
-      "typedId": "paper/2607-21579",
-      "name": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
+    "2607-22458": {
+      "slug": "2607-22458",
+      "typedId": "paper/2607-22458",
+      "name": "Phylogenetic signal in marine mammal and bird vocalizations captured by audio foundation models: the limited benefit of domain-specific pretraining",
       "type": "paper",
-      "summary": "Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question...",
+      "summary": "Do learned audio embeddings encode structure that nobody told them to encode? We probe four large pretrained audio models (AST, CLAP, BEATs-bio and BirdNET) with a downstream task none of them saw...",
       "tags": [
         "arxiv",
-        "math.OC"
+        "cs.LG"
       ]
     },
-    "2607-21580": {
-      "slug": "2607-21580",
-      "typedId": "paper/2607-21580",
-      "name": "GraphVid: Interactive Graph-Controllable Video Generation",
+    "2607-22463": {
+      "slug": "2607-22463",
+      "typedId": "paper/2607-22463",
+      "name": "Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education",
       "type": "paper",
-      "summary": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel mo...",
+      "summary": "Generative AI is reshaping programming education, yet educators often infer students' AI-supported learning from classroom observations alone. This experience report presents a trio-ethnography inv...",
       "tags": [
         "arxiv",
-        "cs.CV"
+        "cs.HC"
       ]
     },
-    "2607-21595": {
-      "slug": "2607-21595",
-      "typedId": "paper/2607-21595",
-      "name": "3D-Aware VLMs with Implicit and Explicit Geometries",
+    "2607-22465": {
+      "slug": "2607-22465",
+      "typedId": "paper/2607-22465",
+      "name": "TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI",
       "type": "paper",
-      "summary": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and rea...",
+      "summary": "Routing to select large language models (LLMs) with different cost-quality trade-offs has become a fundamental deployment feature of enterprise AI. Existing routers, primarily make independent rout...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2607-22468": {
+      "slug": "2607-22468",
+      "typedId": "paper/2607-22468",
+      "name": "Learning to Prepare Molecular Ground States with Transformer Models",
+      "type": "paper",
+      "summary": "Quantum state preparation is a key component of many quantum algorithms. Performing this step efficiently is essential for realizing practical quantum advantage in quantum chemistry applications. I...",
+      "tags": [
+        "arxiv",
+        "quant-ph"
+      ]
+    },
+    "2607-22471": {
+      "slug": "2607-22471",
+      "typedId": "paper/2607-22471",
+      "name": "MineValiCoder: Reliable Code Generation with Test Case Quality Mining and Bipartite Graph-Based Mutual Validation",
+      "type": "paper",
+      "summary": "Large Language Model (LLM)-based Test-Driven Development (TDD) has advanced automated code generation. However, existing approaches depend heavily on human-crafted test cases and cannot operate eff...",
+      "tags": [
+        "arxiv",
+        "cs.SE"
+      ]
+    },
+    "2607-22489": {
+      "slug": "2607-22489",
+      "typedId": "paper/2607-22489",
+      "name": "\\k{appa}-LoRA: Condition Numbers Reveal Which LoRA Matrices Worth Updating",
+      "type": "paper",
+      "summary": "Low-Rank Adaptation (LoRA) has become a widely adopted technique for efficient neural network fine-tuning, decomposing model updates into low-rank matrices. However, LoRA remains computationally co...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2607-22511": {
+      "slug": "2607-22511",
+      "typedId": "paper/2607-22511",
+      "name": "CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference",
+      "type": "paper",
+      "summary": "Automating theoretical research is constrained not only by the generation of candidate results, but also by their reliable evaluation. A common approach is to close the research loop with a large l...",
+      "tags": [
+        "arxiv",
+        "stat.ML"
+      ]
+    },
+    "2607-22513": {
+      "slug": "2607-22513",
+      "typedId": "paper/2607-22513",
+      "name": "Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science",
+      "type": "paper",
+      "summary": "Commercial large language models are increasingly used as knowledge references, yet their stance on contested scientific claims is neither stable nor transparent. We tested how four major LLM famil...",
+      "tags": [
+        "arxiv",
+        "cs.CY"
+      ]
+    },
+    "2607-22516": {
+      "slug": "2607-22516",
+      "typedId": "paper/2607-22516",
+      "name": "Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support",
+      "type": "paper",
+      "summary": "A central design principle in modern machine learning and artificial intelligence is to align a model's inductive bias with the structure of its input data. For matrix-valued inputs, relevant matri...",
+      "tags": [
+        "arxiv",
+        "quant-ph"
+      ]
+    },
+    "2607-22520": {
+      "slug": "2607-22520",
+      "typedId": "paper/2607-22520",
+      "name": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents",
+      "type": "paper",
+      "summary": "Adding procedural skills to an LLM agent is typically evaluated by average improvement in task success. However, this metric hides an important cost: skills can also make agents worse. We measure b...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2607-22525": {
+      "slug": "2607-22525",
+      "typedId": "paper/2607-22525",
+      "name": "Explainable Reinforcement Learning for assisting Air Traffic Controllers",
+      "type": "paper",
+      "summary": "To effectively integrate AI into high-stakes, critical environments such as healthcare, autonomous driving, and aviation--and to advance toward higher levels of automation and seamless human-AI col...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2607-22534": {
+      "slug": "2607-22534",
+      "typedId": "paper/2607-22534",
+      "name": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
+      "type": "paper",
+      "summary": "Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing m...",
       "tags": [
         "arxiv",
         "cs.CV"
@@ -1573,7 +1573,6 @@
         "eval-results",
         "text-embeddings-inference",
         "endpoints_compatible",
-        "deploy:azure",
         "deploy:sagemaker",
         "region:us"
       ]

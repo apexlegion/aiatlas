@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2607-22516",
+  "name": "Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support",
+  "summary": "A central design principle in modern machine learning and artificial intelligence is to align a model's inductive bias with the structure of its input data. For matrix-valued inputs, relevant matri...",
+  "description": "A central design principle in modern machine learning and artificial intelligence is to align a model's inductive bias with the structure of its input data. For matrix-valued inputs, relevant matrix-level relationships can be characterised through spectral values and spectral subspaces; however, common coordinate-wise rotation-gate data-encoding unitaries used in most quantum machine learning models do not explicitly construct such a matrix-level representation. We introduce Quantum Spectral Models (QSMs), in which we construct the generator of the data-encoding unitary directly from each i...",
+  "tags": [
+    "arxiv",
+    "quant-ph"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.22516v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-24",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category quant-ph.",
+      "href": "https://arxiv.org/abs/2607.22516v1"
+    }
+  ],
+  "authors": [
+    "Peiyong Wang",
+    "Udaya Parampalli",
+    "Casey R. Myers"
+  ],
+  "paperId": "2607.22516",
+  "category": "quant-ph",
+  "publishedAt": "2026-07-24",
+  "abstract": "A central design principle in modern machine learning and artificial intelligence is to align a model's inductive bias with the structure of its input data. For matrix-valued inputs, relevant matrix-level relationships can be characterised through spectral values and spectral subspaces; however, common coordinate-wise rotation-gate data-encoding unitaries used in most quantum machine learning models do not explicitly construct such a matrix-level representation. We introduce Quantum Spectral Models (QSMs), in which we construct the generator of the data-encoding unitary directly from each i..."
+}

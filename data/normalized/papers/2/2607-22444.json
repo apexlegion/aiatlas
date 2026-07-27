@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2607-22444",
+  "name": "Hyperball May Not Be a Free Lunch",
+  "summary": "For scale-invariant deep networks, Hyperball-style optimizers have shown strong performance in large-scale training by fixing the norms of matrix-valued parameters and normalizing updates. However,...",
+  "description": "For scale-invariant deep networks, Hyperball-style optimizers have shown strong performance in large-scale training by fixing the norms of matrix-valued parameters and normalizing updates. However, the source of their advantage remains unclear. Starting from the angular displacement between consecutive parameter states, we derive an angular effective learning rate that accounts for the parameter-update angle, parameter norm, and update norm. We also show that the conventional norm-based measure is a special case under parameter-update orthogonality. We then decompose optimizer updates into...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.22444v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-24",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2607.22444v1"
+    }
+  ],
+  "authors": [
+    "Yihao Xiao",
+    "Jialong Sun",
+    "Zitian Gao",
+    "Zeming Wei",
+    "Chutian Wang",
+    "Ran Tao",
+    "Jiaye Teng",
+    "Bryan Dai"
+  ],
+  "paperId": "2607.22444",
+  "category": "cs.LG",
+  "publishedAt": "2026-07-24",
+  "abstract": "For scale-invariant deep networks, Hyperball-style optimizers have shown strong performance in large-scale training by fixing the norms of matrix-valued parameters and normalizing updates. However, the source of their advantage remains unclear. Starting from the angular displacement between consecutive parameter states, we derive an angular effective learning rate that accounts for the parameter-update angle, parameter norm, and update norm. We also show that the conventional norm-based measure is a special case under parameter-update orthogonality. We then decompose optimizer updates into..."
+}

@@ -1,0 +1,46 @@
+{
+  "type": "paper",
+  "slug": "2607-22393",
+  "name": "SceneActBench: Can Agents Act on the 3D Scenes They See?",
+  "summary": "Vision-language model (VLM) agents increasingly use tools to act on 3D scenes rather than only describe them. Existing 3D benchmarks score textual responses or single-object operations, leaving age...",
+  "description": "Vision-language model (VLM) agents increasingly use tools to act on 3D scenes rather than only describe them. Existing 3D benchmarks score textual responses or single-object operations, leaving agent action on complete multi-object 3D scenes under evaluated. We present SceneActBench, a benchmark for visually conditioned action across five 3D tasks under a unified agent-environment loop. Given PNG images or sampled video frames and, where applicable, supplied 3D assets, an agent acts on a 3D environment. We evaluate each final output against hidden ground truth with task-specific geometric m...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.22393v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-24",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2607.22393v1"
+    }
+  ],
+  "authors": [
+    "Yifei Zhao",
+    "Xiangxin Zhou",
+    "Wenhao Yang",
+    "Jiaqi Tang",
+    "Pu Jian",
+    "Huanjin Yao",
+    "Jiarui Yao",
+    "Haowei Lin",
+    "Chunchao Guo",
+    "Zhuo Chen",
+    "Wenkai Lyu",
+    "Jianzhu Ma",
+    "Xueqian Wang",
+    "Wenxi Zhu"
+  ],
+  "paperId": "2607.22393",
+  "category": "cs.AI",
+  "publishedAt": "2026-07-24",
+  "abstract": "Vision-language model (VLM) agents increasingly use tools to act on 3D scenes rather than only describe them. Existing 3D benchmarks score textual responses or single-object operations, leaving agent action on complete multi-object 3D scenes under evaluated. We present SceneActBench, a benchmark for visually conditioned action across five 3D tasks under a unified agent-environment loop. Given PNG images or sampled video frames and, where applicable, supplied 3D assets, an agent acts on a 3D environment. We evaluate each final output against hidden ground truth with task-specific geometric m..."
+}

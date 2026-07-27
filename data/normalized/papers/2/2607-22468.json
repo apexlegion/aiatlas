@@ -1,0 +1,49 @@
+{
+  "type": "paper",
+  "slug": "2607-22468",
+  "name": "Learning to Prepare Molecular Ground States with Transformer Models",
+  "summary": "Quantum state preparation is a key component of many quantum algorithms. Performing this step efficiently is essential for realizing practical quantum advantage in quantum chemistry applications. I...",
+  "description": "Quantum state preparation is a key component of many quantum algorithms. Performing this step efficiently is essential for realizing practical quantum advantage in quantum chemistry applications. Iterative algorithms like ADAPT-VQE can produce shallow ground-state preparation circuits, but become computationally prohibitive for the larger molecules relevant to materials science and pharmaceutical development. Here, we introduce ADAPT-GQE, a generative AI framework that learns to synthesize ground-state preparation circuits for electronic structure calculations. We first use ADAPT-VQE to gen...",
+  "tags": [
+    "arxiv",
+    "quant-ph"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.22468v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-24",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category quant-ph.",
+      "href": "https://arxiv.org/abs/2607.22468v1"
+    }
+  ],
+  "authors": [
+    "Alex Koziell-Pipe",
+    "Jasmine Brewer",
+    "Jem Guhit",
+    "Marwa H. Farag",
+    "Kripa Panchagnula",
+    "Gabriel Laude",
+    "Fabian Finger",
+    "Carlo Gaggioli",
+    "Ludmila Szulakowska",
+    "Oliver J. Backhouse",
+    "Christos Papalitsas",
+    "Jason G. Mustakis",
+    "Thomas Soini",
+    "David Munoz Ramo",
+    "Stephen Clark",
+    "Elica Kyoseva",
+    "Enrico Rinaldi"
+  ],
+  "paperId": "2607.22468",
+  "category": "quant-ph",
+  "publishedAt": "2026-07-24",
+  "abstract": "Quantum state preparation is a key component of many quantum algorithms. Performing this step efficiently is essential for realizing practical quantum advantage in quantum chemistry applications. Iterative algorithms like ADAPT-VQE can produce shallow ground-state preparation circuits, but become computationally prohibitive for the larger molecules relevant to materials science and pharmaceutical development. Here, we introduce ADAPT-GQE, a generative AI framework that learns to synthesize ground-state preparation circuits for electronic structure calculations. We first use ADAPT-VQE to gen..."
+}
