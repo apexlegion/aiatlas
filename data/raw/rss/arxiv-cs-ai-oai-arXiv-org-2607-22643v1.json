@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22643v1",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22643v1",
+    "title": "Reason Before You Retrieve: Agentic Planning for Multi-modal RAG",
+    "link": "https://arxiv.org/abs/2607.22643",
+    "description": "arXiv:2607.22643v1 Announce Type: new Abstract: Multimodal retrieval-augmented generation (mRAG) aims to answer image-text queries with external knowledge, but most existing systems still retrieve directly from raw multimodal input over a flat evidence space. This design often struggles with two key challenges: the retrieval target is under-specified because the question intent must be grounded to the correct visual referent, and the search space is weakly structured, forcing semantically distinct evidence to compete in a single global ranking step. We propose MM-R2, a multimodal agentic retrieval framework that reasons before retrieval by explicitly modeling both what to retrieve and where to search. MM-R2 first constructs an intent-grounded retrieval state from the image-question pair, capturing the information need, grounded referent, and retrieval constraints. It then performs retrieval over a structured KnowledgeMap, where the agent selects relevant retrieval units before issuing grounded queries within them. To enable this capability, we build MM-R2-Traj, a large-scale trajectory dataset of multi-step retrieval processes, and adopt a two-stage post-training strategy with supervised fine-tuning and GRPO. Experiments on Infoseek and Encyclopedic VQA datasets show that MM-R2 substantially outperforms strong baselines on answer accuracy while also yielding more interpretable and verifiable retrieval trajectories.",
+    "publishedAt": "2026-07-28",
+    "author": "Tianyu Yang, Shir Simon, Zhenzhen Li, Minhao Cheng, Xiangliang Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

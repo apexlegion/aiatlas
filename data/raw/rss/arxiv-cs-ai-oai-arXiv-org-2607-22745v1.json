@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22745v1",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22745v1",
+    "title": "AI-generated Images Challenge Visual Trust in High-risk Scenarios",
+    "link": "https://arxiv.org/abs/2607.22745",
+    "description": "arXiv:2607.22745v1 Announce Type: cross Abstract: Rapid advances in image generation are eroding the evidentiary value of visual content in settings where authenticity can affect public safety and personal reputation. Yet existing detection benchmarks rarely examine synthetic images in public- and individual-safety contexts, where misleading visual content may carry substantial risks. Here we introduce SafeIMG, a safety-oriented benchmark spanning 12 public- and individual-safety scenarios generated using GPT Image 2. Unlike benchmarks centred on generic imagery and image-level labels, SafeIMG evaluates not only whether detectors recognise synthetic images, but also whether their decisions reflect human-identified anomalies. To this end, SafeIMG provides human annotations that localise suspicious regions and explain local artefacts and higher-level commonsense or physical inconsistencies. We evaluate specialized synthetic-image detectors and vision-language models (VLMs), and find that neither provides reliable detection. The strongest VLM identifies only 49.5% of generated images, whereas the best specialised detector identifies 33.1%, compared with 81.7% accuracy for human evaluators. Model explanations cover only 29.8\\% of human-annotated anomalies and predominantly capture local defects in text, faces and hands. Their coverage falls to 15.0% for commonsense conflicts and 12.0% for physical inconsistencies, while detection performance deteriorates further after dissemination-induced image degradation. These findings show that current detectors lack the accuracy, explanatory alignment and robustness needed to evaluate AI-generated images reliably across public- and individual-safety settings.",
+    "publishedAt": "2026-07-28",
+    "author": "Yi-Zhi Wang, Yichen Xiao, Linan Yue, Weibo Gao, Yichao Du, Pengfei Fang, Shimin Di, Min-Ling Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

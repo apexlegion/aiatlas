@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.23058v1",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.23058v1",
+    "title": "ADAGE: A Language-Agnostic Pipeline for Analogical Reasoning Evaluation",
+    "link": "https://arxiv.org/abs/2607.23058",
+    "description": "arXiv:2607.23058v1 Announce Type: cross Abstract: Multilingual reasoning evaluation overwhelmingly relies on translating English benchmarks, a practice that introduces linguistic artifacts and fails to test culturally-grounded reasoning. We introduce ADAGE (Analogical Difficulty-by-design Assessment for Grounded Evaluation), a language-agnostic pipeline that combines native-speaker curation with LLM-assisted generation to construct challenging, translation-free benchmarks for abstract analogical reasoning. We validate ADAGE by constructing benchmarks for Arabic, Amharic, and Japanese. Evaluating 14 open-weight models, we find a consistent cultural reasoning gap: models that perform well on English proverb reasoning struggle substantially on all three native benchmarks, with accuracy dropping by 12--52 percentage points relative to English. We release the pipeline, all three benchmarks, and the full evaluation suite.",
+    "publishedAt": "2026-07-28",
+    "author": "Ahmed Haj Ahmed, Alvin Grissom II",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

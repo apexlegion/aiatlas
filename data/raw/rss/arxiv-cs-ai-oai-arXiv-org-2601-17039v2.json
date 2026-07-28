@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.17039v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.17039v2",
+    "title": "MANGO: A Global Single-Date Paired Dataset for Mangrove Segmentation",
+    "link": "https://arxiv.org/abs/2601.17039",
+    "description": "arXiv:2601.17039v2 Announce Type: replace-cross Abstract: Mangroves are critical for climate-change mitigation, requiring reliable monitoring for effective conservation. While deep learning has emerged as a powerful tool for mangrove detection, its progress is hindered by the limitations of existing datasets. In particular, many resources provide only annual map products without curated single-date image-mask pairs, limited to specific regions rather than global coverage, or remain inaccessible to the public. To address these challenges, we introduce MANGO, a large-scale global dataset comprising 42,703 labeled image-mask pairs across 124 countries. To construct this dataset, we retrieve all available Sentinel-2 imagery within the year 2020 for mangrove regions and select the best single-date observations that align with the mangrove annual mask. This selection is performed using a target detection-driven approach that leverages pixel-wise coordinate references to ensure adaptive and representative image-mask pairings. We also provide a benchmark across diverse semantic segmentation architectures under a country-disjoint split, establishing a foundation for scalable and reliable global mangrove monitoring.",
+    "publishedAt": "2026-07-28",
+    "author": "Junhyuk Heo, Beomkyu Choi, Hyunjin Shin, Darongsae Kwon",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.23295v1",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.23295v1",
+    "title": "FILLER: Feature Imputation via Latent Location Exploration and Retrieval",
+    "link": "https://arxiv.org/abs/2607.23295",
+    "description": "arXiv:2607.23295v1 Announce Type: cross Abstract: In real-world machine learning applications, incomplete observations create a fundamental challenge. Researchers have come up with several ideas to address this crucial problem. However, current models still face challenges in balancing scalability and structural consistency. This study proposes a feature imputation method, called FILLER, that deliberately searches the two-dimensional latent space produced by a generative model and fills the missing values with appropriate entries. The generative model is trained on fully observed data to generate samples from the latent space, and FILLER uses this trained model to impute the values missing in the corrupted test samples. In this study, G-NeuroDAVIS serves the purpose of the generative model. This work also presents a mathematical proof on the convergence of the iterative search. Finally, FILLER has been evaluated on several image datasets under random and structured missingness patterns with varying levels of imputation complexities. In order to justify the efficacy of FILLER, it has been compared against existing state-of-the-art solution strategies in terms of RMSE, PSNR, and SSIM. In addition, Wilcoxon signed-rank test has been carried out to validate statistical significance. Moreover, downstream analyses (classification and clustering) have also established the quality of imputation in terms of standard metrics.",
+    "publishedAt": "2026-07-28",
+    "author": "Santu Mondal, Chayan Maitra, Rajat K. De",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

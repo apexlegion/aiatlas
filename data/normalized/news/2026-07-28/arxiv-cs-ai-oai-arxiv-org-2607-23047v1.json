@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-23047v1",
+  "name": "MixQuant: Adaptive Mixed-Precision Quantization for Large Language Models",
+  "summary": "arXiv:2607.23047v1 Announce Type: cross Abstract: Mixed-precision quantization improves the accuracy of post-training quantization by allocating higher bitwidths to sensitive layers, but existing m...",
+  "description": "arXiv:2607.23047v1 Announce Type: cross Abstract: Mixed-precision quantization improves the accuracy of post-training quantization by allocating higher bitwidths to sensitive layers, but existing methods solve the allocation for a single fixed memory budget. In practice the budget varies across deployments and is unknown at calibration time. Adaptive quantization addresses this with one offline...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.23047"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-28",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.23047"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-07-28",
+  "expiryAt": "2026-08-27T00:00:00.000Z",
+  "author": "Ashitabh Misra, Madhav Agrawal, Arham Jain, Tarek Abdelzaher"
+}

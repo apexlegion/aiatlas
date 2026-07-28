@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.23513v1",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.23513v1",
+    "title": "Do Diagrams Help Large Language Models Reason? Evidence from Syllogistic Reasoning",
+    "link": "https://arxiv.org/abs/2607.23513",
+    "description": "arXiv:2607.23513v1 Announce Type: cross Abstract: Diagrams are widely used to support logical reasoning, and prior studies suggest that representations such as Euler diagrams can improve human reasoning performance. Recent work has also explored their effects on large language models (LLMs). In this paper, we compare four representational conditions for syllogistic reasoning: natural language, logical notation, linear diagrams, and Euler diagrams. Using 285 problems from Ando et al. (2024), we evaluate two contemporary LLMs, Claude 3.5~Sonnet and GPT-4o-mini. Our results show that diagrammatic representations do not consistently improve performance. Although the models perform well on entailment and contradiction problems, they struggle with neutral problems and often make systematic conversion errors. Overall, the results suggest that the tested models gain limited benefit from diagrams in logical reasoning tasks.",
+    "publishedAt": "2026-07-28",
+    "author": "Risako Ando, Koji Mineshima",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

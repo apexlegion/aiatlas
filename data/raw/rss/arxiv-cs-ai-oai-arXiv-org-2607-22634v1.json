@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22634v1",
+  "fetchedAt": "2026-07-28T05:22:03.387Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22634v1",
+    "title": "PRESTO: Prefix-Aligned Tree Drafting for Diffusion Speculative Decoding",
+    "link": "https://arxiv.org/abs/2607.22634",
+    "description": "arXiv:2607.22634v1 Announce Type: new Abstract: Diffusion Large Language Models (dLLMs) have emerged as a promising alternative to autoregressive (AR) LLMs, generating tokens in parallel. This makes them effective draft models for speculative decoding (SD), producing an entire block of draft tokens in a single forward pass. Yet existing diffusion-based drafting methods rely on linear drafting, even though dLLMs emit multiple candidate tokens across positions, inducing a large combinatorial space of decoding paths. Consequently, they limit acceptance length and decoding efficiency. To exploit this multi-candidate structure, we apply tree-based drafting to diffusion drafters, enabling exploration of diverse candidate paths. However, we find that naive tree drafting is suboptimal: diffusion marginals are prefix-blind, mismatching the prefix-based AR verification and yielding unreliable path ranking. We propose PRESTO, a principled framework that extends tree-based drafting to diffusion drafters while resolving the fundamental mismatch between diffusion draft confidence and prefix-based AR verification through PREfix-aligned Scoring and priority-based Tree search for diffusion speculative decOding. The key principles behind PRESTO are that (1) candidate ranking should align with the prefix-based nature of AR verification, and (2) tree construction should prioritize candidate paths with high verification potential to maximize acceptance length. Extensive experiments show that PRESTO achieves up to an average of $1.5\\times$ end-to-end throughput speedup on the state-of-the-art dedicated diffusion drafter SD and an average of $1.12\\times$ on self-speculative diffusion LLMs across diverse benchmarks.",
+    "publishedAt": "2026-07-28",
+    "author": "Zheng Wang, Zhifan Ye, Qi Cheng, Yonggan Fu, Ziyan Wang, Feng Zhu, Haozhe Zhao, Jan Kautz, Pavlo Molchanov, Humphrey Shi, Minjia Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

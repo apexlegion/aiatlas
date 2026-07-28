@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-24667v1",
+  "name": "Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating",
+  "summary": "arXiv:2607.24667v1 Announce Type: new Abstract: A language model with a bounded working memory must repeatedly decide which stored items to keep. Every deployed method decides the moment an item ar...",
+  "description": "arXiv:2607.24667v1 Announce Type: new Abstract: A language model with a bounded working memory must repeatedly decide which stored items to keep. Every deployed method decides the moment an item arrives, from the past (StreamingLLM, H2O) or from a guess about the future (SnapKV). We recast the choice as an estimation problem on a hidden signal, whether an item will be reused, placing existing m...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.24667"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-28",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.24667"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-07-28",
+  "expiryAt": "2026-08-27T00:00:00.000Z",
+  "author": "Maruthi Vemula, Neeraj Praneeth Gajula"
+}

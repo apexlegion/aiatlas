@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22749v1",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22749v1",
+    "title": "Post-Operative Glioma Segmentation via Loss Stabilization, Normalization and Subspace Attention",
+    "link": "https://arxiv.org/abs/2607.22749",
+    "description": "arXiv:2607.22749v1 Announce Type: cross Abstract: Tracking residual tumor after surgery is essential for catching recurrence early, but automating post-operative glioma segmentation remains a difficult task. Although transformer-based architectures, such as SwinUNETR, achieved impressive results, few studies test how well they generalize across clinical protocols. In this paper, we conduct an ablation study on the MU-GLIOMA-POST and UCSF-ALPTDG datasets and show that the standard Generalized Dice Loss (GDL) is unstable under domain shift: the Whole Lesion (WL) Dice drops from 0.88 on the internal validation set to 0.73 on the external UCSF test set. To address this, we pair brain-masked percentile normalization with voxel-level contrastive learning. We also propose a Subspace-Aware Class Attention (SACA) module that re-calibrates the bottleneck features and raises Enhancing Tumor (ET) sensitivity by 8% (9.1% relative improvement) on internal validation. Ensembling these refinements with nnU-Net brings every stable configuration to a WL Dice of 0.94, and the SACA variant ensemble achieves the best boundary error (HD95) of 2.92 mm on MU-GLIOMA-POST.",
+    "publishedAt": "2026-07-28",
+    "author": "Alexandru Cri\\c{s}an, Diana Borza",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

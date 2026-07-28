@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22722v1",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22722v1",
+    "title": "A New Kind of Adversarial Example: Measuring the Human-Model Gap, and Its Relationship to OOD Detection",
+    "link": "https://arxiv.org/abs/2607.22722",
+    "description": "arXiv:2607.22722v1 Announce Type: cross Abstract: Almost all adversarial attacks add an imperceptible perturbation to fool a model. We instead study the opposite: a large, clearly visible perturbation that causes the model to keep its original, correct prediction, even though a human would no longer recognize the image. Prior work showed such examples can be generated at scale but left three questions untested: whether humans really perform worse than the model, whether standard out-of-distribution (OOD) detection and calibration tools catch it, and whether existing defenses mitigate it. We answer all three on MNIST, CIFAR-10, and ImageNet. (i) An independent recognizer proxy drops to ~49% on CIFAR-10 while the model stays at 100% -- a gap a small human pilot (N=5) corroborates directly and that is not explained by signal loss (a matched-magnitude Gaussian control degrades recognizability faster); a CLIP zero-shot proxy confirms the gap at ImageNet scale too. (ii) Confidence- and energy-based OOD detectors and calibration are structurally blind (0% detection, ECE ~= 0), while a feature-space Mahalanobis detector flags 100% -- but is evaded by an adaptive attacker at no cost to success. (iii) No classical defense, including adversarial training (45% robust accuracy), reduces attack success (correlation with large-epsilon_l resistance r ~= 0). A mechanistic analysis further shows the attack destroys low-level texture far faster than edge/shape structure.",
+    "publishedAt": "2026-07-28",
+    "author": "Ali Borji",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

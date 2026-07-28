@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2607-24683",
+  "name": "Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification",
+  "summary": "Multi-modal classification leverages complementary information across diverse data sources to enhance predictive performance. However, real-world scenarios subject to operational constraints, such...",
+  "description": "Multi-modal classification leverages complementary information across diverse data sources to enhance predictive performance. However, real-world scenarios subject to operational constraints, such as sensor failures or privacy restrictions, lead to inconsistent modality availability between training and inference times. To handle missing modalities, prior studies have mainly covered bimodal data setups and focused on designing robust fusion processes. Instead, we adopt a multi-modal co-learning framework that prioritizes inter-modal collaboration rather than multi-modal fusion. Specifically...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.24683v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-27",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2607.24683v1"
+    }
+  ],
+  "authors": [
+    "Francisco Mena",
+    "Dino Ienco",
+    "Roberto Interdonato",
+    "Cassio F. Dantas",
+    "Simon Besnard"
+  ],
+  "paperId": "2607.24683",
+  "category": "cs.CV",
+  "publishedAt": "2026-07-27",
+  "abstract": "Multi-modal classification leverages complementary information across diverse data sources to enhance predictive performance. However, real-world scenarios subject to operational constraints, such as sensor failures or privacy restrictions, lead to inconsistent modality availability between training and inference times. To handle missing modalities, prior studies have mainly covered bimodal data setups and focused on designing robust fusion processes. Instead, we adopt a multi-modal co-learning framework that prioritizes inter-modal collaboration rather than multi-modal fusion. Specifically..."
+}

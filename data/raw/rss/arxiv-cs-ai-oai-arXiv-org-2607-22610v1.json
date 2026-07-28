@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22610v1",
+  "fetchedAt": "2026-07-28T05:22:03.387Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22610v1",
+    "title": "Tokengeist: Multi-Turn Attribution Tracing in Agentic Conversations",
+    "link": "https://arxiv.org/abs/2607.22610",
+    "description": "arXiv:2607.22610v1 Announce Type: new Abstract: When a language model produces a response in a multi-turn conversation, which tokens from prior turns shaped that answer, and how did those dependencies propagate across prior turns? Existing context attribution methods process the full context in a single pass, recovering surface-level dependencies but missing the layered, non-linear structure of real-world dialogues and multi-step reasoning tasks. We introduce multi-turn context attribution (MTCA): given a target span in a model response, the task of tracing attribution backward across turns to identify not only which prior turns were directly relevant, but also how those turns themselves depended on earlier context. We propose Tokengeist, an attribution-method-agnostic and scalable framework that recovers full dependency paths by casting attribution as a recursive traversal of a directed acyclic graph (DAG) over conversation turns. We will release MTCABench, a benchmark of 3,845 target spans across 665 multi-turn conversations, annotated with gold provenance graphs reaching depths of up to 14, across four dependency types. Across four open-weight models, flat attribution methods fail to recover multi-hop dependencies, achieving under 20% source recall, while Tokengeist reaches 90%. Our results reveal systematic failure modes of single-pass attribution -- which we term provenance collapse -- and motivate attribution methods that reason recursively across turns.",
+    "publishedAt": "2026-07-28",
+    "author": "Jessica Tang, Shraddha Barke, Sharad Agarwal",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

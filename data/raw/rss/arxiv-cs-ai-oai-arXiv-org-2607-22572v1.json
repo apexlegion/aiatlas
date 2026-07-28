@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22572v1",
+  "fetchedAt": "2026-07-28T05:22:03.387Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22572v1",
+    "title": "Schema-Aware Localisation (SAL): Live Schema Grounding and Hallucination Validation for Oracle NL2SQL",
+    "link": "https://arxiv.org/abs/2607.22572",
+    "description": "arXiv:2607.22572v1 Announce Type: new Abstract: Large language models can generate fluent SQL from natural language, but on real enterprise Oracle databases they frequently fail at execution time: columns and aliases are hallucinated and dialect-specific syntax is missed, leading to ORA-00904 invalid-identifier errors. In this setting, failures are primarily due to missing schema grounding: the model cannot know which tables and columns actually exist. This paper introduces Schema-Aware Localisation (SAL), a lightweight middleware layer for Oracle NL2SQL that requires no model retraining. SAL queries Oracle's USER_TAB_COLUMNS catalog to build a live schema map, selects a relevant table subset for each question (falling back to the full schema for multi-table queries), and injects this ground-truth context into the LLM prompt. Generated SQL is then checked by the Hallucination Index (Hidx), which validates every alias.column reference against the live catalog, automatically rewrites predictable prefix errors, and otherwise triggers a structured retry with itemised corrections. We evaluate SAL on 500 TPC-H natural language questions executed against a live Oracle Autonomous Database 23c instance using GPT-4o-mini. Without any schema grounding, execution-grounded truth (EGT; executes and matches the reference result set) is 2.2% (12/500). A hand-written static schema hint brings EGT to 62.0%. SAL, with no manual schema curation, achieves 62.6% EGT (96% simple, 95% medium, 40.7% complex) while reducing execution failures from 97.6% to 2.6%.",
+    "publishedAt": "2026-07-28",
+    "author": "Sanjay Mishra, Divya Chukkapalli, Ganesh R. Naik",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

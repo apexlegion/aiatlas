@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22684v1",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22684v1",
+    "title": "Towards Nexus-Score: Metadata Gaps Limit Scholarly AI Attribution",
+    "link": "https://arxiv.org/abs/2607.22684",
+    "description": "arXiv:2607.22684v1 Announce Type: cross Abstract: Artificial intelligence systems increasingly mediate how science is found and credited. We asked whether missing metadata prevents AI systems from crediting work. As a boundary test, an AI system citing without access to task-relevant paper lists often produced out-of-list identifiers, some fabricated. We then tested the mechanism in real scholarly infrastructure by using OpenAlex records to hide or restore author, institution, funder, reference, and text-access links while holding works and tasks fixed. Restoring the relevant link made the corresponding attribution possible; restoring the wrong kind did not, with 0 correct answers across 469 completed mismatched tests. Thus, in these tasks, one metadata facet did not substitute for another. Missing links led to invented answers, refusals, or tool-budget exhaustion, and web search did not recover hidden author links. In sum, AI systems credited work only when record connections were visible or recoverable. This motivates Nexus-Score, a record-level check for metadata gaps, to guide repair and help prepare the scholarly record for AI-mediated use.",
+    "publishedAt": "2026-07-28",
+    "author": "Aadi Narayana Varma Dantuluri, Sushrut Thorat, Paras Chopra",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

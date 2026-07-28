@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22621v1",
+  "fetchedAt": "2026-07-28T05:22:03.387Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22621v1",
+    "title": "Opti-Q: A Constraint-Based Optimization Framework for Multi-LLM Question Planning",
+    "link": "https://arxiv.org/abs/2607.22621",
+    "description": "arXiv:2607.22621v1 Announce Type: new Abstract: While large language models (LLMs) enable strong question answering (QA), budgeted deployment is complicated by nondeterminism and heterogeneous resource profiles (cost, latency, and energy). We present OPTI-Q, a database-inspired, cost-based optimizer that implements a plan-before-execute paradigm for multi-LLM orchestration. OPTI-Q models LLM invocations as physical operators in an execution DAG and, for each question, searches for plans that optimize answer quality (QoA) while trading off financial cost, latency, and energy under user-specified resource constraints. Plans can include sequential operators that pass intermediate answers as context and parallel/blend operators that run models concurrently and merge their outputs. To search this space without executing each candidate plan, OPTI-Q uses PERFDB, a statistics catalog populated and refreshed from benchmarks and execution traces, to estimate the QoA and resource costs of both individual operators and composed subplans. Using these estimates, OPTI-Q performs Pareto-frontier search and selects a final plan based on user preferences. On MMLU-Pro and SimpleQA under user-specified budgets, OPTI-Q improves average QoA by ~58% and ~41% over baselines at comparable cost, demonstrating that database-style planning yields better quality-resource trade-offs for multi-LLM QA.",
+    "publishedAt": "2026-07-28",
+    "author": "Aamir Hamid, Bharg Barot, Satvik Racharla, Tim Finin, Primal Pappachan, Roberto Yus",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

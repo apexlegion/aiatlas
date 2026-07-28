@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2505.04260v3",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2505.04260v3",
+    "title": "Steerable Chatbots: Exploring Personalization Control Interfaces via LLM Activation Steering",
+    "link": "https://arxiv.org/abs/2505.04260",
+    "description": "arXiv:2505.04260v3 Announce Type: replace-cross Abstract: Personalizing LLM responses typically requires users to articulate their preferences through prompting, which can be burdensome at cold start and difficult to articulate in natural language. We introduce an alternative paradigm, steerable chatbots: rather than asking users to describe what they want, let them directly manipulate it via a linear factor. We implement this through activation steering, leveraging a linear scalar to control how strongly a preference is expressed in the LLM's output. We first assess the computational viability of activation steering as a method to control granular preference expression, then we explore how the factor can be exposed to users. We prototype three activation steering interface designs that vary on the axes of agency (user-led vs. system-driven) and fluidity (static vs. adaptive). A within-subjects user study (n=14) in cold-start personalization tasks shows the potential for steerable chatbots to align better with underlying user preferences than prompting alone, while revealing heterogeneous values around control, persistence, and transparency in LLM personalization.",
+    "publishedAt": "2026-07-28",
+    "author": "Jessica Y. Bo, Tianyu Xu, Ishan Chatterjee, Katrina Passarella-Ward, Achin Kulshrestha, D Shin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

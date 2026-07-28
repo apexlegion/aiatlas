@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22646v1",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22646v1",
+    "title": "Extracting Algorithms in Pre-trained LLMs: A Case on Hidden Markov Models",
+    "link": "https://arxiv.org/abs/2607.22646",
+    "description": "arXiv:2607.22646v1 Announce Type: new Abstract: Large language models (LLMs) display a striking ability to predict next observations from Hidden Markov Models (HMMs) via in-context learning (ICL), but the algorithm underlying this capability remains undetermined: prior work has proposed several candidates without consensus, and none has been grounded in the model's internal activations. We close this gap with a three-stage pipeline. First, we empirically compare LLM behavior against a suite of candidate algorithms and narrow the space to three classes -- though no single class explains LLM behavior across all HMM settings and sequence lengths. Second, we derive theoretical connections between the three classes and show how each can be implemented in-context by a Transformer, validating the construction in a small trained Transformer. Third, returning to pre-trained LLMs, we introduce the Principal Activations Probe (PAP), a layer-wise probing and intervention method that isolates algorithmic signals in model activations. PAP reveals low-dimensional linear representations that causally drive model predictions and track empirical ICL performance. PAP further reveals how these representations shift with properties of the underlying HMM regime; distinct computational stages are localized to different layers. Together, our results connect the in-context behavior of pre-trained LLMs to the underlying internal mechanisms and advance our understanding of how LLMs perform ICL on HMMs.",
+    "publishedAt": "2026-07-28",
+    "author": "Yijia Dai, Zhaolin Gao, Yahya Sattar, Jennifer J. Sun, Sarah Dean",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

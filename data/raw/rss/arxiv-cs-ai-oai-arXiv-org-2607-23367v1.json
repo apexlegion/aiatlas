@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.23367v1",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.23367v1",
+    "title": "Fair Division with Strictly Increasing Valuations: A Tight Threshold for Two-Agent EF1 and PO",
+    "link": "https://arxiv.org/abs/2607.23367",
+    "description": "arXiv:2607.23367v1 Announce Type: cross Abstract: We study whether strictly positive marginal values restore the compatibility of envy-freeness up to one good (EF1) and Pareto optimality (PO) for indivisible goods. For two agents, we identify the exact threshold in the number of goods. Every instance with at most seven goods and strictly increasing valuations admits an allocation that is both EF1 and PO, without any submodularity assumption. In contrast, we construct an eight-good instance with normalized, integer-valued, strictly increasing, submodular valuations in which every EF1 allocation is strictly Pareto dominated. Thus, eight goods are necessary and sufficient for a two-agent counterexample. Finally, we strengthen the three-agent NP-hardness result of Chandramouleeswaran and Nimbhorkar (2026): deciding whether an EF1 and PO allocation exists remains NP-hard for normalized, integer-valued, monotone submodular valuations even when zero marginals are confined to eight fixed agent-good pairs, all involving a single agent.",
+    "publishedAt": "2026-07-28",
+    "author": "Nicholas Teh",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

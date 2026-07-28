@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2607-24692",
+  "name": "Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines",
+  "summary": "Inference systems increasingly combine a fast path that returns predictions within the application's latency deadline together with a higher-accuracy slow path that runs higher-compute methods on s...",
+  "description": "Inference systems increasingly combine a fast path that returns predictions within the application's latency deadline together with a higher-accuracy slow path that runs higher-compute methods on stronger, remote hardware, so its results can be returned on time and combined with the fast path predictions. Across several application domains, we abstract this inference architecture as a fast path, a slow path, and a coordination layer with two functions: a router that invokes the slow path and a merger that decides whether to incorporate its returned predictions. In this work, we show that th...",
+  "tags": [
+    "arxiv",
+    "cs.NI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.24692v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-27",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.NI.",
+      "href": "https://arxiv.org/abs/2607.24692v1"
+    }
+  ],
+  "authors": [
+    "Jhonatan Tavori",
+    "Gur-Eyal Sela",
+    "Ion Stoica",
+    "Gil Zussman"
+  ],
+  "paperId": "2607.24692",
+  "category": "cs.NI",
+  "publishedAt": "2026-07-27",
+  "abstract": "Inference systems increasingly combine a fast path that returns predictions within the application's latency deadline together with a higher-accuracy slow path that runs higher-compute methods on stronger, remote hardware, so its results can be returned on time and combined with the fast path predictions. Across several application domains, we abstract this inference architecture as a fast path, a slow path, and a coordination layer with two functions: a router that invokes the slow path and a merger that decides whether to incorporate its returned predictions. In this work, we show that th..."
+}

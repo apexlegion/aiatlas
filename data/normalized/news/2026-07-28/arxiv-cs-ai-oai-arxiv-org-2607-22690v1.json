@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-22690v1",
+  "name": "LazyMem: Retrieve Broadly, Construct Selectively for Efficient Long-Term Agent Memory",
+  "summary": "arXiv:2607.22690v1 Announce Type: new Abstract: Long-term memory lets LLM agents reuse past interactions, but raw dialogue histories are verbose and information-sparse. Retrieving broadly improves...",
+  "description": "arXiv:2607.22690v1 Announce Type: new Abstract: Long-term memory lets LLM agents reuse past interactions, but raw dialogue histories are verbose and information-sparse. Retrieving broadly improves evidence coverage yet overwhelms downstream reasoning with noise; compressing at write time reduces noise but irreversibly discards details the future query may need. We introduce LazyMem, which sides...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.22690"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-28",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.22690"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-07-28",
+  "expiryAt": "2026-08-27T00:00:00.000Z",
+  "author": "Jing Yu, Yibo Zhao, Jiaming Zhang, Xiang Li"
+}

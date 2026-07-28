@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.24259v1",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.24259v1",
+    "title": "Generative Artificial Intelligence (GenAI) to convert images of queuing networks into verifiable simulation models: an open-weight LLM workflow approach",
+    "link": "https://arxiv.org/abs/2607.24259",
+    "description": "arXiv:2607.24259v1 Announce Type: new Abstract: Recent work has explored the use of Large Language Models (LLMs) to automate simulation model building, typically by generating executable code directly from natural language descriptions. However, this raises challenges for verification and reproducibility particularly for users without programming expertise. We propose Sketch2DES, a sketch-to-simulation workflow that converts diagrammatic representations of queuing networks into verifiable discrete-event simulation models using open-weight LLMs. The workflow has three stages: (1) translation of a diagram into a semi-structured textual description using a multimodal LLM; (2) conversion into schema-validated structured data (JSON) via an LLM with a reflection-based verification loop; and (3) deterministic transformation into an executable simulation model using a software adapter. Intermediate artefacts can therefore be inspected and automatically validated before execution. We evaluate the approach on eight queuing-network diagrams of varying complexity. The workflow achieved high reliability for all stages, and results were statistically indistinguishable from human-coded and analytical benchmarks. Compared to direct code generation, the workflow improves reproducibility, transparency, and verifiability, while reducing the need for programming expertise. Limitations include restricted model scope and dependence on accurate visual interpretation. The results demonstrate the feasibility of structured, workflow-based model generation as a robust foundation for LLM-assisted simulation modelling.",
+    "publishedAt": "2026-07-28",
+    "author": "Thomas Monks, Alison Harper, Amy Heather, Navonil Mustafee",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

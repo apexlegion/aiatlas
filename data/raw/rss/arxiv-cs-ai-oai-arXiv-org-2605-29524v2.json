@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.29524v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.29524v2",
+    "title": "KBF: Knowledge Boundary as Fingerprint for Language Model and Black-Box API Auditing",
+    "link": "https://arxiv.org/abs/2605.29524",
+    "description": "arXiv:2605.29524v2 Announce Type: replace-cross Abstract: Relay and reseller APIs increasingly intermediate access to large language models (LLMs), but users have no direct way to verify that a claimed endpoint is actually serving the advertised model. We introduce KBF, a low-cost black-box auditing protocol that fingerprints model APIs using stable numerical recall near the knowledge boundary. Across 16 production LLM endpoints, KBF flags all 155 economically relevant substitutions without rejecting any same-model controls, remains stable under deployment variation, detects high-separation mixed-routing attacks when only 5-10% of traffic is substituted, and finds that 7 of 27 platform model cells in a six-platform shadow API audit are statistically inconsistent with their reference endpoints, with inconsistencies concentrated on premium Claude endpoints.",
+    "publishedAt": "2026-07-28",
+    "author": "Yijia Fang, Yiqing Feng, Bingyu Li, Mingxun Zhou",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

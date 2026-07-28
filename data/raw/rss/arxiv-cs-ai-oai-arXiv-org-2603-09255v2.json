@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.09255v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.09255v2",
+    "title": "Multi-model approach for autonomous driving: A comprehensive study on traffic sign-, vehicle- and lane detection and behavioral cloning",
+    "link": "https://arxiv.org/abs/2603.09255",
+    "description": "arXiv:2603.09255v2 Announce Type: replace-cross Abstract: Deep learning and computer vision techniques have become increasingly important in the development of self-driving cars. These techniques play a crucial role in enabling self-driving cars to perceive and understand their surroundings, allowing them to safely navigate and make decisions in real-time. Using Neural Networks self-driving cars can accurately identify and classify objects such as pedestrians, other vehicles, and traffic signals. Using deep learning and analyzing data from sensors such as cameras and radar, self-driving cars can predict the likely movement of other objects and plan their own actions accordingly. In this study, a novel approach to enhance the performance of self-driving cars by using pre-trained and custom-made neural networks for key tasks, including traffic sign classification, vehicle detection, lane detection, and behavioral cloning is provided. The methodology integrates several innovative techniques, such as geometric and color transformations for data augmentation, image normalization, and transfer learning for feature extraction. These techniques are applied to diverse datasets, including the German Traffic Sign Recognition Benchmark (GTSRB), road and lane segmentation datasets, vehicle detection datasets, and data collected using the Udacity self-driving car simulator to evaluate the model efficacy. The primary objective of the work is to review the state-of-the-art in deep learning and computer vision for self-driving cars. The findings of the work are effective in solving various challenges related to self-driving cars like traffic sign classification, lane prediction, vehicle detection, and behavioral cloning, and provide valuable insights into improving the robustness and reliability of autonomous systems, paving the way for future research and deployment of safer and more efficient self-driving technologies.",
+    "publishedAt": "2026-07-28",
+    "author": "Kanishkha Jaisankar, Pranav M. Pawar, Diana Susan Joseph, Raja Muthalagu, Mithun Mukherjee, Dnyaneshawar Mantri, Ramjee Prasad",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

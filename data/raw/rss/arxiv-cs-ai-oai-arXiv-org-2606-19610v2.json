@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.19610v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.19610v2",
+    "title": "Latent Confounded Causal Discovery via Lie Bracket Geometry",
+    "link": "https://arxiv.org/abs/2606.19610",
+    "description": "arXiv:2606.19610v2 Announce Type: replace-cross Abstract: We study causal discovery from observational and interventional regimes when latent variables may affect the measured system. Our first algorithm, BRIDGE (Bracket Residuals for Interventional Discovery and Geometric Estimation), combines a density-ratio or transport engine with a high-recall geometric screen and passes the retained arrows to a score-based or differentiable discovery method. The main formulation and experiments use known single-node intervention targets; in that regime the screen is designed to retain candidate directed effects, while a downstream learner determines the final graph or equivalence-class representation. Our second algorithm, Spectral Kernel Flow Matching (SKFM), amortizes the response fields, summarizes residual nonclosure by a spectral visible-footprint subspace, and applies an order-dependent graph extractor. Direct extraction succeeds on calibrated chains and selected motifs, but is unstable on harder random DAGs when the order must be learned. On ten-node nonlinear random DAGs, the more reliable hybrid role of the geometry is as a candidate generator: calibrated SKFM/Bridge fields followed by local BIC scoring achieve mean directed $F_1\\simeq0.86$. Sachs protein signaling provides a real-data stress test and supports a diagnostic, not fully identified, interpretation. The contribution is therefore a practical interventional screening pipeline, explicit guarantees for screen retention and residual-footprint rank under stated assumptions, and a falsifiable account of the boundary between geometric diagnostics and causal identification.",
+    "publishedAt": "2026-07-28",
+    "author": "Sridhar Mahadevan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

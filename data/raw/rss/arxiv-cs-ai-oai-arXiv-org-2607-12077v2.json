@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.12077v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.12077v2",
+    "title": "Graph Feedback Controls Consensus and Clique Formation in Open-Weight Language-Model Populations",
+    "link": "https://arxiv.org/abs/2607.12077",
+    "description": "arXiv:2607.12077v2 Announce Type: replace Abstract: Multi-agent language-model (LM) systems often determine which agents communicate, yet routing is usually treated as an implementation detail. We ask whether routing itself determines whether a population converges on a shared convention or fragments into persistent cliques. We study open-weight agents spanning 1.1B-32B parameters in a controlled naming game, tracking both emitted labels and full first-token preference distributions over the allowed labels. Similarity-based routing can isolate emerging conventions and sustain fragmentation even when every agent interacts in every round. Matched controls show that this effect is not explained solely by uneven participation or model-family-specific score preferences: random rematching and policies that connect disagreeing groups improve coordination when partner-label history is retained, but not when it is absent. Exposure alone is nevertheless insufficient, as some mixed-model populations remain divided despite frequent cross-family interaction, although the same models coordinate homogeneously. Trajectory and controlled-history analyses further distinguish reaching consensus from maintaining it. Finally, ARC-Challenge and MMLU experiments show that routing changes how correct and incorrect answers propagate without reliably improving accuracy. These results establish the runtime interaction graph as a causal design variable whose effects depend jointly on memory, model response, and population composition.",
+    "publishedAt": "2026-07-28",
+    "author": "Samer Saab Jr, Chaouki Abdallah",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

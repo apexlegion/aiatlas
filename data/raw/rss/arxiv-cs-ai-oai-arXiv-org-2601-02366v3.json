@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.02366v3",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.02366v3",
+    "title": "TextBridgeGNN: Pre-training Graph Neural Network for Cross-Domain Recommendation via Text-Guided Transfer",
+    "link": "https://arxiv.org/abs/2601.02366",
+    "description": "arXiv:2601.02366v3 Announce Type: replace-cross Abstract: Graph-based recommendation has achieved great success in recent years. The classical graph recommendation model utilizes ID embedding to store essential collaborative information. However, this ID-based paradigm faces challenges in transferring to a new domain. This phenomenon primarily stems from two inherent challenges: (1) the non-transferability of ID embeddings due to isolated domain-specific ID spaces, and (2) structural incompatibility between heterogeneous interaction graphs across domains. To address these issues, we propose TextBridgeGNN, a pre-training and fine-tuning framework that can effectively transfer knowledge from a pre-trained GNN to downstream tasks. Specifically, TextBridgeGNN uses text as a semantic bridge to connect domains through multi-level graph propagation. During the pre-training stage, hierarchical GNNs are designed to learn both domain-specific and domain-global knowledge with text features, ensuring the retention of collaborative signals and the enhancement of semantics. During the fine-tuning stage, a similarity transfer mechanism initializes ID embeddings in the target domain by transferring from semantically related nodes, successfully transferring the ID embeddings and graph pattern. Experiments demonstrate that TextBridgeGNN consistently achieves strong overall performance across cross-domain, multi-domain, and training-free scenarios, without costly language model fine-tuning or real-time inference overhead.",
+    "publishedAt": "2026-07-28",
+    "author": "Yiwen Chen, Yiqing Wu, Huishi Luo, Fuzhen Zhuang, Deqing Wang, Zhao Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

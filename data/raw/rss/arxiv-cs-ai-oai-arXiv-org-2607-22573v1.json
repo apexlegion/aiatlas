@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22573v1",
+  "fetchedAt": "2026-07-28T05:22:03.387Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22573v1",
+    "title": "PhononBench-MP40: a spectrum-resolved benchmark dataset for phonon stability",
+    "link": "https://arxiv.org/abs/2607.22573",
+    "description": "arXiv:2607.22573v1 Announce Type: new Abstract: Imaginary phonon modes remain a practical bottleneck in computational materials screening because otherwise plausible structures can be locally dynamically unstable under a chosen workflow. Here we present PhononBench-MP40, a spectrum-resolved benchmark dataset of Materials Project-derived crystals for workflow-defined phonon stability. The dataset starts from 47,969 MP40 workflow tasks and provides 46,899 completed records with paired stability labels and local phonopy YAML spectra, including 16,683 Stable records and 30,216 completed-phonon unstable records. A further 1,067 relaxation failures are reported separately rather than merged into the completed phonon denominator. The release centers on the local YAML spectrum: the stability label, the lowest sampled frequency and any threshold-dependent relabeling are derived from that spectrum. The dataset is openly available through Science Data Bank at https://doi.org/10.57760/sciencedb.38735. A companion GitHub repository provides the calculation code and lightweight access utilities. PhononBench-MP40 provides an auditable reference for workflow-defined stability classification, minimum-frequency analysis, threshold studies and failure-aware triage, while keeping the reference workflow, data schema and interpretation boundaries explicit.",
+    "publishedAt": "2026-07-28",
+    "author": "Wen-Kao Li, Ze-Feng Gao, Zhong-Yi Lu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

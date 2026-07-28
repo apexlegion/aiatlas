@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22591v1",
+  "fetchedAt": "2026-07-28T05:22:03.387Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22591v1",
+    "title": "Lexical discovery in unknown environments orchestrated by Large Language Models",
+    "link": "https://arxiv.org/abs/2607.22591",
+    "description": "arXiv:2607.22591v1 Announce Type: new Abstract: Populations of autonomous agents deployed in unknown environments (e.g. planetary or deep-sea exploration) must develop shared vocabularies to refer to entities that have no name in any human language. We propose the Neuro-Symbolic Lexical Discovery (NSLD) framework, in which a population of LLM-based agents plays a referential game over out-of-distribution visual referents, autonomously self-organising a shared alien lexicon. Each agent combines a frozen CLIP vision encoder with a private FAISS vector index and a text-only LLM. Crucially, discovered alien words are anchored to natural language via semantic proximity in the embedding space, enlarging the human vocabulary with new perceptually grounded words. Consensus is reached in simulations with populations of up to twenty agents and ten visual referents. Convergence dynamics are characterised through three analytical models achieving R^2 &gt; 0.95, representing a first step towards pre-deployment planning in autonomous exploration missions.",
+    "publishedAt": "2026-07-28",
+    "author": "Rafael Sendra-Arranz, I\\~naki Dellibarda Varela, Eduardo Rocon, \\'Alvaro Guti\\'errez, Manuel Cebrian",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

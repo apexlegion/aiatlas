@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-22577v1",
+  "name": "cMoLLM at Scale: Horizontal Scaling Laws for Mixture-of-LLMs",
+  "summary": "arXiv:2607.22577v1 Announce Type: new Abstract: Scaling large language models (LLMs) has driven their success, yet dense Transformers couple capacity and computation: every parameter is activated f...",
+  "description": "arXiv:2607.22577v1 Announce Type: new Abstract: Scaling large language models (LLMs) has driven their success, yet dense Transformers couple capacity and computation: every parameter is activated for every token, making training and inference costs grow linearly with model size-a critical bottleneck as models approach trillion-parameter regimes. We aim to scale capacity through MoE-style mixtur...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.22577"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-28",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.22577"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-07-28",
+  "expiryAt": "2026-08-27T00:00:00.000Z",
+  "author": "Xin Yang, Yemin Wang, Mingda Liu, Letian Li, Shuaishuai Cao, Zhengxiao He, Ryan Dong"
+}

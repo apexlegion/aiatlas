@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.24941v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.24941v2",
+    "title": "EmotionAI: A Privacy-Preserving Computational Intelligence Pipeline for Speech-Emotion-Grounded Conversational Analysis",
+    "link": "https://arxiv.org/abs/2606.24941",
+    "description": "arXiv:2606.24941v2 Announce Type: replace-cross Abstract: Reviewing recorded interviews for affective cues such as composure and agitation is slow and subjective, and cloud services that could automate the task require sensitive audio to leave the device. EmotionAI is a fully local Computational Intelligence (CI) pipeline that couples Speech Emotion Recognition (SER) with generative reasoning. Speaker diarisation, Whisper Automatic Speech Recognition (ASR) and a wav2vec2 emotion classifier produce per-segment affective evidence, and an adversarial three-model local Large Language Model (LLM) panel turns that evidence into timestamp-grounded, citation-constrained answers. Zero-shot evaluation on the RAVDESS four-class English subset (n = 672) measures the cost of cross-corpus transfer: the deployed classifier scores 48.8% accuracy, above random (24.9%) and majority (28.6%) baselines but below an in-domain MFCC + logistic-regression comparator (71.0%). The complete pipeline runs in a mean 157 s on CPU (real-time factor approximately 1.33) with zero external calls. The contribution is not state-of-the-art SER but an auditable, privacy-preserving integration of imperfect affective evidence into grounded conversational analysis.",
+    "publishedAt": "2026-07-28",
+    "author": "Wai Laam Mak, Isibor Kennedy Ihianle, Pedro Machado",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

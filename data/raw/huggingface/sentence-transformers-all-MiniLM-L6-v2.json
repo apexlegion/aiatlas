@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "sentence-transformers/all-MiniLM-L6-v2",
-  "fetchedAt": "2026-07-27T05:58:11.909Z",
+  "fetchedAt": "2026-07-28T05:22:01.612Z",
   "data": {
     "_id": "621ffdc136468d709f180294",
     "id": "sentence-transformers/all-MiniLM-L6-v2",
@@ -56,8 +56,8 @@
       "deploy:sagemaker",
       "region:us"
     ],
-    "downloads": 253380060,
-    "likes": 5127,
+    "downloads": 253094980,
+    "likes": 5131,
     "modelId": "sentence-transformers/all-MiniLM-L6-v2",
     "author": "sentence-transformers",
     "sha": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
@@ -227,15 +227,17 @@
     "spaces": [
       "mteb/leaderboard",
       "hakari-bench/leaderboard",
-      "bench-labs/BenchLabs-Leaderboard",
       "eduagarcia/multilingual-tokenizer-leaderboard",
+      "bench-labs/BenchLabs-Leaderboard",
+      "MinhDS/ProfillyBot",
       "UII-AI/MedVidBench-Leaderboard",
       "piAshuSingh/Emerging_Stars",
       "Musombi/mvi-ai-engine",
       "Rodmanai/LeoAi-Lite",
       "ayush150152/ziro",
+      "Shuklac/Carrer_Conversation",
       "Kefayatullahkhan/pakistan-taxmate-ai",
-      "MinhDS/ProfillyBot",
+      "cadiazm123/cybersecurity_agent",
       "cvachet/pdf-chatbot",
       "marcosv/InstructIR",
       "JournalistsonHF/ai-scraper",
@@ -322,9 +324,7 @@
       "captain-awesome/Docuverse-zephyr-beta",
       "JDWebProgrammer/chatbot",
       "sickcell/AskCTI",
-      "Shashikiran42/Banking_Regulations_Compliance_ChatBOT",
-      "Aixaria/sentence-transformers-all-MiniLM-L6-v2",
-      "SmileXing/leaderboard"
+      "Shashikiran42/Banking_Regulations_Compliance_ChatBOT"
     ],
     "createdAt": "2022-03-02T23:29:05.000Z",
     "safetensors": {

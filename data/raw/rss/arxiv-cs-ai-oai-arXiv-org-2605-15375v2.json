@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.15375v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.15375v2",
+    "title": "ChangeFlow -- Latent Rectified Flow for Change Detection in Remote Sensing",
+    "link": "https://arxiv.org/abs/2605.15375",
+    "description": "arXiv:2605.15375v2 Announce Type: replace-cross Abstract: Remote sensing change detection (RSCD) localises changes between two images of the same geographic region. Most state-of-the-art methods are trained with a per-pixel discriminative objective that classifies each spatial location independently. In this scenario, the predicted changed region is not modelled as a coherent whole, so predictions tend to be spatially fragmented. Generative modelling offers a principled solution: by learning a distribution over plausible change masks, it treats the mask as a single object and encourages global consistency. Yet existing generative RSCD methods lag behind strong discriminative baselines, held back by costly pixel-space generation and overly complex conditioning. We introduce \\textbf{ChangeFlow}, which reformulates change detection as the generative synthesis of change masks in a compact latent space via rectified flow, guided by a structured yet lightweight bi-temporal conditioning signal. Changeflow yields spatially coherent predictions without sacrificing efficiency: across four binary benchmarks, SYSU, LEVIR, CLCD, and OSCD, ChangeFlow achieves an average F1 of $80.4\\%$, a $1.3$-point gain over the previous best with better efficiency. It also extends to semantic change detection, setting a new state-of-the-art $65.9$ $F_{scd}$ on SECOND. Project page: https://blaz-r.github.io/changeflow_cd",
+    "publishedAt": "2026-07-28",
+    "author": "Bla\\v{z} Rolih, Matic Fu\\v{c}ka, Filip Wolf, Luka \\v{C}ehovin Zajc",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

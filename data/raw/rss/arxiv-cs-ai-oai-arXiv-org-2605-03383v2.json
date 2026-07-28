@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.03383v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.03383v2",
+    "title": "GeoDecider: An Evidence-Grounded Agent for Geological Interpretation via Deliberative Reasoning",
+    "link": "https://arxiv.org/abs/2605.03383",
+    "description": "arXiv:2605.03383v2 Announce Type: replace Abstract: Geological interpretation infers subsurface properties and structures from indirect geophysical observations. Well-log classification provides a measurable setting by assigning geological classes to depth-indexed petrophysical records. The task is difficult because different subsurface units may exhibit similar logging responses, whereas accurate interpretation often depends on local measurements, depth-wise context, domain knowledge, and reasonable transitions between neighboring layers. Existing automated methods mainly follow fixed prediction pipelines, leaving little room to gather additional evidence for difficult samples. In this work, we propose GeoDecider, an evidence-grounded agent for deliberative geological interpretation. GeoDecider retains efficient numerical prediction as the first stage, then selectively invokes tool-assisted reasoning for difficult intervals. A lightweight classifier produces point-wise predictions and estimates sample difficulty from its prediction scores. High-difficulty points act as routing anchors, triggering interval-level analysis so that nearby observations can be examined together. For each activated interval, specialized tools build an Evidence Profile that summarizes geological knowledge, depth-wise trends, previous predictions from the same well, and similar cases retrieved from training wells. Three complementary scientific views generate candidate interpretations. GeoDecider compares their supporting evidence, resolves disagreements, then applies geology-informed checks on continuity, boundary cues, and petrophysical consistency. Experiments on four public well-log benchmarks show that GeoDecider consistently outperforms representative baselines, demonstrating the value of selective evidence gathering and deliberative reasoning for geological interpretation.~\\footnote{Our code is available at https://github.com/Xiaoyu-Tao/GeoDecider}",
+    "publishedAt": "2026-07-28",
+    "author": "Xiaoyu Tao, Mingyue Cheng, Jiahao Wang, Yitong Zhou, Qingyang Mao, Yimin Dou, Qi Liu, Shijin Wang, Enhong Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

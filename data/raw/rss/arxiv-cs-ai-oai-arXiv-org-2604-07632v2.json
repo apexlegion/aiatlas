@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.07632v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.07632v2",
+    "title": "Sheaf-Laplacian Obstruction and Projection Hardness for Cross-Modal Compatibility on a Modality-Independent Site",
+    "link": "https://arxiv.org/abs/2604.07632",
+    "description": "arXiv:2604.07632v2 Announce Type: replace-cross Abstract: Cross-modal representations vary in how easily they can be aligned, and compatibility is generally non-transitive: two modalities may align through an intermediate modality at lower complexity than through a direct map. We introduce a reference formalism that evaluates all modalities on a fixed neighborhood site and defines two directed invariants. Projection hardness \\(H_{a\\to b}(\\varepsilon)\\) is the minimum complexity within a nested Lipschitz-controlled family required to reach error \\(\\varepsilon\\). For a declared local projection family, sheaf-Laplacian obstruction \\(C_{a\\to b}(\\varepsilon)\\) is the minimum variation of locally fitted projection parameters required to reach the same error. Under identity restrictions, obstruction is the graph Dirichlet energy of a vector-valued parameter field; the sheaf formulation identifies zero energy with successful gluing and extends to edge-dependent transports and heterogeneous parameter spaces. We relate obstruction to the site spectral gap and excess global-map error, and construct ReLU examples showing non-transitive compatibility and a quadratic separation between staged and direct width. Controlled synthetic calibrations recover the predicted hardness separation, cut-induced obstruction scaling, and sensitivity to the fixed site graph.",
+    "publishedAt": "2026-07-28",
+    "author": "Tibor Sloboda",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

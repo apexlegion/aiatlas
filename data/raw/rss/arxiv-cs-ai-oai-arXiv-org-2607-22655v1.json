@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22655v1",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22655v1",
+    "title": "EventOD: Event-Aware OD Flow Generation via LLM-Guided Semantic Modulation",
+    "link": "https://arxiv.org/abs/2607.22655",
+    "description": "arXiv:2607.22655v1 Announce Type: new Abstract: Estimating origin-destination (OD) flows under disruptive events is important for disaster response and urban resilience. Existing deep OD models trained on routine mobility often degrade when extreme events abruptly alter regional functions and population activities, while retraining a new generator for each event is impractical under limited event-time supervision. We propose EventOD, an event-adaptive OD generation framework that steers a pretrained OD generator using structured event semantics. EventOD first uses a large language model to infer region-level functional and demographic control vectors from coarse event observations. It then learns two lightweight adaptation modules, AlphaNet and BetaNet, to calibrate the magnitude of these semantic shifts, and further introduces a retrieval-augmented fallback pathway for scenarios with sparse supervision. The resulting event-conditioned features are injected into a pretrained graph diffusion OD model through input-level modulation, enabling event-aware adaptation without updating generator parameters. Experiments on hurricane- and pandemic-induced mobility across U.S. counties show that EventOD consistently improves both reconstruction accuracy and distributional fidelity over strong baselines. Source code is available at https://anonymous.4open.science/r/EventOD-5C11/.",
+    "publishedAt": "2026-07-28",
+    "author": "Jie Zhao, Jie Feng, Can Rong, Zhihan Hou, Peng Lu, Yong Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

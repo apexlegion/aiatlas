@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.18350v5",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.18350v5",
+    "title": "Adapter Merging Reactivates Latent Reasoning Traces: A Mechanism Analysis",
+    "link": "https://arxiv.org/abs/2601.18350",
+    "description": "arXiv:2601.18350v5 Announce Type: replace-cross Abstract: Large language models fine-tuned via a two-stage pipeline (domain adaptation followed by instruction alignment) can exhibit non-trivial interference after adapter merging, including the re-emergence of explicit reasoning traces under strict decoding. We study this phenomenon in medical LLM settings using lightweight, reproducible measurements of trace leakage and instruction-following behavior. Beyond marker-based proxies, we introduce a marker-forbidden, answer-only evaluation and define a correctness-based direction that does not rely on surface markers; a rank-1 logit-space intervention along this direction modulates decision distributions and improves multiple-choice accuracy beyond random-direction controls at sufficiently large intervention strength. We further provide layer-wise geometric evidence that domain and instruction adapters induce partially misaligned update directions, and present a proof-of-concept geometry-aware merge that can reduce leakage and/or improve accuracy in a toy setting. Our results characterize boundary conditions of trace leakage and provide practical diagnostics and interventions for safer adapter merging.",
+    "publishedAt": "2026-07-28",
+    "author": "Junyi Zou",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

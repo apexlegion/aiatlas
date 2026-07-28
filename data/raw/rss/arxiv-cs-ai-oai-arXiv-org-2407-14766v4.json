@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2407.14766v4",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2407.14766v4",
+    "title": "Fairness Interventions in Classification: A Study on AI Explainability",
+    "link": "https://arxiv.org/abs/2407.14766",
+    "description": "arXiv:2407.14766v4 Announce Type: replace-cross Abstract: This paper presents a philosophical and experimental study of fairness interventions in AI classification, centered on the explainability and transparency of corrective methods, and on the opposition between two fairness criteria, namely Demographic Parity and Equalized Odds. Our main argument is that even as a gap in Demographic Parity is used to diagnose inequality between groups, Equalized Odds constitutes a more reliable fairness criterion to guide bias correction in classification. To establish this, we present FairDream, a fairness package intended for lay users, whose mechanism increases the model's weights of errors on disadvantaged groups. To justify FairDream's results, we analyze its reweighting algorithm, and we present the results of a benchmark experiment in which we compare FairDream with a distinct in-processing correction method that enforces Demographic Parity more drastically, the GridSearch method. We then propose a normative justification of Equalized Odds, with a discussion of the criterion's limitations. We draw on the structural similarity between FairDream's results and a version of Simpson's paradox to justify conditioning on true labels in counterfactual evaluations of fairness.",
+    "publishedAt": "2026-07-28",
+    "author": "Thomas Souverain, Paul \\'Egr\\'e",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

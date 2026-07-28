@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.02570v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.02570v2",
+    "title": "DOSE-I: A Multimodal Biosignal Dataset of Procedural Sedation for Endoscopy -- Technical Report",
+    "link": "https://arxiv.org/abs/2607.02570",
+    "description": "arXiv:2607.02570v2 Announce Type: replace-cross Abstract: In this document, we describe characteristics and technical details of the multimodal biosignal dataset DOSE-I of procedural sedation for endoscopy published on zenodo. The DOSE-I dataset includes 78.5 hours of recording in 171 records ranging from 6.7 to 70.8 minutes (mean: 27.5, SD: 11.6) of 281 endoscopic procedures. 1129 (median: 6 per record) transitions of consciousness and 7328 (median: 39 per record) individual sedation depth labels were recorded. In addition to clinically annotated biosignals, the DOSE-I dataset provides detailed static data about the respective study subject and metadata about the respective recordings. To further support future research, we provide details about artifact detection and preprocessed pEEG features, too. C code used for this preprocessing is provided separately via Github.",
+    "publishedAt": "2026-07-28",
+    "author": "Jakob Garbe, Jan W. Kantelhardt, Katja Seeliger, Thomas Schmid",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

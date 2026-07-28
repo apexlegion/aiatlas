@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22602v1",
+  "fetchedAt": "2026-07-28T05:22:03.387Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22602v1",
+    "title": "DeepLook: Deeper Thinking with Lookahead",
+    "link": "https://arxiv.org/abs/2607.22602",
+    "description": "arXiv:2607.22602v1 Announce Type: new Abstract: Inference-time scaling has emerged as a powerful paradigm for improving large language model reasoning, often delivering larger gains on difficult reasoning tasks than parameter scaling alone. However, existing approaches remain inefficient in how compute is allocated within a reasoning trace. Motivated by the observation that reasoning failures often exhibit an early onset of uncertainty before a wrong answer become explicit, we introduce DeepLook, a training-free monitor-and-intervene decoding framework that concentrates lookahead compute at uncertainty bottlenecks. DeepLook aggregates token-level confidence into segment-level signals, triggers when confidence drops relative to recent history, and explores candidate continuations with fixed-horizon lookahead. Branches are ranked by Average Lookahead Confidence (ALC), the average segment-level confidence over rollout continuations, then pruned and aggregated through voting. On four competition-style mathematics benchmarks across DeepSeek-R1-8B, Qwen3-32B, GPT-OSS-20B, and GPT-OSS-120B, DeepLook shifts the accuracy--token-cost Pareto frontier: it improves accuracy over DeepConf-low in 11 of 16 settings while reducing dataset-level token generation by 87.3% on average, including gains of +3.1 on AIME25 with Qwen3-32B and +8.8 on BRUMO25 with GPT-OSS-20B. These results show that selective, future-aware intervention yields substantially stronger accuracy--cost trade-offs than uniformly scaling complete reasoning trajectories. Code is available here.",
+    "publishedAt": "2026-07-28",
+    "author": "Tingxin Yang, Zefeng Wang, Mengyue Wang, Xingcheng Zhou, Yunpu Ma",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22598v1",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22598v1",
+    "title": "A didactical-driven teacher assistant for a dimensional modeling course",
+    "link": "https://arxiv.org/abs/2607.22598",
+    "description": "arXiv:2607.22598v1 Announce Type: cross Abstract: Educational chatbots powered by large language models (LLMs) show promising effects on learning outcomes, yet most systems delegate pedagogical decisions such as content selection and didactic structuring implicitly to the LLM, making tutoring strategies difficult to trace, evaluate, and reproduce. This paper presents a didactical-driven teacher assistant for a French-language university course on dimensional modelling, operating without commercial LLM budget or GPU infrastructure. The architecture formalises the instructor's pedagogical reasoning into deterministic modules that handle intent detection, concept linking, and didactic approach selection before any text is generated; the LLM acts solely as a linguistic executor. Evaluation on 195 authentic student questions addresses two research questions. First, we show that standard semantic retrieval alone does not reliably recover the pedagogically required content, thereby justifying the upstream orchestration strategy adopted in our architecture (RQ1). Second, compared to free-tier LLMs whose detection performance varies widely across models and which produce errors silently, the deterministic pipeline achieves high pair precision (73%) with full traceability and explicit abstention, though its limited coverage confirms that the detection strategy requires further refinement (RQ2).",
+    "publishedAt": "2026-07-28",
+    "author": "Laurent Brisson (IMT Atlantique - DSD), Maria Segarra (IMT Atlantique - INFO, Lab-STICC\\_MOTEL), Gr\\'egory Smits (IMT Atlantique - INFO, Lab-STICC\\_MOTEL)",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

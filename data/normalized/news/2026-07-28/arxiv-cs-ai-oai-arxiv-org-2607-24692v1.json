@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-24692v1",
+  "name": "Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines",
+  "summary": "arXiv:2607.24692v1 Announce Type: cross Abstract: Inference systems increasingly combine a fast path that returns predictions within the application's latency deadline together with a higher-accura...",
+  "description": "arXiv:2607.24692v1 Announce Type: cross Abstract: Inference systems increasingly combine a fast path that returns predictions within the application's latency deadline together with a higher-accuracy slow path that runs higher-compute methods on stronger, remote hardware, so its results can be returned on time and combined with the fast path predictions. Across several application domains, we a...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.24692"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-28",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.24692"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-07-28",
+  "expiryAt": "2026-08-27T00:00:00.000Z",
+  "author": "Jhonatan Tavori, Gur-Eyal Sela, Ion Stoica, Gil Zussman"
+}

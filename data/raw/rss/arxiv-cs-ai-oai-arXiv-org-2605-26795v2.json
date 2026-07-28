@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.26795v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.26795v2",
+    "title": "What Does Chain-of-Thought Contribute at Probe Time? Evidence for Local Co-Occurrence Activation",
+    "link": "https://arxiv.org/abs/2605.26795",
+    "description": "arXiv:2605.26795v2 Announce Type: replace Abstract: Chain-of-thought (CoT) prompting enhances large language model performance, yet what drives these gains remains unclear. We study this question from a probe-time perspective: holding CoT rationales fixed, we test which textual properties matter for the final prediction. Across multiple datasets and model configurations, we find that randomizing the order of rationale sentences has little effect on accuracy, suggesting that the global order of reasoning steps is not the main source of the probe-time benefit. Moreover, even when the words in a rationale are randomly reordered, performance remains well above the no-rationale baseline, indicating that the rationale's words remain useful even without their original order. Restoring only short-range word order further improves performance and brings it substantially closer to full CoT. In most settings, much of this local-order gain is already obtained with three-word windows. Control experiments rule out explicit answer copying, simple lexical cues, generic topical context, and general robustness to shuffling as the main explanations. Mechanistic analyses further show that short-window gains are largely formed in early-to-middle model layers, with answer-relevant evidence concentrated in local text spans. Together, these findings support a local co-occurrence activation (LCA) interpretation: the probe-time benefit of fixed rationales arises mainly from the words they contain and short-range word co-occurrences.",
+    "publishedAt": "2026-07-28",
+    "author": "Xiang Wang, Wei Wei",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

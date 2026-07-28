@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-22962v1",
+  "name": "ConsistencyGate: Preventing Memory Contamination in LLM Agents via Self-Consistency Admission Control",
+  "summary": "arXiv:2607.22962v1 Announce Type: new Abstract: LLM agents that operate over many turns accumulate facts in an external memory store and reuse them as premises for downstream reasoning. A hallucina...",
+  "description": "arXiv:2607.22962v1 Announce Type: new Abstract: LLM agents that operate over many turns accumulate facts in an external memory store and reuse them as premises for downstream reasoning. A hallucinated fact written at one step therefore persists as a false premise for every subsequent step, a failure mode we call memory contamination. Existing memory management addresses retrieval and capacity b...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.22962"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-28",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.22962"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-07-28",
+  "expiryAt": "2026-08-27T00:00:00.000Z",
+  "author": "Yan Zhang, Shibo Li"
+}

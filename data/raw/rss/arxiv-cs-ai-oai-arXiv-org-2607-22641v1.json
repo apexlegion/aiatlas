@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22641v1",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22641v1",
+    "title": "AutoCluster, AutoTopicModeling, AutoTrendAnalysis: A Complete AutoML Pipeline for Predicting Emerging Trends",
+    "link": "https://arxiv.org/abs/2607.22641",
+    "description": "arXiv:2607.22641v1 Announce Type: cross Abstract: Predicting emerging trends is vital for businesses, researchers, and policymakers; yet traditional approaches often lack scalability and adaptability. This paper presents a trend prediction framework based on Automated Machine Learning (AutoML), designed to extract insights from textual datasets with temporal attributes. The system ingests subject-specific textual entries accompanied by a date field. The pipeline begins with preprocessing and embedding, followed by AutoClustering, which uses meta-learning to select the optimal clustering algorithm. AutoTopicModeling then applies successive halving to identify the best topic modeling method: Latent Dirichlet Allocation (LDA), Latent Semantic Analysis (LSA), BERTopic, or Non-negative Matrix Factorization (NMF) based on the coherence score for each cluster. For trend forecasting, AutoTrendAnalysis evaluates multiple models: Facebook Prophet, AutoRegressive Integrated Moving Average (ARIMA), Seasonal-Trend decomposition using Loess (STL), and Long Short-Term Memory (LSTM) selecting the most accurate based on Root Mean Square Error (RMSE), either through successive halving or exhaustive comparison. Topics are classified as strong signals, weak signals, or noise based on forecasting outcomes, enabling the identification of emerging trends. By automating clustering, topic modeling, and time series forecasting, this research enhances trend prediction accuracy while reducing manual effort. The proposed system offers a scalable and user-friendly solution suitable for real-time applications and stakeholders with limited machine learning expertise. Experimental results demonstrate that the proposed system's best trial achieves a final RMSE of 7.099, indicating high predictive accuracy.",
+    "publishedAt": "2026-07-28",
+    "author": "Ahmed Abolfadl, Marwa Mahmoud Abla, Mervat Abu-Elkheir, Maggie Mashaly",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

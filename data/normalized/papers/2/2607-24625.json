@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2607-24625",
+  "name": "Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents",
+  "summary": "Autonomous LLM agents processing mixed-confidentiality data face severe security risks from prompt injection attacks and reasoning errors. While dynamic Information Flow Control (IFC) provides stru...",
+  "description": "Autonomous LLM agents processing mixed-confidentiality data face severe security risks from prompt injection attacks and reasoning errors. While dynamic Information Flow Control (IFC) provides structural security guarantees, traditional taint tracking permanently taints an agent's context upon reading unvetted data, severely restricting downstream utility. We present APPA (Agentic Permissions Policy Algebra), an IFC framework that resolves this usability bottleneck through engine-managed context branching and prospective acquisition enforcement. Before data acquisition occurs, APPA prospect...",
+  "tags": [
+    "arxiv",
+    "cs.CR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.24625v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-27",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CR.",
+      "href": "https://arxiv.org/abs/2607.24625v1"
+    }
+  ],
+  "authors": [
+    "Arseny Kravchenko",
+    "Vadim Liventsev",
+    "Innokentii Konstantinov",
+    "Ildar Iskhakov",
+    "Matvey Kukuy"
+  ],
+  "paperId": "2607.24625",
+  "category": "cs.CR",
+  "publishedAt": "2026-07-27",
+  "abstract": "Autonomous LLM agents processing mixed-confidentiality data face severe security risks from prompt injection attacks and reasoning errors. While dynamic Information Flow Control (IFC) provides structural security guarantees, traditional taint tracking permanently taints an agent's context upon reading unvetted data, severely restricting downstream utility. We present APPA (Agentic Permissions Policy Algebra), an IFC framework that resolves this usability bottleneck through engine-managed context branching and prospective acquisition enforcement. Before data acquisition occurs, APPA prospect..."
+}

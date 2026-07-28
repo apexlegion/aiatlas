@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22611v1",
+  "fetchedAt": "2026-07-28T05:22:03.387Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22611v1",
+    "title": "Decentralized Granular Access Control for Agentic AI Systems in Critical Infrastructure",
+    "link": "https://arxiv.org/abs/2607.22611",
+    "description": "arXiv:2607.22611v1 Announce Type: new Abstract: The deployment of autonomous AI agents in production infrastructure introduces fundamental security challenges that traditional role-based access control (RBAC) models cannot address. Unlike deterministic automation, AI agents exhibit stochastic behavior, making conventional trust models insufficient for governing their access to critical systems. This paper presents a decentralized, multi-layered access control architecture designed specifically for agentic AI systems operating in critical cloud infrastructure. Our framework introduces four key innovations: (1) a compound identity model that binds agent actions to delegated human authority, (2) a hierarchical permission system spanning five granularity levels from global platform access to per-parameter constraints, (3) a decentralized policy ownership model where tool teams independently govern their authorization boundaries, and (4) progressive trust escalation with safety interlocks that prevent autonomous agents from executing high-risk operations. We ground our design in the OWASP Top 10 for LLM Applications (2025) threat taxonomy and demonstrate how each architectural decision mitigates specific attack vectors. Deployed in production at a major cloud provider managing network infrastructure across hundreds of datacenters, the system enforces granular access control for 20+ specialized AI agents and 60+ deterministic playbooks processing thousands of operations daily while maintaining zero unauthorized write operations over eight months of production deployment. We present empirical data on access pattern distributions, denial rates, and the effectiveness of layered authorization in preventing privilege escalation by non-deterministic actors.",
+    "publishedAt": "2026-07-28",
+    "author": "Arun Malik, Deepal Jayasinghe, Bradley Klemick, Prachi Shah, Nitish Talasu, Vineet Tushar Trivedi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

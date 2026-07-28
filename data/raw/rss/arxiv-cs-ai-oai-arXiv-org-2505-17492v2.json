@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2505.17492v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2505.17492v2",
+    "title": "PD$^3$: A Project Duplication Detection Framework via Adapted Multi-Agent Debate",
+    "link": "https://arxiv.org/abs/2505.17492",
+    "description": "arXiv:2505.17492v2 Announce Type: replace Abstract: Project duplication detection is critical for project quality assessment because it helps avoid investment in repeated proposals. Existing methods usually cast it as ranking and rely on surface matching or direct large language models judging, often missing practical needs in set-level reference selection. We recast the task as many-to-many reference set selection, which requires broad candidate information and fair decomposed comparison under context limits. We propose PD$^3$, a framework for Project Duplication Detection via adapted multi-agent Debate. PD$^3$ combines local multi-agent debate with global round-robin scheduling to retrieve the relevant project set. Theoretically, this scheduler guarantees fair comparison through balanced exposure and comparison context. PD$^3$ also produces quantitative duplication scores and qualitative overlap feedback. On 800+ real-world power projects, PD$^3$ outperforms the strongest baselines by 4.05% in relevant reference selection and 9.77% in duplication score generation. We deploy Review Dingdang, an online platform, which has helped save $13.44 million across 442 new projects.",
+    "publishedAt": "2026-07-28",
+    "author": "Dezheng Bao, Yueci Yang, Chutian Yu, Xin Chen, Zeguo Fei, Xiang Yuan, Lijun Zhang, Jiangqian Huang, Zhengxuan Jiang, Daoze Zhang, Junru Chen, Yang Yang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

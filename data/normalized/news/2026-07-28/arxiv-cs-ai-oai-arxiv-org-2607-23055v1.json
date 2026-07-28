@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-23055v1",
+  "name": "SymStep: Symbolic Step Verification for Logical Reasoning",
+  "summary": "arXiv:2607.23055v1 Announce Type: new Abstract: Chain-of-thought (CoT) prompting can fail severely on constraint-dense logical reasoning tasks, where unverified errors accumulate silently across st...",
+  "description": "arXiv:2607.23055v1 Announce Type: new Abstract: Chain-of-thought (CoT) prompting can fail severely on constraint-dense logical reasoning tasks, where unverified errors accumulate silently across steps. We introduce SymStep: an LLM makes one atomic claim at a time (DEDUCE: Alice, pet, Cat), then a lightweight constraint propagator checks the claim for consistency with prior accepted deductions,...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.23055"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-28",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.23055"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-07-28",
+  "expiryAt": "2026-08-27T00:00:00.000Z",
+  "author": "Aida Usmanova, Rui Gao, Dilshod Azizov, Ricardo Usbeck, Zangir Iklassov"
+}

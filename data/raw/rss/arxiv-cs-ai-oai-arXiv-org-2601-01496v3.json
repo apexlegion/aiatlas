@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.01496v3",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.01496v3",
+    "title": "The Optimal Sample Complexity of Linear Contracts",
+    "link": "https://arxiv.org/abs/2601.01496",
+    "description": "arXiv:2601.01496v3 Announce Type: replace-cross Abstract: In this paper, we settle the problem of learning optimal linear contracts from data in the offline setting, where agent types are drawn from an unknown distribution and the principal's goal is to design a contract that maximizes her expected utility. Specifically, our analysis shows that the simple Empirical Utility Maximization (EUM) algorithm yields an $\\varepsilon$-approximation of the optimal linear contract with probability at least $1-\\delta$, using just $O(\\ln(1/\\delta) / \\varepsilon^2)$ samples. This result improves upon previously known bounds and matches a lower bound from D\\\"utting et al. 2025 up to constant factors, thereby proving its optimality. Furthermore, our result establishes the stronger guarantee of uniform convergence: the empirical utility of every linear contract is an $\\varepsilon$-approximation of its true expectation with probability at least $1-\\delta$, using the same optimal $O(\\ln(1/\\delta) / \\varepsilon^2)$ sample complexity.",
+    "publishedAt": "2026-07-28",
+    "author": "Mikael M{\\o}ller H{\\o}gsgaard",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

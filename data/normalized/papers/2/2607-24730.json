@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2607-24730",
+  "name": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+  "summary": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are i...",
+  "description": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are increasingly paired with Vision-Language Models (VLMs) to generate natural-language explanations. However, these systems add linguistic fluency without addressing the underlying opacity of the visual model. With the emergence of Kolmogorov-Arnold Networks (KANs), whose spline-based components provide inherently interpretable functional units, we investigate whether this architectural transparency c...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.24730v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-27",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2607.24730v1"
+    }
+  ],
+  "authors": [
+    "Krithi Shailya",
+    "Ananya Lakshmi Ravi",
+    "Venkatanathan K. V.",
+    "Sowmya S. Sundaram",
+    "Gokul S. Krishnan",
+    "Aditi Anand",
+    "Balaraman Ravindran"
+  ],
+  "paperId": "2607.24730",
+  "category": "cs.CV",
+  "publishedAt": "2026-07-27",
+  "abstract": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are increasingly paired with Vision-Language Models (VLMs) to generate natural-language explanations. However, these systems add linguistic fluency without addressing the underlying opacity of the visual model. With the emergence of Kolmogorov-Arnold Networks (KANs), whose spline-based components provide inherently interpretable functional units, we investigate whether this architectural transparency c..."
+}

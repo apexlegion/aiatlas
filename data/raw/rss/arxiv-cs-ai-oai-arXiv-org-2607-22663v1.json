@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22663v1",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22663v1",
+    "title": "Beyond Block Boundaries: Multi-Block Editing for Diffusion Large Language Models",
+    "link": "https://arxiv.org/abs/2607.22663",
+    "description": "arXiv:2607.22663v1 Announce Type: new Abstract: Block diffusion has emerged as the dominant paradigm for scaling discrete diffusion language models (dLLMs), because decoding text in fixed-size blocks preserves parallel generation within each block while keeping the quadratic attention cost tractable. However, this efficiency comes with a structural limitation: tokens near the end of a block are generated without access to future cross-block context, and once a block is finalized, its uncertain predictions become irreversible context for all subsequent blocks. This creates a block boundary problem, in which uncertainty accumulates toward block boundaries and early mistakes propagate throughout later generation. To address this issue, we propose Multi-Block Editing (MBE), to mitigate this problem by editing decoded tokens based on cross-block context. Following this principle, MBE first proposes a training-free decoding algorithm to edit the decoded tokens in previous blocks, which is achieved by re-opening a full-attention window over selected blocks. Given the mismatched attention mechanism between block diffusion training and MBE inference, MBE further introduces a supervised Fine-tuning strategy, which equips the model with bidirectional attention masks that progressively expands the editing span. Furthermore, it also extends SGLang with a multi-shape CUDA Graph pool and fine-grained KV cache control to make these variable-length editing passes efficient in practice. Experiments on LLaDA2.1-Mini across 13 benchmarks show that training-free MBE outperforms all existing decoding baselines while maintaining comparable throughput, and MBE SFT further brings a performance gain of 2.7. The largest improvements appear on tasks requiring strong long-range consistency, including +13.3 on AIME 2025 and +5.9 on ZebraLogic, demonstrating the effectiveness of MBE.",
+    "publishedAt": "2026-07-28",
+    "author": "Xingyu Mou, Zijin Huang, Tianze Zhang, Yuxin Ma, Lanning Wei, Zengfeng Huang, Da Zheng, Lun Du",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

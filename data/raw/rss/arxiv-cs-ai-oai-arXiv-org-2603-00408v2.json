@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.00408v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.00408v2",
+    "title": "Exact and Asymptotically Complete Robust Verifications of Neural Networks via Ising Solvers",
+    "link": "https://arxiv.org/abs/2603.00408",
+    "description": "arXiv:2603.00408v2 Announce Type: replace-cross Abstract: We present an Ising-compatible framework for formal neural-network robustness verification under bounded input perturbations. For piecewise-linear activations, the Exact Logarithmic PWL Model (Log-PWL) provides an exact, sound, and complete formulation with a state-optimal logarithmic encoding, reducing the binary variables per neuron from linear to information-theoretically minimal logarithmic complexity. For general bounded element-wise activations, the Asymptotic Step-Envelope Model (Step-Env) uses sound piecewise-constant envelopes whose lower and upper neuron states remain decision variables coupled to a common adversarial input. We prove that its globally optimized output bounds converge uniformly to the true network extrema as the segment width vanishes, yielding asymptotic completeness of verification. We further develop a hybrid Benders solver. In contrast to the exponential worst-case cut growth of generic quantum Benders formulations, our Helly-based conflict analysis gives a polynomial bound on infeasible iterations when infeasibility admits fixed-dimensional certificates. Interval pruning, certificate transfer for pruned networks, and layerwise classical--Ising partitioning further reduce spin requirements. Experiments show exact certification fidelity for piecewise-linear networks and near-reference accuracy for sigmoid networks with compact spin budgets.",
+    "publishedAt": "2026-07-28",
+    "author": "Wenxin Li, Wenchao Liu, Weihao Li, Chuan Wang, Qi Gao, Yin Ma, Hai Wei, Kai Wen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

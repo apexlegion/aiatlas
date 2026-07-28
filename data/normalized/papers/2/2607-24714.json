@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2607-24714",
+  "name": "Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architectures",
+  "summary": "Trapped-ion quantum computers rely on shuttling compilers, which cast an input algorithm into a sequence of ion-qubit movements within a given architecture. We present the first study in which a si...",
+  "description": "Trapped-ion quantum computers rely on shuttling compilers, which cast an input algorithm into a sequence of ion-qubit movements within a given architecture. We present the first study in which a single frontier large language model (LLM), Claude Opus 4.7, generates and iteratively refines the full Python code of shuttling compilers from written specifications. We start with a compiler for (i) a linear segmented trap, extend it to (ii) a trap with junctions, and finally achieve efficient compilation for (iii) a broad class of connected trap graphs. The compilers for the more general cases ar...",
+  "tags": [
+    "arxiv",
+    "quant-ph"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.24714v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-27",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category quant-ph.",
+      "href": "https://arxiv.org/abs/2607.24714v1"
+    }
+  ],
+  "authors": [
+    "Fabian Kreppel",
+    "Reza Salkhordeh",
+    "Ferdinand Schmidt-Kaler",
+    "André Brinkmann"
+  ],
+  "paperId": "2607.24714",
+  "category": "quant-ph",
+  "publishedAt": "2026-07-27",
+  "abstract": "Trapped-ion quantum computers rely on shuttling compilers, which cast an input algorithm into a sequence of ion-qubit movements within a given architecture. We present the first study in which a single frontier large language model (LLM), Claude Opus 4.7, generates and iteratively refines the full Python code of shuttling compilers from written specifications. We start with a compiler for (i) a linear segmented trap, extend it to (ii) a trap with junctions, and finally achieve efficient compilation for (iii) a broad class of connected trap graphs. The compilers for the more general cases ar..."
+}

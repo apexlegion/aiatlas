@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22568v1",
+  "fetchedAt": "2026-07-28T05:22:03.387Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22568v1",
+    "title": "Keyword Matters: Unveiling the Energy Sensitivity of On-Device LLM Prompting",
+    "link": "https://arxiv.org/abs/2607.22568",
+    "description": "arXiv:2607.22568v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed on mobile and embedded devices to improve privacy and reduce network latency. Yet on-device inference faces a fundamental constraint: high energy consumption on battery-powered, resource-limited hardware. While model compression and runtime acceleration have been widely studied, the effect of \\emph{prompt design} on energy efficiency remains underexplored. This paper presents an empirical study of the relationship between prompt wording and energy consumption for on-device LLMs. Using real power measurements collected on a smartphone, we quantify how linguistic features, particularly imperative keywords and instruction structure, affect decoding length and total energy. Our results show consistent energy differences across verbs and tasks, indicating that prompt engineering is a lightweight lever for improving energy efficiency.",
+    "publishedAt": "2026-07-28",
+    "author": "Ruiyi Tao, Xiaolong Tu, Haoxin Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

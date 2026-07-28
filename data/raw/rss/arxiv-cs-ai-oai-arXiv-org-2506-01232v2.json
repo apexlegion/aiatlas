@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2506.01232v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2506.01232v2",
+    "title": "Retrieval-Augmented Generation of Ontologies from Relational Databases",
+    "link": "https://arxiv.org/abs/2506.01232",
+    "description": "arXiv:2506.01232v2 Announce Type: replace-cross Abstract: Deriving OWL ontologies from relational database schemas supports semantic interoperability and downstream tasks such as knowledge graph population, ontology-based data access, graph-based learning, and automated reasoning. Existing approaches either require substantial expert effort or produce shallow ontologies that reflect the logical schema structure but fail to fully capture domain semantics. We present RIGOR (Retrieval-augmented Iterative Generation of RDB Ontologies), an LLM-driven pipeline that converts relational schemas into semantically rich OWL2DL ontologies with minimal human intervention. For each relational table, RIGOR generates a direct mapping to guarantee schema coverage, then enriches it via retrieval from three sources: relational schema context and documentation, external domain ontologies, and an ontology that grows incrementally as each validated fragment is integrated. A Gen-LLM produces provenance-annotated ontology fragments (delta ontologies), which are validated and, when needed, corrected by an independent Judge-LLM before integration. Guided by foreign-key constraints, the process iterates over relational tables until the full schema is covered. Experiments across three databases spanning two domains show that RIGOR consistently outperforms baseline methods across standard quality metrics while requiring no human oversight.",
+    "publishedAt": "2026-07-28",
+    "author": "Nadeen Fathallah, Mojtaba Nayyeri, Athish A Yogi, Ratan Bahadur Thapa, Hans-Michael Tautenhahn, Anton Schnurpel, Steffen Staab",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

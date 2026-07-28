@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22676v1",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22676v1",
+    "title": "How LLM Task-Adaptation Reshapes Alignment: A Multi-dimensional Study of Behavioral and Representational Drift",
+    "link": "https://arxiv.org/abs/2607.22676",
+    "description": "arXiv:2607.22676v1 Announce Type: new Abstract: Post-training is a key mechanism for adapting large language models to downstream tasks. While prior work suggests that task adaptation can alter a model's pre-existing alignment, especially its safety behavior, its broader effects across alignment domains remain poorly understood. We address this gap through a systematic evaluation of representative task-adaptation methods, including supervised fine-tuning (SFT), KL-regularized SFT, and reinforcement learning with verifiable rewards (RLVR) across 15 alignment aspects spanning six key domains: safety, factuality, stance stability, social harm, controllability, and instructability. Our results reveal that post-training does not reshape alignment uniformly. RLVR improves task performance while inducing comparatively small, but non-zero, metric-specific shifts, while SFT leads to substantially larger alignment drift across domains. KL regularization mitigates this effect: stronger reference-model anchoring reduces alignment drift from the baseline, although KL-SFT still falls short of RLVR in preserving alignment. Representation-level analysis further supports this pattern, with shifts in alignment-relevant representations tracking behavioral drift. Together, these results show that task adaptation is not merely a capability-improving step, but an alignment intervention in its own right, motivating multi-dimensional alignment evaluation as a standard component of post-training pipelines.",
+    "publishedAt": "2026-07-28",
+    "author": "James Elcock, William F. Shen, Xinchi Qiu, Nicholas D. Lane",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

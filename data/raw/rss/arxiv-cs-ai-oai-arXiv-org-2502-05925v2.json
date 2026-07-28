@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2502.05925v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2502.05925v2",
+    "title": "Sign-Symmetry Learning Rules are Robust Fine-Tuners",
+    "link": "https://arxiv.org/abs/2502.05925",
+    "description": "arXiv:2502.05925v2 Announce Type: replace-cross Abstract: Backpropagation (BP) has long been the predominant method for training neural networks due to its effectiveness. However, numerous alternative approaches, broadly categorized under feedback alignment, have been proposed, many of which are motivated by the search for biologically plausible learning mechanisms. Despite their theoretical appeal, these methods have consistently underperformed compared to BP, leading to a decline in research interest. In this work, we revisit the role of such methods and explore how they can be integrated into standard neural network training pipelines. Specifically, we propose fine-tuning BP-pre-trained models using Sign-Symmetry learning rules and demonstrate that this approach not only maintains performance parity with BP but also enhances robustness. Through extensive experiments across multiple tasks and benchmarks, we establish the validity of our approach. Our findings introduce a novel perspective on neural network training and open new research directions for leveraging biologically inspired learning rules in deep learning.",
+    "publishedAt": "2026-07-28",
+    "author": "Aymene Berriche, Mehdi Zakaria Adjal, Riyadh Baghdadi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.10400v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.10400v2",
+    "title": "Designing Service Systems from Textual Evidence",
+    "link": "https://arxiv.org/abs/2603.10400",
+    "description": "arXiv:2603.10400v2 Announce Type: replace-cross Abstract: Designing service systems requires selecting among alternative configurations -- choosing the best chatbot variant, the optimal routing policy, or the most effective quality control procedure. In many service systems, the primary evidence of performance quality is textual -- customer support transcripts, complaint narratives, compliance review reports -- rather than the scalar measurements assumed by classical optimization methods. Large language models (LLMs) can read such textual evidence and produce standardized quality scores, but these automated judges exhibit systematic biases that vary across alternatives and evaluation instances. Human expert review remains accurate but costly. We study how to identify the best service configuration with high confidence while minimizing expensive human audits, given that automated evaluation is cheap but biased. We formalize this as a sequential decision problem where a biased proxy score is observed for every evaluation, and a verified outcome can be acquired selectively at additional cost. We prove that LLM-only selection fails under arm-dependent bias, and that naive selective-audit estimators can be asymptotically biased. We develop an estimator combining proxy scores with inverse-propensity-weighted residuals and construct anytime-valid confidence sequences. Our algorithm, PP-LUCB, jointly decides which alternatives to evaluate and whether to request human audits, concentrating reviews where the LLM judge is least reliable. We prove correctness and establish instance-dependent cost bounds showing near-optimal efficiency. On a customer support ticket classification task, our algorithm correctly identifies the best model in 40/40 trials while achieving 90\\% audit cost reduction.",
+    "publishedAt": "2026-07-28",
+    "author": "Ruicheng Ao, Hongyu Chen, Siyang Gao, Hanwei Li, David Simchi-Levi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2511-21702v2",
+  "name": "CSV-Decode: Certifiable Sub-Vocabulary Decoding for Efficient Large Language Model Inference",
+  "summary": "arXiv:2511.21702v2 Announce Type: replace-cross Abstract: Large language models face significant computational bottlenecks during inference due to the expensive output layer computation over large...",
+  "description": "arXiv:2511.21702v2 Announce Type: replace-cross Abstract: Large language models face significant computational bottlenecks during inference due to the expensive output layer computation over large vocabularies. We present CSV-Decode, a novel approach that uses geometric upper bounds to construct small sub-vocabularies for each decoding step, enabling efficient sparse computation while maintaini...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2511.21702"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-28",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2511.21702"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-07-28",
+  "expiryAt": "2026-08-27T00:00:00.000Z",
+  "author": "Dong Liu, Shu Wang, Yanxuan Yu, Haisheng Wang, Ben Lengerich"
+}

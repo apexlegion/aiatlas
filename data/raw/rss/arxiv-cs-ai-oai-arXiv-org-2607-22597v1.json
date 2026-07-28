@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22597v1",
+  "fetchedAt": "2026-07-28T05:22:03.387Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22597v1",
+    "title": "HyCE-RAG: Hypergraph Chain-of-Evidence Retrieval-Augmented Generation for Explainable Multi-hop Question Answering",
+    "link": "https://arxiv.org/abs/2607.22597",
+    "description": "arXiv:2607.22597v1 Announce Type: new Abstract: Multi-hop question answering requires systems to retrieve evidence from multiple documents and connect scattered facts into a coherent reasoning process. Standard retrieval-augmented generation (RAG) mainly relies on semantic similarity between a query and text chunks, and therefore often fails to model structural relations among entities, facts, and evidence units. Graph-based RAG improves this by introducing graph-structured knowledge, but pairwise edges are still limited in representing higher-order associations involving multiple entities and contexts. We propose HyCE-RAG, a Hypergraph Chain-of-Evidence Retrieval-Augmented Generation framework for explainable multi-hop question answering. HyCE-RAG organizes entities, relations, and contextual evidence into hyperedges, builds a query-aware evidence hypergraph, and performs confidence propagation over entity--hyperedge incidence structures. It then uses confidence-guided evidence assembly to select, connect, and rank evidence paths before answer generation. The scoring process jointly considers semantic relevance, entity connectivity, evidence coverage, relation reliability, extraction confidence, and propagated confidence. By providing the language model with structured evidence chains rather than flat retrieved passages, HyCE-RAG supports more faithful and interpretable reasoning. Experiments on HotpotQA, 2WikiMultihopQA, MuSiQue, and two GraphRAG-Bench subsets show that HyCE-RAG consistently outperforms standard RAG and graph-based RAG baselines in answer accuracy, context relevance, and faithfulness. These results suggest that hypergraph-based evidence organization is a promising direction for post-retrieval reasoning in complex question answering.",
+    "publishedAt": "2026-07-28",
+    "author": "Hong-Yu An, Yun-Jian Zhang, Chen-Wei Liang, Tian-Yi Zhang, Jian Ding, Yi-Lun Wu, Ao-Bo Li, Wei-Cong Su,  Saifullah, Mujiangshan Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

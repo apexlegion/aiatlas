@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22600v1",
+  "fetchedAt": "2026-07-28T05:22:03.387Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22600v1",
+    "title": "Chart Deception in Vision-Language Models: From Vulnerability to Mitigation",
+    "link": "https://arxiv.org/abs/2607.22600",
+    "description": "arXiv:2607.22600v1 Announce Type: new Abstract: Information visualizations are widely used to communicate patterns, trends, and outliers, yet deceptive design choices-such as truncated or inverted axes, distorted aspect ratios, inappropriate encodings, and misleading color mappings-can systematically alter interpretation while preserving the underlying data. As Vision-Language Models (VLMs) are increasingly used for chart understanding and analytical reasoning, assessing their robustness to such deceptive visualizations has become critical for trustworthy data analysis. We introduce VisDeception, the first controlled paired benchmark for evaluating the robustness of VLMs to misleading chart designs. The benchmark contains 1,600 paired faithful and misleading charts spanning eight major categories of deceptive visualization tactics, where each misleading chart is paired with a faithful counterpart generated from the same underlying data. To isolate deception-induced reasoning errors from baseline chart-understanding errors, we introduce the Deception Score, a paired evaluation metric that quantifies how misleading visualizations shift model responses away from the faithful interpretation of the data. Across 32,000 responses from 10 state-of-the-art VLMs, we find that even advanced models remain highly vulnerable to deceptive visual manipulations. To improve robustness, we further propose an inference-time multi-agent mitigation framework that grounds reasoning in structured chart metadata extracted from the visualization before answer generation, enabling models to reduce the influence of deceptive visual cues without requiring explicit user instructions. Together, our findings reveal important reliability gaps in current chart-understanding systems and establish benchmark-driven evaluation, deception-aware metrics, and structured reasoning as promising directions for developing more trustworthy VLMs for visual analytics.",
+    "publishedAt": "2026-07-28",
+    "author": "Ridwan Mahbub, Mohammed Saidul Islam, Md Tahmid Rahman Laskar, Mizanur Rahman, Mir Tafseer Nayeem, Enamul Hoque",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

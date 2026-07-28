@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.04814v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.04814v2",
+    "title": "Evaluating the Effect of Linguistic Relatedness on Cross-Lingual Transfer in Large Multilingual Automatic Speech Recognition",
+    "link": "https://arxiv.org/abs/2607.04814",
+    "description": "arXiv:2607.04814v2 Announce Type: replace-cross Abstract: Extending automatic speech recognition (ASR) to low-resource African languages is constrained by the prohibitive demands of data collection at scale. A promising direction is to leverage the linguistic relatedness between a low-resource target language and languages previously seen by a model to reduce the volume of target-language data needed for effective adaptation. Although this approach has proven reliable for text-based models, its effectiveness in the speech domain remains contested. We employ a systematic controlled experimental design spanning six factors, two Africa-centric corpora, and four large ASR models, sequentially adapting on a related auxiliary language followed by the target to isolate whether linguistic relatedness reliably predicts cross-lingual transfer gains across these conditions. In every setting, pre-adaptation on related auxiliary languages yields no practically meaningful improvements once as little as one hour of target-language data is available, suggesting that relatedness alone may not reliably predict transfer gains in large multilingual ASR, or constitute an effective strategy for extending such models to low-resource languages.",
+    "publishedAt": "2026-07-28",
+    "author": "Andrei Florian, Cynthia Jayne Amol, Hope Kerubo Ombaba, Xiaoyu Cui, Boniface Mwau, Biatus Maina Kamau, Lilian Diana Awuor Wanzare, Christiane Fellbaum, Happy Buzaaba",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2607-24649",
+  "name": "Reason-Mediated Behavioral Models for Auditing LLM Social Simulators",
+  "summary": "Large language models are increasingly used as social simulators, including as synthetic survey respondents. Most evaluations ask whether simulated outcomes resemble human outcomes. We argue that t...",
+  "description": "Large language models are increasingly used as social simulators, including as synthetic survey respondents. Most evaluations ask whether simulated outcomes resemble human outcomes. We argue that this is necessary but too weak: a simulator can match the final answer while using the wrong rationale-derived reason pattern. We study this problem through a 94-person sunscreen concept test in which each respondent evaluated three product concepts and wrote open-ended rationales. We map those rationales into signed reason states $Z$, where positive signs support adoption and negative signs block...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.24649v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-27",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2607.24649v1"
+    }
+  ],
+  "authors": [
+    "Atharva Pandey",
+    "Gautam Jajoo"
+  ],
+  "paperId": "2607.24649",
+  "category": "cs.AI",
+  "publishedAt": "2026-07-27",
+  "abstract": "Large language models are increasingly used as social simulators, including as synthetic survey respondents. Most evaluations ask whether simulated outcomes resemble human outcomes. We argue that this is necessary but too weak: a simulator can match the final answer while using the wrong rationale-derived reason pattern. We study this problem through a 94-person sunscreen concept test in which each respondent evaluated three product concepts and wrote open-ended rationales. We map those rationales into signed reason states $Z$, where positive signs support adoption and negative signs block..."
+}

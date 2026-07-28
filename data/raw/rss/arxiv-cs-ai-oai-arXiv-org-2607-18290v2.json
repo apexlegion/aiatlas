@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.18290v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.18290v2",
+    "title": "SechKAN: Kolmogorov-Arnold Networks with Hyperbolic Secant Functions",
+    "link": "https://arxiv.org/abs/2607.18290",
+    "description": "arXiv:2607.18290v2 Announce Type: replace-cross Abstract: In recent years, Kolmogorov-Arnold Networks (KANs) have attracted increasing attention due to their effectiveness in machine learning and scientific computing, offering a new paradigm for neural network design. In this paper, we present SechKAN, a novel KAN based on hyperbolic secant (sech) functions. The hyperbolic secant basis is adopted for its smooth bell-shaped form, localized responses, and well-behaved gradients. We employ a 1D linear projection to reduce the number of parameters, allowing SechKAN to maintain a model size comparable to that of multilayer perceptrons (MLPs). Experimental results show the effectiveness of SechKAN on function fitting, PDE surrogate modeling, and image classification benchmarks, including MNIST, Fashion-MNIST, CIFAR-10, and CIFAR-100. On function fitting, SechKAN achieves performance comparable to both MLPs and representative KAN variants. On PDE surrogate modeling, it outperforms MLPs and achieves competitive or better performance than representative KAN variants. On image classification benchmarks, SechKAN achieves the best performance among the evaluated KAN variants while remaining competitive with MLPs using a comparable number of parameters. However, SechKAN still incurs higher computational cost than MLPs and some KAN variants. Our source code is publicly available at https://github.com/hoangthangta/All-KAN.",
+    "publishedAt": "2026-07-28",
+    "author": "Hoang-Thang Ta",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

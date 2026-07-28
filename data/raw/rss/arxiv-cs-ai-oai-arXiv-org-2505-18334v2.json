@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2505.18334v2",
+  "fetchedAt": "2026-07-28T05:22:03.388Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2505.18334v2",
+    "title": "CoopReflect: Towards Natural Language Communication for Cooperative Autonomous Driving via Multi-Agent Learning",
+    "link": "https://arxiv.org/abs/2505.18334",
+    "description": "arXiv:2505.18334v2 Announce Type: replace-cross Abstract: Past work has demonstrated that autonomous vehicles can drive more safely if they communicate with each other. However, this communication is usually not human-understandable. Using natural language as a vehicle-to-vehicle (V2V) communication protocol offers the potential for autonomous vehicles to drive cooperatively not only with each other but also with human drivers. To explore the potential use of natural language for V2V communication, we develop LLM-based driving agents and study their interactions in a new simulation environment, TalkingVehiclesGym, which features traffic scenarios where communication can potentially help avoid imminent collisions and/or support efficient traffic flow. While LLM agents relying solely on chain-of-thought reasoning struggle to coordinate effectively, we introduce CoopReflect, a multi-agent learning framework that equips agents with knowledge for both natural language message generation and high-level decision-making through trial and error and multi-agent debriefing. Experiments show that CoopReflect produces more meaningful and human-understandable messages than existing baselines, enabling stronger cooperation. Finally, we distill scenario-specific knowledge into a unified language model policy, achieving cross-scenario generalization and substantially reducing decision-making latency. Our code and demo videos are available at https://talking-vehicles.github.io/.",
+    "publishedAt": "2026-07-28",
+    "author": "Jiaxun Cui, Chen Tang, Jarrett Holtz, Janice Nguyen, Alessandro G. Allievi, Hang Qiu, Peter Stone",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
