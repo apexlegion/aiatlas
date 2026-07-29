@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.03881v2",
+  "fetchedAt": "2026-07-29T05:29:31.665Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.03881v2",
+    "title": "LLM-generated personalized nudges for improving pro-environmental behavior: Field evidence from resource conservation",
+    "link": "https://arxiv.org/abs/2604.03881",
+    "description": "arXiv:2604.03881v2 Announce Type: replace-cross Abstract: Encouraging pro-environmental behavior remains a major challenge for sustainable cities. Conventional feedback nudges can show individuals how their current behavior compares with environmental goals but often provide limited guidance on what to do differently in daily life. This study examines whether supplementing weekly feedback on participants' behavior with LLM-generated personalized action suggestions improves pro-environmental behavior, using daily electricity and hot-water conservation as a case study. We developed an LLM agent that generated weekly conservation messages from participant profiles, recent consumption records, and prior interaction history, combining a usage report with personalized suggestions, behavioral-change scenarios, and estimated savings. The agent was evaluated in a three-arm randomized field experiment with 233 university residents in Beijing from November 2024 to January 2025. Participants received text-based nudges, image-enhanced nudges, or LLM-generated personalized nudges over five intervention rounds. Daily electricity use and shower hot-water use were measured using dormitory meter readings and billing records. Compared with text-based feedback, LLM-generated personalized nudges reduced electricity consumption by 0.56 kWh per room-day (p = 0.014), corresponding to an 18.3 percentage-point higher saving rate. Image-enhanced feedback alone showed no clear improvement. Hot-water savings followed the same direction but were smaller and less precisely estimated (9.8 percentage points, p = 0.087). Personalized nudges contained more planning, appliance-specific, and action-oriented language and were associated with more sustained, task-focused engagement. These findings offer a pathway for integrating generative AI into sustainable urban management.",
+    "publishedAt": "2026-07-29",
+    "author": "Zonghan Li, Yi Liu, Chunyan Wang, Song Tong, Kaiping Peng, Feng Ji",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

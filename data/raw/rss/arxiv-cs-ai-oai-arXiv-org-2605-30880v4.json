@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.30880v4",
+  "fetchedAt": "2026-07-29T05:29:31.665Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.30880v4",
+    "title": "PatchWorld: Gradient-Free Optimization of Executable World Models for Agent Environments",
+    "link": "https://arxiv.org/abs/2605.30880",
+    "description": "arXiv:2605.30880v4 Announce Type: replace-cross Abstract: World models for interactive text agents must typically be learned from observation-action trajectories alone. Specifically, the environment returns text observations after each action, but does not expose a ground-truth latent state nor an inspectable transition model.A research gap remains in how to induce executable code as a world model in this black-box setting for prediction and agent decision making. We introduce PatchWorld, a gradient-free framework that turns offline trajectories into executable Python world models through counterexample-guided code repair.Instead of predicting the next observation with a black-box model, PatchWorld induces symbolic belief-state programs whose action updates can be inspected, replayed, and locally patched. Across seven AgentGym environments, PatchWorld-Simple achieves the highest code-based decision-making score among evaluated methods (76.4% macro success in live one-step lookahead), matching or exceeding LLM-based lookahead while invoking no LLM calls inside the world-model prediction module itself. We further find that a human-specified residual-memory bias improves surface observation fidelity but weakens agent decision-making utility. This reveals a tradeoff in executable world models, since improving observation fidelity can come at the expense of action-discriminative dynamics, and vice versa. Code is available at https://github.com/HKBU-KnowComp/PatchWorld.",
+    "publishedAt": "2026-07-29",
+    "author": "Jiaxin Bai, Yue Guo, Yifei Dong, Jiaxuan Xiong, Tianshi Zheng, Yixia Li, Tianqing Fang, Yufei Li, Yisen Gao, Haoyu Huang, Zhongwei Xie, Hong Ting Tsang, Zihao Wang, Lihui Liu, Jeff Z. Pan, Yangqiu Song",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

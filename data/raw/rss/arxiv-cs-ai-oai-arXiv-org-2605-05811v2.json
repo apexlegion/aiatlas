@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.05811v2",
+  "fetchedAt": "2026-07-29T05:29:31.665Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.05811v2",
+    "title": "Sheet As Token: A Graph-Enhanced Representation for Multi-Sheet Spreadsheet Understanding",
+    "link": "https://arxiv.org/abs/2605.05811",
+    "description": "arXiv:2605.05811v2 Announce Type: replace Abstract: Workbook-scale spreadsheet understanding is increasingly important for language-model-based data analysis agents, but remains challenging because relevant information is often distributed across multiple sheets with heterogeneous schemas, layouts, and implicit relationships. Existing retrieval-augmented approaches typically decompose spreadsheets into rows, columns, or blocks to improve scalability; however, such chunk-centric representations can fragment worksheets into isolated text spans and weaken global sheet-level semantics. We propose Sheet As Token (SAT), a graph-enhanced framework that treats each worksheet as a unified semantic unit for multi-sheet spreadsheet retrieval. SAT serializes sparse schema-aware features, including sheet name, shape, and column headers, and encodes each worksheet into a compact dense token. Given a query, SAT retrieves candidates with a BGE-initialized Sheet Encoder and refines them with a gated relational GNN. In strict full-corpus evaluation, SAT reaches 0.9173 NDCG@5 on IndustryTab-614 and 0.9222 on IndustryTab-1K, relative improvements of 44.6% and 46.7% over zero-shot BGE RAG, respectively. SAT therefore improves both retrieval accuracy and serving efficiency: on IndustryTab-1K, it exceeds a Qwen3.5-9B RAG reranker by 12.5% while reducing online latency from 2.61 s to 9.24 ms, approximately 283X faster. These results show that SAT provides accurate and latency-efficient retrieval in the evaluated fixed-corpus setting. Code and data are available at https://github.com/SHITIANYU-hue/SheetasToken .",
+    "publishedAt": "2026-07-29",
+    "author": "Yiming Lei, Yuhang Yao, Yujia Zhang, Yiqi Wang, Bo Guan, Depei Zhu, Chunhui Wang, Zhuonan Hao, Tianyu Shi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

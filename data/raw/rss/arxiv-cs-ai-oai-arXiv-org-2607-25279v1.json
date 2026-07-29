@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.25279v1",
+  "fetchedAt": "2026-07-29T05:29:31.665Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.25279v1",
+    "title": "Many-body Tipping Dynamics of ChatGPT-like AIs",
+    "link": "https://arxiv.org/abs/2607.25279",
+    "description": "arXiv:2607.25279v1 Announce Type: new Abstract: Why do ChatGPT-like AIs, despite major architectural and training differences, unexpectedly tip to undesirable content (e.g. harmful, misleading, repetitive) even under deterministic greedy decoding? We show that a broad class of such tippings is caused by the many-body interactions between tokens (spins) as they cross the finite-layer system. Tipping emerges as a dynamical first passage process between competing output basins. Attention disorder controls the transport toward, away from, or along the basins' boundary. A few-basin reduction yields a closed finite-layer threshold, whose coarse-grained predictions show good agreement across ChatGPT-like families. These results suggest that a broad class of AI failures represents 'foreseeable engineering risk' rather than inherently unpredictable behavior, with important implications for legal and societal assessments of AI harm.",
+    "publishedAt": "2026-07-29",
+    "author": "Frank Yingjie Huo, Neil F. Johnson",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

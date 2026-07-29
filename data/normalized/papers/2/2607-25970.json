@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2607-25970",
+  "name": "Reinforcement Learning for Code Optimization",
+  "summary": "RL for code correctness is now established: have the model generate a program, run it against hidden test cases, and reward solutions that pass. Extending this to code optimization seems straightfo...",
+  "description": "RL for code correctness is now established: have the model generate a program, run it against hidden test cases, and reward solutions that pass. Extending this to code optimization seems straightforward: just add execution time to the reward. But in practice, once timing drives the reward, small problems in measurement noise, reward sparsity, or GRPO instability overwhelm the signal and make RL fail: generated solutions are barely faster, and more of them can fail. We make execution time learnable through three stages: (1) how code is tested, by building DMC-Optim with large optimization te...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.25970v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-28",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2607.25970v1"
+    }
+  ],
+  "authors": [
+    "Pierre Chambon",
+    "Kunhao Zheng",
+    "Juliette Decugis",
+    "Benoit Sagot",
+    "Gabriel Synnaeve"
+  ],
+  "paperId": "2607.25970",
+  "category": "cs.LG",
+  "publishedAt": "2026-07-28",
+  "abstract": "RL for code correctness is now established: have the model generate a program, run it against hidden test cases, and reward solutions that pass. Extending this to code optimization seems straightforward: just add execution time to the reward. But in practice, once timing drives the reward, small problems in measurement noise, reward sparsity, or GRPO instability overwhelm the signal and make RL fail: generated solutions are barely faster, and more of them can fail. We make execution time learnable through three stages: (1) how code is tested, by building DMC-Optim with large optimization te..."
+}

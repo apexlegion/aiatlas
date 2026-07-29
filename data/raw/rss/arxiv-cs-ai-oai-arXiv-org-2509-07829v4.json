@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2509.07829v4",
+  "fetchedAt": "2026-07-29T05:29:31.665Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2509.07829v4",
+    "title": "Building Large-Scale English-Romanian Literary Translation Resources with Open Models",
+    "link": "https://arxiv.org/abs/2509.07829",
+    "description": "arXiv:2509.07829v4 Announce Type: replace-cross Abstract: Literary translation has recently gained attention as a distinct and complex task in machine translation research, yet translation by small open models remains an open problem, particularly for low-resource languages such as Romanian. We introduce the TinyFabulist Translation Framework (TF2), a unified framework for dataset creation, fine-tuning, and evaluation in English $\\to$ Romanian literary translation. Building on DS-TF1-EN-3M, the largest collection of synthetic English fables to date, our pipeline first generates 15k high-quality Romanian references from the TF1 pool using a high-performing large language model (LLM). We then apply a two-stage fine-tuning process to a 12B-parameter open-weight model: (i) instruction tuning to capture genre-specific narrative style, and (ii) adapter compression for efficient deployment. Evaluation combines a five-dimension LLM-based rubric (accuracy, fluency, coherence, style, cultural adaptation) as the primary comparative framework, alongside corpus-level Bilingual Evaluation Understudy (BLEU) reported as a secondary reference-based consistency metric. Our fine-tuned model (TF2-12B) achieves strong fluency and adequacy, narrowing the gap to top-performing proprietary models under automated and human-anchored evaluation, while being open, accessible, and significantly more cost-effective. We publicly release the fine-tuned model and two large-scale synthetic parallel datasets (DS-TF2-EN-RO-3M and DS-TF2-EN-RO-15K), along with all scripts and evaluation prompts. TF2 provides an end-to-end, reproducible pipeline for research on cost-efficient translation, cross-lingual narrative generation, and the broad adoption of open models for culturally significant literary content in low-resource settings.",
+    "publishedAt": "2026-07-29",
+    "author": "Mihai Nadas, Laura Diosan, Andreea Tomescu, Andrei Piscoran",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

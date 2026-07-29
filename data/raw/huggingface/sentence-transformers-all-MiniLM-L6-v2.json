@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "sentence-transformers/all-MiniLM-L6-v2",
-  "fetchedAt": "2026-07-28T05:22:01.612Z",
+  "fetchedAt": "2026-07-29T05:29:30.794Z",
   "data": {
     "_id": "621ffdc136468d709f180294",
     "id": "sentence-transformers/all-MiniLM-L6-v2",
@@ -54,10 +54,11 @@
       "text-embeddings-inference",
       "endpoints_compatible",
       "deploy:sagemaker",
+      "deploy:azure",
       "region:us"
     ],
-    "downloads": 253094980,
-    "likes": 5131,
+    "downloads": 253941670,
+    "likes": 5136,
     "modelId": "sentence-transformers/all-MiniLM-L6-v2",
     "author": "sentence-transformers",
     "sha": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
@@ -227,17 +228,18 @@
     "spaces": [
       "mteb/leaderboard",
       "hakari-bench/leaderboard",
-      "eduagarcia/multilingual-tokenizer-leaderboard",
       "bench-labs/BenchLabs-Leaderboard",
+      "eduagarcia/multilingual-tokenizer-leaderboard",
       "MinhDS/ProfillyBot",
       "UII-AI/MedVidBench-Leaderboard",
-      "piAshuSingh/Emerging_Stars",
       "Musombi/mvi-ai-engine",
       "Rodmanai/LeoAi-Lite",
-      "ayush150152/ziro",
       "Shuklac/Carrer_Conversation",
       "Kefayatullahkhan/pakistan-taxmate-ai",
+      "GiacomoDeLuca/orrery-demo",
       "cadiazm123/cybersecurity_agent",
+      "Rurouni-II/dr-rocm",
+      "kode-with-klossy/politiq",
       "cvachet/pdf-chatbot",
       "marcosv/InstructIR",
       "JournalistsonHF/ai-scraper",
@@ -323,8 +325,7 @@
       "ABBNikit/Nikit_PDF_Chatbot",
       "captain-awesome/Docuverse-zephyr-beta",
       "JDWebProgrammer/chatbot",
-      "sickcell/AskCTI",
-      "Shashikiran42/Banking_Regulations_Compliance_ChatBOT"
+      "sickcell/AskCTI"
     ],
     "createdAt": "2022-03-02T23:29:05.000Z",
     "safetensors": {

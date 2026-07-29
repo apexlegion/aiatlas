@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2607-26057",
+  "name": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
+  "summary": "On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequen...",
+  "description": "On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the student continues along the original direction, and convert it into a label-free handoff trigger in Relay On-Policy Distillation (Relay-OPD). During tra...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.26057v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-28",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2607.26057v1"
+    }
+  ],
+  "authors": [
+    "Haolei Xu",
+    "Xiaowen Xu",
+    "Haiwen Hong",
+    "Zixuan Ni",
+    "Hongxing Li",
+    "Yiwen Qiu",
+    "Weiming Lu",
+    "Yongliang Shen"
+  ],
+  "paperId": "2607.26057",
+  "category": "cs.CL",
+  "publishedAt": "2026-07-28",
+  "abstract": "On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent generation builds on this deviation, producing misdirected continuations that elicit unreliable supervision and waste compute. We identify a teacher-student continuation asymmetry on failed prefixes, where the teacher tends to redirect while the student continues along the original direction, and convert it into a label-free handoff trigger in Relay On-Policy Distillation (Relay-OPD). During tra..."
+}

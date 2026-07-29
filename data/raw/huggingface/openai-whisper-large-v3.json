@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-07-28T05:22:01.360Z",
+  "fetchedAt": "2026-07-29T05:29:30.540Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -123,8 +123,8 @@
       "deploy:sagemaker",
       "region:us"
     ],
-    "downloads": 5933645,
-    "likes": 5996,
+    "downloads": 5968440,
+    "likes": 6001,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -347,14 +347,15 @@
     "spaces": [
       "mteb/leaderboard",
       "openai/whisper",
-      "eduagarcia/multilingual-tokenizer-leaderboard",
       "nari-labs/Dia2-2B",
-      "Quran-Lab/quranic-asr-leaderboard",
+      "eduagarcia/multilingual-tokenizer-leaderboard",
       "hugging-apps/ex-omni-talking-avatar",
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "navidved/open_persian_asr_leaderboard",
+      "Quran-Lab/quranic-asr-leaderboard",
       "BSC-LT/CATALAN-ASR-ARENA",
       "nabil6391/bengali-asr-leaderboard",
+      "GSMA/GSMA_Africa_Telecom",
       "hf-audio/whisper-large-v3",
       "artificialguybr/Video-Transcription-Smart-Summary",
       "artificialguybr/video-dubbing",
@@ -443,8 +444,7 @@
       "mortimerme/pyvideotrans",
       "haoxiong693/openai-whisper-large-v3",
       "SahilJ2/VQA_Model",
-      "maroonvillager/openai-whisper-large-v3",
-      "Upgradojha/whisper"
+      "maroonvillager/openai-whisper-large-v3"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {

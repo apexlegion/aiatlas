@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.19341v2",
+  "fetchedAt": "2026-07-29T05:29:31.665Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.19341v2",
+    "title": "Structured Scaling of AI Discovery Across Diverse Scientific Domains",
+    "link": "https://arxiv.org/abs/2604.19341",
+    "description": "arXiv:2604.19341v2 Announce Type: replace-cross Abstract: Scientific discovery often requires many cycles of proposing, testing, and refining candidate solutions. Language models can increasingly participate in these loops, but simply generating more attempts does not ensure progress: parallel searches may duplicate one another and iterative refinement may become trapped in poor directions. The central challenge is therefore not only to scale AI-driven discovery, but to structure that scaling so that evaluation signals compound over time. Here we introduce SimpleTES (Simple Test-time Evaluation-driven Scaling), a framework that focuses on the structured scaling of AI discovery loops, organizing evaluator queries across independent trajectories, iterative refinement, local candidate selection, and the selective reuse of evaluated histories. Drawing on structural features of scientific communities, SimpleTES uses a single open-source GPT-OSS model to establish new state-of-the-art solutions across 28 open-ended problems in diverse scientific domains ranging from quantum physics and astronomy to biology, AI, and mathematics. These include a 24.5% reduction in quantum circuit compilation overhead, up to 23% lower propulsive cost for deep-space trajectories, a 2.17x faster lasso-path solver, an 8.5% lower-error whole-brain neural-activity predictor, the fastest reported TriMul kernel, and new mathematical constructions beyond prior human or AI records. We further post-train the model for long-horizon discovery by assigning each attempt the final outcome of the trajectory it helped produce. This improves performance on both training and held-out mathematics problems, further advancing the frontier. Together, these results establish structured scaling as a general mechanism for advancing AI scientific discovery.",
+    "publishedAt": "2026-07-29",
+    "author": "Haotian Ye, Haowei Lin, Jingyi Tang, Yizhen Luo, Rahul Thapa, Caiyin Yang, Chang Su, Rui Yang, Ruihua Liu, Rundao Li, Zeyu Li, Pengwei Sun, Chong Gao, Dachao Ding, Guangrong He, Miaolei Zhang, Lina Sun, Wenyang Wang, Yuchen Zhong, Zhuohao Shen, Puheng Li, Pan Lu, Bianxiao Cui, Di He, Jianzhu Ma, Junfeng Li, Hexi Baoyin, Yejin Choi, Stefano Ermon, Xiaowen Chu, Tongyang Li, Yuzhi Xu, James Zou",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

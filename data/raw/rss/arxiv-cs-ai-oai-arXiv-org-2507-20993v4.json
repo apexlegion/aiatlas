@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2507.20993v4",
+  "fetchedAt": "2026-07-29T05:29:31.665Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2507.20993v4",
+    "title": "Annotation-Assisted Learning of Treatment Policies From Multimodal Electronic Health Records",
+    "link": "https://arxiv.org/abs/2507.20993",
+    "description": "arXiv:2507.20993v4 Announce Type: replace-cross Abstract: We study how to learn treatment policies from multimodal electronic health records (EHRs) that consist of tabular data and clinical text. These policies can help physicians make better treatment decisions and allocate healthcare resources more efficiently. Causal policy learning methods prioritize patients with the largest expected treatment benefit. Yet, existing estimators are designed for tabular covariates under causal assumptions that may be hard to justify in the multimodal setting. A pragmatic alternative is to apply causal estimators directly to multimodal representations, but this can produce biased treatment effect estimates when the representations do not preserve the relevant confounding information. As a result, predictive models of baseline risk are commonly used in practice to guide treatment decisions, although they are not designed to identify which patients benefit most from treatment. We propose AACE (Annotation-Assisted Coarsened Effects), an annotation-assisted approach to causal policy learning for multimodal EHRs. The method uses expert-provided annotations during training to support confounding adjustment, and then predicts treatment benefit from only multimodal representations at inference. We show that the proposed method achieves strong empirical performance across synthetic, semi-synthetic, and real-world EHR datasets, outperforming risk-based and representation-based causal baselines, and offering practical insights for applying causal machine learning in clinical practice.",
+    "publishedAt": "2026-07-29",
+    "author": "Henri Arno, Thomas Demeester",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
