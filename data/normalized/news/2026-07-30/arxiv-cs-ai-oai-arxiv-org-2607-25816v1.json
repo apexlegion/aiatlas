@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-25816v1",
+  "name": "Speculate While You Reason: Teaching Agents to Predict Their Next Tool Call via Joint Agent-Speculator RL",
+  "summary": "arXiv:2607.25816v1 Announce Type: new Abstract: Large language model agents often spend substantial wall-clock time waiting for tool call results. Tool-call speculation can hide this latency by pre...",
+  "description": "arXiv:2607.25816v1 Announce Type: new Abstract: Large language model agents often spend substantial wall-clock time waiting for tool call results. Tool-call speculation can hide this latency by predicting and pre-executing an agent's next tool call if the prediction matches the agent's eventual tool call, but existing speculators are typically separate draft models or cached traces that are poo...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.25816"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-30",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.25816"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-07-30",
+  "expiryAt": "2026-08-29T00:00:00.000Z",
+  "author": "Jiabao Ji, Yujian Liu, Li An, Rohit Jain, Gungor Polatkan, Siyu Zhu, Shiyu Chang"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-24953v1",
+  "name": "Stable FP4 Training via Transposition-Invariant Block Quantization",
+  "summary": "arXiv:2607.24953v1 Announce Type: cross Abstract: Reducing training precision is a key lever for improving the e ciency of large language model (LLM) training, but pushing beyond FP8 to 4-bit oatin...",
+  "description": "arXiv:2607.24953v1 Announce Type: cross Abstract: Reducing training precision is a key lever for improving the e ciency of large language model (LLM) training, but pushing beyond FP8 to 4-bit oating point (FP4) remains challenging due to instability during optimization. We identify a fundamental source of this instability in existing microscaling approaches: scale inconsistency induced by tenso...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.24953"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-30",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.24953"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-07-30",
+  "expiryAt": "2026-08-29T00:00:00.000Z",
+  "author": "Mehdi Rahimifar, Amin Darabi, Mehran Taghian Jazi, Xing Huang, Yao Wang, Zhijun Tu, Yufei Cui, Yunke Peng, Hongliang Li"
+}

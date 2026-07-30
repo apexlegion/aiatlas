@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.24783v1",
-  "fetchedAt": "2026-07-29T05:29:31.665Z",
+  "fetchedAt": "2026-07-30T05:15:56.729Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2607.24783v1",
     "title": "Unified Semantic Modeling Framework for Large-Scale Job Understanding at LinkedIn",
     "link": "https://arxiv.org/abs/2607.24783",
     "description": "arXiv:2607.24783v1 Announce Type: new Abstract: Job understanding is critical to LinkedIn's mission of connecting talent with opportunity. This task involves transforming unstructured and noisy job postings into standardized or derived job attributes that power numerous LinkedIn products. However, building a scalable, cost-efficient, and high-performing job understanding system remains challenging. In this paper, we present a unified semantic modeling framework powered by a small language model (SLM) to address the challenges. We begin by fine-tuning an open-source SLM using a suite of carefully curated synthetic tasks augmented with reasoning traces. These tasks jointly target taxonomy-guided classification and taxonomy-agnostic entity extraction. This allows the resulting model to acquire robust zero-shot generalization for job understanding in structured and unstructured contexts. Building upon this foundation, we introduce a multi-adapter architecture with attribute grouping to facilitate efficient task-specific adaptation while streamlining model management across diverse downstream attributes. Offline evaluations and online A/B tests demonstrate significant performance improvement while reducing operational complexity. Our work provides practical insights into building industry-scale text understanding systems.",
-    "publishedAt": "2026-07-29",
+    "publishedAt": "2026-07-30",
     "author": "Dan Xu, Baofen Zheng, Jianqiang Shen, Qi Xiao, Benjamin Hoan Le, Wen Pu, Saurabh Gupta, Ran Zhou, Neha Saraf, Alice Leung, Qianqi Shen, Liangjie Hong, Jingwei Wu, Wenjing Zhang",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

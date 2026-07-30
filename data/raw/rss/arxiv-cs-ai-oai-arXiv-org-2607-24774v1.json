@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.24774v1",
-  "fetchedAt": "2026-07-29T05:29:31.665Z",
+  "fetchedAt": "2026-07-30T05:15:56.729Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2607.24774v1",
     "title": "Atmospheric Diffusion-Guided Spatio-Temporal Transformer for Nuclear Radiation Forecasting",
     "link": "https://arxiv.org/abs/2607.24774",
     "description": "arXiv:2607.24774v1 Announce Type: new Abstract: Nuclear radiation, the energy released during atomic decay, poses persistent risks to public health and the environment, and concerns have only grown since the Fukushima accident and the recent commencement of treated-water discharge. Modern monitoring networks now record radiation levels and accompanying weather conditions at thousands of stations, opening the door to nationwide forecasting that can inform emergency response, agricultural advisories, and routine public-safety decisions. However, turning this abundance of monitoring data into reliable forecasts is difficult for three reasons. First, the time series at each station are highly non-stationary, shaped by radioactive decay, weather variability, and irregular human interventions. Second, monitoring stations are severely unevenly distributed in space. Roughly 78% of Japan's stations sit in less than 6% of the country, clustered near Fukushima, which breaks the assumptions of standard graph-based models. Third, radiation co-evolves with heterogeneous context such as wind, temperature, and humidity through atmospheric transport processes that purely data-driven models struggle to capture from observations alone. In this study, we introduce NRFormer+, a spatio-temporal Transformer for nationwide nuclear radiation forecasting. NRFormer+ couples non-stationary temporal attention and density-adaptive spatial attention with a new atmospheric diffusion module that estimates how meteorology drives radiation dispersion and injects this physical signal into the network as an architectural prior. NRFormer+ delivers state-of-the-art accuracy on both datasets across all 13 baselines, reducing sudden-change MAE by up to 19.1% over the strongest baseline at comparable inference latency. Our code and datasets are publicly available at https://github.com/tfeilyu/NRFormer_Plus.",
-    "publishedAt": "2026-07-29",
+    "publishedAt": "2026-07-30",
     "author": "Tengfei Lyu, Jindong Han, Hao Liu",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

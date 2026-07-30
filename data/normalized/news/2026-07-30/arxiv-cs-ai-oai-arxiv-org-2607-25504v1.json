@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-25504v1",
+  "name": "At-the-Roofline Sparse Tensor Contractions on Vector Processors for Transformer Inference",
+  "summary": "arXiv:2607.25504v1 Announce Type: cross Abstract: Fine-grained weight pruning and activation sparsification have emerged as effective approaches for reducing the compute and memory cost of inferenc...",
+  "description": "arXiv:2607.25504v1 Announce Type: cross Abstract: Fine-grained weight pruning and activation sparsification have emerged as effective approaches for reducing the compute and memory cost of inference for Transformer models. In the moderate-sparsity regime, Gustavson's dataflow provides a natural execution model for exploiting both activation and weight sparsity on vector processors through metad...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.25504"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-30",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.25504"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-07-30",
+  "expiryAt": "2026-08-29T00:00:00.000Z",
+  "author": "Bowen Wang, Chi Zhang, Diyou Shen, Renzo Andri, Navaneeth Kunhi Purayil, Luca Benini"
+}

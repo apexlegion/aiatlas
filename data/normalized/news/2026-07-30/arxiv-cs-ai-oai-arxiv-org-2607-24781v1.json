@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-24781v1",
+  "name": "Three Sides of Retrieval: Factorial Evidence for Document-Side, Query-Side, and Answer-Side Complementarity in RAG",
+  "summary": "arXiv:2607.24781v1 Announce Type: cross Abstract: RAG systems rely on chunking, which destroys structural information in documents. Existing heading-based retrieval (Jeong et al., 2025) requires mu...",
+  "description": "arXiv:2607.24781v1 Announce Type: cross Abstract: RAG systems rely on chunking, which destroys structural information in documents. Existing heading-based retrieval (Jeong et al., 2025) requires multiple LLM calls per document and returns sub-chunks within matched sections. We introduce ToC-guided page retrieval, which infers headings from visual formatting without LLM calls, embeds them as a p...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.24781"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-30",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.24781"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-07-30",
+  "expiryAt": "2026-08-29T00:00:00.000Z",
+  "author": "Ng S. T. Chong"
+}

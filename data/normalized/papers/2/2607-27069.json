@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2607-27069",
+  "name": "Visual Credit Audit for Multimodal Spatial Reasoning",
+  "summary": "Closed yes/no spatial benchmarks can reward a correct answer even when the image adds little support beyond no-image contexts. Under a fixed forced-choice interface, Visual Credit Audit (VCA) separ...",
+  "description": "Closed yes/no spatial benchmarks can reward a correct answer even when the image adds little support beyond no-image contexts. Under a fixed forced-choice interface, Visual Credit Audit (VCA) separates two estimands: whether the benchmark image gives the model's declared decision more support than text-only and blank controls, and whether the model responds to relation-specific visual evidence. The first audit is training- and label-free and does not require an answer flip. Applying labels yields dependence-credited correctness (D-CC); on correct items, it equals same-control gold-aligned p...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.27069v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-29",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2607.27069v1"
+    }
+  ],
+  "authors": [
+    "Feixiang Liu",
+    "Qiang Qiu",
+    "Lanbo Sun",
+    "Nan Wei",
+    "Huawei Shen",
+    "Xueqi Cheng"
+  ],
+  "paperId": "2607.27069",
+  "category": "cs.CV",
+  "publishedAt": "2026-07-29",
+  "abstract": "Closed yes/no spatial benchmarks can reward a correct answer even when the image adds little support beyond no-image contexts. Under a fixed forced-choice interface, Visual Credit Audit (VCA) separates two estimands: whether the benchmark image gives the model's declared decision more support than text-only and blank controls, and whether the model responds to relation-specific visual evidence. The first audit is training- and label-free and does not require an answer flip. Applying labels yields dependence-credited correctness (D-CC); on correct items, it equals same-control gold-aligned p..."
+}

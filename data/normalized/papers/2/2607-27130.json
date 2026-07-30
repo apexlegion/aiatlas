@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2607-27130",
+  "name": "AgentMap: Joint Equivalence and Subsumption Discovery for Ontology Matching",
+  "summary": "Ontology matching (OM) has traditionally been formulated as either equivalence discovery or subsumption matching. The existing OM systems identify only one type of semantic correspondence and canno...",
+  "description": "Ontology matching (OM) has traditionally been formulated as either equivalence discovery or subsumption matching. The existing OM systems identify only one type of semantic correspondence and cannot simultaneously discover equivalence and subsumption mappings. In this paper, we introduce Hybrid Ontology Matching (HOM), a new OM task that unifies equivalence and subsumption discovery, and accordingly propose a Large Language Model (LLM)-based multi-agent OM framework AgentMap that is implemented by a series of interdependent semantic decisions. Given a concept in the source ontology, AgentMa...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.27130v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-29",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2607.27130v1"
+    }
+  ],
+  "authors": [
+    "Yiping Song",
+    "Jiaoyan Chen",
+    "Renate Schmidt",
+    "Hui Yang",
+    "Wen Zhang"
+  ],
+  "paperId": "2607.27130",
+  "category": "cs.AI",
+  "publishedAt": "2026-07-29",
+  "abstract": "Ontology matching (OM) has traditionally been formulated as either equivalence discovery or subsumption matching. The existing OM systems identify only one type of semantic correspondence and cannot simultaneously discover equivalence and subsumption mappings. In this paper, we introduce Hybrid Ontology Matching (HOM), a new OM task that unifies equivalence and subsumption discovery, and accordingly propose a Large Language Model (LLM)-based multi-agent OM framework AgentMap that is implemented by a series of interdependent semantic decisions. Given a concept in the source ontology, AgentMa..."
+}

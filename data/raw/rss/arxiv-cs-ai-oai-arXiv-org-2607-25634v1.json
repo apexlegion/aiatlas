@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.25634v1",
-  "fetchedAt": "2026-07-29T05:29:31.665Z",
+  "fetchedAt": "2026-07-30T05:15:56.729Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2607.25634v1",
     "title": "AIriskEval-edu Demo: Auditing of Pedagogical Risks in Educational Explanations",
     "link": "https://arxiv.org/abs/2607.25634",
     "description": "arXiv:2607.25634v1 Announce Type: new Abstract: We present AIriskEval-edu Demo, a platform that audits the pedagogical quality of instructional explanations and provides explainable audit results. The platform evaluates an explanation against a rubric covering five dimensions of pedagogical risk: factual accuracy, depth and completeness, focus and relevance, student-level appropriateness, and ideological bias. For each dimension, it returns a binary decision and a confidence score. Detected risks also include a natural-language rationale and, except for Depth and Completeness, a localized evidence span. The platform integrates GPT-5.5 through an external API and a self-hosted Llama 3.1 8B evaluator that runs on consumer-grade GPUs. The local evaluator is fine-tuned on AIriskEval-edu, a dataset of K-12 instructional explanations with risk and explainability annotations. The platform operates in two modes: in AI mode, both evaluators assess stored explanations generated under six simulated teacher profiles, each representing a distinct pedagogical behavior and potential risk; in human mode, the local evaluator audits user-written explanations in real time. The local evaluator outperforms GPT-5.5 on most reported metrics, offering educational institutions a practical way to keep audited content within their own infrastructure.",
-    "publishedAt": "2026-07-29",
+    "publishedAt": "2026-07-30",
     "author": "Javier Irigoyen, Roberto Daza, Francisco Jurado, Julian Fierrez, Ruben Tolosana, Alvaro Ortigosa, Miguel Lopez-Duran, Aythami Morales",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

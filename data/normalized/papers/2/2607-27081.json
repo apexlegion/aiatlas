@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2607-27081",
+  "name": "On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment",
+  "summary": "Fine-tuning is the dominant paradigm for specializing large language models (LLMs), yet it exposes a critical vulnerability: malicious data providers can embed harmful behaviors into downstream cor...",
+  "description": "Fine-tuning is the dominant paradigm for specializing large language models (LLMs), yet it exposes a critical vulnerability: malicious data providers can embed harmful behaviors into downstream corpora, creating models that retain professional skills while violating human values on demand. Existing safety-realignment defenses often fail in practice due to three key limitations: they frequently cause catastrophic forgetting of specialized skills; their effectiveness collapses when the defender cannot observe the attacker's prompt template; and successfully realigned models remain susceptible...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.27081v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-29",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2607.27081v1"
+    }
+  ],
+  "authors": [
+    "Yongjian Guo",
+    "Wanlun Ma",
+    "Lingyu Shen",
+    "Xi Xiao",
+    "Sheng Wen"
+  ],
+  "paperId": "2607.27081",
+  "category": "cs.AI",
+  "publishedAt": "2026-07-29",
+  "abstract": "Fine-tuning is the dominant paradigm for specializing large language models (LLMs), yet it exposes a critical vulnerability: malicious data providers can embed harmful behaviors into downstream corpora, creating models that retain professional skills while violating human values on demand. Existing safety-realignment defenses often fail in practice due to three key limitations: they frequently cause catastrophic forgetting of specialized skills; their effectiveness collapses when the defender cannot observe the attacker's prompt template; and successfully realigned models remain susceptible..."
+}
