@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.21848v2",
+  "fetchedAt": "2026-07-31T05:42:34.361Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.21848v2",
+    "title": "Keyless Attention: Value-Space Routing and Value-Only Caching for Efficient Transformers",
+    "link": "https://arxiv.org/abs/2606.21848",
+    "description": "arXiv:2606.21848v2 Announce Type: replace-cross Abstract: Transformer architectures form the foundation of modern natural language processing, making it crucial to address the efficiency and scalability limitations of the standard QKV attention mechanism. The Key-Value (KV) cache is a major bottleneck during long-context inference. We propose Keyless Attention, a novel attention mechanism that introduces a dedicated value-space routing projection to replace the conventional key projection, thereby eliminating key representations from the attention computation. This design yields a Value-Only Cache that reduces KV-cache memory and access overhead by 50% compared with standard attention while improving decode throughput. Experiments across five models and four architectures show that Keyless Attention matches or outperforms standard QKV attention in perplexity on four of five models. Furthermore, it achieves competitive performance on downstream evaluation benchmarks while consistently reducing KV-cache memory by 50%. Ablation studies on attention factorization depth further demonstrate that the dedicated value-space routing projection is a key component of the proposed architecture, with Keyless Attention outperforming KV-sharing methods that do not employ this routing mechanism.",
+    "publishedAt": "2026-07-31",
+    "author": "Xin Gao, Xingming Xu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

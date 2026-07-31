@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.22888v4",
+  "fetchedAt": "2026-07-31T05:42:34.361Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.22888v4",
+    "title": "DialectLLM: A Dialect-Aware Dialog[ue] Generation Framework Beyond Standard American English",
+    "link": "https://arxiv.org/abs/2601.22888",
+    "description": "arXiv:2601.22888v4 Announce Type: replace-cross Abstract: More than 80% of the 1.6B English speakers do not use Standard American English (SAE), yet LLMs often fail to correctly identify non-SAE dialects and generate stereotyped responses for their speakers. We introduce DialectLLM, the first large-scale framework for generating high-quality multi-dialectal conversational data encompassing the three pillars of written dialect -- lexical (vocabulary), orthographic (spelling), and morphosyntactic (grammar) features. DialectLLM produces a dialect-parallel dialog dataset spanning nine English dialects. Partnering with native linguists, we design and validate SAE-to-dialect transformation rules, ensuring authenticity. Our approach challenges the prevailing practice of applying a single morphosyntactic feature set to both user utterances and model responses, showing that models should not reproduce up to 90% of the grammatical features of a dialect. Human evaluation confirms data quality, with annotators preferring DialectLLM over prior methods in 98.8% of pairwise comparisons for dialect naturalness. We then construct DialectLLM-Bench, a dialect-parallel benchmark with 50k+ dialogs, resulting in 97k+ QA pairs, and evaluate 17 LLMs on dialect identification and response generation tasks. Even frontier models achieve under 70% accuracy, fail to reach 50% for prominent dialects like Canadian English, and systematically misclassify non-SAE dialects as American or British. Beyond benchmarking, we show that DialectLLM data also serve as a scalable LLM post-training resource, suggesting a practical path toward dialect-aware conversational AI.",
+    "publishedAt": "2026-07-31",
+    "author": "Jio Oh, Paul Vicinanza, Thomas Butler, Steven Euijong Whang, Dezhi Hong, Amani Namboori",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

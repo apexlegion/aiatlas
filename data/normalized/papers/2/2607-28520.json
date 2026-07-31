@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2607-28520",
+  "name": "Agents That Certify Their Own Exploits: Confidence-Scheduled Restricted Responses for Safe Opponent Exploitation",
+  "summary": "An agent playing a Nash-equilibrium strategy in a two-player zero-sum imperfect-information game secures the game value but forfeits the additional value offered by a flawed opponent. Diffuse devia...",
+  "description": "An agent playing a Nash-equilibrium strategy in a two-player zero-sum imperfect-information game secures the game value but forfeits the additional value offered by a flawed opponent. Diffuse deviations pose a particular challenge: binary release rules may gather too little evidence to act, while a full best response to an incomplete opponent model can be highly exploitable. We introduce \\emph{budget-constrained confidence-scheduled restricted responses} (CS-RNR), the first opponent-exploitation method whose safety guarantee is a certificate the agent computes on the strategy it actually de...",
+  "tags": [
+    "arxiv",
+    "cs.GT"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.28520v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-30",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.GT.",
+      "href": "https://arxiv.org/abs/2607.28520v1"
+    }
+  ],
+  "authors": [
+    "Boning Li",
+    "Longbo Huang"
+  ],
+  "paperId": "2607.28520",
+  "category": "cs.GT",
+  "publishedAt": "2026-07-30",
+  "abstract": "An agent playing a Nash-equilibrium strategy in a two-player zero-sum imperfect-information game secures the game value but forfeits the additional value offered by a flawed opponent. Diffuse deviations pose a particular challenge: binary release rules may gather too little evidence to act, while a full best response to an incomplete opponent model can be highly exploitable. We introduce \\emph{budget-constrained confidence-scheduled restricted responses} (CS-RNR), the first opponent-exploitation method whose safety guarantee is a certificate the agent computes on the strategy it actually de..."
+}

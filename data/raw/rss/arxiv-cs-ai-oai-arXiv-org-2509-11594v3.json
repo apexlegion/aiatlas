@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2509.11594v3",
+  "fetchedAt": "2026-07-31T05:42:34.361Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2509.11594v3",
+    "title": "GBPP: Grasp-Aware Base Placement Prediction for Robots via Two-Stage Learning",
+    "link": "https://arxiv.org/abs/2509.11594",
+    "description": "arXiv:2509.11594v3 Announce Type: replace-cross Abstract: GBPP is a fast learning based scorer that selects a robot base pose for grasping from a single RGB-D snapshot. The method uses a two stage curriculum: (1) a simple distance-visibility rule auto-labels a large dataset at low cost; and (2) a smaller set of high fidelity simulation trials refines the model to match true grasp outcomes. A PointNet++ style point cloud encoder with an MLP scores dense grids of candidate poses, enabling rapid online selection without full task-and-motion optimization. In simulation and on a real mobile manipulator, GBPP outperforms proximity and geometry only baselines, choosing safer and more reachable stances and degrading gracefully when wrong. The results offer a practical recipe for data efficient, geometry aware base placement: use inexpensive heuristics for coverage, then calibrate with targeted simulation.",
+    "publishedAt": "2026-07-31",
+    "author": "Jizhuo Chen, Diwen Liu, Jiaming Wang, Harold Soh",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

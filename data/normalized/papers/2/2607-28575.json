@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2607-28575",
+  "name": "Algorithms for Structured Elections under Thiele Voting Rules",
+  "summary": "We study the computational complexity of winner determination problems in approval-based committee elections under Thiele voting rules. These form a class of rules parameterized by a fixed weight v...",
+  "description": "We study the computational complexity of winner determination problems in approval-based committee elections under Thiele voting rules. These form a class of rules parameterized by a fixed weight vector that specifies how a voter's satisfaction depends on the number of approved candidates elected. We first analyze the structure of optimal solutions based on the sets of voters who approve each candidate---that is, how voters' approval ballots induce dependencies between candidates---revealing constraints on a winning committee under any fixed Thiele voting rule. Using this, we design FPT alg...",
+  "tags": [
+    "arxiv",
+    "cs.GT"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.28575v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-30",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.GT.",
+      "href": "https://arxiv.org/abs/2607.28575v1"
+    }
+  ],
+  "authors": [
+    "Alexandra Lassota",
+    "Krzysztof Sornat"
+  ],
+  "paperId": "2607.28575",
+  "category": "cs.GT",
+  "publishedAt": "2026-07-30",
+  "abstract": "We study the computational complexity of winner determination problems in approval-based committee elections under Thiele voting rules. These form a class of rules parameterized by a fixed weight vector that specifies how a voter's satisfaction depends on the number of approved candidates elected. We first analyze the structure of optimal solutions based on the sets of voters who approve each candidate---that is, how voters' approval ballots induce dependencies between candidates---revealing constraints on a winning committee under any fixed Thiele voting rule. Using this, we design FPT alg..."
+}

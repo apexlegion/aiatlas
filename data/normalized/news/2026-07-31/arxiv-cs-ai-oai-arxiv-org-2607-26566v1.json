@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-26566v1",
+  "name": "ServerlessT2I: Efficient Text-to-Image Workflow Serving on a Serverless Platform",
+  "summary": "arXiv:2607.26566v1 Announce Type: cross Abstract: Text-to-image (T2I) workflows are increasingly deployed on serverless platforms because users often compose customized workflows and invoke them in...",
+  "description": "arXiv:2607.26566v1 Announce Type: cross Abstract: Text-to-image (T2I) workflows are increasingly deployed on serverless platforms because users often compose customized workflows and invoke them intermittently. Existing platforms typically deploy each workflow as an opaque GPU function, provisioning, placing, and scaling all constituent models in the workflow together. This monolithic design ob...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.26566"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-31",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.26566"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-07-31",
+  "expiryAt": "2026-08-30T00:00:00.000Z",
+  "author": "Xiaoxiao Jiang, Suyi Li, Sheng Yao, Tianyu Feng, Lingyun Yang, Dapeng Nie, Haoran Yang, Wei Wang"
+}

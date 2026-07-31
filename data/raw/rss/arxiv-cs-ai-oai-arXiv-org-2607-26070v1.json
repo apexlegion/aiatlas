@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.26070v1",
+  "fetchedAt": "2026-07-31T05:42:34.360Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.26070v1",
+    "title": "SimpleWikiSearch: A Clean Offline Wikipedia Environment for Agentic Search",
+    "link": "https://arxiv.org/abs/2607.26070",
+    "description": "arXiv:2607.26070v1 Announce Type: cross Abstract: Large language model (LLM)-based agentic search systems are often evaluated as if the underlying LLM were the only component that matters, yet their measured performance also depends on the surrounding search environment: the Wikipedia snapshot, preprocessing pipeline, chunking policy, retrieval backend, tool schema, observation format, and answer submission rule. These details are frequently under-specified, making it difficult to compare results or reproduce reported baselines. We present SimpleWikiSearch, whose corpus construction, retrieval stack, tool contract, and evaluation protocol are explicit and runnable. The environment starts from a full English Wikipedia dump, cleans and chunks the corpus, builds keyword and dense retrieval indexes, and exposes a minimal tool interface consisting of \\texttt{search}, \\texttt{open\\_url}, and \\texttt{submit\\_answer}. We report baseline results on six QA datasets using open-source LLMs and provide a random-300 subset for comparisons with closed-source commercial models. SimpleWikiSearch provides a domain-specific agent harness and a controlled offline environment for reproducible agentic-search evaluation. Its contribution is this specified reference setup, rather than a new agent algorithm. Code and data will be available at: https://github.com/JimXiongGM/simple_wiki_search.",
+    "publishedAt": "2026-07-31",
+    "author": "Guanming Xiong, Penghui Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

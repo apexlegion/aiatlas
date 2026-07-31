@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-07-30T05:15:54.400Z",
+  "fetchedAt": "2026-07-31T05:42:32.432Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,8 +25,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 1480869,
-    "likes": 7990,
+    "downloads": 1499340,
+    "likes": 7995,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -221,11 +221,14 @@
     ],
     "spaces": [
       "shootstuff/flux-img2img-uncensored",
-      "BoobyBoobs/Flux_Lustly_AI_Uncensored_NSFW_V1",
       "yisol/IDM-VTON",
       "multimodalart/lora-ease",
-      "John6666/DiffuseCraftMod",
+      "BoobyBoobs/Flux_Lustly_AI_Uncensored_NSFW_V1",
       "RioShiina/ImageGen",
+      "frogleo/Image-to-3D",
+      "John6666/DiffuseCraftMod",
+      "John6666/votepurchase-multiple-model",
+      "eduagarcia/multilingual-tokenizer-leaderboard",
       "InstantX/InstantID",
       "lllyasviel/Omost",
       "YupengZhou/StoryDiffusion",
@@ -233,10 +236,7 @@
       "tencent/Hunyuan3D-2mv",
       "r3gm/DiffuseCraft",
       "tencent/Hunyuan3D-2mini-Turbo",
-      "frogleo/Image-to-3D",
-      "tonyassi/fashion-try-on",
-      "John6666/votepurchase-multiple-model",
-      "eduagarcia/multilingual-tokenizer-leaderboard",
+      "yuxinjiang11/Anomagic",
       "yanze/PuLID-FLUX",
       "VAST-AI/TripoSG",
       "radames/Real-Time-Latent-Consistency-Model",
@@ -277,6 +277,7 @@
       "PAIR/StreamingT2V",
       "chansung/co-write-with-llama2",
       "jasperai/flash-lora",
+      "tonyassi/fashion-try-on",
       "aiqtech/kofaceid",
       "ChenyangSi/FreeU",
       "multimodalart/one-step-comparison",
@@ -318,8 +319,7 @@
       "tight-inversion/tight-inversion-pulid-demo",
       "fffiloni/StyleAligned_Transfer",
       "wcy1122/MGM",
-      "latent-consistency/Real-Time-LCM-ControlNet-Lora-SD1.5",
-      "ginipick/time-machine"
+      "latent-consistency/Real-Time-LCM-ControlNet-Lora-SD1.5"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {

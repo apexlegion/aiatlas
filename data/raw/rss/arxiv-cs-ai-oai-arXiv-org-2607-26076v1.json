@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.26076v1",
+  "fetchedAt": "2026-07-31T05:42:34.360Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.26076v1",
+    "title": "FinCacheServe: Dependency-Consistent Answer Reuse for Cost-Efficient RAG Serving over Mutable Enterprise Documents",
+    "link": "https://arxiv.org/abs/2607.26076",
+    "description": "arXiv:2607.26076v1 Announce Type: cross Abstract: Retrieval-augmented generation services over mutable enterprise documents repeatedly execute semantically equivalent analysis requests. Answer reuse can remove GPU-bound generation work, yet response caches require dependency consistency when filings, evidence chunks, and tool outputs change. FinCacheServe treats each generated answer as a serving object indexed by enterprise intent and guarded by document versions, evidence fingerprints, tool fingerprints, model identity, and decoding configuration. A vLLM implementation evaluates SEC-derived financial-document workloads with Qwen2.5 models. On a 2,230-request hosted 7B trace, FinCacheServe skips 53.27% of LLM calls with zero observed dependency-stale outputs. Across three hosted 32B operator-suite seeds, it skips 53.31% of 544 requests, compared with 38.97% for versioned semantic caching and 22.43% for grounded-style reuse. Capacity, backend, and SLO replays show oracle-bounded cache management, 100k-entry transactional metadata behavior, and 44.30% lower estimated Wh per dependency-fresh 2s-SLO success than versioned semantic caching.",
+    "publishedAt": "2026-07-31",
+    "author": "Lingteng Zeng, Yifan Jin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
