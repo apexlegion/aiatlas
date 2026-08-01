@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "sentence-transformers/all-MiniLM-L6-v2",
-  "fetchedAt": "2026-07-31T05:42:32.934Z",
+  "fetchedAt": "2026-08-01T05:34:09.039Z",
   "data": {
     "_id": "621ffdc136468d709f180294",
     "id": "sentence-transformers/all-MiniLM-L6-v2",
@@ -57,8 +57,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 254507269,
-    "likes": 5147,
+    "downloads": 255538620,
+    "likes": 5153,
     "modelId": "sentence-transformers/all-MiniLM-L6-v2",
     "author": "sentence-transformers",
     "sha": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
@@ -228,11 +228,13 @@
     "spaces": [
       "mteb/leaderboard",
       "kode-with-klossy/3.4-groupD2-capstone",
-      "bench-labs/BenchLabs-Leaderboard",
       "eduagarcia/multilingual-tokenizer-leaderboard",
+      "bench-labs/BenchLabs-Leaderboard",
       "MinhDS/ProfillyBot",
+      "MTEB-BR/leaderboard",
       "hakari-bench/leaderboard",
-      "UII-AI/MedVidBench-Leaderboard",
+      "Italianhype/Blum",
+      "duotkuerduot/DDD-MSL-Cruise",
       "johncenaqweewewwe/neuroResearch",
       "Shuklac/Carrer_Conversation",
       "topukumar/OpsIQ",
@@ -244,7 +246,6 @@
       "cvachet/pdf-chatbot",
       "marcosv/InstructIR",
       "JournalistsonHF/ai-scraper",
-      "MTEB-BR/leaderboard",
       "mteb/arena",
       "build-small-hackathon/FamilyLegacy",
       "Illia56/Ask-AI-Youtube",
@@ -296,6 +297,7 @@
       "usmanyousaf/AI_Interview_Coach",
       "responsible-prompting/demo-multiturn",
       "Pulastya0/Data-Science-Agent",
+      "UII-AI/MedVidBench-Leaderboard",
       "aseifert/ExplaiNER",
       "pritamdeka/pubmed-abstract-retriever",
       "DiffusionAgent/DiffusionAgent",
@@ -323,9 +325,7 @@
       "KrishnaKumar23/documentQABot",
       "CyranoB/search_agent",
       "Gololias/MetroCuadrado",
-      "ABBNikit/Nikit_PDF_Chatbot",
-      "captain-awesome/Docuverse-zephyr-beta",
-      "JDWebProgrammer/chatbot"
+      "ABBNikit/Nikit_PDF_Chatbot"
     ],
     "createdAt": "2022-03-02T23:29:05.000Z",
     "safetensors": {
