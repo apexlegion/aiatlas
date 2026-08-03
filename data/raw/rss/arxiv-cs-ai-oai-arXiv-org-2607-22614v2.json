@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22614v2",
+  "fetchedAt": "2026-08-03T05:50:28.830Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22614v2",
+    "title": "DynaResize: Runtime GPU Reallocation for Disaggregated LLM Post-Training",
+    "link": "https://arxiv.org/abs/2607.22614",
+    "description": "arXiv:2607.22614v2 Announce Type: replace Abstract: RL-based LLM post-training increasingly disaggregates Rollout and Training across separate GPU resources, but static GPU partitioning suffers from severe pipeline bubbles under long-tail rollout latency. We present DynaResize, a runtime GPU reallocation system that dynamically switches GPUs between Rollout and Training to balance stage execution times without changing RL semantics. DynaResize decomposes resizing into fine-grained operations and removes non-startup-critical work from the critical path through communicator reuse, bounded state staging, and hysteresis-based resizing. Experimental results show that DynaResize can improve end-to-end throughput by 66.5% and reduce total execution time by 33% over the optimal static configuration, while hiding 27% of role-switching overhead.",
+    "publishedAt": "2026-08-03",
+    "author": "Hanlin Du, Zhiyuan Yan, Yungang Bao, Sa wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2607-29617",
+  "name": "When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning",
+  "summary": "Imitation learning (IL)---training an agent to replicate expert behavior from demonstrations---underpins applications from robotics to language model training. Standard approaches such as Behavior...",
+  "description": "Imitation learning (IL)---training an agent to replicate expert behavior from demonstrations---underpins applications from robotics to language model training. Standard approaches such as Behavior Cloning (BC) are known to suffer from compounding errors and performance plateaus, particularly when the learner cannot perfectly represent the expert's policy (as is typical, e.g., in distillation). Two interventions are widely understood empirically to improve performance: querying the expert interactively along the learner's own trajectories, and using value function estimation en route to gene...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.29617v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-31",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2607.29617v1"
+    }
+  ],
+  "authors": [
+    "Luca Viano",
+    "Antoine Moulin",
+    "Audrey Huang",
+    "Volkan Cevher",
+    "Philip Amortila",
+    "Dylan J. Foster"
+  ],
+  "paperId": "2607.29617",
+  "category": "cs.LG",
+  "publishedAt": "2026-07-31",
+  "abstract": "Imitation learning (IL)---training an agent to replicate expert behavior from demonstrations---underpins applications from robotics to language model training. Standard approaches such as Behavior Cloning (BC) are known to suffer from compounding errors and performance plateaus, particularly when the learner cannot perfectly represent the expert's policy (as is typical, e.g., in distillation). Two interventions are widely understood empirically to improve performance: querying the expert interactively along the learner's own trajectories, and using value function estimation en route to gene..."
+}

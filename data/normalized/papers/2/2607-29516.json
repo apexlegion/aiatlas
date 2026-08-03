@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2607-29516",
+  "name": "From Code Review to Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale",
+  "summary": "AI coding agents are generating code at volumes that exceed the capacity of traditional peer review. At the same time, existing AI code review tools over-index on low-value suggestions such as styl...",
+  "description": "AI coding agents are generating code at volumes that exceed the capacity of traditional peer review. At the same time, existing AI code review tools over-index on low-value suggestions such as style and best practices while under-indexing on the concerns human reviewers prioritize most: correctness, security, and performance. We present ARCTIC, an AI-powered Code Critique system that reframes code review around three capabilities: intent prediction, which infers why a change was made from conversation logs and metadata; drift detection, which measures divergence between the developer's inte...",
+  "tags": [
+    "arxiv",
+    "cs.SE"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.29516v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-31",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.SE.",
+      "href": "https://arxiv.org/abs/2607.29516v1"
+    }
+  ],
+  "authors": [
+    "Chandra Maddila",
+    "Mashrur Rashik",
+    "Euna Mehnaz Khan",
+    "Smriti Jha",
+    "James Saindon",
+    "Nachi Nagappan",
+    "Peter C. Rigby"
+  ],
+  "paperId": "2607.29516",
+  "category": "cs.SE",
+  "publishedAt": "2026-07-31",
+  "abstract": "AI coding agents are generating code at volumes that exceed the capacity of traditional peer review. At the same time, existing AI code review tools over-index on low-value suggestions such as style and best practices while under-indexing on the concerns human reviewers prioritize most: correctness, security, and performance. We present ARCTIC, an AI-powered Code Critique system that reframes code review around three capabilities: intent prediction, which infers why a change was made from conversation logs and metadata; drift detection, which measures divergence between the developer's inte..."
+}

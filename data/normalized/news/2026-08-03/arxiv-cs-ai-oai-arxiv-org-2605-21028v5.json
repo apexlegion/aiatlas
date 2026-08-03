@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2605-21028v5",
+  "name": "DySink: Dynamic Frame Sinks for Autoregressive Long Video Generation",
+  "summary": "arXiv:2605.21028v5 Announce Type: replace-cross Abstract: Autoregressive long video generation often adopts bounded-memory streaming for efficiency, typically combining local windows for short-term...",
+  "description": "arXiv:2605.21028v5 Announce Type: replace-cross Abstract: Autoregressive long video generation often adopts bounded-memory streaming for efficiency, typically combining local windows for short-term continuity with static early-frame sinks as long-range anchors. However, this fixed allocation keeps early frames cached even when the current visual state has substantially diverged from them, while...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2605.21028"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-03",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2605.21028"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-03",
+  "expiryAt": "2026-09-02T00:00:00.000Z",
+  "author": "Bo Ye, Xinyu Cui, Jian Zhao, Tong Wei, Min-Ling Zhang"
+}

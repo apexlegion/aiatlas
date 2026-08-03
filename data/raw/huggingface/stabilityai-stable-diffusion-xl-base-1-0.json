@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-08-02T05:34:47.562Z",
+  "fetchedAt": "2026-08-03T05:50:27.487Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,8 +25,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 1478066,
-    "likes": 8002,
+    "downloads": 1496199,
+    "likes": 8004,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -222,6 +222,7 @@
     "spaces": [
       "shootstuff/flux-img2img-uncensored",
       "yisol/IDM-VTON",
+      "multimodalart/minimax-h3",
       "RioShiina/ImageGen",
       "multimodalart/lora-ease",
       "frogleo/Image-to-3D",
@@ -237,9 +238,11 @@
       "r3gm/DiffuseCraft",
       "We-Want-GPU/diffusers-cross-attention-map-SDXL-t2i",
       "yuxinjiang11/Anomagic",
+      "AIgoose/money-printer-studio-v3",
       "shiv-ml/PromptLens",
       "mimot/Image-Edit-Full-Wan",
       "drizzymedia/Music-To-Image",
+      "multimodalart/minimax-h3-reference",
       "BoobyBoobs/Flux_Lustly_AI_Uncensored_NSFW_V1",
       "VAST-AI/TripoSG",
       "radames/Real-Time-Latent-Consistency-Model",
@@ -316,10 +319,7 @@
       "multimodalart/Boogu-Image",
       "TIGER-Lab/AnyV2V",
       "tight-inversion/tight-inversion",
-      "clinteroni/outpainting-with-differential-diffusion-demo",
-      "briaai/BRIA-Eraser-API",
-      "jeasinema/UltraEdit-SD3",
-      "Nymbo/image_gen_supaqueue"
+      "clinteroni/outpainting-with-differential-diffusion-demo"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-29135v1",
+  "name": "HERO: History-Enriched Rollout Training for Long-Horizon Autoregressive Neural Operators",
+  "summary": "arXiv:2607.29135v1 Announce Type: cross Abstract: Neural operators provide fast surrogates for time-dependent partial differential equations (PDEs) by applying a learned evolution operator recursiv...",
+  "description": "arXiv:2607.29135v1 Announce Type: cross Abstract: Neural operators provide fast surrogates for time-dependent partial differential equations (PDEs) by applying a learned evolution operator recursively to its own predictions, but this autoregressive rollout feeds every prediction error back as input, so local errors accumulate. Existing rollout-training strategies reduce the mismatch between tra...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.29135"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-03",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.29135"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-03",
+  "expiryAt": "2026-09-02T00:00:00.000Z",
+  "author": "Jiaquan Zhang, Shuxu Chen, Haifan Meng, Yi Lu, Zhihan Lyu, Fan Mo, Wei Dong, Yang Yang, Chaoning Zhang"
+}

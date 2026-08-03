@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2607-29586",
+  "name": "TraceViT: Grounded Trace Supervision for Visual Abstract Reasoning",
+  "summary": "The Abstraction and Reasoning Corpus (ARC) tests whether a model can infer an unseen transformation from a few input-output examples and apply it to a new grid. Looped visual reasoners refine predi...",
+  "description": "The Abstraction and Reasoning Corpus (ARC) tests whether a model can infer an unseen transformation from a few input-output examples and apply it to a new grid. Looped visual reasoners refine predictions over multiple iterations, but conventional training constrains only the final output, leaving intermediate refinements unconstrained. We propose that these refinements should instead follow the transformation step by step. We introduce TraceViT, a looped visual reasoner trained with semantically monotonic transformation chains. We obtain these chains by rewriting and verifying programmatic...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.29586v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-31",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2607.29586v1"
+    }
+  ],
+  "authors": [
+    "Binnan Liu",
+    "Yechi Ma",
+    "Tian Xie",
+    "Wei Hua"
+  ],
+  "paperId": "2607.29586",
+  "category": "cs.CV",
+  "publishedAt": "2026-07-31",
+  "abstract": "The Abstraction and Reasoning Corpus (ARC) tests whether a model can infer an unseen transformation from a few input-output examples and apply it to a new grid. Looped visual reasoners refine predictions over multiple iterations, but conventional training constrains only the final output, leaving intermediate refinements unconstrained. We propose that these refinements should instead follow the transformation step by step. We introduce TraceViT, a looped visual reasoner trained with semantically monotonic transformation chains. We obtain these chains by rewriting and verifying programmatic..."
+}

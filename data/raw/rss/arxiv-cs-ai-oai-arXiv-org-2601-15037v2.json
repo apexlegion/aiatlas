@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.15037v2",
+  "fetchedAt": "2026-08-03T05:50:28.830Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.15037v2",
+    "title": "Knowledge Restoration-driven Prompt Optimization: Unlocking LLM Potential for Open-Domain Relational Triplet Extraction",
+    "link": "https://arxiv.org/abs/2601.15037",
+    "description": "arXiv:2601.15037v2 Announce Type: replace-cross Abstract: Open-domain Relational Triplet Extraction (ORTE) aims to mine structured knowledge without predefined relation schemas. Large Language Models (LLMs) have advanced ORTE toward a prompt-driven paradigm through powerful in-context learning. However, adapting their extraction behavior to varying open-domain contexts remains challenging. Existing methods typically rely on manually crafted prompts that remain fixed across inputs, despite substantial variation in linguistic expressions and contextual structures. This mismatch may lead to unsupported triplets, while the absence of ground-truth annotations makes such deficiencies difficult to identify and correct. Moreover, free-form relation generation produces non-canonical relation surface forms, undermining knowledge graph consistency. To address these challenges, we propose Knowledge Restoration-driven Prompt Optimization (KRPO), a framework for label-free target-corpus adaptation. KRPO restores extracted triplets into textual statements and evaluates their semantic consistency with the source inputs, deriving intrinsic feedback without gold annotations. This feedback is transformed into natural-language optimization guidance for batch-wise prompt optimization and adaptation. KRPO further introduces a Memory-augmented Relation Canonicalizer that aligns free-form relations with a dynamically updated schema memory, improving relation consistency. Experiments on three ORTE benchmarks with multiple LLM backbones demonstrate strong overall performance, with KRPO achieving the best average F1 score across the evaluated settings.",
+    "publishedAt": "2026-08-03",
+    "author": "Xiaonan Jing, Gongqing Wu, Xingrui Zhuo, Lang Sun, Jiapu Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

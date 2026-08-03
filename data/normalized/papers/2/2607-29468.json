@@ -1,0 +1,41 @@
+{
+  "type": "paper",
+  "slug": "2607-29468",
+  "name": "Self-Play Meets Skill Evolution: Self-Evolving Search Agents that Pose, Solve, and Remember",
+  "summary": "Self-play agents can generate training problems without questions from target benchmarks, but their curricula lack persistent state: failures affect gradients yet do not explicitly shape future pra...",
+  "description": "Self-play agents can generate training problems without questions from target benchmarks, but their curricula lack persistent state: failures affect gradients yet do not explicitly shape future practice. External skill memories preserve procedural experience but are typically learned from fixed task distributions. We introduce \\textbf{SESA} (Self-Evolving Skill-Augmented Agent), which makes procedural memory an evolving state of tool-augmented search self-play. A challenger poses problems, while a separately parameterized solver alone retrieves skills. Informative failures are distilled int...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2607.29468v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-07-31",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2607.29468v1"
+    }
+  ],
+  "authors": [
+    "Zenghuang Fu",
+    "Zhaoyang Li",
+    "Qiuyuan Ai",
+    "Haoyu Wu",
+    "Minghui Wu",
+    "Chenxu Zhao",
+    "Ante Wang",
+    "Guannan He",
+    "Changwei Wang"
+  ],
+  "paperId": "2607.29468",
+  "category": "cs.AI",
+  "publishedAt": "2026-07-31",
+  "abstract": "Self-play agents can generate training problems without questions from target benchmarks, but their curricula lack persistent state: failures affect gradients yet do not explicitly shape future practice. External skill memories preserve procedural experience but are typically learned from fixed task distributions. We introduce \\textbf{SESA} (Self-Evolving Skill-Augmented Agent), which makes procedural memory an evolving state of tool-augmented search self-play. A challenger poses problems, while a separately parameterized solver alone retrieves skills. Informative failures are distilled int..."
+}

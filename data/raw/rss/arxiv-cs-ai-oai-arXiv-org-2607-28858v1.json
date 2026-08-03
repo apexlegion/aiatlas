@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.28858v1",
+  "fetchedAt": "2026-08-03T05:50:28.830Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.28858v1",
+    "title": "A Unified Benchmark of Deep Learning Models for Multi-task 3D Brain Tumor Segmentation from Magnetic Resonance Imaging",
+    "link": "https://arxiv.org/abs/2607.28858",
+    "description": "arXiv:2607.28858v1 Announce Type: cross Abstract: Automatic brain tumor segmentation from magnetic resonance imaging (MRI) has become a fundamental task in computer-assisted diagnosis, treatment planning, and disease monitoring. Although numerous deep learning architectures have recently been proposed, objective comparisons remain challenging because published studies often employ different datasets, preprocessing strategies, training protocols, and evaluation procedures. This work presents a unified experimental benchmark for comparing representative convolutional neural networks (CNNs), Transformer-based models, and recent State Space Model (SSM) architectures under homogeneous experimental conditions. Five state-of-the-art three-dimensional segmentation models, including 3D U-Net, SegResNet, Swin UNETR, SegMamba, and SegMambaV2, are evaluated on two brain tumor segmentation datasets representing distinct clinical scenarios: intracranial meningioma segmentation (BraTS 2023) and post-treatment glioma segmentation (BraTS 2024). All architectures are trained using identical preprocessing, data augmentation, optimization strategies, and evaluation protocols to ensure a fair comparison. Performance is assessed using segmentation accuracy metrics together with computational cost indicators, including inference time and the size of each model. The results provide practical insights into the trade-offs between segmentation accuracy and computational efficiency, highlighting the suitability of different architectural paradigms for challenging three-dimensional brain tumor segmentation tasks.",
+    "publishedAt": "2026-08-03",
+    "author": "Diego J. Torrej\\'on, Luna Y. Hern\\'andez, Javier S\\'anchez",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
