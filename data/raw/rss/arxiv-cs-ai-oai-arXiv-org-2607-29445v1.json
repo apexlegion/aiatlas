@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.29445v1",
-  "fetchedAt": "2026-08-03T05:50:28.830Z",
+  "fetchedAt": "2026-08-04T05:21:51.482Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2607.29445v1",
     "title": "QR-Structured Thermal Triggers for Targeted Semantic Attacks on Infrared Vision-Language Models",
     "link": "https://arxiv.org/abs/2607.29445",
     "description": "arXiv:2607.29445v1 Announce Type: cross Abstract: Infrared vision-language models (IR-VLMs) extend thermal perception to open-vocabulary classification, image captioning, and visual question answering. However, their robustness to structured thermal perturbations and the stability of cross-modal semantic alignment remain insufficiently studied. We propose QR-Structured Thermal Triggers (QR-STT), a stealthy, training-free, black-box framework for targeted semantic steering of IR-VLMs. QR-STT preserves the functional regions of a QR pattern while optimizing its internal modules, each of which is assigned a cold, neutral, or hot thermal state. The framework jointly searches module topology and rendering parameters, including position, scale, rotation, intensity, blur, and roundness. A three-stage gradient-free procedure with greedy module-flip refinement efficiently handles the mixed discrete and continuous search space. The objective promotes alignment with an attacker-selected target, suppresses source-class evidence, and regularizes QR structure and visual similarity. Experiments on multiple CLIP-style encoders show that QR-STT consistently redirects image-text alignment toward chosen concepts while maintaining visual stealth. Perturbations optimized for classification also transfer to image captioning and VQA, causing target-consistent semantic drift in generated outputs. These results identify QR-structured thermal patterns as an interpretable attack surface for language-driven infrared perception and highlight the need for robustness evaluation against structured cross-task semantic attacks.",
-    "publishedAt": "2026-08-03",
+    "publishedAt": "2026-08-04",
     "author": "Xiang Chen, Yingying Zhao, Chao Li, Jiaju Han, Ben Zhang, Ang Li, Jiahuan Long, Yiwei Wei, Jiujiang Guo, Chengyin Hu",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-28871v1",
+  "name": "Validation Evidence in LLM Repair Agents: How Much of What Passes Actually Tests the Bug?",
+  "summary": "arXiv:2607.28871v1 Announce Type: cross Abstract: When a repair agent runs a test and sees it pass, the result is treated as evidence about the reported defect. We measure how often that treatment...",
+  "description": "arXiv:2607.28871v1 Announce Type: cross Abstract: When a repair agent runs a test and sees it pass, the result is treated as evidence about the reported defect. We measure how often that treatment is warranted. BSG-VA (buggy-state/candidate-state/gold-fix validation analysis) captures each validation command at its exact working-tree state, extracts a test-only patch, and replays the command on...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.28871"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-04",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.28871"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-04",
+  "expiryAt": "2026-09-03T00:00:00.000Z",
+  "author": "Xiaonan Xu, Wenjing Wu"
+}

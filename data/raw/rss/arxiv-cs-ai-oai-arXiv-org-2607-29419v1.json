@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.29419v1",
-  "fetchedAt": "2026-08-03T05:50:28.830Z",
+  "fetchedAt": "2026-08-04T05:21:51.482Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2607.29419v1",
     "title": "Explore Beyond the Boundary Using Entropic Information",
     "link": "https://arxiv.org/abs/2607.29419",
     "description": "arXiv:2607.29419v1 Announce Type: cross Abstract: In reinforcement learning, exploration with sparse and delayed rewards presents a significant challenge due to the limited feedback available for guiding the learning process. Addressing this issue requires extensive exploration in the state space to discover valuable reward signals. In this paper, we propose Entropic Information for Exploration (ENTINEX), a novel method that enhances exploration by incentivizing agents to explore beyond the boundaries of the state distribution. ENTINEX achieves this by assigning intrinsic rewards to these boundaries, leveraging entropic information to identify them effectively. Through extensive experimentation, we demonstrate that ENTINEX consistently improves exploration performance in environments characterized by sparse and delayed rewards. Our experimental results show that ENTINEX outperforms existing exploration methods, highlighting its effectiveness in both sparse and delayed reward scenarios.",
-    "publishedAt": "2026-08-03",
+    "publishedAt": "2026-08-04",
     "author": "Bumgeun Park, Donghwan Lee",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

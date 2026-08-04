@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.29355v1",
-  "fetchedAt": "2026-08-03T05:50:28.830Z",
+  "fetchedAt": "2026-08-04T05:21:51.482Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2607.29355v1",
     "title": "Cross-Lingual Transfer for Machine Translation in Turkic Languages",
     "link": "https://arxiv.org/abs/2607.29355",
     "description": "arXiv:2607.29355v1 Announce Type: cross Abstract: Cross-lingual transfer is central to low-resource machine translation, but its behavior within closely related language families remains insufficiently characterized. We study transfer among five Turkic languages; Turkish, Azerbaijani, Uzbek, Kazakh, and Kyrgyz; using pairwise transfer matrices. In this setting, each model is fine-tuned with one transfer source and evaluated on a different transfer target while the translation target remains the same. Across mT5 experiments, we find that transfer is strongest between closely related Turkic pairs, especially Turkish-Azerbaijani and Kazakh-Kyrgyz. We also show that transfer direction matters, and that the same transfer source-transfer target pair can behave differently when the translation target changes. Latinization improves BLEU and chrF in several script-mismatched settings, but its effect is not uniform across metrics. Additional analyses show that transfer sources are mostly stable across different datasets and model settings.",
-    "publishedAt": "2026-08-03",
+    "publishedAt": "2026-08-04",
     "author": "Omer Burak Cinar, Mehmet Mert Dalkilic, Cagri Toraman",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

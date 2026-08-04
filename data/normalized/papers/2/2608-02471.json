@@ -1,0 +1,49 @@
+{
+  "type": "paper",
+  "slug": "2608-02471",
+  "name": "Action-grounded tissue affordance enables anticipatory auto-framing that lowers surgeon cognitive workload during laparoscopic surgery",
+  "summary": "Computational attention models could help surgeons manage the visual demands of laparoscopy, but they require dense spatial labels that are difficult to obtain because surgical intent is highly spe...",
+  "description": "Computational attention models could help surgeons manage the visual demands of laparoscopy, but they require dense spatial labels that are difficult to obtain because surgical intent is highly specialized and tacit. Here, we introduce DiffeoAfford, an action-grounded tissue affordance framework that retrospectively derives visual attention supervision from completed surgical procedures. By combining diffeomorphism-constrained tissue tracking with instrument trajectory analysis, DiffeoAfford generates affordance hotspot labels without manual per-frame annotation. A real-time prediction mode...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.02471v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-03",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2608.02471v1"
+    }
+  ],
+  "authors": [
+    "Jiayu Gu",
+    "Yiwei Wang",
+    "Jie Zhang",
+    "Guojun Cao",
+    "Keshen Lyu",
+    "Song Zhou",
+    "Yimeng Chen",
+    "Haorui Wang",
+    "Qingmin Feng",
+    "Shenchao Shi",
+    "Huan Zhao",
+    "Wenbin Chen",
+    "Caihua Xiong",
+    "Chidan Wan",
+    "Jing Samantha Pan",
+    "Xiong Cai",
+    "Han Ding"
+  ],
+  "paperId": "2608.02471",
+  "category": "cs.CV",
+  "publishedAt": "2026-08-03",
+  "abstract": "Computational attention models could help surgeons manage the visual demands of laparoscopy, but they require dense spatial labels that are difficult to obtain because surgical intent is highly specialized and tacit. Here, we introduce DiffeoAfford, an action-grounded tissue affordance framework that retrospectively derives visual attention supervision from completed surgical procedures. By combining diffeomorphism-constrained tissue tracking with instrument trajectory analysis, DiffeoAfford generates affordance hotspot labels without manual per-frame annotation. A real-time prediction mode..."
+}

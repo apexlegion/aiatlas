@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2608-02499",
+  "name": "SWE-Touch: Benchmarking Coding Agents When Users Touch the Code",
+  "summary": "Real-world software development requires coding agents to operate in shared workspaces where users may inspect and modify code during an ongoing task, yet existing repository-level benchmarks typic...",
+  "description": "Real-world software development requires coding agents to operate in shared workspaces where users may inspect and modify code during an ongoing task, yet existing repository-level benchmarks typically evaluate agents working alone or restrict user participation to messages. This leads us to ask: how do coding agents understand and respond to code changes in a shared workspace? We introduce SWE-Touch, a framework that stress-tests this setting through validated Counter-Edits: plausible edits to task-relevant code that conflict with task completion. SWE-Touch mines task-critical regions from...",
+  "tags": [
+    "arxiv",
+    "cs.SE"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.02499v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-03",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.SE.",
+      "href": "https://arxiv.org/abs/2608.02499v1"
+    }
+  ],
+  "authors": [
+    "Yuqiao Tan",
+    "Jinxiang Meng",
+    "Fangyu Lei",
+    "Minzheng Wang",
+    "Shizhu He",
+    "Jun Zhao",
+    "Kang Liu"
+  ],
+  "paperId": "2608.02499",
+  "category": "cs.SE",
+  "publishedAt": "2026-08-03",
+  "abstract": "Real-world software development requires coding agents to operate in shared workspaces where users may inspect and modify code during an ongoing task, yet existing repository-level benchmarks typically evaluate agents working alone or restrict user participation to messages. This leads us to ask: how do coding agents understand and respond to code changes in a shared workspace? We introduce SWE-Touch, a framework that stress-tests this setting through validated Counter-Edits: plausible edits to task-relevant code that conflict with task completion. SWE-Touch mines task-critical regions from..."
+}

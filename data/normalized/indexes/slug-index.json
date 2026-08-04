@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T05:50:30.746Z",
+  "generatedAt": "2026-08-04T05:21:53.083Z",
   "entries": {
     "automatic1111-stable-diffusion-webui": {
       "slug": "automatic1111-stable-diffusion-webui",
@@ -177,224 +177,224 @@
         "jupyter notebook"
       ]
     },
-    "2607-29459": {
-      "slug": "2607-29459",
-      "typedId": "paper/2607-29459",
-      "name": "TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion",
+    "2608-02454": {
+      "slug": "2608-02454",
+      "typedId": "paper/2608-02454",
+      "name": "Infinite Trace Objectives with Finite Trace Techniques: Translating LTL to LTLf+",
       "type": "paper",
-      "summary": "Large-scale multivariate time series from heterogeneous IoT sensors demand accurate long-term forecasting for resource scheduling and predictive maintenance. While recent time series foundation mod...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2607-29468": {
-      "slug": "2607-29468",
-      "typedId": "paper/2607-29468",
-      "name": "Self-Play Meets Skill Evolution: Self-Evolving Search Agents that Pose, Solve, and Remember",
-      "type": "paper",
-      "summary": "Self-play agents can generate training problems without questions from target benchmarks, but their curricula lack persistent state: failures affect gradients yet do not explicitly shape future pra...",
+      "summary": "Linear Temporal Logic (LTL) is one of the most widely adopted languages for specifying temporal extended objectives in AI, with applications ranging from reactive synthesis to stochastic planning i...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2607-29491": {
-      "slug": "2607-29491",
-      "typedId": "paper/2607-29491",
-      "name": "DreamQAS: Learning a Decision-Useful World Model for VQE-Efficient Quantum Architecture Search",
+    "2608-02457": {
+      "slug": "2608-02457",
+      "typedId": "paper/2608-02457",
+      "name": "Syntax Meets Semantics: Understanding Scientific Formulae",
       "type": "paper",
-      "summary": "Reinforcement-learning-based quantum architecture search (RL-QAS) repeatedly optimizes a variational quantum eigensolver (VQE) after extending a circuit, although circuit construction and action le...",
+      "summary": "Scientific formulae are a fundamental component of scholarly communication, yet their dual nature -- as structured syntax and carriers of semantics -- remains underexplored in scholarly information...",
       "tags": [
         "arxiv",
-        "cs.LG"
+        "cs.IR"
       ]
     },
-    "2607-29516": {
-      "slug": "2607-29516",
-      "typedId": "paper/2607-29516",
-      "name": "From Code Review to Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale",
+    "2608-02464": {
+      "slug": "2608-02464",
+      "typedId": "paper/2608-02464",
+      "name": "Real-Time Detection and Repair of LLM Agent Failures",
       "type": "paper",
-      "summary": "AI coding agents are generating code at volumes that exceed the capacity of traditional peer review. At the same time, existing AI code review tools over-index on low-value suggestions such as styl...",
-      "tags": [
-        "arxiv",
-        "cs.SE"
-      ]
-    },
-    "2607-29527": {
-      "slug": "2607-29527",
-      "typedId": "paper/2607-29527",
-      "name": "TerraNova: A Foundation Model for the Anthropocene",
-      "type": "paper",
-      "summary": "A defining problem of the Anthropocene is to model the physical Earth and human societies as one coupled system, yet no learned representation spans their observational breadth. We argue the obstac...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2607-29539": {
-      "slug": "2607-29539",
-      "typedId": "paper/2607-29539",
-      "name": "ARB: A Matched Authorship-Rewriting Benchmark Dataset for AI-Text Detector Evaluation",
-      "type": "paper",
-      "summary": "Standard AI-text detection benchmarks compare human-written text against text generated directly by large language models (LLMs). While prior work has shown that rewriting and paraphrasing can degr...",
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ]
-    },
-    "2607-29549": {
-      "slug": "2607-29549",
-      "typedId": "paper/2607-29549",
-      "name": "AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction",
-      "type": "paper",
-      "summary": "Large language models have demonstrated strong mathematical problem-solving capabilities, yet reliably verifying their candidate answers remains challenging. Existing representative methods mainly...",
+      "summary": "LLM agents fail mid-episode -- they loop, cascade tool errors, drift off goal, fabricate results, or silently absorb corrupted content -- and the standard remedy, judging every step with a second L...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2607-29553": {
-      "slug": "2607-29553",
-      "typedId": "paper/2607-29553",
-      "name": "COntExt: Towards Context-Aware Ontology Extension from Operational Metrics",
+    "2608-02470": {
+      "slug": "2608-02470",
+      "typedId": "paper/2608-02470",
+      "name": "Grounding Agentic VLMs with Dedicated Segmentation for Fine-Grained Vehicle Damage Assessment",
       "type": "paper",
-      "summary": "Organizations increasingly define operational metrics in structured, machine-readable formats to monitor systems, processes, and compliance. These metric definitions implicitly encode domain knowle...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2607-29559": {
-      "slug": "2607-29559",
-      "typedId": "paper/2607-29559",
-      "name": "LEMUR: Learning to Align with Multi-Objective Reinforcement Learning from Preference Feedback",
-      "type": "paper",
-      "summary": "Reinforcement Learning (RL) systems are typically trained using a single, well-specified scalar reward function. However, real-world decision-making tasks often involve multiple, competing objectiv...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2607-29561": {
-      "slug": "2607-29561",
-      "typedId": "paper/2607-29561",
-      "name": "MOT-SR: Multi-Objective Tool-Augmented Scientific Equation Discovery with Large Language Models",
-      "type": "paper",
-      "summary": "Symbolic Regression (SR) aims to discover analytical equations from observational data and plays a central role in scientific modeling. While recent Large Language Model (LLM) based approaches show...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2607-29577": {
-      "slug": "2607-29577",
-      "typedId": "paper/2607-29577",
-      "name": "DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons &amp; Dragons Combat",
-      "type": "paper",
-      "summary": "Games and simulators make valuable benchmarks by turning decisions into measurable outcomes, but many current suites under-test rules-rich tactical reasoning: the ability to choose well when geomet...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2607-29586": {
-      "slug": "2607-29586",
-      "typedId": "paper/2607-29586",
-      "name": "TraceViT: Grounded Trace Supervision for Visual Abstract Reasoning",
-      "type": "paper",
-      "summary": "The Abstraction and Reasoning Corpus (ARC) tests whether a model can infer an unseen transformation from a few input-output examples and apply it to a new grid. Looped visual reasoners refine predi...",
+      "summary": "Vision-language models (VLMs) are increasingly deployed as reasoning agents in real-world visual assessment pipelines, yet their spatial grounding remains unreliable for fine-grained, visually ambi...",
       "tags": [
         "arxiv",
         "cs.CV"
       ]
     },
-    "2607-29602": {
-      "slug": "2607-29602",
-      "typedId": "paper/2607-29602",
-      "name": "FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models",
+    "2608-02471": {
+      "slug": "2608-02471",
+      "typedId": "paper/2608-02471",
+      "name": "Action-grounded tissue affordance enables anticipatory auto-framing that lowers surgeon cognitive workload during laparoscopic surgery",
       "type": "paper",
-      "summary": "Reading a social situation often depends on behavior, not words alone. We introduce FriendBench, a benchmark for inferring whether two people are already familiar or are meeting as strangers, from...",
+      "summary": "Computational attention models could help surgeons manage the visual demands of laparoscopy, but they require dense spatial labels that are difficult to obtain because surgical intent is highly spe...",
       "tags": [
         "arxiv",
-        "cs.CL"
+        "cs.CV"
       ]
     },
-    "2607-29614": {
-      "slug": "2607-29614",
-      "typedId": "paper/2607-29614",
-      "name": "A Human-Centered Validation of the Explainability-Performance Coefficient",
+    "2608-02491": {
+      "slug": "2608-02491",
+      "typedId": "paper/2608-02491",
+      "name": "Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions",
       "type": "paper",
-      "summary": "The rapid adoption of deep learning models in high-risk domains has intensified the need for trustworthy Explainable Artificial Intelligence (XAI). However, objectively evaluating explanation fidel...",
+      "summary": "Language models have taken on the role of a very new type of technology, by virtue of their \"human-ness\" and rapid integration into users' daily lives. This combination of features can introduce lo...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2608-02495": {
+      "slug": "2608-02495",
+      "typedId": "paper/2608-02495",
+      "name": "DyFrDet: Towards Accurate Small Object Detection via Dynamic Frequency Suppression with Label Disambiguation",
+      "type": "paper",
+      "summary": "Despite the remarkable progress over the past decades, accurately identifying small objects remains challenging because of their insufficient visual cues. Previous works typically attempt to constr...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2608-02499": {
+      "slug": "2608-02499",
+      "typedId": "paper/2608-02499",
+      "name": "SWE-Touch: Benchmarking Coding Agents When Users Touch the Code",
+      "type": "paper",
+      "summary": "Real-world software development requires coding agents to operate in shared workspaces where users may inspect and modify code during an ongoing task, yet existing repository-level benchmarks typic...",
+      "tags": [
+        "arxiv",
+        "cs.SE"
+      ]
+    },
+    "2608-02502": {
+      "slug": "2608-02502",
+      "typedId": "paper/2608-02502",
+      "name": "CMuon: Accelerating and Stabilizing Diffusion Transformer Training via Chunked Momentum Orthogonalization",
+      "type": "paper",
+      "summary": "Diffusion Transformers (DiTs) have achieved state-of-the-art (SOTA) performance in visual generative modeling, yet their training remains computationally prohibitive. While the recently proposed Mo...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2608-02505": {
+      "slug": "2608-02505",
+      "typedId": "paper/2608-02505",
+      "name": "Abduction Without a Body? Representational Grounding and the Abduction Loop for Scientific Hypothesis Generation",
+      "type": "paper",
+      "summary": "Can scientific abduction occur without continuous sensorimotor embodiment? Recent arguments in AI and philosophy of science hold that genuine hypothesis generation requires an agent continuously co...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2608-02509": {
+      "slug": "2608-02509",
+      "typedId": "paper/2608-02509",
+      "name": "Optimizing Minimax Regret in Uncertain MDPs with Small Sets of Policies",
+      "type": "paper",
+      "summary": "Sequential decision-making in real-world applications often involves uncertainty about the environment's model. Uncertain Markov decision processes (UMDPs) represent the possible environments as a...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2608-02518": {
+      "slug": "2608-02518",
+      "typedId": "paper/2608-02518",
+      "name": "Magnet: Detecting Cross-Session AI Misuse Through Capability Accumulation",
+      "type": "paper",
+      "summary": "The most capable AI deployments are not single models but ensembles of specialized agents that delegate and act in coordination. This architecture unlocks powerful new capabilities, and it also int...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2608-02519": {
+      "slug": "2608-02519",
+      "typedId": "paper/2608-02519",
+      "name": "Analytic Planning under Uncertainty with Moment Closure",
+      "type": "paper",
+      "summary": "Effective model-based reinforcement learning in stochastic environments requires planning that accounts for predictive uncertainty. Propagating full state distributions analytically offers a princi...",
       "tags": [
         "arxiv",
         "cs.LG"
       ]
     },
-    "2607-29617": {
-      "slug": "2607-29617",
-      "typedId": "paper/2607-29617",
-      "name": "When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning",
+    "2608-02551": {
+      "slug": "2608-02551",
+      "typedId": "paper/2608-02551",
+      "name": "Who Should Be Generated? Justifying Demographic Targets in Open-Ended Generation",
       "type": "paper",
-      "summary": "Imitation learning (IL)---training an agent to replicate expert behavior from demonstrations---underpins applications from robotics to language model training. Standard approaches such as Behavior...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2607-29621": {
-      "slug": "2607-29621",
-      "typedId": "paper/2607-29621",
-      "name": "CENDRe: Concept Extraction with Natural Domain Representations",
-      "type": "paper",
-      "summary": "Convolutional neural networks (CNNs) are widely used for time-series classification, but their deployment in critical domains requires understanding the temporal and spectral patterns that drive th...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2607-29624": {
-      "slug": "2607-29624",
-      "typedId": "paper/2607-29624",
-      "name": "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations",
-      "type": "paper",
-      "summary": "Traditional static assessments rely on a subtractive, deficit-based grading model that often penalizes ambition and obscures diagnostic feedback. Conversely, traditional face-to-face oral examinati...",
+      "summary": "Fairness evaluation concerns not only what a model produces, but also what its outputs ought to be compared against. When a model generates \"a CEO in the United States,\" the prompt leaves demograph...",
       "tags": [
         "arxiv",
         "cs.CY"
       ]
     },
-    "2607-29626": {
-      "slug": "2607-29626",
-      "typedId": "paper/2607-29626",
-      "name": "AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers",
+    "2608-02553": {
+      "slug": "2608-02553",
+      "typedId": "paper/2608-02553",
+      "name": "A Taxonomy of Cognitive Capability Gaps in Generative and Agentic AI",
       "type": "paper",
-      "summary": "As LLMs evolve from code completion systems into autonomous scientific agents, evaluating their ability to conduct experiments has become increasingly important. Existing benchmarks typically focus...",
+      "summary": "Cognitive AI seeks to move beyond language generation and autonomous task execution toward systems capable of sustained reasoning, adaptive behavior, persistent memory, and self-regulation. While g...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2607-29657": {
-      "slug": "2607-29657",
-      "typedId": "paper/2607-29657",
-      "name": "Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics",
+    "2608-02560": {
+      "slug": "2608-02560",
+      "typedId": "paper/2608-02560",
+      "name": "Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection",
       "type": "paper",
-      "summary": "Fault detection and diagnosis (FDD) technology is essential for improving HVAC system reliability, energy efficiency, and maintenance effectiveness. However, effective deployment of FDD solutions i...",
+      "summary": "Retrieval-augmented generation (RAG) imposes a prefill cost proportional to retrieved context length, and -- with Transformer backbones -- a KV-cache that grows with each generated token. State-Spa...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2608-02569": {
+      "slug": "2608-02569",
+      "typedId": "paper/2608-02569",
+      "name": "AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies",
+      "type": "paper",
+      "summary": "The efficiency of a datacenter rests on its control plane policies. Designing these policies is increasingly hard: the hardware-software stack grows fast, the design space is vast and interdependen...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2607-29677": {
-      "slug": "2607-29677",
-      "typedId": "paper/2607-29677",
-      "name": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+    "2608-02578": {
+      "slug": "2608-02578",
+      "typedId": "paper/2608-02578",
+      "name": "CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs",
       "type": "paper",
-      "summary": "Enterprise workflows increasingly rely on agents for \\emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct outp...",
+      "summary": "World Action Models (WAMs) augment robot policies with action-conditioned predicted futures, but a plausible future alone does not justify changing the action that a bimanual policy would execute....",
       "tags": [
         "arxiv",
-        "cs.AI"
+        "cs.RO"
+      ]
+    },
+    "2608-02583": {
+      "slug": "2608-02583",
+      "typedId": "paper/2608-02583",
+      "name": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
+      "type": "paper",
+      "summary": "Sparse retrieval underpins modern search systems, from web search to retrieval-augmented generation. Existing work has introduced Learned Sparse Retrieval (LSR) to push beyond exact lexical matchin...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2608-02599": {
+      "slug": "2608-02599",
+      "typedId": "paper/2608-02599",
+      "name": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
+      "type": "paper",
+      "summary": "Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized applicat...",
+      "tags": [
+        "arxiv",
+        "eess.SY"
       ]
     },
     "arxiv-cs-ai-oai-arxiv-org-2209-05838v2": {
@@ -1068,12 +1068,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2605-17160v2": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2605-17160v2",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2605-17160v2",
+    "arxiv-cs-ai-oai-arxiv-org-2605-17160v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2605-17160v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2605-17160v3",
       "name": "When Bits Break Recourse: Counterfactual-Faithful Quantization",
       "type": "news",
-      "summary": "arXiv:2605.17160v2 Announce Type: replace-cross Abstract: Model quantization is widely used to reduce memory, latency, and deployment cost, and is typically judged by whether predictive accuracy is...",
+      "summary": "arXiv:2605.17160v3 Announce Type: replace-cross Abstract: Model quantization is widely used to reduce memory, latency, and deployment cost, and is typically judged by whether predictive accuracy is...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -1266,12 +1266,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2606-30345v2": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2606-30345v2",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2606-30345v2",
+    "arxiv-cs-ai-oai-arxiv-org-2606-30345v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2606-30345v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2606-30345v3",
       "name": "DRIFT: Difficulty Routing Self-DIstillation with Rhythm-Gated Exploration and Success BuFfer Training",
       "type": "news",
-      "summary": "arXiv:2606.30345v2 Announce Type: replace-cross Abstract: Enabling large language models to achieve stable self-improvement without external expert supervision remains a central challenge in comple...",
+      "summary": "arXiv:2606.30345v3 Announce Type: replace-cross Abstract: Enabling large language models to achieve stable self-improvement without external expert supervision remains a central challenge in comple...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -1299,12 +1299,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2606-31650v4": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2606-31650v4",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2606-31650v4",
+    "arxiv-cs-ai-oai-arxiv-org-2606-31650v5": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2606-31650v5",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2606-31650v5",
       "name": "ECHO: Prune To Act, Trace To Learn With Selective Turn Memory In Agentic RL",
       "type": "news",
-      "summary": "arXiv:2606.31650v4 Announce Type: replace-cross Abstract: Long-horizon language agents must repeatedly interact with tools, accumulate evidence, and make decisions under bounded context windows. Co...",
+      "summary": "arXiv:2606.31650v5 Announce Type: replace-cross Abstract: Long-horizon language agents must repeatedly interact with tools, accumulate evidence, and make decisions under bounded context windows. Co...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -1475,12 +1475,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2607-22186v2": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-22186v2",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-22186v2",
+    "arxiv-cs-ai-oai-arxiv-org-2607-22186v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-22186v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-22186v3",
       "name": "Deconstructing Off-Policy Ratios: Entropy-Scaled Trust Regions for Asynchronous Reinforcement Learning",
       "type": "news",
-      "summary": "arXiv:2607.22186v2 Announce Type: replace Abstract: Asynchronous reinforcement learning (RL) accelerates large language model (LLM) post-training by overlapping rollout generation with policy optim...",
+      "summary": "arXiv:2607.22186v3 Announce Type: replace Abstract: Asynchronous reinforcement learning (RL) accelerates large language model (LLM) post-training by overlapping rollout generation with policy optim...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -2091,12 +2091,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2607-28759v1": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-28759v1",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-28759v1",
+    "arxiv-cs-ai-oai-arxiv-org-2607-28759v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-28759v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-28759v2",
       "name": "SCMA: Structure-Conditioned and Metal-Aware Flow Matching for CT Metal Artifact Reduction",
       "type": "news",
-      "summary": "arXiv:2607.28759v1 Announce Type: cross Abstract: In X-ray CT, metallic objects cause beam hardening, photon starvation, and scattering, leading to projection inconsistency, streaks, dark bands, an...",
+      "summary": "arXiv:2607.28759v2 Announce Type: cross Abstract: In X-ray CT, metallic objects cause beam hardening, photon starvation, and scattering, leading to projection inconsistency, streaks, dark bands, an...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -2278,12 +2278,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2607-28894v1": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-28894v1",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-28894v1",
+    "arxiv-cs-ai-oai-arxiv-org-2607-28894v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-28894v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-28894v2",
       "name": "Identifying Informative Environments for Cognition Parameter Inference via Bayesian Experimental Design",
       "type": "news",
-      "summary": "arXiv:2607.28894v1 Announce Type: new Abstract: Computational cognitive modeling seeks to infer latent cognitive mechanisms underlying observed behavior. Bayesian inverse planning provides a princi...",
+      "summary": "arXiv:2607.28894v2 Announce Type: new Abstract: Computational cognitive modeling seeks to infer latent cognitive mechanisms underlying observed behavior. Bayesian inverse planning provides a princi...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -2905,12 +2905,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2607-29334v1": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-29334v1",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-29334v1",
+    "arxiv-cs-ai-oai-arxiv-org-2607-29334v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-29334v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-29334v2",
       "name": "The persuasive power of large language models does not depend on their perceived national origin",
       "type": "news",
-      "summary": "arXiv:2607.29334v1 Announce Type: cross Abstract: Conversational AI developed by geopolitical rivals reaches citizens worldwide, raising concerns that it could sway public opinion or be rejected as...",
+      "summary": "arXiv:2607.29334v2 Announce Type: cross Abstract: Conversational AI developed by geopolitical rivals reaches citizens worldwide, raising concerns that it could sway public opinion or be rejected as...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -3266,6 +3266,39 @@
       "tags": [
         "news",
         "arxiv-cs-ai"
+      ]
+    },
+    "mit-news-ai-https-news-mit-edu-2026-alexander-rakhlin-named-director-mit-statistics-data-science-center-0803": {
+      "slug": "mit-news-ai-https-news-mit-edu-2026-alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
+      "typedId": "news/mit-news-ai-https-news-mit-edu-2026-alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
+      "name": "Alexander Rakhlin named director of  the MIT Statistics and Data Science Center",
+      "type": "news",
+      "summary": "An expert in machine learning, statistics, and computation, Rakhlin succeeds Professor Ankur Moitra.",
+      "tags": [
+        "news",
+        "mit-news-ai"
+      ]
+    },
+    "openai-blog-https-openai-com-index-circles": {
+      "slug": "openai-blog-https-openai-com-index-circles",
+      "typedId": "news/openai-blog-https-openai-com-index-circles",
+      "name": "Circles powers telco personalization with OpenAI technology",
+      "type": "news",
+      "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-continuous-voice-interaction-with-gpt-live": {
+      "slug": "openai-blog-https-openai-com-index-continuous-voice-interaction-with-gpt-live",
+      "typedId": "news/openai-blog-https-openai-com-index-continuous-voice-interaction-with-gpt-live",
+      "name": "How we built a realtime system for responsive voice AI in six months",
+      "type": "news",
+      "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "tags": [
+        "news",
+        "openai-blog"
       ]
     },
     "openai-blog-https-openai-com-index-ten-advances-in-mathematics": {

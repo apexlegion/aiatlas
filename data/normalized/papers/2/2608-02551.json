@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2608-02551",
+  "name": "Who Should Be Generated? Justifying Demographic Targets in Open-Ended Generation",
+  "summary": "Fairness evaluation concerns not only what a model produces, but also what its outputs ought to be compared against. When a model generates \"a CEO in the United States,\" the prompt leaves demograph...",
+  "description": "Fairness evaluation concerns not only what a model produces, but also what its outputs ought to be compared against. When a model generates \"a CEO in the United States,\" the prompt leaves demographic realization to the model. Existing group fairness definitions assume that sensitive attributes are given on the input side. Generative audits instead examine output-side demographic composition, yet the targets they compare it against are typically supplied rather than justified. The upstream question is what the target distribution should be. We formalize this missing-target problem for demogr...",
+  "tags": [
+    "arxiv",
+    "cs.CY"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.02551v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-03",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CY.",
+      "href": "https://arxiv.org/abs/2608.02551v1"
+    }
+  ],
+  "authors": [
+    "Zeshen Zheng",
+    "Yujia He",
+    "Qianmian Lin",
+    "Xiangyue Huang",
+    "Wenqing Chen"
+  ],
+  "paperId": "2608.02551",
+  "category": "cs.CY",
+  "publishedAt": "2026-08-03",
+  "abstract": "Fairness evaluation concerns not only what a model produces, but also what its outputs ought to be compared against. When a model generates \"a CEO in the United States,\" the prompt leaves demographic realization to the model. Existing group fairness definitions assume that sensitive attributes are given on the input side. Generative audits instead examine output-side demographic composition, yet the targets they compare it against are typically supplied rather than justified. The upstream question is what the target distribution should be. We formalize this missing-target problem for demogr..."
+}

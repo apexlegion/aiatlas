@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2608-02454",
+  "name": "Infinite Trace Objectives with Finite Trace Techniques: Translating LTL to LTLf+",
+  "summary": "Linear Temporal Logic (LTL) is one of the most widely adopted languages for specifying temporal extended objectives in AI, with applications ranging from reactive synthesis to stochastic planning i...",
+  "description": "Linear Temporal Logic (LTL) is one of the most widely adopted languages for specifying temporal extended objectives in AI, with applications ranging from reactive synthesis to stochastic planning in Markov decision processes and reinforcement learning. Traditionally, solving any of these problems requires translating the LTL specification to a nondeterministic automata on infinite words and then determinizing it, a step that is notoriously difficult in theory and in practice. Recent work has introduced LTLf+, which lifts the finite-trace logic LTLf to infinite traces. LTLf+ has the same exp...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.02454v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-03",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.02454v1"
+    }
+  ],
+  "authors": [
+    "Christoph Weinhuber",
+    "Maximilian Prokop",
+    "Giuseppe De Giacomo",
+    "Moshe Y. Vardi"
+  ],
+  "paperId": "2608.02454",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-03",
+  "abstract": "Linear Temporal Logic (LTL) is one of the most widely adopted languages for specifying temporal extended objectives in AI, with applications ranging from reactive synthesis to stochastic planning in Markov decision processes and reinforcement learning. Traditionally, solving any of these problems requires translating the LTL specification to a nondeterministic automata on infinite words and then determinizing it, a step that is notoriously difficult in theory and in practice. Recent work has introduced LTLf+, which lifts the finite-trace logic LTLf to infinite traces. LTLf+ has the same exp..."
+}

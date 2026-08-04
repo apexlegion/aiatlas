@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.28801v1",
-  "fetchedAt": "2026-08-03T05:50:28.830Z",
+  "fetchedAt": "2026-08-04T05:21:51.482Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2607.28801v1",
     "title": "Benchmarks Are Not Monolithic: Sample-Level Auditing and Orchestration for LLM Evaluation",
     "link": "https://arxiv.org/abs/2607.28801",
     "description": "arXiv:2607.28801v1 Announce Type: cross Abstract: Benchmark datasets are central to evaluating Large Language Models (LLMs), yet they are typically conceived as monolithic tasks, obscuring substantial variation in the demands of individual samples. We introduce a dataset-centric meta-evaluation framework that audits benchmark datasets at the sample level along five latent dimensions: 1. Cognitive and Knowledge Demands, 2. Language and Content Quality, 3. Task Properties, 4. Context, and 5. Ethics, Safety, and Fairness. Applying this framework, we annotate five influential benchmarks -- MMLU, ARC, WinoGrande, HellaSwag, and TruthfulQA -- revealing pronounced internal heterogeneity that is not captured by aggregate accuracy scores. We show how these annotations enable criterion-driven orchestration of composite benchmark subsets across datasets, supporting targeted evaluation of model capabilities such as Reasoning Depth or Ethical Sensitivity. This approach reframes benchmark evaluation as dataset introspection, providing a principled methodology for analyzing and re-composing existing benchmarks to better reflect diverse evaluation needs.",
-    "publishedAt": "2026-08-03",
+    "publishedAt": "2026-08-04",
     "author": "Philipp D. Siedler, Jordan Sassoon",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

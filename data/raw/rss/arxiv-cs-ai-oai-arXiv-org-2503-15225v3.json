@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2503.15225v3",
-  "fetchedAt": "2026-08-03T05:50:28.830Z",
+  "fetchedAt": "2026-08-04T05:21:51.482Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2503.15225v3",
     "title": "Reproducing Human Individual Motor Signatures: A Data-Driven Approach for Repetitive Motion",
     "link": "https://arxiv.org/abs/2503.15225",
     "description": "arXiv:2503.15225v3 Announce Type: replace-cross Abstract: The deployment of autonomous virtual avatars (in extended reality) and robots in human group activities---such as rehabilitation therapy, sports, and manufacturing---is expected to increase as these technologies become more pervasive. Designing cognitive architectures and control strategies to drive these agents requires realistic models of human motion. Furthermore, recent research has shown that each person exhibits a unique velocity signature, highlighting how individual motor behaviors are both rich in variability and internally consistent. However, existing models only provide simplified descriptions of human motor behavior, hindering the development of effective cognitive architectures. In this work, we first show that motion amplitude provides a useful characterization of individual motor signatures, complementary to existing ones. Then, we propose a fully data-driven approach to generate original one-dimensional motion that captures the unique features of specific individuals, based on long short-term memory neural networks. We validate the architecture using real human data from participants performing spontaneous oscillatory motion. Thorough statistical analyses support that our model reproduces the velocity distribution and amplitude envelopes of the individual it was trained on, while remaining distinct from others.",
-    "publishedAt": "2026-08-03",
+    "publishedAt": "2026-08-04",
     "author": "Angelo Di Porzio, Marco Coraggio",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"
