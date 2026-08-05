@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2608-03892",
+  "name": "Intertemporal Preference Steering in Qwen3 via Contrastive Activation Addition",
+  "summary": "We study linear representations of temporal horizon in the large language model Qwen3-32B and use them to change the model's time-related preferences, recommendations, and capabilities. We train co...",
+  "description": "We study linear representations of temporal horizon in the large language model Qwen3-32B and use them to change the model's time-related preferences, recommendations, and capabilities. We train contrastive linear probes on teacher-forced temporal-choice answers to find a short-term versus long-term direction in the model's residual stream, and evaluate contrastive activation-addition steering on a held-out binary temporal-choice task, an out-of-distribution monetary intertemporal-choice task, and a TravelPlanner capability benchmark. The central result is that temporal-horizon directions c...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.03892v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-04",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.03892v1"
+    }
+  ],
+  "authors": [
+    "Michal Mráz",
+    "Justin Shenk"
+  ],
+  "paperId": "2608.03892",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-04",
+  "abstract": "We study linear representations of temporal horizon in the large language model Qwen3-32B and use them to change the model's time-related preferences, recommendations, and capabilities. We train contrastive linear probes on teacher-forced temporal-choice answers to find a short-term versus long-term direction in the model's residual stream, and evaluate contrastive activation-addition steering on a held-out binary temporal-choice task, an out-of-distribution monetary intertemporal-choice task, and a TravelPlanner capability benchmark. The central result is that temporal-horizon directions c..."
+}

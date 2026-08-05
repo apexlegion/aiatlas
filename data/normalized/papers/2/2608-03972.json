@@ -1,0 +1,45 @@
+{
+  "type": "paper",
+  "slug": "2608-03972",
+  "name": "ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning",
+  "summary": "On-policy training has emerged as a powerful post-training paradigm for improving the reasoning capabilities of large language models, and is often enhanced by golden trajectories from stronger exp...",
+  "description": "On-policy training has emerged as a powerful post-training paradigm for improving the reasoning capabilities of large language models, and is often enhanced by golden trajectories from stronger expert models. However, when the expert fails on harder problems, existing trajectory-guided methods lose their main source of supervision, and these failed trajectories are typically discarded as negative samples. We argue that such failures, which we call Golden Negative Trajectories, can still provide valuable reasoning signals when treated not as demonstrations to imitate, but as flawed trajector...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.03972v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-04",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.03972v1"
+    }
+  ],
+  "authors": [
+    "Jinhe Bi",
+    "Chennan Zhou",
+    "Zengjie Jin",
+    "Aniri",
+    "Shuo Lu",
+    "Wenke Huang",
+    "Hu Cao",
+    "Xun Xiao",
+    "Zhihong Zhu",
+    "Volker Tresp",
+    "Fei Shen",
+    "Yunpu Ma",
+    "Tat-Seng Chua"
+  ],
+  "paperId": "2608.03972",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-04",
+  "abstract": "On-policy training has emerged as a powerful post-training paradigm for improving the reasoning capabilities of large language models, and is often enhanced by golden trajectories from stronger expert models. However, when the expert fails on harder problems, existing trajectory-guided methods lose their main source of supervision, and these failed trajectories are typically discarded as negative samples. We argue that such failures, which we call Golden Negative Trajectories, can still provide valuable reasoning signals when treated not as demonstrations to imitate, but as flawed trajector..."
+}

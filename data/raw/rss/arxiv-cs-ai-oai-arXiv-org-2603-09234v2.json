@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.09234v2",
+  "fetchedAt": "2026-08-05T05:21:41.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.09234v2",
+    "title": "StuPASE: Towards Low-Hallucination Studio-Quality Generative Speech Enhancement",
+    "link": "https://arxiv.org/abs/2603.09234",
+    "description": "arXiv:2603.09234v2 Announce Type: cross Abstract: Achieving high perceptual quality without hallucination remains a challenge in generative speech enhancement (SE). A representative approach, PASE, is robust to hallucination but has limited perceptual quality under adverse conditions. We propose StuPASE, built upon PASE to achieve studio-level quality while retaining its low-hallucination property. First, we show that finetuning PASE with dry targets rather than targets containing simulated early reflections substantially improves dereverberation. Second, to address performance limitations under strong additive noise, we replace the GAN-based generative module in PASE with a flow-matching module, enabling studio-quality generation even under highly challenging conditions. Experiments demonstrate that StuPASE consistently produces perceptually high-quality speech while maintaining low hallucination, outperforming state-of-the-art SE methods. Audio demos are available at: https://xiaobin-rong.github.io/stupase_demo/.",
+    "publishedAt": "2026-08-05",
+    "author": "Xiaobin Rong, Jun Gao, Zheng Wang, Mansur Yesilbursa, Kamil Wojcicki, Jing Lu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

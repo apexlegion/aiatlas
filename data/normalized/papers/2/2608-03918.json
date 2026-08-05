@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2608-03918",
+  "name": "When and Where to Look: Adaptive Visual Evidence Scheduling for Efficient Long Video Understanding",
+  "summary": "Efficient long-video understanding requires vision--language models (VLMs) to reason over a small number of frames selected as sparse visual evidence. Existing relevance-based methods rely on stati...",
+  "description": "Efficient long-video understanding requires vision--language models (VLMs) to reason over a small number of frames selected as sparse visual evidence. Existing relevance-based methods rely on static one-shot selection with fixed frame budgets and candidate pools, while agent-based schedulers achieve adaptivity through costly multi-round reasoning and interactive search. We propose EcoFrame, a training-free framework for low-overhead query-adaptive visual evidence scheduling. EcoFrame leverages the VLM's inference feedback to determine when to increase the frame budget and where to search fo...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.03918v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-04",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2608.03918v1"
+    }
+  ],
+  "authors": [
+    "Ke Li",
+    "Jiayu Chen",
+    "Maoliang Li",
+    "Zihao Zheng",
+    "Hailong Zou",
+    "Hengyi Zhang",
+    "Xuanzhe Liu",
+    "Xiang Chen"
+  ],
+  "paperId": "2608.03918",
+  "category": "cs.CV",
+  "publishedAt": "2026-08-04",
+  "abstract": "Efficient long-video understanding requires vision--language models (VLMs) to reason over a small number of frames selected as sparse visual evidence. Existing relevance-based methods rely on static one-shot selection with fixed frame budgets and candidate pools, while agent-based schedulers achieve adaptivity through costly multi-round reasoning and interactive search. We propose EcoFrame, a training-free framework for low-overhead query-adaptive visual evidence scheduling. EcoFrame leverages the VLM's inference feedback to determine when to increase the frame budget and where to search fo..."
+}

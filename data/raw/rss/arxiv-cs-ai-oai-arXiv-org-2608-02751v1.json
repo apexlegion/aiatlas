@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.02751v1",
+  "fetchedAt": "2026-08-05T05:21:41.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.02751v1",
+    "title": "Search, Inspect, Fetch: Exploiting Boolean Retrieval for Deep-Research Agents",
+    "link": "https://arxiv.org/abs/2608.02751",
+    "description": "arXiv:2608.02751v1 Announce Type: cross Abstract: Existing deep-research agents use a search-visit workflow that retrieves and reads whole pages, without considering the addressable structure that web sources expose through titles, headings, sections, and metadata. This prevents agents from directly constraining retrieval to document fields and often carries irrelevant page content into their context. We introduce SIEVE, a search-inspect-fetch interface driven by fielded Boolean retrieval (BQL). SIEVE filters candidates over document fields, ranks the admitted set, presents structure-rich result cards for inspection, and fetches only selected sections. Across three QA collections, SIEVE achieves higher accuracy than the most accurate conventional Search-Visit configuration on each collection while using 20.7-50.6% fewer tokens. Further analyses show that BQL filtering improves all tested rankers and that the accuracy-context advantage persists across retriever choices and agent backbones. Code and data are available at https://github.com/ielab/skim-search-agent.",
+    "publishedAt": "2026-08-05",
+    "author": "Shuai Wang, Haodong Chen, Yu Yin, Shengyao Zhuang, Bevan Koopman, Guido Zuccon",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

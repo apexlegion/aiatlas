@@ -1,0 +1,42 @@
+{
+  "type": "paper",
+  "slug": "2608-03902",
+  "name": "When Efficiency Becomes Fragility: Exploiting Dynamic Routing Vulnerabilities in Adaptive UAV Tracking",
+  "summary": "Resource constraints on UAV platforms have driven a paradigm shift in aerial tracking, from pursuing performance toward balancing accuracy with efficiency. Adaptive Transformer Trackers, which leve...",
+  "description": "Resource constraints on UAV platforms have driven a paradigm shift in aerial tracking, from pursuing performance toward balancing accuracy with efficiency. Adaptive Transformer Trackers, which leverage an input-dependent dynamic routing architecture, have emerged as a representative solution to this challenge. However, we reveal that behind this computation-on-demand flexibility hides a critical structural flaw: the Lipschitz singularity of computational path decisions, which has an unbounded local Lipschitz constant at discrete layer-skipping decision boundaries. This mathematical disconti...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.03902v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-04",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.03902v1"
+    }
+  ],
+  "authors": [
+    "Shaofeng Liang",
+    "Runwei Guan",
+    "Wenshuo Chen",
+    "Jiemin Wu",
+    "Bowen Tian",
+    "Haozhe Jia",
+    "Kaishen Yuan",
+    "Songning Lai",
+    "Daizong Liu",
+    "Yutao Yue"
+  ],
+  "paperId": "2608.03902",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-04",
+  "abstract": "Resource constraints on UAV platforms have driven a paradigm shift in aerial tracking, from pursuing performance toward balancing accuracy with efficiency. Adaptive Transformer Trackers, which leverage an input-dependent dynamic routing architecture, have emerged as a representative solution to this challenge. However, we reveal that behind this computation-on-demand flexibility hides a critical structural flaw: the Lipschitz singularity of computational path decisions, which has an unbounded local Lipschitz constant at discrete layer-skipping decision boundaries. This mathematical disconti..."
+}

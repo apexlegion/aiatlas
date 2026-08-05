@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-03447v1",
+  "name": "Approximate Speculative Decoding",
+  "summary": "arXiv:2608.03447v1 Announce Type: cross Abstract: Speculative decoding accelerates autoregressive generation by verifying a draft block with a target model in parallel. Under standard greedy verifi...",
+  "description": "arXiv:2608.03447v1 Announce Type: cross Abstract: Speculative decoding accelerates autoregressive generation by verifying a draft block with a target model in parallel. Under standard greedy verification, decoding stops at the first draft token that differs from the target argmax, discarding the remaining target-scored suffix. Although accepting such a mismatch changes the decoding trajectory,...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.03447"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-05",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.03447"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-05",
+  "expiryAt": "2026-09-04T00:00:00.000Z",
+  "author": "Yuannuo Feng, Zegang Peng, Yuxin Xie, Yubing Ye, Yizhe Chen, Wenshuai Yao, Wenyong Zhou, Wang Kang"
+}

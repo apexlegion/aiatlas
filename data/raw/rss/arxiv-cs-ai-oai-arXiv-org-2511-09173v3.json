@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2511.09173v3",
+  "fetchedAt": "2026-08-05T05:21:41.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2511.09173v3",
+    "title": "Target-Aligned Fusion for Decision-Sequence Learning under Dynamics Shift",
+    "link": "https://arxiv.org/abs/2511.09173",
+    "description": "arXiv:2511.09173v3 Announce Type: replace-cross Abstract: External trajectories can improve offline decision-sequence learning, but dynamics shift may make some source subsequences inconsistent with the target environment. We study how to fuse such trajectories with limited target data for Decision Transformer learning under dynamics shift. We propose Target-Aligned Fusion (TAF), a principled framework that derives source-data fusion from a target-domain Bellman-risk criterion. Our analysis bounds this risk by two measurable data-alignment quantities: $\\Delta_m$, the state-structure mismatch of retained fragments, and $\\Delta_w$, the weighted transport cost from source to target transitions. This decomposition yields a gate--then--weight rule: source fragments are first filtered by target-side state-structure alignment, and retained transitions are then reweighted by local target feasibility. We instantiate this principle as TAF-DT, which uses maximum mean discrepancy (MMD) for fragment selection, optimal transport for feasibility-aware weighting, and the resulting fused law for advantage-token relabeling and Q-regularized Transformer training. Across gravity, kinematic, and morphology shifts on D4RL-style control tasks, TAF-DT achieves the strongest aggregate performance against strong offline RL and sequence-model baselines and produces more stable stitch-junction sequence semantics. Overall, these results indicate that aligning external trajectories to target-domain structure and feasibility is a practical way to exploit source data under dynamics shift.",
+    "publishedAt": "2026-08-05",
+    "author": "Guojian Wang, Quinson Hon, Xuyang Chen, Lin Zhao",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-03605v1",
+  "name": "FraQ: Efficient Coordinate-Space Recompression for Federated Low-Rank Adaptation",
+  "summary": "arXiv:2608.03605v1 Announce Type: new Abstract: Federated fine-tuning with Low-Rank Adaptation (LoRA) enables efficient collaborative adaptation of Large Language Models (LLMs) without centralizing...",
+  "description": "arXiv:2608.03605v1 Announce Type: new Abstract: Federated fine-tuning with Low-Rank Adaptation (LoRA) enables efficient collaborative adaptation of Large Language Models (LLMs) without centralizing private data. However, LoRA's two-factor parameterization creates an aggregation mismatch across clients: naively averaging the factors does not recover the average of their induced updates. This mis...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.03605"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-05",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.03605"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-05",
+  "expiryAt": "2026-09-04T00:00:00.000Z",
+  "author": "Shenghui Li, Thiemo Voigt"
+}

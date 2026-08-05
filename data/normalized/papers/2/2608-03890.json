@@ -1,0 +1,43 @@
+{
+  "type": "paper",
+  "slug": "2608-03890",
+  "name": "CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+  "summary": "A clinically useful chest X-ray system must go beyond fluent report generation: it should classify findings with tunable decision thresholds, localize them spatially, and derive the anatomical meas...",
+  "description": "A clinically useful chest X-ray system must go beyond fluent report generation: it should classify findings with tunable decision thresholds, localize them spatially, and derive the anatomical measurements upon which many diagnoses depend. Today's Vision-Language Models (VLMs) treat these as separate problems, if they address them at all, leaving a gap between what radiologists need and what generative models provide. We introduce CARE-X, a chest X-ray VLM that narrows this gap by unifying auxiliary discriminative supervision with reward-aligned generation. CARE-X augments its generative ba...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.03890v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-04",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2608.03890v1"
+    }
+  ],
+  "authors": [
+    "Mercy Prasanna Ranjit",
+    "Anirban Porya",
+    "Sathvik Joel",
+    "Niharika Vadlamudi",
+    "Nikhilesh Chowdary Eathamukkala",
+    "Prasanth V",
+    "Abhyuday Kumara Swamy",
+    "Pranay Narhari Umredkar",
+    "Pradeep Narayan",
+    "Vivek Rajagopal",
+    "Tanuja Ganu"
+  ],
+  "paperId": "2608.03890",
+  "category": "cs.CV",
+  "publishedAt": "2026-08-04",
+  "abstract": "A clinically useful chest X-ray system must go beyond fluent report generation: it should classify findings with tunable decision thresholds, localize them spatially, and derive the anatomical measurements upon which many diagnoses depend. Today's Vision-Language Models (VLMs) treat these as separate problems, if they address them at all, leaving a gap between what radiologists need and what generative models provide. We introduce CARE-X, a chest X-ray VLM that narrows this gap by unifying auxiliary discriminative supervision with reward-aligned generation. CARE-X augments its generative ba..."
+}

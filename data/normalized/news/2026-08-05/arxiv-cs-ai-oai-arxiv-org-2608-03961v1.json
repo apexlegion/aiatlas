@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-03961v1",
+  "name": "Interpretable Adaptive Sampling for LLM Test-Time Scaling",
+  "summary": "arXiv:2608.03961v1 Announce Type: new Abstract: Test-time scaling improves LLM reasoning by generating and aggregating multiple candidate answers, yet many pipelines use fixed per-query budgets tha...",
+  "description": "arXiv:2608.03961v1 Announce Type: new Abstract: Test-time scaling improves LLM reasoning by generating and aggregating multiple candidate answers, yet many pipelines use fixed per-query budgets that spend the same compute on easy and difficult prompts. These fixed budgets are also difficult to inspect because they do not explain why a given prompt receives a particular number of samples. We pro...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.03961"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-05",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.03961"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-05",
+  "expiryAt": "2026-09-04T00:00:00.000Z",
+  "author": "Mobina Kashaniyan, Ali Jannesari"
+}

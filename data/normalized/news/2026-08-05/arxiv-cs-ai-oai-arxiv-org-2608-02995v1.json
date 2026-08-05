@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-02995v1",
+  "name": "SparSEEty: Extracting Tokens from Sparsity-Exploiting LLM Serving Systems via Deterministic Side Channels",
+  "summary": "arXiv:2608.02995v1 Announce Type: cross Abstract: Modern large language models (LLMs) exhibit activation sparsity, wherein only a subset of their neurons is activated for given input tokens. Resear...",
+  "description": "arXiv:2608.02995v1 Announce Type: cross Abstract: Modern large language models (LLMs) exhibit activation sparsity, wherein only a subset of their neurons is activated for given input tokens. Researchers have leveraged this property to optimize LLM serving systems by omitting weight accesses and computations pertaining to inactive neurons. Unfortunately, however, such optimizations create input-...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.02995"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-05",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.02995"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-05",
+  "expiryAt": "2026-09-04T00:00:00.000Z",
+  "author": "Yongwan Jo, Jinyoung Park, Euihyun Lee, Dokyung Song"
+}

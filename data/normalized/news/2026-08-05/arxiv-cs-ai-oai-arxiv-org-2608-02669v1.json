@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-02669v1",
+  "name": "Vulnerabilities, Secrets and Misconfiguration in the Highest-Exposure Docker Hub Images",
+  "summary": "arXiv:2608.02669v1 Announce Type: cross Abstract: Docker Hub is the registry underneath most container deployments, and a flaw in a widely reused base image is inherited by every image built on it....",
+  "description": "arXiv:2608.02669v1 Announce Type: cross Abstract: Docker Hub is the registry underneath most container deployments, and a flaw in a widely reused base image is inherited by every image built on it. Prior ecosystem-scale measurements each rely on a single detector, leaving the tool-dependence of their counts unquantified, while the studies that do compare scanners use samples of tens to hundreds...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.02669"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-05",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.02669"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-05",
+  "expiryAt": "2026-09-04T00:00:00.000Z",
+  "author": "Cristhian Kapelinski, Beatriz Machado, Diego Kreutz"
+}

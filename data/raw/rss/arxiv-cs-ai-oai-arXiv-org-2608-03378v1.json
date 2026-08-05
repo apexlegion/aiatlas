@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.03378v1",
+  "fetchedAt": "2026-08-05T05:21:41.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.03378v1",
+    "title": "Shaping Wind-Tunnel Airflow for Unmanned Aerial Vehicles using Online Learning",
+    "link": "https://arxiv.org/abs/2608.03378",
+    "description": "arXiv:2608.03378v1 Announce Type: cross Abstract: The development and testing of advanced aerial robots require experiments in controlled environments with tailored airflow profiles. This paper presents an online learning algorithm for controlling the complex airflow field in a multi-fan vertical wind tunnel. Our method combines a simplified physical model with iterative, measurement-based learning, enabling sample-efficient convergence to desired airflow distributions. We demonstrate the method's versatility by generating complex airflow, such as uniform, Gaussian, and parabolic profiles. Crucially, we show that our algorithm can produce an airflow profile specifically designed for passive soaring, greatly enhancing flight performance of a soaring robot. Variability, practical utility, and robustness of our approach are further highlighted by successful operation with a varying number of fans.",
+    "publishedAt": "2026-08-05",
+    "author": "Ghadeer Elmkaiel, Michael Muehlebach",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

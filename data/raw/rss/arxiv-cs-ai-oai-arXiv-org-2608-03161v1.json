@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.03161v1",
+  "fetchedAt": "2026-08-05T05:21:41.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.03161v1",
+    "title": "Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning",
+    "link": "https://arxiv.org/abs/2608.03161",
+    "description": "arXiv:2608.03161v1 Announce Type: new Abstract: Lecture videos distribute knowledge across speech, slide text, diagrams, equations, and presentation order, which transcript-only retrieval does not fully preserve. This paper presents an evidence-grounded multimodal pipeline that transcribes lectures, selects semantic anchors, applies optical character recognition (OCR), and uses a vision-language model to extract only concepts and typed relationships supported by transcript, OCR, or visual evidence. Mentions are validated and canonicalized into a provenance-rich knowledge graph. On three neural-network lectures, the pipeline processed 3,118 frames, 756 transcript segments, and 559 anchors. It retained 1,022 concept and 312 relationship mentions, yielding 172 canonical concepts and 282 relationships with 90.38% endpoint coverage. A preliminary three question retrieval test achieved 100% top-1 and top-3 accuracy and 100% mean top-5 recall. The contribution is an auditable construction method rather than a state-of-the-art performance claim.",
+    "publishedAt": "2026-08-05",
+    "author": "Sahil Al Farib, Momota Ahsana Meem, Sheikh Redwanul Islam, Md. Tanvir Raihan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
