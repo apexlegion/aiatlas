@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-04407v1",
+  "name": "MESH: Memory-Efficient Sinkhorn Optimization for Mixture-of-Experts Training",
+  "summary": "arXiv:2608.04407v1 Announce Type: cross Abstract: Memory-efficient matrix optimizers such as Sinkhorn gradient descent remove most AdamW optimizer state for dense Transformer matrices, but direct a...",
+  "description": "arXiv:2608.04407v1 Announce Type: cross Abstract: Memory-efficient matrix optimizers such as Sinkhorn gradient descent remove most AdamW optimizer state for dense Transformer matrices, but direct application to Mixture-of-Experts (MoE) training is unreliable. We study this failure in a controlled 110M-parameter nanowhale DeepSeek-style MoE pretraining setting. A SAGE/Sinkhorn hybrid reduces opt...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.04407"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-06",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.04407"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-06",
+  "expiryAt": "2026-09-05T00:00:00.000Z",
+  "author": "Masato Fujitake"
+}

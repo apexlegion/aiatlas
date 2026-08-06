@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-04405v1",
+  "name": "Training-Free Hashing-Based Attention via Binary Principal Components",
+  "summary": "arXiv:2608.04405v1 Announce Type: cross Abstract: Long-context large language models (LLMs) are increasingly deployed in real-world applications, yet self-attention remains a major efficiency bottl...",
+  "description": "arXiv:2608.04405v1 Announce Type: cross Abstract: Long-context large language models (LLMs) are increasingly deployed in real-world applications, yet self-attention remains a major efficiency bottleneck -- especially during decoding -- due to the necessity of repeatedly processing ever-growing key-value (KV) caches. Existing sparse attention reduce computation by attending to fewer KV pairs, bu...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.04405"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-06",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.04405"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-06",
+  "expiryAt": "2026-09-05T00:00:00.000Z",
+  "author": "Daohai Yu, Zhanpeng Zeng, Keyu Chen, Wenhao Li, Zhifeng Shen, Luxi Lin, Ruizhi Qiao, Xing Sun, Rongrong Ji"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-04048v1",
+  "name": "Recurrent Residual Quantization: A Progressive Multi-Precision Representation for LLMs",
+  "summary": "arXiv:2608.04048v1 Announce Type: cross Abstract: Serving large language models (LLMs) under diverse deployment constraints requires flexible trade-offs between accuracy, memory footprint, and thro...",
+  "description": "arXiv:2608.04048v1 Announce Type: cross Abstract: Serving large language models (LLMs) under diverse deployment constraints requires flexible trade-offs between accuracy, memory footprint, and throughput. However, conventional quantization methods typically require a separate checkpoint for each target bit-width. We introduce Recurrent Residual Quantization (RRQ), a post-training quantization (...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.04048"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-06",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.04048"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-06",
+  "expiryAt": "2026-09-05T00:00:00.000Z",
+  "author": "Yu Luo, Bo Dong, Wenhua Cheng, Haihao Shen"
+}

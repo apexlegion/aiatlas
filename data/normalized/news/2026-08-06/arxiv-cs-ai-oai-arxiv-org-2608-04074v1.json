@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-04074v1",
+  "name": "Spend Bits Where Queries Look: KV Cache Vector Quantization with Attention-Preserving Transforms",
+  "summary": "arXiv:2608.04074v1 Announce Type: cross Abstract: Long-context LLM decoding reads the key-value (KV) cache at every step. Loading it takes longer than computing attention over it, so throughput is...",
+  "description": "arXiv:2608.04074v1 Announce Type: cross Abstract: Long-context LLM decoding reads the key-value (KV) cache at every step. Loading it takes longer than computing attention over it, so throughput is bandwidth-bound. Hence, reducing the cache size can raise both decoding speed and serving capacity. The challenge is to reduce cache size while preserving the attention products, keeping reconstructio...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.04074"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-06",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.04074"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-06",
+  "expiryAt": "2026-09-05T00:00:00.000Z",
+  "author": "Samuel Fern\\'andez-Mendui\\~na, Amir Ziashahabi, Eduardo Pavez, Antonio Ortega, Salman Avestimehr"
+}

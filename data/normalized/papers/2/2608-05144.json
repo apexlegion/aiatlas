@@ -1,0 +1,58 @@
+{
+  "type": "paper",
+  "slug": "2608-05144",
+  "name": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
+  "summary": "Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified obj...",
+  "description": "Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified objective. We present Argus, a persistent, self-evolving runtime in which Manager, Planner, Engineer, and Reviewer execute bounded missions over durable project state. Argus separates stable user intent from operational objectives, constraints, and verification criteria, and admits memories, skills, procedures, verifiers, routing decisions, and rejected routes only after role-owned review and, when a...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.05144v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-05",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.05144v1"
+    }
+  ],
+  "authors": [
+    "Boxiu Li",
+    "Zimo Wen",
+    "Yijia Fan",
+    "Junxiang Lei",
+    "Sufeng Guo",
+    "Jiaao Wu",
+    "Ruize Tang",
+    "Mukai Li",
+    "Yifei Shen",
+    "Xiaoyu Chen",
+    "Wanbo Zhang",
+    "Runjing Gu",
+    "Yifei Gao",
+    "Yuheng Wu",
+    "Xuyao Huang",
+    "Zelong Zhao",
+    "Jiachen Zhang",
+    "Shibo Hu",
+    "Hangxi Guo",
+    "Yilin Chen",
+    "Yuzhe Zhang",
+    "Fan Yang",
+    "Chuan Wen",
+    "Xian Zhang",
+    "Xuanhe Zhou",
+    "Zhijie Deng"
+  ],
+  "paperId": "2608.05144",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-05",
+  "abstract": "Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified objective. We present Argus, a persistent, self-evolving runtime in which Manager, Planner, Engineer, and Reviewer execute bounded missions over durable project state. Argus separates stable user intent from operational objectives, constraints, and verification criteria, and admits memories, skills, procedures, verifiers, routing decisions, and rejected routes only after role-owned review and, when a..."
+}

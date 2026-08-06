@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2608-05069",
+  "name": "VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection",
+  "summary": "Video Anomaly Detection (VAD) is inherently challenging due to the scarcity of anomalies and the large visual variability in surveillance footage, including changes in lighting, viewpoint, and huma...",
+  "description": "Video Anomaly Detection (VAD) is inherently challenging due to the scarcity of anomalies and the large visual variability in surveillance footage, including changes in lighting, viewpoint, and human appearance. To mitigate visual noise and address privacy concerns, recent work has shifted to pose-based VAD, which focuses on motion dynamics rather than raw video data. However, existing pose-based approaches model human behavior in continuous latent spaces, limiting their ability to learn compact motion patterns necessary for robust behavior analysis. We address this by proposing Vector-Quant...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.05069v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-05",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2608.05069v1"
+    }
+  ],
+  "authors": [
+    "Narges Rashvand",
+    "Ghazal Alinezhad Noghre",
+    "Shanle Yao",
+    "Gabriel Maldonado",
+    "Hamed Tabkhi"
+  ],
+  "paperId": "2608.05069",
+  "category": "cs.CV",
+  "publishedAt": "2026-08-05",
+  "abstract": "Video Anomaly Detection (VAD) is inherently challenging due to the scarcity of anomalies and the large visual variability in surveillance footage, including changes in lighting, viewpoint, and human appearance. To mitigate visual noise and address privacy concerns, recent work has shifted to pose-based VAD, which focuses on motion dynamics rather than raw video data. However, existing pose-based approaches model human behavior in continuous latent spaces, limiting their ability to learn compact motion patterns necessary for robust behavior analysis. We address this by proposing Vector-Quant..."
+}

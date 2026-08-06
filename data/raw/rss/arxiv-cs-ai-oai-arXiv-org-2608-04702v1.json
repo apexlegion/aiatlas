@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.04702v1",
+  "fetchedAt": "2026-08-06T05:24:11.007Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.04702v1",
+    "title": "Design Choices That Matter: A Functional ANOVA Analysis for Remote Sensing Multi-Label Classification",
+    "link": "https://arxiv.org/abs/2608.04702",
+    "description": "arXiv:2608.04702v1 Announce Type: cross Abstract: Benchmarking deep learning (DL) models for multi-label classification (MLC) of remote sensing images (RSI) typically yields rankings that do not generalize beyond the evaluated datasets. In this work, we move beyond rankings by employing functional analysis of variance (fANOVA) to systematically quantify the contributions of individual design choices and their interactions to performance variability. We conduct two empirical analyses covering 48 and 20 DL models, respectively, spanning design choices such as network architecture, fine-tuning strategy, learning strategy, and initialization. By applying fANOVA across seven MLC RSI datasets, we construct dataset meta-representations that capture design-choice sensitivity profiles. Hierarchical clustering of these meta-representations reveals that datasets naturally group according to how they respond to design decisions, with patterns strongly linked to intrinsic dataset properties such as scale, spatial resolution, and label space complexity. Our findings show that for large-scale datasets, fine-tuning strategy and architecture are dominant factors, while in data-limited regimes, initialization becomes decisive. For intermediate regimes, the interaction between architecture and learning strategy governs performance.",
+    "publishedAt": "2026-08-06",
+    "author": "Maryam Gholami Shiri, Eva Tuba, Sa\\v{s}o D\\v{z}eroski, Tome Eftimov, Ana Nikolikj",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

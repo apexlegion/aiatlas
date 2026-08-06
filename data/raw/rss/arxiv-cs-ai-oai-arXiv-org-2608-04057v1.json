@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.04057v1",
+  "fetchedAt": "2026-08-06T05:24:11.007Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.04057v1",
+    "title": "LaPrune: Controllable Differentiable Sparsity at Million Scale",
+    "link": "https://arxiv.org/abs/2608.04057",
+    "description": "arXiv:2608.04057v1 Announce Type: cross Abstract: Top-$k$ selection determines which components of a sparse model remain active. Hard selection blocks gradients, while continuous relaxations often couple mask hardness to the selected mass. We introduce LaPrune, a mathematically exact-budget differentiable layer that controls the normalized second moment while preserving the selected mass. A LapSum barrier preserves the selection mass, and a normalized second-moment constraint moves the mask from a dense equal-mass allocation toward hard top-$k$ at each budget. We derive a population prediction of the saturated fraction, a near-binary limiting law, and a tight worst-case guarantee on the near-zero fraction. The normalized hardness parameter is invariant to score scale, while a fixed LapSum temperature is not.",
+    "publishedAt": "2026-08-06",
+    "author": "Jakub Antczak, Joanna Wojciechowicz, {\\L}ukasz Struski, Jacek Tabor",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

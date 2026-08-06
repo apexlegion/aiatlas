@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2608-05095",
+  "name": "Hierarchical Graph Memory for LLM Agents with Path-level Localization and Rewrite",
+  "summary": "Agents for long term reasoning require a memory that can be efficiently and effectively updated over time, as new facts and external feedback continue to arrive. Recently, graph memory has been ado...",
+  "description": "Agents for long term reasoning require a memory that can be efficiently and effectively updated over time, as new facts and external feedback continue to arrive. Recently, graph memory has been adopted to offer structural organization for multi-hop retrieval and reasoning. However, existing methods store all memories in a flat graph, and accumulated historical memories can introduce irrelevant contexts and increase the cost of evidence selection during retrieval. Moreover, they typically update memory units independently, requiring repeated unit-wise rewrite to cover related changes. To add...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.05095v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-05",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.05095v1"
+    }
+  ],
+  "authors": [
+    "Xiawei Yue",
+    "Boran Wang",
+    "Xiaoqing Zhang",
+    "Shuxin Zheng",
+    "Ziwei Zhang"
+  ],
+  "paperId": "2608.05095",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-05",
+  "abstract": "Agents for long term reasoning require a memory that can be efficiently and effectively updated over time, as new facts and external feedback continue to arrive. Recently, graph memory has been adopted to offer structural organization for multi-hop retrieval and reasoning. However, existing methods store all memories in a flat graph, and accumulated historical memories can introduce irrelevant contexts and increase the cost of evidence selection during retrieval. Moreover, they typically update memory units independently, requiring repeated unit-wise rewrite to cover related changes. To add..."
+}

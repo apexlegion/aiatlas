@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-04057v1",
+  "name": "LaPrune: Controllable Differentiable Sparsity at Million Scale",
+  "summary": "arXiv:2608.04057v1 Announce Type: cross Abstract: Top-$k$ selection determines which components of a sparse model remain active. Hard selection blocks gradients, while continuous relaxations often...",
+  "description": "arXiv:2608.04057v1 Announce Type: cross Abstract: Top-$k$ selection determines which components of a sparse model remain active. Hard selection blocks gradients, while continuous relaxations often couple mask hardness to the selected mass. We introduce LaPrune, a mathematically exact-budget differentiable layer that controls the normalized second moment while preserving the selected mass. A Lap...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.04057"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-06",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.04057"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-06",
+  "expiryAt": "2026-09-05T00:00:00.000Z",
+  "author": "Jakub Antczak, Joanna Wojciechowicz, {\\L}ukasz Struski, Jacek Tabor"
+}

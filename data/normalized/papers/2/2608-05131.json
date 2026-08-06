@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2608-05131",
+  "name": "OPD-V: Visual On-Policy Self-Distillation with Modality Balance",
+  "summary": "On-Policy Self-Distillation (OPSD) has become a standard post-training approach for improving visual reasoning in multimodal large language models (MLLMs). Existing methods draw privileged informat...",
+  "description": "On-Policy Self-Distillation (OPSD) has become a standard post-training approach for improving visual reasoning in multimodal large language models (MLLMs). Existing methods draw privileged information from diverse input sources to guide self-distillation. Yet these designs overlook Modality Imbalance, a challenge inherent to MLLM reasoning. When textual information dominates generation, the model cannot fully integrate its multimodal input. Consequently, carefully designed privileged information remains underused, limiting the effectiveness of OPSD. To examine this limitation, we construct...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.05131v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-05",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2608.05131v1"
+    }
+  ],
+  "authors": [
+    "Aniri",
+    "Jinhe Bi",
+    "Peng Liao",
+    "Zengjie Jin",
+    "Volker Tresp",
+    "Fei Shen",
+    "Yunpu Ma",
+    "Tat-Seng Chua"
+  ],
+  "paperId": "2608.05131",
+  "category": "cs.CV",
+  "publishedAt": "2026-08-05",
+  "abstract": "On-Policy Self-Distillation (OPSD) has become a standard post-training approach for improving visual reasoning in multimodal large language models (MLLMs). Existing methods draw privileged information from diverse input sources to guide self-distillation. Yet these designs overlook Modality Imbalance, a challenge inherent to MLLM reasoning. When textual information dominates generation, the model cannot fully integrate its multimodal input. Consequently, carefully designed privileged information remains underused, limiting the effectiveness of OPSD. To examine this limitation, we construct..."
+}

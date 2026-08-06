@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2608-05054",
+  "name": "MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres",
+  "summary": "We investigate the transferability of Earth weather foundation models to planetary atmospheres by adapting the GraphCast graph neural weather forecasting model to Mars. While GraphCast achieves sta...",
+  "description": "We investigate the transferability of Earth weather foundation models to planetary atmospheres by adapting the GraphCast graph neural weather forecasting model to Mars. While GraphCast achieves state-of-the-art performance for terrestrial forecasting, its applicability to non-Earth environments remains unexplored. Using the Mars Climate Database (MCD), which provides global atmospheric fields across vertical altitude levels (similar to Earth pressure levels), we evaluate zero-shot and fine-tuned GraphCast predictions of Martian temperature and wind fields. Zero-shot forecasts produce a surp...",
+  "tags": [
+    "arxiv",
+    "astro-ph.EP"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.05054v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-05",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category astro-ph.EP.",
+      "href": "https://arxiv.org/abs/2608.05054v1"
+    }
+  ],
+  "authors": [
+    "M. L. Carroll",
+    "J. Li",
+    "S. D. Guzewich",
+    "G. Villanueva",
+    "J. A. Caraballo-Vega",
+    "M. J. Frost"
+  ],
+  "paperId": "2608.05054",
+  "category": "astro-ph.EP",
+  "publishedAt": "2026-08-05",
+  "abstract": "We investigate the transferability of Earth weather foundation models to planetary atmospheres by adapting the GraphCast graph neural weather forecasting model to Mars. While GraphCast achieves state-of-the-art performance for terrestrial forecasting, its applicability to non-Earth environments remains unexplored. Using the Mars Climate Database (MCD), which provides global atmospheric fields across vertical altitude levels (similar to Earth pressure levels), we evaluate zero-shot and fine-tuned GraphCast predictions of Martian temperature and wind fields. Zero-shot forecasts produce a surp..."
+}

@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2608-05063",
+  "name": "Hardware Design and Security in the Era of Chiplets and LLMs",
+  "summary": "The semiconductor industry is undergoing a dual revolution: the shift toward heterogeneous 2.5D chiplet systems and the integration of Large Language Models (LLMs) into Electronic Design Automation...",
+  "description": "The semiconductor industry is undergoing a dual revolution: the shift toward heterogeneous 2.5D chiplet systems and the integration of Large Language Models (LLMs) into Electronic Design Automation (EDA) flows. While these paradigms offer unprecedented benefits in yield, modularity, design productivity, etc., they radically expand the hardware attack surface. This paper provides a unified analysis of these frontiers, ranging from attacks on chiplet systems (including hardware stacks for LLM acceleration) across architectural, logical, and physical levels, to various exploits against LLM-dri...",
+  "tags": [
+    "arxiv",
+    "cs.CR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.05063v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-05",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CR.",
+      "href": "https://arxiv.org/abs/2608.05063v1"
+    }
+  ],
+  "authors": [
+    "Johann Knechtel",
+    "Ozgur Sinanoglu",
+    "Paul V. Gratz",
+    "Ramesh Karri"
+  ],
+  "paperId": "2608.05063",
+  "category": "cs.CR",
+  "publishedAt": "2026-08-05",
+  "abstract": "The semiconductor industry is undergoing a dual revolution: the shift toward heterogeneous 2.5D chiplet systems and the integration of Large Language Models (LLMs) into Electronic Design Automation (EDA) flows. While these paradigms offer unprecedented benefits in yield, modularity, design productivity, etc., they radically expand the hardware attack surface. This paper provides a unified analysis of these frontiers, ranging from attacks on chiplet systems (including hardware stacks for LLM acceleration) across architectural, logical, and physical levels, to various exploits against LLM-dri..."
+}

@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2608-05102",
+  "name": "ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment",
+  "summary": "Long-horizon search agents must make multiple sequential actions (steps) to search, retrieve, verify, and integrate evidence to reach a final answer. However, existing methods for training these ag...",
+  "description": "Long-horizon search agents must make multiple sequential actions (steps) to search, retrieve, verify, and integrate evidence to reach a final answer. However, existing methods for training these agents typically treat all steps within a trajectory uniformly during both supervised fine-tuning (SFT) and reinforcement learning (RL), failing to distinguish useful actions from erroneous or redundant ones. In this paper, we propose Answer-Backtracked Credit Assignment (ABC), a fine-grained credit assignment framework for training long-horizon search agents by converting sparse trajectory-level ou...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.05102v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-05",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.05102v1"
+    }
+  ],
+  "authors": [
+    "Yijun Lu",
+    "Rui Ye",
+    "Jiajun Wang",
+    "Yuwen Du",
+    "Tian Jin",
+    "Songhua Liu",
+    "Siheng Chen"
+  ],
+  "paperId": "2608.05102",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-05",
+  "abstract": "Long-horizon search agents must make multiple sequential actions (steps) to search, retrieve, verify, and integrate evidence to reach a final answer. However, existing methods for training these agents typically treat all steps within a trajectory uniformly during both supervised fine-tuning (SFT) and reinforcement learning (RL), failing to distinguish useful actions from erroneous or redundant ones. In this paper, we propose Answer-Backtracked Credit Assignment (ABC), a fine-grained credit assignment framework for training long-horizon search agents by converting sparse trajectory-level ou..."
+}

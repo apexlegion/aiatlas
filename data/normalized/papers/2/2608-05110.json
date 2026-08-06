@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2608-05110",
+  "name": "Representational separation between unitary and channel quantum generative models via shared classical randomness at shallow depth",
+  "summary": "Near-term quantum hardware limits circuit depth and often imposes geometrically local connectivity for quantum generative models, restricting the output distributions accessible to shallow unitary...",
+  "description": "Near-term quantum hardware limits circuit depth and often imposes geometrically local connectivity for quantum generative models, restricting the output distributions accessible to shallow unitary Born models. Introducing stochasticity into a unitary quantum Born model can improve the empirical generative performance of the resulting channel model and, for a restricted small-scale architecture, has been proven to represent a strictly larger family of distributions than its unitary counterpart. However, whether such randomness provides a provable separation at fixed shallow depth for arbitra...",
+  "tags": [
+    "arxiv",
+    "quant-ph"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.05110v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-05",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category quant-ph.",
+      "href": "https://arxiv.org/abs/2608.05110v1"
+    }
+  ],
+  "authors": [
+    "Arunava Majumder",
+    "Marius Krumm",
+    "Hendrik Poulsen Nautrup",
+    "Hans J. Briegel"
+  ],
+  "paperId": "2608.05110",
+  "category": "quant-ph",
+  "publishedAt": "2026-08-05",
+  "abstract": "Near-term quantum hardware limits circuit depth and often imposes geometrically local connectivity for quantum generative models, restricting the output distributions accessible to shallow unitary Born models. Introducing stochasticity into a unitary quantum Born model can improve the empirical generative performance of the resulting channel model and, for a restricted small-scale architecture, has been proven to represent a strictly larger family of distributions than its unitary counterpart. However, whether such randomness provides a provable separation at fixed shallow depth for arbitra..."
+}
