@@ -1,0 +1,41 @@
+{
+  "type": "paper",
+  "slug": "2608-06265",
+  "name": "Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints",
+  "summary": "Synthetic clinical benchmarks for enterprise AI agents can pass existing utility checks and still remain structurally unrealistic, especially in privacy-sensitive healthcare settings where operatio...",
+  "description": "Synthetic clinical benchmarks for enterprise AI agents can pass existing utility checks and still remain structurally unrealistic, especially in privacy-sensitive healthcare settings where operational data are hard to access. We study how to improve such benchmarks without breaking the downstream utility checks already used in practice. We formulate benchmark revision as utility-constrained realism improvement: dataset changes should increase realism while staying above an operational utility floor. We instantiate this idea on a care-gap benchmark derived from Synthea-generated patients exe...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.06265v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-06",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.06265v1"
+    }
+  ],
+  "authors": [
+    "Omid Bazgir",
+    "Md Nasir",
+    "Jacob Hoffman",
+    "Yang Yang",
+    "Manu Agrawal",
+    "Anusua Trivedi",
+    "Vinay Rao Dandin",
+    "Chris Gibbons",
+    "Christine Swisher"
+  ],
+  "paperId": "2608.06265",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-06",
+  "abstract": "Synthetic clinical benchmarks for enterprise AI agents can pass existing utility checks and still remain structurally unrealistic, especially in privacy-sensitive healthcare settings where operational data are hard to access. We study how to improve such benchmarks without breaking the downstream utility checks already used in practice. We formulate benchmark revision as utility-constrained realism improvement: dataset changes should increase realism while staying above an operational utility floor. We instantiate this idea on a care-gap benchmark derived from Synthea-generated patients exe..."
+}

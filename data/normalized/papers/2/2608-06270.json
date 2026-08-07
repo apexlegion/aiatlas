@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2608-06270",
+  "name": "The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images",
+  "summary": "The \"thinking-with-images\" paradigm equips multimodal LLMs with active visual operations such as crop-and-zoom. However, models using these operations often achieve only marginal or negative gains...",
+  "description": "The \"thinking-with-images\" paradigm equips multimodal LLMs with active visual operations such as crop-and-zoom. However, models using these operations often achieve only marginal or negative gains over direct inference at substantially higher token cost. They may also repeatedly crop irrelevant regions and fail on questions that direct inference answers correctly. We ask whether the returned visual evidence causally affects the answer. To answer this question, we formulate visual tool-use as a causal graph that separates observation-mediated paths from action-induced shortcuts. We then audi...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.06270v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-06",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.06270v1"
+    }
+  ],
+  "authors": [
+    "Zhiheng Wang",
+    "Bo Peng",
+    "Lai Wei",
+    "Chaochao Lu"
+  ],
+  "paperId": "2608.06270",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-06",
+  "abstract": "The \"thinking-with-images\" paradigm equips multimodal LLMs with active visual operations such as crop-and-zoom. However, models using these operations often achieve only marginal or negative gains over direct inference at substantially higher token cost. They may also repeatedly crop irrelevant regions and fail on questions that direct inference answers correctly. We ask whether the returned visual evidence causally affects the answer. To answer this question, we formulate visual tool-use as a causal graph that separates observation-mediated paths from action-induced shortcuts. We then audi..."
+}

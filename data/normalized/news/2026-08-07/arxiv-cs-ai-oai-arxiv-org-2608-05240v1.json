@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-05240v1",
+  "name": "One Qubit Can Beat One Bit: Quantum Advantage for Post-Training Quantization",
+  "summary": "arXiv:2608.05240v1 Announce Type: cross Abstract: One-bit post-training quantization represents each weight using only its sign, requiring all deployment contexts to share the same binary weight ma...",
+  "description": "arXiv:2608.05240v1 Announce Type: cross Abstract: One-bit post-training quantization represents each weight using only its sign, requiring all deployment contexts to share the same binary weight matrix even when their activation statistics favor different sign patterns. We study this shared-sign constraint and introduce Quantum Random Access Quantization (QRAQ). This framework encodes context-d...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.05240"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-07",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.05240"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-07",
+  "expiryAt": "2026-09-06T00:00:00.000Z",
+  "author": "Yuma Ichikawa, Moeto Mishima"
+}

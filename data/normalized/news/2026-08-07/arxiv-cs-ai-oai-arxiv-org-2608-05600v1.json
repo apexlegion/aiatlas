@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-05600v1",
+  "name": "LC-GRPO: Bridging Train-Inference Gap for Flow-Based GRPO with Langevin Correction",
+  "summary": "arXiv:2608.05600v1 Announce Type: cross Abstract: Flow-based generative models are typically sampled by solving a deterministic ordinary differential equation (ODE), whereas online reinforcement le...",
+  "description": "arXiv:2608.05600v1 Announce Type: cross Abstract: Flow-based generative models are typically sampled by solving a deterministic ordinary differential equation (ODE), whereas online reinforcement learning requires stochastic rollouts for policy exploration and optimization. Existing GRPO methods for flow models therefore replace the inference-time ODE with a stochastic differential equation (SDE...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.05600"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-07",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.05600"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-07",
+  "expiryAt": "2026-09-06T00:00:00.000Z",
+  "author": "Yingqing Guo, Hui Yuan, Zijian He, Mengdi Wang, Zheng Ding"
+}

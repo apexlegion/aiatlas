@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-05243v1",
+  "name": "Marginal Matching Does Not License Factorized Sampling: Auditing Conditional Style Leakage in Factorized Generative Models",
+  "summary": "arXiv:2608.05243v1 Announce Type: cross Abstract: Factorized generative models commonly regularize a latent style variable z_s by matching its marginal distribution to a fixed Gaussian prior and in...",
+  "description": "arXiv:2608.05243v1 Announce Type: cross Abstract: Factorized generative models commonly regularize a latent style variable z_s by matching its marginal distribution to a fixed Gaussian prior and interpret this as evidence that the style representation is independent of class information. We show that this interpretation is incorrect. Matching only the marginal distribution places no constraint...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.05243"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-07",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.05243"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-07",
+  "expiryAt": "2026-09-06T00:00:00.000Z",
+  "author": "Duong Bach, Hai Nguyen Hong, Cuong Do"
+}

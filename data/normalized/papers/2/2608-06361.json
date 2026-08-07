@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2608-06361",
+  "name": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
+  "summary": "Real-world video benchmarks provide broad coverage, but their fixed clips entangle event count, rate, duration, and visual complexity, making failure modes hard to isolate. While existing programma...",
+  "description": "Real-world video benchmarks provide broad coverage, but their fixed clips entangle event count, rate, duration, and visual complexity, making failure modes hard to isolate. While existing programmatic benchmarks offer better control, they score only the final answer rather than auditing reported events against executable ground truth. To bridge this gap, we introduce trace-grounded parametric profiling for event counting in three controlled video tasks: bouncing-ball wall contacts, visual blinks, and categorical state transitions. Across 2,190 videos, we vary event count N and frequency F w...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.06361v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-06",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.06361v1"
+    }
+  ],
+  "authors": [
+    "Sarvesh Baskar",
+    "Zikui Cai",
+    "Shayan Shabihi",
+    "Anirudh Satheesh",
+    "Muhammad R. Islam",
+    "Udari Madhushani Sehwag",
+    "Tom Goldstein",
+    "Furong Huang"
+  ],
+  "paperId": "2608.06361",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-06",
+  "abstract": "Real-world video benchmarks provide broad coverage, but their fixed clips entangle event count, rate, duration, and visual complexity, making failure modes hard to isolate. While existing programmatic benchmarks offer better control, they score only the final answer rather than auditing reported events against executable ground truth. To bridge this gap, we introduce trace-grounded parametric profiling for event counting in three controlled video tasks: bouncing-ball wall contacts, visual blinks, and categorical state transitions. Across 2,190 videos, we vary event count N and frequency F w..."
+}

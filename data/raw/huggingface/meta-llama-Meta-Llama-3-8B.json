@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "meta-llama/Meta-Llama-3-8B",
-  "fetchedAt": "2026-08-06T05:24:09.237Z",
+  "fetchedAt": "2026-08-07T04:30:54.929Z",
   "data": {
     "_id": "661f97d48e7f3438386f755d",
     "id": "meta-llama/Meta-Llama-3-8B",
@@ -25,8 +25,8 @@
       "deploy:sagemaker",
       "region:us"
     ],
-    "downloads": 2054076,
-    "likes": 6621,
+    "downloads": 2036600,
+    "likes": 6623,
     "modelId": "meta-llama/Meta-Llama-3-8B",
     "author": "meta-llama",
     "sha": "8cde5ca8380496c9a6cc7ef3a8b46a0372a1d920",
@@ -145,7 +145,6 @@
     ],
     "spaces": [
       "hugging-apps/ardy",
-      "eduagarcia/multilingual-tokenizer-leaderboard",
       "Granther/try-this-model",
       "featherless-ai/try-this-model",
       "eduagarcia/open_pt_llm_leaderboard",
@@ -161,6 +160,7 @@
       "bhaskartripathi/LLM_Quantization",
       "Justinrune/LLaMA-Factory",
       "ruslanmv/convert_to_gguf",
+      "eduagarcia/multilingual-tokenizer-leaderboard",
       "rinna/llama-3-youko-8b-instruct",
       "cot-leaderboard/open-cot-dashboard",
       "huzey/ncut-pytorch",
@@ -196,8 +196,8 @@
       "yuvaranianandhan24/chat_with_pdf",
       "suplinux/meta-llama-Meta-Llama-3-8B",
       "John6687890/meta-llama-Meta-Llama-3-8B",
-      "saneowl/meta-llama-Meta-Llama-3-8B",
       "Helder84/meta-llama-Meta-Llama-3-8B",
+      "saneowl/meta-llama-Meta-Llama-3-8B",
       "davdadev/ai",
       "dioarafl/Translate",
       "ExploitationLizard/Meta_LLama_charlie",
@@ -235,15 +235,15 @@
       "drizzymedia/ardy",
       "tws-pappu/Llama3_PK_DemoAPP",
       "Lician/meta-llama-Meta-Llama-3-8B",
-      "amancseai/meta-llama-Meta-Llama-3-8B",
       "WillianCGomes4Sys/meta-llama-Meta-Llama-3-8B",
       "philip10/meta-llama-Meta-Llama-3-8B",
+      "amancseai/meta-llama-Meta-Llama-3-8B",
       "zeez/meta-llama-Meta-Llama-3-8B",
       "goaiguru/meta-llama-Meta-Llama-3-8B",
       "afrenkai/meta-llama-Meta-Llama-3-8B",
       "andrewchristen/meta-llama-Meta-Llama-3-8B",
-      "rudyTzhan/meta-llama-Meta-Llama-3-8B",
-      "nabu098/meta-llama-Meta-Llama-3-8B"
+      "nabu098/meta-llama-Meta-Llama-3-8B",
+      "rudyTzhan/meta-llama-Meta-Llama-3-8B"
     ],
     "createdAt": "2024-04-17T09:35:16.000Z",
     "safetensors": {

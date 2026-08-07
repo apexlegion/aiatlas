@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-06111v1",
+  "name": "Beyond Sequence Order: Syntax-Informed Positional Embeddings for Transformers",
+  "summary": "arXiv:2608.06111v1 Announce Type: cross Abstract: Positional embeddings (PE) in Transformers encode token distance and order but are largely agnostic to \\textit{syntactic structure}. We introduce \\...",
+  "description": "arXiv:2608.06111v1 Announce Type: cross Abstract: Positional embeddings (PE) in Transformers encode token distance and order but are largely agnostic to \\textit{syntactic structure}. We introduce \\textbf{S}yntax-\\textbf{i}nformed \\textbf{P}ositional \\textbf{E}mbeddings (\\textbf{SiPE}), which learns a lightweight syntactic prior from dependency parses during pretraining and injects it across all...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.06111"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-07",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.06111"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-07",
+  "expiryAt": "2026-09-06T00:00:00.000Z",
+  "author": "Haris Riaz, Hyungji Kim, Mihai Surdeanu"
+}

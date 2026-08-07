@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "sentence-transformers/all-MiniLM-L6-v2",
-  "fetchedAt": "2026-08-06T05:24:10.220Z",
+  "fetchedAt": "2026-08-07T04:30:55.868Z",
   "data": {
     "_id": "621ffdc136468d709f180294",
     "id": "sentence-transformers/all-MiniLM-L6-v2",
@@ -57,8 +57,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 257806986,
-    "likes": 5182,
+    "downloads": 252446310,
+    "likes": 5184,
     "modelId": "sentence-transformers/all-MiniLM-L6-v2",
     "author": "sentence-transformers",
     "sha": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
@@ -229,7 +229,6 @@
       "mteb/leaderboard",
       "marcosv/InstructIR",
       "MTEB-BR/leaderboard",
-      "eduagarcia/multilingual-tokenizer-leaderboard",
       "bench-labs/BenchLabs-Leaderboard",
       "Italianhype/Blum",
       "GiacomoDeLuca/orrery-demo",
@@ -238,12 +237,9 @@
       "abhiram-soni1/multi-source-rag-agent",
       "duotkuerduot/DDD-MSL-Cruise",
       "thaoshibe/camroll-agent",
-      "johncenaqweewewwe/neuroResearch",
       "mpartsch/vita",
-      "topukumar/OpsIQ",
       "nikhilv1104/git-analyzer",
-      "Pradeep002/claysys-rag-project",
-      "SumitKohli/ai-document-review-assistant",
+      "lakresi/ragify",
       "cvachet/pdf-chatbot",
       "JournalistsonHF/ai-scraper",
       "mteb/arena",
@@ -281,6 +277,7 @@
       "Agents-MCP-Hackathon/KarmaCheck",
       "hfmlsoc/different-flops",
       "build-small-hackathon/pawmap",
+      "eduagarcia/multilingual-tokenizer-leaderboard",
       "cffl/Exploring_Intelligent_Writing_Assistance",
       "opensearch-project/OpenSearch-AI",
       "arshadmangi112/chatpdf.document",
@@ -325,7 +322,10 @@
       "OuroborosM/STLA-BABY",
       "KrishnaKumar23/documentQABot",
       "CyranoB/search_agent",
-      "Gololias/MetroCuadrado"
+      "Gololias/MetroCuadrado",
+      "ABBNikit/Nikit_PDF_Chatbot",
+      "captain-awesome/Docuverse-zephyr-beta",
+      "JDWebProgrammer/chatbot"
     ],
     "createdAt": "2022-03-02T23:29:05.000Z",
     "safetensors": {

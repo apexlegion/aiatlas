@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2608-06301",
+  "name": "HarnessOpt-Bench: Evaluating LLMs at Harness Optimization",
+  "summary": "As LLMs are increasingly deployed within agentic systems, their capabilities depend not only on the model weights but also on the harness: the prompts, tools, control flow, memory, and orchestratio...",
+  "description": "As LLMs are increasingly deployed within agentic systems, their capabilities depend not only on the model weights but also on the harness: the prompts, tools, control flow, memory, and orchestration code surrounding them. This makes automated harness optimization -- the iterative and evaluation-guided improvement of a harness by an AI system -- both an important route to improving AI systems and a demanding capability for AI systems themselves. Yet the community lacks a common protocol for measuring how well frontier LLMs perform at this task. We introduce HarnessOpt-Bench, a benchmark for...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.06301v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-06",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.06301v1"
+    }
+  ],
+  "authors": [
+    "Varun Ursekar",
+    "Apaar Shanker",
+    "Yash Maurya",
+    "Shehab Yasser",
+    "Vijay S. Kalmath",
+    "Veronica Chatrath",
+    "Yuan Xue"
+  ],
+  "paperId": "2608.06301",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-06",
+  "abstract": "As LLMs are increasingly deployed within agentic systems, their capabilities depend not only on the model weights but also on the harness: the prompts, tools, control flow, memory, and orchestration code surrounding them. This makes automated harness optimization -- the iterative and evaluation-guided improvement of a harness by an AI system -- both an important route to improving AI systems and a demanding capability for AI systems themselves. Yet the community lacks a common protocol for measuring how well frontier LLMs perform at this task. We introduce HarnessOpt-Bench, a benchmark for..."
+}

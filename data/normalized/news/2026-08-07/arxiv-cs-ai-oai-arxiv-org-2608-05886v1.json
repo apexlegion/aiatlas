@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-05886v1",
+  "name": "CodeGrep: An RL-Trained Retrieval Agent for LLM Coding Agents",
+  "summary": "arXiv:2608.05886v1 Announce Type: cross Abstract: Modern LLM coding agents such as Claude Code and OpenHands share a common inefficiency: they spend much of their token budget finding the file to p...",
+  "description": "arXiv:2608.05886v1 Announce Type: cross Abstract: Modern LLM coding agents such as Claude Code and OpenHands share a common inefficiency: they spend much of their token budget finding the file to patch, rather than patching it. On SWE-Bench Verified, a 30B OpenHands agent averages 23 rounds and 631K tokens per resolved issue, with many calls spent on grep, glob, and view_file during repository...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.05886"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-07",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.05886"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-07",
+  "expiryAt": "2026-09-06T00:00:00.000Z",
+  "author": "Wuya Chen, Yihao yang, Yang Cao, Yue Lin"
+}
