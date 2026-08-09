@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-08-08T03:39:47.486Z",
+  "fetchedAt": "2026-08-09T03:49:18.340Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 5253587,
-    "likes": 6111,
+    "downloads": 5100033,
+    "likes": 6117,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -350,9 +350,11 @@
       "openai/whisper",
       "hf-audio/whisper-large-v3",
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
+      "ardha27/Youtube-AI-Summarizer",
       "navidved/open_persian_asr_leaderboard",
       "msalhab96/open_universal_arabic_asr_leaderboard_all",
       "eduagarcia/multilingual-tokenizer-leaderboard",
+      "saja55/smart-advisor",
       "artificialguybr/Video-Transcription-Smart-Summary",
       "artificialguybr/video-dubbing",
       "sanchit-gandhi/whisper-jax-spaces",
@@ -374,7 +376,6 @@
       "Illia56/transcribe-video-via-whisper-v3",
       "microsoft/paza-bench",
       "ylacombe/create-your-own-TTS-dataset",
-      "ardha27/Youtube-AI-Summarizer",
       "phinam112/OmniVoice-Studio",
       "mozilla-ai/transcribe",
       "mrm8488/whisper-large-v3",
@@ -444,8 +445,7 @@
       "pythonitalia/realtime-transcription",
       "haoxiong693/openai-whisper-large-v3",
       "SahilJ2/VQA_Model",
-      "maroonvillager/openai-whisper-large-v3",
-      "Upgradojha/whisper"
+      "maroonvillager/openai-whisper-large-v3"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {
