@@ -1,0 +1,67 @@
+{
+  "type": "paper",
+  "slug": "2608-07418",
+  "name": "ResidencyRL: Reinforcement Learning in Simulated Clinical Environments",
+  "summary": "In medical education, physicians convert academic knowledge into clinical expertise through residency: years of training across thousands of encounters, with diverse sources of feedback and progres...",
+  "description": "In medical education, physicians convert academic knowledge into clinical expertise through residency: years of training across thousands of encounters, with diverse sources of feedback and progressively greater autonomy. Much of clinical reasoning relies on the patient encounter, a dialogue in which a clinician elicits history, refines diagnostic hypotheses, and decides management under uncertainty. While large language models (LLMs) excel on static medical benchmarks, methods to optimize the full sequence of clinical decisions remain underdeveloped. We present ResidencyRL, a reinforcement...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.07418v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-07",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.07418v1"
+    }
+  ],
+  "authors": [
+    "Valentin Liévin",
+    "Samuel Schmidgall",
+    "Tim Strother",
+    "Alex Bijamov",
+    "Akshay Goel",
+    "Anil Palepu",
+    "Chunjong Park",
+    "Vahid Balazadeh",
+    "Min Woo Sun",
+    "Marius Guerard",
+    "Justin Chen",
+    "Dave Steiner",
+    "Vikram Dhillon",
+    "Ibrahim Azar",
+    "Akhil Mehta",
+    "Nicholas Spetsieris",
+    "Shilpan Shah",
+    "Maen Abdelrahim",
+    "Amit Dahiya",
+    "Yun Liu",
+    "Katherine Chou",
+    "Yossi Matias",
+    "Avinatan Hassidim",
+    "Dale R. Webster",
+    "Quoc V. Le",
+    "Raia Hadsell",
+    "Joelle Barral",
+    "Carey Radebaugh",
+    "Aleksandra Faust",
+    "Shekoofeh Azizi",
+    "Mike Schaekermann",
+    "Po-Hsuan Cameron Chen",
+    "Tao Tu",
+    "David Racz",
+    "Lin Yang"
+  ],
+  "paperId": "2608.07418",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-07",
+  "abstract": "In medical education, physicians convert academic knowledge into clinical expertise through residency: years of training across thousands of encounters, with diverse sources of feedback and progressively greater autonomy. Much of clinical reasoning relies on the patient encounter, a dialogue in which a clinician elicits history, refines diagnostic hypotheses, and decides management under uncertainty. While large language models (LLMs) excel on static medical benchmarks, methods to optimize the full sequence of clinical decisions remain underdeveloped. We present ResidencyRL, a reinforcement..."
+}

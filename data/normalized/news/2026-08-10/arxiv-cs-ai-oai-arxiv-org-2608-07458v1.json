@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-07458v1",
+  "name": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG",
+  "summary": "arXiv:2608.07458v1 Announce Type: cross Abstract: Recent optimization studies on Retrieval-Augmented Generation (RAG) have exploited chunk-level KV cache reuse to avoid processing long retrieved co...",
+  "description": "arXiv:2608.07458v1 Announce Type: cross Abstract: Recent optimization studies on Retrieval-Augmented Generation (RAG) have exploited chunk-level KV cache reuse to avoid processing long retrieved contexts for higher efficiency, while significant information redundancy and noise still remain in the coarse-grained chunks. This paper optimizes the Pareto frontier under low prefill latency constrain...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.07458"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-10",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.07458"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-10",
+  "expiryAt": "2026-09-09T00:00:00.000Z",
+  "author": "Gyuwan Kim, Cheoneum Park, Tao Yang"
+}

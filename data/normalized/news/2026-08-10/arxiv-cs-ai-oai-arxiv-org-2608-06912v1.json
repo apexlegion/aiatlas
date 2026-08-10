@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-06912v1",
+  "name": "Fast LapSum: Exact Differentiable Top-k at Million Scale",
+  "summary": "arXiv:2608.06912v1 Announce Type: new Abstract: The top-$k$ operation is a fundamental building block of modern sparse computation, enabling token routing, expert activation, memory selection, and...",
+  "description": "arXiv:2608.06912v1 Announce Type: new Abstract: The top-$k$ operation is a fundamental building block of modern sparse computation, enabling token routing, expert activation, memory selection, and attention pruning. Yet standard hard top-$k$ blocks gradients, while existing continuous (soft) relaxations remain too costly for large-scale models. We introduce Fast LapSum, an exact-budget soft top...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.06912"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-10",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.06912"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-10",
+  "expiryAt": "2026-09-09T00:00:00.000Z",
+  "author": "{\\L}ukasz Struski, Joanna Wojciechowicz, Jakub Antczak, Marcin Mazur, Kamil Ksi\\k{a}\\.zek, Jacek Tabor"
+}

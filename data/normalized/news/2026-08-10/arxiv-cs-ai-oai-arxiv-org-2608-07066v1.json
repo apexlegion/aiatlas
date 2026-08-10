@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-07066v1",
+  "name": "PTQ4SNN: Membrane-Aware Post-Training Quantization for Spiking Neural Networks",
+  "summary": "arXiv:2608.07066v1 Announce Type: new Abstract: Spiking neural networks (SNNs) enable sparse and event-driven computation, but their low-bit deployment remains incomplete because recurrent membrane...",
+  "description": "arXiv:2608.07066v1 Announce Type: new Abstract: Spiking neural networks (SNNs) enable sparse and event-driven computation, but their low-bit deployment remains incomplete because recurrent membrane states are commonly retained in floating point even after weight quantization. Quantizing these states is challenging because their distributions differ across channels and from the preceding weights...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.07066"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-10",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.07066"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-10",
+  "expiryAt": "2026-09-09T00:00:00.000Z",
+  "author": "Hui Xie, Tong Shi, Haotong Qin, Aishan Liu, Xiaode Liu, Jinyang Guo"
+}

@@ -1,0 +1,45 @@
+{
+  "type": "paper",
+  "slug": "2608-07417",
+  "name": "I Seek You in Videos: Identity-Conditioned Queries for Person-Centric Video Reasoning",
+  "summary": "Real-world video reasoning often involves multimodal, multi-source inputs, whereas existing video reasoning tasks typically assume a simplified video-text setting, limiting identity matching and pe...",
+  "description": "Real-world video reasoning often involves multimodal, multi-source inputs, whereas existing video reasoning tasks typically assume a simplified video-text setting, limiting identity matching and person-centric reasoning. To bridge this gap, we introduce the Identity-conditioned Queries (ICQ) task, in which models are required to jointly associate and interpret an input video and a reference image of a person, and leverage this conditioning to address identity grounding, behavior understanding, and temporal reasoning, among other challenges. Building on ICQ, we present ISYV (I Seek You in Vi...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.07417v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-07",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2608.07417v1"
+    }
+  ],
+  "authors": [
+    "Shibo Gao",
+    "Chongxiao Wang",
+    "Chenglong Huang",
+    "Jie Ma",
+    "Haolin Shi",
+    "Fei Ding",
+    "Jing Li",
+    "Qiang Lyu",
+    "Yangyang Liu",
+    "Yang Liu",
+    "Jun Liu",
+    "Linlin Huang",
+    "Peipei Yang"
+  ],
+  "paperId": "2608.07417",
+  "category": "cs.CV",
+  "publishedAt": "2026-08-07",
+  "abstract": "Real-world video reasoning often involves multimodal, multi-source inputs, whereas existing video reasoning tasks typically assume a simplified video-text setting, limiting identity matching and person-centric reasoning. To bridge this gap, we introduce the Identity-conditioned Queries (ICQ) task, in which models are required to jointly associate and interpret an input video and a reference image of a person, and leverage this conditioning to address identity grounding, behavior understanding, and temporal reasoning, among other challenges. Building on ICQ, we present ISYV (I Seek You in Vi..."
+}

@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2608-07460",
+  "name": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity",
+  "summary": "While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativi...",
+  "description": "While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity (e.g., story generation) as well as those that require it implicitly, e.g., reinforcement learning (RL). We instead propose CreativeInstruct, a scalable instruction-tuning method that teaches LLMs to balance creative, base-model-like generations with the quality of post-trained models, by learning to inject special [StartCreativity] spans that bias generation toward creativity. Furthermore, we...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.07460v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-07",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2608.07460v1"
+    }
+  ],
+  "authors": [
+    "Ananya Sahu",
+    "Mohit Bansal",
+    "Elias Stengel-Eskin"
+  ],
+  "paperId": "2608.07460",
+  "category": "cs.CL",
+  "publishedAt": "2026-08-07",
+  "abstract": "While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity (e.g., story generation) as well as those that require it implicitly, e.g., reinforcement learning (RL). We instead propose CreativeInstruct, a scalable instruction-tuning method that teaches LLMs to balance creative, base-model-like generations with the quality of post-trained models, by learning to inject special [StartCreativity] spans that bias generation toward creativity. Furthermore, we..."
+}

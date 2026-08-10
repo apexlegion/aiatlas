@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.01301v3",
+  "fetchedAt": "2026-08-10T04:03:03.037Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.01301v3",
+    "title": "Ranking Image Fusion the Way Humans Do: A Learned Pairwise Preference Measure for Infrared-Visible Fusion Assessment",
+    "link": "https://arxiv.org/abs/2608.01301",
+    "description": "arXiv:2608.01301v3 Announce Type: replace-cross Abstract: Infrared-visible image fusion (IVIF) has no ideal fused reference, so algorithms are ranked by scalar objective metrics that formalize proxies for information transfer, structure, or source similarity. These proxies often disagree with the judgment that ultimately matters: given the same sources, which of two fused results does a human prefer? Direct pairwise comparison is an established protocol for relative subjective assessment, but its cost grows quadratically with the number of algorithms. We present the Learned Perceptual Image Fusion Measure (LPIFM), a source-conditioned model that operationalizes the human A/B/Tie comparison protocol as a repeatable, scalable surrogate. LPIFM jointly observes the two sources and two fused candidates and predicts whether A is better, B is better, or the two are perceptually equivalent. Supervision comes from a new dense preference corpus covering all 6,300 unordered comparisons among 25 fusion methods on the 21 scenes of the VIFB benchmark, labeled under a blinded, randomized, two-stage protocol with expert adjudication. Across scene- and method-generalization settings, LPIFM attains pairwise accuracy of 0.792-0.840 and Spearman correlation of 0.941-0.977 with human-derived tie-aware Bradley-Terry rankings; on full 25-method pools it exceeds the strongest conventional metric by 0.163-0.211 in accuracy. Its verdicts are also antisymmetric under candidate swap, free of preference cycles, and fully transitive, matching or exceeding the internal consistency of the human panel. We publicly release the dataset, model weights, and code. LPIFM offers a practical instrument for human-aligned comparison and ranking of IVIF methods at scale.",
+    "publishedAt": "2026-08-10",
+    "author": "Haoran Liu, Mingzhe Liu, Peng Li, Guibin Zan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

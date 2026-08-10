@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-06849v1",
+  "name": "Autonomy-of-Heads: Data-Free Sparse Attention from Frozen Query-Key Geometry",
+  "summary": "arXiv:2608.06849v1 Announce Type: cross Abstract: Long-context LLM inference is bottlenecked by quadratic attention computation and growing KV-cache costs. Existing sparse attention and KV-compress...",
+  "description": "arXiv:2608.06849v1 Announce Type: cross Abstract: Long-context LLM inference is bottlenecked by quadratic attention computation and growing KV-cache costs. Existing sparse attention and KV-compression methods typically decide which tokens or heads to preserve from runtime attention scores, observation windows, calibration prompts, or learned gates, making head diagnosis input-dependent and cost...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.06849"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-10",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.06849"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-10",
+  "expiryAt": "2026-09-09T00:00:00.000Z",
+  "author": "Yehan Yang, Junyuan Shang, Yang Li, Guanqun Zhao, Shuohuan Wang, Dianhai Yu"
+}

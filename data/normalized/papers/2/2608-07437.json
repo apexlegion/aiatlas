@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2608-07437",
+  "name": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+  "summary": "Reliable hypothesis testing is the foundation of many empirical scientific claims. Large language model (LLM) agents are increasingly used to automate this process, as they can inspect datasets, ge...",
+  "description": "Reliable hypothesis testing is the foundation of many empirical scientific claims. Large language model (LLM) agents are increasingly used to automate this process, as they can inspect datasets, generate code, and produce analyses end-to-end. However, we show that they frequently make subtle inferential errors that lead to incorrect conclusions despite correctly executed analyses. Existing benchmarks fail to capture this failure mode, as they rarely assess whether a reported p-value is statistically valid given the assumptions underlying the data. We address this gap by building P-Bench, a...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.07437v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-07",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.07437v1"
+    }
+  ],
+  "authors": [
+    "Jiacheng Miao",
+    "Jin Mu",
+    "Guanhua Chen",
+    "James Zou"
+  ],
+  "paperId": "2608.07437",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-07",
+  "abstract": "Reliable hypothesis testing is the foundation of many empirical scientific claims. Large language model (LLM) agents are increasingly used to automate this process, as they can inspect datasets, generate code, and produce analyses end-to-end. However, we show that they frequently make subtle inferential errors that lead to incorrect conclusions despite correctly executed analyses. Existing benchmarks fail to capture this failure mode, as they rarely assess whether a reported p-value is statistically valid given the assumptions underlying the data. We address this gap by building P-Bench, a..."
+}

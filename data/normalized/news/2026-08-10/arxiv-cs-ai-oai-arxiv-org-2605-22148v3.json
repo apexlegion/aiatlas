@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2605-22148v3",
+  "name": "Ratchet: How Reliable Must an LLM Judge Be to Retire a Skill?",
+  "summary": "arXiv:2605.22148v3 Announce Type: replace Abstract: A large language model (LLM) agent that writes and edits its own skill library must also decide which skills to keep, from one noisy scalar per s...",
+  "description": "arXiv:2605.22148v3 Announce Type: replace Abstract: A large language model (LLM) agent that writes and edits its own skill library must also decide which skills to keep, from one noisy scalar per skill. The answer is exact: a judge scoring failures as passes at rate $(1-\\tau)/2$ or above retires nothing, at any sample size, for eviction margin $\\tau$. Audits find that machinery is rarely built:...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2605.22148"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-10",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2605.22148"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-10",
+  "expiryAt": "2026-09-09T00:00:00.000Z",
+  "author": "Xing Zhang, Yanwei Cui, Guanghui Wang, Ziyuan Li, Wei Qiu, Bing Zhu, Peiyang He"
+}
