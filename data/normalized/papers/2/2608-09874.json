@@ -1,0 +1,47 @@
+{
+  "type": "paper",
+  "slug": "2608-09874",
+  "name": "ArchAgent v2: A Case Study with the Data Prefetching Championship",
+  "summary": "Agentic artificial intelligence has shown great promise in automating algorithm design, but scaling similar techniques to computer microarchitecture discovery remains challenging due to vast search...",
+  "description": "Agentic artificial intelligence has shown great promise in automating algorithm design, but scaling similar techniques to computer microarchitecture discovery remains challenging due to vast search spaces, strict hardware budgets, and long simulation times. In this work, we present ArchAgent v2, a framework which scales automated microarchitecture search to multi-level data prefetching. While the original ArchAgent successfully discovered single-level cache replacement policies in competition settings, it does not scale to multi-level prefetching where the design space and degrees of freedo...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.09874v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-10",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.09874v1"
+    }
+  ],
+  "authors": [
+    "Abraham Gonzalez",
+    "Raghav Gupta",
+    "Akanksha Jain",
+    "Hanna Alam",
+    "Alexander Novikov",
+    "Po-Sen Huang",
+    "Matej Balog",
+    "Marvin Eisenberger",
+    "Sergey Shirobokov",
+    "Ngân Vũ",
+    "Hank Levy",
+    "Borivoje Nikolić",
+    "Sagar Karandikar",
+    "Martin Dixon",
+    "Parthasarathy Ranganathan"
+  ],
+  "paperId": "2608.09874",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-10",
+  "abstract": "Agentic artificial intelligence has shown great promise in automating algorithm design, but scaling similar techniques to computer microarchitecture discovery remains challenging due to vast search spaces, strict hardware budgets, and long simulation times. In this work, we present ArchAgent v2, a framework which scales automated microarchitecture search to multi-level data prefetching. While the original ArchAgent successfully discovered single-level cache replacement policies in competition settings, it does not scale to multi-level prefetching where the design space and degrees of freedo..."
+}

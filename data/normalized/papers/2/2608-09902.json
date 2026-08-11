@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2608-09902",
+  "name": "DSLE: A Learning Environment for Dark Souls Boss Encounters",
+  "summary": "We introduce the Dark Souls Learning Environment (DSLE), a containerized platform that presents all 22 boss encounters of Dark Souls: Remastered as game-playing agent benchmarks through a Gymnasium...",
+  "description": "We introduce the Dark Souls Learning Environment (DSLE), a containerized platform that presents all 22 boss encounters of Dark Souls: Remastered as game-playing agent benchmarks through a Gymnasium-style interface. DSLE combines real-time combat, high-dimensional visual input, and sparse terminal rewards, with each environment step being a real action executed against the running game. To support controlled comparison, we define DSLE-5, a representative five-boss subset, spanning a melee fight, a spatially constrained arena, an environmental-hazard fight, a multi-target fight, and a fast fi...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.09902v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-10",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.09902v1"
+    }
+  ],
+  "authors": [
+    "Derin Gezgin",
+    "Jim O'Connor",
+    "Tanner Goodwin",
+    "Gary B. Parker"
+  ],
+  "paperId": "2608.09902",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-10",
+  "abstract": "We introduce the Dark Souls Learning Environment (DSLE), a containerized platform that presents all 22 boss encounters of Dark Souls: Remastered as game-playing agent benchmarks through a Gymnasium-style interface. DSLE combines real-time combat, high-dimensional visual input, and sparse terminal rewards, with each environment step being a real action executed against the running game. To support controlled comparison, we define DSLE-5, a representative five-boss subset, spanning a melee fight, a spatially constrained arena, an environmental-hazard fight, a multi-target fight, and a fast fi..."
+}

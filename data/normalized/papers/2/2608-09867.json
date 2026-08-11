@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2608-09867",
+  "name": "Stealing Reasoning Traces from Proprietary LLM APIs",
+  "summary": "Leading large language model providers now conceal their models' step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing the...",
+  "description": "Leading large language model providers now conceal their models' step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these traces server-side, providers return them to the client as blocks of encrypted text, which the client passes back with each subsequent request. Building on prior research, we identify an architectural vulnerability: these encrypted blocks are fully compatible and interchangeable across different sessions, users, and models within a provider's ecosystem. We exploit this compatibility to develop...",
+  "tags": [
+    "arxiv",
+    "cs.CR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.09867v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-10",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CR.",
+      "href": "https://arxiv.org/abs/2608.09867v1"
+    }
+  ],
+  "authors": [
+    "Alexander Panfilov",
+    "David Schmotz",
+    "Ilia Shumailov",
+    "Luca Beurer-Kellner",
+    "Joachim Schaeffer",
+    "Ameya Prabhu",
+    "Jonas Geiping",
+    "Maksym Andriushchenko"
+  ],
+  "paperId": "2608.09867",
+  "category": "cs.CR",
+  "publishedAt": "2026-08-10",
+  "abstract": "Leading large language model providers now conceal their models' step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these traces server-side, providers return them to the client as blocks of encrypted text, which the client passes back with each subsequent request. Building on prior research, we identify an architectural vulnerability: these encrypted blocks are fully compatible and interchangeable across different sessions, users, and models within a provider's ecosystem. We exploit this compatibility to develop..."
+}
