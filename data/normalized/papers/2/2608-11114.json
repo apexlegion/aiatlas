@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2608-11114",
+  "name": "Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting",
+  "summary": "Probabilistic forecasting plays an essential role in risk-sensitive decision-making, particularly in long-horizon settings. However, existing approaches often face a fundamental trade-off between d...",
+  "description": "Probabilistic forecasting plays an essential role in risk-sensitive decision-making, particularly in long-horizon settings. However, existing approaches often face a fundamental trade-off between distributional flexibility and accurate mean prediction. Traditional parametric methods, such as Mean Variance Estimation (MVE), can suffer from degraded point accuracy when trained under joint Negative Log-Likelihood (NLL) objectives, while modern-flexible generative models, including Normalizing Flows and Diffusion Models, typically rely on costly Monte Carlo sampling and may yield suboptimal mea...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.11114v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-11",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2608.11114v1"
+    }
+  ],
+  "authors": [
+    "Kiran Madhusudhanan",
+    "Christian Klötergens",
+    "Lars Schmidt-Thieme",
+    "Vijaya Krishna Yalavarthi"
+  ],
+  "paperId": "2608.11114",
+  "category": "cs.LG",
+  "publishedAt": "2026-08-11",
+  "abstract": "Probabilistic forecasting plays an essential role in risk-sensitive decision-making, particularly in long-horizon settings. However, existing approaches often face a fundamental trade-off between distributional flexibility and accurate mean prediction. Traditional parametric methods, such as Mean Variance Estimation (MVE), can suffer from degraded point accuracy when trained under joint Negative Log-Likelihood (NLL) objectives, while modern-flexible generative models, including Normalizing Flows and Diffusion Models, typically rely on costly Monte Carlo sampling and may yield suboptimal mea..."
+}

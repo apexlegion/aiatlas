@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.08991v3",
+  "fetchedAt": "2026-08-12T04:14:19.740Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.08991v3",
+    "title": "PinpointQA: A Benchmark for Small Object-Centric Spatial Understanding in Indoor Videos",
+    "link": "https://arxiv.org/abs/2604.08991",
+    "description": "arXiv:2604.08991v3 Announce Type: replace-cross Abstract: Reliable embodied interaction in indoor environments requires agents to precisely localize small everyday objects from visual observations. Yet this fundamental capability remains challenging for multimodal large language models (MLLMs), particularly when spatial understanding must be performed from indoor videos. Existing benchmarks study video spatial intelligence and embodied reasoning, but do not directly evaluate whether a model can localize a small target object and express its position with sufficient precision. We introduce PinpointQA, a benchmark built from ScanNet++ and ScanNet200. It contains 1,024 scenes and 10,094 QA pairs across four progressively challenging tasks: Target Presence Verification, Nearest Reference Identification, Fine-Grained Spatial Description, and Structured Spatial Prediction. Ground-truth annotations are constructed from intermediate spatial representations derived from aligned 3D geometry and instance-level annotations, while evaluated models receive only sampled RGB video frames. Evaluations of representative MLLMs reveal a consistent performance decline across the task progression, with structured spatial prediction remaining particularly challenging, while supervised fine-tuning substantially improves performance. By isolating the spatial grounding capabilities that precede downstream embodied interaction, PinpointQA serves as both a diagnostic benchmark and an effective training resource. The project page is available at https://rainchowz.github.io/PinpointQA/.",
+    "publishedAt": "2026-08-12",
+    "author": "Zhiyu Zhou, Peilin Liu, Ruoxuan Zhang, Luyang Zhang, Cheng Zhang, Hongxia Xie, Wen-Huang Cheng",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

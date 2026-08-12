@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2508-03611v3",
+  "name": "Astrolabe: Balancing Load in LLM Serving with Randomized Prediction-Guided Scheduling",
+  "summary": "arXiv:2508.03611v3 Announce Type: replace-cross Abstract: This paper presents Astrolabe, a randomized prediction-guided scheduler for one-shot request dispatch in multi-instance large language mode...",
+  "description": "arXiv:2508.03611v3 Announce Type: replace-cross Abstract: This paper presents Astrolabe, a randomized prediction-guided scheduler for one-shot request dispatch in multi-instance large language model (LLM) serving. Astrolabe improves load balancing without relying on migration-based rebalancing, whose KV-cache transfers can introduce substantial overhead and network contention under high load. I...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2508.03611"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-12",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2508.03611"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-12",
+  "expiryAt": "2026-09-11T00:00:00.000Z",
+  "author": "Wei Da, Evangelia Kalyvianaki"
+}

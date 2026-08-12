@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.10101v1",
+  "fetchedAt": "2026-08-12T04:14:19.740Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.10101v1",
+    "title": "Exploring Semantic Stability Across Reviews in the Linux Kernel",
+    "link": "https://arxiv.org/abs/2608.10101",
+    "description": "arXiv:2608.10101v1 Announce Type: cross Abstract: Code review is credited with substantially changing a patch's code between its first submission and the version that eventually lands. However, prior work typically studied only the final merged patch without comparing it to the first submission. We present a function-level measurement that tracks 10,117 trajectories (each function followed across the numbered revisions of one patch series) through the patch history of the Linux IIO subsystem, comparing similarity scores against unrelated function pairs as a baseline. A naive reading yields near-total similarity, but this is largely an artifact of composition: 75.3% of tracked trajectories are never textually modified between versions, contributing a trivial 100% similarity that inflates the headline. Restricting to the trajectories with a real edit, semantic purpose is still largely preserved (mean similarity 0.990 vs. a 0.909 baseline), but drift appears to concentrate in the first review round mainly because later rounds contain more functions that nobody touched, not because edits become more conservative over time. After controlling for it, a statistically detectable but small residual effect remains. This points to an open question: whether near-ceiling similarity reflects preserved purpose or a measurement tool that cannot detect the significance of small, localized edits. We present this work as a first look and outline next steps.",
+    "publishedAt": "2026-08-12",
+    "author": "Lucas Ciziks, Paulo Meirelles, Marco Aur\\'elio Gerosa",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

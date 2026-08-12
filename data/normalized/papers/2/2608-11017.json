@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2608-11017",
+  "name": "R4DSG: Relative 4D Scene Graph Memory for Object-Centric Question Answering in Long Egocentric Video",
+  "summary": "Long-horizon egocentric video is a rich substrate for wearable AI assistants, but object-centric questions such as where an item was moved, when it last changed state, or why it was relocated remai...",
+  "description": "Long-horizon egocentric video is a rich substrate for wearable AI assistants, but object-centric questions such as where an item was moved, when it last changed state, or why it was relocated remain difficult because caption- and transcript-based memories rarely preserve persistent object identity or structured spatial change. Existing long-video QA methods mainly emphasize temporal grounding and clip retrieval, while prior 3D scene-graph methods typically assume stronger geometry than free-motion wearable RGB video provides, including point clouds, RGB-D input, posed views, sparse reconstr...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.11017v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-11",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2608.11017v1"
+    }
+  ],
+  "authors": [
+    "Ke Ma",
+    "Yamin Mao",
+    "Weiming Li",
+    "Shuai Tan",
+    "Yijie Zhong",
+    "Hao Chen",
+    "Haofen Wang",
+    "Meng Wang"
+  ],
+  "paperId": "2608.11017",
+  "category": "cs.CV",
+  "publishedAt": "2026-08-11",
+  "abstract": "Long-horizon egocentric video is a rich substrate for wearable AI assistants, but object-centric questions such as where an item was moved, when it last changed state, or why it was relocated remain difficult because caption- and transcript-based memories rarely preserve persistent object identity or structured spatial change. Existing long-video QA methods mainly emphasize temporal grounding and clip retrieval, while prior 3D scene-graph methods typically assume stronger geometry than free-motion wearable RGB video provides, including point clouds, RGB-D input, posed views, sparse reconstr..."
+}

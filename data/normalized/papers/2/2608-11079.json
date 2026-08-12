@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2608-11079",
+  "name": "SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure",
+  "summary": "Self-evolving agents accumulate reusable skills by appending successful procedures and failure fixes. Over time, the same requirement is often restated in several branches, examples, and warnings,...",
+  "description": "Self-evolving agents accumulate reusable skills by appending successful procedures and failure fixes. Over time, the same requirement is often restated in several branches, examples, and warnings, while common action sequences are copied rather than reused. The resulting skill becomes expensive to inject and difficult to maintain. Generic prompt compression is ill-suited to this setting because a skill is not a flat passage: its name and description define when it applies, its workflow controls execution, its tool and output contracts constrain validity, and rare exceptions may remain essen...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.11079v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-11",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.11079v1"
+    }
+  ],
+  "authors": [
+    "Xiaofan Bai",
+    "Hongqiang Lin",
+    "Chao Liu",
+    "Yantao Zhang",
+    "Xuan Jin",
+    "Xipeng Cao",
+    "Yuhong Li"
+  ],
+  "paperId": "2608.11079",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-11",
+  "abstract": "Self-evolving agents accumulate reusable skills by appending successful procedures and failure fixes. Over time, the same requirement is often restated in several branches, examples, and warnings, while common action sequences are copied rather than reused. The resulting skill becomes expensive to inject and difficult to maintain. Generic prompt compression is ill-suited to this setting because a skill is not a flat passage: its name and description define when it applies, its workflow controls execution, its tool and output contracts constrain validity, and rare exceptions may remain essen..."
+}

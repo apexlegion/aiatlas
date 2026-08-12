@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-10545v1",
+  "name": "ImpactHO: Importance-Aware KV Cache Transfer for Multi-User Edge LLM Handover",
+  "summary": "arXiv:2608.10545v1 Announce Type: cross Abstract: Edge LLMs must preserve inference continuity when a user hands over between edge nodes, requiring key-value (KV) cache transfer to the target node....",
+  "description": "arXiv:2608.10545v1 Announce Type: cross Abstract: Edge LLMs must preserve inference continuity when a user hands over between edge nodes, requiring key-value (KV) cache transfer to the target node. However, simultaneous handovers saturate the backhaul, preventing full cache delivery within the mobility-imposed transfer window. Rather than allocating bandwidth as if all cache entries were equall...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.10545"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-12",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.10545"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-12",
+  "expiryAt": "2026-09-11T00:00:00.000Z",
+  "author": "Minwoo Kim, Soochang Song, Namyoon Lee, Bang Chul Jung, Yongjune Kim"
+}

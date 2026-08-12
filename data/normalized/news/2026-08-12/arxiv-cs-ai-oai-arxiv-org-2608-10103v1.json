@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-10103v1",
+  "name": "Hand-Written PTX Tensor-Core GEMM Kernels: A Multi-Precision Study on NVIDIA L4",
+  "summary": "arXiv:2608.10103v1 Announce Type: cross Abstract: High-performance Tensor Core kernels rely on a low-level PTX pipeline built from asynchronous data movement with cp.async, warp-level matrix loads...",
+  "description": "arXiv:2608.10103v1 Announce Type: cross Abstract: High-performance Tensor Core kernels rely on a low-level PTX pipeline built from asynchronous data movement with cp.async, warp-level matrix loads with ldmatrix, and matrix multiply-accumulate operations with mma.sync. However, most application code accesses Tensor Cores indirectly through the WMMA C++ API. This paper asks a focused, practical q...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.10103"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-12",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.10103"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-12",
+  "expiryAt": "2026-09-11T00:00:00.000Z",
+  "author": "Matt J. Borowski, Blazej Osinski"
+}

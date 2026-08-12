@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2506.13058v2",
+  "fetchedAt": "2026-08-12T04:14:19.740Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2506.13058v2",
+    "title": "SynBoost: A Synergistic Framework for Fast Sampling of Diffusion Models",
+    "link": "https://arxiv.org/abs/2506.13058",
+    "description": "arXiv:2506.13058v2 Announce Type: replace-cross Abstract: Diffusion probabilistic models (DPMs) have demonstrated remarkable success in visual generation. However, their iterative sampling mechanism results in slow inference speeds. While reducing sampling steps offers an intuitive acceleration strategy, it introduces significant discretization error. Existing fast samplers have made substantial progress in mitigating this error through high-order solvers, yet further optimization appears constrained. This limitation prompts a critical question: can sampling efficiency be advanced beyond current paradigms? In this work, we re-examine the composition of sampling errors and identify two distinct components: the well-studied discretization error and the under-explored approximation error. By implementing a dual-error disentanglement strategy, we elucidate the dynamic interplay between these error types across sampling steps. Building on this empirical analysis, we propose SynBoost, a unified and training-free acceleration framework that simultaneously addresses both error sources to minimize total sampling error. Concretely, it mitigates approximation error by blending the current noise estimation with a more accurate prediction from a larger timestep. SynBoost seamlessly integrates with existing samplers, substantially enhancing their speed and output quality, particularly in regimes with extremely few steps. We validate our framework through extensive experiments across unconditional and conditional generation tasks, encompassing both pixel-space and latent-space DPMs.",
+    "publishedAt": "2026-08-12",
+    "author": "Hu Yu, Hao Luo, Xueyang Fu, Jie Huang, Fan Wang, Feng Zhao",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

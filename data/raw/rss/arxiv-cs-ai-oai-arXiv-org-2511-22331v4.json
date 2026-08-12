@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2511.22331v4",
+  "fetchedAt": "2026-08-12T04:14:19.740Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2511.22331v4",
+    "title": "On the Condition Number Dependency in Bilevel Optimization",
+    "link": "https://arxiv.org/abs/2511.22331",
+    "description": "arXiv:2511.22331v4 Announce Type: replace-cross Abstract: Bilevel optimization minimizes an objective function, defined by an upper-level problem whose feasible region is the solution of a lower-level problem. We study the oracle complexity of finding an $\\epsilon$-stationary point with first-order methods when the upper-level problem is nonconvex, and the lower-level problem is strongly convex. Recent works achieve a $\\tilde{\\mathcal{O}}(\\bar \\kappa_y^{7/2} \\epsilon^{-2})$ upper bound that is near-optimal in $\\epsilon$. In this work, we establish a new $\\Omega(\\kappa_y^{5/2} \\epsilon^{-2})$ lower bound, where $\\kappa_y \\le \\bar \\kappa_y$ is the lower-level condition number. Our lower bound establishes the first provable gap {in terms of condition number dependency} between bilevel problems and minimax problems in this setup, and \\textit{is tight up to logarithmic factors when the lower-level function is quadratic.} Our lower bounds can be extended to various settings. (1) For second-order and arbitrarily smooth problems, we show lower bounds of $\\Omega(\\kappa_y^{9/4} \\epsilon^{-7/4})$ and $\\Omega(\\kappa_y^{13/6} \\epsilon^{-5/3})$, respectively. (2) For convex--strongly-convex problems, we improve the previously best lower bound (Ji and Liang, JMLR 2022) from $\\Omega(\\kappa_y /\\sqrt{\\epsilon})$ to $\\Omega(\\kappa_y^{3/2} / \\sqrt{\\epsilon})$. (3) For stochastic nonconvex--strongly-convex problems, we also show the lower bounds of $\\Omega(\\kappa_y^4 \\epsilon^{-4})$ and $\\Omega(\\kappa_y^{9/2} \\epsilon^{-4})$ for stochastic Hessian-vector-product and stochastic first-order methods, respectively.",
+    "publishedAt": "2026-08-12",
+    "author": "Lesi Chen, Kaiyi Ji, Jingzhao Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

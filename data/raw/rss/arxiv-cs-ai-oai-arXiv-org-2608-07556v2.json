@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.07556v2",
+  "fetchedAt": "2026-08-12T04:14:19.740Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.07556v2",
+    "title": "MasDrift: Benchmarking Authorization Preservation Across Multi-Agent Architectures",
+    "link": "https://arxiv.org/abs/2608.07556",
+    "description": "arXiv:2608.07556v2 Announce Type: replace-cross Abstract: Multi-agent systems (MAS) decompose long-horizon tasks across supervisors and subagents, but delegated goals do not necessarily carry their original authorization boundaries. Existing safety benchmarks mainly study adversarial compromise, while work on constraint drift lacks controlled architecture-level evaluation. We introduce MasDrift, a benchmark of 600 benign productivity tasks across eight domains. Each task pairs required work with reserved actions. MasDrift compares single-agent, centralized, and decentralized coordination while varying hierarchy depth and peer width, measuring task completion and authorization preservation. Across generic multi-agent conditions, centralized hierarchies achieve 93.9--98.6% task completion versus 85.7--87.0% for peer networks, while unauthorized actions occur in 2.7--19.8% of tasks versus 0.6--0.8%, a gap that widens with hierarchy depth. We further compare two defenses that differ in where authorization evidence resides. One re-anchors every pending call to the original user request. The other carries an attenuated policy along the delegation chain. Re-anchoring reduces unauthorized actions in every model configuration we evaluate, at a cost of 1.6 points of pooled completion. Chain propagation blocks required work instead, forfeiting up to 36.3 points. A heterogeneous case study confirms that the failure follows from coordination rather than model strength. MasDrift exposes a centralization tradeoff and makes authorization preservation a measurable property of MAS design.",
+    "publishedAt": "2026-08-12",
+    "author": "Zhuoning Xu, Xiucheng Zhang, Hanjun Luo, Yingbin Jin, Yinpeng Dong, Hanan Salam",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

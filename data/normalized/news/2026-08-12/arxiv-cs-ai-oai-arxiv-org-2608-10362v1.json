@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-10362v1",
+  "name": "MemSpec: Memory-Aware Runtime for Adaptive Draft Scheduling in Speculative Decoding on Edge Devices",
+  "summary": "arXiv:2608.10362v1 Announce Type: cross Abstract: Speculative decoding accelerates autoregressive large language model (LLM) inference by using a lightweight draft model to speculate multiple token...",
+  "description": "arXiv:2608.10362v1 Announce Type: cross Abstract: Speculative decoding accelerates autoregressive large language model (LLM) inference by using a lightweight draft model to speculate multiple tokens, reducing expensive target model decoding steps. Its effectiveness depends heavily on draft selection, motivating adaptive methods that exploit variation across inputs and generation stages. On memo...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.10362"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-12",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.10362"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-12",
+  "expiryAt": "2026-09-11T00:00:00.000Z",
+  "author": "Eunjeong Kim, Yeong Jun Jeon, Myeonggyun Han"
+}

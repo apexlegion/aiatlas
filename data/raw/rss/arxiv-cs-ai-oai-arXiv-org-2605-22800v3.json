@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.22800v3",
+  "fetchedAt": "2026-08-12T04:14:19.740Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.22800v3",
+    "title": "The Matching Principle: When Does a Training Penalty Cover Deployment Shift?",
+    "link": "https://arxiv.org/abs/2605.22800",
+    "description": "arXiv:2605.22800v3 Announce Type: replace-cross Abstract: Ordinary training optimises the task loss and then stops. It never pays for internal representation energy: Jacobians can stay large in directions that never helped the label, so even small label-preserving noise throws the model off---a design gap that classical noise-injection theory fixes at second order, but only when applied as default regularisation, which current practice does not do. We make that precise with a Matching Principle: name deployment directions (Sigma_task) and the training penalty Sigma', and ask whether the second covers the first. The no-thinking default is even-spread / isotropic penalty (Sigma' proportional to I)---classical Gaussian / Tikhonov at second order: no axis estimate, no architecture change, and---in a simple linear ridge model---strictly less deployment drift than task-only training, with no coverage miss by construction. When axes are known, matching is sharper; when they are missed, a residual floor remains. Across seven domains a named second-moment penalty beats unregularised training; a controlled illustration recovers match &gt; even-spread &gt; wrong-axis when axes are forced. The ridge theorems are proved; deep nets remain experiments under a specified perturbation. Design rule: fix internal energy by default (even-spread); match when axes are known; treat losses that control representation sensitivity as first-class design.",
+    "publishedAt": "2026-08-12",
+    "author": "Vishal Rajput",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
