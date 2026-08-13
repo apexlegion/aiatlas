@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-12032v1",
+  "name": "LoSA: Near-Lossless Sparse Attention for Training-Free Video Diffusion Acceleration",
+  "summary": "arXiv:2608.12032v1 Announce Type: cross Abstract: Video diffusion transformers are costly to sample: every denoising step applies self-attention over a long 3D token sequence, a quadratic cost that...",
+  "description": "arXiv:2608.12032v1 Announce Type: cross Abstract: Video diffusion transformers are costly to sample: every denoising step applies self-attention over a long 3D token sequence, a quadratic cost that dominates as resolution and duration grow. Sparse attention reduces this cost without retraining, but existing methods pursue aggressive sparsity, where further speedup costs disproportionately more...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.12032"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-13",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.12032"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-13",
+  "expiryAt": "2026-09-12T00:00:00.000Z",
+  "author": "Enhuai Liu, Yunke Wang, Yutong Wang, Changming Sun, Chang Xu"
+}

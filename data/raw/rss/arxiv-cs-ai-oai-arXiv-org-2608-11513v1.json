@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.11513v1",
+  "fetchedAt": "2026-08-13T04:18:28.041Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.11513v1",
+    "title": "Do Influence Tactics Matter? Investigating Prompt Framing Effects in LLM Code Generation",
+    "link": "https://arxiv.org/abs/2608.11513",
+    "description": "arXiv:2608.11513v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly integrated into software engineering workflows, helping developers write, debug, test, and maintain code. While prompt wording and structure are known to influence model performance, the impact of psychologically inspired prompt framings remains unexplored. This study investigates whether different psychology-based communication strategies that humans use to persuade or motivate others can lead to more effective prompt framing, which may, in turn, affect LLM behaviour in coding tasks. Drawing on Yukl &amp; Falbe's well-known taxonomy, we operationalized eight influence tactics (like rational persuasion, ingratiation, and exchange) into reproducible prompt templates. These prompt templates were evaluated across five leading open-weight LLMs using two widely adopted benchmarks: LiveCodeBench and SWE-bench Verified. We assessed the resulting code output on four key software quality dimensions: functional correctness, quality, maintainability, and security. Our results show that certain influence-induced prompt framings, particularly those emphasizing urgency, were associated with reduced correctness and security. This work presents the first large-scale empirical study of influence-induced prompt framing in software engineering tasks, offering insights into how linguistic cues may shape LLM outputs. We conclude with practical insights for designing transparent and interpretable human-AI interactions in code generation.",
+    "publishedAt": "2026-08-13",
+    "author": "Alex Deaconu, Anubhav Gupta, Manaal Basha, Nicholas Haydu, Gema Rodr\\'iguez-P\\'erez",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-11403v1",
+  "name": "When Self-Consistency Backfires: Majority Vote Hurts the Majority of Hard Science Problems for Small LLMs",
+  "summary": "arXiv:2608.11403v1 Announce Type: new Abstract: Self-consistency (SC) via majority vote is a widely used way to spend inference-time compute: sample N chains of thought, return the plurality answer...",
+  "description": "arXiv:2608.11403v1 Announce Type: new Abstract: Self-consistency (SC) via majority vote is a widely used way to spend inference-time compute: sample N chains of thought, return the plurality answer. On the full GPQA Diamond benchmark (198 graduate-level science questions), majority voting reduces per-problem accuracy on a majority of problems for two instruction-tuned models from different fami...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.11403"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-13",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.11403"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-13",
+  "expiryAt": "2026-09-12T00:00:00.000Z",
+  "author": "Utkarsh Bahuguna"
+}

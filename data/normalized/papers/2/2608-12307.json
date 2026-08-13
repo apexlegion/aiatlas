@@ -1,0 +1,41 @@
+{
+  "type": "paper",
+  "slug": "2608-12307",
+  "name": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
+  "summary": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related traini...",
+  "description": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-time methods. In this paper, we ask whether such transfer can instead occur at test time. We study strong-to-weak scaffolding: whether a stronger builder model can construct inference-time harnesses that help a weaker target model solve tasks more reliably without any parameter updates. Using four representative Theory-of-Mind benchmarks, each builder model uses 5% of the data as a validation s...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.12307v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-12",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2608.12307v1"
+    }
+  ],
+  "authors": [
+    "Cheng Qian",
+    "Wenting Zhao",
+    "Liangwei Yang",
+    "Heng Wang",
+    "Jielin Qiu",
+    "Heng Ji",
+    "Silvio Savarese",
+    "Huan Wang",
+    "Shelby Heinecke"
+  ],
+  "paperId": "2608.12307",
+  "category": "cs.LG",
+  "publishedAt": "2026-08-12",
+  "abstract": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-time methods. In this paper, we ask whether such transfer can instead occur at test time. We study strong-to-weak scaffolding: whether a stronger builder model can construct inference-time harnesses that help a weaker target model solve tasks more reliably without any parameter updates. Using four representative Theory-of-Mind benchmarks, each builder model uses 5% of the data as a validation s..."
+}
