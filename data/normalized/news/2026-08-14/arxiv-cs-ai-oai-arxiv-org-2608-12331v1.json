@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-12331v1",
+  "name": "Thought-Aware KV Cache Compaction for Reasoning via Adaptive Attention Matching",
+  "summary": "arXiv:2608.12331v1 Announce Type: cross Abstract: Reasoning language models generate lengthy chain-of-thought (CoT) sequences whose key-value (KV) cache grows linearly and becomes a memory bottlene...",
+  "description": "arXiv:2608.12331v1 Announce Type: cross Abstract: Reasoning language models generate lengthy chain-of-thought (CoT) sequences whose key-value (KV) cache grows linearly and becomes a memory bottleneck during decoding. Existing compaction methods treat reasoning trajectories as flat token sequences and apply uniform compression, ignoring the hierarchical structure of CoT reasoning where different...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.12331"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-14",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.12331"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-14",
+  "expiryAt": "2026-09-13T00:00:00.000Z",
+  "author": "Yang Liu, Bin Chong, Chongyang Zhang, Hao Zheng, Jiayu Liang, Xu Kefu"
+}

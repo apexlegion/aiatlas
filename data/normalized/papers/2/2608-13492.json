@@ -1,0 +1,50 @@
+{
+  "type": "paper",
+  "slug": "2608-13492",
+  "name": "AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)",
+  "summary": "This report presents an improved version of AlayaWorld. While the backbone architecture, chunk-wise autoregressive generation scheme, and training data remain unchanged from the previous release, w...",
+  "description": "This report presents an improved version of AlayaWorld. While the backbone architecture, chunk-wise autoregressive generation scheme, and training data remain unchanged from the previous release, we substantially revise how conditioning signals are represented and integrated into the model. The new design is guided by a simple principle: conditioning signals should match the generated content as closely as possible in both latent representation and temporal structure. To this end, we make two major changes. First, we replace the previous depth-warping-based spatial memory with a streaming 3...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.13492v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-13",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.13492v1"
+    }
+  ],
+  "authors": [
+    "AlayaWorld Team",
+    "Kaipeng Zhang",
+    "Chuanhao Li",
+    "Yifan Zhan",
+    "Yongtao Ge",
+    "Yuanyang Yin",
+    "Jiaming Tan",
+    "Kang He",
+    "Liaoyuan Fan",
+    "Mingliang Zhai",
+    "Ruicong Liu",
+    "Xiaojie Xu",
+    "Xuangeng Chu",
+    "Zhen Li",
+    "Zhengyuan Lin",
+    "Zhixiang Wang",
+    "Zian Meng",
+    "Zihui Gao"
+  ],
+  "paperId": "2608.13492",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-13",
+  "abstract": "This report presents an improved version of AlayaWorld. While the backbone architecture, chunk-wise autoregressive generation scheme, and training data remain unchanged from the previous release, we substantially revise how conditioning signals are represented and integrated into the model. The new design is guided by a simple principle: conditioning signals should match the generated content as closely as possible in both latent representation and temporal structure. To this end, we make two major changes. First, we replace the previous depth-warping-based spatial memory with a streaming 3..."
+}

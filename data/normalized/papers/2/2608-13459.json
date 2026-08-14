@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2608-13459",
+  "name": "CAPRI: Contract-Aware Proof Repair for Isabelle",
+  "summary": "We address the use of large language models (LLMs) to help discover Isabelle proofs. An Isabelle build establishes that the submitted theory is accepted, but not that an LLM changed only what the d...",
+  "description": "We address the use of large language models (LLMs) to help discover Isabelle proofs. An Isabelle build establishes that the submitted theory is accepted, but not that an LLM changed only what the developer authorised. We present CAPRI, a contract-aware repair workflow in which Isabelle checks the proof and an independent checker enforces a machine-readable edit contract. Prompts, proposals, candidate repositories, diagnostics, verdicts, and hashes are retained for audit. We evaluate five workflows on twelve failed proofs from four developments, with three replicates per task and condition,...",
+  "tags": [
+    "arxiv",
+    "cs.SE"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.13459v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-13",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.SE.",
+      "href": "https://arxiv.org/abs/2608.13459v1"
+    }
+  ],
+  "authors": [
+    "Jim Woodcock",
+    "Gabriel Leite",
+    "Augusto Sampaio",
+    "Ran Wei"
+  ],
+  "paperId": "2608.13459",
+  "category": "cs.SE",
+  "publishedAt": "2026-08-13",
+  "abstract": "We address the use of large language models (LLMs) to help discover Isabelle proofs. An Isabelle build establishes that the submitted theory is accepted, but not that an LLM changed only what the developer authorised. We present CAPRI, a contract-aware repair workflow in which Isabelle checks the proof and an independent checker enforces a machine-readable edit contract. Prompts, proposals, candidate repositories, diagnostics, verdicts, and hashes are retained for audit. We evaluate five workflows on twelve failed proofs from four developments, with three replicates per task and condition,..."
+}

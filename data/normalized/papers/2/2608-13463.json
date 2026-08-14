@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2608-13463",
+  "name": "MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification",
+  "summary": "Modern image classification models excel when trained on single task-specific datasets but often struggle to generalize across domains and difficulty levels. We propose ARMDIL, an Adaptive Router f...",
+  "description": "Modern image classification models excel when trained on single task-specific datasets but often struggle to generalize across domains and difficulty levels. We propose ARMDIL, an Adaptive Router for Multi-Domain Image classification with LLMs. ARMDIL is an ensemble that uses a multimodal large language model (MLLM) agent to dynamically route each image to the most suitable vision backbone. Our diverse ensemble employs convolutional neural networks (ResNets), self-supervised representation learners (SSL), and vision-language models (VLMs), each trained on a unified label space constructed f...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.13463v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-13",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2608.13463v1"
+    }
+  ],
+  "authors": [
+    "Daniel Perkins",
+    "John Squires",
+    "Janou Milligan",
+    "Chandra Raskoti",
+    "Linda Ungerboeck"
+  ],
+  "paperId": "2608.13463",
+  "category": "cs.CV",
+  "publishedAt": "2026-08-13",
+  "abstract": "Modern image classification models excel when trained on single task-specific datasets but often struggle to generalize across domains and difficulty levels. We propose ARMDIL, an Adaptive Router for Multi-Domain Image classification with LLMs. ARMDIL is an ensemble that uses a multimodal large language model (MLLM) agent to dynamically route each image to the most suitable vision backbone. Our diverse ensemble employs convolutional neural networks (ResNets), self-supervised representation learners (SSL), and vision-language models (VLMs), each trained on a unified label space constructed f..."
+}

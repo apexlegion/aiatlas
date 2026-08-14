@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13156v1",
+  "name": "Rethinking Normalization Placement for LLMs: Post-Norm under Curriculum Depth Growing",
+  "summary": "arXiv:2608.13156v1 Announce Type: new Abstract: Pre-norm is the standard normalization placement in modern Transformers because it facilitates joint optimization of full-depth models. We ask whethe...",
+  "description": "arXiv:2608.13156v1 Announce Type: new Abstract: Pre-norm is the standard normalization placement in modern Transformers because it facilitates joint optimization of full-depth models. We ask whether this preference persists when depth is introduced through a curriculum. In curriculum depth growth, each appended block receives the boundary representation produced by a trained prefix, making norm...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.13156"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-14",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.13156"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-14",
+  "expiryAt": "2026-09-13T00:00:00.000Z",
+  "author": "Sheng Ren, Yadong Wang, Naiqiang Tan, Jiangang Kong, Jun Fang, Rui Liu, Jun Wang, Kai Chen, Lipeng Liang, Xiang Chen"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2608-13465",
+  "name": "Concept Drift Detection and Adaptive Retraining of Malware Classification Models",
+  "summary": "Concept drift refers to changes over time in the statistical properties of data, as compared to the data that was used to train a learning model. Machine learning models for malware detection or cl...",
+  "description": "Concept drift refers to changes over time in the statistical properties of data, as compared to the data that was used to train a learning model. Machine learning models for malware detection or classification are particularly susceptible to performance degradation caused by concept drift, as attackers constantly modify existing malware. In this chapter, we analyze two machine learning-based approaches to automated concept drift detection-a novel approach based on One-Class Support Vector Machines (OCSVM) and a previously-studied technique based on Minibatch K-Means (MK-Means). For comparis...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.13465v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-13",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2608.13465v1"
+    }
+  ],
+  "authors": [
+    "Christofer Washington Berruz Chungata",
+    "Martin Jurecek",
+    "Katerina Potika",
+    "William B. Andreopoulos",
+    "Mark Stamp"
+  ],
+  "paperId": "2608.13465",
+  "category": "cs.LG",
+  "publishedAt": "2026-08-13",
+  "abstract": "Concept drift refers to changes over time in the statistical properties of data, as compared to the data that was used to train a learning model. Machine learning models for malware detection or classification are particularly susceptible to performance degradation caused by concept drift, as attackers constantly modify existing malware. In this chapter, we analyze two machine learning-based approaches to automated concept drift detection-a novel approach based on One-Class Support Vector Machines (OCSVM) and a previously-studied technique based on Minibatch K-Means (MK-Means). For comparis..."
+}

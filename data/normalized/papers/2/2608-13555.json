@@ -1,0 +1,46 @@
+{
+  "type": "paper",
+  "slug": "2608-13555",
+  "name": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+  "summary": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose difference...",
+  "description": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences but miss the physical artifacts that matter most, particularly unstable support and incorrect contacts such as foot skating and mistimed touch-downs. Meanwhile, widely used test suites are small and lack the diversity needed to stress contact-rich, long-horizon behaviors. We introduce HumanTracker to make humanoid tracking evaluation both perceptually aligned and scalable. The HumanTracker bench...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.13555v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-13",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2608.13555v1"
+    }
+  ],
+  "authors": [
+    "Dairu Liu",
+    "Zekun Qi",
+    "Jiayu Zeng",
+    "Ruixi Yu",
+    "Yu Guan",
+    "Yintianrun Zhang",
+    "Xuchuan Chen",
+    "Sikai Liang",
+    "Zekai Li",
+    "Chenghuai Lin",
+    "Xinqiang Yu",
+    "Wenyao Zhang",
+    "He Wang",
+    "Li Yi"
+  ],
+  "paperId": "2608.13555",
+  "category": "cs.RO",
+  "publishedAt": "2026-08-13",
+  "abstract": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences but miss the physical artifacts that matter most, particularly unstable support and incorrect contacts such as foot skating and mistimed touch-downs. Meanwhile, widely used test suites are small and lack the diversity needed to stress contact-rich, long-horizon behaviors. We introduce HumanTracker to make humanoid tracking evaluation both perceptually aligned and scalable. The HumanTracker bench..."
+}

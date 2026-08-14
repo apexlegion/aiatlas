@@ -1,0 +1,43 @@
+{
+  "type": "paper",
+  "slug": "2608-13522",
+  "name": "Vero: Can AI Agents Build Formally Verified Software Repositories?",
+  "summary": "AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation a...",
+  "description": "AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation and a machine-checked proof of its specification, offers a stronger path toward trustworthy AI-generated software. Existing benchmarks in this direction either focus on individual functions or only evaluate proof generation with provided implementations. It is still an open question whether agents can make coherent implementation and proof choices across real multi-module codebases. To bridge this...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.13522v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-13",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2608.13522v1"
+    }
+  ],
+  "authors": [
+    "Zhe Ye",
+    "Hantao Lou",
+    "Yuechun Sun",
+    "Peiyang Song",
+    "Zhengxu Yan",
+    "Timothe Kasriel",
+    "Qingyang Zhang",
+    "Kaiyu Yang",
+    "Soonho Kong",
+    "Jingxuan He",
+    "Dawn Song"
+  ],
+  "paperId": "2608.13522",
+  "category": "cs.LG",
+  "publishedAt": "2026-08-13",
+  "abstract": "AI agents are increasingly used for programming, but do not provide any guarantee on the correctness of generated code. Verified code generation, in which an agent produces both an implementation and a machine-checked proof of its specification, offers a stronger path toward trustworthy AI-generated software. Existing benchmarks in this direction either focus on individual functions or only evaluate proof generation with provided implementations. It is still an open question whether agents can make coherent implementation and proof choices across real multi-module codebases. To bridge this..."
+}

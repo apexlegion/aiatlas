@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.25821v3",
+  "fetchedAt": "2026-08-14T04:14:58.522Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.25821v3",
+    "title": "Doctorina MedBench: A Dialogue-Based Benchmark and Evaluation Framework for Agent-Based Medical AI",
+    "link": "https://arxiv.org/abs/2603.25821",
+    "description": "arXiv:2603.25821v3 Announce Type: replace-cross Abstract: We present Doctorina MedBench, an evaluation framework for agent-based medical AI based on the simulation of physician-patient interactions. Unlike traditional medical benchmarks that rely on solving standardized test questions, the proposed approach models a multi-step clinical dialogue in which an AI system must collect medical history, analyze available synthetic attachments when present, formulate differential diagnoses, and provide diagnostic and management recommendations. System performance is evaluated across separate task-level domains, including diagnosis, differential diagnosis, treatment, safety-critical condition handling, and dialogue-step behavior; the broader D.O.T.S. framework is used as a supplementary summary for diagnosis, observations/investigations, treatment, and step count. The framework also supports testing and quality-monitoring workflows intended to identify changes in model behavior during development. It supports safety-oriented cases, category-based sampling of synthetic clinical scenarios, and regression-style comparisons across system versions. In the reported study, the analyzed paired complete-case cohort consisted of 254 physician-authored synthetic clinical cases retained from 261 attempted case identifiers. The evaluation metrics are intended for comparative research on interactive medical AI systems and for studying clinical reasoning workflows in synthetic dialogue settings. Our results suggest that simulated clinical dialogue can provide a complementary assessment setting to traditional examination-style benchmarks, while the reported findings do not establish independent clinical validity, clinical effectiveness, or readiness for real-world deployment.",
+    "publishedAt": "2026-08-14",
+    "author": "Anna Kozlova, Stanislau Salavei, Pavel Satalkin, Hanna Plotnitskaya, Sergey Parfenyuk, Andy Nkansah",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

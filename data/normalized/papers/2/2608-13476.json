@@ -1,0 +1,41 @@
+{
+  "type": "paper",
+  "slug": "2608-13476",
+  "name": "MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination",
+  "summary": "We present Multi-Agent Reasoning and Coordination (MARC), an open-source framework that replaces monolithic LLM prompting with deterministic multi-agent orchestration for clinical reasoning. MARC c...",
+  "description": "We present Multi-Agent Reasoning and Coordination (MARC), an open-source framework that replaces monolithic LLM prompting with deterministic multi-agent orchestration for clinical reasoning. MARC coordinates role-specialized agents for extraction, reasoning, answer generation, and evaluation, with explicit context passing and traceable intermediate outputs, enabling stage-wise failure attribution. We additionally introduce a Decomposer module that generates task-specific agent prompts from a plain-language description, eliminating manual prompt engineering. The framework supports both API-b...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.13476v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-13",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.13476v1"
+    }
+  ],
+  "authors": [
+    "Saisha Shetty",
+    "Satvik Tripathi",
+    "Austin Lin",
+    "Colin Zhao",
+    "Theodore Kim",
+    "Don Enwerem",
+    "Jacinta Arnold",
+    "Shahriar Faghani",
+    "Tessa S Cook"
+  ],
+  "paperId": "2608.13476",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-13",
+  "abstract": "We present Multi-Agent Reasoning and Coordination (MARC), an open-source framework that replaces monolithic LLM prompting with deterministic multi-agent orchestration for clinical reasoning. MARC coordinates role-specialized agents for extraction, reasoning, answer generation, and evaluation, with explicit context passing and traceable intermediate outputs, enabling stage-wise failure attribution. We additionally introduce a Decomposer module that generates task-specific agent prompts from a plain-language description, eliminating manual prompt engineering. The framework supports both API-b..."
+}

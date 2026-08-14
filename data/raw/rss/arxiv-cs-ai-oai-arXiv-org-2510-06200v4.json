@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2510.06200v4",
+  "fetchedAt": "2026-08-14T04:14:58.522Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2510.06200v4",
+    "title": "StarEmbed: Benchmarking Time Series Foundation Models on Astronomical Observations of Variable Stars",
+    "link": "https://arxiv.org/abs/2510.06200",
+    "description": "arXiv:2510.06200v4 Announce Type: replace-cross Abstract: Current time series foundation model (TSFM) training corpora largely omit data with certain complexities like irregular temporal sampling. Astronomical time series of stellar fluxes (light curves) are available in immense quantities and exhibit irregular sampling, multiple variates, and heteroskedasticity. We introduce StarEmbed, the first public benchmark for light curves comprised of real observations of ~40,000 stars expert-labeled across seven classes and evaluations in clustering, classification, and out-of-distribution (OOD) source detection. We benchmark TSFMs with differing architecture and training strategies as well as domain-specific transformers. Our results demonstrate that the Chronos family, despite being pre-trained on regularly sampled non-astronomical data, yields state-of-the-art (SOTA) performance in light curve clustering and OOD detection. While no TSFM strictly surpasses the classification performance of the long-established domain baseline, they do demonstrate excellent generalization abilities. StarEmbed marks a step toward universal light curve embeddings and improved TSFM performance on challenging data.",
+    "publishedAt": "2026-08-14",
+    "author": "Weijian Li, Hong-Yu Chen, Nabeel Rehemtulla, Ved G. Shah, Dongho Kim, Dennis Wu, Qinjie Lin, Adam A. Miller, Han Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
