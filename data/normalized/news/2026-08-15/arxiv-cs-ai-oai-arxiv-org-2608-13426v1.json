@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13426v1",
+  "name": "Reduced Matrix Multiplication: Input-Adaptive Matrix-Product Reduction for LLM Inference",
+  "summary": "arXiv:2608.13426v1 Announce Type: cross Abstract: Transformer-based language models achieve strong performance but incur substantial inference cost due to repeated high-dimensional matrix multiplic...",
+  "description": "arXiv:2608.13426v1 Announce Type: cross Abstract: Transformer-based language models achieve strong performance but incur substantial inference cost due to repeated high-dimensional matrix multiplications. We propose Reduced Matrix Multiplication (RMM), a training-free, input-adaptive inference method that reduces Transformer matrix products by selecting informative slices along their contractio...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.13426"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.13426"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-15",
+  "expiryAt": "2026-09-14T00:00:00.000Z",
+  "author": "Zixuan Lan, Yanhong Li, Jiawei Zhou"
+}

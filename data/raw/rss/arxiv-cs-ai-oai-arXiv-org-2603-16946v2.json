@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.16946v2",
-  "fetchedAt": "2026-08-15T02:58:18.529Z",
+  "fetchedAt": "2026-08-16T03:07:28.962Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2603.16946v2",
     "title": "Automatic Termination Strategy of Inelastic Neutron-scattering Measurement Using Bayesian Optimization for Bin-width Selection",
     "link": "https://arxiv.org/abs/2603.16946",
     "description": "arXiv:2603.16946v2 Announce Type: replace-cross Abstract: Currently, an excessive amount of event data is being obtained in four-dimensional inelastic neutron-scattering experiments. A method for automatic bin-width optimization of multidimensional histograms has been developed and recently validated on real inelastic neutron-scattering data. However, measuring beyond the equipment resolution leads to inefficient use of valuable beam time. To improve experimental efficiency, an automatic termination strategy is essential. We propose a Bayesian-optimization-based method to compute a stopping criterion that can support online decisions on whether to continue or terminate an experiment. In the proposed method, the bin-width optimization is performed using Bayesian optimization to efficiently compute the optimal bin widths. The experiment is terminated when the optimal bin widths become smaller than the target resolutions. In numerical experiments using real inelastic neutron-scattering data, the optimal bin widths decrease as the number of events increases. Even the optimal bin widths for data downsampled to 1/5 are comparable with the resolutions limited by the sample size, choppers, and so on. This implies excessive measurement of the inelastic neutron experiments for the moment. Moreover, we found that Bayesian optimization can reduce the search cost to approximately 10% of an exhaustive search in our numerical experiments.",
-    "publishedAt": "2026-08-14",
+    "publishedAt": "2026-08-15",
     "author": "Kensuke Muto, Hirotaka Sakamoto, Kenji Nagata, Taka-hisa Arima, Masato Okada",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

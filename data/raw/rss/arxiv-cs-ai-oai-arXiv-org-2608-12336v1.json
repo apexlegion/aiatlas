@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.12336v1",
-  "fetchedAt": "2026-08-15T02:58:18.529Z",
+  "fetchedAt": "2026-08-16T03:07:28.962Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2608.12336v1",
     "title": "StorySpark: Module-wise Evolutionary Search for Story Premise Generation",
     "link": "https://arxiv.org/abs/2608.12336",
     "description": "arXiv:2608.12336v1 Announce Type: cross Abstract: A story premise is the creative spark from which a full narrative can grow. Yet LLM-based story generation has mostly emphasized later-stage planning, controllability, coherence, and prose expansion, while premise-level ideation remains comparatively underexplored. We introduce StorySpark, a module-wise evolutionary search framework for story premise generation. StorySpark operates over interpretable narrative modules such as background, persona, event, ending, and twist, treating each active module not as a static field to fill once, but as a local search space conditioned on the partial premise built so far. For each module, it generates alternatives, evaluates them in context, refines them through feedback-driven mutation and recombination, preserves complementary strengths with Pareto-guided selection, and reallocates frontier capacity to balance branch coverage with promising directions. Multi-view automatic and human evaluations show that StorySpark produces stronger final premises than competitive baselines, with especially consistent gains in originality; when expanded with the same story writer, its premises also lead to higher-quality downstream stories while maintaining completeness, fascination, and diverse usable narrative directions.",
-    "publishedAt": "2026-08-14",
+    "publishedAt": "2026-08-15",
     "author": "Yang Yang, Zining Zhong, Qian Cao, Jindong Li, Boyun Xu, Kaishen Yuan, Menglin Yang, Yutao Yue",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

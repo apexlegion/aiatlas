@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.26902v2",
-  "fetchedAt": "2026-08-15T02:58:18.529Z",
+  "fetchedAt": "2026-08-16T03:07:28.962Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2606.26902v2",
     "title": "Learning to Recover Task Experts from a Multi-Task Merged Model",
     "link": "https://arxiv.org/abs/2606.26902",
     "description": "arXiv:2606.26902v2 Announce Type: replace Abstract: Multi-task model merging aims to consolidate several task-specific experts into a unified model, yet static merging consistently suffers from parameter interference. While dynamic merging models aim to bridge this gap, many works rely on the costly storage and loading of redundant expert components at inference. In this work, from the perspective of task expert, we view parameter interference as parameter perturbation introduced to each expert during merging process. We show that such parameter perturbations can be modeled as affine transformation, which can be approximated as additive offsets. Motivated by these, we propose Recover Task eXpert (ReTeX), a framework that predicts those offsets, in order to undo parameter interference and recover task-expert performance from a single merged checkpoint. To recover the appropriate expert when task identity is unknown, we introduce a router-free task identifier based on SVD subspace signatures computed offline before inference. At inference, the identifier selects the task whose subspace yields the smallest projection residual for a given input. As a result, ReTeX recovers over 95% of individual-expert performance in both vision and NLP domains, while significantly improving generalization to unseen tasks. Crucially, we also show that the parameter offset prediction leads to emergent adaptive interpolation of expert knowledge for out-of-distribution (OOD) tasks. ReTeX adaptively interpolates seen expert knowledge to handle unseen tasks. Our code is available at https://github.com/BAIKLAB/ReTeX",
-    "publishedAt": "2026-08-14",
+    "publishedAt": "2026-08-15",
     "author": "Jinwook Jung, Taegyu Kim, Kumju Jo, Sungyong Baik",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

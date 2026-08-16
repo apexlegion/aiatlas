@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.09670v3",
-  "fetchedAt": "2026-08-15T02:58:18.529Z",
+  "fetchedAt": "2026-08-16T03:07:28.962Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2604.09670v3",
     "title": "In-context superposition: human-like working memory interference in large language models",
     "link": "https://arxiv.org/abs/2604.09670",
     "description": "arXiv:2604.09670v3 Announce Type: replace-cross Abstract: Intelligent systems must maintain and manipulate task-relevant information online to adapt to dynamic environments. This capacity, known as working memory, is fundamental to human reasoning. Yet, human working memory is strikingly limited, maintaining only three to four items in a brain with billions of neurons. Surprisingly, large language models (LLMs), despite different substrates and direct access to prior context through attention, exhibit similar working memory limitations. Why should such different systems face analogous constraints? We propose that working memory limitations reflect a general trade-off of shared representations: representational compression and reuse support efficient learning and generalization, but also cause simultaneously active representations to interfere. We show a two-layer transformer trained on a working memory task can solve it perfectly, but diverse trained LLMs exhibit human-like limitations: performance declines with memory load, while retrieval is biased by recency and stimulus statistics. Mirroring humans, working memory performance in LLMs is also associated with broader model capability. Mechanistically, we show that LLMs encode multiple memories in entangled representations --- a condition we call \\emph{in-context superposition} --- and progressively suppress competing content while aligning the target with the readout. Moreover, a causal intervention that suppresses interfering information improves performance. Together, these findings suggest that working memory capacity reflects the ability to select task-relevant information under interference, a computational challenge shared by biological and artificial systems.",
-    "publishedAt": "2026-08-14",
+    "publishedAt": "2026-08-15",
     "author": "Hua-Dong Xiong, Li Ji-An, Jiaqi Huang, Robert C. Wilson, Kwonjoon Lee, Xue-Xin Wei",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

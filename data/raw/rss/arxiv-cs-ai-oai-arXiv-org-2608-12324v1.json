@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.12324v1",
-  "fetchedAt": "2026-08-15T02:58:18.529Z",
+  "fetchedAt": "2026-08-16T03:07:28.962Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2608.12324v1",
     "title": "When AI Is Your Pastor: A Benchmark for Theological Triage and Pastoral Guidance in Large Language Models",
     "link": "https://arxiv.org/abs/2608.12324",
     "description": "arXiv:2608.12324v1 Announce Type: cross Abstract: People increasingly ask large language models (LLMs) for counsel on questions of faith, doctrine, and pastoral care. These questions are not ordinary information requests. Some ask about core Christian beliefs, some ask about real disagreements among faithful traditions, some require humility because the issue is prudential, and some are pastoral situations where safety and human referral matter more than theological completeness. Existing benchmarks do not evaluate this structure. We introduce FMG-Bench, the Faith &amp; Moral Guidance Benchmark, a 120-scenario benchmark for evaluating large language model behavior in English-language Christian theological triage and pastoral guidance contexts. FMG-Bench v1 evaluates 14 advanced models across 8,792 scored responses, comparing raw model behavior with three guided instruction settings. In our production run, placing models inside a structured harness improves over raw model behavior by +3.96 points on average, with every model improving. The most safety-critical finding is a +10.8 point gain in escalation appropriateness -- whether AI systems recognize when pastoral, clinical, legal, or emergency support is needed. The guided settings also improve robustness, meaning consistency when questions are reworded or pressured (92.88 to 98.02 stability). Asking a model to compare perspectives helps in secondary-doctrine questions but can be counterproductive when applied to primary doctrine or urgent pastoral situations. The benchmark is a measurement tool, not an endorsement of AI systems as pastoral authorities.",
-    "publishedAt": "2026-08-14",
+    "publishedAt": "2026-08-15",
     "author": "Alex Chao",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

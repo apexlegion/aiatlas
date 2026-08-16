@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.12323v1",
-  "fetchedAt": "2026-08-15T02:58:18.529Z",
+  "fetchedAt": "2026-08-16T03:07:28.962Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2608.12323v1",
     "title": "Why Do AI Agents Break Rules? How Framing, Context, and Social Signals Shape Compliance",
     "link": "https://arxiv.org/abs/2608.12323",
     "description": "arXiv:2608.12323v1 Announce Type: cross Abstract: Specifying a penalty can paradoxically convert a legal obligation into a cost-benefit calculation that favors violation. We demonstrate that this enforcement information paradox systematically occurs in AI agents. While most AI safety evaluations test whether models fail, we investigate why, applying compliance theory from law and economics as a diagnostic tool. We treat compliance theories not as metaphors but as empirical hypotheses and show that each predicts the behavior of a distinct model class. We evaluate our hypotheses across twelve instruction-tuned language models operating as enterprise procurement chatbots. Drawing on theories of deterrence, legitimacy, and expressive law, we show that safety-fine-tuned models maintain compliance broadly, while task-optimized and agentic models treat regulatory signals as mere optimization parameters. These latter models fail to comply under conditions predicted by theory, such as low enforcement penalties and non-command phrasing. Across all models, introducing financial incentives, managerial demands, peer outcomes, or employee pressure produces large compliance failures. AI procurement agents systematically violate regulatory constraints to satisfy local user objectives in ways not captured by standard alignment benchmarks. Ultimately, compliance cannot be achieved by rule embedding alone; model selection is itself a governance decision, and benchmark-based evaluation is insufficient for compliance-sensitive deployments.",
-    "publishedAt": "2026-08-14",
+    "publishedAt": "2026-08-15",
     "author": "Mika Okamoto, Ansel Kaplan Erol, Kutluhan Erol",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

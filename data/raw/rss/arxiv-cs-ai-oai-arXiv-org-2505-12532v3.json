@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2505.12532v3",
-  "fetchedAt": "2026-08-15T02:58:18.529Z",
+  "fetchedAt": "2026-08-16T03:07:28.962Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2505.12532v3",
     "title": "Exploring Sparsity for Parameter Efficient Fine Tuning Using Wavelets for Vision",
     "link": "https://arxiv.org/abs/2505.12532",
     "description": "arXiv:2505.12532v3 Announce Type: replace-cross Abstract: Efficiently adapting large pretrained models is critical under tight compute and memory budgets. While Parameter-Efficient Fine-Tuning (PEFT) methods like LoRA achieve efficiency through low-rank updates, their discrete rank constraint limits fine-grained parameter control and confines adaptations to low-dimensional subspaces. We propose Wavelet Fine-Tuning (WaveFT), which learns sparse updates in the wavelet domain of weight matrices, enabling fine-grained control over trainable parameters well below LoRA's minimum rank. Wavelet bases provide semi-local receptive fields that aggregate spatially coherent gradients, offering better coverage than direct weight sparsity (SHiRA) without the destructive interference of global Fourier bases (FourierFT). We provide theoretical analysis showing: (i) sparse methods achieve high-rank updates, avoiding LoRA's subspace bottleneck and enabling higher representational capacity, and (ii) a gradient coverage framework explaining when WaveFT is preferable. We perform experiments across text-to-image generation, image classification, and language understanding. WaveFT demonstrates state-of-the-art results among PEFT methods for vision tasks, where wavelets effectively capture sparse gradient structure through improved coverage, while performing comparably on NLP tasks. WaveFT has officially been included in the Hugging Face PEFT library (huggingface.co/docs/peft/en/package_reference/waveft).",
-    "publishedAt": "2026-08-14",
+    "publishedAt": "2026-08-15",
     "author": "Ahmet Bilican, M. Ak{\\i}n Y{\\i}lmaz, A. Murat Tekalp, R. G\\\"okberk Cinbi\\c{s}",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

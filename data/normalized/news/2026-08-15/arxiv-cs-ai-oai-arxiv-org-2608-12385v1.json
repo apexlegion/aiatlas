@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-12385v1",
+  "name": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+  "summary": "arXiv:2608.12385v1 Announce Type: new Abstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The tw...",
+  "description": "arXiv:2608.12385v1 Announce Type: new Abstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two inference phases stress hardware differently: prompt prefill is parallel and typically compute-bound, whereas autoregressive decode is sequential and often memory-bandwidth-bound. Conventional width...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.12385"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.12385"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-15",
+  "expiryAt": "2026-09-14T00:00:00.000Z",
+  "author": "Liming Liu, Mingze Wang, Tuo Zhao"
+}

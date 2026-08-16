@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2505.15274v4",
-  "fetchedAt": "2026-08-15T02:58:18.529Z",
+  "fetchedAt": "2026-08-16T03:07:28.962Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2505.15274v4",
     "title": "Identification of Probabilities of Causation: from Recursive to Closed-Form Bounds",
     "link": "https://arxiv.org/abs/2505.15274",
     "description": "arXiv:2505.15274v4 Announce Type: replace Abstract: Probabilities of causation (PoCs) are fundamental quantities for counterfactual analysis and personalized decision making. However, existing analytical results are largely confined to binary settings. This paper extends PoCs to multi-valued treatments and outcomes by deriving closed form bounds for a representative family of discrete PoCs within Structural Causal Models, using standard experimental and observational distributions. We introduce the notion of equivalence classes of PoCs, which reduces arbitrary discrete PoCs to this family, and establish a replaceability principle that transfers bounds across value permutations. For the resulting bounds, we prove soundness in all dimensions and empirically verify tightness in low dimensional cases via Balke's linear programming method; we further conjecture that this tightness extends to all dimensions. Simulations indicate that our closed form bounds consistently tighten recent recursive bounds while remaining simpler to compute. Finally, we illustrate the practical relevance of our results through toy examples.",
-    "publishedAt": "2026-08-14",
+    "publishedAt": "2026-08-15",
     "author": "Xin Shu, Shuai Wang, Ang Li",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

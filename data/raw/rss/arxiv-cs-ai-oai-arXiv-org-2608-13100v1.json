@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.13100v1",
-  "fetchedAt": "2026-08-15T02:58:18.529Z",
+  "fetchedAt": "2026-08-16T03:07:28.962Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2608.13100v1",
     "title": "Multi-Layer Context Camouflaging: A Semantic Superposition and Contextual Lamination Framework for Malpractice-Resilient Online Assessment",
     "link": "https://arxiv.org/abs/2608.13100",
     "description": "arXiv:2608.13100v1 Announce Type: new Abstract: Contemporary online assessment systems rely primarily on browser lockdown, webcam monitoring, and behavioural analytics, yet remain vulnerable to attacks that extract the assessment content itself through screenshots, screen sharing, optical character recognition, and automated scraping. This paper extends the Multi-dimensional Spatio-Temporal Context Camouflaging Model (MSCCM) within the MARS (Multi-modal Assessment Resilience Suite) by introducing the Multi-Layer Context Camouflaging Theory (MCCT), a mathematical framework that protects rendered assessment content through semantic superposition. Authentic assessment content and synthetically generated camouflage are represented as a unified rendering while remaining recoverable only by legitimate candidates. The framework models the adversarial extraction process through an explicit extraction-channel operator and develops six coupled constructs: the Context Inversion Operator, Contextual Lamination Operator, Separation Channel, Human Readability Functional, Computational Ambiguity Functional, and Context Camouflage Tensor. Computational ambiguity is formulated using conditional entropy, yielding a closed-form expression that quantifies uncertainty during unauthorized extraction, while legitimate recovery is guaranteed through an exact filtering identity. We further establish theoretical properties governing ambiguity, camouflage density, semantic preservation, multi-observation leakage, and temporal multiplexing, and present a rendering algorithm with computational complexity and a pre-registered evaluation protocol. MCCT provides a mathematically rigorous foundation for behaviorally adaptive, accessibility-aware, and computationally resilient digital assessment by securing rendered assessment content while preserving readability for legitimate users.",
-    "publishedAt": "2026-08-14",
+    "publishedAt": "2026-08-15",
     "author": "Gupta Lovi Raj, Kaur Kamalpreet, Dama Sri Ram, Parani Prajithaa",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"
