@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2608-14530",
+  "name": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
+  "summary": "Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose, geometry, and occlusion to be implicitly maint...",
+  "description": "Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose, geometry, and occlusion to be implicitly maintained by the same generative sequence. Over long horizons, errors in these latent world properties accumulate, making consistency and controllability fragile. We explicitly model the evolving world state, delegate exact geometric computation to a fixed, zero-parameter renderer, and leave the neural model to synthesize appearance. We instantiate this idea as Marionette, a world model for interactiv...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.14530v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-14",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2608.14530v1"
+    }
+  ],
+  "authors": [
+    "Zian Meng",
+    "Zhen Li",
+    "Chuanhao Li",
+    "Qiang Li",
+    "Kaipeng Zhang"
+  ],
+  "paperId": "2608.14530",
+  "category": "cs.CV",
+  "publishedAt": "2026-08-14",
+  "abstract": "Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose, geometry, and occlusion to be implicitly maintained by the same generative sequence. Over long horizons, errors in these latent world properties accumulate, making consistency and controllability fragile. We explicitly model the evolving world state, delegate exact geometric computation to a fixed, zero-parameter renderer, and leave the neural model to synthesize appearance. We instantiate this idea as Marionette, a world model for interactiv..."
+}

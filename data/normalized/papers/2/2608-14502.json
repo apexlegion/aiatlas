@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2608-14502",
+  "name": "Universal Thermodynamic Interatomic Potentials for Crystalline Materials",
+  "summary": "Free energies govern solid-state phase stability, yet computational materials discovery still relies largely on ground-state energies because free energy calculations require ensemble averages. We...",
+  "description": "Free energies govern solid-state phase stability, yet computational materials discovery still relies largely on ground-state energies because free energy calculations require ensemble averages. We introduce the thermodynamic interatomic potential (TIP), which extends an interatomic potential from its static energy to a thermodynamically consistent Gibbs free energy model, with thermodynamic responses following from temperature and pressure by automatic differentiation. We implement TIP[UMA] using the universal potential UMA, train it on free energies from quasi-harmonic to molecular dynamic...",
+  "tags": [
+    "arxiv",
+    "cond-mat.mtrl-sci"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.14502v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-14",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cond-mat.mtrl-sci.",
+      "href": "https://arxiv.org/abs/2608.14502v1"
+    }
+  ],
+  "authors": [
+    "Juno Nam",
+    "Bowen Deng",
+    "Xiaochen Du",
+    "Luis Barroso-Luque",
+    "Benjamin Kurt Miller",
+    "Rafael Gómez-Bombarelli"
+  ],
+  "paperId": "2608.14502",
+  "category": "cond-mat.mtrl-sci",
+  "publishedAt": "2026-08-14",
+  "abstract": "Free energies govern solid-state phase stability, yet computational materials discovery still relies largely on ground-state energies because free energy calculations require ensemble averages. We introduce the thermodynamic interatomic potential (TIP), which extends an interatomic potential from its static energy to a thermodynamically consistent Gibbs free energy model, with thermodynamic responses following from temperature and pressure by automatic differentiation. We implement TIP[UMA] using the universal potential UMA, train it on free energies from quasi-harmonic to molecular dynamic..."
+}

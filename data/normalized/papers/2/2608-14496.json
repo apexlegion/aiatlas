@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2608-14496",
+  "name": "Generating Benchmark Health Data Using a Tabular Diffusion Transformer",
+  "summary": "Cross-Tabular Data Generation (CTDG) seeks to learn a generative model from multiple heterogeneous tables and produce new synthetic tabular datasets. However, existing synthetic tabular data genera...",
+  "description": "Cross-Tabular Data Generation (CTDG) seeks to learn a generative model from multiple heterogeneous tables and produce new synthetic tabular datasets. However, existing synthetic tabular data generation methods are largely restricted to single-input-table scenarios and struggle to effectively handle multiple heterogeneous tables with diverse feature sets. To address this limitation, we propose a two-stage framework for cross-tabular data generation. In the first stage, each heterogeneous raw table is transformed into a standardized statistical table with the same set of columns across all ta...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.14496v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-14",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2608.14496v1"
+    }
+  ],
+  "authors": [
+    "Hao Yan",
+    "Lisa Pilgram",
+    "Dan Liu",
+    "Linglong Kong",
+    "Fida Dankar",
+    "Khaled El Emam"
+  ],
+  "paperId": "2608.14496",
+  "category": "cs.LG",
+  "publishedAt": "2026-08-14",
+  "abstract": "Cross-Tabular Data Generation (CTDG) seeks to learn a generative model from multiple heterogeneous tables and produce new synthetic tabular datasets. However, existing synthetic tabular data generation methods are largely restricted to single-input-table scenarios and struggle to effectively handle multiple heterogeneous tables with diverse feature sets. To address this limitation, we propose a two-stage framework for cross-tabular data generation. In the first stage, each heterogeneous raw table is transformed into a standardized statistical table with the same set of columns across all ta..."
+}
