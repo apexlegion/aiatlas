@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T03:07:13.516Z",
+  "generatedAt": "2026-08-18T03:02:37.134Z",
   "entries": {
     "automatic1111-stable-diffusion-webui": {
       "slug": "automatic1111-stable-diffusion-webui",
@@ -177,224 +177,3238 @@
         "jupyter notebook"
       ]
     },
-    "2608-14425": {
-      "slug": "2608-14425",
-      "typedId": "paper/2608-14425",
-      "name": "Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations",
+    "2608-16791": {
+      "slug": "2608-16791",
+      "typedId": "paper/2608-16791",
+      "name": "Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching",
       "type": "paper",
-      "summary": "LLM evaluations often use fixed sampling budgets, testing every item the same number of times even after estimates are precise. We introduce optstop, a precision-based adaptive stopping framework t...",
+      "summary": "Model Inversion Attacks (MIAs) aim to reconstruct representative training samples of target identities from face recognition models, exposing critical security vulnerabilities. Existing methods typ...",
       "tags": [
         "arxiv",
-        "cs.AI"
+        "cs.CV"
       ]
     },
-    "2608-14426": {
-      "slug": "2608-14426",
-      "typedId": "paper/2608-14426",
-      "name": "The Dynamics of Intelligence Explosions",
+    "2608-16794": {
+      "slug": "2608-16794",
+      "typedId": "paper/2608-16794",
+      "name": "Neurosymbolic Embodied Agents",
       "type": "paper",
-      "summary": "AI is increasingly being used to help with AI R&amp;D. Under certain conditions this feedback loop might be able to produce an intelligence explosion, with rapidly escalating AI capabilities. I exp...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2608-14441": {
-      "slug": "2608-14441",
-      "typedId": "paper/2608-14441",
-      "name": "PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments",
-      "type": "paper",
-      "summary": "Self-evolving agents improve future behavior from interaction experience, yet existing evaluations typically optimize under fixed execution conditions and do not test recovery after those condition...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2608-14443": {
-      "slug": "2608-14443",
-      "typedId": "paper/2608-14443",
-      "name": "Designing Compact Neural Architectures via Neuron Gating and Mixed Activation",
-      "type": "paper",
-      "summary": "Neural Architecture Search (NAS) is naturally formulated as a bilevel optimization problem, where the upper-level optimizes the architecture using validation performance and the lower-level trains...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2608-14446": {
-      "slug": "2608-14446",
-      "typedId": "paper/2608-14446",
-      "name": "Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports",
-      "type": "paper",
-      "summary": "In the current artificial intelligence-driven innovation era, the pace of knowledge growth is accelerating, and is hard to keep up with. While generative models are increasingly used to synthesize...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2608-14452": {
-      "slug": "2608-14452",
-      "typedId": "paper/2608-14452",
-      "name": "SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning",
-      "type": "paper",
-      "summary": "Spreadsheets are widely used to organize, analyze, and manipulate semi-structured data, yet automated spreadsheet reasoning remains challenging for large language models (LLMs). Real-world workbook...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2608-14456": {
-      "slug": "2608-14456",
-      "typedId": "paper/2608-14456",
-      "name": "Shift Aware Transfer Learning with Adaptive Dual-Encoder Fusion for PM Forecasting in Data-Limited Environments",
-      "type": "paper",
-      "summary": "Short-horizon forecasting of fine particulate matter (PM2.5) remains difficult when observations from the target domain are limited and the statistical properties of the source and target domains d...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2608-14472": {
-      "slug": "2608-14472",
-      "typedId": "paper/2608-14472",
-      "name": "LP-NAS: Linear Programming-based Neural Architecture Search",
-      "type": "paper",
-      "summary": "Neural Architecture Search (NAS) aims to automate neural network architecture design, reducing reliance on human expertise. Among the various NAS methods, differentiable NAS has gained prominence d...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2608-14481": {
-      "slug": "2608-14481",
-      "typedId": "paper/2608-14481",
-      "name": "Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes",
-      "type": "paper",
-      "summary": "As heterogeneous robotic systems deploy across diverse urban zones, maintaining safety amid complex human-robot interactions remains a critical challenge. We present a unified framework that bridge...",
+      "summary": "Language and vision-language models generate plausible embodied plans but do not guarantee executability, as their outputs can violate environment dynamics or act on incorrectly grounded entities....",
       "tags": [
         "arxiv",
         "cs.RO"
       ]
     },
-    "2608-14490": {
-      "slug": "2608-14490",
-      "typedId": "paper/2608-14490",
+    "2608-16795": {
+      "slug": "2608-16795",
+      "typedId": "paper/2608-16795",
+      "name": "Historical Backtesting for Scientific Question Discovery: A Protocol and Astronomy Pilot",
+      "type": "paper",
+      "summary": "Systems that generate scientific research questions are evaluated today by expert scores, LLM-as-judge ratings, or curated case studies -- all subjective, none falsifiable. We formalize historical...",
+      "tags": [
+        "arxiv",
+        "cs.CE"
+      ]
+    },
+    "2608-16797": {
+      "slug": "2608-16797",
+      "typedId": "paper/2608-16797",
+      "name": "UniDot: A Unified Network for Sequence Modeling and Feature Interaction in Large-scale Recommendation",
+      "type": "paper",
+      "summary": "Industrial recommenders rely on two model families that have evolved largely independently: feature-interaction models over multi-field user/item features, and sequential models over user-behavior...",
+      "tags": [
+        "arxiv",
+        "cs.IR"
+      ]
+    },
+    "2608-16798": {
+      "slug": "2608-16798",
+      "typedId": "paper/2608-16798",
+      "name": "ClawGym II: Exploring Black-Box RL on Agent Harness",
+      "type": "paper",
+      "summary": "Agent harnesses have substantially improved performance on long-horizon tasks by coordinating agent interactions with the environment. However, reinforcement learning through complex harnesses rema...",
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ]
+    },
+    "2608-16801": {
+      "slug": "2608-16801",
+      "typedId": "paper/2608-16801",
+      "name": "When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding",
+      "type": "paper",
+      "summary": "We study how teams of AI coding agents coordinate while solving programming tasks. Current evaluations usually report whether the agents complete the task and how much the run costs, leaving the co...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2608-16804": {
+      "slug": "2608-16804",
+      "typedId": "paper/2608-16804",
+      "name": "Cross-Sign Language Transfer Learning Using Domain Adaptation with Multi-scale Temporal Alignment",
+      "type": "paper",
+      "summary": "Sign language serves as a vital means of communication for individuals with hearing impairments, yet recognition resources for the over 100 distinct sign languages are severely lacking. In response...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2608-16805": {
+      "slug": "2608-16805",
+      "typedId": "paper/2608-16805",
+      "name": "Diagnosing Dense Same-Class Attribute Misbinding in Large Vision-Language Models",
+      "type": "paper",
+      "summary": "Large vision-language models can recognize the objects and attributes in a crowded scene yet assign an attribute to the wrong same-class instance. Generic visual-question-answering accuracy marks t...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2608-16806": {
+      "slug": "2608-16806",
+      "typedId": "paper/2608-16806",
+      "name": "When State Becomes an Attack Surface: State-Semantic Injection in LLM-Driven Embodied Agents",
+      "type": "paper",
+      "summary": "Large Language Models (LLMs) have demonstrated capabilities in in-context learning, task decomposition, step-by-step reasoning, and code generation, driving their gradual evolution from text genera...",
+      "tags": [
+        "arxiv",
+        "cs.RO"
+      ]
+    },
+    "2608-16813": {
+      "slug": "2608-16813",
+      "typedId": "paper/2608-16813",
+      "name": "Quipu: A Governed Bitemporal Knowledge Graph Store",
+      "type": "paper",
+      "summary": "Agents now write knowledge graphs, but knowledge-graph stores still carry defaults set when humans curated them: accept writes now and clean later, keep one time axis or none, treat every writer's...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2608-16829": {
+      "slug": "2608-16829",
+      "typedId": "paper/2608-16829",
+      "name": "CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?",
+      "type": "paper",
+      "summary": "Video world models approximate the stochastic distribution of physical outcomes through generative sampling, but existing benchmarks score individual generations or compare distributions coarsely o...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2608-16831": {
+      "slug": "2608-16831",
+      "typedId": "paper/2608-16831",
+      "name": "Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning",
+      "type": "paper",
+      "summary": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from inst...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2608-16834": {
+      "slug": "2608-16834",
+      "typedId": "paper/2608-16834",
+      "name": "Model Hypnosis: Strong control of AI via additive subliminal effects",
+      "type": "paper",
+      "summary": "We demonstrate that AI models are broadly susceptible to a phenomenon we call model hypnosis, in which individually weak and seemingly irrelevant cues in the prompt can be systematically combined t...",
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ]
+    },
+    "2608-16837": {
+      "slug": "2608-16837",
+      "typedId": "paper/2608-16837",
+      "name": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL",
+      "type": "paper",
+      "summary": "Humanoid robots hold great promise as general-purpose agents in human-centered environments, yet generalist vision-language-action (VLA) foundation models are not readily applicable to humanoid who...",
+      "tags": [
+        "arxiv",
+        "cs.RO"
+      ]
+    },
+    "2608-16844": {
+      "slug": "2608-16844",
+      "typedId": "paper/2608-16844",
+      "name": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
+      "type": "paper",
+      "summary": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2608-16852": {
+      "slug": "2608-16852",
+      "typedId": "paper/2608-16852",
+      "name": "What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models",
+      "type": "paper",
+      "summary": "Regulatory compliance monitoring in deployed language models is increasingly implemented as a legal and audit control, checking model outputs against written rules spanning data protection, healthc...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2608-16868": {
+      "slug": "2608-16868",
+      "typedId": "paper/2608-16868",
+      "name": "Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text",
+      "type": "paper",
+      "summary": "A language model's output does not by itself provide verifiable evidence about the internal computation that produced it. We study computational provenance: whether generated text can carry detecta...",
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ]
+    },
+    "2608-16876": {
+      "slug": "2608-16876",
+      "typedId": "paper/2608-16876",
+      "name": "AutoSR: Automatic Symbolic Regression by Searching Research States",
+      "type": "paper",
+      "summary": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isol...",
+      "tags": [
+        "arxiv",
+        "cs.SC"
+      ]
+    },
+    "2608-16884": {
+      "slug": "2608-16884",
+      "typedId": "paper/2608-16884",
+      "name": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
+      "type": "paper",
+      "summary": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; A...",
+      "tags": [
+        "arxiv",
+        "cs.DS"
+      ]
+    },
+    "2608-16889": {
+      "slug": "2608-16889",
+      "typedId": "paper/2608-16889",
+      "name": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+      "type": "paper",
+      "summary": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails:...",
+      "tags": [
+        "arxiv",
+        "cs.RO"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-1912-08786v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-1912-08786v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-1912-08786v3",
+      "name": "Why we need an AI-resilient society",
+      "type": "news",
+      "summary": "arXiv:1912.08786v3 Announce Type: replace-cross Abstract: Three generations of software have transformed the role of artificial intelligence in society. In the first, programmers wrote explicit log...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2402-01591v4": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2402-01591v4",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2402-01591v4",
+      "name": "BAT: Learning to Reason about Spatial Sounds with Large Language Models",
+      "type": "news",
+      "summary": "arXiv:2402.01591v4 Announce Type: replace-cross Abstract: Spatial sound reasoning is a fundamental human skill, enabling us to navigate and interpret our surroundings based on sound. In this paper...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2402-01826v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2402-01826v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2402-01826v2",
+      "name": "Leveraging Few-Shot Learning and Large Language Models for Analyzing Blood Pressure Variations Across Biological Sex from Scientific Literature",
+      "type": "news",
+      "summary": "arXiv:2402.01826v2 Announce Type: replace-cross Abstract: Current blood pressure (BP) technologies and standards were established decades ago, and these standards are still used worldwide today, of...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2410-07299v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2410-07299v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2410-07299v3",
+      "name": "OTIS: Learning High-Quality Time Series Features With Tiny Encoders",
+      "type": "news",
+      "summary": "arXiv:2410.07299v3 Announce Type: replace-cross Abstract: We introduce OTIS, an open time series encoder that yields high-quality time series features for downstream deployment on any system, inclu...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2410-08491v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2410-08491v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2410-08491v3",
+      "name": "Edge Case Detection in Automated Driving: Methods, Challenges, and Future Directions",
+      "type": "news",
+      "summary": "arXiv:2410.08491v3 Announce Type: replace-cross Abstract: Automated vehicles (AVs) promise to enhance transportation safety and efficiency. However, ensuring their reliability in real-world conditi...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2502-00023v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2502-00023v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2502-00023v2",
+      "name": "Musical Agent Systems: MACAT and MACataRT",
+      "type": "news",
+      "summary": "arXiv:2502.00023v2 Announce Type: replace-cross Abstract: Our research explores the development and application of musical agents, human-in-the-loop generative AI systems designed to support music...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2502-19507v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2502-19507v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2502-19507v2",
+      "name": "From Field Data to Global Food Systems Intelligence: A Semantic Graph Framework for Sustainable Wheat Production",
+      "type": "news",
+      "summary": "arXiv:2502.19507v2 Announce Type: replace Abstract: In response to the growing need for structured, interoperable agricultural data, this paper presents the Sustainable Wheat Production Datahub, a...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2503-01236v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2503-01236v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2503-01236v3",
+      "name": "LLM-Advisor: An LLM Advisor for Cost-efficient Path Planning across Multiple Terrains",
+      "type": "news",
+      "summary": "arXiv:2503.01236v3 Announce Type: replace-cross Abstract: This paper addresses fixed-graph terrain-aware path refinement, in which a global planner is restricted to a predefined route space and may...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2507-13505v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2507-13505v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2507-13505v2",
+      "name": "PHASE: Passive Human Activity Simulation Evaluation",
+      "type": "news",
+      "summary": "arXiv:2507.13505v2 Announce Type: replace-cross Abstract: Cybersecurity simulation environments, such as cyber ranges, honeypots, and sandboxes, require realistic human behavior to be effective, ye...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2508-16131v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2508-16131v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2508-16131v3",
+      "name": "The Fools are Certain; the Wise are Doubtful: Exploring LLM Confidence in Code Completion",
+      "type": "news",
+      "summary": "arXiv:2508.16131v3 Announce Type: replace-cross Abstract: Code completion entails the task of providing missing tokens given a surrounding context. It can boost developer productivity and serve as...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2509-14704v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2509-14704v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2509-14704v3",
+      "name": "The Metacognitive Bottleneck: Japanese Riddles Reveal Fundamental Limits of Machine Insight and Self-Evaluation in Reasoning AI",
+      "type": "news",
+      "summary": "arXiv:2509.14704v3 Announce Type: replace Abstract: Benchmark saturation and training-data contamination increasingly obscure whether reported gains in large language models (LLMs) reflect genuine...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2509-24148v4": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2509-24148v4",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2509-24148v4",
+      "name": "TENET: One Step Toward Test-Driven Development for Repository-Level Code Generation",
+      "type": "news",
+      "summary": "arXiv:2509.24148v4 Announce Type: replace-cross Abstract: Test-Driven Development (TDD) is a widely adopted practice that requires developers to create and execute tests alongside implementation. W...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2510-05740v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2510-05740v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2510-05740v2",
+      "name": "Redefining Generalization in Visual Domains: A Two-Axis Framework for Fake Image Detection with FusionDetect",
+      "type": "news",
+      "summary": "arXiv:2510.05740v2 Announce Type: replace-cross Abstract: The rapid development of generative models has made it increasingly crucial to develop detectors that can reliably detect synthetic images....",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2510-25577v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2510-25577v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2510-25577v2",
+      "name": "Lost in Phonation: Voice Quality Variation as an Evaluation Dimension for Speech Foundation Models",
+      "type": "news",
+      "summary": "arXiv:2510.25577v2 Announce Type: replace-cross Abstract: Recent advances in Speech Foundation Models (SFMs) enable direct processing of raw audio, allowing models to respond to subtle paralinguist...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2512-14732v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2512-14732v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2512-14732v3",
+      "name": "INFORM-CT: INtegrating LLMs and VLMs FOR Incidental Findings Management in Abdominal CT",
+      "type": "news",
+      "summary": "arXiv:2512.14732v3 Announce Type: replace-cross Abstract: Incidental findings in CT scans, though often benign, can have significant clinical implications and should be reported following establish...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2601-22631v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2601-22631v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2601-22631v2",
+      "name": "PEFT-MuTS: A Multivariate Parameter-Efficient Fine-Tuning Framework for Remaining Useful Life Prediction based on Cross-domain Time Series Representation Model",
+      "type": "news",
+      "summary": "arXiv:2601.22631v2 Announce Type: replace-cross Abstract: The application of data-driven remaining useful life (RUL) prediction has long been constrained by the availability of large amount of degr...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2602-06746v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2602-06746v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2602-06746v2",
+      "name": "Semantically Labelled Automata for Multi-Task Reinforcement Learning with LTL Instructions",
+      "type": "news",
+      "summary": "arXiv:2602.06746v2 Announce Type: replace Abstract: We study multi-task reinforcement learning (RL), a setting in which an agent learns a single, universal policy capable of generalising to arbitra...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2602-09430v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2602-09430v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2602-09430v2",
+      "name": "AtomBridge: Agentic VLA Inference Plugin for Long-Horizon Tasks in Scientific Experiments",
+      "type": "news",
+      "summary": "arXiv:2602.09430v2 Announce Type: replace-cross Abstract: Robotic laboratories play a critical role in autonomous scientific discovery by enabling scalable, continuous experimental execution. Recen...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2602-09992v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2602-09992v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2602-09992v2",
+      "name": "A Unified Assessment of the Poverty of the Stimulus Argument for Neural Language Models",
+      "type": "news",
+      "summary": "arXiv:2602.09992v2 Announce Type: replace-cross Abstract: Several recent contributions have evaluated the Poverty of the Stimulus Hypothesis (PoSH) using Artificial Neural Networks (ANNs). The resu...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2602-11626v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2602-11626v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2602-11626v3",
+      "name": "ArGEnT: Arbitrary Geometry-encoded Transformer for Operator Learning",
+      "type": "news",
+      "summary": "arXiv:2602.11626v3 Announce Type: replace-cross Abstract: Learning solution operators on arbitrary geometries remains a central challenge in scientific machine learning, especially for many-query s...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2603-07571v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2603-07571v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2603-07571v3",
+      "name": "A Systematic Comparison of Training Objectives for Out-of-Distribution Detection in Image Classification",
+      "type": "news",
+      "summary": "arXiv:2603.07571v3 Announce Type: replace-cross Abstract: Out-of-distribution (OOD) detection is critical in safety-sensitive applications. While this challenge has been addressed from various pers...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2603-18871v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2603-18871v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2603-18871v2",
+      "name": "Bridging Network Fragmentation: A Semantic-Augmented DRL Framework for UAV-aided VANETs",
+      "type": "news",
+      "summary": "arXiv:2603.18871v2 Announce Type: replace Abstract: Urban Vehicular Ad-Hoc Networks (VANETs) can become fragmented because buildings obstruct wireless links and vehicle mobility continuously change...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2603-21378v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2603-21378v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2603-21378v2",
+      "name": "An InSAR Phase Unwrapping Framework for Large-scale and Complex Events",
+      "type": "news",
+      "summary": "arXiv:2603.21378v2 Announce Type: replace-cross Abstract: Phase unwrapping remains a critical and challenging problem in InSAR processing, particularly in scenarios involving complex deformation pa...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2603-28026v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2603-28026v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2603-28026v2",
+      "name": "BUZZY: Contrastive Scoring to Mitigate Text-Induced Bias in Multimodal Multiple-Choice QA",
+      "type": "news",
+      "summary": "arXiv:2603.28026v2 Announce Type: replace Abstract: Multimodal multiple-choice question answering (MCQA) provides a standardized and objectively measurable setting for evaluating vision-language mo...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2604-01413v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2604-01413v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2604-01413v3",
+      "name": "Adaptive Stopping for Multi-Turn LLM Reasoning",
+      "type": "news",
+      "summary": "arXiv:2604.01413v3 Announce Type: replace-cross Abstract: Large Language Models (LLMs) increasingly rely on multi-turn reasoning and interaction, such as adaptive retrieval-augmented generation (RA...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2604-04930v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2604-04930v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2604-04930v2",
+      "name": "Early Stopping for Large Reasoning Models via Confidence Dynamics",
+      "type": "news",
+      "summary": "arXiv:2604.04930v2 Announce Type: replace-cross Abstract: Large reasoning models rely on long chain-of-thought generation to solve complex problems, but extended reasoning often incurs substantial...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2604-08525v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2604-08525v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2604-08525v2",
+      "name": "Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest",
+      "type": "news",
+      "summary": "arXiv:2604.08525v2 Announce Type: replace Abstract: Large language models (LLMs) are trained to align with user preferences through methods like reinforcement learning. Yet models are beginning to...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2604-09508v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2604-09508v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2604-09508v2",
+      "name": "VISOR: Agentic Visual Retrieval-Augmented Generation via Iterative Search and Over-horizon Reasoning",
+      "type": "news",
+      "summary": "arXiv:2604.09508v2 Announce Type: replace-cross Abstract: Visual Retrieval-Augmented Generation (VRAG) empowers Vision-Language Models to retrieve and reason over visually rich documents. To tackle...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2605-01189v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2605-01189v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2605-01189v3",
+      "name": "NEURON: A Neuro-symbolic System for Grounded Clinical Explainability",
+      "type": "news",
+      "summary": "arXiv:2605.01189v3 Announce Type: replace Abstract: Clinical AI adoption is hindered by the black-box/grey-box nature of high-performing models, which lack the ontological grounding and narrative t...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2605-21071v4": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2605-21071v4",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2605-21071v4",
+      "name": "Fine-grained Claim-level RAG Benchmark for Law",
+      "type": "news",
+      "summary": "arXiv:2605.21071v4 Announce Type: replace-cross Abstract: The rapid progress of large language models (LLMs) is shifting semantic search toward a question-answering paradigm, where users ask questi...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2605-25420v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2605-25420v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2605-25420v2",
+      "name": "SomaliBench Eval: Measuring English-to-Somali Refusal Gaps in Open-Weight Language Models",
+      "type": "news",
+      "summary": "arXiv:2605.25420v2 Announce Type: replace-cross Abstract: Large language model safety evaluation remains heavily English-centered, leaving low-resource languages under-measured even when models are...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2605-28642v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2605-28642v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2605-28642v2",
+      "name": "Parameter- and Bandwidth-Efficient Edge--cloud Many-to-Many Speech-to-Text Translation",
+      "type": "news",
+      "summary": "arXiv:2605.28642v2 Announce Type: replace Abstract: Multimodal large language models (MLLMs) have demonstrated significant potential for speech-to-text translation (S2TT). However, existing deploym...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2605-29486v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2605-29486v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2605-29486v2",
+      "name": "PhoneWorld: Scaling Phone-Use Agent Environments",
+      "type": "news",
+      "summary": "arXiv:2605.29486v2 Announce Type: replace-cross Abstract: A central bottleneck for phone-use agents is that controllable, reproducible environments covering real mobile behavior are hard to build a...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2605-29668v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2605-29668v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2605-29668v2",
+      "name": "GRASP: Gated Regression-Aware Skill Proposer for Self-Improving LLM Agents",
+      "type": "news",
+      "summary": "arXiv:2605.29668v2 Announce Type: replace Abstract: LLM agents acting in structured environments fail in operational rather than conversational ways, and reliability depends on procedural knowledge...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2606-04743v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2606-04743v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2606-04743v2",
+      "name": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration",
+      "type": "news",
+      "summary": "arXiv:2606.04743v2 Announce Type: replace-cross Abstract: Agents are widely deployed as assistants over documents, tools, and code. However, they typically act only on explicit user requests, which...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2606-08123v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2606-08123v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2606-08123v2",
+      "name": "Beyond aggregate scores: Deployment-aware and non-compensatory benchmarking of vision-based eye-state recognition models for driver monitoring",
+      "type": "news",
+      "summary": "arXiv:2606.08123v2 Announce Type: replace-cross Abstract: Model selection for safety-relevant visual recognition is often based on clean aggregate performance, although robustness, transfer, embedd...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2606-08296v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2606-08296v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2606-08296v2",
+      "name": "Revisiting the shutdown problem",
+      "type": "news",
+      "summary": "arXiv:2606.08296v2 Announce Type: replace Abstract: A key premise in leading arguments for existential risk from artificial intelligence is that malfunctioning artificial agents could not be easily...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2606-12838v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2606-12838v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2606-12838v2",
+      "name": "OCOO-T : A Simple and Scalable Virtual Cell Model for Transcriptional Perturbation Response Prediction",
+      "type": "news",
+      "summary": "arXiv:2606.12838v2 Announce Type: replace-cross Abstract: Predicting single-cell transcriptional responses to genetic, chemical and cytokine perturbations is a fundamental challenge in computationa...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2606-16316v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2606-16316v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2606-16316v2",
+      "name": "RL-Index: Reinforcement Learning for Retrieval Index Reasoning",
+      "type": "news",
+      "summary": "arXiv:2606.16316v2 Announce Type: replace-cross Abstract: Retrieving external knowledge is crucial for real-world tasks but remains difficult when queries and relevant knowledge are linked by impli...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2606-21497v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2606-21497v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2606-21497v2",
+      "name": "Breaking Chains with Trees: Model-Parallel Deep Learning with $\\mathcal{O}(\\log N)$ Time Complexity",
+      "type": "news",
+      "summary": "arXiv:2606.21497v2 Announce Type: replace-cross Abstract: Modern deep neural networks are trained using error backpropagation, which requires sequential forward and backward computations across net...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2606-28455v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2606-28455v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2606-28455v2",
+      "name": "Event-Conditioned Diagnostics of Kinematic, Contact, and Object-Permanence Fields in Passive Object-State World Models",
+      "type": "news",
+      "summary": "arXiv:2606.28455v2 Announce Type: replace-cross Abstract: World models can predict future physical states, but prediction accuracy alone does not explain how physical information is organized and u...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2607-00033v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-00033v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-00033v2",
+      "name": "Learning Dexterous Manipulation Using Contact Wrench Guidance From Human Demonstration",
+      "type": "news",
+      "summary": "arXiv:2607.00033v2 Announce Type: replace-cross Abstract: Dexterous robot manipulation can benefit from the abundance of human demonstrations, but transferring such demonstrations to robot policies...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2607-08339v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-08339v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-08339v2",
+      "name": "TypeProbe: Recovering Type Representations from Hidden States of Pre-trained Code Models",
+      "type": "news",
+      "summary": "arXiv:2607.08339v2 Announce Type: replace-cross Abstract: State-of-the-art code models achieve impressive performance, yet the extent to which they internally encode type information remains poorly...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2607-13124v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-13124v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-13124v2",
+      "name": "ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation",
+      "type": "news",
+      "summary": "arXiv:2607.13124v2 Announce Type: replace-cross Abstract: Structured pruning is a hardware-friendly way to compress LLMs, but it is mostly validated on multiple-choice recognition tasks, while the...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2607-14616v4": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-14616v4",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-14616v4",
+      "name": "SportD: How do VLMs physically strategize?",
+      "type": "news",
+      "summary": "arXiv:2607.14616v4 Announce Type: replace Abstract: Vision-language models (VLMs) can describe a scene, but can they act well within one? We study whether VLMs can make sound strategic decisions, u...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2607-14975v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-14975v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-14975v2",
+      "name": "CFM-Bench: A Unified Multi-Domain, Multi-Task Benchmark for Channel Foundation Models",
+      "type": "news",
+      "summary": "arXiv:2607.14975v2 Announce Type: replace Abstract: Channel foundation models (CFMs) are commonly evaluated in model-specific pipelines that differ in data, radio configurations, partitions, adapta...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2607-15740v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-15740v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-15740v2",
+      "name": "Debiasing Text-to-Image Evaluation via Implicit Cultural Alignment Reward Modeling",
+      "type": "news",
+      "summary": "arXiv:2607.15740v2 Announce Type: replace-cross Abstract: As Text-to-Image (T2I) systems rapidly advance, evaluating the cultural authenticity of synthesized content has become increasingly importa...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2607-18785v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-18785v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-18785v3",
+      "name": "SkillSight: Calibrating Generic Content Bias for Skill Retrieval",
+      "type": "news",
+      "summary": "arXiv:2607.18785v3 Announce Type: replace Abstract: As large language model agents gain access to increasingly large skill libraries, retrieving the right skill becomes critical to reliable capabil...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2607-23556v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-23556v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-23556v2",
+      "name": "GTIN: A Unified Framework for Joint Event and Time Prediction in Temporal Graphs",
+      "type": "news",
+      "summary": "arXiv:2607.23556v2 Announce Type: replace-cross Abstract: Temporal graphs are increasingly used to model dynamic systems in diverse domains such as social networks, financial networks, and traffic...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2607-23815v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-23815v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-23815v2",
+      "name": "Kalypso: Relational LLM Serving",
+      "type": "news",
+      "summary": "arXiv:2607.23815v2 Announce Type: replace-cross Abstract: Large language models are increasingly used as semantic operators for filtering, extracting, ranking, joining, and transforming unstructure...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2607-24519v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-24519v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-24519v3",
+      "name": "A Negative-Control Protocol for Clinical EEG Foundation-Model Benchmarks: Dataset Identity and External-Cohort Stress Testing",
+      "type": "news",
+      "summary": "arXiv:2607.24519v3 Announce Type: replace-cross Abstract: EEG foundation-model gains may depend on cohort, montage, or probe design. We evaluated five models on five tasks across four benchmark dat...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2607-28008v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-28008v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-28008v2",
+      "name": "RepBench: Compiling Benchmarks into Capability Representations for Large Language Models",
+      "type": "news",
+      "summary": "arXiv:2607.28008v2 Announce Type: replace-cross Abstract: Representation engineering reads and steers capability directions in large language models, yet methods are typically evaluated on paper-sp...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2607-28125v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-28125v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-28125v2",
+      "name": "Towards Practical Algorithm Selection for Unsupervised Domain Adaptation in Medical Imaging",
+      "type": "news",
+      "summary": "arXiv:2607.28125v2 Announce Type: replace-cross Abstract: Numerous unsupervised domain adaptation (UDA) algorithms exist, but for clinical practice, selecting the best-suited one along with proper...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2607-28336v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-28336v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-28336v3",
+      "name": "Correcting What You Cannot See: Credit Assignment for Perception Distillation in Multimodal Reasoners",
+      "type": "news",
+      "summary": "arXiv:2607.28336v3 Announce Type: replace Abstract: On-policy distillation provides dense supervision for multimodal reasoners, but its trajectory-level reward cannot determine whether a failed ans...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2607-28351v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-28351v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-28351v2",
+      "name": "Teffic-Audio: Tell Fact from Fiction",
+      "type": "news",
+      "summary": "arXiv:2607.28351v2 Announce Type: replace-cross Abstract: Speech deepfake detection has expanded in scope with increasingly heterogeneous spoofing mechanisms, including speech synthesis, voice conv...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2607-29516v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2607-29516v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2607-29516v2",
+      "name": "From Code Review to Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale",
+      "type": "news",
+      "summary": "arXiv:2607.29516v2 Announce Type: replace-cross Abstract: AI coding agents are generating code at volumes that exceed the capacity of traditional peer review. At the same time, existing AI code rev...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-01014v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-01014v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-01014v2",
+      "name": "Cloud-ScPO: Hidden-State Geometry for Semi-Supervised Preference Optimization in LLM Reasoning",
+      "type": "news",
+      "summary": "arXiv:2608.01014v2 Announce Type: replace-cross Abstract: Preference optimization improves mathematical reasoning in large language models (LLMs), but reliable chosen-rejected pairs usually require...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-01035v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-01035v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-01035v3",
+      "name": "WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA",
+      "type": "news",
+      "summary": "arXiv:2608.01035v3 Announce Type: replace-cross Abstract: Vision-Language-Action (VLA) models have emerged as a prominent paradigm for end-to-end autonomous driving; however, their efficient deploy...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-01856v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-01856v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-01856v2",
+      "name": "EchoChange: A Diffusion Language Model with Dual Pass Remasking for Factual Remote Sensing Disaster Change Captioning",
+      "type": "news",
+      "summary": "arXiv:2608.01856v2 Announce Type: replace Abstract: Bi-temporal remote-sensing disaster change captioning often needs to identify sparse and spatially localized changes across large pre- and post-e...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-02345v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-02345v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-02345v2",
+      "name": "Can AI Agents Simulate A/B Test Outcomes? A Validation Framework for Agentic Experimentation",
+      "type": "news",
+      "summary": "arXiv:2608.02345v2 Announce Type: replace-cross Abstract: A/B testing remains the standard for rolling out new features in the technology industry. Each experiment, however, consumes real traffic,...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-02606v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-02606v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-02606v2",
+      "name": "Self-Organising Digital Circuits",
+      "type": "news",
+      "summary": "arXiv:2608.02606v2 Announce Type: replace Abstract: Fault tolerance in classical computing has traditionally relied on static strategies like hardware redundancy and error-correcting codes. Biologi...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-03682v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-03682v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-03682v3",
+      "name": "PhyAI: Real-Time Physical AI at the Edge, Scalable Rollouts in the Cloud",
+      "type": "news",
+      "summary": "arXiv:2608.03682v3 Announce Type: replace Abstract: Physical AI policies require inference throughout their lifecycle, including model evaluation, cloud reinforcement learning rollout, edge GPU ser...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-05246v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-05246v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-05246v2",
+      "name": "LUNAR: Benchmarking Personalized Large Language Models on UNiversal User BehAvioR Logs",
+      "type": "news",
+      "summary": "arXiv:2608.05246v2 Announce Type: replace Abstract: Existing personalized LLM benchmarks primarily rely on textual personas or isolated behavioral signals, providing limited evaluation of cross-dom...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-06549v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-06549v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-06549v2",
+      "name": "TradeVerse: A Longitudinal Benchmark of Political Negotiation in International Trade",
+      "type": "news",
+      "summary": "arXiv:2608.06549v2 Announce Type: replace-cross Abstract: LLMs are increasingly being applied to tasks involving institutional and political texts, but existing benchmarks evaluate them on isolated...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-08067v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-08067v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-08067v2",
+      "name": "DialectS2S: End-to-End Speech Dialogue Modeling for Low-Resource Chinese Dialects",
+      "type": "news",
+      "summary": "arXiv:2608.08067v2 Announce Type: replace-cross Abstract: Current end-to-end speech dialogue models are primarily optimized for mainstream languages and remain limited in low-resource dialect scena...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-08636v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-08636v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-08636v2",
+      "name": "Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach",
+      "type": "news",
+      "summary": "arXiv:2608.08636v2 Announce Type: replace-cross Abstract: Scientific named entity recognition (SciNER) plays a crucial role in information extraction and knowledge discovery from scientific texts....",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-08802v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-08802v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-08802v2",
+      "name": "Improving Generalization Robustness of Multimodal RLVR",
+      "type": "news",
+      "summary": "arXiv:2608.08802v2 Announce Type: replace Abstract: Reinforcement Learning with Verifiable Rewards (RLVR) makes Multimodal Large Language Models more accurate, but the gains are brittle: simply par...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-08904v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-08904v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-08904v2",
+      "name": "From Recovery to Drop-off: How Action Post-training Reduces a VLM's Late-Layer Depth Decodability",
+      "type": "news",
+      "summary": "arXiv:2608.08904v2 Announce Type: replace-cross Abstract: How much of a vision-language model's (VLM) spatial understanding remains after the action post-training process of building a vision-langu...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-09035v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-09035v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-09035v2",
+      "name": "MusicLayout: Explicit Structural Planning for Controllable Text-to-Music Generation",
+      "type": "news",
+      "summary": "arXiv:2608.09035v2 Announce Type: replace-cross Abstract: Text-to-music generation has advanced rapidly, but current systems still rely primarily on global text prompts, leaving the structural orga...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-10492v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-10492v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-10492v2",
+      "name": "INSIDE the Student's Mind: Jointly Modeling Latent Reasoning and Action in LLM Student Simulators",
+      "type": "news",
+      "summary": "arXiv:2608.10492v2 Announce Type: replace Abstract: Large Language Model (LLM)-based simulators often reproduce observable actions but fail to capture the underlying reasoning behind them. In educa...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-10538v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-10538v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-10538v2",
+      "name": "SKILLER: Language-Level Reinforcement Learning for Reusable Skill Extraction in Small Language Models",
+      "type": "news",
+      "summary": "arXiv:2608.10538v2 Announce Type: replace Abstract: Agent skills represent a standardized format for packaging procedural knowledge and domain expertise, serving within agent harness systems as an...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-11195v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-11195v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-11195v3",
+      "name": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
+      "type": "news",
+      "summary": "arXiv:2608.11195v3 Announce Type: replace Abstract: AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensi...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-11625v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-11625v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-11625v2",
+      "name": "Making AI-Generated Feedback Matter: A Large-Scale Study of Feedback Workflows and Student Enactment",
+      "type": "news",
+      "summary": "arXiv:2608.11625v2 Announce Type: replace Abstract: Feedback processes strongly influence student learning, yet their educational value depends on addressing two distinct challenges: providing high...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-12299v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-12299v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-12299v2",
+      "name": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
+      "type": "news",
+      "summary": "arXiv:2608.12299v2 Announce Type: replace-cross Abstract: Class activation mapping (CAM) is one of the most widely used visual explanation families in explainable artificial intelligence. Its purpo...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-12348v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-12348v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-12348v2",
+      "name": "Can Large Language Models Reason about Event-Time Stream-Processing Semantics?",
+      "type": "news",
+      "summary": "arXiv:2608.12348v2 Announce Type: replace-cross Abstract: Streaming systems increasingly hand work to large language models (LLMs): writing pipelines, triaging alerts, reading logs. All of it assum...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-12751v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-12751v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-12751v2",
+      "name": "SynAct: A Reasoning-Acting Large Language Model Agent for Adaptive Synthesis Optimization",
+      "type": "news",
+      "summary": "arXiv:2608.12751v2 Announce Type: replace-cross Abstract: Logic synthesis transforms RTL designs into gate-level netlists, where PPA results are highly sensitive to the choice of optimization comma...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-12831v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-12831v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-12831v2",
+      "name": "Fast A/B/n Testing: Exact Multi-Policy Comparison via Tree-Coupled Feedback Sharing",
+      "type": "news",
+      "summary": "arXiv:2608.12831v2 Announce Type: replace-cross Abstract: Online platforms increasingly compare many adaptive decision policies---ranking systems, recommendation algorithms, pricing rules, and lang...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-12892v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-12892v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-12892v2",
+      "name": "Predictive Memory Localization: Forecasting Selective Intervention Paths from Internal Signals",
+      "type": "news",
+      "summary": "arXiv:2608.12892v2 Announce Type: replace Abstract: Activation steering turns localized representations into control directions, but localization alone does not reveal whether a direction has a sel...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-12921v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-12921v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-12921v2",
+      "name": "Discovering Efficient and Explainable Communication Topologies for LLM-based Multi-Agent Systems via Causal Inference",
+      "type": "news",
+      "summary": "arXiv:2608.12921v2 Announce Type: replace-cross Abstract: The performance of large language model (LLM)-based multi-agent systems (MAS) largely depends on effective communication topologies. Existi...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13057v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13057v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13057v2",
+      "name": "TEMPO: Makespan-Aware Expert-Parallel Load Balancing Across Memory- and Compute-Bound Regimes",
+      "type": "news",
+      "summary": "arXiv:2608.13057v2 Announce Type: replace-cross Abstract: In expert-parallel (EP) MoE serving, every layer synchronizes at the slowest GPU. Dispatchers balance token counts (EPLB, LPLB, UltraEP) or...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13200v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13200v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13200v2",
+      "name": "GEM: A Generative Embedding Model Bridging Reasoning and Retrieval",
+      "type": "news",
+      "summary": "arXiv:2608.13200v2 Announce Type: replace-cross Abstract: Modern LLMs excel at reasoning and instruction following, enabling users to express complex and diverse information needs. However, convent...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13333v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13333v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13333v2",
+      "name": "LLM-Guided Graph Generation for Structure-Based Local Improvement Methods",
+      "type": "news",
+      "summary": "arXiv:2608.13333v2 Announce Type: replace Abstract: Large neighborhood search normally selects a random subset of decision variables for iterative optimization. To efficiently solve various problem...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13341v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13341v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13341v2",
+      "name": "Simulation-to-real transfer learning for infrared spectroscopic chemical sensing and analysis from molecules to complex samples",
+      "type": "news",
+      "summary": "arXiv:2608.13341v2 Announce Type: replace-cross Abstract: Infrared (IR) spectroscopy is widely used for chemical sensing, but extracting reliable chemical information from spectra remains challengi...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13563v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13563v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13563v1",
+      "name": "Proxy-Validated LLM UX Micro-Simulations: An Artifact-First Protocol for Early-Stage Decision Support",
+      "type": "news",
+      "summary": "arXiv:2608.13563v1 Announce Type: cross Abstract: Early-stage teams often lack users, time, and budget to run repeated UX studies, yet still need decision-oriented signals to iterate safely. We stu...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13564v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13564v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13564v1",
+      "name": "Inducing Reward-Free Judging Rubrics that Reduce Over-Crediting in Agent Evaluation",
+      "type": "news",
+      "summary": "arXiv:2608.13564v1 Announce Type: new Abstract: Evaluating language-model agents at scale increasingly relies on a second language model as an automatic judge, because the gold signal, an executabl...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13565v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13565v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13565v1",
+      "name": "Depth-Aware Sensitivity Analysis of Mixture-of-Experts Models via Magnitude-Based Expert Masking",
+      "type": "news",
+      "summary": "arXiv:2608.13565v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) architectures scale large language models (LLMs) while preserving computational efficiency through sparse activation. Despit...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13566v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13566v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13566v1",
+      "name": "Don't Claim Benchmark-Oriented Optimization Improves General Coding Capability -- Diverse Evaluation Is Required",
+      "type": "news",
+      "summary": "arXiv:2608.13566v1 Announce Type: cross Abstract: Post-training papers, model cards, and blog posts often treat scores on a small set of coding benchmarks (e.g., SWE-bench and LiveCodeBench) as evi...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13567v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13567v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13567v1",
+      "name": "Modular Cognitive Architecture Emerges in Large Language Models",
+      "type": "news",
+      "summary": "arXiv:2608.13567v1 Announce Type: new Abstract: The human brain exhibits a striking degree of functional specialization, with distinct networks supporting language, formal reasoning, reasoning abou...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13568v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13568v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13568v1",
+      "name": "Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study",
+      "type": "news",
+      "summary": "arXiv:2608.13568v1 Announce Type: cross Abstract: Coding agents spend most of their context budget on retrieval. Lexical retrieval (grep) is universal, instant, and zero-setup, but noisy: it cannot...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13570v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13570v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13570v1",
+      "name": "Think in Latent, Explain in Language: Self-Explainable Latent Reasoning",
+      "type": "news",
+      "summary": "arXiv:2608.13570v1 Announce Type: cross Abstract: Latent reasoning has emerged as a powerful alternative to text-based Chain-of-Thought (CoT), offering significant gains in computational efficiency...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13571v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13571v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13571v1",
+      "name": "Not All Tokens Are Equal: Inflation-Aware Routing for Agentic LLM Systems",
+      "type": "news",
+      "summary": "arXiv:2608.13571v1 Announce Type: cross Abstract: When a language model fails to answer a query on the first attempt, an agentic system retries, consuming additional tokens each time. This retry ov...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13572v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13572v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13572v1",
+      "name": "The Architect: Interactive Visualization of Deep Learning Mathematics Directly in Microsoft Excel",
+      "type": "news",
+      "summary": "arXiv:2608.13572v1 Announce Type: cross Abstract: We present The Architect, a system that turns Microsoft Excel into an interactive view of deep learning mathematics. A user describes a neural netw...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13573v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13573v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13573v1",
+      "name": "A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing",
+      "type": "news",
+      "summary": "arXiv:2608.13573v1 Announce Type: new Abstract: Large Language Model (LLM) serving has become a critical cloud workload, and realistic traces are essential for motivating and benchmarking serving s...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13574v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13574v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13574v1",
+      "name": "Agentao: A Governed Local-First Runtime for Tool-Using LLM Agents",
+      "type": "news",
+      "summary": "arXiv:2608.13574v1 Announce Type: new Abstract: LLM agents increasingly operate as execution systems that invoke tools, modify local state, use persistent memory, and interact with external protoco...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13575v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13575v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13575v1",
+      "name": "Interactive Analysis of Global Explanations using Aggregated Class Activation Maps for Network Data",
+      "type": "news",
+      "summary": "arXiv:2608.13575v1 Announce Type: cross Abstract: Recent machine learning (ML) advances have demonstrated that deep learning (DL) achieves impressive results in different application domains, inclu...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13577v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13577v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13577v1",
+      "name": "AI Evaluation Should Work With Humans",
+      "type": "news",
+      "summary": "arXiv:2608.13577v1 Announce Type: new Abstract: This position paper argues that the dominant paradigm of AI evaluation (which focuses on superhuman autonomous performance and so implicitly targets...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13578v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13578v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13578v1",
+      "name": "BCMT: Blockwise Causal Memory Transformer",
+      "type": "news",
+      "summary": "arXiv:2608.13578v1 Announce Type: cross Abstract: Transformer architectures rely on dense self-attention to model long-range dependencies, but this mechanism exhibits quadratic complexity with resp...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13580v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13580v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13580v1",
+      "name": "Jais 2: A Family of Arabic-Centric Open Large Language Models",
+      "type": "news",
+      "summary": "arXiv:2608.13580v1 Announce Type: cross Abstract: Jais 2 is a family of Arabic-centric large language models developed jointly by MBZUAI, Cerebras, and Inception, designed to advance Arabic-centric...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13581v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13581v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13581v1",
+      "name": "From Prediction to Intervention: Personalized Meal-Level Glucose Regulation via an LLM Agent",
+      "type": "news",
+      "summary": "arXiv:2608.13581v1 Announce Type: cross Abstract: Personalized glucose regulation remains a central yet unresolved challenge in precision nutrition, as postprandial glucose response varies substant...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13584v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13584v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13584v1",
+      "name": "UltraArUco: A Lightweight Multilingual Library And Framework With Low-Latency Real-Time Marker-Based Tracking System For Mobile AR Interaction",
+      "type": "news",
+      "summary": "arXiv:2608.13584v1 Announce Type: cross Abstract: UltraArUco - a lightweight multilingual library and framework for low-latency, real-time marker-based tracking in mobile augmented reality. Unlike...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13588v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13588v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13588v1",
+      "name": "IterCOMP: Reasoning-aware Adaptive Prompt Compression for Multi-hop Question Answering",
+      "type": "news",
+      "summary": "arXiv:2608.13588v1 Announce Type: cross Abstract: Multi-hop question answering requires complex reasoning across multiple evidence segments, which often overwhelms retrieval-augmented generation sy...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13589v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13589v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13589v1",
+      "name": "Context Aware AI Assistant and AR Interface for Lunar Extravehicular Activity (EVA) Procedural Guidance",
+      "type": "news",
+      "summary": "arXiv:2608.13589v1 Announce Type: cross Abstract: As human space exploration returns to the Moon, astronauts need rapid access to procedural information during extravehicular activities (EVAs), whe...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13591v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13591v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13591v1",
+      "name": "Stable Miscalibration in Large Language Models: A Practical View of High-Confidence Errors",
+      "type": "news",
+      "summary": "arXiv:2608.13591v1 Announce Type: new Abstract: High-confidence errors in large language models are often treated as evidence of fragile internal inference. We study a different possibility: stable...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13596v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13596v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13596v1",
+      "name": "Training-Free Knowledge Transfer Across Model Scales through Activation-Guided Pruning",
+      "type": "news",
+      "summary": "arXiv:2608.13596v1 Announce Type: cross Abstract: Heterogeneous model fusion seeks to combine models that differ in tasks, initializations, architectures, or scales. We study an underexplored cross...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13597v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13597v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13597v1",
+      "name": "Secret-Stego Dissimilarity as a Design Axis: Invertible Coverless Image Steganography with Diffusion Models",
+      "type": "news",
+      "summary": "arXiv:2608.13597v1 Announce Type: cross Abstract: Coverless image steganography (CIS) synthesizes a stego image rather than modifying an existing cover image, enabling authorized recipients to reco...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13598v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13598v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13598v1",
+      "name": "Measuring Cross-Task Behavioral Consistency in Language Model Agents",
+      "type": "news",
+      "summary": "arXiv:2608.13598v1 Announce Type: new Abstract: Agent evaluation relies almost entirely on outcome metrics such as success rate, which capture whether an agent succeeds but not how consistently it...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13604v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13604v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13604v1",
+      "name": "Cross-Disciplinary Taxonomy and Modeling of Misunderstanding Generation, Amplification, and Detection, from Pragmatics to AI Agents",
+      "type": "news",
+      "summary": "arXiv:2608.13604v1 Announce Type: new Abstract: Detection of misunderstanding is an urgent problem to solve because communication has moved away from real-time, in-person interaction and is increas...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13605v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13605v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13605v1",
+      "name": "Active Perception for Embodied Disambiguation",
+      "type": "news",
+      "summary": "arXiv:2608.13605v1 Announce Type: new Abstract: Natural language provides robots with a flexible task interface, but target ambiguity in embodied environments arises not only from user intent; it c...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13606v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13606v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13606v1",
+      "name": "MobileMem: Learning from a Year of Mobile Experiences",
+      "type": "news",
+      "summary": "arXiv:2608.13606v1 Announce Type: new Abstract: The next generation of AI agents is increasingly moving beyond systems that answer isolated questions toward persistent personal assistants that can...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13607v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13607v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13607v1",
+      "name": "No Universal Signal Predicts Sample-Level LLM Regression under Version Updates",
+      "type": "news",
+      "summary": "arXiv:2608.13607v1 Announce Type: new Abstract: Frontier LLMs are updated frequently and typically outperform their predecessors in aggregate. But aggregate gains say little about individual sample...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13608v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13608v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13608v1",
+      "name": "Evaluating Agentic Learning Harness Capabilities Without Labels via the Scaling Hypothesis",
+      "type": "news",
+      "summary": "arXiv:2608.13608v1 Announce Type: new Abstract: Agentic \"Continual Learning Harnesses\", systems that pair an LLM with retrieval or memory to improve from feedback without retraining, have shown gro...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13612v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13612v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13612v1",
+      "name": "SemPlan: Benchmarking Structured Semantic Planning for LLM-Based Queries over Enterprise Data",
+      "type": "news",
+      "summary": "arXiv:2608.13612v1 Announce Type: new Abstract: Natural-language interfaces to enterprise data must translate underspecified requests into governed, executable behavior while controlling invalid qu...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13617v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13617v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13617v1",
+      "name": "How Compliant is Sepsis Treatment? An Expert-Guided Neuro-symbolic Pipeline for Generating Clinical Compliance Insights",
+      "type": "news",
+      "summary": "arXiv:2608.13617v1 Announce Type: new Abstract: Verifying whether clinical care follows evidence-based protocols is a natural neuro-symbolic problem, yet the safety-critical setting defeats either...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13618v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13618v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13618v1",
+      "name": "Algorithm Design and Physician Liability",
+      "type": "news",
+      "summary": "arXiv:2608.13618v1 Announce Type: new Abstract: A single clinical algorithm can deliver unequal accuracy across patient groups, and concern about such disparity has grown as artificial intelligence...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13621v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13621v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13621v1",
+      "name": "Your Probabilistic JEPA Is Secretly a Hidden Markov Model: A State-Space Interpretation of Joint-Embedding Predictive Learning",
+      "type": "news",
+      "summary": "arXiv:2608.13621v1 Announce Type: new Abstract: A hidden Markov model (HMM) combines three roles: inference of a hidden-state belief from observations, propagation through a Markov transition, and...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13622v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13622v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13622v1",
+      "name": "ARC: Fair Relative Advantage Comparison in Open-Ended Real-World Interaction",
+      "type": "news",
+      "summary": "arXiv:2608.13622v1 Announce Type: new Abstract: Open-ended real-world interaction admits multiple valid behaviors: an agent may answer directly, ask for clarification, provide progress updates, or...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13624v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13624v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13624v1",
+      "name": "Measuring Fairness in Large Audio Language Models via Semantic-Aware Bias Estimation",
+      "type": "news",
+      "summary": "arXiv:2608.13624v1 Announce Type: cross Abstract: Large Audio Language Models (LALMs) have seen increasing use for audio understanding tasks such as speech recognition and audio question answering,...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13625v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13625v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13625v1",
+      "name": "Reward Machines for Signal Temporal Logic",
+      "type": "news",
+      "summary": "arXiv:2608.13625v1 Announce Type: new Abstract: Signal temporal logic (STL) provides a formal language for specifying real-time properties of real-valued observations, along with a quantitative rob...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13626v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13626v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13626v1",
+      "name": "A Calibrated Test of Internal Action Maps: State Signals Without Global Affine Closure",
+      "type": "news",
+      "summary": "arXiv:2608.13626v1 Announce Type: new Abstract: A hidden state signal can be decodable or causally usable without supporting a reusable action map. We test whether action maps fitted without a sour...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13630v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13630v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13630v1",
+      "name": "Exploring ESC Winners with Nested Diagrams",
+      "type": "news",
+      "summary": "arXiv:2608.13630v1 Announce Type: new Abstract: We present ConceptFlow, a scikit-learn-compatible Python library for Formal Concept Analysis that constructs and renders nested line diagrams from ma...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13662v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13662v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13662v1",
+      "name": "Ontology-Grounded Project Memory for Coding Agents",
+      "type": "news",
+      "summary": "arXiv:2608.13662v1 Announce Type: new Abstract: Coding agents have become the primary means of generating new code in many software projects, and the resulting velocity of changes makes keeping tra...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13667v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13667v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13667v1",
+      "name": "Second Thought: Reasoning in Parallel as LLM Agents Act and Observe",
+      "type": "news",
+      "summary": "arXiv:2608.13667v1 Announce Type: new Abstract: LLM agents in the ReAct paradigm alternate between reasoning, acting, and observing, but deliberate reasoning is confined to the Thought phase: while...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13675v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13675v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13675v1",
+      "name": "From BERT to Frontier Agents: Eight Years of Language-Model Progress, the Collapse of the Capability-Cost Curve, and the Rise of Task-Targeted Models",
+      "type": "news",
+      "summary": "arXiv:2608.13675v1 Announce Type: cross Abstract: Between October 2018 and July 2026 AI models progressed from simple systems like BERT to massive agents that solve complex math and write software....",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13681v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13681v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13681v1",
+      "name": "Fine-Tuning Qwen3-27B for C-to-Rust Code Translation: A Three-Stage Curriculum of Pretraining, Debugging-Aware SFT, and Task-Specific SFT",
+      "type": "news",
+      "summary": "arXiv:2608.13681v1 Announce Type: cross Abstract: Translating C code into safe, idiomatic Rust is a longstanding software-engineering goal because it can eliminate entire classes of memory-safety v...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13684v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13684v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13684v1",
+      "name": "Learning to Assemble Novel Structures with Unfamiliar Parts under Semantic Constraints",
+      "type": "news",
+      "summary": "arXiv:2608.13684v1 Announce Type: new Abstract: This paper describes a neurosymbolic architecture for learning to assemble novel structures using evidence from embodied conversations and task demon...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13690v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13690v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13690v1",
+      "name": "MedPlex: Deep Vision-Language Co-Adaptation for Clinically Grounded Medical Segmentation",
+      "type": "news",
+      "summary": "arXiv:2608.13690v1 Announce Type: cross Abstract: Medical image segmentation is still largely treated as a vision-only problem, although clinical interpretation often relies on textual knowledge of...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13702v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13702v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13702v1",
+      "name": "SAGE: Surrogate-gradient Adaptation via Attention-Guided Entropy for Spiking Transformers",
+      "type": "news",
+      "summary": "arXiv:2608.13702v1 Announce Type: cross Abstract: Spiking neural networks (SNNs) offer an energy-efficient alternative to conventional deep neural networks by exploiting sparse event-driven computa...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13706v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13706v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13706v1",
+      "name": "CLAIR-Fin: An Adversarial Multi-Agent Framework for Claim-Level Verification and Adaptive Debate in Cross-Modal Financial QA",
+      "type": "news",
+      "summary": "arXiv:2608.13706v1 Announce Type: cross Abstract: Existing defenses against hallucination in retrieval-augmented and multi-agent pipelines remain partial: evidence is trusted despite modality disag...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13708v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13708v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13708v1",
+      "name": "TeachMateGPT: A Multi-Agent Knowledge-Grounded Framework for Pedagogical Assessment Generation from Science Curriculum Materials",
+      "type": "news",
+      "summary": "arXiv:2608.13708v1 Announce Type: cross Abstract: Automatically generating textbook-grounded assessment items can reduce science teachers' workload, but existing retrieval-augmented generation (RAG...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13712v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13712v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13712v1",
+      "name": "Reading Between The Lines: Modeling and Evaluating Behavioral Realism in Legal Simulation",
+      "type": "news",
+      "summary": "arXiv:2608.13712v1 Announce Type: cross Abstract: Deposition training requires attorneys to manage dynamic witness behavior, yet legal-AI evaluations largely focus on factual accuracy, reasoning, o...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13719v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13719v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13719v1",
+      "name": "Coverage Aware Active Evaluation for Failure Discovery with Paired Systems",
+      "type": "news",
+      "summary": "arXiv:2608.13719v1 Announce Type: new Abstract: Autonomous systems can fail in rare and heterogeneous ways, making real-world failure discovery difficult under limited testing budgets. Although che...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13721v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13721v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13721v1",
+      "name": "Capacity-Dependent Effects of Data Selection for Reasoning",
+      "type": "news",
+      "summary": "arXiv:2608.13721v1 Announce Type: cross Abstract: In reasoning supervised fine-tuning, candidate responses for the same instruction can differ substantially in how well they match the student's cur...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13730v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13730v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13730v1",
+      "name": "Building AI-Intensive Software with AI: Early Results and a Cautionary Tale on Measuring Development Cost",
+      "type": "news",
+      "summary": "arXiv:2608.13730v1 Announce Type: cross Abstract: Empirical reports on the true cost of AI-intensive software development remain scarce, and the few that exist are easy to get wrong in ways that ne...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13742v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13742v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13742v1",
+      "name": "Does ISO-Grounded NFR Specification Improve LLM Code Generation? A Comparison of Rich and Structured Interventions against a Natural-Language Baseline",
+      "type": "news",
+      "summary": "arXiv:2608.13742v1 Announce Type: cross Abstract: In LLM-based code generation, Non-Functional Requirements (NFRs) are often specified as terse one-line phrases. We ask whether grounding those spec...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13749v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13749v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13749v1",
+      "name": "Data-driven techniques for translational neuroscience and personalized neuro-health",
+      "type": "news",
+      "summary": "arXiv:2608.13749v1 Announce Type: cross Abstract: Neurodegenexrative diseases such as Alzheimer's disease and Parkinson's disease are diagnosed most reliably only after substantial, often irreversi...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13754v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13754v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13754v1",
+      "name": "Explanation Multiplicity: Circuit-Level Interpretability Evidence Does Not Survive Defensible Analytic Variation",
+      "type": "news",
+      "summary": "arXiv:2608.13754v1 Announce Type: new Abstract: The EU AI Act requires providers of high-risk systems to file technical documentation describing how the system reaches its decisions. Mechanistic in...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13760v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13760v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13760v1",
+      "name": "Amplified Does Not Mean Predictive: Reasoning Behaviors in Thinking Models",
+      "type": "news",
+      "summary": "arXiv:2608.13760v1 Announce Type: cross Abstract: Which reasoning behaviors are associated with correct answers in reasoning models, and does reasoning-oriented training amplify those behaviors? Th...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13767v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13767v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13767v1",
+      "name": "Simulation-Aware In-Context Policy Improvement for LLM-Aided Analog Layout Refinement",
+      "type": "news",
+      "summary": "arXiv:2608.13767v1 Announce Type: new Abstract: Analog IC layout design remains a labor-intensive iterative process dominated by simulation-driven refinement. Although end-to-end layout generators...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13773v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13773v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13773v1",
+      "name": "CutClean: Neural Network Pruning for Privacy-Preserving Inference",
+      "type": "news",
+      "summary": "arXiv:2608.13773v1 Announce Type: cross Abstract: Neural networks are increasingly deployed in high-stakes applications with growing privacy leakage concerns. We show that this privacy leakage can...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13774v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13774v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13774v1",
+      "name": "FLARE MCMC: Fidelity-based Layer-Adaptive REcursive proposals for MCMC",
+      "type": "news",
+      "summary": "arXiv:2608.13774v1 Announce Type: new Abstract: Markov chain Monte Carlo (MCMC) requires only the ability to evaluate the likelihood, making it a common technique for inference in complex models. H...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13786v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13786v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13786v1",
+      "name": "Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions",
+      "type": "news",
+      "summary": "arXiv:2608.13786v1 Announce Type: cross Abstract: Large language model (LLM) chatbots are increasingly used to answer clinical questions with citations to relevant clinical studies. Prior research...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13787v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13787v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13787v1",
+      "name": "From Passive Delegates to Strategic Negotiators: Reinforcing Social Reasoning in Small Language Models with SocialRL",
+      "type": "news",
+      "summary": "arXiv:2608.13787v1 Announce Type: new Abstract: AI agents increasingly act on their users' behalf, handling tasks such as scheduling meetings, comparing offers, and haggling over prices. These prin...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13790v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13790v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13790v1",
+      "name": "PPAPlace: Differentiable Cross-Stage Objectives for Chip Placement Optimization",
+      "type": "news",
+      "summary": "arXiv:2608.13790v1 Announce Type: cross Abstract: Macro placement significantly affects a chip's post-route performance, power, and area (PPA). Most placement methods optimize half-perimeter wirele...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13809v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13809v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13809v1",
+      "name": "Optimal Power Allocation and AI Receiver Design for Superimposed DMRS and Data Transmission",
+      "type": "news",
+      "summary": "arXiv:2608.13809v1 Announce Type: cross Abstract: In this paper, we consider transmissions with superimposed (SI) demodulation-reference-symbol (DMRS) and data in orthogonal frequency-division mult...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13820v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13820v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13820v1",
+      "name": "SDO: Subspace Deconflicting Operator for Multi-Adapter Composition",
+      "type": "news",
+      "summary": "arXiv:2608.13820v1 Announce Type: new Abstract: Composing independently trained adapters within a shared diffusion backbone provides a modular approach to multi-character generation, but naive join...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13833v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13833v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13833v1",
+      "name": "AdsWorldEngine: A Self-Evolving Conversational Advertising Agent through Orchestrator and Tool Coevolution",
+      "type": "news",
+      "summary": "arXiv:2608.13833v1 Announce Type: cross Abstract: Conversational advertising aims to deliver useful ads within multi-turn assistant interactions. Unlike conventional query-based advertising, where...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13840v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13840v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13840v1",
+      "name": "ASSERT: A Measurement Pipeline for GenAI Audits",
+      "type": "news",
+      "summary": "arXiv:2608.13840v1 Announce Type: cross Abstract: Audits of generative AI (GenAI) systems often summarize behavior as a reported rate: how often the audited system complies with policy. Researchers...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13844v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13844v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13844v1",
+      "name": "Federated Prompt Learning: A Unified Framework, Empirical Analysis, and Future Directions",
+      "type": "news",
+      "summary": "arXiv:2608.13844v1 Announce Type: cross Abstract: Large language models (LLMs) have become core components of cloud-based intelligent services in academia and industry, yet their training and deplo...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13863v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13863v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13863v1",
+      "name": "Joint Optimization of Memory and Computing Frequency for Energy-Efficient DNN Inference",
+      "type": "news",
+      "summary": "arXiv:2608.13863v1 Announce Type: new Abstract: Deep neural network (DNN) inference on mobile devices often incurs high latency and energy consumption due to limited computing and memory resources....",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13867v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13867v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13867v1",
+      "name": "Engineering Reliable Coding Agents: Evaluating and Operating the System Around the Model",
+      "type": "news",
+      "summary": "arXiv:2608.13867v1 Announce Type: cross Abstract: AI coding agents are commonly evaluated as models but deployed as systems. Their reliability depends not only on model capability, but on the harne...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13883v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13883v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13883v1",
+      "name": "MemoryLake on MemoryArena: A Matched Study of Agent Memory Backends",
+      "type": "news",
+      "summary": "arXiv:2608.13883v1 Announce Type: new Abstract: Most agent-memory benchmarks test post-hoc recall, whereas MemoryArena evaluates whether memory supports interdependent, multi-session task completio...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13884v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13884v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13884v1",
+      "name": "Engineering Signals of Human-AI Collaboration in the Agentic Coding Era: A Longitudinal Analysis of 33,228 Pull Requests from vLLM and SGLang with Implications for Biomedical AI Agents and Bioinformatics Pipeline Developmen",
+      "type": "news",
+      "summary": "arXiv:2608.13884v1 Announce Type: cross Abstract: The rapid adoption of AI coding assistants and autonomous agentic development systems has coincided with major changes in the pace and structure of...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13900v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13900v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13900v1",
+      "name": "Agentic Transaction: Towards ACID-Compliant Agent Systems",
+      "type": "news",
+      "summary": "arXiv:2608.13900v1 Announce Type: cross Abstract: Large language model (LLM) agents are evolving from conversational assistants into autonomous systems that execute long-horizon tasks through reaso...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13905v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13905v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13905v1",
+      "name": "CipherSight: Robust Website Fingerprinting via Record-Resource Semantic Supervision under Distribution Shifts",
+      "type": "news",
+      "summary": "arXiv:2608.13905v1 Announce Type: cross Abstract: HTTPS website fingerprinting (WF) aims to identify visited websites from metadata observable in encrypted traffic. However, real-world deployments...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13914v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13914v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13914v1",
+      "name": "Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated Biosignal Learning",
+      "type": "news",
+      "summary": "arXiv:2608.13914v1 Announce Type: cross Abstract: Electrocardiogram (ECG) recordings are sensitive biomedical data, limiting the ability of hospitals and wearable devices to share raw signals for c...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13921v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13921v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13921v1",
+      "name": "When Personal Memory Has No Single Answer: Evaluating LLM Agents under Irreducible Conflict",
+      "type": "news",
+      "summary": "arXiv:2608.13921v1 Announce Type: new Abstract: LLM agents increasingly maintain personal memory across sessions, but it can conflict. Preferences depend on context, behavior evolves, and sources c...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13925v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13925v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13925v1",
+      "name": "CForce: Boosting Parallel Decoding for dLLMs via Consistency Forcing",
+      "type": "news",
+      "summary": "arXiv:2608.13925v1 Announce Type: cross Abstract: Diffusion large language models (dLLMs) accelerate language generation by predicting multiple masks in a single forward pass. However, existing dLL...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13926v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13926v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13926v1",
+      "name": "Never the Number: Structural Abstention for AI Systems Whose Answers Are Consumed as Fact",
+      "type": "news",
+      "summary": "arXiv:2608.13926v1 Announce Type: new Abstract: Large language models have made natural language interfaces to databases (NLIDB) newly credible, but LLM text-to-SQL systems fail in a way that matte...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13939v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13939v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13939v1",
+      "name": "CMCNet: Aligning Ultrasound Image Embeddings with Textual TI-RADS Representations for Fine-Grained Thyroid Classification",
+      "type": "news",
+      "summary": "arXiv:2608.13939v1 Announce Type: cross Abstract: Ultrasound is the primary imaging modality for assessing thyroid nodules, and the ACR TI-RADS framework standardizes diagnosis through five ultraso...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13940v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13940v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13940v1",
+      "name": "AI Research Preference Models",
+      "type": "news",
+      "summary": "arXiv:2608.13940v1 Announce Type: new Abstract: AI research agents (AIRA) can now propose, implement, and evaluate their own machine learning experiments, but progress on frontier tasks is throttle...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13944v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13944v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13944v1",
+      "name": "Musical Mirrors: The LLM as Sounding Board in Songwriting",
+      "type": "news",
+      "summary": "arXiv:2608.13944v1 Announce Type: cross Abstract: This paper examines a use of AI in creative practice as an interpretive sounding board for human-generated material, rather than the more familiar...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13951v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13951v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13951v1",
+      "name": "HELIX: Model-Harness Co-evolution for Recursive Self-Improvement",
+      "type": "news",
+      "summary": "arXiv:2608.13951v1 Announce Type: new Abstract: Scaling agent capability has largely focused on improving the model, yet an interactive agent acts through a runtime harness that mediates context, t...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13958v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13958v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13958v1",
+      "name": "Implementing Computational Law in Wolfram Language for the Governance of Artificial Intelligence",
+      "type": "news",
+      "summary": "arXiv:2608.13958v1 Announce Type: new Abstract: How do we govern AI systems whose reasoning we cannot fully inspect? Governance does not require understanding a system's reasoning. It requires stat...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13987v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13987v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13987v1",
+      "name": "Nanbeige4.2-3B on Apple Silicon: Fixing Deployment Bugs and Decreasing Looped Transformer Memory Overhead",
+      "type": "news",
+      "summary": "arXiv:2608.13987v1 Announce Type: new Abstract: Nanbeige4.2-3B is a 3B-parameter agentic model built around a Looped Transformer (LT) that reuses one stack of layers for a second forward pass, addi...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13990v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13990v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13990v1",
+      "name": "Content Depth Matters in Short-Video Recommendation: Rethinking the Attention Economy",
+      "type": "news",
+      "summary": "arXiv:2608.13990v1 Announce Type: new Abstract: Driven by the attention economy, short-video Recommender Systems (RSs) are primarily optimized to maximize user engagement by promoting videos that c...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-13993v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13993v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-13993v1",
+      "name": "Simulation-Driven Vehicular Traffic Data Augmentation: Extending Sensor Coverage Through Virtual Sensing",
+      "type": "news",
+      "summary": "arXiv:2608.13993v1 Announce Type: new Abstract: Urban traffic management relies on sensor networks whose spatial coverage is limited by deployment costs and privacy regulations. Machine learning mo...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14011v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14011v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14011v1",
+      "name": "EchoRec: Multi-Item Prediction-Empowered Generative Recommendation via Cycle-Consistent Preference Alignment",
+      "type": "news",
+      "summary": "arXiv:2608.14011v1 Announce Type: cross Abstract: Generative recommendation autoregressively generates the semantic IDs of the target item, unifying preference modeling and index retrieval within t...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14014v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14014v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14014v1",
+      "name": "Buy the Rumor, Sell the News: When Is News Priced In?",
+      "type": "news",
+      "summary": "arXiv:2608.14014v1 Announce Type: new Abstract: Two old market sayings hold that news is already priced in by the time it is published, and that the rumor is bought while the news is sold. Both pla...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14015v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14015v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14015v1",
+      "name": "MedClaw: Heuristic Agent Harness for Long-Horizon Surgical Video Reasoning",
+      "type": "news",
+      "summary": "arXiv:2608.14015v1 Announce Type: cross Abstract: Understanding tens-of-minutes surgical videos requires long-horizon temporal reasoning, answering what happens before, after, or across stages of a...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14016v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14016v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14016v1",
+      "name": "Content Based Video Narration of Gameplay with Vision Language Models",
+      "type": "news",
+      "summary": "arXiv:2608.14016v1 Announce Type: cross Abstract: Live game commentary is scarce: it exists for professional esports broadcasts and almost nowhere else. We present a content-based video narration s...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14021v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14021v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14021v1",
+      "name": "Residual Dominance as a Structural Account of Last-Item Reliance in Causal Self-Attention Recommenders",
+      "type": "news",
+      "summary": "arXiv:2608.14021v1 Announce Type: new Abstract: Transformer-based sequential recommenders with causal self-attention often rely heavily on the most recent interaction at inference time, but how thi...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14022v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14022v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14022v1",
+      "name": "ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models",
+      "type": "news",
+      "summary": "arXiv:2608.14022v1 Announce Type: cross Abstract: Action-conditioned video world models require low-latency causal generation and reliable responses to game-native controls. Although causal distill...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14028v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14028v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14028v1",
+      "name": "AdvDex: Learning Dexterous Manipulation from Human Demonstrations via Joint-Aligned Actions and Adversarial Learning",
+      "type": "news",
+      "summary": "arXiv:2608.14028v1 Announce Type: cross Abstract: Dexterous manipulation is a fundamental capability for embodied intelligence, but scaling it remains difficult because robot demonstrations are exp...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14032v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14032v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14032v1",
+      "name": "HAM-RAG: Hierarchy-Aware Multimodal RAG for Structure-Faithful Interleaved Generation",
+      "type": "news",
+      "summary": "arXiv:2608.14032v1 Announce Type: cross Abstract: Existing multimodal RAG methods often flatten structured documents into isolated text and image units, weakening the source organization and local...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14035v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14035v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14035v1",
+      "name": "Agent-Orchestration in Autonomous Chip Design",
+      "type": "news",
+      "summary": "arXiv:2608.14035v1 Announce Type: new Abstract: Recent developments in large language models (LLMs) and tool-using agents encourage people to explore the potential of using agents in chip design. T...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14036v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14036v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14036v1",
+      "name": "Demystifying Agent Skills: Why They Work-Until They Don't",
+      "type": "news",
+      "summary": "arXiv:2608.14036v1 Announce Type: new Abstract: Skills have emerged as a practical and effective approach for enhancing LLM agents at inference time through structured packages of knowledge. Howeve...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14047v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14047v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14047v1",
+      "name": "Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use",
+      "type": "news",
+      "summary": "arXiv:2608.14047v1 Announce Type: cross Abstract: This paper integrates end-to-end Visual-Language-Action (VLA) models with agentic tool-use to propose Agentic Robot with Tool-use (ART). ART is a t...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14058v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14058v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14058v1",
+      "name": "Voxel-based 3D Facies Segmentation from Seismic Data: A Comparative Study",
+      "type": "news",
+      "summary": "arXiv:2608.14058v1 Announce Type: cross Abstract: Seismic facies segmentation has emerged as a significant challenge in geophysics, requiring robust methods and systems to effectively identify geol...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14063v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14063v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14063v1",
+      "name": "Benchmarking data-driven material models on the classic Treloar dataset",
+      "type": "news",
+      "summary": "arXiv:2608.14063v1 Announce Type: new Abstract: Machine learning is rapidly reshaping constitutive modeling, offers new ways to learn material behavior directly from experimental data, and challeng...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14065v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14065v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14065v1",
+      "name": "Rethinking Automated Program Repair: The Impact of Bug Complexity, Fault Localization, and LLM Cost-efficiency",
+      "type": "news",
+      "summary": "arXiv:2608.14065v1 Announce Type: cross Abstract: Background: Software bugs remain a critical challenge in development, necessitating effective Automated Program Repair (APR) techniques. While Larg...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14068v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14068v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14068v1",
+      "name": "MACS: A Hybrid Multi-Agent Framework for Reliable Conversational E-Commerce Recommendation",
+      "type": "news",
+      "summary": "arXiv:2608.14068v1 Announce Type: cross Abstract: Conversational recommendation for e-commerce is increasingly mediated by large language models (LLMs), yet many real-world deployments operate unde...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14071v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14071v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14071v1",
+      "name": "Scaling Domain Data Repetition in LLM Pretraining",
+      "type": "news",
+      "summary": "arXiv:2608.14071v1 Announce Type: new Abstract: As large language models scale, their training-token budgets must also increase to maintain an appropriate tokens-per-parameter ratio (\\(\\mathrm{TPP}...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14074v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14074v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14074v1",
+      "name": "Mandato: Protocol-Level Enforcement of Digitally Signed Mandates on AI Agent Actions with Cryptographically Chained Audit Trails",
+      "type": "news",
+      "summary": "arXiv:2608.14074v1 Announce Type: new Abstract: AI agents increasingly act on external systems through standardized tool-calling protocols such as the Model Context Protocol (MCP), yet no infrastru...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14075v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14075v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14075v1",
+      "name": "A Pathway to General-Purpose Scientific AI: Multimodal Comprehension of Scientific Images",
+      "type": "news",
+      "summary": "arXiv:2608.14075v1 Announce Type: new Abstract: Scientific figures and tables encode essential experimental evidence, yet remain difficult for digital libraries and multimodal AI systems to retriev...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14076v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14076v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14076v1",
+      "name": "Reaction-Transformation-Aware Flow Matching for Generalizable Transition State Generation",
+      "type": "news",
+      "summary": "arXiv:2608.14076v1 Announce Type: cross Abstract: Transition-state (TS) structures define the energetic barriers and mechanistic pathways of elementary chemical reactions, yet their identification...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14089v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14089v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14089v1",
+      "name": "Regime-Conditional Verification: Correctness Estimation for Adapting and Monitoring Safety Classifiers",
+      "type": "news",
+      "summary": "arXiv:2608.14089v1 Announce Type: new Abstract: Safety classifiers deployed with large language models often fail for two reasons: their decisions reflect the policy learned during training rather...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14094v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14094v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14094v1",
+      "name": "P2Skill: Privacy Preserving Skill Distillation for Cloud-Local LLM Inference Systems",
+      "type": "news",
+      "summary": "arXiv:2608.14094v1 Announce Type: cross Abstract: Cloud-local LLM inference systems have the potential to use the reasoning capability of large cloud models while protecting sensitive user data on...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14104v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14104v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14104v1",
+      "name": "Rewrite Once, Validate Anywhere: Producing OWL-Aware SHACL Constraints (Extended Version)",
+      "type": "news",
+      "summary": "arXiv:2608.14104v1 Announce Type: cross Abstract: The Shapes Constraint Language (SHACL) is a W3C recommendation to express syntactic constraints, called shapes, on RDF graphs. SHACL validators are...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14106v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14106v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14106v1",
+      "name": "Forecast Collapse in Time-Series Foundation Models",
+      "type": "news",
+      "summary": "arXiv:2608.14106v1 Announce Type: cross Abstract: When forecasting hourly returns for 1,000 US equities, we observe an unexpected phenomenon: predictions become nearly flat and show poor stock rank...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14107v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14107v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14107v1",
+      "name": "Retrieval Grounding Latent Reasoning for Dense Retrieval",
+      "type": "news",
+      "summary": "arXiv:2608.14107v1 Announce Type: new Abstract: Reasoning-intensive retrieval requires text representations to capture not only semantic similarity, but also the reasoning needed to determine relev...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14109v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14109v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14109v1",
+      "name": "A Graph-Based Reinforcement Learning Framework for Structured Drift Diagnosis and Recovery in Autonomous LLM Agents",
+      "type": "news",
+      "summary": "arXiv:2608.14109v1 Announce Type: new Abstract: Autonomous LLM agents are increasingly deployed in complex real-world workflows, yet they remain vulnerable to runtime behavioral drift, a silent dev...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14112v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14112v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14112v1",
+      "name": "Fixed-Budget Gaussian Volume Encoding with Structure-Aware Allocation",
+      "type": "news",
+      "summary": "arXiv:2608.14112v1 Announce Type: cross Abstract: Scientific simulations often produce scalar volumes faster than they can be stored, transferred, and loaded, while in situ reduction must use only...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14120v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14120v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14120v1",
+      "name": "From Fixed Grids to Moving Particles:A Transferable Latent Operator for Fluid Dynamics",
+      "type": "news",
+      "summary": "arXiv:2608.14120v1 Announce Type: cross Abstract: Lagrangian modeling is vital to fluid dynamics, as it characterizes particle transport and complements the Eulerian description.However, Lagrangian...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14121v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14121v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14121v1",
+      "name": "Overcoming Shortcut Learning in Graph Neural Networks through Active Explanation Guidance",
+      "type": "news",
+      "summary": "arXiv:2608.14121v1 Announce Type: cross Abstract: Graph Neural Networks (GNNs) can solve prediction tasks by unintentionally exploiting shortcuts---that is, edges, nodes, and features that correlat...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14122v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14122v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14122v1",
+      "name": "Reinforcement Learning-Based Production Scheduling in an Industry-Based Coating Scenario Using the Digital Model Playground",
+      "type": "news",
+      "summary": "arXiv:2608.14122v1 Announce Type: new Abstract: Production scheduling in complex manufacturing environments is challenging when sequence-dependent setup times, stochastic disturbances, and due-date...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14125v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14125v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14125v1",
+      "name": "Traj-LeWM: Path-Aware World-Model Planning via Latent Trajectory Cost",
+      "type": "news",
+      "summary": "arXiv:2608.14125v1 Announce Type: new Abstract: LeWM is a lightweight visual world model that learns latent dynamics end-to-end from pixels and ranks candidate action sequences by the distance betw...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14126v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14126v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14126v1",
+      "name": "BGA: A noise-immune neural distillation framework for malicious signature extraction in high-entropy encrypted flows",
+      "type": "news",
+      "summary": "arXiv:2608.14126v1 Announce Type: cross Abstract: To mitigate attention dilution in high-entropy TLS 1.3 flows, we propose BGA, a noise-immune neural distillation framework for encrypted threat int...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14130v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14130v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14130v1",
+      "name": "AlignFace: Human-Aligned Face Similarity Metric with Interpretable Concept Relations",
+      "type": "news",
+      "summary": "arXiv:2608.14130v1 Announce Type: cross Abstract: Computer vision models for generated facial content, such as face editing and privacy protection, increasingly affect people, requiring similarity...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14132v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14132v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14132v1",
+      "name": "Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions",
+      "type": "news",
+      "summary": "arXiv:2608.14132v1 Announce Type: cross Abstract: Mobile GUI Agents powered by multimodal large language models (MLLMs) show promise in human-computer intelligence. However, current research primar...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14136v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14136v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14136v1",
+      "name": "HiCo-GS: Hierarchical Context Aggregation and Geometric Consistency for Octree Gaussian Splatting",
+      "type": "news",
+      "summary": "arXiv:2608.14136v1 Announce Type: cross Abstract: Octree-based anchor Gaussian Splatting has emerged as a scalable representation for city-scale novel view synthesis, where multi-level anchors adap...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14138v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14138v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14138v1",
+      "name": "SPARGen: Unifying Spatial Perception and Reasoning through Native Multimodal Generation",
+      "type": "news",
+      "summary": "arXiv:2608.14138v1 Announce Type: cross Abstract: Spatial perception and reasoning from visual observations require recovering geometric structure, establishing correspondences, and understanding s...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14144v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14144v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14144v1",
+      "name": "Self-Supervised Visual On-Policy Distillation",
+      "type": "news",
+      "summary": "arXiv:2608.14144v1 Announce Type: cross Abstract: Visual on-policy distillation relies heavily on an informative teacher-student asymmetry, through either a larger, stronger teacher or privileged s...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14149v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14149v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14149v1",
+      "name": "QuaSAR: Quantization Compensation via Stable Activation-Aware Rank Truncation",
+      "type": "news",
+      "summary": "arXiv:2608.14149v1 Announce Type: new Abstract: Recent training-free post-training quantization methods restore model accuracy through closed-form residual compensation. To constrain additional mod...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14152v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14152v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14152v1",
+      "name": "Towards Efficient Multimodal and Multilingual Opinion Extraction for STI: A QLoRA-Based Fine-Tuning Approach",
+      "type": "news",
+      "summary": "arXiv:2608.14152v1 Announce Type: new Abstract: Recent advances in large language models (LLMs) have reshaped semantic analysis. Opinion Extraction (OE) for Science and Technology Intelligence (STI...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14157v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14157v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14157v1",
+      "name": "Removing Temporal Note Redundancy Improves Multimodal Reinforcement Learning for Medicine",
+      "type": "news",
+      "summary": "arXiv:2608.14157v1 Announce Type: new Abstract: Mechanical ventilation is a critical life-support intervention, requiring dynamic adjustments to ventilator settings as a patient's condition evolves...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14161v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14161v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14161v1",
+      "name": "BiasTrace: Linking Reasoning Behaviours to Biased Outputs in LLMs",
+      "type": "news",
+      "summary": "arXiv:2608.14161v1 Announce Type: new Abstract: LLMs exhibit social biases that can produce inaccurate and discriminatory inferences, posing risks in high-stakes applications. While prior work has...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14172v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14172v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14172v1",
+      "name": "Concept Guidance: Precise, Training-Free Latent Control for Text-to-Image Generation",
+      "type": "news",
+      "summary": "arXiv:2608.14172v1 Announce Type: cross Abstract: Text-to-image diffusion models have two major drawbacks that severely limit their practical utility: (1) standard models lack an intrinsic mechanis...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14177v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14177v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14177v1",
+      "name": "Structure-Guided Spatiotemporal Attention Graph Neural Network for Traffic Flow Prediction",
+      "type": "news",
+      "summary": "arXiv:2608.14177v1 Announce Type: cross Abstract: Deep spatiotemporal models integrating graph convolutions and attention mechanisms have demonstrated excellent performance in network-level traffic...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14179v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14179v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14179v1",
+      "name": "Can Language Models Understand mmWave Data? Benchmarking Large Language Models for mmWave Radar-Based Human Understanding",
+      "type": "news",
+      "summary": "arXiv:2608.14179v1 Announce Type: new Abstract: Large language models (LLMs) have shown remarkable reasoning and generative capabilities, motivating their use as universal reasoning engines for per...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14205v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14205v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14205v1",
+      "name": "FreeBalance: Pre-Routing Online Moe Load Balancing via Residual Workload Prediction",
+      "type": "news",
+      "summary": "arXiv:2608.14205v1 Announce Type: new Abstract: Load imbalance poses a major bottleneck to the efficiency of expert parallelism in distributed inference of Mixture-of-Experts (MoE) models. The most...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14210v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14210v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14210v1",
+      "name": "How Much Do Legal RAG Systems Still Hallucinate?",
+      "type": "news",
+      "summary": "arXiv:2608.14210v1 Announce Type: cross Abstract: Hallucination is a major challenge for retrieval-augmented generation (RAG) systems in the legal domain, where ungrounded answers can lead to serio...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14211v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14211v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14211v1",
+      "name": "Training Fair Tabular Foundation Models",
+      "type": "news",
+      "summary": "arXiv:2608.14211v1 Announce Type: cross Abstract: Tabular Foundation Models (TFMs) have emerged as leading methods for tabular predictive tasks, leveraging in-context learning to predict on new dat...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14212v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14212v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14212v1",
+      "name": "APTER: Adaptive Post-Training with Expert-Grounded Rubrics",
+      "type": "news",
+      "summary": "arXiv:2608.14212v1 Announce Type: new Abstract: As large language models enter professional domains, they must satisfy domain constraints, include critical evidence, and provide complete reasoning...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14220v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14220v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14220v1",
+      "name": "A Generalized Parallelogram Rule for Proportional Analogies on Riemannian Manifolds",
+      "type": "news",
+      "summary": "arXiv:2608.14220v1 Announce Type: new Abstract: Analogies are quaternary relations of the form \"a is to b as c is to d\", usually denoted a : b :: c : d. This notion is formalized in particular with...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14221v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14221v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14221v1",
+      "name": "MathForm: Scaling Mathematical Autoformalization with Knowledge Retrieval and Verification-Guided Refinement",
+      "type": "news",
+      "summary": "arXiv:2608.14221v1 Announce Type: new Abstract: Autoformalization is commonly framed as translating natural-language mathematical statements into machine-verifiable formal languages such as Lean 4....",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14227v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14227v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14227v1",
+      "name": "Attributing Preprocessing Invariance in Spectral Foundation Models",
+      "type": "news",
+      "summary": "arXiv:2608.14227v1 Announce Type: new Abstract: Preprocessing invariance is an appealing goal for spectral foundation models: a frozen model should remain useful when laboratories preprocess spectr...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14246v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14246v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14246v1",
+      "name": "Polaris : Multi Agentic System for Conversational Enterprise Analytics",
+      "type": "news",
+      "summary": "arXiv:2608.14246v1 Announce Type: new Abstract: In today's fast-paced environment, the ability to swiftly access, understand, and act on data is no longer optional; it is essential. Yet most organi...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14252v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14252v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14252v1",
+      "name": "Grounding Without Corrective Control: Truth-Tracking Profiles for Large Language Models",
+      "type": "news",
+      "summary": "arXiv:2608.14252v1 Announce Type: new Abstract: Recent work suggests that some large language model representations have content or reference. Grounding can secure either without supplying live rou...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14254v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14254v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14254v1",
+      "name": "Meteorology-driven Causal Nowcasting of Fugitive Landfill Emissions Enables Proactive Public Health Response",
+      "type": "news",
+      "summary": "arXiv:2608.14254v1 Announce Type: cross Abstract: Fugitive emissions from waste sites increasingly expose communities to toxic and odorous gases, yet public-health responses remain largely retrospe...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14264v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14264v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14264v1",
+      "name": "Multi-Objective Bayesian Optimization for Model Merging",
+      "type": "news",
+      "summary": "arXiv:2608.14264v1 Announce Type: cross Abstract: Model merging combines trained models directly in weight space, offering a compute-efficient alternative to additional fine-tuning. Selecting merge...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14270v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14270v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14270v1",
+      "name": "TimeSage-EV: A Live Benchmark for Agentic Time Series Analysis in Evolving Environments",
+      "type": "news",
+      "summary": "arXiv:2608.14270v1 Announce Type: new Abstract: Time series analysis in high-stakes domains relies on recurring data releases, where new observations can alter the evidence base and the validity of...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14277v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14277v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14277v1",
+      "name": "SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Reasoning",
+      "type": "news",
+      "summary": "arXiv:2608.14277v1 Announce Type: cross Abstract: On-policy distillation (OPD) offers a promising way to transfer reasoning capabilities from stronger teacher models, but applying it to long-contex...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14286v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14286v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14286v1",
+      "name": "Seeing Red, Thinking Bad: Color Bias in Vision Language Models",
+      "type": "news",
+      "summary": "arXiv:2608.14286v1 Announce Type: cross Abstract: Vision language models (VLMs) are increasingly used in industrial decision-making systems, such as recruitment support and recommendation. This mot...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14287v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14287v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14287v1",
+      "name": "Acoustic UAV Detection in Battlefield Scenarios: Handling Noise, Domain Shift, and Weak Labels",
+      "type": "news",
+      "summary": "arXiv:2608.14287v1 Announce Type: cross Abstract: Passive acoustic sensing offers a critical, cost-efficient, and, crucially, passive alternative for detecting small unmanned aerial vehicles. Howev...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14290v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14290v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14290v1",
+      "name": "Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning",
+      "type": "news",
+      "summary": "arXiv:2608.14290v1 Announce Type: new Abstract: We introduce Mobius-v0, an architecture that comprises a globally shared Memory (FFN) that stores knowledge vectors and multiple Reasoners (Self-Attn...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14306v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14306v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14306v1",
+      "name": "Sensor-Driven Mission Synthesis for UAV/UGV Swarms: A TB-CSPN Coordination Architecture with Hardware-Enforced Safety",
+      "type": "news",
+      "summary": "arXiv:2608.14306v1 Announce Type: new Abstract: This paper presents a coordination architecture for heterogeneous UAV/UGV swarms that synthesises mission actions from uncertain, multi-modal sensor...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14317v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14317v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14317v1",
+      "name": "Intelligent Detection of Mechanical, Electrical, and Plumbing (MEP) Metrics Based on 2D Floor Plans",
+      "type": "news",
+      "summary": "arXiv:2608.14317v1 Announce Type: cross Abstract: This research developed a neural network-based model to extract various information from 2D floor plans. We detect lighting symbols, identify the a...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14320v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14320v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14320v1",
+      "name": "AnchorBench: A Multi-Pathway Benchmark for the Anchoring Effect in LLMs",
+      "type": "news",
+      "summary": "arXiv:2608.14320v1 Announce Type: new Abstract: The anchoring effect is a cognitive bias in which an initial reference value shifts a later judgment toward itself. This effect is well established i...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14329v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14329v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14329v1",
+      "name": "A Four-Axis Trustworthiness Benchmark for LLM-as-Judge in Principle-Based Regulation",
+      "type": "news",
+      "summary": "arXiv:2608.14329v1 Announce Type: cross Abstract: Principle-based regulation, with evaluative standards such as \"fair, clear, and not misleading\" or \"deliver good outcomes\", cannot be reduced to bi...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14330v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14330v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14330v1",
+      "name": "Program-space Diffusion for Morphology-to-Transcriptomics Prediction",
+      "type": "news",
+      "summary": "arXiv:2608.14330v1 Announce Type: new Abstract: Spatial transcriptomics (ST) enables genome-wide gene expression profiling while preserving tissue architecture, but its cost and limited scalability...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14339v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14339v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14339v1",
+      "name": "Clearing the Fog: Towards Installing and Refining Proactive Exploration Capabilities in LLM Agents",
+      "type": "news",
+      "summary": "arXiv:2608.14339v1 Announce Type: new Abstract: We study proactive exploration in LLM agents, i.e., the ability to explore an environment to acquire information that improves future decision-making...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14354v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14354v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14354v1",
+      "name": "ScienceFlow: A long-horizon agent for ML research, scientific discovery and beyond",
+      "type": "news",
+      "summary": "arXiv:2608.14354v1 Announce Type: new Abstract: Enabling LLM agents to sustain productive, stable, and goal-aligned research over extended horizons is a central challenge for autonomous machine lea...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14355v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14355v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14355v1",
+      "name": "Disentangled Shared Representations Improve Morpho-Transcriptomic Integration",
+      "type": "news",
+      "summary": "arXiv:2608.14355v1 Announce Type: new Abstract: Spatial transcriptomics (ST) enables the simultaneous profiling of gene expression and tissue morphology, creating an opportunity to learn multimodal...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14359v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14359v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14359v1",
+      "name": "Designing Sustainable Federated Learning as a Service using Neural Architecture Search",
+      "type": "news",
+      "summary": "arXiv:2608.14359v1 Announce Type: new Abstract: The sustainability constraints of FLaaS consumers pose significant challenges to maintaining carbon-feasible federated training in FLaaS environments...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14367v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14367v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14367v1",
+      "name": "Mind the Long Tail: Understanding the Difficulty of Delay Detection in Business Processes",
+      "type": "news",
+      "summary": "arXiv:2608.14367v1 Announce Type: cross Abstract: The early detection of delayed cases in business processes is a critical capability for organizations. Predictive process monitoring (PPM) supports...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14370v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14370v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14370v1",
+      "name": "A Hybrid LLM-Based Framework for Automated Security Annotation Generation in Business Process Models",
+      "type": "news",
+      "summary": "arXiv:2608.14370v1 Announce Type: cross Abstract: The modelling and analysis of secure business processes require the incorporation of security annotations into process models. Although BPMN extens...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14375v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14375v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14375v1",
+      "name": "Wrong but Useful: Trajectory Value Beyond Answer Correctness in Multi-Agent Messages",
+      "type": "news",
+      "summary": "arXiv:2608.14375v1 Announce Type: new Abstract: Multi-agent reasoning systems often use agreement, confidence, or automated scores to decide which messages should shape a final answer. Such filteri...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14379v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14379v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14379v1",
+      "name": "Reflex: Enabling Fast and Predictive Vision-Language-Action Models for Reaction-Critical Manipulation",
+      "type": "news",
+      "summary": "arXiv:2608.14379v1 Announce Type: cross Abstract: Vision-Language-Action (VLA) models have recently achieved promising performance in robotic manipulation. However, existing benchmarks mainly evalu...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14380v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14380v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14380v1",
+      "name": "AgentRewind: Recoverable Execution for Long-Horizon LLM Agents",
+      "type": "news",
+      "summary": "arXiv:2608.14380v1 Announce Type: new Abstract: Many real-world tasks require LLM agents to interact with their environments over long execution horizons. Errors that occur early in execution may p...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14385v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14385v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14385v1",
+      "name": "DeaMoE: Efficient MoE Structure for Fast Small-Batch Decoding",
+      "type": "news",
+      "summary": "arXiv:2608.14385v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) models have been widely adopted in real-time interactive applications such as coding assistants, real-time audio-video int...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14389v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14389v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14389v1",
+      "name": "GBU-Palm: A Multimodal Video Dataset and Benchmark for Palm Presentation Attack Detection",
+      "type": "news",
+      "summary": "arXiv:2608.14389v1 Announce Type: cross Abstract: Existing palm presentation attack detection (PAD) datasets are often limited by static imagery, restricted acquisition conditions, or insufficient...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14391v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14391v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14391v1",
+      "name": "Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination",
+      "type": "news",
+      "summary": "arXiv:2608.14391v1 Announce Type: cross Abstract: Recent video generators can fabricate realistic depictions of wars, disasters, public emergencies, and other real-world crises, creating substantia...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14392v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14392v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14392v1",
+      "name": "Tripwire: Triggering Aligned Refusal via Statistically Certified Safety Neurons",
+      "type": "news",
+      "summary": "arXiv:2608.14392v1 Announce Type: new Abstract: Neuron- and path-level interventions offer the finest-grained route to defending large language models (LLMs) against jailbreak attacks, yet existing...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14396v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14396v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14396v1",
+      "name": "AI-Assisted Discovery and Construction of a Counterexample to the Convergence of Three-Block ADMM with the Identity Matrix as its Third Constraint Block",
+      "type": "news",
+      "summary": "arXiv:2608.14396v1 Announce Type: cross Abstract: The alternating direction method of multipliers (ADMM), as a landmark algorithm, has attracted tremendous research attention and extensive practica...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14397v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14397v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14397v1",
+      "name": "LLMs Don't Pay for the Jump",
+      "type": "news",
+      "summary": "arXiv:2608.14397v1 Announce Type: new Abstract: Zahavy [2026] argues that Large Language Models, despite their capabilities in induction and deduction, cannot perform the abductive \"Jump\" that prod...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14399v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14399v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14399v1",
+      "name": "Whose doctor does the AI recommend? An algorithm audit of reputation and demographic signals in large language model-assisted physician choice",
+      "type": "news",
+      "summary": "arXiv:2608.14399v1 Announce Type: cross Abstract: Patients increasingly ask large language model (LLM) assistants which doctor to see, making these systems AI infomediaries: algorithms that interme...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14405v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14405v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14405v1",
+      "name": "From Style Replication to Style Exploration: Enabling Art Style Exploration with Analyze-Experiment-Resituate Framework",
+      "type": "news",
+      "summary": "arXiv:2608.14405v1 Announce Type: cross Abstract: Art style is a signature of professional digital artists that develops through repeated experimentation, reflection, and adaptation. While generati...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14407v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14407v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14407v1",
+      "name": "The Past and Future of AI Scientists",
+      "type": "news",
+      "summary": "arXiv:2608.14407v1 Announce Type: new Abstract: We present a survey of the past and future of AI Scientists: machines capable of automating science. AI Scientists can originate hypotheses, deduce t...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14425v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14425v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14425v1",
+      "name": "Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations",
+      "type": "news",
+      "summary": "arXiv:2608.14425v1 Announce Type: new Abstract: LLM evaluations often use fixed sampling budgets, testing every item the same number of times even after estimates are precise. We introduce optstop,...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14426v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14426v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14426v1",
+      "name": "The Dynamics of Intelligence Explosions",
+      "type": "news",
+      "summary": "arXiv:2608.14426v1 Announce Type: new Abstract: AI is increasingly being used to help with AI R&amp;D. Under certain conditions this feedback loop might be able to produce an intelligence explosion...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14441v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14441v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14441v1",
+      "name": "PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments",
+      "type": "news",
+      "summary": "arXiv:2608.14441v1 Announce Type: new Abstract: Self-evolving agents improve future behavior from interaction experience, yet existing evaluations typically optimize under fixed execution condition...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14443v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14443v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14443v1",
+      "name": "Designing Compact Neural Architectures via Neuron Gating and Mixed Activation",
+      "type": "news",
+      "summary": "arXiv:2608.14443v1 Announce Type: cross Abstract: Neural Architecture Search (NAS) is naturally formulated as a bilevel optimization problem, where the upper-level optimizes the architecture using...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14446v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14446v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14446v1",
+      "name": "Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports",
+      "type": "news",
+      "summary": "arXiv:2608.14446v1 Announce Type: new Abstract: In the current artificial intelligence-driven innovation era, the pace of knowledge growth is accelerating, and is hard to keep up with. While genera...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14452v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14452v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14452v1",
+      "name": "SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning",
+      "type": "news",
+      "summary": "arXiv:2608.14452v1 Announce Type: new Abstract: Spreadsheets are widely used to organize, analyze, and manipulate semi-structured data, yet automated spreadsheet reasoning remains challenging for l...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14456v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14456v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14456v1",
+      "name": "Shift Aware Transfer Learning with Adaptive Dual-Encoder Fusion for PM Forecasting in Data-Limited Environments",
+      "type": "news",
+      "summary": "arXiv:2608.14456v1 Announce Type: new Abstract: Short-horizon forecasting of fine particulate matter (PM2.5) remains difficult when observations from the target domain are limited and the statistic...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14472v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14472v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14472v1",
+      "name": "LP-NAS: Linear Programming-based Neural Architecture Search",
+      "type": "news",
+      "summary": "arXiv:2608.14472v1 Announce Type: cross Abstract: Neural Architecture Search (NAS) aims to automate neural network architecture design, reducing reliance on human expertise. Among the various NAS m...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14481v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14481v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14481v1",
+      "name": "Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes",
+      "type": "news",
+      "summary": "arXiv:2608.14481v1 Announce Type: cross Abstract: As heterogeneous robotic systems deploy across diverse urban zones, maintaining safety amid complex human-robot interactions remains a critical cha...",
+      "tags": [
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "arxiv-cs-ai-oai-arxiv-org-2608-14490v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14490v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14490v1",
       "name": "Twin: Playing an Unknown Game with a Test-Time Digital Twin",
-      "type": "paper",
-      "summary": "We present a Test-time World-model Inference (Twin) system, in which a frontier coding agent writes an executable world model for completing continual learning tasks, such as ARC-AGI-3 games. Tradi...",
+      "type": "news",
+      "summary": "arXiv:2608.14490v1 Announce Type: new Abstract: We present a Test-time World-model Inference (Twin) system, in which a frontier coding agent writes an executable world model for completing continua...",
       "tags": [
-        "arxiv",
-        "cs.AI"
+        "news",
+        "arxiv-cs-ai"
       ]
     },
-    "2608-14491": {
-      "slug": "2608-14491",
-      "typedId": "paper/2608-14491",
+    "arxiv-cs-ai-oai-arxiv-org-2608-14491v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14491v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14491v1",
       "name": "Optimal Scheduling of Road Maintenance Jobs Considering Impact on Traffic Flows",
-      "type": "paper",
-      "summary": "Network-level maintenance planning requires repeated evaluations of equilibrium traffic flows under road capacity reductions. While equilibrium traffic assignment models are well established, their...",
+      "type": "news",
+      "summary": "arXiv:2608.14491v1 Announce Type: cross Abstract: Network-level maintenance planning requires repeated evaluations of equilibrium traffic flows under road capacity reductions. While equilibrium tra...",
       "tags": [
-        "arxiv",
-        "eess.SY"
+        "news",
+        "arxiv-cs-ai"
       ]
     },
-    "2608-14496": {
-      "slug": "2608-14496",
-      "typedId": "paper/2608-14496",
+    "arxiv-cs-ai-oai-arxiv-org-2608-14496v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14496v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14496v1",
       "name": "Generating Benchmark Health Data Using a Tabular Diffusion Transformer",
-      "type": "paper",
-      "summary": "Cross-Tabular Data Generation (CTDG) seeks to learn a generative model from multiple heterogeneous tables and produce new synthetic tabular datasets. However, existing synthetic tabular data genera...",
+      "type": "news",
+      "summary": "arXiv:2608.14496v1 Announce Type: cross Abstract: Cross-Tabular Data Generation (CTDG) seeks to learn a generative model from multiple heterogeneous tables and produce new synthetic tabular dataset...",
       "tags": [
-        "arxiv",
-        "cs.LG"
+        "news",
+        "arxiv-cs-ai"
       ]
     },
-    "2608-14502": {
-      "slug": "2608-14502",
-      "typedId": "paper/2608-14502",
+    "arxiv-cs-ai-oai-arxiv-org-2608-14502v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14502v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14502v1",
       "name": "Universal Thermodynamic Interatomic Potentials for Crystalline Materials",
-      "type": "paper",
-      "summary": "Free energies govern solid-state phase stability, yet computational materials discovery still relies largely on ground-state energies because free energy calculations require ensemble averages. We...",
+      "type": "news",
+      "summary": "arXiv:2608.14502v1 Announce Type: cross Abstract: Free energies govern solid-state phase stability, yet computational materials discovery still relies largely on ground-state energies because free...",
       "tags": [
-        "arxiv",
-        "cond-mat.mtrl-sci"
+        "news",
+        "arxiv-cs-ai"
       ]
     },
-    "2608-14505": {
-      "slug": "2608-14505",
-      "typedId": "paper/2608-14505",
+    "arxiv-cs-ai-oai-arxiv-org-2608-14505v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14505v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14505v1",
       "name": "RecipeNet: A Hierarchical Transformer for Recipe Data",
-      "type": "paper",
-      "summary": "Recipe data arises in domains such as materials synthesis, pharmaceutical formulation, and industrial manufacturing, where procedures are represented as ordered sequences of steps containing hetero...",
+      "type": "news",
+      "summary": "arXiv:2608.14505v1 Announce Type: cross Abstract: Recipe data arises in domains such as materials synthesis, pharmaceutical formulation, and industrial manufacturing, where procedures are represent...",
       "tags": [
-        "arxiv",
-        "cs.LG"
+        "news",
+        "arxiv-cs-ai"
       ]
     },
-    "2608-14509": {
-      "slug": "2608-14509",
-      "typedId": "paper/2608-14509",
+    "arxiv-cs-ai-oai-arxiv-org-2608-14509v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14509v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14509v1",
       "name": "Split the Labor: Separating Evidence Interpretation from Decision Aggregation",
-      "type": "paper",
-      "summary": "Systems that ask a language model to reach a conclusion from many sources usually concatenate them into one prompt. This conflates two operations with different requirements. Interpreting a source...",
+      "type": "news",
+      "summary": "arXiv:2608.14509v1 Announce Type: new Abstract: Systems that ask a language model to reach a conclusion from many sources usually concatenate them into one prompt. This conflates two operations wit...",
       "tags": [
-        "arxiv",
-        "cs.AI"
+        "news",
+        "arxiv-cs-ai"
       ]
     },
-    "2608-14511": {
-      "slug": "2608-14511",
-      "typedId": "paper/2608-14511",
+    "arxiv-cs-ai-oai-arxiv-org-2608-14511v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14511v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14511v1",
       "name": "Learning-to-Transition for Large-scale and High-Order MIMO Detection",
-      "type": "paper",
-      "summary": "High-order multiple-input multiple-output (MIMO) detection requires efficient search over a large discrete symbol space while producing reliable soft information for channel decoding. This paper de...",
+      "type": "news",
+      "summary": "arXiv:2608.14511v1 Announce Type: cross Abstract: High-order multiple-input multiple-output (MIMO) detection requires efficient search over a large discrete symbol space while producing reliable so...",
       "tags": [
-        "arxiv",
-        "cs.IT"
+        "news",
+        "arxiv-cs-ai"
       ]
     },
-    "2608-14522": {
-      "slug": "2608-14522",
-      "typedId": "paper/2608-14522",
+    "arxiv-cs-ai-oai-arxiv-org-2608-14522v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14522v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14522v1",
       "name": "Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers",
-      "type": "paper",
-      "summary": "As AI systems make more morally loaded decisions across society, one response has been moral preference elicitation. In this approach, researchers poll participants on hypothetical dilemmas and use...",
+      "type": "news",
+      "summary": "arXiv:2608.14522v1 Announce Type: new Abstract: As AI systems make more morally loaded decisions across society, one response has been moral preference elicitation. In this approach, researchers po...",
       "tags": [
-        "arxiv",
-        "cs.AI"
+        "news",
+        "arxiv-cs-ai"
       ]
     },
-    "2608-14528": {
-      "slug": "2608-14528",
-      "typedId": "paper/2608-14528",
+    "arxiv-cs-ai-oai-arxiv-org-2608-14528v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14528v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14528v1",
       "name": "Handover of In-Context Learning State Across Session Boundaries",
-      "type": "paper",
-      "summary": "This study investigates the methodological and theoretical properties of session handover in applications that use large language models. A task may continue in a new session when the context reach...",
+      "type": "news",
+      "summary": "arXiv:2608.14528v1 Announce Type: new Abstract: This study investigates the methodological and theoretical properties of session handover in applications that use large language models. A task may...",
       "tags": [
-        "arxiv",
-        "cs.AI"
+        "news",
+        "arxiv-cs-ai"
       ]
     },
-    "2608-14530": {
-      "slug": "2608-14530",
-      "typedId": "paper/2608-14530",
+    "arxiv-cs-ai-oai-arxiv-org-2608-14530v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14530v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14530v1",
       "name": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
-      "type": "paper",
-      "summary": "Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose, geometry, and occlusion to be implicitly maint...",
+      "type": "news",
+      "summary": "arXiv:2608.14530v1 Announce Type: cross Abstract: Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as po...",
       "tags": [
-        "arxiv",
-        "cs.CV"
+        "news",
+        "arxiv-cs-ai"
       ]
     },
-    "2608-14539": {
-      "slug": "2608-14539",
-      "typedId": "paper/2608-14539",
+    "arxiv-cs-ai-oai-arxiv-org-2608-14539v1": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14539v1",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-14539v1",
       "name": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
-      "type": "paper",
-      "summary": "Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contem...",
+      "type": "news",
+      "summary": "arXiv:2608.14539v1 Announce Type: cross Abstract: Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of g...",
       "tags": [
-        "arxiv",
-        "cs.CV"
+        "news",
+        "arxiv-cs-ai"
+      ]
+    },
+    "google-ai-blog-https-blog-google-products-and-platforms-products-gemini-google-gemini-pixel-football-club-partnerships": {
+      "slug": "google-ai-blog-https-blog-google-products-and-platforms-products-gemini-google-gemini-pixel-football-club-partnerships",
+      "typedId": "news/google-ai-blog-https-blog-google-products-and-platforms-products-gemini-google-gemini-pixel-football-club-partnerships",
+      "name": "Get closer to the game with Gemini and Pixel",
+      "type": "news",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp\"&gt;Google Gemini and Pixel partner with five global footba...",
+      "tags": [
+        "news",
+        "google-ai-blog"
+      ]
+    },
+    "huggingface-blog-https-huggingface-co-blog-dharma-ai-gpu-management-pt2": {
+      "slug": "huggingface-blog-https-huggingface-co-blog-dharma-ai-gpu-management-pt2",
+      "typedId": "news/huggingface-blog-https-huggingface-co-blog-dharma-ai-gpu-management-pt2",
+      "name": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "type": "news",
+      "summary": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "tags": [
+        "news",
+        "huggingface-blog"
+      ]
+    },
+    "mit-news-ai-https-news-mit-edu-2026-qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818": {
+      "slug": "mit-news-ai-https-news-mit-edu-2026-qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
+      "typedId": "news/mit-news-ai-https-news-mit-edu-2026-qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
+      "name": "Q&amp;A: Rethinking how innovation happens",
+      "type": "news",
+      "summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas.",
+      "tags": [
+        "news",
+        "mit-news-ai"
+      ]
+    },
+    "openai-blog-https-openai-com-index-new-policy-ideas-for-the-intelligence-age": {
+      "slug": "openai-blog-https-openai-com-index-new-policy-ideas-for-the-intelligence-age",
+      "typedId": "news/openai-blog-https-openai-com-index-new-policy-ideas-for-the-intelligence-age",
+      "name": "New policy ideas for the Intelligence Age",
+      "type": "news",
+      "summary": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-openai-joins-ports-pike-project": {
+      "slug": "openai-blog-https-openai-com-index-openai-joins-ports-pike-project",
+      "typedId": "news/openai-blog-https-openai-com-index-openai-joins-ports-pike-project",
+      "name": "OpenAI joins PORTS-Pike project",
+      "type": "news",
+      "summary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-the-defenders-window": {
+      "slug": "openai-blog-https-openai-com-index-the-defenders-window",
+      "typedId": "news/openai-blog-https-openai-com-index-the-defenders-window",
+      "name": "The Defender’s Window",
+      "type": "news",
+      "summary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "tags": [
+        "news",
+        "openai-blog"
       ]
     },
     "huggingface-blog-https-huggingface-co-blog-state-of-open-models-summer-2026": {

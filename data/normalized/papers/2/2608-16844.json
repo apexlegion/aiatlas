@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2608-16844",
+  "name": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
+  "summary": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most...",
+  "description": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most existing memory models expose a static memory throughout the entire sequence. Because early tokens face no compression pressure, they occupy too many degrees of freedom and \"pollute\" the memory state, leaving little capacity for later context and increasing interference between what is stored and what arrives next. We study a new paradigm of incremental memory activation, where the effective capa...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.16844v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-17",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2608.16844v1"
+    }
+  ],
+  "authors": [
+    "Reza Bayat",
+    "Ali Behrouz",
+    "Vahab Mirrokni",
+    "Aaron Courville"
+  ],
+  "paperId": "2608.16844",
+  "category": "cs.LG",
+  "publishedAt": "2026-08-17",
+  "abstract": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most existing memory models expose a static memory throughout the entire sequence. Because early tokens face no compression pressure, they occupy too many degrees of freedom and \"pollute\" the memory state, leaving little capacity for later context and increasing interference between what is stored and what arrives next. We study a new paradigm of incremental memory activation, where the effective capa..."
+}

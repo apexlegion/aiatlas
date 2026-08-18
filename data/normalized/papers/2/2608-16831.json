@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2608-16831",
+  "name": "Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning",
+  "summary": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from inst...",
+  "description": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from instructions and demonstrations. Policy Iteration with Human Feedback (PIHF) builds on this development and the recurrent evaluate-and-improve structure of generalized policy iteration. PIHF uses a pretrained language model as its execution substrate and moves persistent revision to a versioned natural-language policy and tool set. A language-model critic and clinical expert review complete-panel reas...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.16831v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-17",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.16831v1"
+    }
+  ],
+  "authors": [
+    "Minh-Ha Nguyen",
+    "Cathy Shyr"
+  ],
+  "paperId": "2608.16831",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-17",
+  "abstract": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from instructions and demonstrations. Policy Iteration with Human Feedback (PIHF) builds on this development and the recurrent evaluate-and-improve structure of generalized policy iteration. PIHF uses a pretrained language model as its execution substrate and moves persistent revision to a versioned natural-language policy and tool set. A language-model critic and clinical expert review complete-panel reas..."
+}

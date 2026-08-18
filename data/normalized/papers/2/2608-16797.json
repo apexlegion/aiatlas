@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2608-16797",
+  "name": "UniDot: A Unified Network for Sequence Modeling and Feature Interaction in Large-scale Recommendation",
+  "summary": "Industrial recommenders rely on two model families that have evolved largely independently: feature-interaction models over multi-field user/item features, and sequential models over user-behavior...",
+  "description": "Industrial recommenders rely on two model families that have evolved largely independently: feature-interaction models over multi-field user/item features, and sequential models over user-behavior histories. Production systems couple them only loosely. To unify the two, we present UniDot, a novel architecture for post-click conversion prediction built from the factorization-machine (FM) point of view: the embedding inner product---which powers collaborative filtering and lets a recommender generalize to unseen user--item pairs---is the same primitive as attention's query dot key scoring, so...",
+  "tags": [
+    "arxiv",
+    "cs.IR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.16797v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-17",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.IR.",
+      "href": "https://arxiv.org/abs/2608.16797v1"
+    }
+  ],
+  "authors": [
+    "Rongcheng Lin",
+    "Yan Sun",
+    "Jamey Zhang",
+    "Guanglei Xiong",
+    "Ivan Ji",
+    "Xianjie Chen",
+    "Shujian Bu"
+  ],
+  "paperId": "2608.16797",
+  "category": "cs.IR",
+  "publishedAt": "2026-08-17",
+  "abstract": "Industrial recommenders rely on two model families that have evolved largely independently: feature-interaction models over multi-field user/item features, and sequential models over user-behavior histories. Production systems couple them only loosely. To unify the two, we present UniDot, a novel architecture for post-click conversion prediction built from the factorization-machine (FM) point of view: the embedding inner product---which powers collaborative filtering and lets a recommender generalize to unseen user--item pairs---is the same primitive as attention's query dot key scoring, so..."
+}

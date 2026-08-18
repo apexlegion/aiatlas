@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-08-17T03:07:09.772Z",
+  "fetchedAt": "2026-08-18T03:02:33.200Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,8 +25,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 1535859,
-    "likes": 8044,
+    "downloads": 1538559,
+    "likes": 8047,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -222,11 +222,13 @@
     "spaces": [
       "shootstuff/flux-img2img-uncensored",
       "yisol/IDM-VTON",
-      "Nymbo/Serverless-ImgGen-Hub",
       "okaris/omni-zero",
+      "Nymbo/Serverless-ImgGen-Hub",
+      "jallenjia/Change-Clothes-AI",
+      "RioShiina/ImageGen",
       "yanze/PuLID-FLUX",
       "YupengZhou/StoryDiffusion",
-      "jallenjia/Change-Clothes-AI",
+      "multimodalart/lora-ease",
       "rupeshs/fastsdcpu",
       "eduagarcia/multilingual-tokenizer-leaderboard",
       "AIgoose/money-printer-studio-v3",
@@ -234,7 +236,6 @@
       "ksalokranjan/SilaI",
       "Dekonstruktio/Flux",
       "baka999/ImageGen",
-      "AstroMash/Flux_Lustly_AI_Uncensored_NSFW_V1",
       "InstantX/InstantID",
       "VAST-AI/TripoSG",
       "lllyasviel/Omost",
@@ -247,7 +248,6 @@
       "Shopify/background-replacement",
       "jasperai/LBM_relighting",
       "radames/Enhance-This-HiDiffusion-SDXL",
-      "multimodalart/lora-ease",
       "hysts/SDXL",
       "fffiloni/InstantIR",
       "tencent/Hunyuan3D-2mv",
@@ -302,7 +302,6 @@
       "artificialguybr/JUGGERNAUT-XL-FREE-DEMO",
       "radames/real-time-pix2pix-turbo",
       "huanngzh/MV-Adapter-T2MV-Anime",
-      "RioShiina/ImageGen",
       "VAST-AI/MV-Adapter-Text2Texture",
       "wangfuyun/Phased-Consistency-Model-PCM",
       "TencentARC/ColorFlow",
@@ -319,7 +318,8 @@
       "tight-inversion/tight-inversion",
       "clinteroni/outpainting-with-differential-diffusion-demo",
       "briaai/BRIA-Eraser-API",
-      "jeasinema/UltraEdit-SD3"
+      "jeasinema/UltraEdit-SD3",
+      "Nymbo/image_gen_supaqueue"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {

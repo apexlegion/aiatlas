@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.14210v1",
+  "fetchedAt": "2026-08-18T03:02:35.196Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.14210v1",
+    "title": "How Much Do Legal RAG Systems Still Hallucinate?",
+    "link": "https://arxiv.org/abs/2608.14210",
+    "description": "arXiv:2608.14210v1 Announce Type: cross Abstract: Hallucination is a major challenge for retrieval-augmented generation (RAG) systems in the legal domain, where ungrounded answers can lead to serious consequences. To better understand this problem, we conduct a fine-grained analysis of hallucination behavior in eight legal RAG systems across two legal corpora, the GDPR (in English) and a national civil law (in French). Using claim-level and answer-level evaluation, we report on hallucination density and severity, analyze performance across question categories and user personas, and validate our findings on an independent set of 142 legal-expert-authored questions. Our results show that hallucinations remain pervasive, ranging from less than 10% of responses for the best-performing systems to nearly half in the worst case. We further find that false-premise questions, containing incorrect assumptions that must be rejected, produce high hallucination rates on the manually-drafted questions.",
+    "publishedAt": "2026-08-17",
+    "author": "Souvick Das, Sallam Abualhaija, Domenico Bianculli",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

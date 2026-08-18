@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.16316v2",
+  "fetchedAt": "2026-08-18T03:02:35.196Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.16316v2",
+    "title": "RL-Index: Reinforcement Learning for Retrieval Index Reasoning",
+    "link": "https://arxiv.org/abs/2606.16316",
+    "description": "arXiv:2606.16316v2 Announce Type: replace-cross Abstract: Retrieving external knowledge is crucial for real-world tasks but remains difficult when queries and relevant knowledge are linked by implicit reasoning (e.g., shared theorems or coding logic). Existing methods rely mainly on query-side reasoning, leading to high online latency and underutilizing the reasoning semantics within the knowledge corpus. In this paper, we propose $\\textbf{RL-Index}$, an indexing framework that formulates retrieval index reasoning as a reinforcement learning problem. Instead of performing reasoning at query time, RL-Index shifts reasoning to the indexing stage by augmenting documents with LLM-generated rationales that explicitly encode the latent query-knowledge relationship. To optimize the quality of these rationales, we employ Group Relative Policy Optimization (GRPO) and use retrieval similarity as a proxy reward signal, enabling direct optimization of indexing decisions for retrieval effectiveness. Extensive experiments on the BRIGHT benchmark demonstrate that RL-Index consistently improves both retrieval and downstream question-answering performance, while significantly reducing online inference latency. Moreover, the learned rationale augmentation generalizes across diverse retrievers and generators, highlighting its robustness as a plug-and-play indexing strategy across different retrieval systems.",
+    "publishedAt": "2026-08-17",
+    "author": "Yongjia Lei, Nedim Lipka, Zhisheng Qi, Utkarsh Sahu, Yuchen Zhuang, Wenqi Shi, Koustava Goswami, Franck Dernoncourt, Ryan A. Rossi, Yu Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

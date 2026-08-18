@@ -1,0 +1,42 @@
+{
+  "type": "paper",
+  "slug": "2608-16806",
+  "name": "When State Becomes an Attack Surface: State-Semantic Injection in LLM-Driven Embodied Agents",
+  "summary": "Large Language Models (LLMs) have demonstrated capabilities in in-context learning, task decomposition, step-by-step reasoning, and code generation, driving their gradual evolution from text genera...",
+  "description": "Large Language Models (LLMs) have demonstrated capabilities in in-context learning, task decomposition, step-by-step reasoning, and code generation, driving their gradual evolution from text generation models into the core of agents capable of perceiving environments, invoking tools, and executing tasks. Traditional LLM Agents typically obtain information through webpages, documents, databases, or external tools and generate corresponding invocation sequences according to user goals; when this technology is further integrated with robotic systems, large language models begin to undertake fu...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.16806v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-17",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2608.16806v1"
+    }
+  ],
+  "authors": [
+    "Jiawei Liu",
+    "Jiacheng Guo",
+    "Tian Zhang",
+    "Yiwei Xu",
+    "Juan Wang",
+    "Jinlin Fan",
+    "Bowen Xiao",
+    "Chi Guo",
+    "Keyan Guo",
+    "Hongxin Hu"
+  ],
+  "paperId": "2608.16806",
+  "category": "cs.RO",
+  "publishedAt": "2026-08-17",
+  "abstract": "Large Language Models (LLMs) have demonstrated capabilities in in-context learning, task decomposition, step-by-step reasoning, and code generation, driving their gradual evolution from text generation models into the core of agents capable of perceiving environments, invoking tools, and executing tasks. Traditional LLM Agents typically obtain information through webpages, documents, databases, or external tools and generate corresponding invocation sequences according to user goals; when this technology is further integrated with robotic systems, large language models begin to undertake fu..."
+}

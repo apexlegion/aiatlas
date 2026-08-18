@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13571v1",
+  "name": "Not All Tokens Are Equal: Inflation-Aware Routing for Agentic LLM Systems",
+  "summary": "arXiv:2608.13571v1 Announce Type: cross Abstract: When a language model fails to answer a query on the first attempt, an agentic system retries, consuming additional tokens each time. This retry ov...",
+  "description": "arXiv:2608.13571v1 Announce Type: cross Abstract: When a language model fails to answer a query on the first attempt, an agentic system retries, consuming additional tokens each time. This retry overhead creates a gap between what a model's per-token price implies and what a full workflow actually costs. We call this gap \\emph{token inflation} and define it as the ratio of true workflow cost to...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.13571"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-17",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.13571"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-17",
+  "expiryAt": "2026-09-16T00:00:00.000Z",
+  "author": "Heming Fu, Shan Lin, Qianqian Xie, Guojun Xiong"
+}

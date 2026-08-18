@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.13993v1",
+  "fetchedAt": "2026-08-18T03:02:35.196Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.13993v1",
+    "title": "Simulation-Driven Vehicular Traffic Data Augmentation: Extending Sensor Coverage Through Virtual Sensing",
+    "link": "https://arxiv.org/abs/2608.13993",
+    "description": "arXiv:2608.13993v1 Announce Type: new Abstract: Urban traffic management relies on sensor networks whose spatial coverage is limited by deployment costs and privacy regulations. Machine learning models trained on such sparse data cannot generalize to unmonitored locations and must be retrained whenever the sensor infrastructure changes. We propose a simulation-based methodology that addresses this problem by generating augmented traffic count datasets in which each physical sensor is replaced by a virtual sensor placed at a surrogate location in the road network. Virtual sensors are selected by a graph-search heuristic that jointly maximises vehicle-flow continuity and traffic-metric similarity between the original and surrogate locations, while enforcing a minimum spatial displacement to ensure diversity of observed traffic conditions. We validate the method on two Belgian cities: Brussels, using a calibrated model, and Namur, using synthetic models. The augmented datasets preserve the bimodal daily demand profile and the dynamics of traffic at the observed locations.",
+    "publishedAt": "2026-08-17",
+    "author": "Davide Andrea Guastella, Eladio Montero Porras, Evangelos Pournaras, Gianluca Bontempi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

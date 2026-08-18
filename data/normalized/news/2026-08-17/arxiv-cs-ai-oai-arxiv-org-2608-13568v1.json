@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-13568v1",
+  "name": "Does a Language Server Save Tokens for Coding Agents? A Measurement Methodology and Preliminary Study",
+  "summary": "arXiv:2608.13568v1 Announce Type: cross Abstract: Coding agents spend most of their context budget on retrieval. Lexical retrieval (grep) is universal, instant, and zero-setup, but noisy: it cannot...",
+  "description": "arXiv:2608.13568v1 Announce Type: cross Abstract: Coding agents spend most of their context budget on retrieval. Lexical retrieval (grep) is universal, instant, and zero-setup, but noisy: it cannot tell a definition from a call from a comment. Semantic retrieval via the Language Server Protocol (LSP) is precise and typed, but needs a running, indexed server and pays a per-symbol round-trip. The...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.13568"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-17",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.13568"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-17",
+  "expiryAt": "2026-09-16T00:00:00.000Z",
+  "author": "Pengcheng Xu"
+}

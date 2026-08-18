@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14205v1",
+  "name": "FreeBalance: Pre-Routing Online Moe Load Balancing via Residual Workload Prediction",
+  "summary": "arXiv:2608.14205v1 Announce Type: new Abstract: Load imbalance poses a major bottleneck to the efficiency of expert parallelism in distributed inference of Mixture-of-Experts (MoE) models. The most...",
+  "description": "arXiv:2608.14205v1 Announce Type: new Abstract: Load imbalance poses a major bottleneck to the efficiency of expert parallelism in distributed inference of Mixture-of-Experts (MoE) models. The most heavily loaded rank stalls global execution due to skewed routing distributions, directly increasing latency. While offline expert placement can alleviate persistent imbalance, practical multi-task s...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.14205"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-17",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.14205"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-17",
+  "expiryAt": "2026-09-16T00:00:00.000Z",
+  "author": "Pengfei Chen, Yize Wu, Shouxu Kuang, Ke Gao, Ling Li"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14149v1",
+  "name": "QuaSAR: Quantization Compensation via Stable Activation-Aware Rank Truncation",
+  "summary": "arXiv:2608.14149v1 Announce Type: new Abstract: Recent training-free post-training quantization methods restore model accuracy through closed-form residual compensation. To constrain additional mod...",
+  "description": "arXiv:2608.14149v1 Announce Type: new Abstract: Recent training-free post-training quantization methods restore model accuracy through closed-form residual compensation. To constrain additional model storage overhead, several existing methods gate layer selection by goodness-of-fit, retaining only those layers whose compensation yields a positive residual fit score and discarding the rest. In t...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.14149"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-17",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.14149"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-17",
+  "expiryAt": "2026-09-16T00:00:00.000Z",
+  "author": "Lin-Fa Lee, Yi-Yu Chang, Kuo-Hei Yeh"
+}
