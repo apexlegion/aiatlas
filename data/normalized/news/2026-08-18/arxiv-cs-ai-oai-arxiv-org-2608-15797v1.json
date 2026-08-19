@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-15797v1",
+  "name": "KV-Rescue: Recovering Reasoning Language Model KV Eviction Loss via Stepwise Interleaving",
+  "summary": "arXiv:2608.15797v1 Announce Type: new Abstract: KV-cache eviction caps the memory cost of long reasoning traces but is inherently lossy because the model decodes from a partial view of its history....",
+  "description": "arXiv:2608.15797v1 Announce Type: new Abstract: KV-cache eviction caps the memory cost of long reasoning traces but is inherently lossy because the model decodes from a partial view of its history. Under aggressive budgets, this not only lowers accuracy but can also cause runaway degeneration, where the model produces incoherent or repetitive tokens until reaching the length limit. We character...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.15797"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-18",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.15797"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-18",
+  "expiryAt": "2026-09-17T00:00:00.000Z",
+  "author": "Minsoo Cheong, Woosang Lim, Vincent-Daniel Yun, Sungjoo Yoo"
+}

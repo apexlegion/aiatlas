@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14943v1",
+  "name": "Skill Blocks: How Should an Agent Load Its Skill? A Caching-Correct Comparison of Pre-load, On-Demand Tool-Loading, Progressive Disclosure, and Hybrid",
+  "summary": "arXiv:2608.14943v1 Announce Type: new Abstract: Agent skills are often injected in full on every request, increasing token cost. We compare four content-preserving loading methods: Full, Skill Bloc...",
+  "description": "arXiv:2608.14943v1 Announce Type: new Abstract: Agent skills are often injected in full on every request, increasing token cost. We compare four content-preserving loading methods: Full, Skill Block, Reference, and Hybrid. Across SearchQA, SpreadsheetBench, ALFWorld, ScienceWorld, and SynthProc, we measure token usage using raw input for single-turn tasks and cache-correct effective input for m...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.14943"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-18",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.14943"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-18",
+  "expiryAt": "2026-09-17T00:00:00.000Z",
+  "author": "Hironobu Nakasuji"
+}

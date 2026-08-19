@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22771v2",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22771v2",
+    "title": "When Do Cheap Probes Predict Expensive Training? Probing 3D-CT Encoders for Text Generation",
+    "link": "https://arxiv.org/abs/2607.22771",
+    "description": "arXiv:2607.22771v2 Announce Type: replace-cross Abstract: Building a 3D CT vision language model begins with a choice of which image encoder to build on. Today that choice is made by fine-tuning every candidate through the full language model and comparing downstream scores, an enormously expensive search. A cheap probe on the encoder's representation promises a way out, but whether it forecasts the expensive outcome has never been tested. We test this with CheapCT on report generation and on MeasureVQA, a new VQA dataset we build. MeasureVQA scores the outcome one capability at a time, its answers measured from segmentation masks and Hounsfield units. Report generation scores the whole report at once and reflects mostly disease. The probe forecasts expensive training across every capability. The rank agreement between probe and fine-tuning stays high throughout, from $\\rho=0.90$ to $1.00$. Used to choose an encoder, CheapCT picks one nearly as good as the best while fine-tuning a single candidate, at orders of magnitude less compute. We release the code and MeasureVQA at https://github.com/renjie-liang/CheapCT",
+    "publishedAt": "2026-08-18",
+    "author": "Renjie Liang, Zijian Xu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.08410v2",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.08410v2",
+    "title": "Provably Efficient Personalized Multi-Objective Bandits with Proactive Conversational Queries",
+    "link": "https://arxiv.org/abs/2606.08410",
+    "description": "arXiv:2606.08410v2 Announce Type: replace-cross Abstract: Personalized decision-making in multi-objective bandits requires learning user-specific trade-offs among competing objectives. Since arm utility depends on both unknown rewards and unknown preferences, existing methods infer preferences only from utility feedback, entangling preference learning with reward exploration. In practice, however, users often reveal their priorities through proactive conversational queries (e.g., \"cheap and clean hotel\"), yet this structured signal is not leveraged. We formalize a proactive query-based framework in which user queries provide structured preference signals. Modeling these signals via a Plackett-Luce subset choice model, we show that query-only learning is insufficient due to a fundamental shift-invariance barrier. To resolve this, we introduce MO-PQUCB, a hybrid algorithm that integrates query-based preference anchoring with bandit feedback through shift-invariant regularization and dual-exploration UCB. We prove that proactive queries accelerate preference estimation and yield improved regret scaling over prior preference-aware MO-MAB methods. Under corrupted queries, we further characterize statistical limits and design a robust estimator achieving near-optimal performance when the corruption is sparse. Experiments validate both theoretical and practical gains.",
+    "publishedAt": "2026-08-18",
+    "author": "Linfeng Cao, Ming Shi, Ness B. Shroff",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-15117v1",
+  "name": "Anatomy of a Quantized Agent: VRAM Stability and Forecasting in Code-Synthesis Agentic Workloads",
+  "summary": "arXiv:2608.15117v1 Announce Type: new Abstract: Analytical models of peak VRAM consumption for LLM inference decompose memory into weight-storage, KV-cache, and activation terms parameterized by st...",
+  "description": "arXiv:2608.15117v1 Announce Type: new Abstract: Analytical models of peak VRAM consumption for LLM inference decompose memory into weight-storage, KV-cache, and activation terms parameterized by step count, tool invocations, and context expansion. We evaluate this decomposition empirically within a strictly scoped measurement study: a LangGraph-based CUDA-kernel-synthesis agent (AgentK), a 4-bi...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.15117"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-18",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.15117"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-18",
+  "expiryAt": "2026-09-17T00:00:00.000Z",
+  "author": "Anubhab Banerjee"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.14707v1",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.14707v1",
+    "title": "Semantic Uncertainty-Guided Orchestration in Hierarchical Multi-Agent Systems",
+    "link": "https://arxiv.org/abs/2608.14707",
+    "description": "arXiv:2608.14707v1 Announce Type: new Abstract: As large language model (LLM)-based multi-agent systems become increasingly capable, coordinating agents under uncertainty becomes a fundamental challenge. Existing orchestration strategies typically rely on fixed interaction patterns and often lack mechanisms for assessing the reliability of intermediate reasoning steps, allowing errors and hallucinations to propagate through the system. This paper introduces a semantic-uncertainty-guided orchestration approach, HASSUM as a general framework for uncertainty-aware coordination in multi-agent systems. The method estimates uncertainty using semantic entropy and semantic density, which measure trust at the level of answer semantics rather than output probabilities. These signals enable adaptive orchestration decisions, including output verification, selective reprompting, additional deliberation, and confidence-aware response selection. Because the approach operates independently of any particular agent architecture, it can be integrated into a broad range of hierarchical and collaborative multi-agent systems. The evaluations demonstrate an implementation within a hierarchical agent framework and evaluate it on StrategyQA, JailbreakBench, and TruthfulQA benchmarks. Across tasks that require complex reasoning and are prone to ambiguity or hallucinations, uncertainty-guided orchestration yields more reliable outcomes than uncertainty-unaware coordination. Semantic entropy and semantic density in tandem outperformed either metric alone. Ablations testing different thresholds and model sizes demonstrated that both influence the effectiveness of semantic metrics. The results suggest that semantic uncertainty is a practical and general-purpose signal for improving robustness and trustworthiness in agentic AI systems.",
+    "publishedAt": "2026-08-18",
+    "author": "John Knowlton, Aritra Guha, Risto Miikkulainen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

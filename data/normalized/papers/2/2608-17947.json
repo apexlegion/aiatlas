@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2608-17947",
+  "name": "Procedural Content Metageneration via Program Search and Continual Abstraction Discovery",
+  "summary": "Large language models can generate executable programs, which makes it possible to search directly over procedural content generators rather than individual levels. We study this approach in Sokoba...",
+  "description": "Large language models can generate executable programs, which makes it possible to search directly over procedural content generators rather than individual levels. We study this approach in Sokoban, Zelda, Dangerous Dave, and Lode Runner. Each run evolves complete Python generators through language-model mutation and crossover. We introduce Continual Abstraction Discovery, or CAD, which extracts reusable primitives from high-fitness programs into a run-specific helper module. A 2x2 experiment crosses CAD with access to a fixed hand-written domain API. The completed data set contains 160 co...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.17947v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-18",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.17947v1"
+    }
+  ],
+  "authors": [
+    "Matthew Siper",
+    "Ahmed Khalifa",
+    "Julian Togelius"
+  ],
+  "paperId": "2608.17947",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-18",
+  "abstract": "Large language models can generate executable programs, which makes it possible to search directly over procedural content generators rather than individual levels. We study this approach in Sokoban, Zelda, Dangerous Dave, and Lode Runner. Each run evolves complete Python generators through language-model mutation and crossover. We introduce Continual Abstraction Discovery, or CAD, which extracts reusable primitives from high-fitness programs into a run-specific helper module. A 2x2 experiment crosses CAD with access to a fixed hand-written domain API. The completed data set contains 160 co..."
+}

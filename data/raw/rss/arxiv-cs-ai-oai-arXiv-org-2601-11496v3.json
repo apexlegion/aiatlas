@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.11496v3",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.11496v3",
+    "title": "Sequential LLM Release Facilitates Manipulation in Regulated Markets",
+    "link": "https://arxiv.org/abs/2601.11496",
+    "description": "arXiv:2601.11496v3 Announce Type: replace-cross Abstract: AI agents increasingly mediate bargaining, negotiation and persuasion for people and firms. Such markets extend software-mediated commerce, but add a governance problem: independent model releases change delegates available to participants. Game theory shows that expanding a strategy set can harm equilibrium outcomes, but mostly through constructed examples. Deployed AI-agent logs are scarce, proprietary and privacy-sensitive, and lack counterfactuals and payoff labels. We therefore use GLEE, an independently collected benchmark of 587K strategic decisions by 13 large language models across 1,320 matched bargaining, negotiation and persuasion configurations, to study model release as strategy expansion. Across more than 50{,}000 release comparisons, many releases move payoffs in opposite directions: one agent gains while the other loses. We identify the Poisoned Apple effect: a released model that no agent adopts in equilibrium nevertheless shifts payoffs in opposite directions and changes the regulator's market design. Up to roughly three in ten opposing shifts arise this way, and technology restrictions can amplify the effect.",
+    "publishedAt": "2026-08-18",
+    "author": "Eilam Shapira, Moshe Tennenholtz, Roi Reichart",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

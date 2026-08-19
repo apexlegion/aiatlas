@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-15285v1",
+  "name": "PhaseLoRA: Control-Regime-Conditioned Low-Rank Adaptation for Continuous-Action Vision-Language-Action Policies",
+  "summary": "arXiv:2608.15285v1 Announce Type: cross Abstract: Parameter-efficient fine-tuning (PEFT) is a natural way to adapt pretrained vision-language-action (VLA) policies, but most adapter designs apply t...",
+  "description": "arXiv:2608.15285v1 Announce Type: cross Abstract: Parameter-efficient fine-tuning (PEFT) is a natural way to adapt pretrained vision-language-action (VLA) policies, but most adapter designs apply temporally static updates throughout a control rollout, overlooking the phase-dependent nature of continuous-action manipulation. Such policies traverse distinct regimes, including approach, contact tr...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.15285"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-18",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.15285"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-18",
+  "expiryAt": "2026-09-17T00:00:00.000Z",
+  "author": "Yufei Guo, Yinan Wu, Haoran Duan, Guiguang Ding, Jungong Han"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2502.11603v2",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2502.11603v2",
+    "title": "DR.GAP: Mitigating Bias in Large Language Models using Gender-Aware Prompting with Decoupled Reasoning",
+    "link": "https://arxiv.org/abs/2502.11603",
+    "description": "arXiv:2502.11603v2 Announce Type: replace-cross Abstract: Large Language Models (LLMs) exhibit strong natural language understanding capabilities but also inherit and amplify societal biases, particularly gender bias, raising fairness concerns. Existing prompt-based debiasing strategies share a key limitation: they fail to disentangle gender information from task semantics. Bias steering compels models to overemphasize gender cues, while reasoning-based prompting induces gender-biased reasoning chains. To address these challenges, we propose DR.GAP (Decoupled Reasoning for Gender-Aware Prompting), an automated and model-agnostic pipeline that mitigates gender bias while preserving model performance. DR.GAP generates gender-neutral reasoning traces and applies them as in-context demonstrations during inference, effectively decoupling gender attributes from task semantics without modifying model parameters. Extensive experiments on coreference resolution and question-answering tasks across six LLMs demonstrate DR.GAP's effectiveness, generalizability, and robustness, supported by detailed mechanism analyses. Moreover, DR.GAP can be extended to vision-language models (VLMs), achieving substantial bias reduction.",
+    "publishedAt": "2026-08-18",
+    "author": "Hongye Qiu, Yue Xu, Yi Wang, Meikang Qiu, Wenjie Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

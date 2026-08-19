@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.14651v1",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.14651v1",
+    "title": "Evaluating Multimodal LLMs across Text and Audio Modalities for Accessible Disaster Assistance",
+    "link": "https://arxiv.org/abs/2608.14651",
+    "description": "arXiv:2608.14651v1 Announce Type: new Abstract: Effective disaster risk communication is a foundational humanitarian challenge, yet current emergency infrastructure fails to meet the needs of individuals with access and functional needs, including hard-of-hearing individuals, pregnant women, mothers with toddlers, and elderly individuals with dementia. Recent advancements in Artificial Intelligence (AI), especially Multi-Modal Large Language Models (MM-LLMs), demonstrate powerful capabilities to serve diverse users across text, audio, image, and video modalities within a single unified system, such as a chatbot. However, their suitability for deployment rests on a property that receives limited scrutiny, i.e., whether these systems produce consistent, actionable outputs regardless of the modality through which a user communicates. In this paper, we conduct a comprehensive analysis to understand the status of open-weight MM-LLMs using real emergency alert scenarios across four different vulnerable personas. These state-of-the-art (SOTA) models are evaluated on consistency of responses across text and audio modalities when the same task scenario is given. Findings indicate that no model achieves reliable consistency across modalities, and that performance gaps are heightened for personas with access needs, introducing modality-dependent inequity that undermines the humanitarian value of these systems. These results inform concrete design recommendations for building equitable, trustworthy, and inclusive AI tools for disaster risk communication.",
+    "publishedAt": "2026-08-18",
+    "author": "Anuridhi Gupta, Samara Mansoor, Hemant Purohit",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

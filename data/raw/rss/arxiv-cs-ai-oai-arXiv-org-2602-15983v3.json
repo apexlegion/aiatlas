@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.15983v3",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.15983v3",
+    "title": "ReLoop: Structured Modeling and Behavioral Verification for Reliable LLM-Based Optimization",
+    "link": "https://arxiv.org/abs/2602.15983",
+    "description": "arXiv:2602.15983v3 Announce Type: replace-cross Abstract: Large language models (LLMs) can translate natural language into optimization code, but silent failures pose a critical risk: code that executes and returns solver-feasible solutions may encode semantically incorrect formulations---a feasibility--correctness gap reaching 90 percentage points on compositional problems. We introduce ReLoop, which addresses this gap through two complementary mechanisms. Structured generation decomposes code production into a four-stage reasoning chain (understand, formalize, synthesize, verify), preventing formulation errors at their source. Behavioral verification detects errors that survive generation by testing whether the formulation responds correctly to solver-based parameter perturbation---an external semantic signal that bypasses LLM self-review and requires no ground truth. The two mechanisms are complementary by error structure: structured generation drives the largest gains on compositional problems (+8.5pp accuracy on RetailOpt-190 with Claude Opus 4.6), while behavioral verification dominates on localized defects +4.4pp on MAMO-ComplexLP, its largest contribution across benchmarks). Combined with diagnostic execution recovery, ReLoop reaches 100% executable code on Claude Opus 4.6 and consistently improves accuracy on chat-tuned foundation models across three benchmarks; we further identify a known limitation of narrowly-tuned SFT models, whose learned output formats are brittle to chain-of-thought prompts---an interaction we document and analyze. We release RetailOpt-190, 190 compositional retail optimization scenarios targeting the multi-constraint interactions where LLMs most frequently fail.",
+    "publishedAt": "2026-08-18",
+    "author": "Junbo Jacob Lian, Yujun Sun, Huiling Chen, Chaoyu Zhang, Hanzhang Qin, Chung-Piaw Teo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

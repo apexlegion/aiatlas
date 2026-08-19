@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2504.06659v2",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2504.06659v2",
+    "title": "Leveraging Machine Unlearning for Cost-Efficient Preference Alignment",
+    "link": "https://arxiv.org/abs/2504.06659",
+    "description": "arXiv:2504.06659v2 Announce Type: replace-cross Abstract: Despite advances in Preference Alignment (PA) for Large Language Models (LLMs), mainstream methods like reinforcement learning with human feedback face notable challenges. These approaches require high-quality datasets of positive preference examples, which are costly to obtain and computationally intensive. The LLM unlearning technique presents a promising alternative by directly removing the influence of negative examples. However, current research has primarily focused on empirical validation, lacking systematic quantitative analysis. To bridge this gap, we propose a framework linking PA with LLM unlearning. Through bi-level optimization, we first quantify how unlearning specific negative examples impacts PA performance. Our analysis reveals that these effects vary substantially across negative examples. Building on this insight, we pose a crucial question: how can we optimally select and weight negative examples for unlearning to maximize PA performance? To answer this, we propose Unlearning to Align (U2A), which leverages bi-level optimization to efficiently select and unlearn examples for optimal PA performance. We validate the proposed method through extensive experiments, with results confirming its effectiveness. Our code is available at https://github.com/muyiahhh/U2A.",
+    "publishedAt": "2026-08-18",
+    "author": "Xiaohua Feng, Yuyuan Li, Huwei Ji, Jiaming Zhang, Li Zhang, Tianyu Du, Chaochao Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

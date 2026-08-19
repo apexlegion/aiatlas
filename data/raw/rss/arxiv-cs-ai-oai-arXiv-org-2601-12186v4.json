@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.12186v4",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.12186v4",
+    "title": "Aletheia: What Makes RLVR For Code Verifiers Tick?",
+    "link": "https://arxiv.org/abs/2601.12186",
+    "description": "arXiv:2601.12186v4 Announce Type: replace-cross Abstract: Multi-domain thinking verifiers trained via Reinforcement Learning with Verifiable Rewards (RLVR) are a cornerstone of modern post-training. However, their adoption in code generation has lagged behind that of execution feedback due to the prohibitive costs of the full RLVR pipeline. In this work, we ablate three primary choices along the performance-cost trade-off in RLVR: intermediate thinking traces, learning from negative samples, and on-policy training. We introduce Aletheia, a controlled, execution-grounded testbed to facilitate a decontaminated analysis of code verifier training recipes across disparate model sizes and covariate shifts across two common verifier application scenarios. Our analysis reveals that the optimal training recipe is scale-dependent: on-policy learning is the primary performance driver for small verifiers, whereas the thinking budget becomes the most vital factor at larger scales. Negative samples play a key role in stabilizing training at large sizes. They have a constant impact on top-1 selection, but are increasingly important for ranking performance as size increases. Our Pareto optimality analysis demonstrates that eliminating on-policy training at larger model scales could yield a verifier that performs comparably to the full RLVR recipe. Furthermore, we find that eschewing thinking traces is a compute-efficient strategy at lower budgets, offering a strong trade-off between training cost and verifier accuracy. We validate our findings across a Best-of-N deployment setting and two external reward model benchmarks, demonstrating that our findings generalize beyond the controlled testbed. Ultimately, our work offers empirical guidance toward training cost-efficient code verifiers and takes a step toward their wider adoption in post-training pipelines for code.",
+    "publishedAt": "2026-08-18",
+    "author": "Vatsal Venkatkrishna, Indraneil Paul, Iryna Gurevych",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

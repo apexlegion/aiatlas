@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.14692v1",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.14692v1",
+    "title": "Identifying Harm in Personalized, Generative AI Systems Requires User-Centered Auditing at the Interaction Level",
+    "link": "https://arxiv.org/abs/2608.14692",
+    "description": "arXiv:2608.14692v1 Announce Type: cross Abstract: Personalized, generative AI systems increasingly adapt their behavior to individual users over time, fundamentally changing model behavior. While existing auditing approaches have been effective at surfacing harms in non-personalized contexts, they often rely on static, simulated evaluations and definitions of harm that aggregate across broad, group categories. In this position paper, we argue that such approaches can fail to capture emergent harms in personalized generative AI systems, where harms surface through interpretations of ongoing interaction and evolve with user history. We identify three presuppositions underlying many harm auditing paradigms: that harms can be (1) specified outside real-world interaction, (2) defined non-pluralistically within groups, and (3) treated as static. One might argue that personalized systems could simply learn definitions of what constitutes harm to individual users through repeated interactions. However, we argue that attempts to surface user harms through deeper personalization risk imposing asymmetric burdens of labor and privacy on marginalized users. Consequently, we propose reframing understandings of harm as adaptive, user- and community-centered processes, and outline design directions that shift auditing from retrospective evaluation toward infrastructures that support ongoing articulation of harm in interaction. Our work highlights the need for auditing and design practices that better reflect the pluralistic and evolving nature of harm understanding in personalized generative AI systems.",
+    "publishedAt": "2026-08-18",
+    "author": "Hannah Cha",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.16161v1",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.16161v1",
+    "title": "Domain-Specific Text Embedding Models for Entity Resolution",
+    "link": "https://arxiv.org/abs/2608.16161",
+    "description": "arXiv:2608.16161v1 Announce Type: cross Abstract: General-purpose text embedding models are designed to capture semantic similarity but are not optimised for distinguishing entity records that represent the same real-world business or person. This limitation affects applications such as entity resolution and duplicate record retrieval, where small textual differences may either preserve or change identity. This paper investigates whether domain-specific triplet fine-tuning can adapt pretrained embedding models for identity-sensitive retrieval. A synthetic dataset of business and person records was created with identity-preserving variations and challenging non-matching examples. Two widely used embedding models were evaluated before and after fine-tuning using a margin-based similarity evaluation. The results show substantial improvements in separating true matches from highly similar non-matches, demonstrating that domain-specific triplet training can effectively reshape general-purpose embedding spaces for entity retrieval. These findings suggest that targeted fine-tuning provides a practical approach for improving embedding models in data quality management and information retrieval applications.",
+    "publishedAt": "2026-08-18",
+    "author": "Khajesh Sapram, Srivardhani Raju, Kishore Konda",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

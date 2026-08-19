@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2507.04491v2",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2507.04491v2",
+    "title": "A validity-guided workflow for robust large language model research in psychology",
+    "link": "https://arxiv.org/abs/2507.04491",
+    "description": "arXiv:2507.04491v2 Announce Type: replace-cross Abstract: Large language models (LLMs) are rapidly being integrated into psychological and behavioral research as research tools, evaluation targets, human simulators, and cognitive models. Yet recent evidence reveals severe measurement unreliability: personality assessments degenerate under factor analysis, moral preferences reverse with punctuation changes, and theory-of-mind accuracy varies widely with trivial rephrasing. These \"measurement phantoms\"--statistical artifacts masquerading as psychological phenomena--threaten the validity of a growing body of research. Guided by the dual-validity framework that integrates psychometrics with causal inference, we present a six-stage workflow that scales validity requirements to research ambition--using LLMs to code text requires basic reliability and accuracy, whereas claims about psychological properties demand comprehensive construct validation. Researchers must (1) explicitly define their research goal and corresponding validity requirements, (2) develop and validate computational instruments through psychometric testing, (3) design experiments that control for computational confounds, (4) execute protocols transparently, (5) analyze data with methods appropriate for non-independent observations, and (6) report findings within boundaries and use results to refine theory. We illustrate the workflow through an example of model evaluation--\"LLM selfhood\"--showing how systematic validation can distinguish genuine computational phenomena from measurement artifacts. By establishing validated computational instruments and transparent practices, this workflow provides a path toward building a robust empirical foundation for AI psychology research.",
+    "publishedAt": "2026-08-18",
+    "author": "Zhicheng Lin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

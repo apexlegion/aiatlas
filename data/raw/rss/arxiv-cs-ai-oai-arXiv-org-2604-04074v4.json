@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.04074v4",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.04074v4",
+    "title": "FactReview: Evidence-Grounded Peer Review with Execution-Based Claim Verification",
+    "link": "https://arxiv.org/abs/2604.04074",
+    "description": "arXiv:2604.04074v4 Announce Type: replace Abstract: Large language model (LLM)-based reviewing systems typically assess manuscripts in isolation, leaving literature- and code-dependent claims difficult to verify. We present FactReview, an audit pipeline that extracts review-relevant claims, grounds them in related work and reference checks, and, when code is available, executes released artifacts under a fixed repair budget. On 26 paper-disjoint test papers with 354 human-verified claims, FactReview achieves 84.3\\% F1 for claim recovery. In a same-backend, evidence-matched comparison, FactReview scores 4.72/5 overall, outperforming a direct LLM reviewer by 0.74 points. Removing execution evidence changes 17.0\\% of claim statuses, more than removing any other single evidence source. In a reviewer-assistance study, FactReview reduces mean review time by 58\\% while increasing benchmark-claim coverage from 87\\% to 99\\%. FactReview supports evidence-based claim auditing, with acceptance decisions reserved for human reviewers. The code is public at https://github.com/DEFENSE-SEU/FactReview.",
+    "publishedAt": "2026-08-18",
+    "author": "Ling Yue, Chaoqian Ouyang, Hang Xu, Ruijun Huang, Yuchen Liu, Libin Zheng, Wei Liu, Shaowu Pan, Shimin Di, Min-Ling Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

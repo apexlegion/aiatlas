@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.16666v1",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.16666v1",
+    "title": "Chronocooked: A Benchmark for Implicit Interval Timing in Reinforcement Learning Agents",
+    "link": "https://arxiv.org/abs/2608.16666",
+    "description": "arXiv:2608.16666v1 Announce Type: new Abstract: This paper presents Chronocooked, a reinforcement learning (RL) benchmark suite for studying implicit interval timing in RL agents. Inspired by Overcooked, the suite comprises cooking scenarios that require temporal decision making. The tasks and reward functions are designed such that temporal information is unobserved yet critical for optimal performance. The environment is intentionally kept simple to enable controlled experiments and support biologically plausible models. Evaluation metrics are designed to expose limitations in timing abilities of RL agents, and we report baselines using a non-recurrent, a recurrent, and a biologically plausible model. This work ultimately aims to underscore the need to incorporate time perception and temporal processing in artificial agents designed for human robot interaction and deployment in time dependent human societies.",
+    "publishedAt": "2026-08-18",
+    "author": "Amrapali Pednekar, Alvaro Garrido-Perez, Yara Khaluf, Pieter Simoens",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

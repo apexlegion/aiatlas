@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2608-18050",
+  "name": "StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents",
+  "summary": "AI agents increasingly perform knowledge work (i.e., produce and modify persistent digital artifacts such as code repositories, documents, spreadsheets, slides, reports), yet the parsed views they...",
+  "description": "AI agents increasingly perform knowledge work (i.e., produce and modify persistent digital artifacts such as code repositories, documents, spreadsheets, slides, reports), yet the parsed views they search, the native files they edit, the changes they review, and the artifacts they submit can refer to different versions of the same work product. We formulate this as a workspace-state contract: every view should be explicitly tied to a version of the evolving workspace state. Coding agents partly address this need through repository contracts for search, diffs, and tests, whereas an analogous...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.18050v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-18",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.18050v1"
+    }
+  ],
+  "authors": [
+    "Yining Hua",
+    "Hongbin Na",
+    "Yifan Zhou",
+    "Akshay Kalose",
+    "Cyrus Ayubcha",
+    "Levi Lian"
+  ],
+  "paperId": "2608.18050",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-18",
+  "abstract": "AI agents increasingly perform knowledge work (i.e., produce and modify persistent digital artifacts such as code repositories, documents, spreadsheets, slides, reports), yet the parsed views they search, the native files they edit, the changes they review, and the artifacts they submit can refer to different versions of the same work product. We formulate this as a workspace-state contract: every view should be explicitly tied to a version of the evolving workspace state. Coding agents partly address this need through repository contracts for search, diffs, and tests, whereas an analogous..."
+}

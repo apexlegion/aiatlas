@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.15619v1",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.15619v1",
+    "title": "Bias-Corrected Ceilings of Emotion Predictability from Human Label Variation Based on Instance-Level Fano Bounds",
+    "link": "https://arxiv.org/abs/2608.15619",
+    "description": "arXiv:2608.15619v1 Announce Type: new Abstract: Emotion recognition from text keeps improving on benchmarks, yet whether an accuracy ceiling has been reached is seldom asked with discipline. Our aim is not to pin this ceiling to a single number, but to quantify how far it depends on finite annotation, estimator choice, annotation noise, and the evaluation protocol, and thereby to discipline how confidently saturation can be claimed. We propose Bias-corrected Affective Ceiling Estimation (BACE), an analysis framework that estimates a bias-corrected ceiling, separates irreducible from reducible error, and disciplines the resulting claims. An anchored Dirichlet-mixture empirical Bayes estimator, bracketed between plug-in and NSB, recovers the human-consensus distribution; an annotator split, a noise deconvolution, and a fixed claim gate then attribute error without circularity. Methodologically, unconstrained point estimates place reachability anywhere from 0.38 to 1.03, so saturation cannot be decided by any single estimator. Substantively, the only assertion passing the claim gate is that at least about 33% of a representative classifier's error on GoEmotions is irreducible, with the same pattern recurring on offensiveness and irony.",
+    "publishedAt": "2026-08-18",
+    "author": "Keito Inoshita",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

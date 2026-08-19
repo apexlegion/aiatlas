@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.00380v2",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.00380v2",
+    "title": "SUPREME: A Multi-GPU Framework for Reproducible Image Unlearning Method Evaluation",
+    "link": "https://arxiv.org/abs/2606.00380",
+    "description": "arXiv:2606.00380v2 Announce Type: replace-cross Abstract: Machine unlearning removes the influence of specific training data from a trained model without retraining it from scratch. Evaluating an unlearning method requires repeating training, unlearning, and evaluation across multiple seeds, which is computationally expensive. To our knowledge, existing image classification unlearning frameworks run on a single GPU, which limits how many seeds can be evaluated in reasonable time. We introduce SUPREME, an open-source framework that distributes these stages across multiple GPUs. SUPREME makes three contributions: a registry-based design for adding new methods, metrics, models, and scenarios; a multi-GPU architecture supporting multiple accelerators and precision modes; and a demonstration on Pins Face Recognition using ResNet18 and ViT under full-class and random-sample unlearning across ten seeds. The framework is available at https://github.com/pedroandreou/supreme-unlearning.",
+    "publishedAt": "2026-08-18",
+    "author": "Petros Andreou, Jamie Lanyon, Axel Finke, Georgina Cosma",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

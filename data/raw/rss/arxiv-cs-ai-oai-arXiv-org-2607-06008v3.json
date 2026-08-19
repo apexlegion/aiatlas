@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.06008v3",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.06008v3",
+    "title": "PolyWorkBench: Benchmarking LLM Agents for Cross-Lingual Long-Horizon Workflows",
+    "link": "https://arxiv.org/abs/2607.06008",
+    "description": "arXiv:2607.06008v3 Announce Type: replace Abstract: While Large Language Model (LLM) agents excel at monolingual long-horizon planning and tool use, enterprise workflows inherently require processing multilingual resources across extended trajectories. The interaction between multilinguality and long-horizon execution, however, remains underexplored. We introduce PolyWorkBench, a benchmark designed to evaluate LLM agents on multilingual, long-horizon workplace workflows. PolyWorkBench features 67 tasks across five core domains: commerce, knowledge work, legal analysis, localization, and manufacturing. Tasks are authored by the paper's authors from real-world data seeds and independently verified through a second-author audit. Agents must integrate heterogeneous multilingual inputs, execute iterative tool-use trajectories, and produce structured domain artifacts. To rigorously assess performance, we adopt Grade, a task-specific structural scoring rubric, as our primary ranking metric, and complement it with Pytest for executable state verification and LLM-as-Judge for semantic quality diagnostics. Benchmark evaluations reveal that agent performance varies substantially across languages and drops sharply on the harder cross-lingual tasks, and our analysis shows that multilingual execution exposes systematic failure modes across planning, tool interaction, and decision-making in long-horizon agents.",
+    "publishedAt": "2026-08-18",
+    "author": "Hongliang Li, Yijin Liu, Zhiwei Zhang, Zihe Liu, Xinyue Lou, Jinan Xu, Fandong Meng, Kaiyu Huang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

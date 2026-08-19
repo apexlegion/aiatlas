@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-14563v1",
+  "name": "Forward Pass Domain Adaptation (Without Cross-Layer Backpropagation)",
+  "summary": "arXiv:2608.14563v1 Announce Type: cross Abstract: Forward-Pass-Only MLP training (FPO) adapts large language models without a backward pass through the model body, achieving 2.7--3.2x the throughpu...",
+  "description": "arXiv:2608.14563v1 Announce Type: cross Abstract: Forward-Pass-Only MLP training (FPO) adapts large language models without a backward pass through the model body, achieving 2.7--3.2x the throughput of standard fine-tuning at ~40% less peak training memory, while leaving off-domain benchmarks within seed-noise of baseline, a property that full-network fine-tuning does not reliably reproduce. FP...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.14563"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-18",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.14563"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-18",
+  "expiryAt": "2026-09-17T00:00:00.000Z",
+  "author": "Rivaan Patil, Simon Dennis, Hao Guo, Kevin Shabahang"
+}

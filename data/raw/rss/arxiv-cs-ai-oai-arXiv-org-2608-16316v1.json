@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.16316v1",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.16316v1",
+    "title": "Deep Thought Alignment: Trajectory-Level Latent Distillation for Video Reasoning",
+    "link": "https://arxiv.org/abs/2608.16316",
+    "description": "arXiv:2608.16316v1 Announce Type: cross Abstract: Large Multimodal Models (LMMs) for video reasoning have long been hindered by the high computational cost of processing vast amounts of visual information. This dilemma motivates the transfer of the reasoning capabilities of large models to smaller, more efficient ones. On-Policy Distillation (OPD) offers a promising solution by matching output-token distributions along student-generated trajectories. However, video reasoning often depends on evidence accumulated across multiple frames. In this context, output-level supervision only captures information expressed through token predictions and does not directly constrain the latent representations formed during reasoning. To address this limitation, we propose Latent-OPD, which augments OPD with trajectory-level latent distillation. Specifically, our method focuses on the position at the end of each trajectory, where hidden states effectively summarize the accumulated visual evidence and reasoning context. Furthermore, we introduce a progressive teacher-lookahead strategy, which aligns middle-to-late student layers with increasingly deeper teacher layers. Experiments on six video reasoning benchmarks show that Latent-OPD consistently outperforms output-only OPD. Notably, the improvements are particularly pronounced in scenarios with limited frames, long videos, or tasks requiring complex evidence aggregation. These results establish Latent-OPD as a highly effective approach to frame-efficient video reasoning.",
+    "publishedAt": "2026-08-18",
+    "author": "Ao Shen, Yongheng Zhang, Yinghui Li, Manning Wang, Di Yin, Xing Sun",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

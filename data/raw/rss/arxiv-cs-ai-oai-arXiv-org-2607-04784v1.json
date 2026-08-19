@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.04784v1",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.04784v1",
+    "title": "A Temporal Reasoning Benchmarking Framework for LRMs via Difficulty-controlled and Dynamic Test Generation",
+    "link": "https://arxiv.org/abs/2607.04784",
+    "description": "arXiv:2607.04784v1 Announce Type: cross Abstract: Defining the reasoning boundaries and ensuring the reliability of Large Reasoning Models (LRMs) remains a critical challenge. Current benchmarks primarily rely on static datasets susceptible to data contamination or synthetic tasks lacking fine-grained difficulty control. Furthermore, standard outcome-based evaluations often conceal reasoning flaws by neglecting the reasoning process. To address these limitations, we introduce TRACE, a testing framework that models temporal reasoning as constraint satisfaction problems via Allen's Interval Algebra. This approach enables precise regulation of logical complexity and incorporates a Trace-Based Verification Oracle to validate reasoning faithfulness. Using this framework, we construct TRACEBench, an extensive benchmark comprising 1,200 synthesized test instances across graded difficulty levels. We employ TRACE to evaluate eight widely used LRMs on TRACEBench. The results confirm a strong negative correlation between model performance and our difficulty metric (Pearson's r approximately -0.96), validating the effectiveness of our difficulty control mechanism. Moreover, our trace-based analysis exposes significant discrepancies between reasoning validity and final answers, revealing a high spurious guessing rate of approximately 28% in mid-sized models. In addition, we diagnose scale-dependent failure modes, ranging from Degenerative Loops in small models to Reasoning Explosion in advanced architectures. TRACE thus provides a robust, automated platform for benchmarking the true temporal reasoning capabilities of LRMs.",
+    "publishedAt": "2026-08-18",
+    "author": "Shide Zhou, Kailong Wang, Ling Shi, Haoyu Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

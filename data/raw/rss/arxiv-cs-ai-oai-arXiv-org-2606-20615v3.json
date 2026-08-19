@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.20615v3",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.20615v3",
+    "title": "Specifying AI-SDLC Processes: A Protocol Language for Human-Agent Boundaries",
+    "link": "https://arxiv.org/abs/2606.20615",
+    "description": "arXiv:2606.20615v3 Announce Type: replace Abstract: AI agents now act as first-class members of the software development lifecycle, but the instruments teams use to direct them enforce nothing: process encoded in prompts is flexible but unenforceable, while workflow formalisms are enforceable but do not model autonomous agents. We propose a domain-specific language for specifying AI-SDLC processes as protocols, with formal abstract syntax, well-formedness conditions, operational semantics, and enforcement invariants, organised around a separation of policy (declared intent) from mechanism (structural enforcement). We prove that any well-formed protocol maintains its invariants on every execution trace, closed under Kleene composition of orchestration loops: protocol steps cannot be skipped, by construction. A failure-rate analysis derives two consequences: structural enforcement bounds silent failure while converting the remainder into visible, audited stalls, and the benefit carries a capability floor. We validate the design in simulation and end-to-end on SWE-bench Verified, where an identical bug-fix methodology yields no improvement delivered as prose instructions, but a significant, replicated 14-22 point gain when executed as a validated, self-correcting process; an ablation attributes the gain to the executed process itself, and the capability floor appears where the model predicts it. As foundation models converge, the durable engineering asset is the formally specified, executable process.",
+    "publishedAt": "2026-08-18",
+    "author": "Ylli Prifti, Pasquale De Meo, Alessandro Provetti",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

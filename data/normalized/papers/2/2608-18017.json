@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2608-18017",
+  "name": "Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach",
+  "summary": "Improving flight safety with flight data requires not only accurate detection of risk events, but more importantly, clear interpretation of their underlying causes at the level of pilot control beh...",
+  "description": "Improving flight safety with flight data requires not only accurate detection of risk events, but more importantly, clear interpretation of their underlying causes at the level of pilot control behavior. Existing explainable AI techniques, such as feature importance maps, often require considerable domain knowledge to translate them into operationally meaningful explanations. Large Language Models (LLMs), which excel at language reasoning, bring a promising solution to this issue. However, applying LLMs in this domain presents key challenges such as modal inconsistency, limited classificati...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.18017v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-18",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.18017v1"
+    }
+  ],
+  "authors": [
+    "Lu Xu",
+    "Xu Li",
+    "Linjiang Zheng",
+    "Fan Li",
+    "Riquan Zhang",
+    "Jiaxing Shang"
+  ],
+  "paperId": "2608.18017",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-18",
+  "abstract": "Improving flight safety with flight data requires not only accurate detection of risk events, but more importantly, clear interpretation of their underlying causes at the level of pilot control behavior. Existing explainable AI techniques, such as feature importance maps, often require considerable domain knowledge to translate them into operationally meaningful explanations. Large Language Models (LLMs), which excel at language reasoning, bring a promising solution to this issue. However, applying LLMs in this domain presents key challenges such as modal inconsistency, limited classificati..."
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.14677v1",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.14677v1",
+    "title": "Offline Ambient-Controlled Latent Diffusion: Architecture, Telemetry, and On-Device Evaluation",
+    "link": "https://arxiv.org/abs/2608.14677",
+    "description": "arXiv:2608.14677v1 Announce Type: cross Abstract: Most mobile image-generation applications are thin clients over cloud services, leaving outputs hard to audit. We present an Android latent-diffusion application that runs entirely on-device and is driven by the ambient-light sensor rather than a text prompt, keeping generation, telemetry, and storage local. The contribution is not a new diffusion method but the surrounding measurement workflow: each output is bound to the sensor reading, runtime path, and seed that produced it, giving a per-artifact audit trail for offline analysis. On a single Samsung foldable, one fixed capture of 373 artifacts shows the controller's log-lux input positively associated with output luminance (Pearson $r=0.532$, 95\\% CI $[0.455, 0.601]$), confirming the ambient dependency survives denoising and VAE decoding, while the latent UNet/VAE pipeline runs at 552--1334\\,ms mean latency across three quality tiers under the Android Neural Networks API (NNAPI).",
+    "publishedAt": "2026-08-18",
+    "author": "Lech Kalinowski, Artur Morys-Magiera, Piotr Mi{\\l}kowski",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

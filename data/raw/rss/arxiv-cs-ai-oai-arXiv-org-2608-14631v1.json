@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.14631v1",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.14631v1",
+    "title": "Accuracy and Reliability of Large Language Models in Cosmetic Chemistry and Skin Health: A Benchmarking Study",
+    "link": "https://arxiv.org/abs/2608.14631",
+    "description": "arXiv:2608.14631v1 Announce Type: new Abstract: As consumers increasingly turn to AI chatbots for skincare advice, the technical accuracy of Large Language Models (LLMs) in cosmetic chemistry remains largely under-evaluated. We benchmarked 14 LLMs on a structured set of topics related to cosmetic chemistry, including the chemical properties of specific cosmetic ingredients and common cosmetic scenarios that may be of interest to consumers. Web search was disabled throughout to assess each model's internalized knowledge rather than its internet retrieval capacity. Overall performance was poor, with the most pronounced deficits in quantitative reasoning and structural identification tasks. While models handled general skincare questions with reasonability, responses consistently lacked the technical depth required for informed consumer decision-making. Notably, conversation with AI can pose a risk: outputs that sound authoritative but contain technical errors are less likely to generate skepticism compared to responses that explicitly acknowledge uncertainty. These findings suggest that general-purpose LLMs, trained predominantly on unverified public data, are currently not reliable sources of cosmetic chemistry information. Progress on two fronts, fine-tuning verified chemical and dermatological datasets, and substantial improvements to algorithmic reasoning, will likely be needed before these tools can be considered as resources for public use.",
+    "publishedAt": "2026-08-18",
+    "author": "Amelia Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.06697v2",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.06697v2",
+    "title": "Thinking with Gaze: Sequential Eye-Tracking as Visual Reasoning Supervision for Medical VLMs",
+    "link": "https://arxiv.org/abs/2603.06697",
+    "description": "arXiv:2603.06697v2 Announce Type: replace-cross Abstract: Vision--language models (VLMs) process images as visual tokens, yet their intermediate reasoning is often carried out in text, which can be suboptimal for visually grounded radiology tasks. Radiologists instead diagnose via sequential visual search; eye-tracking captures this process as time-ordered gaze trajectories that reveal how evidence is acquired over time. We use eye-gaze as supervision to guide VLM reasoning by introducing a small set of dedicated gaze tokens. These tokens are trained to predict gaze-selected image patch indices in temporal order, encouraging the model to follow human-like evidence acquisition and integration. Experiments on MIMIC-EYE and multiple external zero-shot benchmarks show consistent gains over baselines, achieving state-of-the-art in-domain performance and improved out-of-domain robustness. These results highlight temporally ordered gaze as an effective supervision signal for learning visually grounded medical reasoning.",
+    "publishedAt": "2026-08-18",
+    "author": "Yiwei Li, Yifan Zhou, Huaqin Zhao, Zihao Wu, Zhengliang Liu, Xiang Li, Quanzheng Li, Tianming Liu, Lin Zhao",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

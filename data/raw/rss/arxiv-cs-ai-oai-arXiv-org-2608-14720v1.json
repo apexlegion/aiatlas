@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.14720v1",
+  "fetchedAt": "2026-08-19T03:04:40.582Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.14720v1",
+    "title": "Multi-Agent Closed-Loop Reasoning for Organic Structure Elucidation from Multimodal Spectra",
+    "link": "https://arxiv.org/abs/2608.14720",
+    "description": "arXiv:2608.14720v1 Announce Type: cross Abstract: Following the molecular discovery and synthesis revolutions, scalable automated structure elucidation from routine spectroscopic data remains an outstanding challenge. Despite decades of computational efforts, no existing system achieved reliable reasoning over unseen spectra. Here, we propose MACROS, a multi-agent system automating structure elucidation by emulating expert iterative hypothesis-testing. Trained on 100M simulated and 1.6M experimental spectra-molecule pairs, it natively supports arbitrary combinations of routine spectroscopic techniques. It achieves unprecedented zero-shot generalization to diverse real-world samples, correctly identifying synthetic compounds, natural products and metabolites above 500 Da with 1D NMR. Remarkably, MACROS spontaneously recovers textbook spectroscopic correlations from unassigned data and exhibits emergent chemical intuition such as a ring-first parsing preference, learning fundamental chemical principles rather than memorizing database patterns. MACROS augments chemists via collaboration to deliver sixfold faster, 40% more accurate elucidation. MACROS establishes a scalable foundation for fully automated structure elucidation, and catalyzes accelerated molecular discovery toward autonomous laboratories.",
+    "publishedAt": "2026-08-18",
+    "author": "Bingsen Xue, Zhuojun Jiang, Jianhao Zhang, Mingcheng Gu, Yizhe Yuan, Yongtai Zhuo, Yifan Zhang, Li Wang, Ya Su, Yue Yuan, Jiang Liu, Xueqian Kong, Cheng Jin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
