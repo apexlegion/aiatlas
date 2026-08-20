@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-17530v1",
+  "name": "When to Review: Spaced Repetition for Continual Pre-Training of Language Models",
+  "summary": "arXiv:2608.17530v1 Announce Type: new Abstract: Continual pre-training of large language models must acquire new information without erasing old knowledge. Existing replay methods often choose a gl...",
+  "description": "arXiv:2608.17530v1 Announce Type: new Abstract: Continual pre-training of large language models must acquire new information without erasing old knowledge. Existing replay methods often choose a global old/new mixture and sample uniformly, ignoring that examples differ in how quickly they are forgotten. We formulate continual pre-training as adaptive review scheduling: the training loop should...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.17530"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-19",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.17530"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-19",
+  "expiryAt": "2026-09-18T00:00:00.000Z",
+  "author": "Alankar Atreya, Devesh Batra, Yoages Kumar Mantri, Geremy Bantug, Greig A Cowan, Raad Khraishi"
+}

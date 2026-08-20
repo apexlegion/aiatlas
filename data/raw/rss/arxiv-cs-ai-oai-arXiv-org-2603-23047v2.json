@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.23047v2",
+  "fetchedAt": "2026-08-20T03:04:01.410Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.23047v2",
+    "title": "Parametric Knowledge in RAG-SFT for Domain-Specific Document Generation",
+    "link": "https://arxiv.org/abs/2603.23047",
+    "description": "arXiv:2603.23047v2 Announce Type: replace-cross Abstract: Retrieval-Augmented Generation (RAG) fine-tuning has shown substantial improvements over vanilla RAG, yet most studies target document question answering, leaving open whether these gains transfer to specialized tasks. We study supervised RAG fine-tuning (RAG-SFT) for requirements document generation in the electronics engineering domain, adapting two 7B models under two different training data strategies. Because Rouge and BertScore poorly capture factuality on long technical text, we introduce C-FEX, a claim-based evaluation pipeline that attributes each response claim to its origin (augmented prompt or reference response), and propose Parametric Knowledge Precision (PKP), which isolates claims originating from the model's weights and measures their correctness. We show that a prior metric to assess parametric knowledge decomposes as PKP $\\times$ PR, separating the rate of parametric output (PR) from its quality (PKP). Empirically, fine-tuned 7B models match or exceed a 72B baseline; standard metrics disagree with claim-based factuality and can mislead about fine-tuning gains; and, fine-tuning does not reinforce correct parametric knowledge but suppresses hallucination---models speak from their weights less often but far more reliably.",
+    "publishedAt": "2026-08-19",
+    "author": "Julian Oestreich, Maximilian Bley, Frank Binder, Lydia M\\\"uller, Andr\\'e Alcalde, Maksym Sydorenkoq",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

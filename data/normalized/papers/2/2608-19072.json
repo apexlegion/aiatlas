@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2608-19072",
+  "name": "What is Missing from AI Post-Training AI: An Empirical Analysis",
+  "summary": "Large language model (LLM) agents can now post-train an LLM end-to-end. They can write code, launch training, evaluate checkpoints, and improve downstream performance, raising the prospect of AI-fo...",
+  "description": "Large language model (LLM) agents can now post-train an LLM end-to-end. They can write code, launch training, evaluate checkpoints, and improve downstream performance, raising the prospect of AI-for-AI. We argue that this picture conflates two distinct capabilities: execution-level capability, iterating within a selected training strategy; and strategy-level capability, revising the high-level judgment as experimental evidence accumulates. Analyzing a large corpus of publicly released post-training trajectories, we find that across different tasks, the agent's training strategy is locked in...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.19072v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-19",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.19072v1"
+    }
+  ],
+  "authors": [
+    "Joy Jia Yin Lim",
+    "Xin Huang",
+    "Hao Peng",
+    "Yaxi Lu",
+    "Xin Cong",
+    "Zhong Zhang",
+    "Maosong Sun",
+    "Yankai Lin"
+  ],
+  "paperId": "2608.19072",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-19",
+  "abstract": "Large language model (LLM) agents can now post-train an LLM end-to-end. They can write code, launch training, evaluate checkpoints, and improve downstream performance, raising the prospect of AI-for-AI. We argue that this picture conflates two distinct capabilities: execution-level capability, iterating within a selected training strategy; and strategy-level capability, revising the high-level judgment as experimental evidence accumulates. Analyzing a large corpus of publicly released post-training trajectories, we find that across different tasks, the agent's training strategy is locked in..."
+}

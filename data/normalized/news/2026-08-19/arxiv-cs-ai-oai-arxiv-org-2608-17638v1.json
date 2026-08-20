@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-17638v1",
+  "name": "Beyond the Trace: Coupling an Interpretable Reasoning-State Readout to Native MoE Routing",
+  "summary": "arXiv:2608.17638v1 Announce Type: new Abstract: What a reasoning model writes is only a partial record of the process that produces it. We introduce a two-level internal readout for mixture-of-expe...",
+  "description": "arXiv:2608.17638v1 Announce Type: new Abstract: What a reasoning model writes is only a partial record of the process that produces it. We introduce a two-level internal readout for mixture-of-experts reasoning. We first distill vocabulary-scale J-space into J64, a 64-axis semantic frame learned from the model's own reasoning states. J64 reveals readable process state that the emitted trace doe...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.17638"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-19",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.17638"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-19",
+  "expiryAt": "2026-09-18T00:00:00.000Z",
+  "author": "Kang Chen, Sihan Zhao, Yixin Cao, Yugang Jiang"
+}

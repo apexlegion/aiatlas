@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2608-19174",
+  "name": "Finetuning Strategies for Querying Sounds by Vocal Imitation",
+  "summary": "This technical report describes our winning submission to the AES AIMLA 2025 Challenge on querying sound effects by vocal imitation. We investigate two complementary fine-tuning strategies: contras...",
+  "description": "This technical report describes our winning submission to the AES AIMLA 2025 Challenge on querying sound effects by vocal imitation. We investigate two complementary fine-tuning strategies: contrastive learning with a frozen, pretrained CED encoder, and joint contrastive-triplet learning with semi-hard negatives using a MobileNetV3 encoder. This report has been updated for posterity to include details released after the challenge.",
+  "tags": [
+    "arxiv",
+    "cs.SD"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.19174v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-19",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.SD.",
+      "href": "https://arxiv.org/abs/2608.19174v1"
+    }
+  ],
+  "authors": [
+    "Aditya Bhattacharjee",
+    "Christos Plachouras",
+    "Sungkyun Chang",
+    "Emmanouil Benetos"
+  ],
+  "paperId": "2608.19174",
+  "category": "cs.SD",
+  "publishedAt": "2026-08-19",
+  "abstract": "This technical report describes our winning submission to the AES AIMLA 2025 Challenge on querying sound effects by vocal imitation. We investigate two complementary fine-tuning strategies: contrastive learning with a frozen, pretrained CED encoder, and joint contrastive-triplet learning with semi-hard negatives using a MobileNetV3 encoder. This report has been updated for posterity to include details released after the challenge."
+}

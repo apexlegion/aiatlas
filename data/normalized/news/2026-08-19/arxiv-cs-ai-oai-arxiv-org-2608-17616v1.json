@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-17616v1",
+  "name": "MoNe: Modular Neural Memory for Efficient Long Context Inference",
+  "summary": "arXiv:2608.17616v1 Announce Type: new Abstract: We present MoNe, a lightweight modular neural memory that attaches to any frozen pretrained Transformer to enable long-context inference without retr...",
+  "description": "arXiv:2608.17616v1 Announce Type: new Abstract: We present MoNe, a lightweight modular neural memory that attaches to any frozen pretrained Transformer to enable long-context inference without retraining. MoNe reads context in fixed-size segments via test-time learning of fast-weight neural memory networks with layer-localized gradient updates; at inference, the memory generates keys and values...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.17616"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-19",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.17616"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-19",
+  "expiryAt": "2026-09-18T00:00:00.000Z",
+  "author": "Wonguk Cho, Kyubyung Chae, Tribhuvanesh Orekondy, Sunghyun Park, Hyoungwoo Park, Jeongho Kim, Arash Behboodi, Kyuwoong Hwang, Sungrack Yun"
+}

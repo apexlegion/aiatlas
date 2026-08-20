@@ -1,0 +1,42 @@
+{
+  "type": "paper",
+  "slug": "2608-19098",
+  "name": "Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation",
+  "summary": "Multi-teacher on-policy distillation (M-OPD) has emerged as a promising paradigm for consolidating domain-specialized reinforcement learning (RL) experts into a single generalist student via dense,...",
+  "description": "Multi-teacher on-policy distillation (M-OPD) has emerged as a promising paradigm for consolidating domain-specialized reinforcement learning (RL) experts into a single generalist student via dense, token-level reward supervision. Despite its practical success, the optimization dynamics governing multi-teacher capability integration remain poorly understood, and open, rigorously reproducible recipes are conspicuously lacking. In this work, we establish a controlled M-OPD benchmark on SmolLM3-3B-Base with oracle routing, isolating capability integration from routing ambiguity. Our investigati...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.19098v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-19",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2608.19098v1"
+    }
+  ],
+  "authors": [
+    "Huan-ang Gao",
+    "Haohan Chi",
+    "Yong Yan",
+    "Shiyuan Feng",
+    "Hanlin Wu",
+    "Zheng Jiang",
+    "Bingxiang He",
+    "Wei-Ying Ma",
+    "Ya-Qin Zhang",
+    "Hao Zhou"
+  ],
+  "paperId": "2608.19098",
+  "category": "cs.LG",
+  "publishedAt": "2026-08-19",
+  "abstract": "Multi-teacher on-policy distillation (M-OPD) has emerged as a promising paradigm for consolidating domain-specialized reinforcement learning (RL) experts into a single generalist student via dense, token-level reward supervision. Despite its practical success, the optimization dynamics governing multi-teacher capability integration remain poorly understood, and open, rigorously reproducible recipes are conspicuously lacking. In this work, we establish a controlled M-OPD benchmark on SmolLM3-3B-Base with oracle routing, isolating capability integration from routing ambiguity. Our investigati..."
+}

@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2608-19121",
+  "name": "PGFS++: Molecular Property Improvement under Synthesis and Diversity Constraints",
+  "summary": "Improving molecular properties, such as drug-likeness or binding affinity, is a recurring task in early-stage drug discovery. However, molecules optimized in an unconstrained chemical space have li...",
+  "description": "Improving molecular properties, such as drug-likeness or binding affinity, is a recurring task in early-stage drug discovery. However, molecules optimized in an unconstrained chemical space have limited practical value if they cannot be synthesized. Policy Gradient for Forward Synthesis (PGFS) is a synthesis-aware reinforcement learning method for molecular improvement, but its use of reactant embedding prediction makes reactant selection indirect, which, as we show, limits learning effectiveness. We first develop PGFS+, in which reaction templates and second reactants are represented by tr...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.19121v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-19",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2608.19121v1"
+    }
+  ],
+  "authors": [
+    "Boqiao Zhang",
+    "Godbless James",
+    "Sai Krishna Gottipati",
+    "Andrew Fitzgibbon"
+  ],
+  "paperId": "2608.19121",
+  "category": "cs.LG",
+  "publishedAt": "2026-08-19",
+  "abstract": "Improving molecular properties, such as drug-likeness or binding affinity, is a recurring task in early-stage drug discovery. However, molecules optimized in an unconstrained chemical space have limited practical value if they cannot be synthesized. Policy Gradient for Forward Synthesis (PGFS) is a synthesis-aware reinforcement learning method for molecular improvement, but its use of reactant embedding prediction makes reactant selection indirect, which, as we show, limits learning effectiveness. We first develop PGFS+, in which reaction templates and second reactants are represented by tr..."
+}

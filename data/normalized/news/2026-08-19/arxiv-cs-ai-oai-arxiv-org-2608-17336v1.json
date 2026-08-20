@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-17336v1",
+  "name": "TileMix: Tile-Centric Mixed-Precision Attention for LLM Inference Acceleration",
+  "summary": "arXiv:2608.17336v1 Announce Type: new Abstract: Long-context prefill in large language models (LLMs) incurs substantial computation and memory traffic because dense self-attention computes quadrati...",
+  "description": "arXiv:2608.17336v1 Announce Type: new Abstract: Long-context prefill in large language models (LLMs) incurs substantial computation and memory traffic because dense self-attention computes quadratic query-key scores. Existing methods either use a uniform low-precision path or select token interactions, leaving spatial precision routing over hardware-aligned score tiles outside fused dense atten...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.17336"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-19",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.17336"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-19",
+  "expiryAt": "2026-09-18T00:00:00.000Z",
+  "author": "Hanzhi Zhang, Qiao Zhang, Qinglei Cao, Heng Fan, Yan Huang, Kewei Sha, Yunhe Feng"
+}

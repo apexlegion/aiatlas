@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2504-20131v4",
+  "name": "LZ Penalty: An information-theoretic repetition penalty for autoregressive language models",
+  "summary": "arXiv:2504.20131v4 Announce Type: replace-cross Abstract: We introduce the LZ penalty, a penalty specialized for reducing degenerate repetitions in autoregressive language models without loss of ca...",
+  "description": "arXiv:2504.20131v4 Announce Type: replace-cross Abstract: We introduce the LZ penalty, a penalty specialized for reducing degenerate repetitions in autoregressive language models without loss of capability. The penalty is based on the codelengths in the LZ77 universal lossless compression algorithm. Through the lens of the prediction-compression duality, decoding the LZ penalty has the interpre...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2504.20131"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-19",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2504.20131"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-19",
+  "expiryAt": "2026-09-18T00:00:00.000Z",
+  "author": "Antonio A. Ginart, Naveen Kodali, Jason Lee, Caiming Xiong, Silvio Savarese, John R. Emmons"
+}
