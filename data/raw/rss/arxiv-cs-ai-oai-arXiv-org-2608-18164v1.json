@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.18164v1",
+  "fetchedAt": "2026-08-21T03:10:22.691Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.18164v1",
+    "title": "Are LLMs Safe Beyond Text: Do Emojis Expose Gaps in Safety Evaluation",
+    "link": "https://arxiv.org/abs/2608.18164",
+    "description": "arXiv:2608.18164v1 Announce Type: cross Abstract: Safety evaluations of large language models (LLMs) predominantly rely on text-based adversarial prompts, potentially overlooking vulnerabilities arising from alternative input representations. This work examines emoji-augmented prompts as a test case for this gap, evaluating 50 prompts across four open-source LLMs (Mistral 7B, Qwen 2 7B, Gemma 2 9B, Llama 3 8B). Results show substantial variation in robustness: Gemma 2 9B and Mistral 7B exhibit non-zero success rates (10%), Llama 3 8B 6%, while Qwen 2 7B shows complete resistance (0% success rate). A chi-square test ($\\chi^2 = 32.94, p &lt; 0.001$) confirms significant differences in outcome distributions. These findings indicate that robustness is sensitive to input representation, and that evaluations restricted to standard text prompts may underrepresent model vulnerabilities.",
+    "publishedAt": "2026-08-20",
+    "author": "M P V S Gopinadh",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

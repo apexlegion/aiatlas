@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-19127v1",
+  "name": "Leaf Values as Coordinates: Exact Contrastive Explanation for Gradient-Boosted Ensembles",
+  "summary": "arXiv:2608.19127v1 Announce Type: cross Abstract: A gradient-boosted ensemble predicts by summing one leaf value per tree. Read those values as coordinates rather than as intermediate results, and...",
+  "description": "arXiv:2608.19127v1 Announce Type: cross Abstract: A gradient-boosted ensemble predicts by summing one leaf value per tree. Read those values as coordinates rather than as intermediate results, and every instance becomes a point in R^M on which the model acts linearly: the score is the sum of the coordinates. This small change of view makes contrastive explanation exact. The difference between t...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.19127"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-20",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.19127"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-20",
+  "expiryAt": "2026-09-19T00:00:00.000Z",
+  "author": "Emanuele Luzio"
+}

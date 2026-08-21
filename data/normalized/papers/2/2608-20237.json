@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2608-20237",
+  "name": "Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models",
+  "summary": "Multimodal large language models (MLLMs) combine linguistic reasoning with visual perception, yet their ability to perform visual spatial planning under explicit or previously unseen rule constrain...",
+  "description": "Multimodal large language models (MLLMs) combine linguistic reasoning with visual perception, yet their ability to perform visual spatial planning under explicit or previously unseen rule constraints remains underexplored. This setting requires models to jointly understand spatial layouts, interpret natural-language rules, and plan valid actions accordingly. To address this gap, we introduce RuleMaze, a controllable benchmark in which MLLMs must navigate mazes while obeying natural-language rules of varying complexity. RuleMaze isolates rule-compliant spatial planning by requiring accurate...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.20237v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-20",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.20237v1"
+    }
+  ],
+  "authors": [
+    "Yu Chen",
+    "Ting Lei",
+    "Yaoyi Li",
+    "Jia Cai",
+    "Zhecen Wu",
+    "Yang Liu"
+  ],
+  "paperId": "2608.20237",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-20",
+  "abstract": "Multimodal large language models (MLLMs) combine linguistic reasoning with visual perception, yet their ability to perform visual spatial planning under explicit or previously unseen rule constraints remains underexplored. This setting requires models to jointly understand spatial layouts, interpret natural-language rules, and plan valid actions accordingly. To address this gap, we introduce RuleMaze, a controllable benchmark in which MLLMs must navigate mazes while obeying natural-language rules of varying complexity. RuleMaze isolates rule-compliant spatial planning by requiring accurate..."
+}

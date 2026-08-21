@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2608-20220",
+  "name": "InsufficiencyBench: Evaluating LLM legal advice on underspecified user queries",
+  "summary": "Legal AI systems are increasingly used to answer legal questions, yet existing benchmarks assume queries arrive fully specified. In practice, users omit facts that materially determine the legal ou...",
+  "description": "Legal AI systems are increasingly used to answer legal questions, yet existing benchmarks assume queries arrive fully specified. In practice, users omit facts that materially determine the legal outcome. We introduce InsufficiencyBench, the first legal benchmark targeting query-side insufficiency: whether a model recognizes when a query lacks legally material information, identifies what is missing, and refrains from premature conclusions. We formalize a taxonomy of eight canonical missing-element categories across three structural failure modes---switch, gating, and fatal prerequisite--- a...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.20220v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-20",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.20220v1"
+    }
+  ],
+  "authors": [
+    "Samuel J. Vincent",
+    "Daniel Calloway",
+    "Fangyi Yu",
+    "Andrew M. Bean",
+    "Nabeel Seedat"
+  ],
+  "paperId": "2608.20220",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-20",
+  "abstract": "Legal AI systems are increasingly used to answer legal questions, yet existing benchmarks assume queries arrive fully specified. In practice, users omit facts that materially determine the legal outcome. We introduce InsufficiencyBench, the first legal benchmark targeting query-side insufficiency: whether a model recognizes when a query lacks legally material information, identifies what is missing, and refrains from premature conclusions. We formalize a taxonomy of eight canonical missing-element categories across three structural failure modes---switch, gating, and fatal prerequisite--- a..."
+}

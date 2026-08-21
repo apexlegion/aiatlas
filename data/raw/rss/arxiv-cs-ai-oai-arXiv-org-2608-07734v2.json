@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.07734v2",
+  "fetchedAt": "2026-08-21T03:10:22.691Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.07734v2",
+    "title": "Complete, Scalable, and Robust Prioritized Planning for Multi-Robot Ordered Storage and Retrieval at Maximum Capacity",
+    "link": "https://arxiv.org/abs/2608.07734",
+    "description": "arXiv:2608.07734v2 Announce Type: replace-cross Abstract: Automated warehouses face a fundamental trade-off between maximizing storage density and achieving high retrieval throughput. While puzzle-based storage (PBS) architectures increase capacity by eliminating aisles, coordinating multiple robots in these high-density spaces is computationally challenging. This paper formalizes the challenge through a novel multi-robot problem formulation for ordered storage and retrieval: We consider rectangular 2D grids, where uniform-sized loads are first stored, up to full capacity, and subsequently retrieved according to prescribed arrival and departure sequences. The main contribution of this work is an online prioritized multi-agent path planning algorithm for this problem. The algorithm builds on prior work that constructs arrangements supporting sequential storage and retrieval, i.e., of one load at a time, without relocating loads. By exploiting the structural invariants of such arrangements, we achieve the scalability of decoupled planning while guaranteeing complete, deadlock-free parallel execution even at full storage density. Experiments demonstrate that the algorithm achieves near-linear improvement in makespan with respect to the number of robots, up to $C$ robots, where $C$ is the width of the grid's open side. Furthermore, the algorithm supports robust storage arrangements that accommodate bounded uncertainty in the departure sequence, with negligible impact on execution makespan.",
+    "publishedAt": "2026-08-20",
+    "author": "William Zhang, Tzvika Geft, Jingjin Yu, Kostas Bekris",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2608-20274",
+  "name": "Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents",
+  "summary": "Large language model (LLM) agents can induce skills from completed tasks and reuse them later to grow more capable with experience. In practice, induced skills may transfer unreliably and can even...",
+  "description": "Large language model (LLM) agents can induce skills from completed tasks and reuse them later to grow more capable with experience. In practice, induced skills may transfer unreliably and can even harm the agent that retrieves them. When agent-induced skills transfer reliably across tasks remains an open question. We conduct a comprehensive and controlled study of how the way skills are induced shapes their transfer across tasks. Specifically, we compare task-level with subtask-level skill induction and text with code skill formats, the two axes along which existing methods differ. Task-lev...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.20274v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-20",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.20274v1"
+    }
+  ],
+  "authors": [
+    "Yiyang Feng",
+    "Biddut Sarker Bijoy",
+    "Niranjan Balasubramanian",
+    "Jiawei Zhou"
+  ],
+  "paperId": "2608.20274",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-20",
+  "abstract": "Large language model (LLM) agents can induce skills from completed tasks and reuse them later to grow more capable with experience. In practice, induced skills may transfer unreliably and can even harm the agent that retrieves them. When agent-induced skills transfer reliably across tasks remains an open question. We conduct a comprehensive and controlled study of how the way skills are induced shapes their transfer across tasks. Specifically, we compare task-level with subtask-level skill induction and text with code skill formats, the two axes along which existing methods differ. Task-lev..."
+}

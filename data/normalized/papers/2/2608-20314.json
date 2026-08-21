@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2608-20314",
+  "name": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
+  "summary": "Mid-training is increasingly recognized as a critical stage for shaping the capabilities of large language models. Recent work has shown that targeted mid-training can strengthen reasoning-intensiv...",
+  "description": "Mid-training is increasingly recognized as a critical stage for shaping the capabilities of large language models. Recent work has shown that targeted mid-training can strengthen reasoning-intensive abilities such as math and science, and can also improve agentic capabilities in software-engineering settings. In this work, we study the parallel but less explored agentic capability: general tool use. We present MidTool, an open corpus construction pipeline for agentic tool-use mid-training that combines large-scale web, PDF, and code data with synthesized supervision from real-world tool API...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.20314v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-20",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.20314v1"
+    }
+  ],
+  "authors": [
+    "Fengqing Jiang",
+    "Yite Wang",
+    "Boyi Liu",
+    "Zhaoyang Wang",
+    "Canwen Xu",
+    "Zhewei Yao",
+    "Radha Poovendran",
+    "Yuxiong He"
+  ],
+  "paperId": "2608.20314",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-20",
+  "abstract": "Mid-training is increasingly recognized as a critical stage for shaping the capabilities of large language models. Recent work has shown that targeted mid-training can strengthen reasoning-intensive abilities such as math and science, and can also improve agentic capabilities in software-engineering settings. In this work, we study the parallel but less explored agentic capability: general tool use. We present MidTool, an open corpus construction pipeline for agentic tool-use mid-training that combines large-scale web, PDF, and code data with synthesized supervision from real-world tool API..."
+}

@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2608-20316",
+  "name": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
+  "summary": "Heterogeneous AI systems composed of multiple models, architectures, harnesses, or inference-time settings can improve quality and efficiency by routing queries to the specialist who can answer mos...",
+  "description": "Heterogeneous AI systems composed of multiple models, architectures, harnesses, or inference-time settings can improve quality and efficiency by routing queries to the specialist who can answer most effectively at the lowest cost. Routing requires estimating each specialist's expected return, but this value estimation has a cost. Cheap estimators (e.g., embedding-based predictors) are fast but noisy, while accurate estimators (e.g., fine-tuned models with access to retrieval results or partial reasoning traces) are expensive. We formalize this tradeoff as an instance of Pandora's Box, the c...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.20316v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-20",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.20316v1"
+    }
+  ],
+  "authors": [
+    "Adam Fisch",
+    "Shubhendu Trivedi",
+    "Fantine Huot",
+    "William W. Cohen",
+    "Michael Kaisers",
+    "Mirella Lapata",
+    "Kate Larson",
+    "Jacob Eisenstein"
+  ],
+  "paperId": "2608.20316",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-20",
+  "abstract": "Heterogeneous AI systems composed of multiple models, architectures, harnesses, or inference-time settings can improve quality and efficiency by routing queries to the specialist who can answer most effectively at the lowest cost. Routing requires estimating each specialist's expected return, but this value estimation has a cost. Cheap estimators (e.g., embedding-based predictors) are fast but noisy, while accurate estimators (e.g., fine-tuned models with access to retrieval results or partial reasoning traces) are expensive. We formalize this tradeoff as an instance of Pandora's Box, the c..."
+}
