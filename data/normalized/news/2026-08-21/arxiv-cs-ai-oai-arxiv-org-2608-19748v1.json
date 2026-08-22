@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-19748v1",
+  "name": "Truncate Bad, Upweight Good: BoN-Style Distillation via Rank-Based Classification",
+  "summary": "arXiv:2608.19748v1 Announce Type: cross Abstract: Inference-time selection methods, such as Best-of-N, improve generation by sampling a pool of candidates and selecting the top-ranked completion ac...",
+  "description": "arXiv:2608.19748v1 Announce Type: cross Abstract: Inference-time selection methods, such as Best-of-N, improve generation by sampling a pool of candidates and selecting the top-ranked completion according to a reward model. Distillation seeks to amortize this procedure into a single policy by replacing raw rewards with in-pool ranks and learning a policy that upweights higher-ranked completions...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.19748"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-21",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.19748"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-21",
+  "expiryAt": "2026-09-20T00:00:00.000Z",
+  "author": "Yarin Bar, Yaniv Romano"
+}

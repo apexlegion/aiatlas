@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-20210v1",
+  "name": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
+  "summary": "arXiv:2608.20210v1 Announce Type: cross Abstract: Small language models are usually built like large ones and then squeezed onto a CPU afterwards. We did the opposite: we fixed the target first, on...",
+  "description": "arXiv:2608.20210v1 Announce Type: cross Abstract: Small language models are usually built like large ones and then squeezed onto a CPU afterwards. We did the opposite: we fixed the target first, one user, one token at a time, 4-bit weights, ordinary CPU, and chose the architecture to suit it. The result keeps full attention in only 6 of its 18 blocks. The other 12 use short convolutions whose m...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.20210"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-21",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.20210"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-21",
+  "expiryAt": "2026-09-20T00:00:00.000Z",
+  "author": "Christos Koutsiaris"
+}

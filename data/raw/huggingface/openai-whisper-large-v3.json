@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-08-21T03:10:21.580Z",
+  "fetchedAt": "2026-08-22T03:01:00.290Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4818588,
-    "likes": 6165,
+    "downloads": 4731648,
+    "likes": 6168,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -348,9 +348,7 @@
     "spaces": [
       "mteb/leaderboard",
       "openai/whisper",
-      "ardha27/Youtube-AI-Summarizer",
       "RyeAI/danish-asr-leaderboard",
-      "treble-technologies/ffasr",
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "microsoft/paza-bench",
       "eduagarcia/multilingual-tokenizer-leaderboard",
@@ -372,9 +370,11 @@
       "alexnasa/HuMo_local",
       "devilent2/whisper-v3-zero",
       "wcy1122/MGM-Omni",
+      "treble-technologies/ffasr",
       "aiqcamp/ENGLISH-Speaking-Scoring",
       "choimirai/whisper-large-v3",
       "gabrielchua/hey-gemma",
+      "ardha27/Youtube-AI-Summarizer",
       "AudioLLMs/AudioBench-Leaderboard-Extend",
       "Illia56/transcribe-video-via-whisper-v3",
       "ylacombe/create-your-own-TTS-dataset",
