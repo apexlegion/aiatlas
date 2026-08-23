@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-08-22T03:01:00.290Z",
+  "fetchedAt": "2026-08-23T03:10:12.480Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4731648,
-    "likes": 6168,
+    "downloads": 4615793,
+    "likes": 6173,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -351,11 +351,11 @@
       "RyeAI/danish-asr-leaderboard",
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "microsoft/paza-bench",
+      "phinam112/OmniVoice-Studio",
       "eduagarcia/multilingual-tokenizer-leaderboard",
       "Quran-Lab/quranic-asr-leaderboard",
       "saja55/smart-advisor",
       "ArtFix0/speech-to-speech-dashboard",
-      "jawidtabish/summary_agent",
       "hf-audio/whisper-large-v3",
       "artificialguybr/Video-Transcription-Smart-Summary",
       "artificialguybr/video-dubbing",
@@ -378,7 +378,6 @@
       "AudioLLMs/AudioBench-Leaderboard-Extend",
       "Illia56/transcribe-video-via-whisper-v3",
       "ylacombe/create-your-own-TTS-dataset",
-      "phinam112/OmniVoice-Studio",
       "navidved/open_persian_asr_leaderboard",
       "mozilla-ai/transcribe",
       "mrm8488/whisper-large-v3",
@@ -445,7 +444,8 @@
       "Taranosaurus/Tokenizaminer",
       "AilexGPT/YTwhisper_GPT",
       "pythonitalia/realtime-transcription",
-      "haoxiong693/openai-whisper-large-v3"
+      "haoxiong693/openai-whisper-large-v3",
+      "SahilJ2/VQA_Model"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {
