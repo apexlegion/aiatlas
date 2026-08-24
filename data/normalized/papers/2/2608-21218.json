@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2608-21218",
+  "name": "Enhancing LLMs in Predictive Political QA with Semi-Structured Data",
+  "summary": "Predictive political question answering (QA), such as predicting how a political actor will vote, goes beyond factual lookup. External political resources offer rich historical evidence, but rarely...",
+  "description": "Predictive political question answering (QA), such as predicting how a political actor will vote, goes beyond factual lookup. External political resources offer rich historical evidence, but rarely contain the answer itself. Existing LLM augmentation methods, including actor-profile-based simulation and knowledge graph evidence injection, improve political reasoning but largely treat external resources as knowledge-based evidence, leaving prediction-relevant signals under-modeled. We identify two complementary signals for predictive political QA: actor stances that capture issue-specific pr...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.21218v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-21",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.21218v1"
+    }
+  ],
+  "authors": [
+    "Yinan Liu",
+    "Zihan Zhou",
+    "Zichun Jin",
+    "Xinyu Wang",
+    "Bin Wang",
+    "Xiaochun Yang"
+  ],
+  "paperId": "2608.21218",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-21",
+  "abstract": "Predictive political question answering (QA), such as predicting how a political actor will vote, goes beyond factual lookup. External political resources offer rich historical evidence, but rarely contain the answer itself. Existing LLM augmentation methods, including actor-profile-based simulation and knowledge graph evidence injection, improve political reasoning but largely treat external resources as knowledge-based evidence, leaving prediction-relevant signals under-modeled. We identify two complementary signals for predictive political QA: actor stances that capture issue-specific pr..."
+}

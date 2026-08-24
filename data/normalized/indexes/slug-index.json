@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T03:10:15.769Z",
+  "generatedAt": "2026-08-24T03:11:21.381Z",
   "entries": {
     "automatic1111-stable-diffusion-webui": {
       "slug": "automatic1111-stable-diffusion-webui",
@@ -177,224 +177,224 @@
         "jupyter notebook"
       ]
     },
-    "2608-20202": {
-      "slug": "2608-20202",
-      "typedId": "paper/2608-20202",
-      "name": "MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use",
+    "2608-21206": {
+      "slug": "2608-21206",
+      "typedId": "paper/2608-21206",
+      "name": "No PUN Intended: Plausible Unknown Names for Person-Centred LLM Evaluation",
       "type": "paper",
-      "summary": "Memory has become a key component of large language models, enabling them to retain information and learn from long-term interactions. However, existing memory benchmarks mainly evaluate whether in...",
+      "summary": "Person names are widely used as prompt variables in LLM evaluations of factuality, privacy leakage, bias and abstention, but when a name's evidential status is uncontrolled, measurements may confla...",
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ]
+    },
+    "2608-21207": {
+      "slug": "2608-21207",
+      "typedId": "paper/2608-21207",
+      "name": "Curriculum-Aware Interpolate-then-Refine: Learned Physiological Time-Series Imputation under Realistic Missingness",
+      "type": "paper",
+      "summary": "Imputing physiological time series (arterial blood pressure, blood glucose, etc.) is essential for addressing the missingness that pervades clinical data. Yet modern imputation methods perform poor...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2608-21208": {
+      "slug": "2608-21208",
+      "typedId": "paper/2608-21208",
+      "name": "Specification Portability Across LLM Development Agents: Cross-Agent Compatibility in Specification-Driven Software Migration",
+      "type": "paper",
+      "summary": "This paper investigates cross-agent specification portability using Oracle-to-PostgreSQL migration as a controlled software transformation task. The study combines two experimental stages. First, a...",
+      "tags": [
+        "arxiv",
+        "cs.SE"
+      ]
+    },
+    "2608-21209": {
+      "slug": "2608-21209",
+      "typedId": "paper/2608-21209",
+      "name": "Personalized Privacy Control in LLMs via Attention Head Intervention",
+      "type": "paper",
+      "summary": "The rise of agentic AI enables LLMs to access diverse user data, raising critical privacy concerns. Prior work on contextual privacy studies whether LLMs regulate information disclosure according t...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2608-20204": {
-      "slug": "2608-20204",
-      "typedId": "paper/2608-20204",
-      "name": "ContractScrub: A benchmark for final review of legal contracts",
+    "2608-21218": {
+      "slug": "2608-21218",
+      "typedId": "paper/2608-21218",
+      "name": "Enhancing LLMs in Predictive Political QA with Semi-Structured Data",
       "type": "paper",
-      "summary": "Legal work, with its heavy reliance on processing large amounts of text, is often considered one of the domains most exposed to the use of LLMs. Contract ``scrubbing,'' the final review of transact...",
+      "summary": "Predictive political question answering (QA), such as predicting how a political actor will vote, goes beyond factual lookup. External political resources offer rich historical evidence, but rarely...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2608-20210": {
-      "slug": "2608-20210",
-      "typedId": "paper/2608-20210",
-      "name": "Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference",
+    "2608-21224": {
+      "slug": "2608-21224",
+      "typedId": "paper/2608-21224",
+      "name": "Ontology-supported AI Model and Dataset Management",
       "type": "paper",
-      "summary": "Small language models are usually built like large ones and then squeezed onto a CPU afterwards. We did the opposite: we fixed the target first, one user, one token at a time, 4-bit weights, ordina...",
+      "summary": "Recently, there has been a great deal of research into improving AI methods and their application. The main focus is on tracking progress, enabling transparent comparisons, and fostering a more pro...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2608-21230": {
+      "slug": "2608-21230",
+      "typedId": "paper/2608-21230",
+      "name": "Utility Under Attack: Agent Memory Poisoning and the Limits of Content Screening and Provenance Ranking",
+      "type": "paper",
+      "summary": "Persistent memory makes false information durable: once a false statement is stored, it can be retrieved into future sessions that match it. We measure the cost of this failure mode using plainly w...",
+      "tags": [
+        "arxiv",
+        "cs.CR"
+      ]
+    },
+    "2608-21233": {
+      "slug": "2608-21233",
+      "typedId": "paper/2608-21233",
+      "name": "Fine-Grain GPU Parallelization of the Generalized Partition Crossover for Large-Scale Traveling Salesman Problems",
+      "type": "paper",
+      "summary": "The Traveling Salesman Problem (TSP) is one of the most extensively studied NP-hard optimization problems. Genetic Algorithm (GA)-based solvers, such as the Edge Assembly Crossover (EAX), achieve s...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2608-21243": {
+      "slug": "2608-21243",
+      "typedId": "paper/2608-21243",
+      "name": "Adapting Knowledge Graphs for Behavior Denoising in Sequential Recommendation",
+      "type": "paper",
+      "summary": "Sequential recommendation predicts the next item from a user's interaction history, but not every interaction is equally informative. Real logs combine persistent preferences with temporary needs,...",
       "tags": [
         "arxiv",
         "cs.IR"
       ]
     },
-    "2608-20218": {
-      "slug": "2608-20218",
-      "typedId": "paper/2608-20218",
-      "name": "Electronic Navigational Chart Change Classification",
+    "2608-21252": {
+      "slug": "2608-21252",
+      "typedId": "paper/2608-21252",
+      "name": "EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering",
       "type": "paper",
-      "summary": "Electronic Navigational Charts (ENCs) are geospatial vector datasets used in maritime navigation systems that represent hydrographic and navigational information such as depths, navigational aids,...",
+      "summary": "Question answering (QA) over long, connected documents remains challenging because relevant evidence may span multiple entities and their relationships. Existing retrieval-augmented generation (RAG...",
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ]
+    },
+    "2608-21278": {
+      "slug": "2608-21278",
+      "typedId": "paper/2608-21278",
+      "name": "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment",
+      "type": "paper",
+      "summary": "Improving the safety of large language models (LLMs) often comes at the expense of utility, as globally applied safety tuning may affect model responses to both harmful and benign inputs. We propos...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2608-20220": {
-      "slug": "2608-20220",
-      "typedId": "paper/2608-20220",
-      "name": "InsufficiencyBench: Evaluating LLM legal advice on underspecified user queries",
+    "2608-21292": {
+      "slug": "2608-21292",
+      "typedId": "paper/2608-21292",
+      "name": "AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization",
       "type": "paper",
-      "summary": "Legal AI systems are increasingly used to answer legal questions, yet existing benchmarks assume queries arrive fully specified. In practice, users omit facts that materially determine the legal ou...",
+      "summary": "Skills play different roles as an agent's policy evolves: they should first provide learnable knowledge, then support capability formation, and finally be invoked only when they improve individual...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2608-20229": {
-      "slug": "2608-20229",
-      "typedId": "paper/2608-20229",
-      "name": "Prompt-Conditioned Channel Attention for Hierarchical Feature Modulation toward Anatomy-Agnostic Segmentation",
+    "2608-21305": {
+      "slug": "2608-21305",
+      "typedId": "paper/2608-21305",
+      "name": "Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning",
       "type": "paper",
-      "summary": "Anatomically plausible segmentation remains challenging because of low contrast, ambiguous boundaries, and modality-specific artifacts. Interactive segmentation has emerged as a promising strategy...",
+      "summary": "Reinforcement Learning (RL) has demonstrated significant gains in image captioning, yet it is still limited in encouraging Large Vision-Language Models (LVLMs) to explore novel reasoning strategies...",
       "tags": [
         "arxiv",
         "cs.CV"
       ]
     },
-    "2608-20231": {
-      "slug": "2608-20231",
-      "typedId": "paper/2608-20231",
-      "name": "Growth Without Us: Machine Consumers, Corporate Circularity, and the Decoupling of GDP from Humanity after AGI",
+    "2608-21317": {
+      "slug": "2608-21317",
+      "typedId": "paper/2608-21317",
+      "name": "From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry",
       "type": "paper",
-      "summary": "The standard objection to full automation is demand-side: if humans earn nothing, who buys the output? This confuses an accounting role with a biological species. We model a post-AGI economy in whi...",
-      "tags": [
-        "arxiv",
-        "physics.soc-ph"
-      ]
-    },
-    "2608-20237": {
-      "slug": "2608-20237",
-      "typedId": "paper/2608-20237",
-      "name": "Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models",
-      "type": "paper",
-      "summary": "Multimodal large language models (MLLMs) combine linguistic reasoning with visual perception, yet their ability to perform visual spatial planning under explicit or previously unseen rule constrain...",
+      "summary": "The European Union (EU) has emerged as a leading regulatory body in the development of sustainability and privacy regulations. While new regulation requirements vary, many include a documentation a...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2608-20240": {
-      "slug": "2608-20240",
-      "typedId": "paper/2608-20240",
-      "name": "QUASAR: A Quantum-Classical Neural Network for SAR Satellite Physical-Layer Authentication",
+    "2608-21319": {
+      "slug": "2608-21319",
+      "typedId": "paper/2608-21319",
+      "name": "Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets",
       "type": "paper",
-      "summary": "X-band SAR satellites (8-12 GHz) play a critical role in disaster response, environmental monitoring, and military intelligence. Yet, they lack robust physical-layer authentication (PLA), a securit...",
+      "summary": "We formalize the Steiner Traveling Salesman Problem (Steiner-TSP) on Graphs of Convex Sets (GCS), which seeks a minimum-cost closed trajectory through required convex sets while allowing optional t...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2608-20256": {
-      "slug": "2608-20256",
-      "typedId": "paper/2608-20256",
-      "name": "Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation",
+    "2608-21332": {
+      "slug": "2608-21332",
+      "typedId": "paper/2608-21332",
+      "name": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation",
       "type": "paper",
-      "summary": "Reasoning language models trained with reinforcement learning typically operate under a fixed token budget rather than an explicitly adaptive one, which can lead to over-computation on easy problem...",
+      "summary": "Deep-learning models of anatomy can be numerically plausible yet anatomically impossible, and they generalize poorly when data are scarce. We introduce Anatomy-Informed Neural Networks (AINN), in w...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2608-20271": {
-      "slug": "2608-20271",
-      "typedId": "paper/2608-20271",
-      "name": "Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning",
+    "2608-21343": {
+      "slug": "2608-21343",
+      "typedId": "paper/2608-21343",
+      "name": "TurboBias 2.0: Streaming Context-Biasing for Production-Efficient ASR Systems",
       "type": "paper",
-      "summary": "The rapid proliferation of memecoins on blockchain platforms has increased the risk of fraudulent activities, particularly rug pulls. While previous studies have focused on Ethereum-based tokens, t...",
+      "summary": "Contextualization is essential for production automatic speech recognition (ASR) systems, where user-provided phrases must be recognized accurately under strict latency constraints. Although many c...",
+      "tags": [
+        "arxiv",
+        "eess.AS"
+      ]
+    },
+    "2608-21356": {
+      "slug": "2608-21356",
+      "typedId": "paper/2608-21356",
+      "name": "AI with Authority, from Application to Silicon",
+      "type": "paper",
+      "summary": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine ve...",
+      "tags": [
+        "arxiv",
+        "cs.SE"
+      ]
+    },
+    "2608-21357": {
+      "slug": "2608-21357",
+      "typedId": "paper/2608-21357",
+      "name": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+      "type": "paper",
+      "summary": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform rese...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2608-20274": {
-      "slug": "2608-20274",
-      "typedId": "paper/2608-20274",
-      "name": "Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents",
+    "2608-21359": {
+      "slug": "2608-21359",
+      "typedId": "paper/2608-21359",
+      "name": "Primal Acceleration of Newton's Method",
       "type": "paper",
-      "summary": "Large language model (LLM) agents can induce skills from completed tasks and reuse them later to grow more capable with experience. In practice, induced skills may transfer unreliably and can even...",
+      "summary": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per...",
       "tags": [
         "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2608-20281": {
-      "slug": "2608-20281",
-      "typedId": "paper/2608-20281",
-      "name": "Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization",
-      "type": "paper",
-      "summary": "Large language models often fail to answer questions about a bounded document collection when the source documents are not retrieved at inference time. We study this setting as document knowledge i...",
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ]
-    },
-    "2608-20290": {
-      "slug": "2608-20290",
-      "typedId": "paper/2608-20290",
-      "name": "Phantom Gains: Auditing Self-Improvement Against a Measured Null",
-      "type": "paper",
-      "summary": "Whether a language model has improved itself is increasingly judged not by mean accuracy but by which individual problems it gains and loses. Tracking these transitions means differencing two noisy...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2608-20314": {
-      "slug": "2608-20314",
-      "typedId": "paper/2608-20314",
-      "name": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
-      "type": "paper",
-      "summary": "Mid-training is increasingly recognized as a critical stage for shaping the capabilities of large language models. Recent work has shown that targeted mid-training can strengthen reasoning-intensiv...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2608-20316": {
-      "slug": "2608-20316",
-      "typedId": "paper/2608-20316",
-      "name": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
-      "type": "paper",
-      "summary": "Heterogeneous AI systems composed of multiple models, architectures, harnesses, or inference-time settings can improve quality and efficiency by routing queries to the specialist who can answer mos...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2608-20318": {
-      "slug": "2608-20318",
-      "typedId": "paper/2608-20318",
-      "name": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
-      "type": "paper",
-      "summary": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2608-20319": {
-      "slug": "2608-20319",
-      "typedId": "paper/2608-20319",
-      "name": "Inducing Task Models from Computer-Use Traces",
-      "type": "paper",
-      "summary": "Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is...",
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ]
-    },
-    "2608-20320": {
-      "slug": "2608-20320",
-      "typedId": "paper/2608-20320",
-      "name": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
-      "type": "paper",
-      "summary": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent wor...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2608-20331": {
-      "slug": "2608-20331",
-      "typedId": "paper/2608-20331",
-      "name": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
-      "type": "paper",
-      "summary": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-depe...",
-      "tags": [
-        "arxiv",
-        "cs.CL"
+        "math.OC"
       ]
     },
     "huggingface-blog-https-huggingface-co-blog-asr-benchmark-optimization": {

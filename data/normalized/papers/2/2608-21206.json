@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2608-21206",
+  "name": "No PUN Intended: Plausible Unknown Names for Person-Centred LLM Evaluation",
+  "summary": "Person names are widely used as prompt variables in LLM evaluations of factuality, privacy leakage, bias and abstention, but when a name's evidential status is uncontrolled, measurements may confla...",
+  "description": "Person names are widely used as prompt variables in LLM evaluations of factuality, privacy leakage, bias and abstention, but when a name's evidential status is uncontrolled, measurements may conflate memorisation, retrieval, name priors and wrong-person attribution. We operationalise an unknown name as one with plausible First-Last form, no indexed full-name evidence, and no ambiguity signals under a documented validation run, and introduce PUN (Plausible Unknown Names), a protocol for constructing and validating such names, combining Wikidata-derived components, web-enabled LLM screening,...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.21206v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-21",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2608.21206v1"
+    }
+  ],
+  "authors": [
+    "Dimitri Staufer",
+    "David Hartmann",
+    "Ibrahim Baroud"
+  ],
+  "paperId": "2608.21206",
+  "category": "cs.CL",
+  "publishedAt": "2026-08-21",
+  "abstract": "Person names are widely used as prompt variables in LLM evaluations of factuality, privacy leakage, bias and abstention, but when a name's evidential status is uncontrolled, measurements may conflate memorisation, retrieval, name priors and wrong-person attribution. We operationalise an unknown name as one with plausible First-Last form, no indexed full-name evidence, and no ambiguity signals under a documented validation run, and introduce PUN (Plausible Unknown Names), a protocol for constructing and validating such names, combining Wikidata-derived components, web-enabled LLM screening,..."
+}

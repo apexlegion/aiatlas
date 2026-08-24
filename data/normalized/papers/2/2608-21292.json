@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2608-21292",
+  "name": "AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization",
+  "summary": "Skills play different roles as an agent's policy evolves: they should first provide learnable knowledge, then support capability formation, and finally be invoked only when they improve individual...",
+  "description": "Skills play different roles as an agent's policy evolves: they should first provide learnable knowledge, then support capability formation, and finally be invoked only when they improve individual decisions. Existing methods rarely model this lifecycle. They either keep skills outside the model, fully internalize them, or select among internalization and utilization objectives through noisy task-level success rates. Such designs fragment training and assign uniform importance to actions within the same trajectory, even though skill guidance may help some decisions while distracting others....",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.21292v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-21",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.21292v1"
+    }
+  ],
+  "authors": [
+    "Huizu Lin",
+    "Chengkai Huang",
+    "Tianqi Gao",
+    "Tao Huang",
+    "Daijiao Liu",
+    "Tongxin Li",
+    "Xiaoyan Sun",
+    "Lina Yao"
+  ],
+  "paperId": "2608.21292",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-21",
+  "abstract": "Skills play different roles as an agent's policy evolves: they should first provide learnable knowledge, then support capability formation, and finally be invoked only when they improve individual decisions. Existing methods rarely model this lifecycle. They either keep skills outside the model, fully internalize them, or select among internalization and utilization objectives through noisy task-level success rates. Such designs fragment training and assign uniform importance to actions within the same trajectory, even though skill guidance may help some decisions while distracting others...."
+}
