@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2608-23536",
+  "name": "Adapter-Based Few-Shot Continual Learning for Malicious Packet Recognition",
+  "summary": "The continual evolution of malware variants necessitates detection systems that can adapt to new threats without retraining from scratch. However, continually updating models on new data often lead...",
+  "description": "The continual evolution of malware variants necessitates detection systems that can adapt to new threats without retraining from scratch. However, continually updating models on new data often leads to catastrophic forgetting, where previously learned knowledge is overwritten. While continual learning has been increasingly explored for malware detection, the specific setting of Few-Shot Class-Incremental Learning (FSCIL), where new malware classes must be learned from only a small number of labeled examples, remains comparatively underexplored. Therefore, this work investigates the FSCIL se...",
+  "tags": [
+    "arxiv",
+    "cs.CR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.23536v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-24",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CR.",
+      "href": "https://arxiv.org/abs/2608.23536v1"
+    }
+  ],
+  "authors": [
+    "Kyle Stein",
+    "Guillermo Francia",
+    "III Eman El-Sheikh",
+    "Andrew Arash Mahyari"
+  ],
+  "paperId": "2608.23536",
+  "category": "cs.CR",
+  "publishedAt": "2026-08-24",
+  "abstract": "The continual evolution of malware variants necessitates detection systems that can adapt to new threats without retraining from scratch. However, continually updating models on new data often leads to catastrophic forgetting, where previously learned knowledge is overwritten. While continual learning has been increasingly explored for malware detection, the specific setting of Few-Shot Class-Incremental Learning (FSCIL), where new malware classes must be learned from only a small number of labeled examples, remains comparatively underexplored. Therefore, this work investigates the FSCIL se..."
+}

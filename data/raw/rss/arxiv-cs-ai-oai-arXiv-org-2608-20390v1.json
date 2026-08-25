@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.20390v1",
+  "fetchedAt": "2026-08-25T03:06:13.829Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.20390v1",
+    "title": "Ansari: A Retrieval-Grounded Islamic AI Assistant -- Architecture, Deployment, and Lessons from 140,000 Conversations",
+    "link": "https://arxiv.org/abs/2608.20390",
+    "description": "arXiv:2608.20390v1 Announce Type: cross Abstract: General-purpose large language models (LLMs) are increasingly used to answer religious questions, but for Islamic content they carry two serious risks: factual fabrication (inventing Qur'anic verses or hadith) and subtle value misalignment. We present Ansari, a deployed, retrieval-grounded Islamic AI assistant that has handled more than 140,000 conversations across 25+ languages since June 2023. Ansari is built around an agentic retrieval loop: a tool-using language model issues searches against authenticated Islamic corpora -- the Qur'an, hadith collections, a multi-volume jurisprudence (fiqh) encyclopedia, and exegetical (tafsir) sources -- and answers only on the basis of what it retrieves, with citations attached for verification. We describe the system's architecture (the agent loop, the retrieval tools, the corpora, and the system prompt that encodes editorial and theological policy), its multi-platform deployment (web, mobile, WhatsApp, and as a Model Context Protocol server and an Agent Skill), and what 140,000 real conversations reveal about how Muslims actually use such a tool. We report results on several complementary evaluations -- zero-shot performance on accredited institutional exams, a human-rated validation during Ramadan, and two independent, externally run benchmarks on which Ansari currently tops the public IslamicMMLU leaderboard ahead of frontier models and is competitive on Islamic legal reasoning (IslamicLegalBench) while strongly resisting false premises -- and draw out lessons that generalize beyond Islam to any faith- or values-sensitive deployment of LLMs: grounding is necessary but not sufficient, the system prompt is a theological as much as a technical artifact, and the absence of community in how models are formed remains a hard gap.",
+    "publishedAt": "2026-08-24",
+    "author": "M Waleed Kadous, Amr Elsayed, Abdullah Al Nahas, Ashraf Haress",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

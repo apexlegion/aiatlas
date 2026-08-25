@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2505.18930v2",
+  "fetchedAt": "2026-08-25T03:06:13.829Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2505.18930v2",
+    "title": "WeedNet: A Foundation Model-Based Global-to-Local AI Approach for Real-Time Weed Species Identification and Classification",
+    "link": "https://arxiv.org/abs/2505.18930",
+    "description": "arXiv:2505.18930v2 Announce Type: replace-cross Abstract: Early weed identification is crucial for effective management and control, and researchers, agronomists, and technology developers are increasingly interested in automating this process using computer vision and artificial intelligence; however, limited expert-verified data and variable morphological features have hindered the development of AI-based weed identification models. To address these issues, we present WeedNet, a global-scale weed identification model that can recognize an extensive set of weed species. WeedNet is an end-to-end real-time weed identification pipeline that uses self-supervised learning, fine-tuning, and enhanced trustworthiness strategies. WeedNet achieved 91.02% accuracy across 1,593 weed species, with 41% of species achieving 100% accuracy. Using a fine-tuning approach, the local Iowa WeedNet model achieved 97.38% overall accuracy for 84 Iowa weeds. Testing across intra-species dissimilarity and inter-species similarity suggests that diversity in the collected image, spanning all growth stages and distinct plant characteristics, is crucial to driving model performance. The global WeedNet model serves as a foundation, and the global-to-local strategy enables targeted fine-tuning to improve performance in regional weed communities. Additional validation of drone- and ground-rover-based images highlights WeedNet's potential for integration into robotic platforms. Furthermore, integration with artificial intelligence for conversational use provides intelligent agricultural and ecological conservation consulting tools for farmers, researchers, and government agencies across diverse landscapes.",
+    "publishedAt": "2026-08-24",
+    "author": "Yanben Shen, Timilehin T. Ayanlade, Venkata Naresh Boddepalli, Mojdeh Saadati, Ashlyn Rairdin, Zi K. Deng, Muhammad Arbab Arshad, Aditya Balu, Daren Mueller, Asheesh K Singh, Wesley Everman, Nirav Merchant, Baskar Ganapathysubramanian, Meaghan Anderson, Soumik Sarkar, Arti Singh",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

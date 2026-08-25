@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.20810v1",
+  "fetchedAt": "2026-08-25T03:06:13.829Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.20810v1",
+    "title": "When Generated Images Look Right and Retrieve Wrong: Coverage-Guided Cross-Scale Re-Indexing for Knowledge-Faithful Generative Perception",
+    "link": "https://arxiv.org/abs/2608.20810",
+    "description": "arXiv:2608.20810v1 Announce Type: cross Abstract: Multimodal information systems increasingly route generated visual content back through the same vision-language index that informed its production, so the output must remain retrievable by the queries it was meant to serve. When the scene contains entities at vastly different scales, existing language-guided generators condition on a single, globally pooled text embedding and quietly drop scale-specific concepts, breaking concept-query retrieval even when pixel fidelity is high. We formalise this failure as semantic collapse and propose CERES, a closed-loop multimodal indexing framework that builds a three-level semantic pyramid, mines implicit concepts via a co-occurrence-aware router, performs scale-routed cross-attention into a lightweight U-Net generator, and verifies coverage by re-indexing the generated image with the same frozen VLM. A continuously differentiable soft-Jaccard coverage objective returns dense gradients to the 0.39M-parameter generator under explicit non-degeneracy conditions, and coverage is verified by an independent DINOv2 linear probe trained only on external scene and object labels. On four pansharpening benchmarks across seven settings, CERES delivers the new state of the art with the largest gains where scale variation is most extreme. It also improves concept-query retrieval Recall@5 by +14.0 points and image-text mean reciprocal rank by 0.19 over the strongest baseline, showing that the closed loop preserves queryable content rather than self-referential feature consistency.",
+    "publishedAt": "2026-08-24",
+    "author": "Guangyuan Dong, Chuang Liu, Yangchen Zeng, Haoyu Wang, Xiaoyang Yu, Pinlong Zhao, Yuchao Hou, Ziwei Li, Zheng Lin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

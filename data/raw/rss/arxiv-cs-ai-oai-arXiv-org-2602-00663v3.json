@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.00663v3",
+  "fetchedAt": "2026-08-25T03:06:13.829Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.00663v3",
+    "title": "SEISMO: Explanation-Aware, Trajectory-Conditioned LLM Agents for Sample-Efficient Molecular Optimisation",
+    "link": "https://arxiv.org/abs/2602.00663",
+    "description": "arXiv:2602.00663v3 Announce Type: replace Abstract: Optimizing molecules to achieve desired properties is a central bottleneck across the chemical sciences, particularly in the pharmaceutical industry, where it underlies the discovery of new drugs. Since molecular property evaluation often relies on costly and rate-limited oracles, such as experimental assays, molecular optimization must be highly sample-efficient. To address this, we introduce SEISMO, an LLM agent for inference-time molecular optimisation that turns information routinely available alongside the oracle score, but discarded by existing methods, into an explicit guidance signal. Rather than treating the oracle as a scalar black box, SEISMO conditions each proposal on a natural-language task description, the full optimization trajectory, and machine-readable feedback derived from post-hoc explainability methods and sub-score decompositions. Across a wide range of drug-discovery-relevant tasks, this consistently improves sample efficiency over existing optimisers as well as zero-shot LLM generation, with gains growing as explanatory feedback is enriched. In practice, medicinal chemists can inspect the agent's reasoning and intervene to steer generation in natural language, keeping them central to molecular optimisation projects.",
+    "publishedAt": "2026-08-24",
+    "author": "Fabian P. Kr\\\"uger, Andrea Hunklinger, Adrian Wolny, Tim J. Adler, Igor Tetko, Santiago David Villalba",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2603-17378v2",
+  "name": "Efficient Exploration at Scale",
+  "summary": "arXiv:2603.17378v2 Announce Type: replace-cross Abstract: We develop an online learning algorithm that dramatically improves the data efficiency of reinforcement learning from human feedback (RLHF)...",
+  "description": "arXiv:2603.17378v2 Announce Type: replace-cross Abstract: We develop an online learning algorithm that dramatically improves the data efficiency of reinforcement learning from human feedback (RLHF). Our algorithm incrementally updates reward and language models as choice data is received. The reward model is fit to the choice data, while the language model is updated by a variation of reinforce...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2603.17378"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-24",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2603.17378"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-24",
+  "expiryAt": "2026-09-23T00:00:00.000Z",
+  "author": "Seyed Mohammad Asghari, Chris Chute, Vikranth Dwaracherla, Xiuyuan Lu, Mehdi Jafarnia, Victor Minden, Zheng Wen, Benjamin Van Roy"
+}

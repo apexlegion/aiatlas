@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2608-23497",
+  "name": "Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty",
+  "summary": "Reasoning-Induced Misalignment, where fine-tuning on reasoning data containing no harmful content, including mathematics, code, and problem-solving with chain-of-thought traces can induce harmful b...",
+  "description": "Reasoning-Induced Misalignment, where fine-tuning on reasoning data containing no harmful content, including mathematics, code, and problem-solving with chain-of-thought traces can induce harmful behaviors of LLM, posing a serious challenge to the safety of LLM reasoning. Cross-architecture, cross-scale, and cross-dataset checks show that RIM does not always emerge. Previous work attributed RIM to neuron-level entanglement, but did not identify the geometry of the representation space underlying this entanglement or propose a training-time fix. We provide both: a representation-space analys...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.23497v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-24",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.23497v1"
+    }
+  ],
+  "authors": [
+    "Yipeng Zhao",
+    "Qishun Yang",
+    "Shenzhe Zhu",
+    "Shu Yang",
+    "Di Wang"
+  ],
+  "paperId": "2608.23497",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-24",
+  "abstract": "Reasoning-Induced Misalignment, where fine-tuning on reasoning data containing no harmful content, including mathematics, code, and problem-solving with chain-of-thought traces can induce harmful behaviors of LLM, posing a serious challenge to the safety of LLM reasoning. Cross-architecture, cross-scale, and cross-dataset checks show that RIM does not always emerge. Previous work attributed RIM to neuron-level entanglement, but did not identify the geometry of the representation space underlying this entanglement or propose a training-time fix. We provide both: a representation-space analys..."
+}

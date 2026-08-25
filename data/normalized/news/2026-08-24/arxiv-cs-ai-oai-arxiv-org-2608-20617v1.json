@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-20617v1",
+  "name": "Dual-Cache Latent Space Communication between Heterogeneous Language Models",
+  "summary": "arXiv:2608.20617v1 Announce Type: new Abstract: Multi-agent LLM systems split work across models, so answering often requires knowledge that sits in another agent's context: a Sharer has encoded in...",
+  "description": "arXiv:2608.20617v1 Announce Type: new Abstract: Multi-agent LLM systems split work across models, so answering often requires knowledge that sits in another agent's context: a Sharer has encoded information that a Receiver needs to complete its task. They usually communicate by exchanging text, which puts autoregressive decoding on the critical path and reduces the exchange to a discrete messag...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.20617"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-24",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.20617"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-24",
+  "expiryAt": "2026-09-23T00:00:00.000Z",
+  "author": "Jiyao Liu, Qi Zhang, Yaoyi Jia, Ziwen Kan, Song Wang"
+}

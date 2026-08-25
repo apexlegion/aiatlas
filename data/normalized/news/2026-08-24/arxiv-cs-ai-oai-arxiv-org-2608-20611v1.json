@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-20611v1",
+  "name": "Difficulty-Aware Semantic-ID Optimization for Generative Recommendation",
+  "summary": "arXiv:2608.20611v1 Announce Type: new Abstract: Semantic-ID-based generative recommendation casts retrieval and ranking as autoregressive generation over hierarchical item identifiers. A common rec...",
+  "description": "arXiv:2608.20611v1 Announce Type: new Abstract: Semantic-ID-based generative recommendation casts retrieval and ranking as autoregressive generation over hierarchical item identifiers. A common recipe is SFT followed by GRPO, yet vanilla GRPO is poorly matched to this tree-structured task. Under the frozen SFT checkpoint, the exact target is absent from the first 16 candidates of the 50-beam co...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.20611"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-24",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.20611"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-24",
+  "expiryAt": "2026-09-23T00:00:00.000Z",
+  "author": "Xin Yu, Stephen Li, Sina Aghaei, Zifan Zhu, Jiamu Bai, Guanjie Huang, Bo Peng, Yiyao Liu, Lingzhou Xue"
+}

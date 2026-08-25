@@ -1,0 +1,42 @@
+{
+  "type": "paper",
+  "slug": "2608-23564",
+  "name": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+  "summary": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can th...",
+  "description": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously perform such migrations? Existing benchmarks cannot answer this question because they evaluate only behavioural correctness, not whether the migration actually occurred. This leads an easy hack: agents copy the original implementation to make tests pass. We call this Blindness. To address this problem, we introduce SWE Refactor Bench, a benchmark comprising 20 whole-repository migr...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.23564v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-24",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2608.23564v1"
+    }
+  ],
+  "authors": [
+    "Deyao Hong",
+    "Yizhe Chi",
+    "Wenyi Li",
+    "Xiaoqiu Wang",
+    "Mingju Gao",
+    "Kaisen Yang",
+    "Bingxiang He",
+    "Youjie Zheng",
+    "Calvin Xiao",
+    "Qinhuai Na"
+  ],
+  "paperId": "2608.23564",
+  "category": "cs.CL",
+  "publishedAt": "2026-08-24",
+  "abstract": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously perform such migrations? Existing benchmarks cannot answer this question because they evaluate only behavioural correctness, not whether the migration actually occurred. This leads an easy hack: agents copy the original implementation to make tests pass. We call this Blindness. To address this problem, we introduce SWE Refactor Bench, a benchmark comprising 20 whole-repository migr..."
+}

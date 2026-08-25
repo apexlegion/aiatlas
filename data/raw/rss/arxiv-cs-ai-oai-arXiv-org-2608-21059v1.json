@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.21059v1",
+  "fetchedAt": "2026-08-25T03:06:13.829Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.21059v1",
+    "title": "The Cost of a Physics Prior Is Bounded by the Ablation Gap",
+    "link": "https://arxiv.org/abs/2608.21059",
+    "description": "arXiv:2608.21059v1 Announce Type: new Abstract: Shape-constrained and physics-informed learning reports an accuracy cost of enforcing a prior and treats it as a property of the prior. We show it is mostly a property of the free features and the validation split. Let P be the excess risk of restricting a hypothesis class to functions with a shape constraint on features S, and D the excess risk of the ablated model that ignores S. Because a function constant in x_j is both non-decreasing and non-increasing in x_j, the ablated class is contained in the constrained class, so 0 &lt;= P &lt;= D for every risk functional, with no convexity, smoothness, or realizability assumption. Empirically the bound is a sign test: a constrained model must never be beaten by its own ablation. We instantiate it on an ordinal wildfire-severity task (N = 26,681, K = 3) with hard monotone constraints on four meteorological drivers, coordinates left free, and a validation ladder from i.i.d. resampling to 2-degree spatial blocking. Coordinates act as a shield: alone they recover 92.9% of the full model's macro-F1 under spatial blocking, collapsing D from 0.1288 to 0.0427; the same prior costs 0.0473 shielded and 0.3470 unshielded, a ratio of 7.3 with identical physics. Because D is protocol-dependent it does not transfer: coarsening blocks from 1 to 10 degrees drives D from 0.0942 to 0.0050, leaving two configurations unidentifiable a priori. Inversions of the certified nesting bound the pipeline's additive resolution: over 318 comparisons they give a self-calibrating floor of 0.0220 macro-F1, below which no reported price is interpretable, including four cells in our own headline grid. Cost and compliance are independent: the unconstrained model violates the prior at rate 0.48-0.49 while enforcing it costs 0.0473. We give a two-fit screen that rejects unidentifiable experiments before a constrained model is trained.",
+    "publishedAt": "2026-08-24",
+    "author": "Boris Kriuk",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

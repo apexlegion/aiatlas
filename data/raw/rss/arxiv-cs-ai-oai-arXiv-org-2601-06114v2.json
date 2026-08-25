@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.06114v2",
+  "fetchedAt": "2026-08-25T03:06:13.829Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.06114v2",
+    "title": "GroupSegment-SHAP: Shapley Value Explanations with Group-Segment Players for Multivariate Time Series",
+    "link": "https://arxiv.org/abs/2601.06114",
+    "description": "arXiv:2601.06114v2 Announce Type: replace-cross Abstract: Multivariate time-series models achieve strong predictive performance in healthcare, industry, energy, and finance, but how they combine cross-variable interactions with temporal dynamics remains unclear. SHapley Additive exPlanations (SHAP) are widely used for interpretation. However, existing time-series variants typically treat the feature and time axes independently, fragmenting structural signals formed jointly by multiple variables over specific intervals. We propose GroupSegment SHAP (GS-SHAP), which constructs explanatory units as group-segment players based on cross-variable dependence and distribution shifts over time, and then quantifies each unit's contribution via Shapley attribution. We evaluate GS-SHAP across four real-world domains: human activity recognition, power-system forecasting, medical signal analysis, and financial time series, and compare it with KernelSHAP, TimeSHAP, SequenceSHAP, WindowSHAP, and TSHAP. GS-SHAP improves deletion-based faithfulness (DeltaAUC) by about 1.7x on average over time-series SHAP baselines, while reducing wall-clock runtime by about 40 percent on average under matched perturbation budgets. A financial case study shows that GS-SHAP identifies interpretable multivariate-temporal interactions among key market variables during high-volatility regimes.",
+    "publishedAt": "2026-08-24",
+    "author": "Jinwoong Kim, Sangjin Park",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

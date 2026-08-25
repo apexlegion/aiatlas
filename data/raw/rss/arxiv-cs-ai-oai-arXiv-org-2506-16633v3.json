@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2506.16633v3",
+  "fetchedAt": "2026-08-25T03:06:13.829Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2506.16633v3",
+    "title": "GeoExplain: Multimodal Reasoning based on Hierarchy of Visual Information in Street View",
+    "link": "https://arxiv.org/abs/2506.16633",
+    "description": "arXiv:2506.16633v3 Announce Type: replace-cross Abstract: Multimodal reasoning is a process of understanding, integrating and inferring information across different data modalities. It has recently attracted surging academic attention. Although there are various tasks for evaluating multimodal reasoning ability, they still have limitations. Reasoning on hierarchical visual clues at different levels of granularity, i.e., local details and global context, is of little discussion, despite its frequent involvement in human reasoning. To bridge the gap, we introduce a challenging dataset, namely GeoExplain, which evaluates explainable geo-localization. Given a street view image, the task is to predict its location and provide a detailed explanation. GeoExplain consists of 40350 panoramas-location-explanation tuples. Each instance contains a set of street-view panoramas, a location on street level, and human-expert explanations describing how the location can be inferred from the visual content of panoramas. Additionally, we present a multimodal and multilevel reasoning method, namely SightSense which can make predictions and generate a comprehensive explanation. Our analysis and experiments demonstrate its outstanding performance in GeoExplain.",
+    "publishedAt": "2026-08-24",
+    "author": "Fenghua Cheng, Jinxiang Wang, Sen Wang, Zi Huang, Xue Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

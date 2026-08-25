@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-21174v1",
+  "name": "From Attention Masks to Inert Zero-Vector Tokens: OAttention and O-Closure for Token Dynamics",
+  "summary": "arXiv:2608.21174v1 Announce Type: new Abstract: Attention masks are relation-level controls: they specify which query--source pairs may interact. They do not provide a representation-carried token...",
+  "description": "arXiv:2608.21174v1 Announce Type: new Abstract: Attention masks are relation-level controls: they specify which query--source pairs may interact. They do not provide a representation-carried token state that is non-participating at the attention boundary. We assign each token hidden carrier \\(h_i\\) an active-presence coefficient \\(p_i=\\lVert h_i\\rVert^2/(\\tau+\\lVert h_i\\rVert^2)\\). The same coe...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.21174"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-24",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.21174"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-24",
+  "expiryAt": "2026-09-23T00:00:00.000Z",
+  "author": "Heyang Gong"
+}

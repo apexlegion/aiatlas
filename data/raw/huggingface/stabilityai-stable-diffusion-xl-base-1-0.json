@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-08-24T03:11:18.182Z",
+  "fetchedAt": "2026-08-25T03:06:12.112Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,8 +25,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 1586417,
-    "likes": 8066,
+    "downloads": 1605410,
+    "likes": 8069,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -223,14 +223,14 @@
       "shootstuff/flux-img2img-uncensored",
       "RioShiina/ImageGen",
       "Nymbo/Serverless-ImgGen-Hub",
-      "yisol/IDM-VTON",
       "diffusers/stable-diffusion-xl-inpainting",
-      "jallenjia/Change-Clothes-AI",
       "InstantX/InstantID",
+      "yisol/IDM-VTON",
       "yanze/PuLID-FLUX",
-      "multimodalart/lora-ease",
+      "jallenjia/Change-Clothes-AI",
       "frogleo/Image-to-3D",
       "r3gm/DiffuseCraft",
+      "prs-eth/rollingdepth",
       "fffiloni/Stand-In",
       "eduagarcia/multilingual-tokenizer-leaderboard",
       "Parmist/strangerzonehf-Flux-Super-Realism-LoRA",
@@ -252,6 +252,7 @@
       "Shopify/background-replacement",
       "jasperai/LBM_relighting",
       "radames/Enhance-This-HiDiffusion-SDXL",
+      "multimodalart/lora-ease",
       "hysts/SDXL",
       "fffiloni/InstantIR",
       "tencent/Hunyuan3D-2mv",
@@ -318,8 +319,7 @@
       "multimodalart/Boogu-Image",
       "TIGER-Lab/AnyV2V",
       "tight-inversion/tight-inversion",
-      "clinteroni/outpainting-with-differential-diffusion-demo",
-      "briaai/BRIA-Eraser-API"
+      "clinteroni/outpainting-with-differential-diffusion-demo"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {

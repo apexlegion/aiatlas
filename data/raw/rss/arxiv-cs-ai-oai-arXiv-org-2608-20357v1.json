@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.20357v1",
+  "fetchedAt": "2026-08-25T03:06:13.829Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.20357v1",
+    "title": "Clarify-Then-Search: A Clarification Benchmark for Deep Search with End-to-End Nugget Restoration",
+    "link": "https://arxiv.org/abs/2608.20357",
+    "description": "arXiv:2608.20357v1 Announce Type: cross Abstract: Deep search is brittle on underspecified user queries: missing constraints such as time, location, scope, or definitions can lead to retrieval drift and incomplete answers. We introduce Clarify-Then-Search, a benchmark for evaluating whether LLM-generated clarification questions improve downstream deep-search utility. Built on real-world query data from the Baidu search engine, the benchmark contains 518 curated instances, each with an intent query and a corresponding underspecified query. For each intent query, we run WebDancer once to archive evidence and construct a static golden reference as weighted, evidence-grounded nuggets with traceable source identifiers. At evaluation time, a Clarifier asks k in {1, 2, 3} questions; a closed-book User Answerer replies only with information explicitly stated in the intent query, otherwise returning unknown; and a closed-book Rewriter produces a rewritten query using only the underspecified query and the elicited question-answer pairs. WebDancer then executes on the rewritten query, and we score end-to-end utility using restore_score_100, a weighted nugget-recall score with partial credit against the static gold. Across all evaluated models, clarification improves over the no-interaction baseline at k=1, and larger budgets generally yield further gains. GPT-5.2 achieves the highest mean score at k=1, while ERNIE-4.5-Turbo-128K becomes the overall top-performing model at k=3. Diagnostics reveal a consistent failure mode: many systems over-ask region-only questions that are often unanswerable from the intent and thus elicit unknown. Clarify-Then-Search enables leakage-resistant and reproducible evaluation of clarify-then-search pipelines, with fine-grained analyses of question utility, answerability, and budget effects in deep search.",
+    "publishedAt": "2026-08-24",
+    "author": "Deqiang Huang, Jingbo Zhou, Xinjiang Lu, Tong Xu, Hua Wu, Enhong Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
