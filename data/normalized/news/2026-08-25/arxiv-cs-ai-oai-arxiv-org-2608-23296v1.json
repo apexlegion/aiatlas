@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-23296v1",
+  "name": "Sigmoid Attention as a Better Substrate for Learned KV Cache Eviction",
+  "summary": "arXiv:2608.23296v1 Announce Type: cross Abstract: Learned KV-cache eviction often faces a soft-to-hard mismatch: during training, differentiable gates typically attenuate token contributions, where...",
+  "description": "arXiv:2608.23296v1 Announce Type: cross Abstract: Learned KV-cache eviction often faces a soft-to-hard mismatch: during training, differentiable gates typically attenuate token contributions, whereas inference saves memory only when KV entries are physically removed. We ask whether the attention substrate affects this soft-to-hard transition. Using GPT-2-scale Transformers trained on OpenWebTex...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.23296"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-25",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.23296"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-25",
+  "expiryAt": "2026-09-24T00:00:00.000Z",
+  "author": "Isaac (Rucheng),  Li"
+}

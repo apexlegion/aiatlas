@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.10488v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.10488v2",
+    "title": "DeepRefine: Agentic Knowledge Refinement via Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2605.10488",
+    "description": "arXiv:2605.10488v2 Announce Type: replace-cross Abstract: External knowledge enables large language model (LLM) agents to ground their actions and decisions beyond intrinsic parametric memory in open-ended, knowledge-intensive downstream tasks. Yet the quality of the underlying knowledge bases is systematically limited by incompleteness, incorrectness, or redundancy, manifested as missing evidence or cross-document links, low-confidence or imprecise claims, and ambiguous or coreference resolution issues. Such defects compound under iterative use, degrading retrieval fidelity and downstream task performance. We present \\textbf{DeepRefine}, a reinforcement learning framework for agentic knowledge refinement that evolves the quality of any pre-constructed structured knowledge bases, e.g., knowledge graphs or LLM-Wikis, with user queries to make it more suitable for the downstream tasks. DeepRefine performs multi-turn interactions with the knowledge base and conducts abductive diagnosis over the interaction history, localizes likely defects, and executes targeted refinement actions for incremental knowledge base updates. To further optimize refinement policies of DeepRefine without golden refinement trajectories, we introduce a Gain-Beyond-Draft (GBD) reward and train the reasoning process end-to-end via reinforcement learning. Extensive experiments demonstrate consistent downstream gains over strong baselines.",
+    "publishedAt": "2026-08-25",
+    "author": "Haoyu Huang, Jiaxin Bai, Shujie Liu, Yang Wei, Huihao Jing, Hong Ting Tsang, Yisen Gao, Zhongwei Xie, Yufei Li, Yangqiu Song",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

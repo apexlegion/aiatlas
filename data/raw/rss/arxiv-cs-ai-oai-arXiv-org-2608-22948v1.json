@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.22948v1",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.22948v1",
+    "title": "What Proves You Wrong: Benchmarking Language Models on Falsifiable Research Ideation",
+    "link": "https://arxiv.org/abs/2608.22948",
+    "description": "arXiv:2608.22948v1 Announce Type: cross Abstract: Large language models are increasingly used to propose research ideas, yet the prevailing ways of judging such ideas supply no shared decision rule: free-form judging sways with style and position, and scoring against a later paper rewards recovery of one realized trajectory. We introduce a benchmark that carries a proposal from Literature to Test: the Lit2Test benchmark centers on a six-field contract organized around a falsifying outcome, so that every proposal precommits the observation that would prove it wrong, making its quality decidable in the first place rather than merely arguable. Built prospectively from 200 real-paper neighborhoods, Lit2Test elicits proposals from four frontier models and compares them through 1,200 pairwise comparisons judged blind in both presentation orders. The protocol audits its own reliability through diagnostic controls and bounded human calibration, with three annotators corroborating the conclusions within explicitly stated reliability bounds. Lit2Test recovers a strict ranking of the four models in all 10,000 bootstrap replicates, and the separation comes from the quality of the proposed tests and metrics rather than from surface fluency. We release the benchmark, construction pipeline, and audit artifacts for public use.",
+    "publishedAt": "2026-08-25",
+    "author": "Ziyue Wang (State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University), Aomufei Yuan (Peking University), Yiran Yao (Tianjin University), Linli Yao (State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University), Hongyao Zuo (Tianjin University), Ziwen Gong (Hainan University), Yuanxin Liu (State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University), Shicheng Li (State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University), Yishuo Cai (State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University), Tong Yang (Peking University), Xu Sun (State Key Laboratory of Multimedia Information Processing, School of Computer Science, Peking University), Xiaohui Li (Huawei Technologies), Haoli Bai (Huawei Technologies)",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

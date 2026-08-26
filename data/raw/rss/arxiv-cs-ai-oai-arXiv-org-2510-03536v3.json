@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2510.03536v3",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2510.03536v3",
+    "title": "GraphMed-LT: Patient-Specific Graph Memory with Latent Clinical Thought Refinement for Multi-Turn Medical Conversations",
+    "link": "https://arxiv.org/abs/2510.03536",
+    "description": "arXiv:2510.03536v3 Announce Type: replace-cross Abstract: Multi-turn medical question answering (QA) aims to model realistic clinical diagnosis, where a doctor gathers patient information across multiple turns of conversation. Existing multi-turn medical conversation systems have shown promising progress, but they often rely on accumulated conversation histories as memory, leaving clinical evidence fragmented across turns. We propose GraphMed-LT, a patient-specific graph memory approach with latent clinical thought refinement for multi-turn medical conversations. GraphMed-LT extracts patient-specific clinical triplets from patient responses, retrieves relevant knowledge triplets, and organises them into an incrementally updated graph memory. The graph memory is projected into graph-conditioned evidence tokens and refined inside a trainable doctor agent through hidden-state feedback, enabling the agent to update its internal clinical context before asking follow-up questions or producing the final answer. Experiments on three multi-turn medical QA benchmarks show that GraphMed-LT consistently outperforms existing multi-turn medical conversation baselines across multiple LLM backbones, achieving up to a 6.3 percentage-point absolute improvement over the strongest baseline. Further analyses show that GraphMed-LT asks more answerable follow-up questions and provides consistent gains across medical specialties.",
+    "publishedAt": "2026-08-25",
+    "author": "Zhaohan Meng, Zaiqiao Meng, Siwei Liu, Hao Xu, Ke Yuan, Iadh Ounis",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

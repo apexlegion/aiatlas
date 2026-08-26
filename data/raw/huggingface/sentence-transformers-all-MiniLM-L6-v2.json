@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "sentence-transformers/all-MiniLM-L6-v2",
-  "fetchedAt": "2026-08-25T03:06:12.636Z",
+  "fetchedAt": "2026-08-26T03:12:47.105Z",
   "data": {
     "_id": "621ffdc136468d709f180294",
     "id": "sentence-transformers/all-MiniLM-L6-v2",
@@ -57,8 +57,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 255841858,
-    "likes": 5252,
+    "downloads": 256200741,
+    "likes": 5256,
     "modelId": "sentence-transformers/all-MiniLM-L6-v2",
     "author": "sentence-transformers",
     "sha": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
@@ -228,12 +228,13 @@
     "spaces": [
       "mteb/leaderboard",
       "cvachet/pdf-chatbot",
-      "hakari-bench/leaderboard",
       "Agents-MCP-Hackathon/ScouterAI",
+      "hakari-bench/leaderboard",
       "MCP-1st-Birthday/Jobly",
       "eduagarcia/multilingual-tokenizer-leaderboard",
       "MCP-1st-Birthday/AI-Digital-Library-Assistant",
-      "jsdosanj/SikhLibrarian",
+      "bench-labs/BenchLabs-Leaderboard",
+      "Usmansafder/finchain-space",
       "MCP-1st-Birthday/monkey-mind",
       "MCP-1st-Birthday/AI-RADIO",
       "fortuala/Show_LLM_Model",
@@ -241,7 +242,9 @@
       "Agents-MCP-Hackathon/memvid-mcp",
       "MCP-1st-Birthday/VN-studio",
       "MCP-1st-Birthday/mythforge",
+      "vedasm/Vector-Hire",
       "dr-stark/book-recommender",
+      "moro23/maize-disease-diagnosis",
       "NikhilP45/CyberShield-AI",
       "SachNDev/multimodal-rag",
       "TechieWithBeard/AI-ML",
@@ -298,7 +301,6 @@
       "responsible-prompting/demo-multiturn",
       "Pulastya0/Data-Science-Agent",
       "UII-AI/MedVidBench-Leaderboard",
-      "bench-labs/BenchLabs-Leaderboard",
       "aseifert/ExplaiNER",
       "pritamdeka/pubmed-abstract-retriever",
       "DiffusionAgent/DiffusionAgent",
@@ -323,9 +325,7 @@
       "RaviRaj988/Asking-question-to-video",
       "vjain/Trading-Chatbot",
       "yardi/phrase-semantic-similarity",
-      "OuroborosM/STLA-BABY",
-      "KrishnaKumar23/documentQABot",
-      "CyranoB/search_agent"
+      "OuroborosM/STLA-BABY"
     ],
     "createdAt": "2022-03-02T23:29:05.000Z",
     "safetensors": {

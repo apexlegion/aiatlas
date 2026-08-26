@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.01765v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.01765v2",
+    "title": "Backdoor Sentinel: Detecting and Detoxifying Backdoors in Diffusion Models via Temporal Noise Consistency",
+    "link": "https://arxiv.org/abs/2602.01765",
+    "description": "arXiv:2602.01765v2 Announce Type: replace-cross Abstract: Diffusion models have been widely deployed in AIGC services, but their reliance on opaque training data exposes them to backdoor attacks. In practical auditing scenarios, auditors are typically unable to access model parameters due to intellectual property protection, making white-box or query-intensive detection impractical. After detection, existing detoxification approaches are trapped in a dilemma between detoxification effectiveness and generation quality for service providers. We reveal Temporal Noise Consistency (TNC), a previously unreported phenomenon in which backdoor activation disrupts the consistency of noise predictions between adjacent diffusion timesteps within specific temporal segments, while clean inputs remain stable. Based on this finding, we propose TNC-Defense, a closed-loop framework for gray-box backdoor detection and model repair. Specifically, TNC-Detect (for auditors) uses inference-stage adjacent-noise statistics to detect backdoors and precisely localize anomalous timesteps without model-weight access. TNC-Detox (for service providers) utilizes these locations to perform trigger-agnostic, timestep-aware correction of the generation path, suppressing backdoor behavior while reducing detoxification cost. Across five representative backdoor attacks and state-of-the-art defenses, TNC-Defense improves the average detection accuracy by $11\\%$ with negligible additional overhead, and invalidates an average of $98.5\\%$ of triggered samples with only a mild degradation in generation quality. Our code is publicly available at: https://github.com/binzhwang/TNC-Defense.",
+    "publishedAt": "2026-08-25",
+    "author": "Bingzheng Wang, Xiaoyan Gu, Hongbo Xu, Hongcheng Li, Zimo Yu, Jiang Zhou, Weiping Wang, Wu Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

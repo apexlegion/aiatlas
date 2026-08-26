@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.21367v1",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.21367v1",
+    "title": "PepLLM: ESM-Guided Llama for Structured Protein-Peptide Binding Interface Analysis",
+    "link": "https://arxiv.org/abs/2608.21367",
+    "description": "arXiv:2608.21367v1 Announce Type: cross Abstract: Protein-peptide interactions are central to cellular regulation and peptide-based drug discovery, yet existing computational methods mainly focus on interaction classification, binding-site prediction, or peptide binder generation. These formulations provide limited insight into the physicochemical mechanisms that determine how a peptide binds to a protein. In this work, we introduce \\textbf{PepLLM}, an instruction-tuned framework for structured protein-peptide interface understanding. Given protein-peptide sequences, PepLLM generates a machine-readable JSON annotation describing multiple interface properties, including peptide burial state, hydrogen-bond density, salt-bridge presence, hotspot residues, hydrophobicity, and electrostatic complementarity. To support this task, we construct a new protein-peptide interface dataset by integrating structural interface analysis, solvent-accessible surface area computation, hydrophobic burial estimation, electrostatic potential calculation, and redundancy-aware data splitting. PepLLM connects a pretrained ESM encoder with a LLaMA decoder through a nonlinear modality adapter. The adapted ESM residue embeddings are injected into the LLaMA prompt as continuous soft tokens via placeholder-token replacement, enabling the decoder to generate structured interface annotations under instruction tuning. By moving beyond single-label prediction toward multi-property and mechanism-aware generation, PepLLM establishes a new task and modeling paradigm for interpretable protein-peptide interface analysis.",
+    "publishedAt": "2026-08-25",
+    "author": "Hao Qian, Shikui Tu, Lei Xu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

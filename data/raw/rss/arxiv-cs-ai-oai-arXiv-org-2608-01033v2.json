@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.01033v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.01033v2",
+    "title": "CallScreenBench: Benchmarking Small Language Models as Phone Secretaries",
+    "link": "https://arxiv.org/abs/2608.01033",
+    "description": "arXiv:2608.01033v2 Announce Type: replace-cross Abstract: Language models small enough to run on a handset, quantized to a few bits, are increasingly capable of acting on their user's behalf -- which makes on-device task automation newly plausible. One such task is answering the phone. A phone secretary takes an unknown inbound call on its owner's behalf, and unlike the agents most benchmarks evaluate, it has no cooperative caller-assigned task to complete: the caller holds the goal and may be an adversary, while the secretary must begin deciding how to respond without an oracle. What matters is not task success but whether the owner would endorse how their proxy handled the call. We evaluate only the text-domain conversational decision layer; speech recognition, audio interaction, end-to-end latency, and handset execution are outside scope. We present CallScreenBench, which reports five automated call-and-note measure groups motivated by owner endorsement. Each is paired, where available, with a counter-metric and an uncertainty estimate; no benchmark-wide Q1-Q5 composite or leaderboard score is defined. Three guardedness diagnostics identify candidate cases for a toolless proxy that holds no credentials and calls no tools. Across three model families represented by paired 4-bit checkpoints (0.6-4B), the primary scoring snapshot gives the larger checkpoint higher point estimates on several service, recall, and plausibility measures, while triage discrimination follows a different ordering. Bare scam-side TPR rewards universal suspicion, and pairwise separation changes when legitimate-side false positives are included and across judge snapshots. Scripted degenerate agents expose further floors, including a hangup-and-echo policy with entity recall 1.000. We report quality measures and guardedness channels separately so that a single pass/fail score does not hide their trade-offs.",
+    "publishedAt": "2026-08-25",
+    "author": "Jiaqi Gan, Haoyuan Tang, Jamey Z. Liang, Siying Chen, Ankit Raj, Kidus Zewde, Yuchen Zhou, Yuxin Zhang, Simiao Ren",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

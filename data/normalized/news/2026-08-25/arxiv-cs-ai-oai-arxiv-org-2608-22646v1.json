@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-22646v1",
+  "name": "CAI-DLLM: Convergence Aware Inference for Diffusion Language Models",
+  "summary": "arXiv:2608.22646v1 Announce Type: new Abstract: Diffusion language models can generate many tokens in parallel, but they still require repeated denoising steps during inference. This makes generati...",
+  "description": "arXiv:2608.22646v1 Announce Type: new Abstract: Diffusion language models can generate many tokens in parallel, but they still require repeated denoising steps during inference. This makes generation costly, especially when the model continues to recompute tokens that are already stable. To address these limitations, we propose CAI-DLLM, a training-free inference method that uses first-step con...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.22646"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-25",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.22646"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-25",
+  "expiryAt": "2026-09-24T00:00:00.000Z",
+  "author": "Farhana Amin, Sabiha Afroz, Dimitrios S. Nikolopoulos"
+}

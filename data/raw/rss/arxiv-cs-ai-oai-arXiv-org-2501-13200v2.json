@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2501.13200v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2501.13200v2",
+    "title": "SRMT: Shared Memory for Multi-agent Lifelong Pathfinding",
+    "link": "https://arxiv.org/abs/2501.13200",
+    "description": "arXiv:2501.13200v2 Announce Type: replace-cross Abstract: Coordination in decentralized multi-agent reinforcement learning (MARL) necessitates that agents share information about their behavior and intentions. Existing approaches rely on communication protocols with domain or resource constraints or centralized training that poorly scales to large agent populations. We introduce the Shared Recurrent Memory Transformer (SRMT), which enables coordination through unconstrained communication. SRMT provides a global memory workspace where agents broadcast their learned working memory states and query others' memory representations to exchange information and coordinate while maintaining decentralized training and execution. We evaluate SRMT on the Partially Observable Multi-Agent Pathfinding (PO-MAPF) problem, where coordination is vital for optimal path planning and deadlock avoidance. We demonstrate that shared memory enables emergent coordination even when the reward function provides minimal or no guidance. On the specifically constructed Bottleneck task that requires negotiation, SRMT consistently outperforms communicative and memory-augmented baselines, particularly under sparse reward signals, and successfully generalizes to longer corridors unseen during training. On POGEMA maps, SRMT scales with the increasing agents' population and map size, achieving competitive performance with recent MARL, hybrid, and planning-based methods while requiring no domain-specific heuristics. These results demonstrate that a transformer with shared recurrent memory enhances coordination in decentralized multi-agent systems. The source code for training and evaluation is available on GitHub: https://github.com/Aloriosa/srmt.",
+    "publishedAt": "2026-08-25",
+    "author": "Alsu Sagirova, Yuri Kuratov, Mikhail Burtsev",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

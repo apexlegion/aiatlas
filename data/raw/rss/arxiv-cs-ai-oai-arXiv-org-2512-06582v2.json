@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2512.06582v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2512.06582v2",
+    "title": "Diagnosing Capability Preservation and Task Sensitivity in Memory Augmented Document Classifiers",
+    "link": "https://arxiv.org/abs/2512.06582",
+    "description": "arXiv:2512.06582v2 Announce Type: replace-cross Abstract: End task accuracy alone cannot determine whether a memory mechanism preserves an acquired capability, exposes sample-specific stored information, or contributes measurably to downstream performance. This study introduces Protected QL Memory and evaluates capability preservation, diagnostic access, and task performance sensitivity as distinct empirical properties. Protected QL Memory is a dual path document classifier combining a causal local pathway, an associative matrix writer, and a finalized memory reader. A capability-protected schedule acquires a controlled binding capability, adapts the local pathway while constraining writer degradation, trains controlled memory access, and restricts full path task fitting. Pre and post adaptation diagnostics and finalized-memory interventions were evaluated across nine dataset-seed conditions. Writer capability was fully preserved, with 100% post-adaptation accuracy. Cyclic reassignment of finalized matrices produced diagnostic accuracy gaps of 86.3 to 86.9 percentage points, showing strong dependence on example memory correspondence. In contrast, natural text macro F1 changed by less than 0.002 when finalized matrices were reassigned, zeroed, or replaced by batch means. Locked-test macro F1 was 90.94% on AG News, 81.78% on IMDB, and 62.63% on Yelp Review Full, comparable to compact controls. Preserving associative capability and maintaining diagnostic access to sample specific memory did not imply measurable downstream reliance on that memory. Protected memory designs should therefore treat capability preservation, diagnostic access, and task alignment as separate objectives and evaluate downstream memory sensitivity directly.",
+    "publishedAt": "2026-08-25",
+    "author": "Isaac Kofi Nti",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

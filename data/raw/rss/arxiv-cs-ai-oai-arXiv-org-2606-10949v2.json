@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.10949v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.10949v2",
+    "title": "Recalling Too Well: Sycophancy Evaluation and Mitigation in Memory-Augmented Models",
+    "link": "https://arxiv.org/abs/2606.10949",
+    "description": "arXiv:2606.10949v2 Announce Type: replace Abstract: Persistent memory systems promise to make LLMs more helpful by storing user beliefs over time. We show they also make models less correct by amplifying sycophancy, wherein models prioritize agreement with users over accuracy. We conduct the first systematic evaluation of this effect, introducing MIST: a benchmark of synthetically generated multi-turn conversations where users express plausible misconceptions in scientific, medical, and moral reasoning domains. Testing across three state-of-the-art memory systems and five model families reveals that memory amplifies sycophantic behavior across all conditions, with up to 40% higher sycophancy rates than in-context baselines. Error analyses suggest memory extraction as the primary culprit: lossy compression of only discrete snippets from user turns encodes user misconceptions while discarding corrective context. Based on these results, we propose three lightweight mitigations to a memory system that substantially reduce sycophancy while matching or exceeding memory systems at factual recall.",
+    "publishedAt": "2026-08-25",
+    "author": "Shelly Bensal, Axel Magnuson, Aparna Balagopalan, Daniel M. Bikel",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

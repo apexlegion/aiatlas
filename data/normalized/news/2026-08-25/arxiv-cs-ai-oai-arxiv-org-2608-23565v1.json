@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-23565v1",
+  "name": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+  "summary": "arXiv:2608.23565v1 Announce Type: new Abstract: An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: cont...",
+  "description": "arXiv:2608.23565v1 Announce Type: new Abstract: An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounded one. ReWorld separates the two during training and bounds them at inference. Mixed per-head attention windows confine most heads to the recent past...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.23565"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-25",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.23565"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-25",
+  "expiryAt": "2026-09-24T00:00:00.000Z",
+  "author": "Zhifei Chen, Luozhou Wang, Guibao Shen, Dongyu Yan, Shuai Yang, Tianshuo Xu, Yihua Du, Wei Wang, Tianyi Gui, Lianghua Huang, Yingcong Chen"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2506.18919v5",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2506.18919v5",
+    "title": "From Recognition to Reasoning: Advancing Multimodal Harmful Meme Detection via Chain-of-Thought Alignment",
+    "link": "https://arxiv.org/abs/2506.18919",
+    "description": "arXiv:2506.18919v5 Announce Type: replace-cross Abstract: As a multimodal communication medium that integrates images and text, memes often convey implicit harmful content through metaphors, satire, and humor, making harmful meme detection a complex and challenging task. Although recent studies have achieved considerable progress in detection accuracy and model interpretability, large-scale, high-quality datasets for harmful memes remain scarce. Moreover, existing methods still exhibit notable limitations in identifying implicit risks and understanding fine-grained semantics. To address these challenges, we construct MemeMind, a large-scale dataset for harmful meme detection. MemeMind comprises a broad collection of publicly available memes and adopts a rigorous and comprehensive taxonomy of harmful content developed in accordance with widely recognized international standards and contemporary Internet contexts. In addition, the dataset provides detailed structured Chain-of-Thought (CoT) reasoning annotations to support fine-grained analysis of harmfulness, implicit intentions, and underlying semantics in memes. Building upon MemeMind, we further propose MemeGuard, a reasoning-oriented multimodal framework for harmful meme detection. MemeGuard employs a three-stage training strategy to progressively enhance the model's visual understanding, multimodal reasoning, and harmful content discrimination capabilities, thereby improving both detection accuracy and the interpretability of model decisions. Extensive experimental results demonstrate that MemeGuard outperforms existing state-of-the-art methods on the MemeMind dataset, providing a solid foundation for future research on harmful meme detection and multimodal content safety.",
+    "publishedAt": "2026-08-25",
+    "author": "Hexiang Gu, Qifan Yu, Yuan Liu, Zikang Li, Saihui Hou, Jian Zhao, Zhaofeng He",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

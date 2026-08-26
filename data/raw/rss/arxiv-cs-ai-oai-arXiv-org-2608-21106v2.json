@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.21106v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.21106v2",
+    "title": "Atom Learning Model (ALM): how a real classroom got tokenised",
+    "link": "https://arxiv.org/abs/2608.21106",
+    "description": "arXiv:2608.21106v2 Announce Type: replace-cross Abstract: The Atom Learning Model (ALM) tokenises a school curriculum. Two secondary mathematics textbooks were read by machine into 1,934 atoms, each one thing a learner can do in a single step, ordered by 4,616 machine-written prerequisite links. Both sides of a lesson are then expressed in that one structure: a question is a set of atoms plus everything beneath them, a child's ability is a score between 0 and 1 on every atom of the same graph, and whether a question suits a child is arithmetic over one index, with no difficulty parameter fitted for either side. Nobody wrote an atom, a link or a question. Reading the 757 pages cost {\\pounds}55, building the whole structure cost between {\\pounds}615 and {\\pounds}1,230, and against it the system composed 6,648 questions for 373 children in two English secondary schools over seven weeks, at 26p per composed question. Four measurements went against expectation. The cost is in the links, not the pages. The composer's own difficulty label has a rank correlation of -0.0123 with measured facility, so a language model shown a question cannot say how hard it is. Children stop working when a mark takes seven seconds instead of three. And the deployment never served a question deeper than two prerequisite steps, which is exactly where the central premise becomes testable, leaving it unfalsified rather than confirmed.",
+    "publishedAt": "2026-08-25",
+    "author": "Philipp Bogdan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

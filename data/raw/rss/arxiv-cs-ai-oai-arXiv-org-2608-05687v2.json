@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.05687v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.05687v2",
+    "title": "Answer First, Reason Later: When Commitment Order Costs Accuracy in Diffusion Language Models",
+    "link": "https://arxiv.org/abs/2608.05687",
+    "description": "arXiv:2608.05687v2 Announce Type: replace-cross Abstract: Masked diffusion language models revise many masked output positions in parallel. We call a token committed once it becomes visible and is never masked again, and call a response answer-first when the final answer commits before the reasoning printed ahead of it. On 1,069 GSM8K test questions, an explicit step-by-step instruction increases the accuracy difference between unrestricted decoding and a decoder that permits commitment only near the left-most unresolved position; unrestricted decoding also produces more answer-first trajectories. On MATH-500, the two LLaDA models spend most of a short output canvas on reasoning that commits after the answer, and the benefit of frontier gating decreases as that postanswer writing disappears. Dream-7B has little post-answer writing and follows a different accuracy pattern. A controlled four-option task reserves a one-token answer position before generation. Delaying that position outperforms an equally timed reasoning-token delay on LLaDA-8B, LLaDA-1.5, and Dream-7B. The raw difference is largest on Dream, whose free accuracy on the controlled task is lower. Answers commit much earlier under the reserved-position interface than in ordinary free-form generation, which limits how far the intervention result can be generalized. Commitment order affects the context used to complete a response and the allocation of a finite output canvas.",
+    "publishedAt": "2026-08-25",
+    "author": "Jewon Yeom, Jaewon Sok, Seonghyeon Park, Jeongjae Park, Hwiyeong Lee, Taesup Kim",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

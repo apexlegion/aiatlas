@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.28455v3",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.28455v3",
+    "title": "Event-Conditioned Diagnostics of Kinematic, Contact, and Object-Permanence Structure in Passive Object-State World Models",
+    "link": "https://arxiv.org/abs/2606.28455",
+    "description": "arXiv:2606.28455v3 Announce Type: replace-cross Abstract: World models can predict future physical states, but prediction accuracy alone does not explain how physical information is organized and used inside their latent dynamics. We introduce a controlled diagnostic protocol for studying event-conditioned latent physical structure in passive object-state world models. The protocol separates three questions: whether event-regime information is readable, whether event context changes the relative emphasis of kinematic-, contact-, and object-permanence-related readouts, and whether suppressing readout-aligned directions affects prediction. Using a balanced controlled-generator dataset with free-motion, collision, and occlusion events, we evaluate GRU, Transformer-lite, and RSSM-lite transition models under a fixed-horizon forecasting setup. Across three independent seeds, all three architectures learn useful predictive dynamics and support reliable event-regime readout. Event context systematically shifts the relative readout pattern: free motion is kinematic-dominant, collision increases contact-related structure, and occlusion increases object-permanence-related structure. Time-aligned analyses show corresponding phase-related shifts. Fixed-horizon projection Causal Field Effect (CFE), used here as a functional-sensitivity test, gives the clearest evidence for contact-aligned structure in collision-contact windows. Object-permanence-aligned structure is also sensitive during hard occlusion, but control specificity remains mixed. These results support event-conditioned latent structure and functional sensitivity without implying explicit physical modules or isolated causal circuits.",
+    "publishedAt": "2026-08-25",
+    "author": "Yang Liu, Yuming Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

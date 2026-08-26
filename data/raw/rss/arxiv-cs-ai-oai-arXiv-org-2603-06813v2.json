@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.06813v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.06813v2",
+    "title": "Reinforcing the World's Edge: A Continual Learning Problem in the Multi-Agent-World Boundary",
+    "link": "https://arxiv.org/abs/2603.06813",
+    "description": "arXiv:2603.06813v2 Announce Type: replace Abstract: In a stationary decentralized Markov game, learning peers generate an episode-indexed sequence of induced MDPs for any focal agent. The joint game remains stationary while the focal agent's rewards and dynamics drift, forming an agent-centric continual reinforcement-learning problem. Marginalizing peers whose policies are fixed within an episode preserves every focal trajectory law and expected return. Success-conditioned reusable structure may therefore degrade under peer updates. An \\emph{invariant core} represents such structure through maximal abstract patterns appearing in a high fraction of successful focal trajectories. The main result is a worst-case-tight conditioning theorem: trajectory-law drift $\\varepsilon$ can reduce a candidate's success-conditioned coverage by at most $\\frac{\\varepsilon}{p_0}$, where $p_0$ is its reference success mass, and the coefficient is sharp. Peer-policy movement supplies $\\varepsilon$; positive coverage margin then yields a certified $\\Omega(\\frac{1}{\\eta})$ survival horizon and, under an explicit effective-conflict condition realized by exact policy gradient in an analytic class, a matching $\\Theta(\\frac{1}{\\eta})$ first-exit law. With calibrated success mass and executability, the same certificate yields policy-value, library-selection, and transfer-regret guarantees. An exactly solvable corridor confirms the structural predictions, including the inverse-rate lifetime ($R^2&gt;0.9999$). Two registered 64-stream studies in continual control and cue-MNIST show that core erosion predicts impending failure and enables near-oracle intervention; an exploratory reanalysis of eight learned-partner Level-Based Foraging development pairings suggests the same erosion--failure link under peer learning.",
+    "publishedAt": "2026-08-25",
+    "author": "Dane Malenfant",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

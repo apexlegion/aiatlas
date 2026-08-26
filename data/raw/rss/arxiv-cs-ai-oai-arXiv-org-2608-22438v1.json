@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.22438v1",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.22438v1",
+    "title": "When Persona Simulations Are Informative: Graph-Structured Signals for Pluralistic Opinion Sensing",
+    "link": "https://arxiv.org/abs/2608.22438",
+    "description": "arXiv:2608.22438v1 Announce Type: new Abstract: Persona-conditioned large language models (LLMs) are increasingly used to simulate survey responses across diverse domains. However, apparent response variation can reflect unconditioned model priors or token sampling noise rather than systematic persona conditioning. We argue that persona-conditioned variation is informative when semantically similar personas exhibit concordant response shifts. To operationalize this principle, we introduce Persona-Conditioned Informativeness (PCI), an unsupervised diagnostic metric that measures whether semantically similar personas deviate in concordant directions relative to item-level sample baselines. By modeling personas as a similarity graph, PCI uses Local Moran's I to quantify local spatial coherence and extract compact persona subsets without using construct labels. To evaluate PCI without external human benchmarks, we test its ability to recover established latent value structure using the 57-item Portrait Values Questionnaire-Revised (PVQ-RR). Confirmatory factor analysis (CFA) shows that a PCI-selected 10% subset substantially improves overall construct recovery relative to response-stability and random selection. These findings support PCI as a principled internal diagnostic for screening synthetic respondents in survey pipelines.",
+    "publishedAt": "2026-08-25",
+    "author": "Taehyeon An, Jaehyeong Park, Donghyuk Shin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

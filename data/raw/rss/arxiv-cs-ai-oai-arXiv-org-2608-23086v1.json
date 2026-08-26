@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.23086v1",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.23086v1",
+    "title": "POOL: Propagated Uncertainty Over Lookalikes",
+    "link": "https://arxiv.org/abs/2608.23086",
+    "description": "arXiv:2608.23086v1 Announce Type: new Abstract: Black-box large language models need confidence scores that can separate likely-correct from likely-incorrect outputs, enabling systems to prioritize human review, route uncertain cases to stronger models, or choose abstention thresholds on development data. Yet existing confidence estimators face a cost-quality trade-off: verbal confidence is cheap but is often overconfident, while sampling-based uncertainty is more informative but scales linearly with the number of samples per query. We propose \\textsc{POOL} (\\emph{Propagated Uncertainty Over Lookalikes}),a cost-efficient framework that addresses this trade-off taking inspiration from group-testing.\\textsc{POOL} clusters query stems with overlaps, evaluates a base estimator on representative medoids, softly propagates confidence scores to nearby queries, and selectively evaluates high-disagreement cases. We instantiate this framework with \\textsc{Hy@}$p$, a hybrid estimator that combines verbal confidence with spectral answer diversity computed from the negative von Neumann entropy of sampled answer embeddings.Across six domains from three datasets and five black-box LLMs, \\textsc{Hy@}5 achieves higher average AUROC than verbal confidence and \\textsc{Vn@}10 sampling while using half as many samples as \\textsc{Vn@}10. \\textsc{POOL}-\\textsc{Hy@}5 retains 93.5--97.9\\% of its AUROC while saving 19.3--39.3\\% of generations. On paraphrase-dense workloads, generation savings rise to 73-76\\%, showing that semantic redundancy can be leveraged to lower confidence-estimation costs.",
+    "publishedAt": "2026-08-25",
+    "author": "Rounak Sharma, Ananya B. Sai, Soumyabrata Pal",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

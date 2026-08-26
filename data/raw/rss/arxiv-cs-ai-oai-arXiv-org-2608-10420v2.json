@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.10420v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.10420v2",
+    "title": "Reasoning Shortcuts and Value Symmetries: What Symmetry Permits, Architecture Realizes, and Optimization Selects",
+    "link": "https://arxiv.org/abs/2608.10420",
+    "description": "arXiv:2608.10420v2 Announce Type: replace Abstract: Reasoning shortcuts are rule solutions that reach correct predictions through unintended concepts. A recent framework of Takemura, Inoue, and Nishino analyzes them through an automorphism group of value relabelings, asking when rules pin concepts down. Its key definition, one value permutation shared across all positions, does not apply as stated to any of its four heterogeneous benchmarks, and the most direct embedding, padding, produces confident false pathology: 90.91% of solution pairs unexplained on CLE4EVR, versus 0% under every well-defined rung of the componentwise hierarchy we introduce; the padded verdict rotates under configuration-file ordering. Across eleven rule families under fifteen pre-specified predictions (thirteen confirmed), unexplained-pair rates span 0% to 99.9999% and track provable structure: six theorems give sufficient conditions for transitivity and its failure. For circuit-given rules, symmetry-inertness of a coordinate is coNP-complete; automorphism existence is coNP-hard under randomized reductions, lies in $\\Sigma_2^p$, is not $\\Sigma_2^p$-complete in the Boolean case unless PH collapses, and is coNP-complete on monotone circuits. Boolean transitivity is classified exactly: automorphisms explain everything iff the solution set is an affine coset. Weakly supervised models place all 94 observed shortcuts at the one level the theory flags, none at the 48 it certifies transitive, and none at twelve typed-ambiguous levels. Relocating the absorbing element moves every shortcut with it; a confusion null attributes the location to geometry while the observed rate exceeds it by half again. Trained end to end on CLE4EVR's rule and heterogeneous domains through a synthetic prototype front end, models produce 20,223 label-preserving errors with zero different-orbit exceptions, as transitivity predicts, where the padded instrument would misreport 78-88% of them.",
+    "publishedAt": "2026-08-25",
+    "author": "Xin Xu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

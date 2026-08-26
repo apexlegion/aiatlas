@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.22066v1",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.22066v1",
+    "title": "ADMIL: Attention-Distilled Multiple Instance Learning for Selective Foundation Model Inference in Pathology",
+    "link": "https://arxiv.org/abs/2608.22066",
+    "description": "arXiv:2608.22066v1 Announce Type: cross Abstract: Attention-based multiple instance learning (ABMIL) using pathology foundation model embeddings is effective for slide-level tasks, but exhaustive inference requires applying a large image encoder to every foreground tile despite the subsequent attention distribution often concentrating over a small subset of informative regions. We introduce ADMIL (Attention-Distilled Multiple Instance Learning), a selective-compute framework that distills an ABMIL teacher's attention into a lightweight tile-selection model, PriorNet. Using an EfficientNet architecture, PriorNet learns the teacher attention distribution from raw tile pixels with KL divergence; at inference, it scores the foreground pool, selects the top-K tiles, and invokes the expensive foundation model only on that subset before a selected-bag ABMIL student predicts the slide label. Across BRACS, PANDA, and CAMELYON16, ADMIL matches full-teacher headline performance at K=4, 8, and 128 tiles, respectively, avoiding &gt;98% of foundation model (Virchow2) tile embeddings and model inference FLOPs. Random and teacher-attention oracle controls show that this result depends on task-relevant selection rather than tile-count reduction alone. Quantitative and qualitative analyses suggest that PriorNet recovers the teacher's tile ordering with high fidelity while focusing on task-relevant morphological regions. ADMIL shows that nearly all expensive tile encodings can be removed without sacrificing slide-level performance, providing a potential path for more efficient deployment in clinical settings where latency and compute costs are key considerations.",
+    "publishedAt": "2026-08-25",
+    "author": "Duncan Stothers, Ren-Chin Wu, William Lotter",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.25698v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.25698v2",
+    "title": "How Should LLMs Consume High-Quality Data? Optimal Data Scheduling via Quality-Aware Functional Scaling Laws",
+    "link": "https://arxiv.org/abs/2605.25698",
+    "description": "arXiv:2605.25698v2 Announce Type: replace-cross Abstract: High-quality data is scarce in large language model (LLM) training, yet how to schedule its use with optimization dynamics lacks theoretical guidance. We extend functional scaling laws with time-varying data quality and derive asymptotically optimal joint data-quality and batch-size schedules within a feature-space regression model. The solution reveals two regimes and dual uses of high-quality data: in the noise-limited regime, a smaller batch converts cleaner data into more signal at comparable noise; in the signal-limited regime, late placement suppresses terminal noise without sacrificing signal accumulation. This explains why conventional decay schedules can conflict with curriculum-style pipelines. Motivated by the theoretical structure, we propose Drop-Stable-Rampup for LLM midtraining: drop the batch size at the quality transition, keep it low to accumulate signal, then ramp up to suppress noise. On a 15B MoE model midtrained on 108B tokens of general-domain proprietary data, Drop-Stable-Rampup improves average accuracy over Warmup-Stable-Decay by +1.70 and Cosine-decay by +2.98, including +4.23 on GSM8K and +2.80 on MATH. On a public math-and-code mixture, it leads all reported STEM, mathematics, and code benchmarks, improving the overall mean over the strongest baseline by +3.27 on a 600M dense model and +5.25 on the same MoE architecture.",
+    "publishedAt": "2026-08-25",
+    "author": "Zhitao Zhu, Xili Wang, Shizhe Wu, Jiawei Fu, Xiaoqing Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

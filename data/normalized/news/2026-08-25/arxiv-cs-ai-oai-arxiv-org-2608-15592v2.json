@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-15592v2",
+  "name": "When Entropy Is Not Enough: Reclaiming Lost Semantics in LLM Output Length Prediction",
+  "summary": "arXiv:2608.15592v2 Announce Type: replace Abstract: Efficient LLM serving is often bottlenecked by the need to pad sequences to a fixed maximum length, and this wastes compute and degrades throughp...",
+  "description": "arXiv:2608.15592v2 Announce Type: replace Abstract: Efficient LLM serving is often bottlenecked by the need to pad sequences to a fixed maximum length, and this wastes compute and degrades throughput. Predicting output lengths in advance makes it possible to adopt length-aware scheduling, and this reduces the overhead. This advantage is especially pronounced in long-context reasoning and reinfo...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.15592"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-25",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.15592"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-25",
+  "expiryAt": "2026-09-24T00:00:00.000Z",
+  "author": "Feiyang Ren, Shengtao Wen, Lingbing Guo, Yu Tian, Yuanning Cui, Xiang Chen"
+}

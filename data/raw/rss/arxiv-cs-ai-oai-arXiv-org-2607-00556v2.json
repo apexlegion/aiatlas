@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.00556v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.00556v2",
+    "title": "Group-Equivariant Poincar\\'e Convolutional Networks",
+    "link": "https://arxiv.org/abs/2607.00556",
+    "description": "arXiv:2607.00556v2 Announce Type: replace-cross Abstract: While recent methods like that of the Poincar\\'e ResNet have demonstrated the ability to learning visual representations directly in hyperbolic space, their optimisation remains a challenge, primarily due to the parameter redundancy of learning distinct orientation filters. In addition, hyperbolic learning exhibits distinct computational overheads that limit their wide use, where efforts to improve their efficiency via optimisation have seen good success, there has been limited exploration into structural priors that enable stronger sample efficiency at training. To address this, we propose Equivariant Poincar\\'e ResNets, combining hyperbolic geometry with discrete symmetry groups ($C_4$ and $D_4$). We identify critical roadblocks in applying Euclidean equivariance to hyperbolic space and propose geometrically safe tensor reshaping, left-regular permutations for hyperbolic group convolutions, and joint-orientation Poincar\\'e Midpoint Batch normalisation. Empirical evaluations show that embedding equivariance significantly improves the sample efficiency during training which in-turn accelerates convergence while respecting the boundary constraints of the Poincar\\'e ball and retaining spatial group equivariance.",
+    "publishedAt": "2026-08-25",
+    "author": "Aiden Durrant, Rahul Baburajan, Georgios Leontidis",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2512.09874v3",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2512.09874v3",
+    "title": "Benchmarking Document Parsers on Mathematical Formula Extraction from PDFs",
+    "link": "https://arxiv.org/abs/2512.09874",
+    "description": "arXiv:2512.09874v3 Announce Type: replace-cross Abstract: Correctly parsing mathematical formulas from PDFs is critical for training large language models and building scientific knowledge bases from academic literature, yet existing benchmarks either exclude formulas entirely or lack semantically-aware evaluation metrics. We introduce a benchmarking framework centered on synthetically generated PDFs with precise LaTeX ground truth, enabling systematic control over layout, formulas, and content characteristics. For evaluation, we apply LLM-as-a-judge to assess semantic equivalence of parsed formulas, capturing mathematical meaning beyond surface-level notation differences. We validate this approach through a human study (250 formula pairs, 750 ratings from 30 evaluators), showing a Pearson correlation of r=0.78 with human judgment, compared to r=0.34 for character-level matching (CDM) and r~0 for text similarity. Our robust two-stage matching pipeline combining LLM-based extraction with fuzzy validation reliably aligns parsed formulas with ground truth despite format inconsistencies across parsers. Evaluating 20+ contemporary PDF parsers across 100 synthetic documents with 2,000+ formulas reveals significant performance disparities, providing actionable guidance for practitioners selecting parsers for downstream applications. Code and benchmark data: https://github.com/phorn1/pdf-parse-bench and https://github.com/phorn1/formula-metric-study",
+    "publishedAt": "2026-08-25",
+    "author": "Pius Horn, Janis Keuper",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

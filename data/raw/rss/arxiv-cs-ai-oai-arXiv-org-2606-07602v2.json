@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.07602v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.07602v2",
+    "title": "Sample-Efficient Post-Training for LEGO Spatial-Physics Reasoning",
+    "link": "https://arxiv.org/abs/2606.07602",
+    "description": "arXiv:2606.07602v2 Announce Type: replace-cross Abstract: LLM-based LEGO assembly requires both semantic grounding and physical feasibility. In this paper, we identify a data-induced failure mode, physhack, in which generated assemblies satisfy physical-validity constraints while remaining geometrically misaligned, semantically inconsistent, or poorly calibrated. To address this challenge, we propose a model-based data selection approach that uses only 5% of the original training data while improving semantic and structural alignment across multiple independent evaluators. We further introduce PVPO, a reinforcement learning method that couples physical-validity and voxel-space geometric rewards to strengthen the LEGO synthesis capabilities of LLMs. PVPO-trained DeepSeek-Llama-8B outperforms the frontier VLM Kimi-K3 across semantic, structural, and physical evaluation dimensions, even when Kimi-K3 is provided with a ground-truth image as an additional reference.",
+    "publishedAt": "2026-08-25",
+    "author": "Yuhuan Yuan, Zhouliang Yu, Minghao Liu, Weiyang Liu, Ge Lin Kan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

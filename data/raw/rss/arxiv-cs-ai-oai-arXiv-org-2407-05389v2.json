@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2407.05389v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2407.05389v2",
+    "title": "Image-Conditional Diffusion Transformer for Underwater Image Enhancement",
+    "link": "https://arxiv.org/abs/2407.05389",
+    "description": "arXiv:2407.05389v2 Announce Type: replace-cross Abstract: Underwater image enhancement (UIE) has attracted much attention owing to its importance for underwater operation and marine engineering. Motivated by the recent advance in generative models, we propose a novel UIE method based on image-conditional diffusion transformer (ICDT). Our method takes the degraded underwater image as the conditional input and converts it into latent space where ICDT is applied. ICDT replaces the conventional U-Net backbone in a denoising diffusion probabilistic model (DDPM) with a transformer, and thus inherits favorable properties such as scalability from transformers. Furthermore, we train ICDT with a hybrid loss function involving variances to achieve better log-likelihoods, which meanwhile significantly accelerates the sampling process. We experimentally assess the scalability of ICDTs and compare with prior works in UIE on the Underwater ImageNet dataset. Besides good scaling properties, our largest model, ICDT-XL/2, outperforms all comparison methods, achieving state-of-the-art (SOTA) quality of image enhancement.",
+    "publishedAt": "2026-08-25",
+    "author": "Xingyang Nie, Caoliang Zhang, Xiaoyu Zhai, Fengzhong Qu, Biao Wang, Huilin Ge",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

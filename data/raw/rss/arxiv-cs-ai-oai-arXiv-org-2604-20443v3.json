@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.20443v3",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.20443v3",
+    "title": "DialToM: A Theory of Mind Benchmark for Forecasting State-Driven Dialogue Trajectories",
+    "link": "https://arxiv.org/abs/2604.20443",
+    "description": "arXiv:2604.20443v3 Announce Type: replace-cross Abstract: We introduce DialToM, an annotated Theory of Mind (ToM) benchmark built from naturalistic human-human dialogues using a multiple-choice evaluation framework. Concurrent with recent work showing a gap between explicit mental-state inference and applied ToM in synthetic settings~\\cite{gu2024simpletom}, we establish a stricter \\emph{State-Driven Diagnostic Probe} in which models must forecast state-consistent dialogue trajectories solely from isolated mental-state profiles without dialogue context. Our evaluation reveals a systematic reasoning asymmetry -- LLMs excel at inferring mental states (Literal ToM) but struggle to leverage them for social forecasting (Functional ToM). Crucially, a domain expert achieves 100\\% accuracy on this task, proving its validity and establishing a stark human-AI capability gap. Further, a teacher-student reasoning injection probe shows that Gemini 3 Pro -- which establishes the leading baseline -- possesses robust Functional ToM capabilities for context-free forecasting that are transferable to weaker models. DialToM, its evaluation code, and dataset are publicly available at https://github.com/Stealth-py/DialToM.",
+    "publishedAt": "2026-08-25",
+    "author": "Neemesh Yadav, Palakorn Achananuparp, Jing Jiang, Ee-Peng Lim",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

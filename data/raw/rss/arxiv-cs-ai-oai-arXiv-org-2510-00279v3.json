@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2510.00279v3",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2510.00279v3",
+    "title": "SLogic: Subgraph-Informed Logical Rule Learning for Knowledge Graph Completion",
+    "link": "https://arxiv.org/abs/2510.00279",
+    "description": "arXiv:2510.00279v3 Announce Type: replace-cross Abstract: Logical rule-based methods offer an interpretable approach to knowledge graph completion (KGC) by capturing compositional relationships in the form of human-readable inference rules. While existing logical rule-based methods learn rule confidence scores, they typically assign a global weight to each rule schema, applied uniformly across the graph. This is a significant limitation, as a rule's importance often varies depending on the specific query instance. To address this, we introduce SLogic (Subgraph-Informed Logical Rule learning), a novel framework that assigns query-dependent scores to logical rules. The core of SLogic is a context-aware scoring function. This framework is in line with the specificity principle in commonsense reasoning. This function determines the importance of a rule by analyzing the subgraph locally defined by the query's head entity, thereby enabling a differentiated weighting of rules specific to their local query contexts. Extensive experiments on benchmark datasets show that SLogic achieves competitive performance among rule-based methods. It also generates query-dependent, human-readable logical rules that serve as explicit explanations for its inferences.",
+    "publishedAt": "2026-08-25",
+    "author": "Trung Hoang Le, Tran Cao Son, Ishtiaq Ahmed, Huiping Cao",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

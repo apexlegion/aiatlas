@@ -1,0 +1,50 @@
+{
+  "type": "paper",
+  "slug": "2608-24794",
+  "name": "CAFE: Self-Improving Search Agents Need Co-Evolving Feedback",
+  "summary": "Outcome-supervised search agents learn when and how to retrieve evidence, but terminal rewards neither localize intermediate errors nor redirect an ongoing trajectory before those errors compound....",
+  "description": "Outcome-supervised search agents learn when and how to retrieve evidence, but terminal rewards neither localize intermediate errors nor redirect an ongoing trajectory before those errors compound. Treating corrective feedback as a learned in-trajectory intervention couples the two roles: the agent must decide when to request and use feedback, while the critic must infer useful corrections from outcome-confounded rollouts whose failure patterns shift as the agent improves. We introduce CAFE (Coupled Agent--Feedback Evolution), a framework in which a shared-parameter model alternates between...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.24794v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.24794v1"
+    }
+  ],
+  "authors": [
+    "Boyang Liu",
+    "Senjie Jin",
+    "Peixin Wang",
+    "Zhangyue Yin",
+    "Yibo Wang",
+    "Yuhao Zhou",
+    "Xinbing Liang",
+    "Shizheng Zhu",
+    "Yuhui Wang",
+    "Jingqi Tong",
+    "Zhiheng Xi",
+    "Jiazheng Zhang",
+    "Clive Bai",
+    "Clarenceai",
+    "Blaze Chen",
+    "Tao Gui",
+    "Qi Zhang",
+    "Xuanjing Huang"
+  ],
+  "paperId": "2608.24794",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-25",
+  "abstract": "Outcome-supervised search agents learn when and how to retrieve evidence, but terminal rewards neither localize intermediate errors nor redirect an ongoing trajectory before those errors compound. Treating corrective feedback as a learned in-trajectory intervention couples the two roles: the agent must decide when to request and use feedback, while the critic must infer useful corrections from outcome-confounded rollouts whose failure patterns shift as the agent improves. We introduce CAFE (Coupled Agent--Feedback Evolution), a framework in which a shared-parameter model alternates between..."
+}

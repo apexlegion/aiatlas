@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2608-24777",
+  "name": "StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing",
+  "summary": "LLM-based agents can interact with external environments through tool invocation, but this capability also introduces security risks such as file modification, information leakage, and unauthorized...",
+  "description": "LLM-based agents can interact with external environments through tool invocation, but this capability also introduces security risks such as file modification, information leakage, and unauthorized actions. Existing guardrails often evaluate completed trajectories, leaving pre-execution monitoring of step-level actions underexplored. We propose StepGuard, a step-level guard model that can audit completed agent trajectories and check tool actions before they are executed. To train StepGuard, we introduce StepGen, an automatic data engine that generates safe and unsafe trajectories with the s...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.24777v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.24777v1"
+    }
+  ],
+  "authors": [
+    "Zhijie Zheng",
+    "Yu Li",
+    "Chen Qian",
+    "Yuqian Fu",
+    "Yanwei Fu",
+    "Lu Sheng",
+    "Jing Shao",
+    "Dongrui Liu"
+  ],
+  "paperId": "2608.24777",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-25",
+  "abstract": "LLM-based agents can interact with external environments through tool invocation, but this capability also introduces security risks such as file modification, information leakage, and unauthorized actions. Existing guardrails often evaluate completed trajectories, leaving pre-execution monitoring of step-level actions underexplored. We propose StepGuard, a step-level guard model that can audit completed agent trajectories and check tool actions before they are executed. To train StepGuard, we introduce StepGen, an automatic data engine that generates safe and unsafe trajectories with the s..."
+}

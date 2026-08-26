@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.01063v3",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.01063v3",
+    "title": "MindHelper: Closed-Loop Embodied Mental-State Reasoning for Precision Intervention",
+    "link": "https://arxiv.org/abs/2606.01063",
+    "description": "arXiv:2606.01063v3 Announce Type: replace Abstract: Theory-of-Mind (ToM) reasoning enables embodied agents to understand human beliefs, goals, and intentions, but existing benchmarks mainly evaluate this ability through offline question answering or scenario-level action prediction. MindPower advances embodied ToM by introducing robot-centric reasoning from perception to action; however, it does not evaluate whether an agent can continuously interact with a changing environment and intervene only when assistance is needed. Building on MindPower, we introduce the MindHelper Challenge, which extends embodied ToM evaluation to real-time closed-loop precision intervention. An agent must continuously observe the environment, maintain actor-specific beliefs, identify when a human requires assistance, generate executable actions, and remain silent when intervention is unnecessary. We further propose MindClaw, a simple yet effective Claw-style framework that integrates an actor-specific Belief Table, embodied cognitive skills, and a Trigger-based cognitive dispatcher. Experiments show that MindClaw achieves 36.63% precise intervention rate and 14.36\\% task accuracy, substantially outperforming direct VLM baselines, whose corresponding results remain below 12.05% and 3.80%.",
+    "publishedAt": "2026-08-25",
+    "author": "Ruoxuan Zhang, Qiaoqiao Wan, Zhengguang Wang, Chenghao Yu, Hongxia Xie, Wen-Huang Cheng, Jianlong Fu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

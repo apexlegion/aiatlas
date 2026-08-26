@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.02092v3",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.02092v3",
+    "title": "Guided Action Flow: Q-Guided Inference for Flow-Matching Vision-Language-Action Policies",
+    "link": "https://arxiv.org/abs/2607.02092",
+    "description": "arXiv:2607.02092v3 Announce Type: replace-cross Abstract: Deploying a pretrained flow-matching vision-language-action (VLA) policy on a particular robot and workspace often calls for task-specific adaptation, while full- policy fine-tuning is costly and changes the base behavior. We present Guided Action Flow, an inference-time method that keeps a pretrained SmolVLA policy frozen and steers its reverse-time action-flow sampling with gradients from a task-specific action-chunk critic. QGF trains a visual Transformer critic and value model with offline Implicit Q-Learning on 100 real-robot rollouts. The critic conditions on robot state, frozen dual-camera SmolVLA visual tokens, and the policy's normalized 50-step action chunk. On a real-robot water-bottle placement task, QGF with \\b{eta} = 2 increases success from 19/40 episodes (47.5%) to 34/40 episodes (85.0%) and reduces timeouts from 13 to 3. With a yellow tape measure added as a visual distractor, QGF completes 6/12 episodes, compared with 0/11 for frozen SmolVLA. These results show that deployment rollouts can provide an effective action-space guidance signal for improving a frozen flow-matching VLA without policy fine-tuning.",
+    "publishedAt": "2026-08-25",
+    "author": "Liuhaichen Yang, Zhuang Jiang, Chenchao Sheng, Zezhi Tang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

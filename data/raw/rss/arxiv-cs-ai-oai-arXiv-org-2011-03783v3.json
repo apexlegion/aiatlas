@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2011.03783v3",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2011.03783v3",
+    "title": "Towards a resource for multilingual lexicons: an MT assisted and human-in-the-loop multilingual parallel corpus with multi-word expression annotation",
+    "link": "https://arxiv.org/abs/2011.03783",
+    "description": "arXiv:2011.03783v3 Announce Type: replace-cross Abstract: In this work, we introduce the construction of a machine translation (MT) assisted and human-in-the-loop multilingual parallel corpus with annotations of multi-word expressions (MWEs), named AlphaMWE. The MWEs include verbal MWEs (vMWEs) defined in the PARSEME shared task that have a verb as the head of the studied terms. The annotated vMWEs are also bilingually and multilingually aligned manually. The languages covered include Arabic, Chinese, English, German, Italian, and Polish, of which, the Arabic corpus includes both standard and dialectal variations from Egypt and Tunisia. Our original English corpus is extracted from the PARSEME shared task in 2018. We performed machine translation of this source corpus followed by human post-editing and annotation of target MWEs. Strict quality control was applied for error limitation, i.e., each MT output sentence received first manual post-editing and annotation plus a second manual quality rechecking till annotators' consensus is reached. One of our findings during corpora preparation is that accurate translation of MWEs presents challenges to MT systems, as reflected by the outcomes of human-in-the-loop metric HOPE. To facilitate further MT research, we present a categorisation of the error types encountered by MT systems in performing MWE-related translation. To acquire a broader view of MT issues, we selected four popular state-of-the-art MT systems for comparison, namely Microsoft Bing Translator, GoogleMT, Baidu Fanyi, and DeepL MT. Because of the noise removal, translation post-editing, and MWE annotation by human professionals, we believe the AlphaMWE data set will be an asset for both monolingual and cross-lingual research, such as multi-word term lexicography, MT, and information extraction (https://github.com/aaronlifenghan/AlphaMWE).",
+    "publishedAt": "2026-08-25",
+    "author": "Lifeng Han, Najet Hadj Mohamed, Malak Rassem, Gareth Jones, Alan Smeaton, Goran Nenadic",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

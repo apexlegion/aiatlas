@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.22388v1",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.22388v1",
+    "title": "ProBel: Propaganda Detection with Techniques, Spans, and Explanations",
+    "link": "https://arxiv.org/abs/2608.22388",
+    "description": "arXiv:2608.22388v1 Announce Type: cross Abstract: Propaganda detection includes several related prediction levels, ranging from sentence-level decisions to technique classification and span identification. However, it remains unclear how supervision at these levels interacts when learned jointly across Arabic and English. We present ProBel, an Arabic and English resource that aligns binary labels, multi-label annotations over 23 propaganda techniques grouped into six coarse categories, technique-labeled spans, and reference explanations for the same news sentences. It includes a substantially larger English collection and supports matched binary, coarse-grained, multi-label, and span-level tasks in both languages. We evaluate zero-shot prompting, task-specific fine-tuning, and joint training under a shared setup. A single bilingual multi-task model achieves the best overall performance and remains competitive across tasks and languages. Cross-task analysis shows that transfer depends on the supervision level. Joint classification training preserves binary performance, whereas span-only training can weaken sentence-level prediction. Joint bilingual training yields the most stable results, while monolingual fine-tuning can reduce transfer to the other language. We will release the data, code, and evaluation scripts.",
+    "publishedAt": "2026-08-25",
+    "author": "Mohamed Bayan Kmainasi, Ali Ezzat Shahroor, Elisa Sartori, Giovanni Da San Martino, Firoj Alam",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

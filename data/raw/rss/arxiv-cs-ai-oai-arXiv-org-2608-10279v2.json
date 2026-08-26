@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.10279v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.10279v2",
+    "title": "Withholding the Completing Chunk: Exact Release-Boundary Equivalence for Production Streaming Guardrails",
+    "link": "https://arxiv.org/abs/2608.10279",
+    "description": "arXiv:2608.10279v2 Announce Type: replace-cross Abstract: Streaming language-model output creates an enforcement boundary: a control that detects a prohibited pattern after releasing its completing chunk cannot recall it. We study a production policy in which each ordered family is the conjunction of two regular-language predicates. Incremental matching is classical. The problem is exact composition at release time across arbitrary chunk partitions, including end-of-prefix word boundaries that can change on extension. We define an ASCII-explicit policy grammar, compile each predicate to a persistent nondeterministic finite automaton (NFA), distinguish stable from provisional assertion state, apply document-order family priority, and check the decision before releasing each chunk. We show that the resulting monitor is release-boundary equivalent to an absorbing cumulative oracle for every policy in the declared grammar. Production Python and TypeScript implementations were evaluated on 101,653 partitioned cases; a public surrogate added 100,345 cases. Both campaigns produced zero oracle, cross-runtime, or intended-family mismatches. In a frozen neutral-output profile, the memoized incremental and native-regex cumulative slopes at 64-character chunks were 0.973 and 1.976. At 16,384 characters the incremental median was 30.2 ms versus 96.6 ms for native cumulative scanning at that chunk size. Native regex remained faster at 512-character chunks (12.4 versus 29.4 ms), exposing the constant-factor crossover rather than hiding it. A shared per-stream cache cap and 129-symbol alphabet bound optimization state; the campaign peaked at 364 of 4,096 without bypass. The result is policy conformance for a deterministic backstop, not evidence of semantic safety or policy completeness.",
+    "publishedAt": "2026-08-25",
+    "author": "Christopher M. Frost",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

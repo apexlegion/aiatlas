@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2608-24876",
+  "name": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+  "summary": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Wor...",
+  "description": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Working Memory architecture for long-horizon agent harnesses, in which Working Memory tracks task progress and guides skill selection from Experiential Memory, grounding skill use in current needs rather than the full history. This coupling also turns execution into structured evidence that localizes failures to specific memory components. Across tasks, a fixed Meta-Agent turns that evidence into loc...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.24876v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.24876v1"
+    }
+  ],
+  "authors": [
+    "Zhaochen Yu",
+    "Yingcheng Wu",
+    "Zhenfei Yin",
+    "Kaiyuan Chen",
+    "Zhe Zhao",
+    "Mengdi Wang",
+    "Shuicheng Yan",
+    "Ling Yang"
+  ],
+  "paperId": "2608.24876",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-25",
+  "abstract": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Working Memory architecture for long-horizon agent harnesses, in which Working Memory tracks task progress and guides skill selection from Experiential Memory, grounding skill use in current needs rather than the full history. This coupling also turns execution into structured evidence that localizes failures to specific memory components. Across tasks, a fixed Meta-Agent turns that evidence into loc..."
+}

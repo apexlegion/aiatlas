@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2608-24804",
+  "name": "StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments",
+  "summary": "We present StarHarness, a framework for evolving environment-specific agent harnesses while keeping model weights fixed. The evolved harness can include prompt and task framing, tool interfaces, sk...",
+  "description": "We present StarHarness, a framework for evolving environment-specific agent harnesses while keeping model weights fixed. The evolved harness can include prompt and task framing, tool interfaces, skills, MCP-backed providers, subagent structure, and agent-loop configuration. StarHarness constructs a compact evolution pool by stratifying tasks according to baseline failure behavior, separates proposer-visible search tasks from proposer-hidden selection tasks, and reserves held-out tasks for evaluating generalization. Across ITBench SRE, EnterpriseOps-Gym ITSM, and AutomationBench Finance, har...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.24804v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.24804v1"
+    }
+  ],
+  "authors": [
+    "Esakkivel Esakkiraja",
+    "Denis Akhiyarov",
+    "Vikas Yadav",
+    "Sai Rajeswar",
+    "Patrice Bechard",
+    "Sridhar Nemala",
+    "Sagar Davasam"
+  ],
+  "paperId": "2608.24804",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-25",
+  "abstract": "We present StarHarness, a framework for evolving environment-specific agent harnesses while keeping model weights fixed. The evolved harness can include prompt and task framing, tool interfaces, skills, MCP-backed providers, subagent structure, and agent-loop configuration. StarHarness constructs a compact evolution pool by stratifying tasks according to baseline failure behavior, separates proposer-visible search tasks from proposer-hidden selection tasks, and reserves held-out tasks for evaluating generalization. Across ITBench SRE, EnterpriseOps-Gym ITSM, and AutomationBench Finance, har..."
+}

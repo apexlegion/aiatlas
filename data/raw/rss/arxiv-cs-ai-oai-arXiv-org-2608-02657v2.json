@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.02657v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.02657v2",
+    "title": "Your Agentic LLMs Secretly Encode Indirect Prompt-Injection Exposure in Hidden States",
+    "link": "https://arxiv.org/abs/2608.02657",
+    "description": "arXiv:2608.02657v2 Announce Type: replace-cross Abstract: Agentic LLMs are vulnerable to indirect prompt injection (IPI) attacks, e.g., malicious side-tasks hidden in external tool results. While many efforts have sought to address this threat, little is known about the internals of agentic LLMs when they are exposed to IPI attacks. For simplicity, we refer to this condition as IPI exposure. In this paper, we study IPI exposure from three perspectives. (1) Probing: Across eight models, including the 753B-parameter GLM-5.2 and the 2.8T-parameter Kimi-K3, simple linear probes trained on pre-generation hidden states can predict LLMs' IPI exposure. These probes achieve 0.90+ AUROC on unseen attacks, agent instructions, and task suites; they remain robustly predictive under adaptive attacks and in cross-lingual settings. (2) Defense: We reveal and diagnose a knowledge-action gap: post-trained LLMs encode signals predictive of IPI exposure, yet do not reliably bind these signals to safe agentic actions. We therefore introduce a probe-gated reasoning-based defense to bridge this gap at test time. On difficult AgentDojo settings, it substantially reduces attack success rate, e.g., from 34.6% to 0% on Qwen3.5-27B, and better preserves clean-task utility than the baselines. (3) Explanation: We introduce an analysis framework that identifies natural-language explanations strongly correlated with probe-captured signals. The resulting profiles differ across models: latent signals can align with either direct IPI-exposure sensing or indirect operational cues. Code is available at https://github.com/jianshuod/IPI-exposure-signal.",
+    "publishedAt": "2026-08-25",
+    "author": "Jianshuo Dong, Yiming Liu, Maosen Zhang, Nan Deng, Peng Xu, Xiaoping Zhang, Tianwei Zhang, Jie Zhang, Han Qiu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

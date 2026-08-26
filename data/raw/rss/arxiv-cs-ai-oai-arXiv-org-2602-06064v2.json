@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.06064v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.06064v2",
+    "title": "iScheduler: Reinforcement Learning-Driven Continual Optimization for Large-Scale Resource Investment Problems",
+    "link": "https://arxiv.org/abs/2602.06064",
+    "description": "arXiv:2602.06064v2 Announce Type: replace-cross Abstract: Scheduling precedence-constrained tasks under shared renewable resources is critical to modern computing platforms. It is often modeled as the Resource Investment Problem (RIP) by minimizing the cost of provisioned renewable resources under precedence and timing constraints. Unfortunately, exact mixed-integer programming and constraint programming become impractically slow on large RIP instances, and dynamic updates require schedule revisions under tight latency budgets. To address this, we present iScheduler, a reinforcement-learning-driven iterative scheduling framework for large RIP. Specifically, it formulates RIP solving as a Markov decision process over decomposed subproblems and constructs schedules through sequential process selection. By doing this, the framework accelerates optimization and supports reconfiguration by reusing unchanged process schedules and rescheduling only affected processes. To evaluate this framework, we release L-RIPLIB, an industrial-scale benchmark derived from cloud-platform workloads with 1,000 instances of 2,500-10,000 tasks. Our experiments show that iScheduler attains competitive resource costs while reducing time to feasibility by up to 43$\\times$ against leading solver-backed baselines.",
+    "publishedAt": "2026-08-25",
+    "author": "Yi-Xiang Hu, Yuke Wang, Feng Wu, Zirui Huang, Shuli Zeng, Xiang-Yang Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

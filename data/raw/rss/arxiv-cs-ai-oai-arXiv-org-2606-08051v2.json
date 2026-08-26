@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.08051v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.08051v2",
+    "title": "How Small Can You Go? LoRA Fine-Tuning 270M-8B Models for Merchant Information Extraction in Financial Transactions",
+    "link": "https://arxiv.org/abs/2606.08051",
+    "description": "arXiv:2606.08051v2 Announce Type: replace Abstract: Merchant information extraction turns noisy financial transaction descriptors into structured fields at production scale. Our deployed LoRA-fine-tuned LLaMA~3.1-8B reaches 96.95\\% F1, but its memory and throughput motivate smaller replacements. We evaluate 23 retained fine-tuning runs plus a separately trained production reference, spanning Gemma~3 (270M--4B), Qwen~3.5 (0.8B--4B), Aya~3.35B, and LLaMA~3.1-8B across LoRA ranks, prompts, training templates, and serving environments. A rank-8 LLaMA fine-tune reaches 96.75\\% F1, only 0.20 points below the rank-32 production reference. Qwen~3.5~4B with JSON-Only prompting reaches 96.60\\% F1 and strict record-level exact match of 91.67\\%, with a $3.8\\times$ lower inverse-throughput time estimate than the rank-8 8B model. Qwen~3.5~0.8B reaches 94.75\\% F1, and Qwen Think and Nothink templates differ by less than 0.004 F1. Across 14 Databricks endpoints, mean F1 change from local evaluation is $-0.0081$; Aya is the only family with a 2.7--5.1 point decline. These results show that compact fine-tuned models can preserve most extraction accuracy, but model selection must account for prompt choice, throughput, and serving-stack behavior.",
+    "publishedAt": "2026-08-25",
+    "author": "Donghao Huang, Tomas Drietomsky, Benjamin Barrett, Zhaoxia Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

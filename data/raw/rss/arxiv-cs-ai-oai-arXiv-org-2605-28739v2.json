@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.28739v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.28739v2",
+    "title": "BIRDNet: Mining and Encoding Boolean Implication Knowledge Graphs as Interpretable Deep Neural Networks",
+    "link": "https://arxiv.org/abs/2605.28739",
+    "description": "arXiv:2605.28739v2 Announce Type: replace-cross Abstract: Tabular data in knowledge-rich domains often carries a latent prior in the form of Boolean implication relationships (BIRs) between pairs of features. We mine such relationships with a sparse-exception binomial test. We encode the resulting typed graph as the connectivity of a layered neural network, called BIRDNet, in which each hidden unit corresponds to one mined rule and binds only to its two features. We show two consequences of this design: First, the architecture is sparse: at most $2/d$ of the weights in each BIR layer are active, where $d$ is the input dimension. Second, the model is intrinsically interpretable: every trained unit keeps a stable symbolic identity, so rules can be read off the network without surrogate models. Unlike most neurosymbolic models, BIRDNet does not consume an external rule base; its structural prior is mined from the data. We evaluate BIRDNet on six transcriptomic and proteomic benchmarks. Our results show that BIRDNet stays within $0.02$ AUROC of the strongest dense baseline, while using up to $95\\times$ fewer active parameters than an architecture-matched dense MLP. First-layer rules align with known biological signatures across multiple cancer subtypes and tissue types. Matched-topology controls show that the mined graph contributes symbolic meaning rather than predictive advantage: shuffled or random pairings match or improve AUROC but no longer correspond to mined implications. Data and code are available at: https://github.com/MAHI-Group/BIRDNet.",
+    "publishedAt": "2026-08-25",
+    "author": "Tirtharaj Dash",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

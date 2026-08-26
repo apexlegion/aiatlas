@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2402.14879v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2402.14879v2",
+    "title": "Evaluating the Efficacy of LLMs to Emulate Realistic Human Personalities",
+    "link": "https://arxiv.org/abs/2402.14879",
+    "description": "arXiv:2402.14879v2 Announce Type: replace-cross Abstract: To enhance immersion and engagement in video games, the design of Affective Non-Player Characters (ANPCs) is a key focus for researchers and practitioners. Affective Computing frameworks improve Non-player characters (NPC) by providing personalities, emotions, and social relations. Large Language Models (LLMs) bring the promise to dynamically enhance character design when coupled with these frameworks, but further research is needed to validate the models truly represent human qualities. In this research, a comprehensive analysis investigates the capabilities of LLMs to generate content that aligns with human personality, using the Big Five and human responses from the International Personality Item Pool (IPIP) questionnaire. Our goal is to benchmark the performance of various LLMs, including frontier models and local models, against an extensive dataset comprising over 50,000 human surveys of self-reported personality tests to determine whether LLMs can replicate human-like decision-making with personality-driven prompts. A range of personality profiles were used to cluster the test results from the human survey dataset. Our methodology involved prompting LLMs with self-evaluated test items for each personality profile, comparing their outputs to human baseline responses, and evaluating the accuracy and consistency. Our findings show that some local models had 0% alignment of any personality profiles when compared to the human dataset, while the frontier models, in some cases, had 100% alignment. The results indicate that NPCs can successfully emulate human-like personality traits using LLMs, as demonstrated by benchmarking the LLM's output against human data. This foundational work serves as a methodology for game developers and researchers to test and evaluate LLMs, ensuring they accurately represent the desired human personalities and can be expanded for further validation.",
+    "publishedAt": "2026-08-25",
+    "author": "Lawrence J. Klinkert, Stephanie Buongiorno, Corey Clark",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

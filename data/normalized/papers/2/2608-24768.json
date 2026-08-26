@@ -1,0 +1,33 @@
+{
+  "type": "paper",
+  "slug": "2608-24768",
+  "name": "Score-Based Ideal Observer Approximation via Denoising Score Matching for Signal-Known-Exactly Detection Tasks",
+  "summary": "The Bayesian Ideal Observer (IO) establishes the theoretical upper bound on task performance for binary detection tasks. However, analytical computation of the IO test statistic is generally intrac...",
+  "description": "The Bayesian Ideal Observer (IO) establishes the theoretical upper bound on task performance for binary detection tasks. However, analytical computation of the IO test statistic is generally intractable. Numerical approaches based on Markov-chain Monte Carlo (MCMC) methods, including their recent deep generative model-based extensions, typically require extensive posterior sampling for each test image. Supervised learning has also been investigated to approximate the IO performance. However, such methods are typically trained for a specific detection task and signal and may require retraini...",
+  "tags": [
+    "arxiv",
+    "eess.IV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.24768v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category eess.IV.",
+      "href": "https://arxiv.org/abs/2608.24768v1"
+    }
+  ],
+  "authors": [
+    "Weimin Zhou"
+  ],
+  "paperId": "2608.24768",
+  "category": "eess.IV",
+  "publishedAt": "2026-08-25",
+  "abstract": "The Bayesian Ideal Observer (IO) establishes the theoretical upper bound on task performance for binary detection tasks. However, analytical computation of the IO test statistic is generally intractable. Numerical approaches based on Markov-chain Monte Carlo (MCMC) methods, including their recent deep generative model-based extensions, typically require extensive posterior sampling for each test image. Supervised learning has also been investigated to approximate the IO performance. However, such methods are typically trained for a specific detection task and signal and may require retraini..."
+}

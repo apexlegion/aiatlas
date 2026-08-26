@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.17174v3",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.17174v3",
+    "title": "Continual Uncertainty Learning for Robust Control of Nonlinear Systems with Multiple Heterogeneous Uncertainties",
+    "link": "https://arxiv.org/abs/2602.17174",
+    "description": "arXiv:2602.17174v3 Announce Type: replace-cross Abstract: Robust control of mechanical systems with multiple uncertainties remains a fundamental challenge, particularly when nonlinear dynamics and operating-condition variations are intricately intertwined. Although deep reinforcement learning combined with domain randomization has shown promise in mitigating the sim-to-real gap, simultaneously handling all the sources of uncertainty often leads to sub-optimal policies and poor learning efficiency. This study proposes continual uncertainty learning (CUL), a curriculum-based continual learning framework for robust control of nonlinear systems on which multiple heterogeneous uncertainties are simultaneously superimposed. The core idea is to decompose the original control problem into a sequence of continual learning tasks by extending the system into a set of plants whose uncertainties are progressively expanded and diversified, so that the strategy for handling each uncertainty is acquired sequentially. Within this curriculum, the policy is updated across the plant sets under a memory-efficient anti-forgetting regularization, which preserves the strategies acquired for earlier uncertainties. In parallel, a model-based controller that guarantees a shared baseline performance across all the plant sets is embedded in the learning process, so that the agent learns only the residual compensation for each uncertainty, thereby substantially enhancing sample efficiency. The proposed framework is applied to the design of an active vibration controller for automotive powertrains as a practical industrial application. Comparative validation demonstrates that the resulting controller remains robust against structural nonlinearities and dynamic variations over a wide range of plant conditions while improving the control performance.",
+    "publishedAt": "2026-08-25",
+    "author": "Heisei Yonezawa, Ansei Yonezawa, Itsuro Kajiwara",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

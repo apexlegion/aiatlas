@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.21482v1",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.21482v1",
+    "title": "Reliability- and Anatomy-Consistency-Aware Multimodal Learning for Robust Fracture Classification from Bangladeshi Radiographs",
+    "link": "https://arxiv.org/abs/2608.21482",
+    "description": "arXiv:2608.21482v1 Announce Type: cross Abstract: Background: Multimodal fracture classifiers may benefit from patient and anatomical metadata, but they can also become brittle when contextual information is missing or mismatched. Methods: We studied 1493 radiographs from the Bangladeshi OrthoFrac-XR dataset using leakage-safe age, sex, bone type, and laterality. A ConvNeXt image encoder was combined with a clinical multilayer perceptron through concatenation, late fusion, reliability-gated residual fusion, and a hierarchical state-location formulation. We additionally introduced an anatomy-consistency gate that attenuates metadata corrections when an image-side anatomical prediction disagrees with the reported bone type. Results: Across five folds and three seeds, hierarchical residual fusion achieved a macro-F1 of 0.6046 +/- 0.0279, compared with 0.5727 +/- 0.0270 for image-only learning, while improving the Brier score from 0.5239 to 0.4948. In a five-fold robustness experiment, anatomy-consistency fusion reduced the macro-F1 loss under shuffled metadata from 0.0567 to 0.0203 relative to ordinary residual fusion, although its clean-data macro-F1 was lower. Without bone type at inference, auxiliary anatomy supervision improved macro-F1 from 0.5620 +/- 0.0330 to 0.5899 +/- 0.0289. Conclusions: Structured context improves fracture classification, and consistency-aware gating limits harm from mismatched metadata. The observed clean-performance-robustness trade-off and the absence of patient-level identifiers motivate external and prospective validation.",
+    "publishedAt": "2026-08-25",
+    "author": "Musa Tur Farazi, K G Subarno Bithi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

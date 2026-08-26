@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.01575v2",
+  "fetchedAt": "2026-08-26T03:12:48.620Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.01575v2",
+    "title": "Measuring in-context algorithmic reasoning in language models against an exact Bayes-optimal reference",
+    "link": "https://arxiv.org/abs/2608.01575",
+    "description": "arXiv:2608.01575v2 Announce Type: replace-cross Abstract: Whether large language models perform algorithmic inference or pattern completion is hard to test, because most benchmarks supply answers but no distributional reference for what the shown evidence licenses. F-ICL supplies one exactly: we exhaustively enumerate the 86 million valid programs of length at most 13 on a Turing-complete machine F, complement-symmetrised to remove output-polarity bias, and compute the exact posterior under a declared bounded Levin--Solomonoff prior. It is Bayes-optimal for that stated prior rather than universal, and models are never told it exists, so the score reads the inductive prior their served distribution already encodes. Across 105 serving configurations spanning open models from 0.8B to 675B and frontier systems, models answer up to 92% of queries correctly, yet 45 of the 46 exposing distributions sit farther from the F reference than a keystroke reference. This is not an artefact of task selection: on the bit coordinate, the half the length quota cannot distort, 69 of 80 runs stay below the anchor. Fidelity is inert to scale, which accuracy tracks; continuation improves late without converging; and models un-solve a solved task once per two gains, where the F reference does so once per nine and always repairs it. Because absolute distances are reference-dependent, we prove sequential bounds holding for rival priors: any predictor whose prior gives the reference positive weight has bounded cumulative excess loss, and, in a loss never invoking the reference, any Bayesian mixture giving the realised truth positive mass has a bounded truth-loss budget. On 23,998 trajectories, 86.7% already spend over 10 bits of it. Sequences ending by position nine cannot exclude an arbitrarily large finite constant, so these are lower bounds on what a rival prior must already pay. F-ICL is an open benchmark and toolkit.",
+    "publishedAt": "2026-08-25",
+    "author": "Luan Ozelim, Hector Zenil",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
