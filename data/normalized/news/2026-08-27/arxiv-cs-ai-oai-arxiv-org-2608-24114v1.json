@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-24114v1",
+  "name": "AHEAD: Adaptive Hindsight with Environment-Augmented Distillation for Agentic RL",
+  "summary": "arXiv:2608.24114v1 Announce Type: new Abstract: Training multi-turn LLM agents with reinforcement learning typically relies on trajectory-level rewards, which assign a uniform advantage to every st...",
+  "description": "arXiv:2608.24114v1 Announce Type: new Abstract: Training multi-turn LLM agents with reinforcement learning typically relies on trajectory-level rewards, which assign a uniform advantage to every step and cannot identify which decisions led to success or failure. Self-distillation methods can provide finer-grained supervision by augmenting RL with privileged information. However, existing approa...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.24114"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-27",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.24114"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-27",
+  "expiryAt": "2026-09-26T00:00:00.000Z",
+  "author": "Xiaolong Jin, Dingmin Wang, Vijay Lingam, Varun Kumar"
+}

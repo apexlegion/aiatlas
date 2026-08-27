@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2402.01767v4",
+  "fetchedAt": "2026-08-27T12:42:30.195Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2402.01767v4",
+    "title": "HiQA: A Hierarchical Contextual Augmentation RAG for Multi-Documents QA",
+    "link": "https://arxiv.org/abs/2402.01767",
+    "description": "arXiv:2402.01767v4 Announce Type: replace-cross Abstract: Retrieval-Augmented Generation (RAG) significantly improves document-based question answering by integrating external documents during generation. However, retrieval accuracy can degrade when the knowledge base contains many semantically and structurally similar documents. We introduce HiQA, a practical hierarchical contextual augmentation framework for multi-document question answering (MDQA). HiQA enriches text chunks with cascading document metadata, such as document titles and section paths, so that retrieval can use both local content and document structure. The framework also uses a multi-route retriever that combines semantic, lexical, and keyword/entity signals. We further introduce MasQA, a benchmark designed to evaluate MDQA systems in realistic similar-document settings. Experiments show that HiQA improves retrieval and answer quality on MasQA and remains competitive on public MDQA benchmarks, while its benefits are strongest for structured, domain-specific, highly similar document collections.",
+    "publishedAt": "2026-08-27",
+    "author": "Xinyue Chen, Pengyu Gao, Jiangjiang Song, Xinjian Chen, Xiaoyang Tan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

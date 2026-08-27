@@ -1,0 +1,42 @@
+{
+  "type": "paper",
+  "slug": "2608-26095",
+  "name": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
+  "summary": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervise...",
+  "description": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised post-training methods for MLLMs typically optimize target tokens uniformly, overlooking their heterogeneous visual dependence (VD). However, we reveal that token-level VD is crucial for MU-CPT. Specifically, its structural distortion serves as an indicator of cross-modal catastrophic forgetting, and its inherent heterogeneity acts as a compass to guide new-task learning. Leveraging this property...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.26095v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-26",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2608.26095v1"
+    }
+  ],
+  "authors": [
+    "Kaichen Li",
+    "Zhilin Zhu",
+    "Jianhao Huang",
+    "Zhengqin Lai",
+    "Baochen Xiong",
+    "Zibo Shao",
+    "Yaguang Song",
+    "Linhui Xiao",
+    "Xiaoshan Yang",
+    "Changsheng Xu"
+  ],
+  "paperId": "2608.26095",
+  "category": "cs.CV",
+  "publishedAt": "2026-08-26",
+  "abstract": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised post-training methods for MLLMs typically optimize target tokens uniformly, overlooking their heterogeneous visual dependence (VD). However, we reveal that token-level VD is crucial for MU-CPT. Specifically, its structural distortion serves as an indicator of cross-modal catastrophic forgetting, and its inherent heterogeneity acts as a compass to guide new-task learning. Leveraging this property..."
+}

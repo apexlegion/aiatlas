@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2608-25986",
+  "name": "Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs",
+  "summary": "Retrieval-augmented generation (RAG) is widely used to mitigate hallucination issues in large language models (LLMs) and multimodal large language models (MLLMs). In particular, knowledge graph (KG...",
+  "description": "Retrieval-augmented generation (RAG) is widely used to mitigate hallucination issues in large language models (LLMs) and multimodal large language models (MLLMs). In particular, knowledge graph (KG)-based RAG leverages structured knowledge to provide (M)LLMs with high-quality external information. Building on these works, recent studies have explored multimodal knowledge graphs (MMKGs) as knowledge bases for GraphRAG. This enables Graph RAG to integrate knowledge across multiple modalities, thereby further enhancing its performance. However, existing MMKG-based RAG methods generally follow...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.25986v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-26",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.25986v1"
+    }
+  ],
+  "authors": [
+    "Zongyu Wu",
+    "Yilong Wang",
+    "Xiaochen Wang",
+    "Minhua Lin",
+    "Zhichao Xu",
+    "Fenglong Ma",
+    "Xiang Zhang",
+    "Suhang Wang"
+  ],
+  "paperId": "2608.25986",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-26",
+  "abstract": "Retrieval-augmented generation (RAG) is widely used to mitigate hallucination issues in large language models (LLMs) and multimodal large language models (MLLMs). In particular, knowledge graph (KG)-based RAG leverages structured knowledge to provide (M)LLMs with high-quality external information. Building on these works, recent studies have explored multimodal knowledge graphs (MMKGs) as knowledge bases for GraphRAG. This enables Graph RAG to integrate knowledge across multiple modalities, thereby further enhancing its performance. However, existing MMKG-based RAG methods generally follow..."
+}

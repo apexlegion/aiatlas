@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2608-26086",
+  "name": "TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development",
+  "summary": "Large language models write correct code for isolated problems but remain far weaker at autonomous machine-learning development, where an agent must revise data pipelines, models, and validation ov...",
+  "description": "Large language models write correct code for isolated problems but remain far weaker at autonomous machine-learning development, where an agent must revise data pipelines, models, and validation over hours of feedback, and on most competitions still finishes below strong human competitors. Outcome-based benchmarks record this gap but not its cause, because they grade the final submission and discard the development process behind it. We introduce TraceML, which pairs human and agent work on the same competitions under one version-level schema: 4,465 human Kaggle trajectories across 134 comp...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.26086v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-26",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2608.26086v1"
+    }
+  ],
+  "authors": [
+    "Jiarui Yan",
+    "Weiwei Sun",
+    "Sijie Li",
+    "Wenhan Li",
+    "Yiming Yang"
+  ],
+  "paperId": "2608.26086",
+  "category": "cs.LG",
+  "publishedAt": "2026-08-26",
+  "abstract": "Large language models write correct code for isolated problems but remain far weaker at autonomous machine-learning development, where an agent must revise data pipelines, models, and validation over hours of feedback, and on most competitions still finishes below strong human competitors. Outcome-based benchmarks record this gap but not its cause, because they grade the final submission and discard the development process behind it. We introduce TraceML, which pairs human and agent work on the same competitions under one version-level schema: 4,465 human Kaggle trajectories across 134 comp..."
+}

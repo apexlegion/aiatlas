@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2509.01479v4",
+  "fetchedAt": "2026-08-27T12:42:30.195Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2509.01479v4",
+    "title": "An Information-Flow Perspective on Explainability Requirements: Specification and Verification",
+    "link": "https://arxiv.org/abs/2509.01479",
+    "description": "arXiv:2509.01479v4 Announce Type: replace-cross Abstract: Explainable systems expose information about why certain observed effects are happening to the agents interacting with them. We argue that this constitutes a positive flow of information that needs to be specified, verified, and balanced against negative information flow that may, e.g., violate privacy guarantees. Since both explainability and privacy require reasoning about knowledge, we tackle these tasks with epistemic temporal logic extended with quantification over counterfactual causes. This allows us to specify that a multi-agent system exposes enough information such that agents acquire knowledge on why some effect occurred. We show how this principle can be used to specify explainability as a system-level requirement and provide an algorithm for checking finite-state models against such specifications. We present a prototype implementation of the algorithm and evaluate it on several benchmarks, illustrating how our approach distinguishes between explainable and unexplainable systems, and how it allows to pose additional privacy requirements.",
+    "publishedAt": "2026-08-27",
+    "author": "Bernd Finkbeiner, Hadar Frenkel, Julian Siber",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

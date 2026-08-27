@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.16926v3",
+  "fetchedAt": "2026-08-27T12:42:30.195Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.16926v3",
+    "title": "Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts",
+    "link": "https://arxiv.org/abs/2604.16926",
+    "description": "arXiv:2604.16926v3 Announce Type: replace-cross Abstract: Electroencephalography (EEG) foundation models have shown strong potential for learning generalizable representations from large-scale neural data, yet their clinical deployment is hindered by distribution shifts across clinical settings, devices, and populations. Test-time adaptation (TTA) offers a promising solution by enabling models to adapt to unlabeled target data during inference without access to source data, a valuable property in healthcare settings constrained by privacy regulations and limited labeled data. However, its effectiveness for EEG remains largely underexplored. In this work, we introduce NeuroAdapt-Bench, a systematic benchmark for evaluating test-time adaptation methods on EEG foundation models under realistic distribution shifts. We evaluate representative TTA approaches from other domains across multiple pretrained foundation models, diverse downstream tasks, and heterogeneous datasets spanning in-distribution, out-of-distribution, and extreme modality shifts (e.g., Ear-EEG). Our results show that the evaluated TTA methods yield inconsistent gains and often degrade performance, with gradient-based approaches particularly prone to heavy degradation and optimization-free methods showing greater stability. For the evaluated EEG foundation models and representative TTA methods, these findings highlight the limitations of directly applying existing TTA techniques to EEG and underscore the need for domain-specific adaptation strategies.",
+    "publishedAt": "2026-08-27",
+    "author": "Gabriel Jason Lee, Jathurshan Pradeepkumar, Jimeng Sun",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

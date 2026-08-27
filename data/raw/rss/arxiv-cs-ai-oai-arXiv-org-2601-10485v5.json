@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.10485v5",
+  "fetchedAt": "2026-08-27T12:42:30.195Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.10485v5",
+    "title": "Panning for Gold: Expanding Domain-Specific Knowledge Graphs with General Knowledge",
+    "link": "https://arxiv.org/abs/2601.10485",
+    "description": "arXiv:2601.10485v5 Announce Type: replace Abstract: Domain-specific knowledge graphs (DKGs) are critical yet often suffer from limited coverage compared to General Knowledge Graphs (GKGs). Existing tasks to enrich DKGs rely primarily on extracting knowledge from external unstructured data or completing KGs through internal reasoning, but the scope and quality of such integration remain limited. This highlights a critical gap: little systematic exploration has been conducted on how comprehensive, high-quality GKGs can be effectively leveraged to supplement DKGs. To address this gap, we propose a new and practical task: domain-specific knowledge graph fusion (DKGF), which aims to mine and integrate relevant facts from general knowledge graphs into domain-specific knowledge graphs to enhance their completeness and utility. Unlike previous research, this new task faces two key challenges: (1) high ambiguity of domain relevance, i.e., difficulty in determining whether knowledge from a GKG is truly relevant to the target domain , and (2) cross-domain knowledge granularity misalignment, i.e., GKG facts are typically abstract and coarse-grained, whereas DKGs frequently require more contextualized, fine-grained representations aligned with particular domain scenarios. To address these, we present ExeFuse, a neuro-symbolic framework based on a novel Fact-as-Program paradigm. ExeFuse treats fusion as an executable process, utilizing neuro-symbolic execution to infer logical relevance beyond surface similarity and employing target space grounding to calibrate granularity. We construct new datasets to establish the first standardized evaluation suite for this task. Extensive experiments demonstrate that ExeFuse effectively overcomes domain barriers to achieve superior fusion performance.",
+    "publishedAt": "2026-08-27",
+    "author": "Runhao Zhao, Weixin Zeng, Wentao Zhang, Chong Chen, Zhengpin Li, Xiang Zhao, Lei Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

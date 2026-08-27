@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.00188v3",
+  "fetchedAt": "2026-08-27T12:42:30.195Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.00188v3",
+    "title": "ST-Lite: Training-Free KV Cache Compression with Spatio-Trajectory Guidance for Long-Horizon GUI Agents",
+    "link": "https://arxiv.org/abs/2603.00188",
+    "description": "arXiv:2603.00188v3 Announce Type: replace-cross Abstract: Training-free KV cache compression is essential for deploying vision-language GUI agents under memory and latency constraints, yet existing methods are designed for generic language workloads and ignore the distinctive structure of GUI interaction traces. We characterize three GUI-specific workload properties--high inter-frame visual redundancy, extremely small UI-element spatial footprints, and near-uniform cross-layer attention sparsity--that cause existing schemes to retain as few as 39% of oracle-important KV pairs at the standard 20% budget. To address this, we propose ST-Lite, a training-free compression scheme whose three components each target one property: Trajectory-aware Semantic Gating (TSG) filters redundant historical frames, Component-centric Spatial Saliency (CSS) preserves fine-grained element boundaries, and a flat per-layer budget avoids hierarchical misallocation. Across seven GUI benchmarks and two backbones in the deployment-relevant 10%-40% window, ST-Lite consistently outperforms all existing compression baselines, matching or exceeding Full Cache task accuracy on the primary backbone at the 20% budget while delivering up to 2.35x decoding speedup at fivefold compression. The implementation is available at https://github.com/94wen94/ST-Lite.",
+    "publishedAt": "2026-08-27",
+    "author": "Bowen Zhou, Zhou Xu, Wanli Li, Jingyu Xiao, Pingan Gan, Haoqian Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
