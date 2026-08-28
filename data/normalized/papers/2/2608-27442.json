@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2608-27442",
+  "name": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
+  "summary": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming....",
+  "description": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Although recent work explores large language models (LLMs) for automated code review, most approaches oversimplify code review into a single-round, static decision task, which fails to capture the multi-round interactive nature and the complex problem-solving processes inherent in realistic review scenarios. To bridge this gap, we introduce MCR-Bench, the first defect state-aware benchmark design...",
+  "tags": [
+    "arxiv",
+    "cs.SE"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.27442v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-27",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.SE.",
+      "href": "https://arxiv.org/abs/2608.27442v1"
+    }
+  ],
+  "authors": [
+    "Dewu Zheng",
+    "Yanlin Wang",
+    "Xiwen Wang",
+    "Kefeng Duan",
+    "Hongyu Zhang",
+    "Xilin Liu",
+    "Yuchi Ma",
+    "Zibin Zheng"
+  ],
+  "paperId": "2608.27442",
+  "category": "cs.SE",
+  "publishedAt": "2026-08-27",
+  "abstract": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Although recent work explores large language models (LLMs) for automated code review, most approaches oversimplify code review into a single-round, static decision task, which fails to capture the multi-round interactive nature and the complex problem-solving processes inherent in realistic review scenarios. To bridge this gap, we introduce MCR-Bench, the first defect state-aware benchmark design..."
+}

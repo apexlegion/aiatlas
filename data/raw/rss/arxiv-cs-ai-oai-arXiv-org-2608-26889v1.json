@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.26889v1",
+  "fetchedAt": "2026-08-28T14:15:47.613Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.26889v1",
+    "title": "Learning-Augmented Online Allocation under Unreliable Advice: Robustness, Exposure Fairness, and Distribution Shift",
+    "link": "https://arxiv.org/abs/2608.26889",
+    "description": "arXiv:2608.26889v1 Announce Type: new Abstract: Learning-augmented algorithms improve online decisions using predictions, but unreliable advice may harm efficiency and fairness. We study an online allocation problem with finite candidate sets, irreversible decisions, and exposure constraints. We propose a robust and fair rule combining advice with a conservative fallback and fairness correction. Under bounded-error assumptions, we prove consistency and robustness with loss proportional to prediction error. Experiments show stability under adversarial advice and significant reductions in exposure disparity.",
+    "publishedAt": "2026-08-28",
+    "author": "Fredy Pokou (MRE, CRIStAL)",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

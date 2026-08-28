@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2608-27395",
+  "name": "LeVJEPA: Efficient &amp; Scalable Video Pretraining without the Heuristics",
+  "summary": "Video carries the temporal structure of the physical world, yet learning representations from it has remained computationally expensive: prevailing self-supervised methods either prevent representa...",
+  "description": "Video carries the temporal structure of the physical world, yet learning representations from it has remained computationally expensive: prevailing self-supervised methods either prevent representation collapse through architectural asymmetries, coupling an exponential-moving-average target encoder, a stop-gradient, and a capacity-limited predictor, or circumvent it by reconstructing masked content in pixel space. We introduce LeVJEPA, the first video encoder trained under LeJEPA's collapse-free objective, which dispenses with both. A single encoder is trained with an invariance loss over g...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.27395v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-27",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2608.27395v1"
+    }
+  ],
+  "authors": [
+    "Lukas Kuhn",
+    "Lucas Maes",
+    "Giuseppe Serra",
+    "Quentin Le Lidec",
+    "Yann LeCun",
+    "Randall Balestriero",
+    "Florian Buettner"
+  ],
+  "paperId": "2608.27395",
+  "category": "cs.CV",
+  "publishedAt": "2026-08-27",
+  "abstract": "Video carries the temporal structure of the physical world, yet learning representations from it has remained computationally expensive: prevailing self-supervised methods either prevent representation collapse through architectural asymmetries, coupling an exponential-moving-average target encoder, a stop-gradient, and a capacity-limited predictor, or circumvent it by reconstructing masked content in pixel space. We introduce LeVJEPA, the first video encoder trained under LeJEPA's collapse-free objective, which dispenses with both. A single encoder is trained with an invariance loss over g..."
+}

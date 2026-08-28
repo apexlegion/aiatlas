@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-26306v1",
+  "name": "Approved Too Late: Verdict Staleness in LLM-Guarded Self-Adaptive Systems",
+  "summary": "arXiv:2608.26306v1 Announce Type: new Abstract: A large language model (LLM) guardrail for a self-adaptive system (SAS) may issue an approval that is correct at check time but stale by actuation. T...",
+  "description": "arXiv:2608.26306v1 Announce Type: new Abstract: A large language model (LLM) guardrail for a self-adaptive system (SAS) may issue an approval that is correct at check time but stale by actuation. This creates an Execute-stage time-of-check to time-of-use (TOCTOU) hazard. We study verdict freshness: whether a guardrail verdict remains valid when used. We distinguish three quantities that answer...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.26306"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-28",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.26306"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-28",
+  "expiryAt": "2026-09-27T00:00:00.000Z",
+  "author": "Ilai Shraga, Roei Eshel, Lior Gorelik"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "paper",
+  "slug": "2608-27365",
+  "name": "KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations",
+  "summary": "Physics-integrated 3D Gaussian representations now allow reconstructed deformable objects to be simulated and rendered under explicit material models. Existing pipelines, however, assume that mater...",
+  "description": "Physics-integrated 3D Gaussian representations now allow reconstructed deformable objects to be simulated and rendered under explicit material models. Existing pipelines, however, assume that material parameters are known or manually specified, limiting their applicability when these parameters must be inferred from observed object dynamics. We propose KnockGS, an interaction-response PhysicalGS framework that estimates the elasticity and density scales of a 3D Gaussian object from its dynamics under a known applied force. Rather than treating physical simulation only as a forward process,...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.27365v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-27",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2608.27365v1"
+    }
+  ],
+  "authors": [
+    "Chenchen Ge",
+    "Hanwen Shen",
+    "Bowen Jing",
+    "Jiyuan Cai",
+    "Xiaofeng Wang",
+    "Hongsen Lei",
+    "Weitao Zhou",
+    "Dandan Zhang",
+    "Haibao Yu"
+  ],
+  "paperId": "2608.27365",
+  "category": "cs.CV",
+  "publishedAt": "2026-08-27",
+  "abstract": "Physics-integrated 3D Gaussian representations now allow reconstructed deformable objects to be simulated and rendered under explicit material models. Existing pipelines, however, assume that material parameters are known or manually specified, limiting their applicability when these parameters must be inferred from observed object dynamics. We propose KnockGS, an interaction-response PhysicalGS framework that estimates the elasticity and density scales of a 3D Gaussian object from its dynamics under a known applied force. Rather than treating physical simulation only as a forward process,..."
+}
