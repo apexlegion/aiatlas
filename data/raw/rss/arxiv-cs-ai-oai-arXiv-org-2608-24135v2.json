@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.24135v2",
-  "fetchedAt": "2026-08-28T14:15:47.613Z",
+  "fetchedAt": "2026-08-29T08:55:29.861Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2608.24135v2",
     "title": "Robust Code RL via Faulty-Code-Driven Test case Synthesis and Dense Reward Shaping",
     "link": "https://arxiv.org/abs/2608.24135",
     "description": "arXiv:2608.24135v2 Announce Type: replace Abstract: Reinforcement Learning from Verifiable Rewards (RLVR) is pivotal for enhancing LLM code generation, yet its efficacy is often hindered by insufficient test case coverage, leading to reward hacking and policy degradation. To address this, we propose RobustTests, a framework featuring a faulty-code-driven test case synthesis strategy. By leveraging \"near-correct\" faulty codes, RobustTests captures latent logical discrepancies and employs validator agents with behavioral feature clustering to filter invalid or redundant test cases. Additionally, a stepwise dense reward function based on pass rates is introduced to mitigate false negatives and enhance training robustness. Using this pipeline, we construct an augmented version of the CodeContests+ dataset with superior diagnostic utility. Experimental results show that RL fine-tuning of Qwen3-32B via RobustTests achieves a 3% absolute gain on LiveCodeBench, demonstrating its effectiveness in advancing LLM code generation proficiency. Codes and data are available at https://huggingface.co/datasets/sid6/RobustTests.",
-    "publishedAt": "2026-08-28",
+    "publishedAt": "2026-08-29",
     "author": "Yiwen Zhang, Xiaodong Yan, Zhenyu Huang, Deng Zhao, Liang Jiang, Qing Cui, Zujie Wen, Zhiqiang Zhang, Jun Zhou",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

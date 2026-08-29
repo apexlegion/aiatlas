@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.22642v2",
-  "fetchedAt": "2026-08-28T14:15:47.613Z",
+  "fetchedAt": "2026-08-29T08:55:29.861Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2608.22642v2",
     "title": "Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules",
     "link": "https://arxiv.org/abs/2608.22642",
     "description": "arXiv:2608.22642v2 Announce Type: replace-cross Abstract: Despite recent advances in molecular foundation models, several limitations remain, such as chemically invalid augmentations, modality collapse, and incomplete representation of biochemical environments. To address these challenges, we present \\textbf{Mol-JEPA}, a scalable framework for learning molecular world models. Rather than relying on suboptimal molecular perturbations, our model uses modality masking to exploit information from molecular structures, cellular phenotypes, binding affinities, ADMET profiles, quantum chemistry simulations and other drug discovery data. Across various benchmarks, we show that the representations learned by Mol-JEPA deliver strong performance, demonstrating the value of incorporating biochemical context through latent space prediction.",
-    "publishedAt": "2026-08-28",
+    "publishedAt": "2026-08-29",
     "author": "Florian Rottach, Sebastian Schieferdecker, William Rudman, Randall Balestriero, Carsten Eickhoff",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

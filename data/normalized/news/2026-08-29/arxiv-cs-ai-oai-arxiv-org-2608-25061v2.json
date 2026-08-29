@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-25061v2",
+  "name": "DataKernelBench: Can LLMs Optimize Database Queries on GPUs?",
+  "summary": "arXiv:2608.25061v2 Announce Type: replace-cross Abstract: GPUs increasingly accelerate database systems, but query-specific peak performance still often relies on hand-written kernels. Existing LLM...",
+  "description": "arXiv:2608.25061v2 Announce Type: replace-cross Abstract: GPUs increasingly accelerate database systems, but query-specific peak performance still often relies on hand-written kernels. Existing LLM kernel benchmarks focus on machine learning operators, leaving irregular, heterogeneous, data-movement-heavy database-style operators untested. We introduce DataKernelBench, which translates SQL into...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.25061"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-29",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.25061"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-08-29",
+  "expiryAt": "2026-09-28T00:00:00.000Z",
+  "author": "Gokul Karthik Kumar, Yotam Perlitz, Corey Lammie, Andrea Giovannini, Katja Hose"
+}

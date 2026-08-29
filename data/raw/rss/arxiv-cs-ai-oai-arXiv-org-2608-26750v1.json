@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.26750v1",
-  "fetchedAt": "2026-08-28T14:15:47.613Z",
+  "fetchedAt": "2026-08-29T08:55:29.861Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2608.26750v1",
     "title": "Discovering Relationships in Data Lakes Using Large Language Models: An Industrial Case",
     "link": "https://arxiv.org/abs/2608.26750",
     "description": "arXiv:2608.26750v1 Announce Type: new Abstract: Data lakes rely on metadata to remain usable, yet this meta data is often limited or weakly informative for column relationship discovery, especially in ERP-derived datasets with coded or abbreviated schema labels. We propose ColRel, a two-stage method that builds column embeddings from metadata and data available at ingestion time. In difficult cases, such as coded schemata, business dictionaries help better interpret column names and support the generation of short natural-language descriptions used in the second stage. Experiments on public benchmarks and an industrial ERP dataset show that ColRel is particularly effective in semantically related, weak-signal settings.",
-    "publishedAt": "2026-08-28",
+    "publishedAt": "2026-08-29",
     "author": "Ahlame Diouan (ERIC, UL2), Eric Ferey (ERIC, UL2), Sabine Loudcher (ERIC, UL2), J\\'er\\^ome Darmont (ERIC, UL2)",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

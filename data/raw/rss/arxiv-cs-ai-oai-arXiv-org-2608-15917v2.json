@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.15917v2",
-  "fetchedAt": "2026-08-28T14:15:47.613Z",
+  "fetchedAt": "2026-08-29T08:55:29.861Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2608.15917v2",
     "title": "Pre-training Visual Dexterity in Simulation",
     "link": "https://arxiv.org/abs/2608.15917",
     "description": "arXiv:2608.15917v2 Announce Type: replace-cross Abstract: Large-scale pre-training has made robot policy fine-tuning increasingly data-efficient, but this progress has largely been driven by datasets and embodiments built around simple parallel-jaw grippers. Dexterous, multi-fingered hands remain comparatively data-starved because real teleoperation is costly to scale, while human hand video is off-embodiment and requires lossy pose estimation and retargeting. We introduce Simulation Pre-training for Dexterity (SPD), a pre-training framework for dexterous manipulation that uses data entirely collected in simulation. In SPD, humans manipulate virtual objects inside a VR headset, enabling on-embodiment trajectories and robot-free collection. With the help of five operators, we collect 75 hours of multi-task dexterous manipulation over one week, and use it to pre-train a causal transformer on a sequence modeling objective. We study the benefits of simulation pre-training on real-world tasks by fine-tuning on 1-2 hours of physical demonstrations on a 56-DoF bimanual dexterous setup. We find that our approach outperforms training behavior cloning policies from scratch, showing that simulation teleoperation is a viable pre-training source for real-world dexterous manipulation. We perform ablation studies, measuring the benefits of history conditioning and short action chunks for reactive control.",
-    "publishedAt": "2026-08-28",
+    "publishedAt": "2026-08-29",
     "author": "Sarthak Kamat, Adam Rashid, Satvik Sharma, Aseem Doriwala, Chelsea Finn, Phillip Isola, C. Karen Liu",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

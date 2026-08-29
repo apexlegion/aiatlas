@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.26165v1",
-  "fetchedAt": "2026-08-28T14:15:47.613Z",
+  "fetchedAt": "2026-08-29T08:55:29.861Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2608.26165v1",
     "title": "Using Poly-Encoders for Computationally Efficient Automated Creativity Assessment",
     "link": "https://arxiv.org/abs/2608.26165",
     "description": "arXiv:2608.26165v1 Announce Type: cross Abstract: Automated creativity assessment has been a long standing challenge, with traditional methods often being resource intensive or lacking practical accuracy. We introduce a novel approach by using Poly-Encoder for computationally efficient and accurate automated creativity assessment. We fine-tuned a Poly-Encoder on a public dataset from the Scientific Creative Thinking Test, comprised of approximately 18,000 human-rated question responses. Our method leverages small pre-trained BERT encoders, achieving performance comparable to fine-tuned Large Language Models while significantly reducing computational demands. Experiments with the BERT-family models and poly-code counts achieved Pearson correlations of up to r = 0.74, 95% CI [0.73, 0.75] with human raters, matching the performance of resource intensive LLMs. This study bridges the gap between high performance and computational efficiency, potentially enabling widespread implementation of automated creativity assessment on accessible consumer-grade hardware. With some limitations, our findings suggest that Poly-Encoders are a promising alternative to LLMs for practical, scalable creativity assessment in various contexts, especially educational.",
-    "publishedAt": "2026-08-28",
+    "publishedAt": "2026-08-29",
     "author": "Sam Grouchnikov, Phillip Gregory, Jiho Noh",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"
