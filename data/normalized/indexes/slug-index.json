@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T08:12:59.495Z",
+  "generatedAt": "2026-08-31T08:33:05.136Z",
   "entries": {
     "automatic1111-stable-diffusion-webui": {
       "slug": "automatic1111-stable-diffusion-webui",
@@ -177,224 +177,235 @@
         "jupyter notebook"
       ]
     },
-    "2608-27345": {
-      "slug": "2608-27345",
-      "typedId": "paper/2608-27345",
-      "name": "PAWBench: How Far Are We from Probabilistically Aligned World Modeling?",
+    "2608-28455": {
+      "slug": "2608-28455",
+      "typedId": "paper/2608-28455",
+      "name": "ARC-CT: Anatomy-Routed Contrastive Vision-Language Learning for 3D Chest CT",
       "type": "paper",
-      "summary": "Recent video generation models are increasingly framed as world models. Many physical processes can unfold in more than one valid way. Therefore, a world model should reproduce not only a plausible...",
+      "summary": "Contrastive vision-language learning uses paired chest CT volumes and radiology reports to learn abnormality classifiers without manually annotated labels. However, two characteristics of chest CT...",
       "tags": [
         "arxiv",
         "cs.CV"
       ]
     },
-    "2608-27358": {
-      "slug": "2608-27358",
-      "typedId": "paper/2608-27358",
-      "name": "RCMN: Understanding Misleadingness in Influential Public Discourse",
+    "2608-28461": {
+      "slug": "2608-28461",
+      "typedId": "paper/2608-28461",
+      "name": "Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V",
       "type": "paper",
-      "summary": "Influential public discourse shapes public beliefs and can also mislead, not only through what is stated, but also through how information is framed, omitted, contextualised, and communicated. Yet...",
+      "summary": "We present an anatomy-aware, promptable model for whole-body lesion segmentation in FDG and PSMA PET/CT, developed for the AUTOPET V challenge. The proposed method is built as family of nnU-Net-bas...",
       "tags": [
         "arxiv",
-        "cs.CL"
+        "cs.CV"
       ]
     },
-    "2608-27364": {
-      "slug": "2608-27364",
-      "typedId": "paper/2608-27364",
-      "name": "Sophistication in GenAI Use: Field Evidence from a Large Firm",
+    "2608-28468": {
+      "slug": "2608-28468",
+      "typedId": "paper/2608-28468",
+      "name": "Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade",
       "type": "paper",
-      "summary": "We study how sophistication in generative AI (genAI) use varies among the back-office workforce of a large firm. Using proprietary data, we observe 713,564 employee prompts and their corresponding...",
+      "summary": "Conventional plasma shape control in tokamaks relies on virtual circuits (VCs) that are computed offline from linearisations around a small, tailored number of reference equilibria, and deployed as...",
+      "tags": [
+        "arxiv",
+        "physics.plasm-ph"
+      ]
+    },
+    "2608-28475": {
+      "slug": "2608-28475",
+      "typedId": "paper/2608-28475",
+      "name": "COVER: Identifiable Evaluation of Coalition Routing",
+      "type": "paper",
+      "summary": "When a multi-agent system changes its team, it also changes the messages and final answer it produces, so an end-to-end accuracy gap does not by itself identify a routing effect. We introduce metho...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2608-27365": {
-      "slug": "2608-27365",
-      "typedId": "paper/2608-27365",
-      "name": "KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations",
+    "2608-28481": {
+      "slug": "2608-28481",
+      "typedId": "paper/2608-28481",
+      "name": "NL2AGBench: Benchmarking LLM Auto-Formalization for AlphaGeometry",
       "type": "paper",
-      "summary": "Physics-integrated 3D Gaussian representations now allow reconstructed deformable objects to be simulated and rendered under explicit material models. Existing pipelines, however, assume that mater...",
+      "summary": "Recent advances in large language models (LLMs) have demonstrated strong capabilities in natural language understanding and mathematical reasoning. However, their ability to translate informal math...",
       "tags": [
         "arxiv",
-        "cs.CV"
+        "cs.CL"
       ]
     },
-    "2608-27366": {
-      "slug": "2608-27366",
-      "typedId": "paper/2608-27366",
-      "name": "Stageboost: Recommending Signals Based on Counterfactual Estimation",
+    "2608-28482": {
+      "slug": "2608-28482",
+      "typedId": "paper/2608-28482",
+      "name": "How Proper Scoring Rules Shape LLM Forecasting",
       "type": "paper",
-      "summary": "Signals are short textual or visual snippets displayed on the eBay View-Item (VI) page, providing additional, contextual information for users about the viewed item. The aim of displaying these sig...",
+      "summary": "This paper evaluates how reward function choice shapes the performance and behavior of LLM forecasters. We compare five proper scoring rules as training objectives for binary forecasts of resolved...",
       "tags": [
         "arxiv",
-        "cs.IR"
+        "cs.LG"
       ]
     },
-    "2608-27367": {
-      "slug": "2608-27367",
-      "typedId": "paper/2608-27367",
-      "name": "Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models",
+    "2608-28490": {
+      "slug": "2608-28490",
+      "typedId": "paper/2608-28490",
+      "name": "LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment",
       "type": "paper",
-      "summary": "Joint-Embedding Predictive Architectures (JEPAs) for world modeling typically employ fixed-size Vision Transformer encoders that are over-provisioned for simple tasks and under-provisioned for comp...",
+      "summary": "Software and systems security workflows are typically procedural: analysts inspect heterogeneous artifacts, form hypotheses, invoke tools, interpret outputs, and revise plans. Large language model...",
       "tags": [
         "arxiv",
-        "cs.CV"
+        "cs.CR"
       ]
     },
-    "2608-27391": {
-      "slug": "2608-27391",
-      "typedId": "paper/2608-27391",
-      "name": "CorporateBench: Large-Scale Q&amp;A Benchmarking with Temporal Knowledge Bases",
+    "2608-28491": {
+      "slug": "2608-28491",
+      "typedId": "paper/2608-28491",
+      "name": "AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction",
       "type": "paper",
-      "summary": "LLMs are increasingly able to answer complex questions about enterprise-scale document collections. But evaluation is hard: companies don't want to share internal communications, and synthetic data...",
+      "summary": "Predicting robot videos requires both precise motion reasoning and preservation of high-frequency appearance, yet monolithic pixel models entangle these objectives and often conceal their progress...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2608-27392": {
-      "slug": "2608-27392",
-      "typedId": "paper/2608-27392",
-      "name": "Property-Specific Recoverability from Contact PPG to Camera rPPG under Heterogeneous Observation Conditions",
+    "2608-28497": {
+      "slug": "2608-28497",
+      "typedId": "paper/2608-28497",
+      "name": "On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces",
       "type": "paper",
-      "summary": "Camera-derived remote photoplethysmography (rPPG) is commonly validated through endpoint accuracy, but endpoint performance does not establish whether other physiological properties of source conta...",
+      "summary": "AI coding agents, software tools that automate development tasks through reasoning and tool use, are increasingly extended through plugin marketplaces, yet the structure, maintenance, and co-evolut...",
       "tags": [
         "arxiv",
-        "eess.SP"
+        "cs.SE"
       ]
     },
-    "2608-27395": {
-      "slug": "2608-27395",
-      "typedId": "paper/2608-27395",
-      "name": "LeVJEPA: Efficient &amp; Scalable Video Pretraining without the Heuristics",
+    "2608-28511": {
+      "slug": "2608-28511",
+      "typedId": "paper/2608-28511",
+      "name": "Training Communication-Efficient Mixture-of-Experts Language Models with Layer Re-Configuration",
       "type": "paper",
-      "summary": "Video carries the temporal structure of the physical world, yet learning representations from it has remained computationally expensive: prevailing self-supervised methods either prevent representa...",
+      "summary": "When training Mixture-of-Experts (MoE) language models with expert parallelism, all-to-all token dispatch and combine collectives can consume a substantial fraction of end-to-end training time. In...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2608-28515": {
+      "slug": "2608-28515",
+      "typedId": "paper/2608-28515",
+      "name": "Conformal Uncertainty Quantification Guarantees for Neural Operators",
+      "type": "paper",
+      "summary": "Neural operators provide fast surrogate models for approximating operators between function spaces, but their predictions often lack uncertainty quantification. We develop a split conformal framewo...",
+      "tags": [
+        "arxiv",
+        "math.NA"
+      ]
+    },
+    "2608-28518": {
+      "slug": "2608-28518",
+      "typedId": "paper/2608-28518",
+      "name": "When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI",
+      "type": "paper",
+      "summary": "We investigate whether automatic speech recognition (ASR) errors in user input can lead to unsafe outputs from Embodied AI (EAI) models. We find that ASR errors can lead to harmful instructions bei...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2608-28524": {
+      "slug": "2608-28524",
+      "typedId": "paper/2608-28524",
+      "name": "Texture Image Classification Using DWT AlexNet Feature Fusion and Deep Neural Networks",
+      "type": "paper",
+      "summary": "Texture image classification plays a significant role in computer vision applications, including industrial inspection, medical image analysis, remote sensing, and object recognition. Handcrafted f...",
       "tags": [
         "arxiv",
         "cs.CV"
       ]
     },
-    "2608-27397": {
-      "slug": "2608-27397",
-      "typedId": "paper/2608-27397",
-      "name": "Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction",
+    "2608-28534": {
+      "slug": "2608-28534",
+      "typedId": "paper/2608-28534",
+      "name": "InstructMesh: Selective Refinement of Generative 3D Models for Fabrication",
       "type": "paper",
-      "summary": "Clinical language models can achieve strong in-hospital accuracy yet fail under deployment shifts because they exploit note-specific artifacts (e.g., templates, separators, boilerplate) that do not...",
+      "summary": "Recent advances in generative AI allow users to create 3D models from text or images. However, these models prioritize visual plausibility over geometric accuracy, often generating results with fla...",
       "tags": [
         "arxiv",
-        "cs.CL"
+        "cs.AI"
       ]
     },
-    "2608-27402": {
-      "slug": "2608-27402",
-      "typedId": "paper/2608-27402",
-      "name": "How Language Models Organize and Structure Moral Knowledge",
+    "2608-28541": {
+      "slug": "2608-28541",
+      "typedId": "paper/2608-28541",
+      "name": "An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code World Models",
       "type": "paper",
-      "summary": "How do large language models (LLMs) organize moral knowledge? Models detect moral content broadly, but detection is a low bar. We ask whether they go further, distinguishing moral foundations from...",
+      "summary": "A code world model accepted by a sampling gate can be exactly right on everything the gate can see and arbitrarily wrong beyond it. We characterize what a certified model can know, and what its err...",
       "tags": [
         "arxiv",
-        "cs.CL"
+        "cs.LG"
       ]
     },
-    "2608-27406": {
-      "slug": "2608-27406",
-      "typedId": "paper/2608-27406",
-      "name": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators",
+    "2608-28549": {
+      "slug": "2608-28549",
+      "typedId": "paper/2608-28549",
+      "name": "Video Generative Models as Geometry Learner",
       "type": "paper",
-      "summary": "State-of-the-art action-conditioned video models are typically restricted to a single robot embodiment, preventing them from leveraging the vast corpus of heterogeneous video data that contains ric...",
+      "summary": "Recent generative approaches to geometry estimation adapt pretrained image diffusion models and treat the task as image-conditioned generation. Leveraging off-the-shelf image diffusion models, they...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2608-28553": {
+      "slug": "2608-28553",
+      "typedId": "paper/2608-28553",
+      "name": "Logos: An Agent Harness on a Cross-Process Bus",
+      "type": "paper",
+      "summary": "Modern agent systems assemble capabilities at runtime, and this dynamic composition has recently received a complete formal treat ment in the spatiotemporal-composability calculus, in which a capab...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2608-28557": {
+      "slug": "2608-28557",
+      "typedId": "paper/2608-28557",
+      "name": "Blog: Survey of Optimizers",
+      "type": "paper",
+      "summary": "Neural-network optimization in 2025-2026 is no longer well described as a succession of new Adam variants. The design space has expanded from coordinates to matrices and layers, from fixed training...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2608-28576": {
+      "slug": "2608-28576",
+      "typedId": "paper/2608-28576",
+      "name": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
+      "type": "paper",
+      "summary": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a gen...",
+      "tags": [
+        "arxiv",
+        "stat.ME"
+      ]
+    },
+    "2608-28578": {
+      "slug": "2608-28578",
+      "typedId": "paper/2608-28578",
+      "name": "Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning",
+      "type": "paper",
+      "summary": "Tendon-driven hands are anthropomorphic, and moving the actuators off the joints is what makes a hand of this capability affordable to build. Two effects produce that saving. Routing force through...",
       "tags": [
         "arxiv",
         "cs.RO"
       ]
     },
-    "2608-27421": {
-      "slug": "2608-27421",
-      "typedId": "paper/2608-27421",
-      "name": "Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study",
-      "type": "paper",
-      "summary": "Currently used sepsis severity indices rely on fixed variables and weights established decades ago, which are coarsely discretized and calibrated to a cohort that no longer reflects contemporary cr...",
+    "mit-news-ai-https-news-mit-edu-2026-how-mit-research-project-became-global-programming-language-0831": {
+      "slug": "mit-news-ai-https-news-mit-edu-2026-how-mit-research-project-became-global-programming-language-0831",
+      "typedId": "news/mit-news-ai-https-news-mit-edu-2026-how-mit-research-project-became-global-programming-language-0831",
+      "name": "How an MIT research project became a global programming language",
+      "type": "news",
+      "summary": "With millions of users across the world, Julia has been used to conduct cutting-edge research and to design new drugs, jet engines, heat pumps, and more.",
       "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2608-27424": {
-      "slug": "2608-27424",
-      "typedId": "paper/2608-27424",
-      "name": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners",
-      "type": "paper",
-      "summary": "Static scanners are increasingly used to identify executable or otherwise unsafe content in machine- learning artifacts, yet conventional evaluation metrics characterize only cases where a scanner...",
-      "tags": [
-        "arxiv",
-        "cs.CR"
-      ]
-    },
-    "2608-27427": {
-      "slug": "2608-27427",
-      "typedId": "paper/2608-27427",
-      "name": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
-      "type": "paper",
-      "summary": "Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A...",
-      "tags": [
-        "arxiv",
-        "cs.SE"
-      ]
-    },
-    "2608-27429": {
-      "slug": "2608-27429",
-      "typedId": "paper/2608-27429",
-      "name": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
-      "type": "paper",
-      "summary": "Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through \\textit{de novo} generation of product molecules or through he...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2608-27439": {
-      "slug": "2608-27439",
-      "typedId": "paper/2608-27439",
-      "name": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
-      "type": "paper",
-      "summary": "LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text...",
-      "tags": [
-        "arxiv",
-        "cs.CR"
-      ]
-    },
-    "2608-27442": {
-      "slug": "2608-27442",
-      "typedId": "paper/2608-27442",
-      "name": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
-      "type": "paper",
-      "summary": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming....",
-      "tags": [
-        "arxiv",
-        "cs.SE"
-      ]
-    },
-    "2608-27449": {
-      "slug": "2608-27449",
-      "typedId": "paper/2608-27449",
-      "name": "SWE-Prime: Fewer Trajectories, Better Performance",
-      "type": "paper",
-      "summary": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (...",
-      "tags": [
-        "arxiv",
-        "cs.SE"
-      ]
-    },
-    "2608-27454": {
-      "slug": "2608-27454",
-      "typedId": "paper/2608-27454",
-      "name": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
-      "type": "paper",
-      "summary": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enab...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
+        "news",
+        "mit-news-ai"
       ]
     },
     "huggingface-blog-https-huggingface-co-blog-open-asr-leaderboard-global-south": {
@@ -1404,17 +1415,6 @@
       "name": "How we built a realtime system for responsive voice AI in six months",
       "type": "news",
       "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
-      "tags": [
-        "news",
-        "openai-blog"
-      ]
-    },
-    "openai-blog-https-openai-com-index-ten-advances-in-mathematics": {
-      "slug": "openai-blog-https-openai-com-index-ten-advances-in-mathematics",
-      "typedId": "news/openai-blog-https-openai-com-index-ten-advances-in-mathematics",
-      "name": "Ten advances in mathematics and theoretical computer science",
-      "type": "news",
-      "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
       "tags": [
         "news",
         "openai-blog"

@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2608-28455",
+  "name": "ARC-CT: Anatomy-Routed Contrastive Vision-Language Learning for 3D Chest CT",
+  "summary": "Contrastive vision-language learning uses paired chest CT volumes and radiology reports to learn abnormality classifiers without manually annotated labels. However, two characteristics of chest CT...",
+  "description": "Contrastive vision-language learning uses paired chest CT volumes and radiology reports to learn abnormality classifiers without manually annotated labels. However, two characteristics of chest CT challenge conventional global contrastive learning. First, many critical abnormalities are small or anatomically localized, and pooling an en- tire volume into a single embedding may dilute their visual evidence. Second, the standard contrastive objective treats every other scan in a batch as a negative. Because many chest CTs share abnormalities, this objective incorrectly pushes co-positive pair...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.28455v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-28",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2608.28455v1"
+    }
+  ],
+  "authors": [
+    "Huseyin Umut Isik",
+    "Mehmet Alp Ozaydin",
+    "Sila Kurugol",
+    "Şeyda Ertekin"
+  ],
+  "paperId": "2608.28455",
+  "category": "cs.CV",
+  "publishedAt": "2026-08-28",
+  "abstract": "Contrastive vision-language learning uses paired chest CT volumes and radiology reports to learn abnormality classifiers without manually annotated labels. However, two characteristics of chest CT challenge conventional global contrastive learning. First, many critical abnormalities are small or anatomically localized, and pooling an en- tire volume into a single embedding may dilute their visual evidence. Second, the standard contrastive objective treats every other scan in a batch as a negative. Because many chest CTs share abnormalities, this objective incorrectly pushes co-positive pair..."
+}

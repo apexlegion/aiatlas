@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2608-28515",
+  "name": "Conformal Uncertainty Quantification Guarantees for Neural Operators",
+  "summary": "Neural operators provide fast surrogate models for approximating operators between function spaces, but their predictions often lack uncertainty quantification. We develop a split conformal framewo...",
+  "description": "Neural operators provide fast surrogate models for approximating operators between function spaces, but their predictions often lack uncertainty quantification. We develop a split conformal framework to guarantee that a calibrated pointwise band around the neural operator output contains the true solution on at least a $1-γ$ fraction of the evaluation domain, with probability at least $1-α$ over test and calibration inputs, where $α,γ\\in(0,1)$. Our method reduces a normalized residual field to its spatial $(1-γ)$-quantile and computes a scaling factor using a held-out calibration dataset. W...",
+  "tags": [
+    "arxiv",
+    "math.NA"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.28515v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-28",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category math.NA.",
+      "href": "https://arxiv.org/abs/2608.28515v1"
+    }
+  ],
+  "authors": [
+    "Tom Stent",
+    "Nicolas Boullé"
+  ],
+  "paperId": "2608.28515",
+  "category": "math.NA",
+  "publishedAt": "2026-08-28",
+  "abstract": "Neural operators provide fast surrogate models for approximating operators between function spaces, but their predictions often lack uncertainty quantification. We develop a split conformal framework to guarantee that a calibrated pointwise band around the neural operator output contains the true solution on at least a $1-γ$ fraction of the evaluation domain, with probability at least $1-α$ over test and calibration inputs, where $α,γ\\in(0,1)$. Our method reduces a normalized residual field to its spatial $(1-γ)$-quantile and computes a scaling factor using a held-out calibration dataset. W..."
+}

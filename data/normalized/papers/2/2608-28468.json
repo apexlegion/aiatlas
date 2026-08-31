@@ -1,0 +1,47 @@
+{
+  "type": "paper",
+  "slug": "2608-28468",
+  "name": "Real-time virtual circuits for plasma shape control via neural network emulators: experimental demonstration on MAST Upgrade",
+  "summary": "Conventional plasma shape control in tokamaks relies on virtual circuits (VCs) that are computed offline from linearisations around a small, tailored number of reference equilibria, and deployed as...",
+  "description": "Conventional plasma shape control in tokamaks relies on virtual circuits (VCs) that are computed offline from linearisations around a small, tailored number of reference equilibria, and deployed as expertly prepared schedules during the discharge. Here, we report on the first experimental deployment of real-time VCs. We replace pre-set look up tables with VCs updated in real time using surrogates of the plasma response. Both the existing control architecture and the interpretability of VC-based control are retained. Previous work showed that neural network emulators can produce accurate VCs...",
+  "tags": [
+    "arxiv",
+    "physics.plasm-ph"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.28468v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-28",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category physics.plasm-ph.",
+      "href": "https://arxiv.org/abs/2608.28468v1"
+    }
+  ],
+  "authors": [
+    "Nicola C. Amorisco",
+    "Kamran Pentland",
+    "Adriano Agnello",
+    "George K. Holt",
+    "Alasdair Ross",
+    "Matthew J. Marshall",
+    "Edward Jones",
+    "Graham J. McArdle",
+    "Charles Vincent",
+    "Timothy Nunn",
+    "Martin Kochan",
+    "Pedro Cavestany",
+    "Aran Garrod",
+    "Stanislas Pamela",
+    "James Buchanan"
+  ],
+  "paperId": "2608.28468",
+  "category": "physics.plasm-ph",
+  "publishedAt": "2026-08-28",
+  "abstract": "Conventional plasma shape control in tokamaks relies on virtual circuits (VCs) that are computed offline from linearisations around a small, tailored number of reference equilibria, and deployed as expertly prepared schedules during the discharge. Here, we report on the first experimental deployment of real-time VCs. We replace pre-set look up tables with VCs updated in real time using surrogates of the plasma response. Both the existing control architecture and the interpretability of VC-based control are retained. Previous work showed that neural network emulators can produce accurate VCs..."
+}
