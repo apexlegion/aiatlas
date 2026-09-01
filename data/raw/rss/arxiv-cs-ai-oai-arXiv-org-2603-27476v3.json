@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.27476v3",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.27476v3",
+    "title": "PeopleSearchBench: Evaluating AI-Powered People Search Platforms with Criteria-Grounded Verification",
+    "link": "https://arxiv.org/abs/2603.27476",
+    "description": "arXiv:2603.27476v3 Announce Type: replace Abstract: AI-powered people search platforms are increasingly deployed for recruiting, sales prospecting, and professional networking, yet no standardized benchmark exists for their rigorous evaluation. We present PeopleSearchBench, an open-source benchmark comprising 119 multilingual queries across four scenarios: corporate recruiting, B2B sales prospecting, expert search, and influencer discovery. A central contribution is Criteria-Grounded Verification, an evaluation methodology that decomposes each query into explicit, independently checkable criteria and verifies each returned individual via live web search, producing factual relevance judgments rather than subjective LLM-as-judge scores (Cohen's kappa = 0.84 with human annotators). We evaluate four architecturally diverse platforms along three complementary dimensions---Relevance Precision, Effective Coverage, and Information Utility---and find that multi-source search agents significantly outperform single-domain systems, particularly in influencer discovery where the performance gap is largest. Platform rankings are robust across ablations on scoring thresholds, dimension weights, and judge models. All code, queries, and evaluation prompts are publicly available.",
+    "publishedAt": "2026-09-01",
+    "author": "Tianyu Shi, Wei Wang, Zequn Xie, Shuai Zhang, Boyang Xia, Chenyu Zeng, Qi Zhang, Lynn Ai, Yaqi Yu, Kaiming Zhang, Feiyue Tang, Zhenyu Yu, Lei Ding",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

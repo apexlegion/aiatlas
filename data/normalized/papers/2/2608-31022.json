@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2608-31022",
+  "name": "MNIST-PRO: MNIST is Back as a Partially Observable World for AI Agents",
+  "summary": "AI agents in partially observable environments need to coordinate active sensing with working memory to maintain an evolving perceptual state. However, existing benchmarks struggle to isolate this...",
+  "description": "AI agents in partially observable environments need to coordinate active sensing with working memory to maintain an evolving perceptual state. However, existing benchmarks struggle to isolate this perceptual-state construction and interpretation capability because they introduce physical and control complexities. We address this with MNIST-PRO, a benchmark that isolates agentic perception by converting MNIST digit recognition into a sequential, glimpse-based search task with lookback constraints. We evaluate ten multimodal models across four memory representations, including raw visual hist...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.31022v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-31",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.31022v1"
+    }
+  ],
+  "authors": [
+    "Vernon Toh",
+    "Navonil Majumder",
+    "Zhengyuan Liu",
+    "Nancy F. Chen",
+    "Soujanya Poria"
+  ],
+  "paperId": "2608.31022",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-31",
+  "abstract": "AI agents in partially observable environments need to coordinate active sensing with working memory to maintain an evolving perceptual state. However, existing benchmarks struggle to isolate this perceptual-state construction and interpretation capability because they introduce physical and control complexities. We address this with MNIST-PRO, a benchmark that isolates agentic perception by converting MNIST digit recognition into a sequential, glimpse-based search task with lookback constraints. We evaluate ten multimodal models across four memory representations, including raw visual hist..."
+}

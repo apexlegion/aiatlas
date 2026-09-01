@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.03199v2",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.03199v2",
+    "title": "DIP: Dynamic In-Context Planner For Diffusion Language Models",
+    "link": "https://arxiv.org/abs/2601.03199",
+    "description": "arXiv:2601.03199v2 Announce Type: replace-cross Abstract: Diffusion language models (DLMs) have shown strong potential for general natural language tasks with in-context examples. Existing In-Context Learning (ICL) approaches largely inherit the practice of autoregressive language models (ARLMs), incorporating all examples into a fixed prompt. However, applying this rigid, static-prompt paradigm to DLMs incurs substantial computational overhead, as the model must evaluate the maximum context length at every step. We address this inefficiency with a key discovery: the block-wise KV-cache mechanism inherent to DLM inference enables the \\textit{low-cost dynamic adjustment of the context}. Following this intuition, our core idea is to start generation with a minimal prompt and progressively insert additional examples on the fly only when the generated tokens are of low confidence. Through rigorous empirical evaluations, we observe that average verified token confidence correlates strongly with generation accuracy, making it a reliable and computationally efficient signal of token quality. Formally, we propose \\textbf{D}ynamic \\textbf{I}n-Context \\textbf{P}lanner (DIP), a context-optimization algorithm based on average verified confidence that dynamically ranks and inserts in-context examples during generation, rather than providing all examples up front. Experimental results on math and coding benchmarks with LLaDA-1.5 and LLaDA-8B-Instruct show that DIP achieves up to $1.59\\times$ and $1.36\\times$ speedups, respectively, while largely preserving the generation quality of the fixed-prompt baseline. Code: https://github.com/wmd3i/DIP",
+    "publishedAt": "2026-09-01",
+    "author": "Yang Li, Han Meng, Chenan Wang, Zhenyu Bi, Xuan Wang, Haipeng Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

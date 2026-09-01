@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.21607v3",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.21607v3",
+    "title": "INTRYGUE: Induction-Aware Entropy Gating for Reliable RAG Uncertainty Estimation",
+    "link": "https://arxiv.org/abs/2603.21607",
+    "description": "arXiv:2603.21607v3 Announce Type: replace Abstract: While retrieval-augmented generation (RAG) enhances LLM performance, it does not eliminate hallucinations, making accurate detection essential. Uncertainty-based methods are attractive for this purpose because they can be integrated into real-world pipelines with little overhead. One of the most widely used uncertainty signals is predictive entropy. We show, however, that entropy can be unreliable in RAG settings and trace this limitation to two opposing internal effects. Induction heads, which copy patterns from earlier context, causally support correct responses and lower predictive entropy, but they also appear to co-activate entropy neurons that push it back up. As a result, correct, context-grounded responses can still receive high uncertainty scores. To address this, we propose INTRYGUE (Induction-Aware Entropy Gating for Uncertainty Estimation), a training-free, mechanistically grounded method that gates predictive entropy by an attention-based estimate of induction-head activity. Evaluated across four RAG-style benchmarks and six open-source LLMs (4B to 13B parameters), INTRYGUE performs competitively against a wide range of baselines, matching or exceeding the strongest of them in most settings. Our findings suggest that hallucination detection in RAG benefits from combining predictive uncertainty with interpretable internal signals of context utilization.",
+    "publishedAt": "2026-09-01",
+    "author": "Alexandra Kuleshova, Andrei Volodichev, Daria Kotova, Alexey Zaytsev",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

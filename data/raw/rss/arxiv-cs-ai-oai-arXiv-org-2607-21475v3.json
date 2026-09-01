@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.21475v3",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.21475v3",
+    "title": "Error Certificates for KV-Cache Eviction via Randomized Design",
+    "link": "https://arxiv.org/abs/2607.21475",
+    "description": "arXiv:2607.21475v3 Announce Type: replace-cross Abstract: Deterministic KV-cache eviction keeps the top-$k$ tokens under an importance score and deletes the rest, and after the deletion the serving system cannot know what the eviction cost it on the current query. We replace the deterministic tail with Poisson sampling at known inclusion probabilities, which makes the eviction error identifiable and turns a survey-sampling variance estimator over the retained set into a per-step error certificate at one extra scalar per retained token. On a thirty-turn assistant compressed to a 10\\% cache budget, the certificate-gated system answers 0.97 of recall questions against 0.09 for top-$k$, and for facts stated 26 to 30 turns earlier it recalls 97\\% against 2\\%. We prove that no estimator computable from the information a deterministic scheme retains is consistent for its own eviction error: evicted values can be altered so that everything retained is unchanged while the true attention-output error grows without bound. Under the Poisson design the certificate covers the realized attention error in 96.9--97.7\\% of 12{,}096 replay cells and in 98.1--99.7\\% on twelve further architectures. Randomization buys attribution, not prediction: a pre-registered study on LongBench at 6k and 16k tokens (about 74{,}000 generations) finds question-aware eviction at 25--50\\% budgets nearly free and output log-probability the better failure predictor, while the certificate answers the question confidence cannot, separating eviction-induced from inherent failures at AUC 0.65--0.75 against 0.47--0.54, and schedules recomputation at 1.7--1.8 times the gain of random gating. On real long-term conversations the gated system returns the full-cache score inside the heavy-damage regime, and the rule that triggers it is the same across five model families.",
+    "publishedAt": "2026-09-01",
+    "author": "Peng Xie Amr Alanwar",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

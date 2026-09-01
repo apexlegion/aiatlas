@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.30567v1",
+  "fetchedAt": "2026-09-01T07:39:33.804Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.30567v1",
+    "title": "TuringLLM: Efficiently Scaling Foundation Models Toward Physical AI",
+    "link": "https://arxiv.org/abs/2608.30567",
+    "description": "arXiv:2608.30567v1 Announce Type: new Abstract: We present Turing-20B-A2B, a 20B-parameter Mixture-of-Experts language model that activates approximately 2B parameters per token, designed for long-context and latency-sensitive physical AI applications. The model adopts Quantile Routing in a dynamic top-k configuration, enabling token-adaptive expert allocation while maintaining balanced expert utilization and a controlled average compute budget. During deployment, we further apply capacity-constrained routing to prompt prefill for more regular and efficient expert execution, while retaining dropless routing during pretraining. Turing-20B-A2B also employs a hybrid attention architecture that combines Lightning Attention with a small number of full-attention layers for efficient long-context modeling. The model is pretrained with a progressive three-stage curriculum and extended to a native context length of 128K through continued pretraining, with further inference-time extension to 512K using YaRN. Despite its compact active-parameter budget, Turing-20B-A2B achieves, at the base-model stage, overall general capability exceeding Qwen3-8B Base and approaching Qwen3.5-9B Base, while maintaining strong long-context performance and favorable prefill-latency scaling. These results demonstrate an effective balance among model capability, long-context scalability, and practical inference efficiency.",
+    "publishedAt": "2026-09-01",
+    "author": "Yuheng Zhang, Yizhao Wang, Da Zhu, Hua Zhou, Yue He, Jiahui Hu, Shaman Tang, Hanlin Chen, Yuhua Wei, Anhua Liu, Shuang Su, Rui Xin, MingYuan Wang, MingHao Li, HaoJie Yang, Siqi Liu, Jianlei Zheng, WeiChao Huang, Qiman Wu, Hang Zhang, HongGou Yang, Xianming Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

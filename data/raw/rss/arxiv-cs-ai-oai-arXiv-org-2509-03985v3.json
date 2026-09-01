@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2509.03985v3",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2509.03985v3",
+    "title": "NeuroBreak: Unveil Internal Jailbreak Mechanisms in Large Language Models",
+    "link": "https://arxiv.org/abs/2509.03985",
+    "description": "arXiv:2509.03985v3 Announce Type: replace-cross Abstract: Jailbreak attacks bypass the safety alignment of large language models (LLMs) to elicit harmful outputs, yet the vast parameter space makes diagnosing the underlying failure mechanisms extremely challenging. We present NeuroBreak, a visual analytics system that helps experts progressively unpack jailbreak mechanisms from layer-level semantics down to neuron-level behaviors. A layer-wise probing pipeline traces how harmful representations evolve across layers, while a dual-dimensional character--behavior categorization reveals each safety-related neuron's inherent tendency and contextual contribution. These analyses are made interpretable through tailored visualization designs: a task-driven probing projection that reveals safety decision boundaries, a dual-stream semantic evolution flow that traces cross-layer semantic shifts, and a character--behavior chord graph that unifies neuron roles, attribution scores, and collaborative relations in a single view with in-situ causal verification. Quantitative evaluations and case studies show that NeuroBreak uncovers safety failure causes and provides actionable insights for strengthening LLM defenses.",
+    "publishedAt": "2026-09-01",
+    "author": "Chuhan Zhang, Ye Zhang, Bowen Shi, Yuyou Gan, Tianyu Du, Shouling Ji, Dazhen Deng, Yingcai Wu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

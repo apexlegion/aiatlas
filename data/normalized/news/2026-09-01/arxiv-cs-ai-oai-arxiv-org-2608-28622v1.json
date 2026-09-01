@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-28622v1",
+  "name": "PUFFER: Incremental Fuzzy Deduplication for Continuously Evolving Corpora",
+  "summary": "arXiv:2608.28622v1 Announce Type: cross Abstract: Large language model training corpora grow through successive, often redundant releases, so each release must be deduplicated against both itself a...",
+  "description": "arXiv:2608.28622v1 Announce Type: cross Abstract: Large language model training corpora grow through successive, often redundant releases, so each release must be deduplicated against both itself and the accumulated history. At trillion-token scale, this requires incremental ingestion, bounded resident memory, deterministic retry, and dataset-scoped lifecycle control without repeated corpus-wid...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.28622"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-01",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.28622"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-01",
+  "expiryAt": "2026-10-01T00:00:00.000Z",
+  "author": "Xiao Yang, Erik Edward Aldape, Beren Millidge"
+}

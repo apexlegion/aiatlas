@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.29921v1",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.29921v1",
+    "title": "Sleight of Word Benchmark: Can Language Models Notice If Their Own Output Was Tampered With?",
+    "link": "https://arxiv.org/abs/2608.29921",
+    "description": "arXiv:2608.29921v1 Announce Type: cross Abstract: The output of a Language Model can be tampered with \\emph{while} the model is writing it. A simple test can thus be constructed by evaluating the model's perception of this external perturbation. In this spirit, a simple benchmark is built in which a single word is consistently substituted with another in the generation process. We call this method \\emph{Sleight of Word}. Two distinct axes are measured: metrics that relate to the model's surprise, as well as an evaluation of the textual reaction for 19 different open-weight language models.",
+    "publishedAt": "2026-09-01",
+    "author": "Alberto Cetoli",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

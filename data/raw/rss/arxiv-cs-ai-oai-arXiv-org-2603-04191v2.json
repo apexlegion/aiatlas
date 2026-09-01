@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.04191v2",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.04191v2",
+    "title": "Towards Natural Personalization: Evaluating Long-Horizon Preference Following in Personalized User-LLM Interactions",
+    "link": "https://arxiv.org/abs/2603.04191",
+    "description": "arXiv:2603.04191v2 Announce Type: replace Abstract: Large Language Models (LLMs) are increasingly serving as personal assistants, where users may share individual preferences over extended interactions. However, assessing how well LLMs can follow these preferences in natural, long-term situations remains underexplored. This work proposes RealPref, a benchmark for evaluating natural preference-following in personalized user-LLM interactions. RealPref features 100 synthetic user profiles, 1300 personalized preferences, 4 types of preference expression (from explicit to implicit), and long-horizon interaction histories. It explored three types of test tasks (multiple-choice, true-or-false, and open-ended), with granular rubrics for LLM-as-a-judge evaluation. Results indicate that LLM performance drops significantly as context length grows and preference expression becomes more implicit, and that generalizing user preference understanding to unseen scenarios poses further challenges. RealPref and these findings provide a foundation for future research to develop user-aware LLM assistants that better adapt to individual needs.",
+    "publishedAt": "2026-09-01",
+    "author": "Qianyun Guo, Yibo Li, Yue Liu, Bryan Hooi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

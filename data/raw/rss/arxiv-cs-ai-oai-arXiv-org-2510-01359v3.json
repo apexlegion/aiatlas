@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2510.01359v3",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2510.01359v3",
+    "title": "Breaking the Code: Security Assessment of AI Code Agents Through Systematic Jailbreaking Attacks",
+    "link": "https://arxiv.org/abs/2510.01359",
+    "description": "arXiv:2510.01359v3 Announce Type: replace-cross Abstract: Code-capable large language model (LLM) agents are embedded in software engineering workflows where they can read, write, and execute code, raising \"jailbreak\" stakes beyond text-only settings. Prior evaluations emphasize refusal or harmful-text detection, leaving open whether agents compile and run malicious programs. We present JAWS-Bench (Jailbreaks Across WorkSpaces), a benchmark spanning three escalating workspace regimes mirroring attacker capability: empty (JAWS-0), single-file (JAWS-1), and multi-file (JAWS-M). We pair it with a hierarchical, executable-aware Judge Framework that tests (i) compliance, (ii) attack success, (iii) syntactic correctness, and (iv) runtime executability to measure deployable harm. Across seven LLM backends from five families, prompt-only attacks in JAWS-0 achieve 61% compliance; 58% are harmful, 52% parse, and 27% run end-to-end. In JAWS-1, compliance reaches ~100% for stronger models with a mean ASR (Attack Success Rate) ~71%; JAWS-M raises mean ASR to ~75%, with 32% runnable attack code. Wrapping an LLM in an agent increases ASR by 1.6$\\times$, by overturning initial refusals during planning and tool use. Additional evaluations with SWE-Agent and OpenAI Codex exhibit similar trends, indicating that JAWS-Bench can be reused across multiple agent frameworks. Category analyses identify which attack classes are most vulnerable and deployable, motivating execution-aware defenses and refusal-preserving agent designs.",
+    "publishedAt": "2026-09-01",
+    "author": "Shoumik Saha, Jifan Chen, Sam Mayers, Sanjay Krishna Gouda, Zijian Wang, Varun Kumar",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

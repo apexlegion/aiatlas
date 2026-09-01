@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2510-22876v4",
+  "name": "Correctness Forensics for Batch Speculative Decoding: Diagnosing the Ragged Tensor Problem",
+  "summary": "arXiv:2510.22876v4 Announce Type: replace-cross Abstract: Inference optimizations are routinely evaluated by throughput alone, without verifying output correctness. We conduct a forensic analysis o...",
+  "description": "arXiv:2510.22876v4 Announce Type: replace-cross Abstract: Inference optimizations are routinely evaluated by throughput alone, without verifying output correctness. We conduct a forensic analysis of batch speculative decoding and find that several widely-used implementations silently produce corrupted outputs (repetitive tokens, &lt;unk&gt; symbols) while reporting competitive speed; failures i...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2510.22876"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-01",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2510.22876"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-01",
+  "expiryAt": "2026-10-01T00:00:00.000Z",
+  "author": "Ranran Haoran Zhang, Soumik Dey, Ashirbad Mishra, Hansi Wu, Binbin Li, Rui Zhang"
+}

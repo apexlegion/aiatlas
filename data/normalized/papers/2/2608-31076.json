@@ -1,0 +1,41 @@
+{
+  "type": "paper",
+  "slug": "2608-31076",
+  "name": "Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents",
+  "summary": "Autonomous scientific research agents are increasingly applied to end-to-end scientific workflows, including literature review, data analysis, experimentation, and report generation. However, open-...",
+  "description": "Autonomous scientific research agents are increasingly applied to end-to-end scientific workflows, including literature review, data analysis, experimentation, and report generation. However, open-ended research tasks often do not clearly specify the analyses, methods, and success criteria required to complete the task. As a result, agents may miss important analyses, use inappropriate methods, or draw conclusions that are insufficiently supported by evidence. To address the problem, we present AutoSciRub, an evaluation-first framework that induces a task-specific executable rubric before r...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.31076v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-31",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2608.31076v1"
+    }
+  ],
+  "authors": [
+    "Xuehai Wang",
+    "Haowei Qin",
+    "Tongxin Liu",
+    "Junkai Li",
+    "Buqiang Xu",
+    "Jintian Zhang",
+    "Yijun Chen",
+    "Zirui Xue",
+    "Shumin Deng"
+  ],
+  "paperId": "2608.31076",
+  "category": "cs.CL",
+  "publishedAt": "2026-08-31",
+  "abstract": "Autonomous scientific research agents are increasingly applied to end-to-end scientific workflows, including literature review, data analysis, experimentation, and report generation. However, open-ended research tasks often do not clearly specify the analyses, methods, and success criteria required to complete the task. As a result, agents may miss important analyses, use inappropriate methods, or draw conclusions that are insufficiently supported by evidence. To address the problem, we present AutoSciRub, an evaluation-first framework that induces a task-specific executable rubric before r..."
+}

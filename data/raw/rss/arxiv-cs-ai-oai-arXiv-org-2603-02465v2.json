@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.02465v2",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.02465v2",
+    "title": "Toward Generalizable Deep Learning Based Peatland Fire Detection via Walsh Hadamard Transform and Domain Adaptation",
+    "link": "https://arxiv.org/abs/2603.02465",
+    "description": "arXiv:2603.02465v2 Announce Type: replace-cross Abstract: Machine learning-based wildfire detection has advanced significantly using deep learning models trained on large wildfire image and video datasets. However, peatland fires exhibit distinct characteristics, including smoldering combustion, low flame intensity, persistent smoke, and subsurface burning, limiting the effectiveness of conventional wildfire detectors. To address these challenges, we propose an efficient deep learning framework for peatland fire detection based on a Walsh--Hadamard Transform enhanced ResNet-50 (WHT-ResNet-50), which improves feature representation while reducing model complexity. To enable efficient deployment, the training-time architecture is structurally reparameterized into an equivalent inference model without sacrificing detection performance. Furthermore, the proposed framework leverages wildfire-to-peatland domain adaptation through transfer learning and introduces a mixed-domain training strategy that produces a unified detector capable of recognizing both wildfire and peatland fire events. Experimental results demonstrate that transfer learning substantially improves peatland fire detection under limited-data conditions, while the proposed WHT-ResNet-50 achieves higher accuracy and F1-score than conventional architectures with fewer parameters. The structurally reparameterized model further reduces inference cost while preserving detection accuracy. Video-based evaluation demonstrates robust performance with low false alarm rates, achieving a 100\\% event detection rate across all positive test videos. Overall, the proposed framework provides an accurate, efficient, and practical solution for early peatland fire detection.",
+    "publishedAt": "2026-09-01",
+    "author": "Emadeldeen Hamdan, Ahmad Faiz Tharima, Mohd Zahirasri Mohd Tohir, Dayang Nur Sakinah Musa, Erdem Koyuncu, Adam J. Watts, Ahmet Enis Cetin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

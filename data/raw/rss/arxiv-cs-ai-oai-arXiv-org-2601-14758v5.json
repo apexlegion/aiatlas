@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.14758v5",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.14758v5",
+    "title": "Mechanism Shift During Post-training from Autoregressive to Masked Diffusion Language Models",
+    "link": "https://arxiv.org/abs/2601.14758",
+    "description": "arXiv:2601.14758v5 Announce Type: replace-cross Abstract: Post-training pretrained autoregressive models (ARMs) into masked diffusion models (MDMs) provides an efficient route to diffusion language modeling, but it remains unclear whether the resulting models reuse inherited autoregressive computation or reorganize it for non-autoregressive generation. We compare two 7B ARM-MDM families across four controlled diagnostic tasks and find a task-dependent mechanism shift. On prefix-dominant tasks, MDMs largely preserve inherited high-attribution pathways or exhibit only modest changes in where computation occurs. On globally constrained tasks, the reorganization is substantially stronger, with task-relevant computation shifting toward earlier layers. This depth-wise pattern persists across prompt resampling, circuit budgets, and tested inference budgets, while targeted ablations support the functional importance of the identified structures under the tested intervention protocols. At the component level, diagnostic probes suggest that ARMs rely more strongly on sharply specialized components, whereas MDMs exhibit weaker single-component specialization and more diffuse output-space alignment. Together, these results suggest that diffusion post-training selectively preserves or reorganizes inherited computation according to task structure, rather than uniformly replacing autoregressive mechanisms.",
+    "publishedAt": "2026-09-01",
+    "author": "Injin Kong, Hyoungjoon Lee, Yohan Jo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

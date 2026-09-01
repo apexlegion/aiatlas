@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.00798v2",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.00798v2",
+    "title": "DASH: Dual-Branch Score Distillation for Guidance-Calibrated Compact Diffusion Models",
+    "link": "https://arxiv.org/abs/2606.00798",
+    "description": "arXiv:2606.00798v2 Announce Type: replace-cross Abstract: Parameter compression of class-conditional diffusion models exposes a structural limitation in output-level distillation: supervising only the guided output leaves the two score branches non-identifiable, so the classifier-free guidance gap is not determined in the student. The zero-loss set admits degenerate solutions in which both branches collapse toward identical predictions, and guidance loses its effect at inference despite low training loss. For each fixed input the objective is exactly flat in a branch-output direction at every residual value, so the ambiguity is a property of the output-level objective rather than a poor local minimum. This paper introduces DASH, which supervises the conditional and unconditional branches independently. An anchor term regularises the conditional prediction toward ground-truth noise, and the teacher's final learned per-timestep curriculum transfers into the student as a frozen prior. Across CIFAR-10, CIFAR-100, and class-conditional ImageNet-64, a more than 5x compressed student stays within four FID points of its teacher and recovers at least 89% of the teacher's guidance-gap magnitude, where no other two-branch baseline with defined calibration exceeds 82%. Ablation isolates unconditional supervision as the term that separates this formulation from output-level distillation. The account is quantitative: the null space fixes the ratio between a composite student's two branch errors, and the measured ratios approximately match that prediction on all three datasets.",
+    "publishedAt": "2026-09-01",
+    "author": "Abdullah Al Shafi, Kazi Saeed Alam, Sk Imran Hossain, Engelbert Mephu Nguifo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

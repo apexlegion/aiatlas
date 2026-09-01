@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.24564v2",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.24564v2",
+    "title": "Summoning the Oracle to Slay It: Mitigating Look-Ahead Bias in Financial Backtesting with Large Language Models",
+    "link": "https://arxiv.org/abs/2605.24564",
+    "description": "arXiv:2605.24564v2 Announce Type: replace Abstract: Backtesting large language models (LLMs) on historical financial data is unreliable when their pre-training data include the evaluated events. An LLM trained in 2024 may already encode how stocks moved during 2018-2020. We name this failure parametric look-ahead bias and propose FinCAD, an inference-time adaptation of Context-Aware Decoding that attenuates contributions from memorised historical outcomes without retraining. FinCAD pairs an adversarial bias-discovery pipeline that learns a model-specific memory-activating prior prompt with an entity- and date-adaptive rule that scales the CAD strength using a per-(entity, date) confidence signal. Across five 7-14B LLMs and five mega-cap equities, the largest model-level mean in-sample return correction is -67.1%. For the three larger models, 2025 out-of-sample returns remain within $8K and mean Sharpe within $\\pm$0.10 of baseline; mean general-benchmark accuracy remains positive or within -1.7 points for four of five models. On an eleven-model leaderboard, FinCAD raises the subset-averaged in-sample/out-of-sample Spearman correlation from +0.779 to +0.846, yielding rankings that are more closely aligned with post-cutoff performance.",
+    "publishedAt": "2026-09-01",
+    "author": "Weixian Waylon Li, Mengyu Wang, Tiejun Ma",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

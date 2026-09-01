@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.25200v2",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.25200v2",
+    "title": "MoPLEx: Estimating Plackett-Luce Mixture Models for Multi-Objective Alignment",
+    "link": "https://arxiv.org/abs/2608.25200",
+    "description": "arXiv:2608.25200v2 Announce Type: replace-cross Abstract: We study learning a mixture of $k$ Plackett-Luce models from multi-way ranking responses from annotators that may represent heterogeneous underlying preferences. This problem has many applications in AI alignment and preference optimization. Prior work has studied mixtures of Bradley-Terry models from pairwise comparisons. However, estimating a mixture of multi-way ranking models can become theoretically unidentifiable when $k$ exceeds $m/2$, where $m$ is the ranking length. We design an efficient algorithm to address this issue by first augmenting the rankings to a larger size (e.g., generating comparisons from a base model), followed by a gradient-based estimation to reduce inference cost (in the input embedding space). With this procedure in mind, we then fit a mixture of Plackett-Luce (PL) models via an expectation-maximization-style iteration, or MoPLEx in short. We conduct extensive experiments to verify this algorithm. First, we find that the gradient-based approximation estimates true probabilities with less than 5% error on models with up to 34 billion parameters. Second, MoPLEx improves clustering and ranking accuracy by an average of 43.7% and 15.2% over baselines using a single PL model or a mixture of Bradley-Terry models, on UltraFeedback and PERSONA datasets. These results demonstrate the effectiveness of MoPLEx for tackling multi-way rankings following heterogeneous preferences through measuring alignment via gradients.",
+    "publishedAt": "2026-09-01",
+    "author": "Dongyue Li, Ziniu Zhang, Lu Wang, Hongyang R. Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.03044v2",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.03044v2",
+    "title": "Emulate or Estimate? The Divergent Strengths of Base and Post-Trained Language Models for Opinion Simulation",
+    "link": "https://arxiv.org/abs/2608.03044",
+    "description": "arXiv:2608.03044v2 Announce Type: replace-cross Abstract: Large language models are increasingly used to simulate human opinions, but prior work reports conflicting results: some studies find promising alignment with human survey data, while others find persona collapse and weak demographic sensitivity. We propose that much of this conflict stems from conflating two distinct tasks. We call the first task emulation, in which models generate individual responses that aggregate into a population distribution. We call the second task estimation, in which models directly predict the population distribution. Evaluating six matched base and post-trained models on the Pew American Trends Panel, we find that base models are the stronger emulators: they produce response distributions closer to human ground truth and better preserve demographic structure. Post-trained models are generally the stronger estimators, producing more accurate distributional predictions when asked directly. We argue that model selection for human simulation should be guided by whether the task requires generating text or predicting distributions.",
+    "publishedAt": "2026-09-01",
+    "author": "Seth Grief-Albert, Jessica Bo, Difan Jiao, Ashton Anderson",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.28648v2",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.28648v2",
+    "title": "Why It Hurts: Identifying the Drivers of Negative Thoughts in Emotional Support Conversations",
+    "link": "https://arxiv.org/abs/2607.28648",
+    "description": "arXiv:2607.28648v2 Announce Type: replace-cross Abstract: Large Language Models (LLMs) are increasingly used for emotional support tasks, such as negative thought reframing. This task relies on modifying cognitive appraisals, the subjective interpretation of events that elicit negative emotions, which is typically conceptualized along multiple discrete dimensions. Current LLM-based frameworks model cognitive appraisal by exhaustively evaluating all possible dimensions, but they fail to account for the varying saliency of these dimensions across different contexts. In this work, we investigate a vital yet overlooked question: \"Can LLMs infer the salient appraisal dimensions from emotional support conversations?\" To address this question, we introduce the AppraiSal benchmark, containing 996 emotional support conversations with human-annotated mental states, including salient cognitive appraisal dimensions. Furthermore, we propose PRISM, a multi-agent probabilistic framework grounded in Bayesian Inverse Planning, designed to improve LLMs' ability to identify context-specific appraisal dimensions. Experimental results show that PRISM brings improvements to LLMs across various sizes, particularly in identifying the most salient appraisal dimensions.",
+    "publishedAt": "2026-09-01",
+    "author": "Hainiu Xu, Zhaoyue Sun, Hanqi Yan, Jinhua Du, Caroline Catmur, Yulan He",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

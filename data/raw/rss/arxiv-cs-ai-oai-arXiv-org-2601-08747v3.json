@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.08747v3",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.08747v3",
+    "title": "To Retrieve or To Think? Cross-Boundary Context Evolution for Multi-hop Complex Reasoning",
+    "link": "https://arxiv.org/abs/2601.08747",
+    "description": "arXiv:2601.08747v3 Announce Type: replace-cross Abstract: Current context augmentation methods, such as retrieval-augmented generation, play a crucial role in bridging a model's internal knowledge boundary and external evidence for multi-hop reasoning. However, they often follow a rigid policy and treat external retrieval as the default action at each step. Such brute-force context expansion incurs unnecessary computational cost and may degrade reasoning performance by saturating the context with redundant or weakly relevant evidence. In this paper, we propose cross-boundary Context Evolution (EvoCtx), a framework that models complex reasoning as an adaptive process of boundary-aware context evolution. EvoCtx dynamically decides whether the next reasoning transition should cross the current evidence boundary through retrieval or refine the reasoning state within the existing context. It estimates the semantic gap between the reasoning state and the accumulated evidence, and strategically alternates between boundary expansion and intra-boundary trajectory refinement. This eliminates redundant retrieval steps and preserves a compact, evidence-supported reasoning trajectory. Extensive experiments on challenging open-domain and multi-hop QA benchmarks demonstrate that EvoCtx significantly outperforms previous methods, offering an effective approach to complex reasoning tasks. The source code can be accessed at https://github.com/Anya-RB-Chen/EvoCtx.",
+    "publishedAt": "2026-09-01",
+    "author": "Rubing Chen, Jian Wang, Wenjie Li, Xiao-Yong Wei, Qing Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

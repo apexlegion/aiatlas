@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.08727v2",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.08727v2",
+    "title": "Artifact Reduction in Undersampled 3D Cone-Beam CTs using a Hybrid 2D-3D CNN Framework",
+    "link": "https://arxiv.org/abs/2602.08727",
+    "description": "arXiv:2602.08727v2 Announce Type: replace-cross Abstract: Undersampled CT volumes minimize acquisition time and radiation exposure but introduce artifacts degrading image quality and diagnostic utility. Reducing these artifacts is critical for high-quality imaging. We propose a computationally efficient hybrid deep-learning framework that combines the strengths of 2D and 3D models. First, a 2D U-Net operates on individual slices of undersampled CT volumes to extract feature maps. These slice-wise feature maps are then stacked across the volume and used as input to a 3D decoder, which utilizes contextual information across slices to predict an artifact-free 3D CT volume. The proposed two-stage approach balances the computational efficiency of 2D processing with the volumetric consistency provided by 3D modeling. The results show substantial improvements in inter-slice consistency in coronal and sagittal direction with low computational overhead. This hybrid framework presents a robust and efficient solution for high-quality 3D CT image post-processing. The code of this project can be found on github: https://github.com/J-3TO/2D-3DCNN_sparseview/.",
+    "publishedAt": "2026-09-01",
+    "author": "Johannes Thalhammer, Tina Dorosti, Sebastian Peterhansl, Daniela Pfeiffer, Franz Pfeiffer, Florian Schaff",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

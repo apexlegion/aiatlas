@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.28806v1",
+  "fetchedAt": "2026-09-01T07:39:33.804Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.28806v1",
+    "title": "Enhancing SAE-based Steering via Neighbor Integrated Feature Selection",
+    "link": "https://arxiv.org/abs/2608.28806",
+    "description": "arXiv:2608.28806v1 Announce Type: new Abstract: Sparse autoencoders (SAEs) disentangle model activations into interpretable features and are widely used for steering large language models. Most existing SAE-based steering methods select features by applying a top- filter based on statistical scores, assuming that higher-scoring features yield stronger steering effects. In this paper, we show that this assumption is often invalid, leading to suboptimal feature selection. Our analysis reveals that effective steering features may be distributed among representationally adjacent, semantically similar groups induced by feature splitting in SAEs. Within such groups, features may exhibit disparate statistical scores despite having comparable steering influence, causing score-based selection to overlook important features. Based on these observations, we propose \\textsc{Neighbor Integrated Feature Selection} (\\textsc{NIFS}), a plug-and-play strategy that leverages representation similarity to improve feature selection for steering. We evaluate \\textsc{NIFS} across multiple SAE-based steering methods and tasks, and demonstrate consistent performance gains over conventional top-$k$ selection.",
+    "publishedAt": "2026-09-01",
+    "author": "Yutian Liu, Xu Wang, Difan Zou",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

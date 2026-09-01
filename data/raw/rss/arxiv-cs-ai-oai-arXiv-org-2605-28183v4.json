@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.28183v4",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.28183v4",
+    "title": "BenGER: Benchmarking LLM Systems on Subsumption-Based Legal Reasoning in German Law",
+    "link": "https://arxiv.org/abs/2605.28183",
+    "description": "arXiv:2605.28183v4 Announce Type: replace-cross Abstract: We introduce BenGER (Benchmark for German Law), a benchmark and dataset for evaluating LLM systems on subsumption-based legal reasoning in German law. The dataset combines 596 exam-style free-text legal case tasks across multiple levels of legal education and 531 short doctrinal reasoning tasks. It includes a controlled validation subset of timed human-written solutions under both unaided and human-AI co-creation conditions. We evaluate 12 contemporary LLM systems - closed flagship, efficiency-oriented, and open-weight - with a rubric-aligned LLM-as-a-Judge cross-validated against a multi-rater human-grading layer (three blind reviews per solution, six judge families benchmarked against the human pool). Closed-flagship systems lead the leaderboard across all three corpora, human-AI co-creation measurably improves on unaided human work, and the LLM judge tracks human grading at Pearson r=0.76 and Cohen's k=0.60. System rankings are stable across judge families and two judges from independent providers clear the Calderon single-reviewer replacement bar on human-authored solutions.",
+    "publishedAt": "2026-09-01",
+    "author": "Sebastian Nagl, Ann-Kristin Mayrhofer, Martin Heidebach, Aleyna Ko\\c{c}ak, Anne Zettelmeier, Elly Breu, Angelina Greiner, Sofija Milijas, Matthias Grabmair",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.22559v3",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.22559v3",
+    "title": "ExecRubrics: Executable Tool-Augmented Rubrics for Verifiable and Efficient Long-Form Evaluation",
+    "link": "https://arxiv.org/abs/2608.22559",
+    "description": "arXiv:2608.22559v3 Announce Type: replace Abstract: Rubrics aim to make language-model evaluation transparent by decomposing response quality into interpretable criteria. However, natural-language rubrics are often ambiguous, require LLM judges, and typically assume criteria aggregated through linear weighted sums, limiting their ability to capture dependencies, alternatives, penalties, and override conditions. We propose ExecRubrics, a framework for representing rubrics as compact executable programs. ExecRubrics encodes evaluation logic as verifiable Python scoring functions, giving natural-language rubric intent an operational semantics: a fixed decision procedure that can be inspected, executed, and edited. On three long-form response benchmarks -- HealthBench, HelpSteer, and ArgQuality -- we show that ExecRubrics can recover substantial preference signal without an LLM judge at evaluation time. On ArgQuality and HelpSteer, the strongest executable variants are within 1.1 and 4 percentage points, respectively, of the direct GPT-5.5 agentic baseline. Executable rubrics are also considerably faster, achieving a 192x average speedup. We show that incorporating external logic and resources from text processing libraries such as NLTK and spaCy can further improve preference accuracy. Our results suggest a novel way of approaching automated evaluation, by offering a faster, more explainable, and less ambiguous alternative to black-box rubric evals, particularly in high-stakes domains such as healthcare and banking where precision and auditability are critical.",
+    "publishedAt": "2026-09-01",
+    "author": "Kaustubh D. Dhole, Charles L. A. Clarke, Eugene Y. Agichtein",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

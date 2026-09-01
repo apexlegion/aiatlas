@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.30107v1",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.30107v1",
+    "title": "AtlasNLP: A Country-Aware Atlas of Dataset Representation in NLP",
+    "link": "https://arxiv.org/abs/2608.30107",
+    "description": "arXiv:2608.30107v1 Announce Type: cross Abstract: Understanding which countries are represented in NLP datasets is essential for identifying gaps, targeting data collection, measuring progress, and informing AI policy. However, geographic metadata is very rarely available, and country-level representation is often hidden behind broad language-level claims. We introduce AtlasNLP, a country-aware atlas of over 13,000 NLP dataset records across normalized NLP task categories, tracking both the populations represented and where datasets are produced. AtlasNLP includes AtlasNLP-Gold, a human-curated reference set, and AtlasNLP-Core, an ACL-derived large-scale collection. Using this resource, we show that (1) dataset coverage is highly uneven across countries and tasks; (2) dataset production and representation are geographically asymmetric; and (3) language coverage does not imply geographic representation. These findings reveal blind spots in current dataset documentation practices and motivate more explicit geographic metadata for country-aware NLP evaluation.",
+    "publishedAt": "2026-09-01",
+    "author": "Joan Nwatu, Tsedeniya Solomon Amare, Longju Bai, Bontu Fufa Balcha, Zayd Bashir, Angana Borah, Zara Burzo, Yubin Choi, Naihao Deng, Samika Gupta, Michel Faloughi, Claude Kwizera, Ziqiao Ma, Cynthia Yacel Fuertes Panizo, Ellie Seehorn, Hui Shen, Jiayi Tang, Zesen Zhao, Boyuan Zheng, Rada Mihalcea",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

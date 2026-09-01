@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-29296v1",
+  "name": "When Do Larger Batches Help Scale LLM Reinforcement Learning?",
+  "summary": "arXiv:2608.29296v1 Announce Type: cross Abstract: Larger batches reduce the variance of stochastic gradients per update and are therefore often expected to accelerate training. Yet whether this sta...",
+  "description": "arXiv:2608.29296v1 Announce Type: cross Abstract: Larger batches reduce the variance of stochastic gradients per update and are therefore often expected to accelerate training. Yet whether this statistical benefit translates into lower wall-clock time-to-target remains unclear, because each update consumes more samples and may take longer to execute. We study this tradeoff in reinforcement lear...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.29296"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-01",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.29296"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-01",
+  "expiryAt": "2026-10-01T00:00:00.000Z",
+  "author": "Ziniu Li, Jinbo Wang, Guanhua Huang, Feiyuan Zhang, Pengbo Li, Alex Chen"
+}

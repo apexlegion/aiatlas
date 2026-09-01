@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.27481v2",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.27481v2",
+    "title": "XHotpotQA: A Benchmark for Cross-Lingual Knowledge Composition in Multi-Hop Question Answering",
+    "link": "https://arxiv.org/abs/2608.27481",
+    "description": "arXiv:2608.27481v2 Announce Type: replace-cross Abstract: Knowledge-intensive multi-hop question answering requires systems to select evidence and compose dependent facts, yet multilingual benchmarks usually translate an entire example into one language. This hides failures at language boundaries inside the reasoning chain. We introduce XHotpotQA, a controlled benchmark for cross-lingual knowledge composition over mixed-language evidence. Each instance is modeled as an evidence-dependency graph whose question, bridge evidence, answer-bearing evidence, and distractors have explicit language assignments. The audited resource contains 15,661 training and 7,405 validation instances, with sentence-level support supervision and supplied distractors. In validation, 99.81% of items cross the question-to-gold-evidence language interface and 95.60% use gold paragraphs in different languages. Across three reader artifacts, full question-evidence mismatch is associated with 10.25 to 15.79 lower Unicode-aware answer F1 than partial alignment, and different-script evidence with deficits of 11.98 to 23.70 points; the corresponding adapted-selector contrasts are 1.71 and 1.78 points. Under this supplied-candidate design, the evaluated readers therefore show substantially larger condition-associated deficits than the selector. XHotpotQA provides role-aware diagnostics, modular evaluation, and an audited test bed for knowledge-based systems that must integrate evidence across languages.",
+    "publishedAt": "2026-09-01",
+    "author": "Iman Barati, Arash Ghafouri, Behrouz Minaei-Bidgoli",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

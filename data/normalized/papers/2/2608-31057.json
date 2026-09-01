@@ -1,0 +1,41 @@
+{
+  "type": "paper",
+  "slug": "2608-31057",
+  "name": "Measure Before You Manage: Evaluating Agent Working Memory in Coding Agents",
+  "summary": "Agent working memory is heterogeneous. Objects such as instructions, artifacts, tool outputs, and agent-generated state play different semantic roles and exhibit different size, retention, and repr...",
+  "description": "Agent working memory is heterogeneous. Objects such as instructions, artifacts, tool outputs, and agent-generated state play different semantic roles and exhibit different size, retention, and representation profiles. Recent work has begun to explore memory-management mechanisms that account for such heterogeneity. This work focuses on semantic heterogeneity and studies how it should shape the management and evaluation of working memory in coding agents. Across 55 archived coding-agent trajectories, we find that semantically different working-memory objects exhibit distinct retention and co...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.31057v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-31",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.31057v1"
+    }
+  ],
+  "authors": [
+    "Le Chen",
+    "Zishen Wan",
+    "Baixi Sun",
+    "Xiaolong Ma",
+    "Chih-Hsuan Yang",
+    "Feng Yan",
+    "Sheng Di",
+    "Franck Cappello",
+    "Rajeev Thakur"
+  ],
+  "paperId": "2608.31057",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-31",
+  "abstract": "Agent working memory is heterogeneous. Objects such as instructions, artifacts, tool outputs, and agent-generated state play different semantic roles and exhibit different size, retention, and representation profiles. Recent work has begun to explore memory-management mechanisms that account for such heterogeneity. This work focuses on semantic heterogeneity and studies how it should shape the management and evaluation of working memory in coding agents. Across 55 archived coding-agent trajectories, we find that semantically different working-memory objects exhibit distinct retention and co..."
+}

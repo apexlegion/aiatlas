@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.28671v1",
+  "fetchedAt": "2026-09-01T07:39:33.804Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.28671v1",
+    "title": "Measuring Similarity between Artistic and AI Generated Images using Siamese Neural Networks",
+    "link": "https://arxiv.org/abs/2608.28671",
+    "description": "arXiv:2608.28671v1 Announce Type: cross Abstract: AI-generated art has sparked debates around potential plagiarism, as these images may closely resemble existing artworks. This research quantifies the similarity between original pieces and AI-generated counterparts, particularly those produced by the Stable Diffusion XL Refiner 1.0. We use Siamese Networks with frozen CLIP encoders and cosine similarity optimized through triplet loss. A dataset of paired original and generated images was built using image-to-image generation and custom prompts, enriched with semantic descriptors and BLIP-2 captions. Prior studies report up to 81\\% style replication and 90\\% visual similarity. Our results show high discriminative performance: training accuracy reached 99.9\\%, and the best model configuration achieved 99.4\\% test accuracy with strong inter-class separation ($\\delta \\mu$ = 0.677), demonstrating the effectiveness of our semantic-visual embeddings.",
+    "publishedAt": "2026-09-01",
+    "author": "Diego Castro Elvira, Navil Pineda Rugerio, Jes\\'us Garc\\'ia-Ram\\'irez, Cecilia Reyes-Pe\\~na, Ricardo Ramos-Aguilar",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

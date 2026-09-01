@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.03163v4",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.03163v4",
+    "title": "OpenAgenet / OAN Yellow Paper: Technical Architecture for Trust-Governed Resource Identity and Discovery",
+    "link": "https://arxiv.org/abs/2606.03163",
+    "description": "arXiv:2606.03163v4 Announce Type: replace-cross Abstract: This yellow paper describes the technical architecture of OpenAgenet / OAN. OAN is a protocol-neutral trust layer for open Agent interconnection and discoverable AI resource products. It specifies the role architecture, \\texttt{did:oan} identity objects, registration workflow, governance-backed Root lifecycle enforcement, Root-verified package model, authorization-aware Discovery, Root-issued infrastructure authorization VCs, signed trusted invocation, verification requirements, state transitions, security properties, implementation boundaries, and deployment considerations. The design is intended to support heterogeneous Agent frameworks and interaction protocols, including MCP, A2A, ANP-like systems, domain-specific Agent protocols, Skills, MCP Servers, and Tool/API resources. OAN does not define the entire business conversation among Agents or the native protocol of every resource; it defines how resource identities become admissible, discoverable, verifiable, and safe to approach before protocol-specific interaction begins.",
+    "publishedAt": "2026-09-01",
+    "author": "Jinliang Xu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

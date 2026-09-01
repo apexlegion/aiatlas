@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.30410v1",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.30410v1",
+    "title": "SePArate: Segmenting Patterns from Defects in Wafer Manufacturing Using Weak Supervision",
+    "link": "https://arxiv.org/abs/2608.30410",
+    "description": "arXiv:2608.30410v1 Announce Type: cross Abstract: In semiconductor manufacturing, defect analysis is essential, but manual inspection cannot scale. However, existing automated inspection methods remain insufficient for root-cause analysis and process optimization. To this end, we present SePArate, a weakly supervised wafer defect segmentation method. SePArate enables pixel-level separation of patterns by leveraging only image-level annotations. It consists of a three-phase training: encoder pretraining, knowledge transfer to learn spatial cues, and training on synthetic mixed-defect data for accurate segmentation. Experiments demonstrate that SePArate outperforms the baselines.",
+    "publishedAt": "2026-09-01",
+    "author": "Dain Kwon, Changmin Shin, Sunjong Park, Kanghyun Choi, Hyeyoon Lee, Jaewon Jang, Minseok Choi, Jinho Lee",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

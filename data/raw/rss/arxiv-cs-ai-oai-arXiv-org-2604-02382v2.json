@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.02382v2",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.02382v2",
+    "title": "Interactive Clarification for Cloud Infrastructure-as-Code Synthesis",
+    "link": "https://arxiv.org/abs/2604.02382",
+    "description": "arXiv:2604.02382v2 Announce Type: replace-cross Abstract: The scale and complexity of modern cloud infrastructure have made \"Infrastructure-as-Code\" (IaC) essential for managing deployments through declarative configurations. While large language models (LLMs) are increasingly used to generate IaC configurations from natural language, user requests are often ambiguous and underspecified. Unlike traditional code generation, it is costly and time-consuming to test IaC configurations during the synthesis, forcing the LLMs into an almost one-shot regime. We observe that ambiguity in IaC synthesis exhibits a compositional structure: configurations decompose into three axes (resources, topology, attributes) where higher-level decisions constrain lower-level ones. We propose a training-free, multi-level disambiguation framework that generates diverse candidate specifications, identifies structural disagreements across these axes, ranks them by informativeness, and produces targeted clarification questions that progressively narrow the configuration space. We further introduce Ambig-IaC, an expert-verified benchmark of 300 validated IaC tasks with ambiguous requests, and define evaluation metrics based on graph edit distance and exact attribute matching. Comprehensive experiments show that our method outperforms existing interactive clarification baselines, with gains that scale with the interaction budget and generalize across models. Extensive ablation studies and analyses further demonstrate its robustness for interactive IaC synthesis.",
+    "publishedAt": "2026-09-01",
+    "author": "Zhenning Yang, Kaden Gruizenga, Tongyuan Miao, Patrick Tser Jern Kon, Hui Guan, Andrew Barto, Ang Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

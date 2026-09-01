@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.11577v2",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.11577v2",
+    "title": "Decoupled Structure-Feature Alignment via Alternating Optimization for Graph Learning",
+    "link": "https://arxiv.org/abs/2607.11577",
+    "description": "arXiv:2607.11577v2 Announce Type: replace-cross Abstract: Conventional Graph Neural Networks (GNNs) couple feature transformation and neighborhood aggregation, which often renders them vulnerable to topological noise and heterophilous connections. To decouple this dependency, we present a constrained two-view learning framework for robust graph learning, which aligns structure-aware GNN embeddings with a structure-free feature prior. Specifically, the proposed Decoupled Structure-Feature Alternating Learning (DSAL) framework trains an independent anchor network using a self-supervised reconstruction objective to capture the intrinsic semantic information contained in node attributes. Within DSAL, to effectively integrate this prior, we design a channel-split adaptive gated (CSAG) layer. This architecture employs a gating mechanism to balance global spectral smoothing and local spatial representation dynamically. Furthermore, the model is optimized via a cyclic alternating procedure, which mitigates representation drift caused by mutual interference in standard joint optimization schemes. Experiments on diverse homophilous and heterophilous datasets suggest that our proposed approach provides improved node classification accuracy while maintaining robustness to structural perturbations compared to standard message-passing architectures.",
+    "publishedAt": "2026-09-01",
+    "author": "Chengcheng Yan, Feifei Zhao, Dai Zhu, Wei Liu, Qingsong Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

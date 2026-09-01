@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.15034v2",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.15034v2",
+    "title": "Interpretable Predictability-Based AI Text Detection: A Replication Study",
+    "link": "https://arxiv.org/abs/2603.15034",
+    "description": "arXiv:2603.15034v2 Announce Type: replace-cross Abstract: This paper replicates and extends the system used in the AuTexTification shared task for authorship attribution of machine-generated texts. Exact replication was not possible because of differences in data splits, model availability, and implementation details, which we document as a case study in reproducibility. We tested newer multilingual language models (mDeBERTa-v3-base, Qwen, mGPT) and added 26 document-level stylometric features, using ablation, permutation importance, and SHAP analysis to assess feature influence. A single shared configuration was applied to both English and Spanish across Subtask 1 and Subtask 2. Averaged over three random seeds, the shared multilingual configuration performs comparably to or better than the language-specific baseline, with the clearest gains on model attribution (Subtask 2). The additional stylometric features yield small improvements, led by lexical diversity, but their contribution falls within seed variance once predictability-based probabilities are included, which remain the dominant signal. The study also shows that clear documentation is important for reliable replication and fair comparison of systems.",
+    "publishedAt": "2026-09-01",
+    "author": "Adam Skurla, Dominik Macko, Jakub Simko",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.30603v1",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.30603v1",
+    "title": "DiffSAC: Diffusion-guided Sampling for Consensus-based Robust Estimation",
+    "link": "https://arxiv.org/abs/2608.30603",
+    "description": "arXiv:2608.30603v1 Announce Type: cross Abstract: Robust estimation is a core computer vision task frequently tackled using sample consensus. However, traditional methods suffer from inefficient sampling as they struggle to identify effective minimum sets before hypothesis evaluation. To address these challenges, we propose a novel Diffusion-guided Sampling for Consensus-based Robust Estimation (DiffSAC) framework. DiffSAC introduces a diffusion model to learn the distribution of effective minimum sets. It refines the confidence for each data point, indicating whether it belongs to a good minimum set, rather than ranking the data points as in previous work. This significantly reduces the need to process numerous bad sets. To constrain the refinement direction, geometric features are incorporated as conditions within our diffusion model. Consequently, DiffSAC outputs a small number of high-quality minimum sets, enabling identification of the best hypothesis via consensus evaluation. Notably, compared to previous works requiring evaluating over ten thousand hypotheses, DiffSAC achieves state-of-the-art performance with only dozens, significantly boosting efficiency. Extensive experiments across five classic computer vision tasks demonstrate the superiority of DiffSAC. The diffusion model's sampling accelerators enable real-time operation, and DiffSAC can be used as a plug-and-play module to improve existing sample consensus methods.",
+    "publishedAt": "2026-09-01",
+    "author": "Chang Nie, Guangming Wang, Zhe Liu, Hesheng Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

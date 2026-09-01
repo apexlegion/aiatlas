@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.23803v2",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.23803v2",
+    "title": "LUCAID: Agentic Multimodal AI for Lung Cancer Precision Pathology",
+    "link": "https://arxiv.org/abs/2608.23803",
+    "description": "arXiv:2608.23803v2 Announce Type: replace-cross Abstract: Lung cancer tissue diagnostics is complex, as therapy decisions in precision oncology rely on the integration of histomorphological, immunohistochemical, and molecular features. Yet pathological assessment remains largely visual and semi-quantitative and shows interobserver variability, while existing artificial intelligence (AI) tools cover only selected tasks, rarely reach generalizable expert-level performance, and lack prospective clinical validation. To address these challenges, we developed and clinically validated LUCAID, an agentic AI system for precision lung cancer pathology. An integrative agent couples diagnostic reasoning with nine modules that cover the full routine workflow, from quality control, tumor detection and segmentation, histological subtyping, tumor microenvironment profiling, tumor cellularity quantification, and predictive biomarker scoring (PD-L1, MET, TROP-2) to automated structured report generation. LUCAID enables users to interactively query the module outputs and generate reports that contextualize the results. Against large-scale expert ground-truth annotations, the analysis modules achieved F1 scores of 0.82-0.95. In prospective clinical validation, LUCAID reached 93.0% concordance with an expert-panel adjudicated reference standard across clinically actionable decisions, compared with 68.3-81.1% for five experienced thoracic pathologists.",
+    "publishedAt": "2026-09-01",
+    "author": "Marie-Lisa Eich, Kai Standvoss, Timo Milbich, Alexander M\\\"ollers, Miriam H\\\"agele, Philipp Anders, Lars Tharun, Hanna Kontradiuk, Sebastian Kons, Nader Aldoj, Recepcan Adig\\\"uzel, Adam Narai, Lukas H\\\"onig, Jonathan Striebel, Binru Yang, Mihnea P. Dragomir, Marvin Sextro, Philipp Keyl, Philipp Jurmeister, Rosemarie Krupar, Evelyn Ramberger, James Wells, Julika Ribbat-Idel, Andreas Kunft, Hussam Shuaib, Christian Groh\\'e, Reinhard B\\\"uttner, David Horst, Klaus-Robert M\\\"uller, Lukas Ruff, Maximilian Alber, Frederick Klauschen, Simon Schallenberg",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

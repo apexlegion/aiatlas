@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2608-31077",
+  "name": "Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization",
+  "summary": "Outcome-based reinforcement learning provides verified feedback for language-model agents, but assigns trajectory-level advantage uniformly to all decisions, yielding coarse credit over long-horizo...",
+  "description": "Outcome-based reinforcement learning provides verified feedback for language-model agents, but assigns trajectory-level advantage uniformly to all decisions, yielding coarse credit over long-horizon interactions. On-policy self-distillation offers finer supervision by re-evaluating sampled behavior with privileged information (PI) available only during training. However, fine-grained supervision is not necessarily fine-grained credit: PI-induced likelihood changes describe how additional information alters policy preference, but do not directly determine how an executable action should inhe...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2608.31077v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-08-31",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2608.31077v1"
+    }
+  ],
+  "authors": [
+    "Jingxiao Yang",
+    "Wangjie Gan",
+    "Yingxuan Zhuang",
+    "Wenqi Zhang",
+    "Jintao Chen",
+    "Xuhong Zhang"
+  ],
+  "paperId": "2608.31077",
+  "category": "cs.AI",
+  "publishedAt": "2026-08-31",
+  "abstract": "Outcome-based reinforcement learning provides verified feedback for language-model agents, but assigns trajectory-level advantage uniformly to all decisions, yielding coarse credit over long-horizon interactions. On-policy self-distillation offers finer supervision by re-evaluating sampled behavior with privileged information (PI) available only during training. However, fine-grained supervision is not necessarily fine-grained credit: PI-induced likelihood changes describe how additional information alters policy preference, but do not directly determine how an executable action should inhe..."
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.26737v2",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.26737v2",
+    "title": "Beyond Static Visual Tokens: Structured Sequential Visual Chain-of-Thought Reasoning",
+    "link": "https://arxiv.org/abs/2603.26737",
+    "description": "arXiv:2603.26737v2 Announce Type: replace-cross Abstract: Current multimodal LLMs encode images as static visual prefixes and rely on text-based reasoning, lacking goal-driven and adaptive visual access. Inspired by human visual perception-where attention is selectively and sequentially shifted from the most informative regions to secondary cues-we propose Structural Sequential Visual CoT SSV-CoT. First, a question-relevant saliency map identifies and organizes key visual regions, explicitly modeling the spatial distribution of visual importance. Second, reasoning is performed following this discriminative order, inducing a curriculum-like semantic progression from primary to secondary cues. This method is trained end-to-end, using text cot and answer supervision, without relying on region-level annotations or specialized external tools. Experiments on diverse visual reasoning benchmarks show gains, validating structured and sequential visual cognition.",
+    "publishedAt": "2026-09-01",
+    "author": "Guangfu Guo, Xiaoqian Lu, Yue Feng, Mingming Sun",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

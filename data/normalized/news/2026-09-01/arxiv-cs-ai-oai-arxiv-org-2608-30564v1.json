@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-30564v1",
+  "name": "Q-Strata: Hierarchical Bit Allocation for Mixed-Precision Quantization of Mixture-of-Experts LLMs",
+  "summary": "arXiv:2608.30564v1 Announce Type: cross Abstract: Mixed-precision quantization (MPQ) assigns a different bitwidth to each linear layer of a large language model (LLM) to minimize the quantization-i...",
+  "description": "arXiv:2608.30564v1 Announce Type: cross Abstract: Mixed-precision quantization (MPQ) assigns a different bitwidth to each linear layer of a large language model (LLM) to minimize the quantization-induced quality loss under a fixed budget, but Mixture-of-Experts (MoE) models contain these layers in every expert of every MoE block, so the allocation space grows far larger than in a dense model. E...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.30564"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-01",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.30564"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-01",
+  "expiryAt": "2026-10-01T00:00:00.000Z",
+  "author": "Deokjae Lee, Sihun Chu, Hyun Oh Song"
+}

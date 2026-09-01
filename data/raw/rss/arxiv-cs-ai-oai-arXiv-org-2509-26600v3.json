@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2509.26600v3",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2509.26600v3",
+    "title": "When LLMs Benchmark Themselves: Deconstructing Self-Bias in Automated Evaluation",
+    "link": "https://arxiv.org/abs/2509.26600",
+    "description": "arXiv:2509.26600v3 Announce Type: replace-cross Abstract: As LLMs rapidly saturate existing benchmarks, automated benchmark creation using LLMs (LLM as a benchmark) where a model generates test inputs (LLM as a testset) and evaluates outputs (LLM as an evaluator) has gained traction as a cheap alternative to human curation. We show that this paradigm has a fundamental problem: LLM-generated benchmarks systematically favor the model that created them. Using machine translation as our primary testbed, we find that self bias arises from two compounding sources, LLM as a testset and LLM as an evaluator, and their combination amplifies the effect. Crucially, even when test data is generated with explicit diversity controls, each model\\'s implicit stylistic tendencies produce homogeneous, model-specific outputs that inflate its own scores. Increasing source text diversity, using our proposed diversity metric, partially mitigates this bias. Self bias is strong enough to cause each model to rank itself first, overriding the peer consensus ordering. We confirm that the phenomenon extends to open-ended generation on the Chatbot Arena task.",
+    "publishedAt": "2026-09-01",
+    "author": "Wenda Xu, Sweta Agrawal, Vil\\'em Zouhar, Markus Freitag, Daniel Deutsch",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

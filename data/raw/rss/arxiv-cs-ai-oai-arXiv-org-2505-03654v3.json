@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2505.03654v3",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2505.03654v3",
+    "title": "ReGraP-LLaVA: Reasoning enabled Graph-based Personalized Large Language and Vision Assistant",
+    "link": "https://arxiv.org/abs/2505.03654",
+    "description": "arXiv:2505.03654v3 Announce Type: replace-cross Abstract: Multimodal Large Language Models have shown strong performance across multimodal tasks, and recent personalized MLLMs can recognize user-specific concepts and generate contextual captions. However, existing personalized MLLMs mainly focus on isolated concepts, often lacking relational training data, neglecting connections among personalized concepts, and evaluating mostly on recognition or captioning. To address these limitations, we introduce ReGraP, a dataset of 120 personalized knowledge sets, each containing images, knowledge graphs, and Chain-of-Thought Question-Answering pairs. Based on ReGraP, we propose Reasoning enabled Graph-based Personalized Large Language and Vision Assistant ReGraP-LLaVA, a personalized MLLM that incorporates KGs and CoT QA pairs through soft and/or hard graph prompting to align structured relational knowledge with the model's semantic space. We further establish the ReGraP Benchmark, covering multiple-choice, fill-in-the-blank, true/false, and descriptive questions in both open- and closed-ended settings, to evaluate personalized relational reasoning and knowledge-connection capabilities. Experimental results show that ReGraP-LLaVA effectively learns personalized knowledge and performs relational reasoning, achieving the best overall performance among competitive baselines. Code and data are available at: https://github.com/xyfyyds/ReGraP",
+    "publishedAt": "2026-09-01",
+    "author": "Yifan Xiang, Zhenxi Zhang, Bin Li, Yixuan Weng, Bo Gao, Shoujun Zhou, Yangfan He, Yilin Yuan, Keqin Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

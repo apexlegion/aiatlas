@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-31074v1",
+  "name": "Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring",
+  "summary": "arXiv:2608.31074v1 Announce Type: cross Abstract: We propose a lightweight two-stage framework for real-time video anomaly detection. The first stage employs YOLO v11n-pose to detect persons and ex...",
+  "description": "arXiv:2608.31074v1 Announce Type: cross Abstract: We propose a lightweight two-stage framework for real-time video anomaly detection. The first stage employs YOLO v11n-pose to detect persons and extract seventeen skeletal keypoints in a single forward pass. The second stage encodes each cropped person region through CLIP ViT-B/32 and computes cosine similarity against predefined textual descrip...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.31074"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-01",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.31074"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-01",
+  "expiryAt": "2026-10-01T00:00:00.000Z",
+  "author": "Vanodhya G. Warnasooriya, Amir Hajian, Watchara Ruangsang, Supavadee Aramvith"
+}

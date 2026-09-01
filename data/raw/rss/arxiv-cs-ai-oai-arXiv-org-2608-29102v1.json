@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.29102v1",
+  "fetchedAt": "2026-09-01T07:39:33.804Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.29102v1",
+    "title": "Clustering as Approximation by Constrained Projectors: Theory and Guarantees",
+    "link": "https://arxiv.org/abs/2608.29102",
+    "description": "arXiv:2608.29102v1 Announce Type: new Abstract: This paper develops a unified theoretical framework showing that a broad family of clustering methods, including k-means, fuzzy c-means, kernel k-means, kernel FCM, and spectral clustering, can all be expressed as structured low-rank projectors acting on a signal-derived matrix. By formulating each method as an instance of min over B in C of ||M - M P_B||_F^2, with different constraint sets C, we establish a common optimization template that clarifies the algebraic links among hard, fuzzy, kernel-induced, and orthonormal projections. Within this framework, we derive non-trivial theoretical results, including geodesic convexity properties on the projection manifold, perturbation bounds quantifying stability to matrix noise, and exact recovery guarantees under ideal block-model conditions. The analysis further explains when different clustering families collapse to the same optimal subspace and how deviations arise under small inter-cluster leakage. Overall, the work provides a coherent, theory-first foundation for understanding clustering through structured projectors.",
+    "publishedAt": "2026-09-01",
+    "author": "Angshul Majumdar",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

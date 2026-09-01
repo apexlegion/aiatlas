@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-25292v2",
+  "name": "Instruction-Tuned Language Models Cannot Sample from Distributions They Can Describe",
+  "summary": "arXiv:2607.25292v2 Announce Type: replace Abstract: Silicon sampling uses language models as proxies for human survey respondents, treating each model call as an independent draw from the persona's...",
+  "description": "arXiv:2607.25292v2 Announce Type: replace Abstract: Silicon sampling uses language models as proxies for human survey respondents, treating each model call as an independent draw from the persona's response distribution. We show this draw does not exist: instruction-tuned models do not sample from distributions, they collapse to a single output. The same persona on the same question returns the...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.25292"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-01",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.25292"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-01",
+  "expiryAt": "2026-10-01T00:00:00.000Z",
+  "author": "Chaemin Jang, Dongman Lee, Jihee Kim"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.02194v2",
+  "fetchedAt": "2026-09-01T07:39:33.805Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.02194v2",
+    "title": "Where Does Robustness Live? Neuron-Guided Adaptation for Retrieval-Augmented Language Models",
+    "link": "https://arxiv.org/abs/2604.02194",
+    "description": "arXiv:2604.02194v2 Announce Type: replace-cross Abstract: Retrieval-Augmented Language Models (RALMs) have shown strong potential in knowledge-intensive tasks, yet they remain vulnerable when retrieved contexts are noisy or irrelevant. Robustness against such contexts requires two distinct capabilities: abstention when contexts are uninformative, and selective extraction when relevant evidence is buried in noise. Yet existing methods face two key limitations: they do not train separately for these two capabilities, and they adapt the model at a coarse layer- or module-level granularity, overlooking that only a small subset of neurons is strongly activated for a given input. We propose NeuRIT, a Neuron-guided Robust Instruction-Tuning framework built on a localization-first perspective. NeuRIT mines context-aware neurons associated with relevant and irrelevant context processing, and uses them as anchors to selectively adapt both the identified neuron groups and the layers in which they concentrate. NeuRIT then performs two-stage instruction tuning that teaches complementary behaviors: suppress generation when there is nothing to extract, and extract relevant evidence when there is. NeuRIT consistently outperforms strong baselines across diverse QA benchmarks and generator backbones. Our code is available at https://github.com/HYU-ARK-Lab/NeuRIT.",
+    "publishedAt": "2026-09-01",
+    "author": "Jae O Lee, Jaemin Kim, Sumyeong Ahn, Seo Yeon Park",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
