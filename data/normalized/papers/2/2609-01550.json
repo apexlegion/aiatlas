@@ -1,0 +1,33 @@
+{
+  "type": "paper",
+  "slug": "2609-01550",
+  "name": "A Mathematical Theory of Reusable Neural Bases for Network Compression",
+  "summary": "As large AI models become increasingly prevalent across a wide range of applications, memory cost has become a critical bottleneck in both training and inference. To mitigate this issue, we introdu...",
+  "description": "As large AI models become increasingly prevalent across a wide range of applications, memory cost has become a critical bottleneck in both training and inference. To mitigate this issue, we introduce the Linear Reusable Neural Bases Architecture (LRNBA), a novel framework aimed at improving parameter efficiency and reducing memory cost. Inspired by recurrent neural network (RNN) designs, the core idea of our approach is to represent each network block as a linear combination of a shared set of neural bases, thereby enjoying highly network compression rate while maintaining stable training....",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.01550v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-01",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.01550v1"
+    }
+  ],
+  "authors": [
+    "Binshuai Wang"
+  ],
+  "paperId": "2609.01550",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-01",
+  "abstract": "As large AI models become increasingly prevalent across a wide range of applications, memory cost has become a critical bottleneck in both training and inference. To mitigate this issue, we introduce the Linear Reusable Neural Bases Architecture (LRNBA), a novel framework aimed at improving parameter efficiency and reducing memory cost. Inspired by recurrent neural network (RNN) designs, the core idea of our approach is to represent each network block as a linear combination of a shared set of neural bases, thereby enjoying highly network compression rate while maintaining stable training...."
+}

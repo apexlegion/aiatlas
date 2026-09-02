@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.29150v3",
+  "fetchedAt": "2026-09-02T07:02:05.004Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.29150v3",
+    "title": "Flow Reasoning Models: Turning Flows Into Efficient Recurrent Reasoners",
+    "link": "https://arxiv.org/abs/2606.29150",
+    "description": "arXiv:2606.29150v3 Announce Type: replace Abstract: Structured reasoning requires making and revising interdependent decisions to reach a globally consistent solution. Existing architectures struggle with this: autoregressive models commit sequentially and cannot revise earlier decisions, while masked diffusion models often require careful decoding schemes to coordinate interdependent predictions. We introduce Flow Reasoning Models (FRMs), a novel framework for structured reasoning that adapts continuous flows over discrete structured outputs with a simple recurrent refinement mechanism. By self-conditioning a flow model on its own past outputs, we turn one-shot denoising into iterative solution refinement. This lets FRMs make and revise decisions in parallel, efficiently coordinating interdependent choices across solutions. Yet conventional self-conditioning becomes unreliable at greater recurrent depth due to exposure bias between one-step training predictions and recursively generated inference states. We address this mismatch with Fixed-Point Forcing (FPF), which trains FRMs on states produced by their own inference dynamics while preserving the standard flow-matching objective. FRMs achieve solve rates of $99.5\\%$, $100.0\\%$, and $99.9\\%$ on Sudoku-Extreme, Zebra, and Maze-Unique, respectively. On Sudoku-Extreme, FRMs achieve higher peak accuracy than the evaluated masked-diffusion and specialized reasoning baselines while remaining highly compute-efficient, matching the next-best method's $98.7\\%$ peak solve rate with $44\\times$ fewer inference FLOPs.",
+    "publishedAt": "2026-09-02",
+    "author": "Alec Helbling, Andrey Bryutkin, Mauro Martino, Duen Horng Chau, Nima Dehmamy, Hendrik Strobelt",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

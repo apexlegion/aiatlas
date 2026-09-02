@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2511.22228v3",
+  "fetchedAt": "2026-09-02T07:02:05.004Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2511.22228v3",
+    "title": "3D-Consistent Multi-View Editing by Correspondence Guidance",
+    "link": "https://arxiv.org/abs/2511.22228",
+    "description": "arXiv:2511.22228v3 Announce Type: replace-cross Abstract: Recent advancements in diffusion and flow models have greatly improved text-based image editing, yet methods that edit images independently often produce geometrically and photometrically inconsistent results across different views of the same scene. Such inconsistencies are particularly problematic for editing of 3D representations such as NeRFs or Gaussian splat models. We propose a training-free guidance framework that enforces multi-view consistency during the image editing process. The key idea is that corresponding points should look similar after editing. To achieve this, we introduce a consistency loss that guides the denoising process toward coherent edits. The framework is flexible and can be combined with widely varying image editing methods, supporting both dense and sparse multi-view editing setups. Experimental results show that our approach significantly improves 3D consistency compared to existing multi-view editing methods. We also show that this increased consistency enables high-quality Gaussian splat editing with sharp details and strong fidelity to user-specified text prompts. Please refer to our project page for video results: https://3d-consistent-editing.github.io/",
+    "publishedAt": "2026-09-02",
+    "author": "Josef Bengtson, David Nilsson, Dong In Lee, Yaroslava Lochman, Fredrik Kahl",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

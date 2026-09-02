@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-00227v1",
+  "name": "Don't Let the Model Write the YAML: Deterministic, Minimal-Diff GitOps Remediation from LLM-Proposed Field Changes",
+  "summary": "arXiv:2609.00227v1 Announce Type: cross Abstract: LLM agents increasingly diagnose incidents and propose remediations. In a GitOps workflow, applying a fix means editing a version-controlled config...",
+  "description": "arXiv:2609.00227v1 Announce Type: cross Abstract: LLM agents increasingly diagnose incidents and propose remediations. In a GitOps workflow, applying a fix means editing a version-controlled config file, and the obvious implementation, having the model author the edited file or a diff, is what practitioners reach for first. Evaluating that choice on real Kubernetes manifests, we find no text-ge...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.00227"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.00227"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-02",
+  "expiryAt": "2026-10-02T00:00:00.000Z",
+  "author": "Pruthvi Davineni"
+}

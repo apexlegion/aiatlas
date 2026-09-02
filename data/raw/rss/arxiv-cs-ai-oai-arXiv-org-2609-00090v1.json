@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.00090v1",
+  "fetchedAt": "2026-09-02T07:02:05.004Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.00090v1",
+    "title": "Assessing Alignment and Stability of Feature Importance Explanations via Weight of Evidence",
+    "link": "https://arxiv.org/abs/2609.00090",
+    "description": "arXiv:2609.00090v1 Announce Type: cross Abstract: Feature importance Methods (FIMs) are widely used in Explainable AI to interpret model predictions, yet attribution scores alone often provide limited insight into the underlying reasoning process. In this work, we introduce a novel perspective by embedding FIMs within a hypothesis-testing framework based on Weight of Evidence (WoE). We quantify how strongly the observed evidence supports any given hypothesis on feature importance. The reference hypothesis can stem from domain knowledge, ground truth, or be derived from the FIM itself. This formulation enables a principled evaluation of FIMs, capturing both their alignment with prior knowledge and their variability. We further provide theoretical results linking WoE to attribution variance. Empirical results shows the applicability and flexibility of our strategy analyzing LIME and SHAP explanations in settings with different reference hypotheses. Overall, our framework offers a complementary tool for assessing FIMs through a contrastive, evidence-based lens.",
+    "publishedAt": "2026-09-02",
+    "author": "Eddie Conti, Claudio Daka, \\'Alvaro Parafita, Antonio L. Alfeo, Axel Brando, Mario G. C. A. Cimino",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2609-01600",
+  "name": "CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?",
+  "summary": "Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependen...",
+  "description": "Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependencies and cleanup. We introduce CordisBench, a 1,200-question benchmark of this lifecycle reasoning. It combines a controlled formal setting with programs executed against Cordis, a runtime that manages component dependencies and cleanup, and asks models to identify affected components, predict state after a specified teardown order, determine which conditions hold under all or some orders, and cho...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.01600v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-01",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2609.01600v1"
+    }
+  ],
+  "authors": [
+    "Damien Sileo",
+    "Dimitri Kachler"
+  ],
+  "paperId": "2609.01600",
+  "category": "cs.CL",
+  "publishedAt": "2026-09-01",
+  "abstract": "Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependencies and cleanup. We introduce CordisBench, a 1,200-question benchmark of this lifecycle reasoning. It combines a controlled formal setting with programs executed against Cordis, a runtime that manages component dependencies and cleanup, and asks models to identify affected components, predict state after a specified teardown order, determine which conditions hold under all or some orders, and cho..."
+}

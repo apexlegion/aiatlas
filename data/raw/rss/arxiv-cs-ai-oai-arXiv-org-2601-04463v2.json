@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.04463v2",
+  "fetchedAt": "2026-09-02T07:02:05.004Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.04463v2",
+    "title": "Beyond Static Summarization: Proactive Memory Extraction for LLM Agents",
+    "link": "https://arxiv.org/abs/2601.04463",
+    "description": "arXiv:2601.04463v2 Announce Type: replace-cross Abstract: Memory management is vital for LLM agents in long-term and personalized interactions. Most previous work studies how to retrieve and use memory, but pays less attention to how memory is extracted. We find two main limitations in existing methods. First, extraction is \"ahead-of-time\": the agent saves information before it knows future tasks. A single summary prompt often mixes details, events, and relations, so useful information is lost. Second, extraction is usually one-off. Without verification, errors and hallucinations may stay in memory for a long time. To address these limitations, we propose ProMem, a proactive memory extraction framework. It separates details, events, and relations, and uses different extraction strategies for each type. It also checks completeness to recover missed events and verifies facts at the atomic level to reduce hallucinations. Experiments show that ProMem improves memory completeness and QA accuracy, while keeping a good balance between quality and token cost.",
+    "publishedAt": "2026-09-02",
+    "author": "Chengyuan Yang, Zequn Sun, Wei Wei, Wei Hu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

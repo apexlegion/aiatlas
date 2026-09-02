@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2609-01556",
+  "name": "Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories",
+  "summary": "We evaluate embedding retrieval where surface form and meaning are pulled apart on purpose: retrieving items that share underlying structure but not wording, in two unrelated domains under one prot...",
+  "description": "We evaluate embedding retrieval where surface form and meaning are pulled apart on purpose: retrieving items that share underlying structure but not wording, in two unrelated domains under one protocol, competition mathematics (MathNet-Retrieve; 500 queries, 117,088-item corpus) and embodied-agent trajectories (ALFWorld-derived; 118 queries, 336 trajectories). In mathematics the failure is complete: strict Hit@1 at the heaviest disguise tier is 0.0% for both production embedders (bootstrap 95% CI [0.0, 0.0]) while the correct item sits in the top 10 nearly always, and in 95.2 to 99.8% of mi...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.01556v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-01",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.01556v1"
+    }
+  ],
+  "authors": [
+    "Nabira Rashid",
+    "Manolis Kellis"
+  ],
+  "paperId": "2609.01556",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-01",
+  "abstract": "We evaluate embedding retrieval where surface form and meaning are pulled apart on purpose: retrieving items that share underlying structure but not wording, in two unrelated domains under one protocol, competition mathematics (MathNet-Retrieve; 500 queries, 117,088-item corpus) and embodied-agent trajectories (ALFWorld-derived; 118 queries, 336 trajectories). In mathematics the failure is complete: strict Hit@1 at the heaviest disguise tier is 0.0% for both production embedders (bootstrap 95% CI [0.0, 0.0]) while the correct item sits in the top 10 nearly always, and in 95.2 to 99.8% of mi..."
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-00575v1",
+  "name": "Residual Sparsification via Output Importance for Compressing Mixture-of-Experts LLMs",
+  "summary": "arXiv:2609.00575v1 Announce Type: new Abstract: Mixture-of-experts (MoE) architectures scale large language models efficiently, but they demand massive GPU memory. To cope with such demand, models...",
+  "description": "arXiv:2609.00575v1 Announce Type: new Abstract: Mixture-of-experts (MoE) architectures scale large language models efficiently, but they demand massive GPU memory. To cope with such demand, models are commonly compressed to reduce their memory footprint. Residual sparsification is a representative compression technique that decomposes each projection matrix of an expert into a shared base matri...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.00575"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.00575"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-02",
+  "expiryAt": "2026-10-02T00:00:00.000Z",
+  "author": "Seungwoo Jung, Dohyeok Kwon, Seungmin Cha, Junseok Lee, Yeonho Yoo, Chuck Yoo, Gyeongsik Yang"
+}

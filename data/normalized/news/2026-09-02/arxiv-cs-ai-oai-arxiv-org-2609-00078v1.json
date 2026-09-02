@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-00078v1",
+  "name": "RW-LoRA: Communication-Efficient Decentralized LoRA Fine-Tuning via Random Walks",
+  "summary": "arXiv:2609.00078v1 Announce Type: cross Abstract: Parameter-efficient fine-tuning methods such as LoRA have become a standard approach for adapting large foundation models. Adopting fine-tuning to...",
+  "description": "arXiv:2609.00078v1 Announce Type: cross Abstract: Parameter-efficient fine-tuning methods such as LoRA have become a standard approach for adapting large foundation models. Adopting fine-tuning to distributed settings faces several challenges. Most existing distributed LoRA methods rely on centralized aggregation, and gossip-based decentralized LoRA requires repeated synchronization among multi...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.00078"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.00078"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-02",
+  "expiryAt": "2026-10-02T00:00:00.000Z",
+  "author": "Xingran Chen, Rohit Bhagat, Ghadir Ayache, Rawad Bitar, Yanmin Gong, Salim El Rouayheb"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-00196v1",
+  "name": "WHALE: A Simple Recipe for Joint Harness-Weight Optimization",
+  "summary": "arXiv:2609.00196v1 Announce Type: cross Abstract: Agent performance depends jointly on the model parameters and the executable harness code that manages context and control flow. Optimizing either...",
+  "description": "arXiv:2609.00196v1 Announce Type: cross Abstract: Agent performance depends jointly on the model parameters and the executable harness code that manages context and control flow. Optimizing either component in isolation can leave the system bottlenecked by its frozen counterpart: weight updates can change which harness is effective, while harness updates can change which model capabilities are...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.00196"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.00196"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-02",
+  "expiryAt": "2026-10-02T00:00:00.000Z",
+  "author": "Haechan Kim, Yoonho Lee, Gisang Lee, Chelsea Finn, Kangwook Lee"
+}

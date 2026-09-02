@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.00330v1",
+  "fetchedAt": "2026-09-02T07:02:05.004Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.00330v1",
+    "title": "Topic Matching in the Wild: Benchmark and Lessons from Real-World ASR Transcripts",
+    "link": "https://arxiv.org/abs/2609.00330",
+    "description": "arXiv:2609.00330v1 Announce Type: cross Abstract: In contact centers, real-time agent-assist tools determine, for each of many predefined topics, whether a live customer utterance is relevant and display a coaching card to the agent when it is. The input is noisy and challenging: ASR(Automatic Speech Recognition) transcripts of spontaneous phone conversations, which can be unclear, repetitive, and mostly lack punctuation. To systematically study this real-world task, we curate a human-annotated topic-utterance judgments dataset sourced from real call-center transcripts. We compare three types of matchers: a regex-based baseline, zero-shot sentence embedding encoders, and Gemini-based LLM matchers. In addition, two types of topic representations are studied in our benchmark:keyphrases and natural language description. Our empirical experiments highlight the superior performance of lightweight LLM matchers over embedding and regex models when equipped with natural language descriptions.",
+    "publishedAt": "2026-09-02",
+    "author": "Saman Rahbar, Xiliang Zhu, Irvin Cardoza, David Rossouw",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

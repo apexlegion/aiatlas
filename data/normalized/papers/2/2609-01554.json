@@ -1,0 +1,31 @@
+{
+  "type": "paper",
+  "slug": "2609-01554",
+  "name": "BS: Take the Hint - Interactive Multitracer PET/CT Lesion Segmentation with a Scribble-Conditioned ResEnc U-Net",
+  "summary": "Automated lesion segmentation in whole-body PET/CT is complicated by the variety of physiological tracer uptake patterns and by the differing appearance of lesions across tracers. The autoPET/CT V...",
+  "description": "Automated lesion segmentation in whole-body PET/CT is complicated by the variety of physiological tracer uptake patterns and by the differing appearance of lesions across tracers. The autoPET/CT V challenge addresses this by making segmentation interactive: user scribbles marking foreground and background are supplied alongside the image, and the algorithm is expected to exploit them. We present our submission, a scribble-conditioned residual encoder U-Net operating on four input channels: CT, PET, and a sparse scribble map for each of foreground and background. The network is initialised f...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.01554v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-01",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2609.01554v1"
+    }
+  ],
+  "authors": [],
+  "paperId": "2609.01554",
+  "category": "cs.CV",
+  "publishedAt": "2026-09-01",
+  "abstract": "Automated lesion segmentation in whole-body PET/CT is complicated by the variety of physiological tracer uptake patterns and by the differing appearance of lesions across tracers. The autoPET/CT V challenge addresses this by making segmentation interactive: user scribbles marking foreground and background are supplied alongside the image, and the algorithm is expected to exploit them. We present our submission, a scribble-conditioned residual encoder U-Net operating on four input channels: CT, PET, and a sparse scribble map for each of foreground and background. The network is initialised f..."
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-00891v1",
+  "name": "CacheBridge: Efficient Cross-Model KV Cache Transfer",
+  "summary": "arXiv:2609.00891v1 Announce Type: new Abstract: Sharing context between LLMs in a multi-model system requires the receiving model to prefill the shared prefix because KV caches are model-specific....",
+  "description": "arXiv:2609.00891v1 Announce Type: new Abstract: Sharing context between LLMs in a multi-model system requires the receiving model to prefill the shared prefix because KV caches are model-specific. Recent closed-form cross-model KV transfer, hereafter Full-Head Mapping, avoids this replay by fitting a training-free affine mapper from source to target caches. However, its full-head design maps ea...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.00891"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.00891"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-02",
+  "expiryAt": "2026-10-02T00:00:00.000Z",
+  "author": "Xingyu Qu, Siyuan Lu, Zhiyu Chen, Sheng Wang, Tao Lin"
+}

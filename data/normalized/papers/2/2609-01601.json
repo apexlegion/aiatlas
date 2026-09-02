@@ -1,0 +1,43 @@
+{
+  "type": "paper",
+  "slug": "2609-01601",
+  "name": "Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation",
+  "summary": "The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories of...",
+  "description": "The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories often exceed the input length limits of LLMs, existing approaches commonly adopt retrieval-augmented generation (RAG) to provide repository-specific context. Despite improving repository-context retrieval, existing methods typically provide context as task-level support, without explicitly identifying the critical tokens that require fine-grained repository context during generation. During the auto...",
+  "tags": [
+    "arxiv",
+    "cs.SE"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.01601v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-01",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.SE.",
+      "href": "https://arxiv.org/abs/2609.01601v1"
+    }
+  ],
+  "authors": [
+    "Kefeng Duan",
+    "Dewu Zheng",
+    "Yanlin Wang",
+    "Terry Yue Zhuo",
+    "Mingwei Liu",
+    "Jianxing Yu",
+    "Jiachi Chen",
+    "Ensheng Shi",
+    "Xilin Liu",
+    "Yuchi Ma",
+    "Zibin Zheng"
+  ],
+  "paperId": "2609.01601",
+  "category": "cs.SE",
+  "publishedAt": "2026-09-01",
+  "abstract": "The repository-level code generation task requires synthesizing code that satisfies task requirements while remaining consistent with the target repository context. Since real-world repositories often exceed the input length limits of LLMs, existing approaches commonly adopt retrieval-augmented generation (RAG) to provide repository-specific context. Despite improving repository-context retrieval, existing methods typically provide context as task-level support, without explicitly identifying the critical tokens that require fine-grained repository context during generation. During the auto..."
+}

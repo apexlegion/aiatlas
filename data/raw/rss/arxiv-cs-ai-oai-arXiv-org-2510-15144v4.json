@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2510.15144v4",
+  "fetchedAt": "2026-09-02T07:02:05.004Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2510.15144v4",
+    "title": "HugAgent: A Human Simulation Benchmark for Individual-Level Reasoning",
+    "link": "https://arxiv.org/abs/2510.15144",
+    "description": "arXiv:2510.15144v4 Announce Type: replace Abstract: Simulating human reasoning in open-ended tasks has long been a central aspiration in AI and cognitive science. While large language models now approximate human responses at scale, they remain tuned to population-level consensus, often erasing the individuality of reasoning styles and belief trajectories. To advance the vision of more human-like reasoning in machines, we introduce HugAgent (HUman-Grounded AGENT Benchmark), which rethinks human reasoning simulation along three dimensions: (i) from averaged to individualized reasoning, (ii) from behavioral mimicry to cognitive alignment, and (iii) from vignette-based to open-ended data. The benchmark evaluates whether a model can predict a specific person's behavioral responses and the underlying reasoning dynamics in out-of-distribution scenarios, given partial evidence of their prior views. HugAgent combines structured questionnaires with semi-structured think-aloud interviews to collect ecologically valid belief states, belief updates, and reasoning traces from human participants. Our experiments reveal a clear asymmetry: models recover a person's belief state from their own context reasonably well, but struggle to predict belief updates under intervention. Cross-person and cross-domain controls trace this gap to associative matching within a topic rather than identity-consistent reasoning, suggesting that progress requires better-calibrated change detection, not simply more context. We scope the benchmark to self-reported belief reasoning in three policy domains: healthcare, surveillance, and zoning. The benchmark, along with its complete data collection pipeline and companion chatbot, is open-sourced as HugAgent (https://github.com/jajamoa/HugAgent) and TraceYourThinking (https://github.com/jajamoa/trace-your-thinking).",
+    "publishedAt": "2026-09-02",
+    "author": "Chance Jiajie Li, Zhenze Mo, Yuhan Tang, Ao Qu, Jiayi Wu, Kaiya Ivy Zhao, Yulu Gan, Jie Fan, Jiangbo Yu, Hang Jiang, Paul Pu Liang, Jinhua Zhao, Luis Alberto Alonso Pastor, Kent Larson",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
