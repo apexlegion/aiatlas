@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2509-23722v3",
+  "name": "OctoPipe: Reducing Pipeline Bubbles for Heterogeneous Models via Co-Optimizing Partitioning, Placement, and Scheduling",
+  "summary": "arXiv:2509.23722v3 Announce Type: replace-cross Abstract: Pipeline parallelism is widely used to train large language models (LLMs). However, increasing heterogeneity in model architectures exacerb...",
+  "description": "arXiv:2509.23722v3 Announce Type: replace-cross Abstract: Pipeline parallelism is widely used to train large language models (LLMs). However, increasing heterogeneity in model architectures exacerbates pipeline bubbles, thereby reducing training efficiency. Prior approaches typically optimize a single phase of the pipeline schedule (i.e., partitioning, placement, or scheduling), leaving substan...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2509.23722"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-03",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2509.23722"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-03",
+  "expiryAt": "2026-10-03T00:00:00.000Z",
+  "author": "Jihu Guo, Tenghui Ma, Wei Gao, Peng Sun, Xun Chen, Jiaxing Li, Zhisheng Ye, Yuyang Jin, Dahua Lin"
+}

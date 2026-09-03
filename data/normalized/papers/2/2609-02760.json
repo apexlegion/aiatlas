@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2609-02760",
+  "name": "Measurement-Driven Sub-Network Selection for On-Premise Retrieval-Augmented Factory Agents",
+  "summary": "On-premise assistants can give factory workers conversational access to machine documentation, but models capable of the task rarely fit shop-floor hardware. We show that after structural compressi...",
+  "description": "On-premise assistants can give factory workers conversational access to machine documentation, but models capable of the task rarely fit shop-floor hardware. We show that after structural compression and retrieval-grounded adaptation, model size is no longer a reliable predictor of adapted answer quality: general capability falls almost linearly with parameter count, while judged retrieval-augmented answer quality does not. We therefore treat deployment as a post-adaptation selection problem, committing one sub-network per device on judged answer quality and measured on-device throughput un...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.02760v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-02",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.02760v1"
+    }
+  ],
+  "authors": [
+    "Vasileios Rizeakos",
+    "Georgios Paisios",
+    "Alexandros Machairas",
+    "Michael Birbas",
+    "Athanasios Bachoumis"
+  ],
+  "paperId": "2609.02760",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-02",
+  "abstract": "On-premise assistants can give factory workers conversational access to machine documentation, but models capable of the task rarely fit shop-floor hardware. We show that after structural compression and retrieval-grounded adaptation, model size is no longer a reliable predictor of adapted answer quality: general capability falls almost linearly with parameter count, while judged retrieval-augmented answer quality does not. We therefore treat deployment as a post-adaptation selection problem, committing one sub-network per device on judged answer quality and measured on-device throughput un..."
+}

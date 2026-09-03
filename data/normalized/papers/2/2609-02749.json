@@ -1,0 +1,43 @@
+{
+  "type": "paper",
+  "slug": "2609-02749",
+  "name": "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills",
+  "summary": "Autonomous agents are beginning to carry out machine-learning (ML) research end to end. These agents combine a model backbone with a harness for planning, execution, memory, and verification, but t...",
+  "description": "Autonomous agents are beginning to carry out machine-learning (ML) research end to end. These agents combine a model backbone with a harness for planning, execution, memory, and verification, but this architecture still leaves domain-specific know-how outside the agent. We call this missing layer operational knowledge, the know-how that separates knowing a method from making it work. That knowledge is not absent from the field. It appears in repositories and papers, but in forms written for human readers and too large to load during a task. Once distilled into compact, verified skills, this...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.02749v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-02",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.02749v1"
+    }
+  ],
+  "authors": [
+    "Jianlyu Chen",
+    "Yuyang Hu",
+    "Hongjin Qian",
+    "Jiawei Liu",
+    "Wenqing Wei",
+    "Xiaolong Chen",
+    "Defu Lian",
+    "Zhicheng Dou",
+    "Chaozhuo Li",
+    "Qiwei Ye",
+    "Zheng Liu"
+  ],
+  "paperId": "2609.02749",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-02",
+  "abstract": "Autonomous agents are beginning to carry out machine-learning (ML) research end to end. These agents combine a model backbone with a harness for planning, execution, memory, and verification, but this architecture still leaves domain-specific know-how outside the agent. We call this missing layer operational knowledge, the know-how that separates knowing a method from making it work. That knowledge is not absent from the field. It appears in repositories and papers, but in forms written for human readers and too large to load during a task. Once distilled into compact, verified skills, this..."
+}

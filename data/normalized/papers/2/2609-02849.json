@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2609-02849",
+  "name": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
+  "summary": "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-t...",
+  "description": "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-end specialization pipeline combining large-scale problem curation, synthetic reasoning traces, supervised fine-tuning (SFT), and reinforcement learning (RL). Using 22,000 curated problems, we train Nemotron-3-Nano-CC (30B-A3B) with SFT and RL and Nemotron-3-Ultra-CC (550B-A55B) with SFT alone. We further introduce GenCorrect, a feedback-driven test-time compute strategy that iteratively generat...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.02849v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-02",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.02849v1"
+    }
+  ],
+  "authors": [
+    "Aleksander Ficek",
+    "Sean Narenthiran",
+    "Mehrzad Samadi",
+    "Somshubra Majumdar",
+    "Boris Ginsburg"
+  ],
+  "paperId": "2609.02849",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-02",
+  "abstract": "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-end specialization pipeline combining large-scale problem curation, synthetic reasoning traces, supervised fine-tuning (SFT), and reinforcement learning (RL). Using 22,000 curated problems, we train Nemotron-3-Nano-CC (30B-A3B) with SFT and RL and Nemotron-3-Ultra-CC (550B-A55B) with SFT alone. We further introduce GenCorrect, a feedback-driven test-time compute strategy that iteratively generat..."
+}
