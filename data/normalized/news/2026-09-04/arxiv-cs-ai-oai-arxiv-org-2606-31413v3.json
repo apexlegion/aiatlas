@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2606-31413v3",
+  "name": "Learning to Select, Not Relearn: Hard-Routed Mixtures of Reasoning LoRAs",
+  "summary": "arXiv:2606.31413v3 Announce Type: replace Abstract: Composing independently trained LoRA adapters into a single large language model is useful for multi-domain adaptation, especially when the origi...",
+  "description": "arXiv:2606.31413v3 Announce Type: replace Abstract: Composing independently trained LoRA adapters into a single large language model is useful for multi-domain adaptation, especially when the original training data cannot be shared. A common approach is to use MoE-style routing over LoRA experts, but for frozen pretrained adapters, soft weighted combinations can change the unit-scale additive u...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2606.31413"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-04",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2606.31413"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-04",
+  "expiryAt": "2026-10-04T00:00:00.000Z",
+  "author": "Seyed Alireza Molavi, Zhan Su, Yan Hu, Peyman Sheikholharam Mashhadi, Stefan Byttner, Prayag Tiwari"
+}

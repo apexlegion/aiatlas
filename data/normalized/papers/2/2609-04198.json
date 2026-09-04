@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2609-04198",
+  "name": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+  "summary": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent...",
+  "description": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model name, reads the same tomorrow. We audited that assumption in two preregistered campaigns with every threshold fixed in advance; neither got past validating its instrument. Across 52,988 audited request attempts, same-window repeat rankings agreed at Spearman 0.400 against a required 0.90, and byte-identical next-day replays agreed at 0.78 against a required 0.99, each time with t...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.04198v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-03",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.04198v1"
+    }
+  ],
+  "authors": [
+    "Haoyaun Zhu",
+    "Jie Zhang"
+  ],
+  "paperId": "2609.04198",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-03",
+  "abstract": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model name, reads the same tomorrow. We audited that assumption in two preregistered campaigns with every threshold fixed in advance; neither got past validating its instrument. Across 52,988 audited request attempts, same-window repeat rankings agreed at Spearman 0.400 against a required 0.90, and byte-identical next-day replays agreed at 0.78 against a required 0.99, each time with t..."
+}

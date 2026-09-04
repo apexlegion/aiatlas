@@ -1,0 +1,45 @@
+{
+  "type": "paper",
+  "slug": "2609-04172",
+  "name": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+  "summary": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of tr...",
+  "description": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal limit by training on a single query. One-shot OPD keeps improving for hundreds of steps and recovers most of full-data OPD's gain across task domains and model families. We explain this result through the states visited during training and the rate at which the student aligns with the teacher. We measure \\emph{state coverage}, the fract...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.04172v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-03",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.04172v1"
+    }
+  ],
+  "authors": [
+    "Zixuan Fu",
+    "Bingxiang He",
+    "Yuxin Zuo",
+    "Haohuan Huang",
+    "Jinqian Zhang",
+    "Ruhang Xiao",
+    "Cheng Qian",
+    "Qinyu Luo",
+    "Huan-ang Gao",
+    "Yudong Wang",
+    "Zhiyuan Liu",
+    "Ning Ding",
+    "Chaojun Xiao"
+  ],
+  "paperId": "2609.04172",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-03",
+  "abstract": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal limit by training on a single query. One-shot OPD keeps improving for hundreds of steps and recovers most of full-data OPD's gain across task domains and model families. We explain this result through the states visited during training and the rate at which the student aligns with the teacher. We measure \\emph{state coverage}, the fract..."
+}

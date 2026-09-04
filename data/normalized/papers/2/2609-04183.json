@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2609-04183",
+  "name": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
+  "summary": "Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxil...",
+  "description": "Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxiliary transition captions via LLM to provide additional vision-language alignment, but these captions lack visual grounding and are rigidly assigned to every inter-event gap at a fixed location and duration. To address these, we propose Seeing Before Synthesizing (SBS), a framework that adaptively provides visually grounded linguistic guidance only where warranted. Leveraging a VLM, we generate fra...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.04183v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-03",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2609.04183v1"
+    }
+  ],
+  "authors": [
+    "Ye-Chan Kim",
+    "Seunghee Choi",
+    "SeungJu Cha",
+    "Si-Woo Kim",
+    "Hwiseon Kim",
+    "Hyungee Kim",
+    "Dong-Jin Kim"
+  ],
+  "paperId": "2609.04183",
+  "category": "cs.CV",
+  "publishedAt": "2026-09-03",
+  "abstract": "Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxiliary transition captions via LLM to provide additional vision-language alignment, but these captions lack visual grounding and are rigidly assigned to every inter-event gap at a fixed location and duration. To address these, we propose Seeing Before Synthesizing (SBS), a framework that adaptively provides visually grounded linguistic guidance only where warranted. Leveraging a VLM, we generate fra..."
+}

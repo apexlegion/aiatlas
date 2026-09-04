@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-03528v1",
+  "name": "LeanGRPO: Eliminating Redundant Recomputation in Diffusion RL",
+  "summary": "arXiv:2609.03528v1 Announce Type: cross Abstract: Diffusion reinforcement learning (RL) has recently achieved significant success in post-training image and video generative models. However, most d...",
+  "description": "arXiv:2609.03528v1 Announce Type: cross Abstract: Diffusion reinforcement learning (RL) has recently achieved significant success in post-training image and video generative models. However, most diffusion RL methods, including DanceGRPO and FlowGRPO, recompute selected timesteps with gradient tracking after rollout. Under on-policy training with the same backend for rollout and update, this re...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.03528"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-04",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.03528"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-04",
+  "expiryAt": "2026-10-04T00:00:00.000Z",
+  "author": "Sijie Wang, Zhiqiang Tan, Xinrui Yang, Shaohuai Shi"
+}

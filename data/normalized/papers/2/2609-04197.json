@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2609-04197",
+  "name": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+  "summary": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three...",
+  "description": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search diversity, and unreliable selection - and propose ESPO (Error-Structured Prompt Optimization), which decomposes prompt optimization into three phases: Diagnose clusters all training errors into structural patterns in one round; Propose generates candidates via four complementary strategies with independent biases; Select applies bootstra...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.04197v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-03",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2609.04197v1"
+    }
+  ],
+  "authors": [
+    "Lihao Liu",
+    "Peng Tang",
+    "Kunwar Yashraj Singh",
+    "Shabnam Ghadar"
+  ],
+  "paperId": "2609.04197",
+  "category": "cs.CL",
+  "publishedAt": "2026-09-03",
+  "abstract": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search diversity, and unreliable selection - and propose ESPO (Error-Structured Prompt Optimization), which decomposes prompt optimization into three phases: Diagnose clusters all training errors into structural patterns in one round; Propose generates candidates via four complementary strategies with independent biases; Select applies bootstra..."
+}

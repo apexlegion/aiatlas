@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.28553v2",
+  "fetchedAt": "2026-09-04T07:09:55.942Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.28553v2",
+    "title": "Refusal Before Decoding: Detecting and Exploiting Refusal Signals in Intermediate LLM Activations",
+    "link": "https://arxiv.org/abs/2605.28553",
+    "description": "arXiv:2605.28553v2 Announce Type: replace Abstract: In this paper, we investigate whether refusal behavior can be predicted from LLM intermediate activations before decoding using linear probes trained on residual stream activations at each transformer block. We find that refusal is linearly decodable well before the final layer, indicating that safety-relevant behavior is represented in intermediate activations before output generation. To test whether this signal is actionable, we introduce Mechanistic AutoDAN, a probe-guided variant of AutoDAN that replaces full-model fitness evaluation with partial forward passes and probe-based scoring inside a genetic prompt search loop. Across the evaluated models, our method achieves attack success rates competitive with vanilla AutoDAN while reducing per-iteration search time by up to 72%, and probe-guided prompts match or exceed AutoDAN's cross-model transfer in several configurations. We further find that the usefulness of probe guidance increases with model scale. Our results suggest that refusal-relevant information is decodable from intermediate activations and can serve as an effective search signal in an AutoDAN-style discrete jailbreak optimization loop, especially for larger and more robust models.",
+    "publishedAt": "2026-09-04",
+    "author": "Matteo Gioele Collu, Riccardo Conte, Alberto Giaretta, Denis Kleyko, Mauro Conti, Matteo Zavatteri, Roberto Confalonieri",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

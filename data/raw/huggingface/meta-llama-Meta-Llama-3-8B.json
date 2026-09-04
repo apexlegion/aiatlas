@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "meta-llama/Meta-Llama-3-8B",
-  "fetchedAt": "2026-09-03T07:05:48.826Z",
+  "fetchedAt": "2026-09-04T07:09:53.670Z",
   "data": {
     "_id": "661f97d48e7f3438386f755d",
     "id": "meta-llama/Meta-Llama-3-8B",
@@ -25,8 +25,8 @@
       "deploy:sagemaker",
       "region:us"
     ],
-    "downloads": 527849,
-    "likes": 6640,
+    "downloads": 421235,
+    "likes": 6643,
     "modelId": "meta-llama/Meta-Llama-3-8B",
     "author": "meta-llama",
     "sha": "8cde5ca8380496c9a6cc7ef3a8b46a0372a1d920",
@@ -35,16 +35,16 @@
     "disabled": false,
     "widgetData": [
       {
-        "text": "My name is Julien and I like to"
+        "text": "Hi, what can you help me with?"
       },
       {
-        "text": "I like traveling by train because"
+        "text": "What is 84 * 3 / 2?"
       },
       {
-        "text": "Paris is an amazing place to visit,"
+        "text": "Tell me an interesting fact about the universe!"
       },
       {
-        "text": "Once upon a time,"
+        "text": "Explain quantum computing in simple terms."
       }
     ],
     "model-index": null,
@@ -146,6 +146,7 @@
     "spaces": [
       "VIDraft/global-llm-leaderboard",
       "eduagarcia/multilingual-tokenizer-leaderboard",
+      "EuroEval/euroeval_leaderboard",
       "featherless-ai/try-this-model",
       "eduagarcia/open_pt_llm_leaderboard",
       "mlabonne/AutoMerger",
@@ -167,7 +168,6 @@
       "chiayewken/multimodal-longdoc-qwen2-vl",
       "lucalp/blt-entropy-patcher",
       "perctrix/AI-Lawyer",
-      "EuroEval/euroeval_leaderboard",
       "edison1/meta-llama-Meta-Llama-3-8B",
       "medmekk/TorchAO_Quantization",
       "Granther/try-this-model",

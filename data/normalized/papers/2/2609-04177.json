@@ -1,0 +1,42 @@
+{
+  "type": "paper",
+  "slug": "2609-04177",
+  "name": "A Computationally Feasible Framework for Causal Probabilistic Explanation",
+  "summary": "Explaining why a specific outcome occurred, and which inputs deserve the blame or credit, is central to philosophical, scientific, and policy analysis. Existing tools split into two camps. The theo...",
+  "description": "Explaining why a specific outcome occurred, and which inputs deserve the blame or credit, is central to philosophical, scientific, and policy analysis. Existing tools split into two camps. The theory of actual causality (AC) gives principled verdicts, but only for toy-sized models, because computing them requires enumerating counterfactual scenarios. Scalable attribution methods like SHAP (or even causal SHAP) at least partially ignore the causal structure that generated the data, and can give answers that conflict with a careful causal analysis. We close this gap with Probabilistic Causal...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.04177v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-03",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.04177v1"
+    }
+  ],
+  "authors": [
+    "Rafal Urbaniak",
+    "Sam Witty",
+    "Daniel Waxman",
+    "Andy Zane",
+    "Poorva Garg",
+    "Emily Bunnapradist",
+    "Sankaran Vaidyanathan",
+    "Jack Feser",
+    "Drew Lehe",
+    "Eli Bingham"
+  ],
+  "paperId": "2609.04177",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-03",
+  "abstract": "Explaining why a specific outcome occurred, and which inputs deserve the blame or credit, is central to philosophical, scientific, and policy analysis. Existing tools split into two camps. The theory of actual causality (AC) gives principled verdicts, but only for toy-sized models, because computing them requires enumerating counterfactual scenarios. Scalable attribution methods like SHAP (or even causal SHAP) at least partially ignore the causal structure that generated the data, and can give answers that conflict with a careful causal analysis. We close this gap with Probabilistic Causal..."
+}

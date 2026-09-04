@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-03966v1",
+  "name": "Interface-Induced Trajectory Censoring",
+  "summary": "arXiv:2609.03966v1 Announce Type: new Abstract: Agent evaluations report a tool-call rate read off the serving stack. That number can be zero while the model is emitting well-formed calls: the inte...",
+  "description": "arXiv:2609.03966v1 Announce Type: new Abstract: Agent evaluations report a tool-call rate read off the serving stack. That number can be zero while the model is emitting well-formed calls: the interface censors the trajectory before anything downstream sees it. On BFCL v4's own data, executor and scorer, holding weights, cases, decoding and seeds fixed and changing only the serving adapter, the...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.03966"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-04",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.03966"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-04",
+  "expiryAt": "2026-10-04T00:00:00.000Z",
+  "author": "Wenbo Wang"
+}

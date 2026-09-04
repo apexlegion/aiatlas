@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-03236v1",
+  "name": "Speculative Macro Commit for Faster Tool-Using Agents",
+  "summary": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environme...",
+  "description": "arXiv:2609.03236v1 Announce Type: new Abstract: Tool-using LLM agents spend wall-clock time not only on model inference but also in serial action--observation turns, where each tool call, environment transition, and observation can delay subsequent decisions. We introduce \\textbf{Speculative Macro Commit} (SMC), a runtime mechanism for a two-tier agent system: a large authoritative actor model...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.03236"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-04",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.03236"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-04",
+  "expiryAt": "2026-10-04T00:00:00.000Z",
+  "author": "Zeyu Liu, Souvik Kundu, Peter A. Beerel"
+}

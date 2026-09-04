@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2602-01207v2",
+  "name": "Not All Preferences Deserve Gradients: Understanding Gradient Utility in Offline Reasoning Alignment",
+  "summary": "arXiv:2602.01207v2 Announce Type: replace Abstract: Offline preference optimization aligns reasoning models from fixed chosen--rejected pairs, yet standard methods apply gradient updates from every...",
+  "description": "arXiv:2602.01207v2 Announce Type: replace Abstract: Offline preference optimization aligns reasoning models from fixed chosen--rejected pairs, yet standard methods apply gradient updates from every pair regardless of its training value under the current policy. We argue that this uniform treatment is wasteful and potentially harmful. From the perspective of gradient utility, we show that a pair...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2602.01207"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-04",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2602.01207"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-04",
+  "expiryAt": "2026-10-04T00:00:00.000Z",
+  "author": "Hui Wu, Hengyi Cai, Jinman Zhao, Xinran Chen, Ziheng Li, Zhejun Zhao, Shuaiqiang Wang, Yuchen Li, Dawei Yin"
+}

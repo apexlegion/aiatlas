@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "mistralai/Mistral-7B-v0.1",
-  "fetchedAt": "2026-09-03T07:05:49.063Z",
+  "fetchedAt": "2026-09-04T07:09:53.907Z",
   "data": {
     "_id": "650aedb6238a644cb93a52c3",
     "id": "mistralai/Mistral-7B-v0.1",
@@ -23,8 +23,8 @@
       "text-generation-inference",
       "region:us"
     ],
-    "downloads": 249347,
-    "likes": 4151,
+    "downloads": 245718,
+    "likes": 4150,
     "modelId": "mistralai/Mistral-7B-v0.1",
     "author": "mistralai",
     "sha": "27d67f1b5f57dc0953326b2601d68371d40ea8da",
@@ -33,16 +33,16 @@
     "disabled": false,
     "widgetData": [
       {
-        "text": "My name is Julien and I like to"
+        "text": "Hi, what can you help me with?"
       },
       {
-        "text": "I like traveling by train because"
+        "text": "What is 84 * 3 / 2?"
       },
       {
-        "text": "Paris is an amazing place to visit,"
+        "text": "Tell me an interesting fact about the universe!"
       },
       {
-        "text": "Once upon a time,"
+        "text": "Explain quantum computing in simple terms."
       }
     ],
     "model-index": null,
@@ -123,6 +123,7 @@
     ],
     "spaces": [
       "overhead520/LLM-Settings-Guide",
+      "EuroEval/euroeval_leaderboard",
       "Vokturz/can-it-run-llm",
       "eduagarcia/open_pt_llm_leaderboard",
       "3DTopia/3DGen-Arena",
@@ -152,7 +153,6 @@
       "Aabbhishekk/MistralQnA",
       "Olivier-Truong/mistral-7b-chat",
       "yhavinga/dutch-tokenizer-arena",
-      "EuroEval/euroeval_leaderboard",
       "pseudolab/MistralMED_Chat",
       "pseudolab/GaiaMiniMed",
       "ali-vilab/IDEA-Bench-Arena",

@@ -1,0 +1,44 @@
+{
+  "type": "paper",
+  "slug": "2609-04128",
+  "name": "Environment Evolution for Terminal Agents",
+  "summary": "Scaling interactive and verifiable environments is critical for training terminal agents. As frontier models become more capable, environments synthesized from scratch become less challenging and t...",
+  "description": "Scaling interactive and verifiable environments is critical for training terminal agents. As frontier models become more capable, environments synthesized from scratch become less challenging and thus provide limited learning signals. Recent co-evolution methods iteratively synthesize environments near the model's learnable frontier based on weaknesses exposed during rollouts. However, their dependence on on-policy rollouts limits generalization and the continuous provision of learning signals as the model becomes stronger. In this paper, we propose environment evolution, which incrementall...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.04128v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-03",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.04128v1"
+    }
+  ],
+  "authors": [
+    "Zhiyuan Fan",
+    "Tinghao Yu",
+    "Yuanjun Cai",
+    "Jiang Zhou",
+    "Jiangtao Guan",
+    "Jincheng Liu",
+    "Yun Yang",
+    "Dingxin Hu",
+    "Zhuo Han",
+    "Xing Wu",
+    "Feng Zhang",
+    "Lilin Wang"
+  ],
+  "paperId": "2609.04128",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-03",
+  "abstract": "Scaling interactive and verifiable environments is critical for training terminal agents. As frontier models become more capable, environments synthesized from scratch become less challenging and thus provide limited learning signals. Recent co-evolution methods iteratively synthesize environments near the model's learnable frontier based on weaknesses exposed during rollouts. However, their dependence on on-policy rollouts limits generalization and the continuous provision of learning signals as the model becomes stronger. In this paper, we propose environment evolution, which incrementall..."
+}

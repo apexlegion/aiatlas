@@ -1,0 +1,46 @@
+{
+  "type": "paper",
+  "slug": "2609-04148",
+  "name": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+  "summary": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-train...",
+  "description": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedback, whereas a trajectory is a single frozen demonstration. Rather than generating environments from scratch, we observe that the tool-execution history in existing trajectories exposes the structure and contents of the environments in which they ran, making it possible to reconstruct those environ...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.04148v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-03",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.04148v1"
+    }
+  ],
+  "authors": [
+    "Jie Wu",
+    "Zhenru Zhang",
+    "Beichen Zhang",
+    "Xuwu Wang",
+    "Yuhui Su",
+    "Mouxiang Chen",
+    "Peng Wang",
+    "Zhihai Wang",
+    "Que Shen",
+    "Hao Zhou",
+    "An Yang",
+    "Fei Huang",
+    "Yujiu Yang",
+    "Dayiheng Liu"
+  ],
+  "paperId": "2609.04148",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-03",
+  "abstract": "As terminal-based code agents become prevalent, agent trajectories have accumulated at scale, while realistic, executable environments remain scarce. However, environments are what agent post-training actually requires: each can be re-queried into many verifiable tasks and provides execution feedback, whereas a trajectory is a single frozen demonstration. Rather than generating environments from scratch, we observe that the tool-execution history in existing trajectories exposes the structure and contents of the environments in which they ran, making it possible to reconstruct those environ..."
+}

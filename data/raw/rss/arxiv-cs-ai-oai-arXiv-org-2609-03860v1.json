@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.03860v1",
+  "fetchedAt": "2026-09-04T07:09:55.942Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.03860v1",
+    "title": "Adapting to Evolving Requirements: Agentic AI for Retail Supply Chain Operations",
+    "link": "https://arxiv.org/abs/2609.03860",
+    "description": "arXiv:2609.03860v1 Announce Type: new Abstract: Retail supply chain operations rely on coupled decision modules that must adapt as requirements evolve. LLMs offer a natural-language interface for this task, but existing methods primarily focus on individual optimization models. Extending them to heterogeneous decision pipelines is challenging because a requirement may admit multiple intervention paths with different downstream effects. We formulate requirement-driven adaptation as the joint selection of an intervention route and an admissible module-level change, and propose a graph-constrained agentic framework in which domain agents expose admissible reformulation interfaces and a central processor searches over bounded intervention paths. Candidates are validated and compared using downstream KPIs. In collaboration with a large retail partner, we evaluate 100 warehouse requirements elicited from practitioner interviews, with GPT, Qwen, and DeepSeek as base LLMs. Relative to direct LLM reformulation, our framework improves correctness and end-to-end success across all three models, raising end-to-end success from 72--76% to 79--83%.",
+    "publishedAt": "2026-09-04",
+    "author": "Lei Zheng, Liping Yang, Zihao Li, Guodong Lyu, Chaik Ming Koh, Chung-Piaw Teo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
