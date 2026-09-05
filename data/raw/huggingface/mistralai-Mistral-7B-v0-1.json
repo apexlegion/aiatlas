@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "mistralai/Mistral-7B-v0.1",
-  "fetchedAt": "2026-09-04T07:09:53.907Z",
+  "fetchedAt": "2026-09-05T06:52:54.034Z",
   "data": {
     "_id": "650aedb6238a644cb93a52c3",
     "id": "mistralai/Mistral-7B-v0.1",
@@ -23,7 +23,7 @@
       "text-generation-inference",
       "region:us"
     ],
-    "downloads": 245718,
+    "downloads": 249320,
     "likes": 4150,
     "modelId": "mistralai/Mistral-7B-v0.1",
     "author": "mistralai",
@@ -124,6 +124,7 @@
     "spaces": [
       "overhead520/LLM-Settings-Guide",
       "EuroEval/euroeval_leaderboard",
+      "seawolf2357/LLM_Quantization",
       "Vokturz/can-it-run-llm",
       "eduagarcia/open_pt_llm_leaderboard",
       "3DTopia/3DGen-Arena",
@@ -161,7 +162,6 @@
       "pseudolab/MiniMed_EHR_Analyst",
       "awacke1/Deepseek-HPC-GPU-KEDA",
       "CATIE-AQ/Guide_Evaluation_LLM",
-      "seawolf2357/LLM_Quantization",
       "rishiraj/dataset-chat-template",
       "HemaAM/GPT_train_on_LLaMa",
       "anantgupta129/LitGPT-Pythia-160M",
@@ -230,7 +230,6 @@
       },
       "total": 7241732096
     },
-    "inference": "warm",
     "usedStorage": 44007786287
   }
 }
