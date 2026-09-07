@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.21547v2",
+  "fetchedAt": "2026-09-07T07:15:05.028Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.21547v2",
+    "title": "Multi-Modal Time Series Prediction via Mixture of Modulated Experts",
+    "link": "https://arxiv.org/abs/2601.21547",
+    "description": "arXiv:2601.21547v2 Announce Type: replace-cross Abstract: Real-world time series exhibit complex and evolving dynamics, making accurate forecasting extremely challenging. Recent multi-modal forecasting methods leverage textual information such as news reports to improve prediction, but most rely on token-level fusion that mixes temporal patches with language tokens in a shared embedding space. However, such fusion can be ill-suited when high-quality time-text pairs are scarce and when time series exhibit substantial variation in characteristics, thus complicating cross-modal alignment. In parallel, mixture-of-experts (MoE) architectures have proven effective for both time series modeling and multi-modal learning, yet many existing MoE-based modality integration methods still depend on token-level fusion. To address this, we propose Expert Modulation, a new mechanism for multi-modal time series prediction that conditions both routing and expert computation on textual signals, enabling direct and efficient cross-modal control over expert behavior. Through theoretical analysis and experiments, our proposed method demonstrates strong improvements in multi-modal time series prediction. The current code implementation is available at https://github.com/BruceZhangReve/MoME",
+    "publishedAt": "2026-09-07",
+    "author": "Lige Zhang, Ali Maatouk, Jialin Chen, Karthik Charan Konduri, Leandros Tassiulas, Rex Ying",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

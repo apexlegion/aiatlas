@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.07885v3",
+  "fetchedAt": "2026-09-07T07:15:05.028Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.07885v3",
+    "title": "MemCoRe: Recovering Evidence from Progressively Compressed Factual Knowledge for Agent Memory",
+    "link": "https://arxiv.org/abs/2602.07885",
+    "description": "arXiv:2602.07885v3 Announce Type: replace Abstract: Memory systems enable LLM agents to consolidate and retrieve relevant evidence from the factual knowledge accumulated through growing interaction histories for downstream reasoning. Existing approaches have explored diverse strategies for organizing and compressing these histories. However, balancing compression with retrieval effectiveness remains challenging: retaining too much content can cause relevant evidence to be obscured by redundant entries, while discarding too aggressively may remove content that later proves relevant. This amounts to a tradeoff between compressing redundancy and preserving enough structure to retrieve target evidence, as formalized by the information bottleneck. To this end, we propose MemCoRe, which organizes memory as a compression hierarchy where each level compresses redundancy further while retaining the structure needed for retrieval at that level. In this hierarchy, evidence is progressively compressed from detailed records through extracted keywords to topic groups. This enables retrieval to locate target evidence by searching across levels of the hierarchy. Comprehensive experiments demonstrate that MemCoRe outperforms existing state-of-the-art baselines.",
+    "publishedAt": "2026-09-07",
+    "author": "Zhenyuan Zhang, Xianzhang Jia, Zhiqin Yang, Zhenbo Song, Wei Xue, Sirui Han, Yike Guo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

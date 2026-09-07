@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-09-06T07:03:24.493Z",
+  "fetchedAt": "2026-09-07T07:15:03.002Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 5131503,
-    "likes": 6242,
+    "downloads": 5029688,
+    "likes": 6248,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -356,7 +356,6 @@
       "microsoft/paza-bench",
       "phinam112/OmniVoice-Studio",
       "eduagarcia/multilingual-tokenizer-leaderboard",
-      "ysharma/gr-workflow-microduck-lab",
       "sanchit-gandhi/whisper-jax-spaces",
       "OpenSound/CapSpeech-TTS",
       "Illia56/Ask-AI-Youtube",
@@ -445,7 +444,8 @@
       "Taranosaurus/Tokenizaminer",
       "AilexGPT/YTwhisper_GPT",
       "pythonitalia/realtime-transcription",
-      "haoxiong693/openai-whisper-large-v3"
+      "haoxiong693/openai-whisper-large-v3",
+      "SahilJ2/VQA_Model"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-23873v3",
+  "name": "Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors",
+  "summary": "arXiv:2608.23873v3 Announce Type: replace Abstract: Everything a language model sees is tokens. The serving stack knows what each span is -- user input, tool output, instructions -- but the model m...",
+  "description": "arXiv:2608.23873v3 Announce Type: replace Abstract: Everything a language model sees is tokens. The serving stack knows what each span is -- user input, tool output, instructions -- but the model must keep track of that itself, and can lose track or be confused: text can be written to read like anything. Prompt injection is a natural exploit of this phenomenon. By scrambling the model's underst...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.23873"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-07",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.23873"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-07",
+  "expiryAt": "2026-10-07T00:00:00.000Z",
+  "author": "Joshua Penman"
+}

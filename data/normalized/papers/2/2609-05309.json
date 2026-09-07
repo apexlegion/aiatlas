@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2609-05309",
+  "name": "How Does mHC Use Its Residual Streams? Selective Routing and Near-Identity Mixing",
+  "summary": "Hyper-Connections and their manifold-constrained variant mHC widen a residual pathway from one stream to n, yet how trained models use this capacity remains unclear: how broadly blocks read and wri...",
+  "description": "Hyper-Connections and their manifold-constrained variant mHC widen a residual pathway from one stream to n, yet how trained models use this capacity remains unclear: how broadly blocks read and write, how strongly the residual pathway mixes streams, and whether the streams carry distinct representations. We examine these properties in the four-stream residual pathway of DeepSeek-V4-Flash using effective stream counts, cross-stream residual weights, and inter-stream cosine similarity. Read/write routing is concentrated but varies across depth: a typical attention or FFN site effectively uses...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.05309v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-04",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.05309v1"
+    }
+  ],
+  "authors": [
+    "Pengxiang Zhao",
+    "Xing Li",
+    "Xianzhi Yu",
+    "Wei Guo",
+    "Zhenhua Dong"
+  ],
+  "paperId": "2609.05309",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-04",
+  "abstract": "Hyper-Connections and their manifold-constrained variant mHC widen a residual pathway from one stream to n, yet how trained models use this capacity remains unclear: how broadly blocks read and write, how strongly the residual pathway mixes streams, and whether the streams carry distinct representations. We examine these properties in the four-stream residual pathway of DeepSeek-V4-Flash using effective stream counts, cross-stream residual weights, and inter-stream cosine similarity. Read/write routing is concentrated but varies across depth: a typical attention or FFN site effectively uses..."
+}

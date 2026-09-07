@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.05623v2",
+  "fetchedAt": "2026-09-07T07:15:05.028Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.05623v2",
+    "title": "Post Fusion Bird's Eye View Feature Stabilization for Robust Multimodal 3D Detection",
+    "link": "https://arxiv.org/abs/2603.05623",
+    "description": "arXiv:2603.05623v2 Announce Type: replace-cross Abstract: Camera-LiDAR fusion is widely used in autonomous driving to enable accurate 3D object detection. However, bird's-eye view (BEV) fusion detectors can degrade significantly under domain shift and sensor failures, limiting reliability in real-world deployment. Existing robustness approaches often require modifying the fusion architecture or retraining specialized models, making them difficult to integrate into already deployed systems. We propose a Post Fusion Stabilizer (PFS), a lightweight module that operates on intermediate BEV representations of existing detectors and produces a refined feature map for the original detection head. The design stabilizes feature statistics under domain shift, suppresses spatial regions affected by sensor degradation, and adaptively restores weakened cues through residual correction. Designed as a near-identity transformation, PFS preserves performance while improving robustness under diverse camera and LiDAR corruptions. Evaluations on the nuScenes benchmark demonstrate that PFS achieves state-of-the-art results in several failure modes, notably improving camera dropout robustness by +1.2% and low-light performance by +4.4% mAP while maintaining a lightweight footprint of only 3.3 M parameters.",
+    "publishedAt": "2026-09-07",
+    "author": "Trung Tien Dong, Dev Thakkar, Arman Sargolzaei, Xiaomin Lin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

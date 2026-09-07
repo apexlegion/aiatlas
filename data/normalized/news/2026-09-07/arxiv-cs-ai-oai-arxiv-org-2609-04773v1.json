@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-04773v1",
+  "name": "Persistent Teacher Anchoring for Tool-Using Agents",
+  "summary": "arXiv:2609.04773v1 Announce Type: cross Abstract: Distillation is common in LLM post-training, where on-policy knowledge distillation (OPKD) uses student-generated trajectories to prepare the stude...",
+  "description": "arXiv:2609.04773v1 Announce Type: cross Abstract: Distillation is common in LLM post-training, where on-policy knowledge distillation (OPKD) uses student-generated trajectories to prepare the student for downstream RL. At each state, the student matches a next-token distribution supplied by the teacher. As the rollout enters states the teacher would not visit, the teacher-student distribution g...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.04773"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-07",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.04773"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-07",
+  "expiryAt": "2026-10-07T00:00:00.000Z",
+  "author": "Hyun Bin Park (Sogang University), Kyungho Song (University of Michigan, Ann Arbor), Sangmin Lee (Sogang University), Du-Seong Chang (Sogang University)"
+}

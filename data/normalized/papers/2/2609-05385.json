@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2609-05385",
+  "name": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence",
+  "summary": "LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monito...",
+  "description": "LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monitor a system, diagnose errors, or decide when to escalate an output. Such use assumes that the explanations agree with the component's observable decision behaviour. We test two interpretations of the named factors: necessity, meaning that changing a factor would change the output, and sufficiency, meaning that retaining it while removing other changeable information would preserve the output. We ev...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.05385v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-04",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.05385v1"
+    }
+  ],
+  "authors": [
+    "Urja Pawar",
+    "Rajitha Ramanayake",
+    "Nabeel Kemal",
+    "Ashwin Kandath",
+    "Owen O'Neill",
+    "Guillaume Bourgeon",
+    "Houssem Chatbri"
+  ],
+  "paperId": "2609.05385",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-04",
+  "abstract": "LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monitor a system, diagnose errors, or decide when to escalate an output. Such use assumes that the explanations agree with the component's observable decision behaviour. We test two interpretations of the named factors: necessity, meaning that changing a factor would change the output, and sufficiency, meaning that retaining it while removing other changeable information would preserve the output. We ev..."
+}

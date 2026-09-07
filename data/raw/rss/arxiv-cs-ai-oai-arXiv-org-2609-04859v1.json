@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.04859v1",
+  "fetchedAt": "2026-09-07T07:15:05.028Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.04859v1",
+    "title": "MM-IFEval-Pro: A Multilingual and Attack-Resistant Benchmark for Instruction-Following in Vision-Language Models",
+    "link": "https://arxiv.org/abs/2609.04859",
+    "description": "arXiv:2609.04859v1 Announce Type: new Abstract: As vision-language models (VLMs) rapidly advance in image understanding, cross-modal reasoning, and complex instruction execution, instruction-following capability has become a key indicator of their reliability and practicality. However, existing multimodal instruction-following benchmarks still suffer from limited language coverage and insufficient adversarial safety scenarios, making them inadequate for evaluating real-world multilingual and safety-sensitive settings. To address these gaps, we present MM-IFEval-Pro, a multimodal instruction-following benchmark covering Chinese and English tasks as well as diverse instruction hijacking cases. MM-IFEval-Pro includes 4 major task categories and 24 subcategories and 8 instruction categories with 52 subcategories, with each sample containing an average of 3.0 constraints to realistically simulate complex instruction scenarios. We further construct a reinforcement-learning training set enriched with Chinese and adversarial instructions, which significantly improves model performance on MM-IFEval-Pro and transfers effectively to other mainstream multimodal benchmarks, demonstrating strong cross-task and cross-language generalization.",
+    "publishedAt": "2026-09-07",
+    "author": "Changming Xiao, Zhenliang Ni, Jinhui He, Han Shu, Jie Hu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

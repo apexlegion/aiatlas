@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-05275v1",
+  "name": "Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference",
+  "summary": "arXiv:2609.05275v1 Announce Type: new Abstract: Layer dropout (a.k.a. stochastic depth) has been shown to enable faster training, higher accuracy, and robustness to zero-shot layer pruning in both...",
+  "description": "arXiv:2609.05275v1 Announce Type: new Abstract: Layer dropout (a.k.a. stochastic depth) has been shown to enable faster training, higher accuracy, and robustness to zero-shot layer pruning in both language and vision transformers. However, as models and datasets have scaled, dropout - particularly layer dropout - has largely disappeared from large language models (LLMs) pre-training recipes. Wh...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.05275"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-07",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.05275"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-07",
+  "expiryAt": "2026-10-07T00:00:00.000Z",
+  "author": "Mostafa Elhoushi, Alex Pretko, Nolan Dey, Bin Claire Zhang, Gavia Gray, Gurpreet Gosal, Abdulrahman Mahmoud, Shane Bergsma, Joel Hestness"
+}

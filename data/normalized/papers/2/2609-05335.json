@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2609-05335",
+  "name": "The History Is the Detector: Executing CVE Patch History, End-to-End",
+  "summary": "Public vulnerability databases collect rich information about known software flaws, including their weakness types, affected components, and related patches. Fixing commits provide the exact code c...",
+  "description": "Public vulnerability databases collect rich information about known software flaws, including their weakness types, affected components, and related patches. Fixing commits provide the exact code changes that removed these flaws. While these records capture why the original code was unsafe, they are documented mainly for human inspection rather than automated reuse. Consequently, the same unsafe conditions may still exist elsewhere in code without a known advisory, leaving much of this detection knowledge unused. We present BUGSTONE-E2E, a framework that transforms vulnerability history int...",
+  "tags": [
+    "arxiv",
+    "cs.CR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.05335v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-04",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CR.",
+      "href": "https://arxiv.org/abs/2609.05335v1"
+    }
+  ],
+  "authors": [
+    "Qiushi Wu",
+    "Kevin Eykholt",
+    "Youngja Park",
+    "Xiaokui Shu",
+    "Dhilung Kirat",
+    "Douglas Lee Schales",
+    "Ian Molloy"
+  ],
+  "paperId": "2609.05335",
+  "category": "cs.CR",
+  "publishedAt": "2026-09-04",
+  "abstract": "Public vulnerability databases collect rich information about known software flaws, including their weakness types, affected components, and related patches. Fixing commits provide the exact code changes that removed these flaws. While these records capture why the original code was unsafe, they are documented mainly for human inspection rather than automated reuse. Consequently, the same unsafe conditions may still exist elsewhere in code without a known advisory, leaving much of this detection knowledge unused. We present BUGSTONE-E2E, a framework that transforms vulnerability history int..."
+}

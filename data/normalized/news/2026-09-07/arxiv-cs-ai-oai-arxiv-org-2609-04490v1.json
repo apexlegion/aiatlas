@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-04490v1",
+  "name": "When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Temporal Inference",
+  "summary": "arXiv:2609.04490v1 Announce Type: new Abstract: Quantization is widely used to reduce the computational and memory demands of neural-network inference. In recurrent networks, however, the quantized...",
+  "description": "arXiv:2609.04490v1 Announce Type: new Abstract: Quantization is widely used to reduce the computational and memory demands of neural-network inference. In recurrent networks, however, the quantized state is stored and returned at the next time step, so the rule used to store that state can alter subsequent computations. Here, we introduce recurrent-state write-back to denote this rule and isola...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.04490"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-07",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.04490"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-07",
+  "expiryAt": "2026-10-07T00:00:00.000Z",
+  "author": "Ismail Erbas, Xavier Intes, Vikas Pandey"
+}

@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2609-05333",
+  "name": "Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer Language Models",
+  "summary": "A transformer language model assigns a single, context-independent vector to a word type at its embedding layer, yet is widely believed to individuate that word's occurrences by context in its late...",
+  "description": "A transformer language model assigns a single, context-independent vector to a word type at its embedding layer, yet is widely believed to individuate that word's occurrences by context in its later layers. Testing this belief cleanly requires a construct that holds the word form fixed while its context and intended sense vary in a controlled, labeled way. This manual documents an open toolkit built around such a construct, which we call a bridge form: a single written word that recurs, unchanged, across two or more subject domains with a different sense in each. We describe, and justify, e...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.05333v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-04",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.05333v1"
+    }
+  ],
+  "authors": [
+    "José Luciano Verçosa Marques",
+    "Frederico Jorge Heitmann",
+    "Daniel Omar Perez",
+    "Marcelo Vinicius de Paula",
+    "Tárcio André dos Santos Barros"
+  ],
+  "paperId": "2609.05333",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-04",
+  "abstract": "A transformer language model assigns a single, context-independent vector to a word type at its embedding layer, yet is widely believed to individuate that word's occurrences by context in its later layers. Testing this belief cleanly requires a construct that holds the word form fixed while its context and intended sense vary in a controlled, labeled way. This manual documents an open toolkit built around such a construct, which we call a bridge form: a single written word that recurs, unchanged, across two or more subject domains with a different sense in each. We describe, and justify, e..."
+}

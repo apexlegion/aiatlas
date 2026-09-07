@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2609-05381",
+  "name": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models",
+  "summary": "Large language models (LLMs) are increasingly evaluated on molecular property benchmarks, but accuracy cannot distinguish a model that predicts a property from one that retrieves a published number...",
+  "description": "Large language models (LLMs) are increasingly evaluated on molecular property benchmarks, but accuracy cannot distinguish a model that predicts a property from one that retrieves a published number. We audit 22 frontier models on 12 regression benchmarks for verbatim retrieval and find that it is widespread but relatively benchmark-specific: on five datasets more than $50\\%$ of the LLMs show verbatim retrieval, while on the remaining datasets it appears only in isolated cells. We run our experiments at two reasoning levels and find that reasoning changes retrieval. The same experiments, on...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.05381v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-04",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.05381v1"
+    }
+  ],
+  "authors": [
+    "Matthias Busch",
+    "Marius Tacke",
+    "Sviatlana V. Lamaka",
+    "Mikhail L. Zheludkevich",
+    "Christian J. Cyron",
+    "Roland C. Aydin",
+    "Christian Feiler"
+  ],
+  "paperId": "2609.05381",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-04",
+  "abstract": "Large language models (LLMs) are increasingly evaluated on molecular property benchmarks, but accuracy cannot distinguish a model that predicts a property from one that retrieves a published number. We audit 22 frontier models on 12 regression benchmarks for verbatim retrieval and find that it is widespread but relatively benchmark-specific: on five datasets more than $50\\%$ of the LLMs show verbatim retrieval, while on the remaining datasets it appears only in isolated cells. We run our experiments at two reasoning levels and find that reasoning changes retrieval. The same experiments, on..."
+}

@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2609-05403",
+  "name": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
+  "summary": "Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-pres...",
+  "description": "Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserving training and model personalization. Federated learning offers a natural solution for privacy, but standard FL methods produce global models that sacrifice regional performance, while existing personalized FL approaches operate at the parameter level and catastrophically collapse on modern transformers (below 10\\% accuracy on T5) due to tied embeddings and LayerNorm interactions. We introduc...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.05403v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-04",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.05403v1"
+    }
+  ],
+  "authors": [
+    "Quoc H. Nguyen",
+    "Ali Lafzi",
+    "Abhijeet Phatak",
+    "Siddharth Pratap Singh",
+    "Rohit Upadhyay",
+    "Yogananda Domlur Seetharama",
+    "Chittaranjan Tripathy"
+  ],
+  "paperId": "2609.05403",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-04",
+  "abstract": "Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserving training and model personalization. Federated learning offers a natural solution for privacy, but standard FL methods produce global models that sacrifice regional performance, while existing personalized FL approaches operate at the parameter level and catastrophically collapse on modern transformers (below 10\\% accuracy on T5) due to tied embeddings and LayerNorm interactions. We introduc..."
+}
