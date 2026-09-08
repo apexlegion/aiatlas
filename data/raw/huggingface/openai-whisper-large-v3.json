@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-09-07T07:15:03.002Z",
+  "fetchedAt": "2026-09-08T07:10:30.297Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -125,7 +125,7 @@
       "region:us"
     ],
     "downloads": 5029688,
-    "likes": 6248,
+    "likes": 6250,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -348,14 +348,15 @@
     "spaces": [
       "mteb/leaderboard",
       "openai/whisper",
-      "artificialguybr/video-dubbing",
-      "elmresearchcenter/open_universal_arabic_asr_leaderboard",
-      "hf-audio/whisper-large-v3",
-      "artificialguybr/Video-Transcription-Smart-Summary",
-      "treble-technologies/ffasr",
-      "microsoft/paza-bench",
       "phinam112/OmniVoice-Studio",
       "eduagarcia/multilingual-tokenizer-leaderboard",
+      "artificialguybr/video-dubbing",
+      "elmresearchcenter/open_universal_arabic_asr_leaderboard",
+      "treble-technologies/ffasr",
+      "microsoft/paza-bench",
+      "rvguha/HFNLWebDemo",
+      "hf-audio/whisper-large-v3",
+      "artificialguybr/Video-Transcription-Smart-Summary",
       "sanchit-gandhi/whisper-jax-spaces",
       "OpenSound/CapSpeech-TTS",
       "Illia56/Ask-AI-Youtube",
@@ -444,8 +445,7 @@
       "Taranosaurus/Tokenizaminer",
       "AilexGPT/YTwhisper_GPT",
       "pythonitalia/realtime-transcription",
-      "haoxiong693/openai-whisper-large-v3",
-      "SahilJ2/VQA_Model"
+      "haoxiong693/openai-whisper-large-v3"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {
