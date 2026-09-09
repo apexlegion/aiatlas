@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2609-09090",
+  "name": "Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
+  "summary": "Large language models (LLMs) may abandon correct positions when users push back, exhibiting a failure mode known as sycophancy. Existing evaluations typically use short, pre-specified conversations...",
+  "description": "Large language models (LLMs) may abandon correct positions when users push back, exhibiting a failure mode known as sycophancy. Existing evaluations typically use short, pre-specified conversations and may therefore miss failures that emerge under sustained, adaptive disagreement. We introduce SPINE, a benchmark in which an LLM proxy plays a persistent but mistaken user and adaptively challenges a target model for up to 25 turns. We evaluate four production systems and three Olmo3-7b variants on 100 false-presupposition and 100 unethical-query items. Our experimental results show that colla...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.09090v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-08",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2609.09090v1"
+    }
+  ],
+  "authors": [
+    "Leyuan Tang",
+    "Kangda Wei",
+    "Tianyu Jiang",
+    "Ruihong Huang"
+  ],
+  "paperId": "2609.09090",
+  "category": "cs.CL",
+  "publishedAt": "2026-09-08",
+  "abstract": "Large language models (LLMs) may abandon correct positions when users push back, exhibiting a failure mode known as sycophancy. Existing evaluations typically use short, pre-specified conversations and may therefore miss failures that emerge under sustained, adaptive disagreement. We introduce SPINE, a benchmark in which an LLM proxy plays a persistent but mistaken user and adaptively challenges a target model for up to 25 turns. We evaluate four production systems and three Olmo3-7b variants on 100 false-presupposition and 100 unethical-query items. Our experimental results show that colla..."
+}

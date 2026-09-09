@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2609-09054",
+  "name": "Training-Free Task Vectors for LLM Behavioral Control",
+  "summary": "Task vectors enable post-training model editing by identifying semantically meaningful directions in weight space, typically computed as the difference between a fine-tuned model and its pretrained...",
+  "description": "Task vectors enable post-training model editing by identifying semantically meaningful directions in weight space, typically computed as the difference between a fine-tuned model and its pretrained initialization. However, this reliance on fine-tuning makes discovering such directions costly and limits the practicality of post-training model editing. To address this limitation, we introduce Training-Free Task Vectors (TFTVs), a novel method to compute task-vector-like directions without requiring fine-tuning. Our method maps activation steering vectors to rank-one weight-space edits using o...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.09054v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-08",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.09054v1"
+    }
+  ],
+  "authors": [
+    "Gabriel J. Perin",
+    "Lucas Boscaini",
+    "André Araujo",
+    "Nina S. T. Hirata"
+  ],
+  "paperId": "2609.09054",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-08",
+  "abstract": "Task vectors enable post-training model editing by identifying semantically meaningful directions in weight space, typically computed as the difference between a fine-tuned model and its pretrained initialization. However, this reliance on fine-tuning makes discovering such directions costly and limits the practicality of post-training model editing. To address this limitation, we introduce Training-Free Task Vectors (TFTVs), a novel method to compute task-vector-like directions without requiring fine-tuning. Our method maps activation steering vectors to rank-one weight-space edits using o..."
+}

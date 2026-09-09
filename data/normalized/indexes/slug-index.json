@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T07:10:33.936Z",
+  "generatedAt": "2026-09-09T07:17:43.642Z",
   "entries": {
     "automatic1111-stable-diffusion-webui": {
       "slug": "automatic1111-stable-diffusion-webui",
@@ -177,224 +177,312 @@
         "jupyter notebook"
       ]
     },
-    "2609-05309": {
-      "slug": "2609-05309",
-      "typedId": "paper/2609-05309",
-      "name": "How Does mHC Use Its Residual Streams? Selective Routing and Near-Identity Mixing",
+    "2609-09048": {
+      "slug": "2609-09048",
+      "typedId": "paper/2609-09048",
+      "name": "The Audit Decides the Verdict: Instrument Effects Rival Demographic Bias in LLM Decision Audits",
       "type": "paper",
-      "summary": "Hyper-Connections and their manifold-constrained variant mHC widen a residual pathway from one stream to n, yet how trained models use this capacity remains unclear: how broadly blocks read and wri...",
+      "summary": "Whether a language model looks demographically biased can depend on how the audit asks its question. A charitable-aid benchmark reports that the same models favor minority applicants when rating re...",
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ]
+    },
+    "2609-09054": {
+      "slug": "2609-09054",
+      "typedId": "paper/2609-09054",
+      "name": "Training-Free Task Vectors for LLM Behavioral Control",
+      "type": "paper",
+      "summary": "Task vectors enable post-training model editing by identifying semantically meaningful directions in weight space, typically computed as the difference between a fine-tuned model and its pretrained...",
       "tags": [
         "arxiv",
         "cs.LG"
       ]
     },
-    "2609-05314": {
-      "slug": "2609-05314",
-      "typedId": "paper/2609-05314",
-      "name": "Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness",
+    "2609-09056": {
+      "slug": "2609-09056",
+      "typedId": "paper/2609-09056",
+      "name": "Time-Varying Data as Sheaves: an Invitation to Narratives",
       "type": "paper",
-      "summary": "Building automation systems generate rich sensor data yet remain insight-poor because heterogeneous point naming, missing metadata, and fragmented documentation obstruct their operational use. This...",
+      "summary": "Modern science and engineering increasingly rely on time-varying data, yet the mathematical tools used to model temporal phenomena are often developed within separate disciplines, obscuring common...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2609-05324": {
-      "slug": "2609-05324",
-      "typedId": "paper/2609-05324",
-      "name": "RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?",
+    "2609-09070": {
+      "slug": "2609-09070",
+      "typedId": "paper/2609-09070",
+      "name": "Performance of Clinical AI System and Physicians and Frontier Language Models in primary care diagnostics",
       "type": "paper",
-      "summary": "Vision-Language-Action (VLA) models have shown promising progress in language-conditioned robotic manipulation. However, existing datasets and benchmarks mainly evaluate task completion under prede...",
+      "summary": "Clinical AI evaluation should encompass diagnosis and management after adaptive information gathering. We compared Doctorina, eight physicians and four standalone frontier language models in 150 sy...",
       "tags": [
         "arxiv",
-        "cs.RO"
+        "cs.CL"
       ]
     },
-    "2609-05327": {
-      "slug": "2609-05327",
-      "typedId": "paper/2609-05327",
-      "name": "LLM-Driven Algorithm Design for Quantum Circuit Synthesis based on Binary Decision Diagrams",
+    "2609-09075": {
+      "slug": "2609-09075",
+      "typedId": "paper/2609-09075",
+      "name": "ThinkPrior: Zero-Rollout Difficulty Priors for Cold-Start Prompt Selection in RLVR",
       "type": "paper",
-      "summary": "Quantum circuits are central to implementing quantum algorithms on quantum devices, where quantum gates must be reversible. Many quantum algorithms rely on Boolean functions, which must therefore b...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-05333": {
-      "slug": "2609-05333",
-      "typedId": "paper/2609-05333",
-      "name": "Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer Language Models",
-      "type": "paper",
-      "summary": "A transformer language model assigns a single, context-independent vector to a word type at its embedding layer, yet is widely believed to individuate that word's occurrences by context in its late...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-05334": {
-      "slug": "2609-05334",
-      "typedId": "paper/2609-05334",
-      "name": "Lightweight Vision Transformer Compression for On-Device Plant Disease Detection in Resource-Constrained Agricultural Field Conditions",
-      "type": "paper",
-      "summary": "Chilli (Capsicum annuum) is one of India's most economically significant crops, yet its productivity is persistently threatened by diseases that are difficult to identify without expert interventio...",
-      "tags": [
-        "arxiv",
-        "cs.CV"
-      ]
-    },
-    "2609-05335": {
-      "slug": "2609-05335",
-      "typedId": "paper/2609-05335",
-      "name": "The History Is the Detector: Executing CVE Patch History, End-to-End",
-      "type": "paper",
-      "summary": "Public vulnerability databases collect rich information about known software flaws, including their weakness types, affected components, and related patches. Fixing commits provide the exact code c...",
-      "tags": [
-        "arxiv",
-        "cs.CR"
-      ]
-    },
-    "2609-05339": {
-      "slug": "2609-05339",
-      "typedId": "paper/2609-05339",
-      "name": "Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability",
-      "type": "paper",
-      "summary": "Model upgrades are routine; memory migrations are not. An agent can keep the same memory store and still forget: a new model may interpret old notes differently, mixed embedding versions may break...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-05346": {
-      "slug": "2609-05346",
-      "typedId": "paper/2609-05346",
-      "name": "Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education",
-      "type": "paper",
-      "summary": "The integration of GenAI tools into higher education assessment raises important questions about how students understand, interpret, and respond to AI-mediated evaluation. As instructors increasing...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-05364": {
-      "slug": "2609-05364",
-      "typedId": "paper/2609-05364",
-      "name": "Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool",
-      "type": "paper",
-      "summary": "Machine-learning performance modeling is a uniquely hostile terrain for long-lived software: the assumptions baked into today's abstractions are invalidated by tomorrow's models and systems, forcin...",
-      "tags": [
-        "arxiv",
-        "cs.PL"
-      ]
-    },
-    "2609-05370": {
-      "slug": "2609-05370",
-      "typedId": "paper/2609-05370",
-      "name": "When LLM Decompilers Recompile More and Preserve Less",
-      "type": "paper",
-      "summary": "Decompilation recovers high-level source from compiled machine code and serves as a foundation for security tasks such as vulnerability detection and malware analysis. Traditional decompilers like...",
-      "tags": [
-        "arxiv",
-        "cs.CR"
-      ]
-    },
-    "2609-05374": {
-      "slug": "2609-05374",
-      "typedId": "paper/2609-05374",
-      "name": "CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents",
-      "type": "paper",
-      "summary": "Computer-use agents have advanced on benchmarks like OSWorld and AndroidWorld, but still act mostly through the GUI, often producing inefficient trajectories. Real-world computer work is hybrid, co...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-05376": {
-      "slug": "2609-05376",
-      "typedId": "paper/2609-05376",
-      "name": "What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies",
-      "type": "paper",
-      "summary": "Visuomotor imitation policies can achieve high performance under in-distribution visual conditions yet fail when visually similar objects or receptacles are introduced. We study this behavior as a...",
-      "tags": [
-        "arxiv",
-        "cs.RO"
-      ]
-    },
-    "2609-05381": {
-      "slug": "2609-05381",
-      "typedId": "paper/2609-05381",
-      "name": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models",
-      "type": "paper",
-      "summary": "Large language models (LLMs) are increasingly evaluated on molecular property benchmarks, but accuracy cannot distinguish a model that predicts a property from one that retrieves a published number...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-05382": {
-      "slug": "2609-05382",
-      "typedId": "paper/2609-05382",
-      "name": "Reflection-aware Generative Novel View Synthesis",
-      "type": "paper",
-      "summary": "We propose Ref-GeNVS, a training-free, reflection-aware method for generative novel view synthesis (NVS) in mirror scenes. Existing multi-view diffusion models often fail to recognize the mirror in...",
-      "tags": [
-        "arxiv",
-        "cs.CV"
-      ]
-    },
-    "2609-05385": {
-      "slug": "2609-05385",
-      "typedId": "paper/2609-05385",
-      "name": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence",
-      "type": "paper",
-      "summary": "LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monito...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-05395": {
-      "slug": "2609-05395",
-      "typedId": "paper/2609-05395",
-      "name": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe",
-      "type": "paper",
-      "summary": "Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source m...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-05396": {
-      "slug": "2609-05396",
-      "typedId": "paper/2609-05396",
-      "name": "A Deep Generative Model for Synthesizing Labeled Wireless Signals",
-      "type": "paper",
-      "summary": "Wireless signals with position-related labels are pivotal for both performance evaluation and model training in the realm of wireless sensing. However, acquiring real-world datasets is often challe...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-05403": {
-      "slug": "2609-05403",
-      "typedId": "paper/2609-05403",
-      "name": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
-      "type": "paper",
-      "summary": "Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-pres...",
+      "summary": "In reinforcement learning with verifiable rewards (RLVR) trained with group relative policy optimization (GRPO), the KL-free reward-advantage term studied here depends on within-group reward variat...",
       "tags": [
         "arxiv",
         "cs.LG"
       ]
     },
-    "2609-05404": {
-      "slug": "2609-05404",
-      "typedId": "paper/2609-05404",
-      "name": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
+    "2609-09081": {
+      "slug": "2609-09081",
+      "typedId": "paper/2609-09081",
+      "name": "Everything in Moderation: Per-Domain Coverage Optima and Alignment-Resistant Domain Gaps in Multi-Domain Mid-Training",
       "type": "paper",
-      "summary": "Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audienc...",
+      "summary": "Mid-training, the stage between pre-training and alignment, is where a model's per-domain data composition is typically set by data availability rather than principled design. We ask what that deci...",
       "tags": [
         "arxiv",
-        "cs.HC"
+        "cs.AI"
+      ]
+    },
+    "2609-09082": {
+      "slug": "2609-09082",
+      "typedId": "paper/2609-09082",
+      "name": "GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting",
+      "type": "paper",
+      "summary": "Open vocabulary 3D semantic segmentation methods typically lift CLIP features into 3D. This embeds points in a joint vision-language space known to behave like a bag-of-words on compositional tasks...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2609-09090": {
+      "slug": "2609-09090",
+      "typedId": "paper/2609-09090",
+      "name": "Measuring LLM Sycophancy under Sustained Multi-Turn Pressure",
+      "type": "paper",
+      "summary": "Large language models (LLMs) may abandon correct positions when users push back, exhibiting a failure mode known as sycophancy. Existing evaluations typically use short, pre-specified conversations...",
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ]
+    },
+    "2609-09094": {
+      "slug": "2609-09094",
+      "typedId": "paper/2609-09094",
+      "name": "The Surprising Effectiveness of Approximate Value Iteration in Self-Play",
+      "type": "paper",
+      "summary": "Combining search with function approximation has driven major advances in game-playing programs, making self-play algorithms more competitive than ever. Still, the computational overhead of the mos...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-09113": {
+      "slug": "2609-09113",
+      "typedId": "paper/2609-09113",
+      "name": "SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?",
+      "type": "paper",
+      "summary": "While research on recursive self-improvement (RSI) has predominantly automated model training pipelines, reliable autonomous development demands a missing pillar: post-hoc monitoring and auditing t...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-09115": {
+      "slug": "2609-09115",
+      "typedId": "paper/2609-09115",
+      "name": "MeClear: Cooperative Game-Theoretic Attribution and Risk-Aware Memory Clearance for Long-Horizon LLM Agents",
+      "type": "paper",
+      "summary": "Long horizon Large Language Model (LLM) agents rely on external memory systems to preserve user preferences and task knowledge across extended interactions. Conventional retrieval mechanisms optimi...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-09119": {
+      "slug": "2609-09119",
+      "typedId": "paper/2609-09119",
+      "name": "DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination",
+      "type": "paper",
+      "summary": "Dexterous manipulation involves contact-rich and fine-grained interactions with the physical world, posing significant challenges for existing vision-language-action (VLA) models due to severe visu...",
+      "tags": [
+        "arxiv",
+        "cs.RO"
+      ]
+    },
+    "2609-09124": {
+      "slug": "2609-09124",
+      "typedId": "paper/2609-09124",
+      "name": "Canonical Color as a Lens into Concept Decodability in Vision Encoders and VLMs",
+      "type": "paper",
+      "summary": "Visual encoders construct a representation of the image input for Vision-Language models. How much conceptual, as opposed to immediately visible, information does this representation contain? We us...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2609-09126": {
+      "slug": "2609-09126",
+      "typedId": "paper/2609-09126",
+      "name": "A Generalization of Amari's Bayesian Duality",
+      "type": "paper",
+      "summary": "Amari's contributions to information geometry and machine learning are well known. Here, we revisit Amari's work on Bayesian duality which has not received as much attention. We connect Amari's Bay...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-09133": {
+      "slug": "2609-09133",
+      "typedId": "paper/2609-09133",
+      "name": "ExecCritic: Learn to Test, Test to Improve for Coding Agents",
+      "type": "paper",
+      "summary": "Execution feedback can guide coding agents toward correct repository repairs, but only when the tests capture the behavior requested by the issue. Agent-generated tests can encode incomplete or inc...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-09134": {
+      "slug": "2609-09134",
+      "typedId": "paper/2609-09134",
+      "name": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
+      "type": "paper",
+      "summary": "Agent harnesses (the system prompt, tool set, execution hooks, and context-management scaffolding around a model) are a critical determinant of agentic task success. Automated harness evolution can...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-09137": {
+      "slug": "2609-09137",
+      "typedId": "paper/2609-09137",
+      "name": "A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes",
+      "type": "paper",
+      "summary": "Robotic Process Automation (RPA) is widely used to reduce administrative burden in United States hospitals, yet an estimated 30-50% of RPA initiatives underperform because processes are selected in...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-09140": {
+      "slug": "2609-09140",
+      "typedId": "paper/2609-09140",
+      "name": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
+      "type": "paper",
+      "summary": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2609-09153": {
+      "slug": "2609-09153",
+      "typedId": "paper/2609-09153",
+      "name": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "type": "paper",
+      "summary": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulati...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-09158": {
+      "slug": "2609-09158",
+      "typedId": "paper/2609-09158",
+      "name": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
+      "type": "paper",
+      "summary": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in clutte...",
+      "tags": [
+        "arxiv",
+        "cs.RO"
+      ]
+    },
+    "huggingface-blog-https-huggingface-co-blog-multiversecomputingcai-safety-for-whom": {
+      "slug": "huggingface-blog-https-huggingface-co-blog-multiversecomputingcai-safety-for-whom",
+      "typedId": "news/huggingface-blog-https-huggingface-co-blog-multiversecomputingcai-safety-for-whom",
+      "name": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "type": "news",
+      "summary": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "tags": [
+        "news",
+        "huggingface-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-1password": {
+      "slug": "openai-blog-https-openai-com-index-1password",
+      "typedId": "news/openai-blog-https-openai-com-index-1password",
+      "name": "1Password increases engineering productivity 21% with Codex",
+      "type": "news",
+      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-codex-quantum-computing-experiments": {
+      "slug": "openai-blog-https-openai-com-index-codex-quantum-computing-experiments",
+      "typedId": "news/openai-blog-https-openai-com-index-codex-quantum-computing-experiments",
+      "name": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "type": "news",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-introducing-chatgpt-images-2-5": {
+      "slug": "openai-blog-https-openai-com-index-introducing-chatgpt-images-2-5",
+      "typedId": "news/openai-blog-https-openai-com-index-introducing-chatgpt-images-2-5",
+      "name": "Introducing ChatGPT Images 2.5",
+      "type": "news",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-navier-stokes-solution": {
+      "slug": "openai-blog-https-openai-com-index-navier-stokes-solution",
+      "typedId": "news/openai-blog-https-openai-com-index-navier-stokes-solution",
+      "name": "On the Navier–Stokes Millennium Prize Problem",
+      "type": "news",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-supporting-journalism-from-classrooms-to-newsrooms": {
+      "slug": "openai-blog-https-openai-com-index-supporting-journalism-from-classrooms-to-newsrooms",
+      "typedId": "news/openai-blog-https-openai-com-index-supporting-journalism-from-classrooms-to-newsrooms",
+      "name": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "type": "news",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-teen-development-research-grants": {
+      "slug": "openai-blog-https-openai-com-index-teen-development-research-grants",
+      "typedId": "news/openai-blog-https-openai-com-index-teen-development-research-grants",
+      "name": "Funding grants for new research into AI and teen development",
+      "type": "news",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-the-work-now-within-reach": {
+      "slug": "openai-blog-https-openai-com-index-the-work-now-within-reach",
+      "typedId": "news/openai-blog-https-openai-com-index-the-work-now-within-reach",
+      "name": "The Work Now Within Reach",
+      "type": "news",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "tags": [
+        "news",
+        "openai-blog"
       ]
     },
     "openai-blog-https-openai-com-index-supporting-independent-journalism-in-ukraine": {
@@ -1426,149 +1514,6 @@
       "name": "Testing ads in ChatGPT",
       "type": "news",
       "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "tags": [
-        "news",
-        "openai-blog"
-      ]
-    },
-    "google-ai-blog-https-blog-google-products-ads-commerce-google-ads-analytics-ai-updates": {
-      "slug": "google-ai-blog-https-blog-google-products-ads-commerce-google-ads-analytics-ai-updates",
-      "typedId": "news/google-ai-blog-https-blog-google-products-ads-commerce-google-ads-analytics-ai-updates",
-      "name": "Evolve your marketing with new AI tools",
-      "type": "news",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp\"&gt;Learn how new AI and agentic experiences across Google Ads and Google An...",
-      "tags": [
-        "news",
-        "google-ai-blog"
-      ]
-    },
-    "huggingface-blog-https-huggingface-co-blog-multiversecomputingcai-efficient-knowledge-distillation": {
-      "slug": "huggingface-blog-https-huggingface-co-blog-multiversecomputingcai-efficient-knowledge-distillation",
-      "typedId": "news/huggingface-blog-https-huggingface-co-blog-multiversecomputingcai-efficient-knowledge-distillation",
-      "name": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "type": "news",
-      "summary": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "tags": [
-        "news",
-        "huggingface-blog"
-      ]
-    },
-    "huggingface-blog-https-huggingface-co-blog-muse-glimmer": {
-      "slug": "huggingface-blog-https-huggingface-co-blog-muse-glimmer",
-      "typedId": "news/huggingface-blog-https-huggingface-co-blog-muse-glimmer",
-      "name": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "type": "news",
-      "summary": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "tags": [
-        "news",
-        "huggingface-blog"
-      ]
-    },
-    "huggingface-blog-https-huggingface-co-blog-nvidia-magpie-tts-multilingual-voice-agents": {
-      "slug": "huggingface-blog-https-huggingface-co-blog-nvidia-magpie-tts-multilingual-voice-agents",
-      "typedId": "news/huggingface-blog-https-huggingface-co-blog-nvidia-magpie-tts-multilingual-voice-agents",
-      "name": "Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS",
-      "type": "news",
-      "summary": "Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS",
-      "tags": [
-        "news",
-        "huggingface-blog"
-      ]
-    },
-    "mit-news-ai-https-news-mit-edu-2026-ai-models-simulate-wider-range-of-real-world-scenarios-0810": {
-      "slug": "mit-news-ai-https-news-mit-edu-2026-ai-models-simulate-wider-range-of-real-world-scenarios-0810",
-      "typedId": "news/mit-news-ai-https-news-mit-edu-2026-ai-models-simulate-wider-range-of-real-world-scenarios-0810",
-      "name": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
-      "type": "news",
-      "summary": "“GeoPT” helps AI models understand the basics of physics so they can simulate how objects respond to things like wind and water more efficiently and accurately.",
-      "tags": [
-        "news",
-        "mit-news-ai"
-      ]
-    },
-    "openai-blog-https-openai-com-index-building-an-ai-native-finance-function": {
-      "slug": "openai-blog-https-openai-com-index-building-an-ai-native-finance-function",
-      "typedId": "news/openai-blog-https-openai-com-index-building-an-ai-native-finance-function",
-      "name": "What building an AI-native finance function taught me",
-      "type": "news",
-      "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-      "tags": [
-        "news",
-        "openai-blog"
-      ]
-    },
-    "openai-blog-https-openai-com-index-expanding-daybreak-as-the-cyber-defense-window-narrows": {
-      "slug": "openai-blog-https-openai-com-index-expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "typedId": "news/openai-blog-https-openai-com-index-expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "name": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "type": "news",
-      "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
-      "tags": [
-        "news",
-        "openai-blog"
-      ]
-    },
-    "openai-blog-https-openai-com-index-model-ml": {
-      "slug": "openai-blog-https-openai-com-index-model-ml",
-      "typedId": "news/openai-blog-https-openai-com-index-model-ml",
-      "name": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "type": "news",
-      "summary": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks.",
-      "tags": [
-        "news",
-        "openai-blog"
-      ]
-    },
-    "openai-blog-https-openai-com-index-premium-seats-chatgpt-business": {
-      "slug": "openai-blog-https-openai-com-index-premium-seats-chatgpt-business",
-      "typedId": "news/openai-blog-https-openai-com-index-premium-seats-chatgpt-business",
-      "name": "Premium seats are coming to ChatGPT Business",
-      "type": "news",
-      "summary": "Premium seats are now available on ChatGPT Business, with 5x more usage, no five-hour usage limit, and flexible seat options for every teammate.",
-      "tags": [
-        "news",
-        "openai-blog"
-      ]
-    },
-    "openai-blog-https-openai-com-index-putting-frontier-cyber-models-in-more-trusted-hands": {
-      "slug": "openai-blog-https-openai-com-index-putting-frontier-cyber-models-in-more-trusted-hands",
-      "typedId": "news/openai-blog-https-openai-com-index-putting-frontier-cyber-models-in-more-trusted-hands",
-      "name": "Putting frontier cyber models in more trusted hands",
-      "type": "news",
-      "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-      "tags": [
-        "news",
-        "openai-blog"
-      ]
-    },
-    "openai-blog-https-openai-com-index-responsible-ai-infrastructure-texas": {
-      "slug": "openai-blog-https-openai-com-index-responsible-ai-infrastructure-texas",
-      "typedId": "news/openai-blog-https-openai-com-index-responsible-ai-infrastructure-texas",
-      "name": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "type": "news",
-      "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-      "tags": [
-        "news",
-        "openai-blog"
-      ]
-    },
-    "openai-blog-https-openai-com-index-virgin-atlantic-chatgpt-work": {
-      "slug": "openai-blog-https-openai-com-index-virgin-atlantic-chatgpt-work",
-      "typedId": "news/openai-blog-https-openai-com-index-virgin-atlantic-chatgpt-work",
-      "name": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "type": "news",
-      "summary": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
-      "tags": [
-        "news",
-        "openai-blog"
-      ]
-    },
-    "openai-blog-https-openai-com-index-zapier": {
-      "slug": "openai-blog-https-openai-com-index-zapier",
-      "typedId": "news/openai-blog-https-openai-com-index-zapier",
-      "name": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "type": "news",
-      "summary": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
       "tags": [
         "news",
         "openai-blog"
