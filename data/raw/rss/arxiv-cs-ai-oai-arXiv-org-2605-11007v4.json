@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.11007v4",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.11007v4",
+    "title": "The Transformer as a Polar State Estimator",
+    "link": "https://arxiv.org/abs/2605.11007",
+    "description": "arXiv:2605.11007v4 Announce Type: replace-cross Abstract: We show that the core components of the Transformer---attention, residual connections, and normalization---arise naturally from a single geometric state estimation problem. Modeling the latent state in polar coordinates naturally separates radial and hyperspherical dynamics, yielding a precision-weighted filtering procedure in which normalization enforces the hyperspherical constraint, attention aggregates directional evidence, and the residual connection implements an incremental state update. The standard Transformer block with rotary positional encodings is recovered by discarding the geometric correction terms of the resulting state estimator, showing that its architecture follows from the underlying estimation problem rather than from independent design choices. The proposed \\textit{Polar Transformer} retains these geometric corrections.",
+    "publishedAt": "2026-09-10",
+    "author": "Peter Racioppo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

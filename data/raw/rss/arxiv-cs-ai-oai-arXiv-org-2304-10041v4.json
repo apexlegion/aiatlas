@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2304.10041v4",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2304.10041v4",
+    "title": "Topology-Guided Modular Actor-Critic Learning for Continuous Systems under Temporal Objectives",
+    "link": "https://arxiv.org/abs/2304.10041",
+    "description": "arXiv:2304.10041v4 Announce Type: replace Abstract: We study formal policy synthesis for continuous-state stochastic systems under linear temporal logic specifications. The product of the system with the automaton of the specification has a hybrid state space with sparse rewards. We introduce a generalized optimal backup order, defined in reverse to a topological order over automaton states, that guides value backups and provably preserves optimality. We further present a model-free actor-critic algorithm whose policy evaluation solves a constrained optimization problem by the augmented Lagrangian method, yielding hyperparameter self-tuning, and prove its optimality and convergence in the tabular case. Since integer encodings of automaton states impose a spurious ordinal relationship on functions learned by one network, we dedicate a value and a policy network to each automaton state (modular learning). The algorithm matches or outperforms PPO, DQN, and A2C on CartPole, and on a Dubins car under a temporal specification the topological order and modular learning raise the success rate from 26.0% to 71.5%.",
+    "publishedAt": "2026-09-10",
+    "author": "Lening Li, Zhentian Qian, Jianan Xia, Yawen Wang, Zhongjing Li, Qiren Geng, Huasheng Zhang, Liang Hu, Qishuang Li, Junqiang Lou",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

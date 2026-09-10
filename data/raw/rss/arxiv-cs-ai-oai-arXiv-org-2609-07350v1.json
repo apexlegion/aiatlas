@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.07350v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.07350v1",
+    "title": "D3ARC: Time-Critical Distributed Disaster Detection for Asynchronous Cooperative Multi-Robot Systems",
+    "link": "https://arxiv.org/abs/2609.07350",
+    "description": "arXiv:2609.07350v1 Announce Type: cross Abstract: Climate change is increasing the severity and unpredictability of natural disasters. In time-critical crises such as wildfires, traditional monitoring practices remain limited by coverage, cost, and personnel risk, paving the way for autonomous and adaptive monitoring solutions. Within this context, this paper introduces D3ARC, an asynchronous distributed hierarchical framework for time-aware and reliable wildfire detection. D3ARC integrates multiple robotic agents that cooperate under uncertainty through distributed perception, shared situational awareness and coordinated actions. A remote controller asynchronously decides upon each robot's motion, while each robotic agent senses the environment and decides where and how to execute the wildfire detection. All robotic operations require time, and as time progresses, wildfires continue to spread, reducing the opportunity for early intervention. As such, all agents share a common objective: to detect a wildfire with a certain performance threshold as fast as possible and within a time limit. D3ARC integrates mechanisms for safe navigation, coverage efficiency, cooperation and reliability. It introduces a forward-looking capability that allows agents to anticipate the future by evaluating candidate strategies before execution. The framework is evaluated through realistic robotics simulations, ablation studies, and baseline comparisons, achieving an overall mission success up to 94% with 89.4% detection confidence.",
+    "publishedAt": "2026-09-10",
+    "author": "Nikolaos Koursioumpas, Lina Magoula, Nancy Alonistioti, Ramin Khalili",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

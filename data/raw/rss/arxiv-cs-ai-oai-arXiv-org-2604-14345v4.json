@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.14345v4",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.14345v4",
+    "title": "PAC-CF: Calibrating Irreversible Frontier Pruning in LLM-Guided Search",
+    "link": "https://arxiv.org/abs/2604.14345",
+    "description": "arXiv:2604.14345v4 Announce Type: replace-cross Abstract: LLM-guided search is usually adopted to solve complex tasks by ranking and pruning top-$K$ candidates based on evaluator scores. However, irreducible bias still exists even if popular methods, such as repeated sampling, are applied to reduce variance. Consequently, pruning may remove every continuation that can reach a valid solution. In this paper, we propose Probably Approximately Correct Conformal Filtering (PAC-CF), which formulates tree pruning as a PAC-guaranteed decision problem. Theoretical analysis establishes how irreducible bias reduces the score separation for certified elimination. Native-Trace path calibration derives a conformal margin from the score deficit of verifier-valid continuations on held-out Native traces. During deployment, PAC-CF uses this calibrated margin in a direct score-gap filtering rule. Across diverse domains and state-of-the-art controllers, PAC-CF improves utility at various budgets while reducing all five measured workload metrics. Especially on pruning-aware ToolTree under a 100-request budget, replacing native top-$K$ improves equal-domain utility by 4.38 points while reducing physical requests by $18.95\\%$ with a $23.76\\%$ token reduction.",
+    "publishedAt": "2026-09-10",
+    "author": "Tianhao Qian, Jiayu Chen, Lixu Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

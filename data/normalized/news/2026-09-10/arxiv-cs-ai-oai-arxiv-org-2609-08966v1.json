@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-08966v1",
+  "name": "Good Pretraining, Bad SFT: Checkpoint Quality Across the Training Stack",
+  "summary": "arXiv:2609.08966v1 Announce Type: new Abstract: Language-model checkpoints are commonly selected by pretraining loss or benchmark scores, assuming that the highest-scoring checkpoint will remain th...",
+  "description": "arXiv:2609.08966v1 Announce Type: new Abstract: Language-model checkpoints are commonly selected by pretraining loss or benchmark scores, assuming that the highest-scoring checkpoint will remain the best starting point for subsequent training. We show that this assumption can fail in a full 30B mixture-of-experts training pipeline. The checkpoints that perform better after the full downstream t...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.08966"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-10",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.08966"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-10",
+  "expiryAt": "2026-10-10T00:00:00.000Z",
+  "author": "Sohir Maskey, Philipp Scholl, Jonas Knupp, Pit Neitemeier, Sascha Wirges"
+}

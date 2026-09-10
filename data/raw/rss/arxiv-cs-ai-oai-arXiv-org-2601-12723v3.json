@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.12723v3",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.12723v3",
+    "title": "An Evolutionary Framework for Automatic Optimization Benchmark Generation via Large Language Models",
+    "link": "https://arxiv.org/abs/2601.12723",
+    "description": "arXiv:2601.12723v3 Announce Type: replace-cross Abstract: Optimization benchmarks play a fundamental role in assessing algorithm performance; however, existing artificial benchmarks often fail to capture the diversity and irregularity of real-world problem structures, while benchmarks derived from real-world problems are costly and difficult to construct. To address these challenges, we propose an evolutionary automatic benchmark generation framework that leverages a large language model (LLM) as a generative operator, termed the LLM-driven evolutionary benchmark generator (LLM-EBG). In this framework, the LLM serves as an evolutionary operator that generates and evolves benchmark problems within a flexible, expressive representation space. As a case study, we generate unconstrained single-objective continuous minimization problems represented as mathematical expressions designed to induce significant performance differences between a genetic algorithm (GA) and differential evolution (DE). Experimental results show that LLM-EBG successfully produces benchmark problems in which the designated target algorithm consistently outperforms the comparative algorithm in more than 80\\% of trials. Furthermore, exploratory landscape analysis reveals that benchmarks favoring GA are highly sensitive to variable scaling, demonstrating that the proposed framework can generate problems with distinct geometric characteristics that reflect the intrinsic search behaviors of different optimization algorithms.",
+    "publishedAt": "2026-09-10",
+    "author": "Yuhiro Ono, Tomohiro Harada, Yukiya Miura",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.07111v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.07111v1",
+    "title": "From LLM-Generated Specifications to Learned Quadruped Locomotion",
+    "link": "https://arxiv.org/abs/2609.07111",
+    "description": "arXiv:2609.07111v1 Announce Type: cross Abstract: Quadruped robot locomotion policies are often trained using reinforcement learning, which in turn relies heavily on hand-crafted reward functions. Designing reward functions requires substantial manual engineering, and it is often unclear which local rewards will induce the desired global behavior. Shaped rewards from formal specifications in languages like Signal Temporal Logic (STL) can make rewards more interpretable, but writing STL specifications itself still requires domain expertise. We study whether large language models (LLMs) can fill this gap by generating Parametric Signal Temporal Logic (PSTL) specifications that are subsequently used for policy learning. Given a natural language locomotion objective and a constrained specification grammar, GPT-5.5 and Qwen 3.6 independently propose STL templates for command tracking, safety, and gait structure. We instantiate the parameters of the generated PSTL templates using expert trajectories and retain only specifications that are consistent with demonstrated expert behavior. The resulting specifications are then transformed into smooth, finite-history reward functions and used to train a quadruped locomotion policy with Proximal Policy Optimization (PPO) in MuJoCo XLA (MJX). We evaluate both \\emph{gait-aware} and \\emph{gait-agnostic} settings. The former specifies walking-trot, trot, and bound regimes, while the latter allows contact patterns to emerge from the task objective. We compare against hand-engineered rewards, Text2Reward-style LLM-generated reward code, and an expert-switching oracle. Gait-aware Qwen 3.6 specifications achieved 100\\% survival and command success across all tested speeds (0.3--2.1 m/s) and matched the target gait at high speeds, whereas Text2Reward achieved 0\\% for both metrics at $\\geq 1.9$ m/s. Videos: https://stl-locomotion.github.io/",
+    "publishedAt": "2026-09-10",
+    "author": "Merve Atasever, Keyan Azbijari, Cagan Bakirci, Alfredo Reina Corona, Tolga Izdas, Richard Yang, Erdem Biyik, Jyotirmoy V. Deshmukh",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

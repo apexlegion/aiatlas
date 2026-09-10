@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.23346v2",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.23346v2",
+    "title": "Field-level weak lensing cosmology with $60$ simulations using multifidelity simulation-based inference",
+    "link": "https://arxiv.org/abs/2606.23346",
+    "description": "arXiv:2606.23346v2 Announce Type: replace-cross Abstract: We perform a realistic KiDS-Legacy mock analysis with field-level neural compression and simulation-based inference using just 60 $N$-body simulations. The weak lensing shear field encodes substantially more cosmological information than standard two-point summary statistics such as the power spectrum. Field-level inference can fully exploit this information, but physical realism at the field-level requires very high-fidelity simulations. This poses a major challenge for simulation-based inference (SBI): accurate empirical density modelling and deep-learning-based neural compression require tens of thousands of training samples, but achieving physical realism at the field level makes each simulation extremely costly. We demonstrate that multifidelity SBI can alleviate this tension by substantially reducing the number of high-fidelity simulations needed for accurate cosmological inference. We pre-train neural inference models on realistic KiDS-Legacy-like shear mocks using fast log-normal \\texttt{GLASS} simulations and fine-tune them on a small set of high-fidelity $N$-body simulations. We show that $60$ high-fidelity simulations are sufficient to obtain informative and well-calibrated cosmological posteriors, enabling at least an order-of-magnitude reduction in simulation cost for accurate field-level inference in a realistic setting.",
+    "publishedAt": "2026-09-10",
+    "author": "Alex A. Saoulis, Kiyam Lin, Niall Jeffrey, Maximilian von Wietersheim-Kramsta, Davide Piras, Alessio Spurio Mancini, Ana M. G. Ferreira, Benjamin Joachimi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

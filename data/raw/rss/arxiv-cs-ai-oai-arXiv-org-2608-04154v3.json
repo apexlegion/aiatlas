@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.04154v3",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.04154v3",
+    "title": "TRNet: Learning with Topographic Priors for VHR Paddy Rice Mapping",
+    "link": "https://arxiv.org/abs/2608.04154",
+    "description": "arXiv:2608.04154v3 Announce Type: replace-cross Abstract: Mapping paddy rice from very high resolution (VHR) imagery in mountainous and hilly regions remains challenging because terrain variations alter optical appearance and increase confusion with visually similar vegetation. To address this issue, we propose TRNet for multimodal paddy rice segmentation using 0.5 m GaoJing 1 red green blue (RGB) imagery, a 5 m TanDEM X digital elevation model (DEM), and derived slope information. TRNet employs separate visual and terrain encoders to preserve modality specific representations. At an early encoder stage, the proposed Topographic Energy Spectral Rectification (TESR) performs terrain conditioned low frequency modulation and asymmetric high frequency regulation to suppress steep slope clutter while selectively enhancing rice related cues on compatible low slope regions. The Topography Guided Paddy Structure Decoder (TPSD) further integrates semantic, rice background boundary, and interior cues with coarse topographic context to refine structural predictions. Experiments are conducted on an Area A internal test set and a geographically held out Area B with steeper terrain and lower rice prevalence. TRNet achieves Rice IoU scores of 85.10% and 80.68% on Areas A and B, outperforming the original Dual Encoder U Net by 9.15 and 18.83 percentage points, respectively. Without any adaptation, evaluation on matched August 2024 imagery retains Rice IoU scores of 82.04% and 76.12%. Extensive ablation, slope stratified, and cross year seasonal analyses demonstrate that the improvements arise from effective frequency rectification and structure learning, which reduce steep terrain false positives and low slope rice omissions. These results demonstrate that coarse topography can serve as a stable contextual prior for robust VHR paddy rice mapping.",
+    "publishedAt": "2026-09-10",
+    "author": "Kaiwen Xiao, Chunlong Fu, Liping Zheng, Yanfeng Su, Yuanhao Xi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

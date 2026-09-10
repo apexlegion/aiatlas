@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2504-21323v3",
+  "name": "How to Backdoor Image Knowledge Distillation",
+  "summary": "arXiv:2504.21323v3 Announce Type: replace-cross Abstract: Knowledge distillation is widely used to transfer behavior from a large teacher model to a smaller student. It is often assumed to be safe...",
+  "description": "arXiv:2504.21323v3 Announce Type: replace-cross Abstract: Knowledge distillation is widely used to transfer behavior from a large teacher model to a smaller student. It is often assumed to be safe when the teacher is clean, because classic backdoor attacks rely on poisoned labels and triggers in supervised training, whereas distillation trains the student to match a teacher's outputs. We show t...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2504.21323"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-10",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2504.21323"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-10",
+  "expiryAt": "2026-10-10T00:00:00.000Z",
+  "author": "Qian Ma, Chen Wu, Prasenjit Mitra, Sencun Zhu"
+}

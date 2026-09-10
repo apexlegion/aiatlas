@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.06384v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.06384v1",
+    "title": "Parameterized and Streaming Algorithms for Euclidean Fair $k$-Center Clustering",
+    "link": "https://arxiv.org/abs/2609.06384",
+    "description": "arXiv:2609.06384v1 Announce Type: cross Abstract: Motivated by the growing importance of fairness in machine learning, fair $k$-center clustering has attracted considerable research attention as a fundamental problem. In this problem, a dataset is partitioned into $m$ disjoint groups, and the objective is to select $k$ data points as centers, subject to upper bounds on the number of centers chosen from each group, aiming to minimize the maximum distance between any data point and its assigned center. Focusing on Euclidean spaces, which are ubiquitous in machine learning applications, we first develop a parameterized approximation algorithm for Euclidean fair $k$-center with an approximation ratio of $2.732$. By incorporating this algorithm as a post-processing stage into a one-pass streaming framework for large-scale data, we obtain an approximation ratio of $4.464$. These ratios can be further respectively improved to $2.414$ and $3.828$ with a runtime exponential on $k$. To ensure polynomial-time complexity, we further design a one-pass streaming algorithm with an approximation ratio of $4.732$, which can be further improved to $4.42$, outperforming the state-of-the-art ratio. Finally, extensive experiments show that our methods significantly outperform state-of-the-art approaches in terms of clustering accuracy.",
+    "publishedAt": "2026-09-10",
+    "author": "Zeyu Lin, Chaoqi Jia, Longkun Guo, Chao Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

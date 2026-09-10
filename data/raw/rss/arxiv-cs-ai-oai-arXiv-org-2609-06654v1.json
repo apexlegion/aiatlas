@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.06654v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.06654v1",
+    "title": "A Computational Implementation of a Goal-Directed Theory of Affect",
+    "link": "https://arxiv.org/abs/2609.06654",
+    "description": "arXiv:2609.06654v1 Announce Type: new Abstract: Computational modeling of emotion has long faced a tension between descriptive, \"snapshot-based\" appraisal models and granular, signal-driven architectures that often lack appropriate psychological grounding. This paper addresses this gap by presenting the first high-fidelity computational implementation of the Goal-Directed Theory (GDT) of affect. In this framework, affect is not a post-hoc label but a functional byproduct emerging from the continuous interplay between discrepancy detection and action selection within an agent's internal processing cycles. We evaluate the model through a series of principled simulations (Dice/Corridor tasks) designed to isolate affective signatures and dynamics during multi-step goal pursuit. Results demonstrate that complex affective profiles, like an anticipatory \"lift\" and a failure \"crash\", emerge naturally from simple interactions between goal-discrepancy and action-selection expectancies without requiring additional dedicated modules. By ensuring every computational component maps directly to components of the psychological theory, this work establishes a transparent, testable framework that enables a continuous \"simulation-empiry\" research loop. Our work contributes to moving the field beyond \"black-box\" heuristics toward a granular, mechanistic understanding of affect, integrated into the core of agent behavior.",
+    "publishedAt": "2026-09-10",
+    "author": "Bernhard Hilpert, Tam\\'as Sz\\H{u}cs, Joost Broekens, Agnes Moors",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

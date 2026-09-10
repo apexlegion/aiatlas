@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-05446v1",
+  "name": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
+  "summary": "arXiv:2609.05446v1 Announce Type: new Abstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent...",
+  "description": "arXiv:2609.05446v1 Announce Type: new Abstract: We introduce AutoFyn, an agent harness inspired by the Expert Iteration algorithm, adapting a frozen model across many rounds by updating persistent state from verified reward signals rather than model weights. Each round begins from a fresh model session, and durable information is reintroduced only through explicit interfaces such as persistent...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.05446"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-10",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.05446"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-10",
+  "expiryAt": "2026-10-10T00:00:00.000Z",
+  "author": "Adib Hasan, Daniel Schaffield, Akashnil Dutta, Tarik Adnan Moon"
+}

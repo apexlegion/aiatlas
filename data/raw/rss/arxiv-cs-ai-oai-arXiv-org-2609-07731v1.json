@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.07731v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.07731v1",
+    "title": "The Profit Alignment Problem: How Profit Mandates Induce Alignment Failures in LLMs",
+    "link": "https://arxiv.org/abs/2609.07731",
+    "description": "arXiv:2609.07731v1 Announce Type: new Abstract: We show that ordinary business language --- \"maximize profitability\" --- induces profit-oriented ambiguity resolution: LLMs systematically dismiss ambiguous signals of potential safety violations to serve business objectives. In 3,600 controlled trials across eight reasoning-capable LLMs, adding a profit mandate to otherwise identical prompts increases risk-dismissing judgments by 6.8 percentage points (p &lt; 0.0001), suppresses board escalation recommendations by 13.9pp (p &lt; 0.0001), and shifts severity assessments downward (p &lt; 0.0001). The mandate never instructs models to downplay risks; instead, chain-of-thought traces reveal motivated reasoning: models acknowledge concerns, then invoke profit logic to justify dismissing them. We characterize these findings as the Profit Alignment Problem: when AI systems are given ordinary business objectives, they develop systematic strategies for suppressing inconvenient information that no designer intended or specified.",
+    "publishedAt": "2026-09-10",
+    "author": "Eric So",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

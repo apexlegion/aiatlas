@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.05783v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.05783v1",
+    "title": "Closed-Loop Evaluation of Bird's-Eye-View Maps from Cross-View Transformers as Inputs to Behavior-Cloning Policies",
+    "link": "https://arxiv.org/abs/2609.05783",
+    "description": "arXiv:2609.05783v1 Announce Type: cross Abstract: In autonomous driving, Bird's-Eye View (BEV) representations provide a structured, top-down abstraction of the vehicle's surroundings and have become a key input modality for Behavioral Cloning (BC) policies. While ground-truth BEV maps are readily available in simulation, real-world deployment requires replacing them with camera-predicted counterparts - a substitution that introduces perceptual errors whose downstream impact on closed-loop driving performance is not well understood. In this work, we investigate the use of Cross-View Transformer (CVT)-predicted BEV maps as direct policy inputs for a BC agent in the CARLA simulator. We propose a six-channel BEV representation covering road surface, planned route, lane boundaries, vehicles, pedestrians, and traffic lights, and introduce a Kernel Density Estimation (KDE) weighting scheme that rebalances the segmentation loss towards underrepresented driving maneuvers such as curves and intersections. Closed-loop evaluation across two CARLA towns shows that the KDE-weighted model is the only predicted-BEV agent to complete a full episode without infractions, despite not achieving the highest aggregate IoU. This discrepancy reveals that global segmentation metrics are poor proxies for driving performance: what determines navigation success is prediction quality at geometrically critical locations, and the route channel emerges as the primary bottleneck for reliable agent navigation under predicted BEV inputs.",
+    "publishedAt": "2026-09-10",
+    "author": "Felipe Carlos dos Santos, Eric Antonelo, Gustavo Claudio Karl Couto",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

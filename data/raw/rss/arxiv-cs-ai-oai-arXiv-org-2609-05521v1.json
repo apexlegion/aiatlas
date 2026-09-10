@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.05521v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.05521v1",
+    "title": "Situation Awareness for Intelligent Data Distribution in Connected Vehicles",
+    "link": "https://arxiv.org/abs/2609.05521",
+    "description": "arXiv:2609.05521v1 Announce Type: cross Abstract: The limitations of on-board sensors and blind spots caused by occlusion cause the reduction of perception quality in autonomous vehicles. In such cases, cooperative perception provides additional data via Vehicle-to-Everything communication to enhance local perception, causing a large volume of data transmission. The vehicle can focus on acquiring and utilizing relevant data according to the prevailing road context by identifying the current traffic situation. To achieve this, we propose a concept for the situation identification of the vehicle using Bird's-Eye-View images. Firstly, the situation around the vehicle is identified using object detection with semantic segmentation, followed by understanding the context of the traffic using a situation identification module consisting of an open-source projective transformation network Cam2BEV and a situation identification neural network. The concept was evaluated and validated by running the software on the CARLA simulator using the in-built RGB camera and the semantic segmentation camera. Additionally, the portability of the situation identification module for real-world applications was verified on Cityscapes and nuScenes urban driving datasets. Overall, the proposed situation identification approach enables efficient sensor data management by prioritizing relevant data to the current traffic situation. The source code is available in the following link: https://github.com/akshaynarla/DySi_Select",
+    "publishedAt": "2026-09-10",
+    "author": "Falk Dettinger, Akshay Narla, Michael Weyrich",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

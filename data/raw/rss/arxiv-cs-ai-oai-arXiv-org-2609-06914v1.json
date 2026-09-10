@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.06914v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.06914v1",
+    "title": "A visual large language foundational model for medical image recognition using clinician-oriented social media",
+    "link": "https://arxiv.org/abs/2609.06914",
+    "description": "arXiv:2609.06914v1 Announce Type: new Abstract: Large language models (LLMs) have demonstrated strong capabilities across diverse domains, showing considerable potential in medicine. However, their application in medical settings remains limited by the scarcity of visual question answering (VQA) datasets that capture clinical reasoning and explicit image-text alignment. Here, we leverage de-identified medical images and expert commentaries shared on clinician-oriented social media. By combining an advanced LLM with clinician-in-the-loop verification, we established a rigorous pipeline to construct ThoughtMed-1M, a long-form medical VQA dataset containing over one million VQA pairs and designed to capture structured clinical logic and medical image-text alignment. To demonstrate its utility, we developed a FOundational LLM Trained on ThoughtMed-1M (FOLTMed). FOLTMed achieved state-of-the-art performance across 42 medical VQA benchmark datasets, with a macro accuracy of 85.4%, and generated more clinically coherent responses on the ThoughtMed-1M test set. It outperformed state-of-the-art models by 3--5% across factuality and similarity metrics, highlighting a scalable paradigm for advancing research on clinically grounded multimodal LLMs.",
+    "publishedAt": "2026-09-10",
+    "author": "Lingxuan Hou, Yuhua Xie, Yue Hu, Yan Zhuang, Junqi Li, Chengzhi Xia, Binh Phu Nguyen, Abubakar Siddique, Minh Nguyen, Yao Hou, Yanju Bao, Kexin Liu, Ke Chen, Jianjun Sun, Zeqi Li, Trung Nguyen, Jiangli Lin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

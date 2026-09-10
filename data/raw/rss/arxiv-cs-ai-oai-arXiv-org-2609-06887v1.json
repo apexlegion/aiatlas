@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.06887v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.06887v1",
+    "title": "Human-agent discovery of reconfigurable in-plane ferroelectric superdomain control",
+    "link": "https://arxiv.org/abs/2609.06887",
+    "description": "arXiv:2609.06887v1 Announce Type: cross Abstract: Automated experimentation is most effective when the observables, available actions, and objective are defined before the experiment starts, as is the case for Bayesian optimization. However, in many exploratory experiments, the variables that describe the sample must be extracted from the data, new operations emerge during the experiments, and the instrument budget is too small to learn the problem by trials. Here we introduce the Scanning Probe Agentic Research Cycle (SPARC) framework, in which a coding agent and a human operator share one microscope, one notebook, and two persistent memory files. FINDINGS.md stores graded conclusions about the experiment, whereas PITFALLS.md records learned failure modes of analysis and instrument. We apply SPARC to reconfigure the in-plane superdomain direction of a (111)-oriented PbZr0.2Ti0.8O3 film. In an operator-supervised campaign, the agent reanalyzed earlier manual measurements and developed an oriented lattice of stationary bias pulses with alternating polarity to reconfigure the superdomain direction. In a subsequent agent-controlled campaign, PITFALLS.md entries were compiled into checks that validate a design before any write. The experiments showed that spatial polarity alternation, instead of the exact matching between the lattice and lamellar periods, determines directional selection. Combining a raster scan with a masked pulse lattice printed the letters UTK into the superdomain orientation. The campaign also identified practical requirements for agentic experimentation where physical verification of instrument execution, the conditions under which stored findings remain valid, validation of new observables on instrument data, and robust control protocols.",
+    "publishedAt": "2026-09-10",
+    "author": "Yu Liu, Boris Slautin, Ching-Che Lin, Jaegyu Kim, Lane W. Martin, Sergei V. Kalinin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

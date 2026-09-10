@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.06912v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.06912v1",
+    "title": "From Synthetic Priors to Model Behavior: Structural Coverage in Tabular Foundation Models",
+    "link": "https://arxiv.org/abs/2609.06912",
+    "description": "arXiv:2609.06912v1 Announce Type: cross Abstract: Tabular foundation models (TFMs) are commonly pretrained on large collections of procedurally generated synthetic tasks, yet it remains unclear how well these synthetic pretraining priors support the downstream tasks on which the models are evaluated. We study this question from a distribution-level attribution perspective. We recover or reconstruct the synthetic data generators of four TFMs and compare their generated tasks with datasets from two widely used tabular benchmarks. Each dataset is represented by a common set of structural descriptors capturing schema, feature distributions, dependence structure, response properties, and feature--response relationships. In this space, we measure how broadly and repeatedly each synthetic prior reaches benchmark tasks using structural coverage and normalized density, and examine whether stronger local support is associated with better predictive performance. We find substantial differences across synthetic pretraining priors: some generators provide consistently broader and denser support for benchmark tasks than others. Moreover, stronger synthetic-to-benchmark support is generally associated with better relative model performance. These results suggest that structural coverage provides a useful diagnostic for characterizing synthetic pretraining priors and relating their data-generating assumptions to downstream model behavior.",
+    "publishedAt": "2026-09-10",
+    "author": "He Zhao, Ryan Thompson, Daniel M. Steinberg, Ashfaqur Rahman, Edwin V. Bonilla, Cheng Soon Ong",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

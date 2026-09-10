@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.06579v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.06579v1",
+    "title": "A TTP by TTP Approach: Precise Malware Detection via Malicious TTP Recognition",
+    "link": "https://arxiv.org/abs/2609.06579",
+    "description": "arXiv:2609.06579v1 Announce Type: cross Abstract: Machine learning methods, and especially neural networks, are now routinely used for malware detection in network traffic. Though very effective, systems based on such methods often (i) are purely data-driven, ignoring the substantial body of available knowledge about the tactics, techniques, and procedures (TTPs) possibly used, and, consequently (ii) are not precise, since they either cannot correlate malicious activity with TTP usage, or if they do, they are unable to explain which TTP has been maliciously used. In this paper we demonstrate that it is possible to precisely detect malware by (i) providing the neural network model with information about the TTPs used by any given sample, and (ii) teaching the neural network to detect not just the malicious activity as a whole, but which specific TTPs are maliciously used. We show that our approach consistently outperforms the three alternative models, which either do not exploit TTP information, or which are not taught to detect the malicious usage of TTPs, or both. Moreover, we show that our approach (i) is particularly beneficial in detecting malware that utilises rarely-used TTPs, a scenario which is particularly challenging for the other systems; (ii) allows for TTP by TTP tuning, further improving its ability to detect the malicious usage of TTPs; (iii) consistently outperforms other systems across a wide-range of scenarios, including when relying on limited training data or when subjected to adversarial attack.",
+    "publishedAt": "2026-09-10",
+    "author": "Yashovardhan Sharma",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

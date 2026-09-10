@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.27821v2",
+  "fetchedAt": "2026-09-10T07:13:58.128Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.27821v2",
+    "title": "Actionable CBFI: Integrating Structural Decomposition and Causal Counterfactual Recourse for Tabular Machine Learning",
+    "link": "https://arxiv.org/abs/2608.27821",
+    "description": "arXiv:2608.27821v2 Announce Type: replace-cross Abstract: Explainable artificial intelligence (XAI) increasingly calls for actionable counterfactual recourse, yet current methodologies face challenges related to causal invalidity, excessive cognitive burden, and predictive failure. Exhaustive causal search algorithms often require modifications to multiple attributes, whereas additive attribution-guided methods, such as SHAP, ignore higher-order feature synergies, leading to suboptimal predictive momentum and diffuse intervention effort in complex nonlinear models, such as XGBoost. To bridge this gap, we introduce actionable case-based feature importance (A-CBFI), a diagnosis-prescription integrated framework for tabular machine learning. Grounded in structural causal models (SCMs), A-CBFI isolates synergistic interaction bottlenecks and releases suppressive structural locks, translating them into targeted interventions. By mathematically separating the active user intervention space (L_{\\mathrm{active}}) from downstream effects and concentrating over 98.3% of the intervention effort on diagnosed root causes, A-CBFI enables highly targeted interventions. Empirical evaluations across the financial and healthcare domains demonstrate that A-CBFI reduces the active human intervention burden by 77.0% while maintaining comparable global recourse cost to exhaustive causal baselines. By prioritizing the diagnosed causal bottlenecks, A-CBFI provides targeted and actionable recourse while maintaining causal validity and achieving full relative convergence across all causally feasible instances.",
+    "publishedAt": "2026-09-10",
+    "author": "Sejong Oh",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

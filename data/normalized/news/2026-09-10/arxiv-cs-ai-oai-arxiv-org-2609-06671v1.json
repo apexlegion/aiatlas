@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-06671v1",
+  "name": "Tracking the Moving Frontier: Long-Short Term Advantage Estimator",
+  "summary": "arXiv:2609.06671v1 Announce Type: cross Abstract: Group-based RLVR methods estimate advantages by repeatedly sampling multiple trajectories for each prompt, making long-horizon agent training expen...",
+  "description": "arXiv:2609.06671v1 Announce Type: cross Abstract: Group-based RLVR methods estimate advantages by repeatedly sampling multiple trajectories for each prompt, making long-horizon agent training expensive and discarding useful experience accumulated across iterations. We ask whether historical experience can replace these repeated within-iteration comparisons without directly optimizing on stale t...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.06671"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-10",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.06671"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-10",
+  "expiryAt": "2026-10-10T00:00:00.000Z",
+  "author": "Xinhao Yao, Lu Yu, Changhao Wang, Fengwei Teng, Yuyao Zhang, Qing Cui, Jun Zhou, Yong Liu"
+}

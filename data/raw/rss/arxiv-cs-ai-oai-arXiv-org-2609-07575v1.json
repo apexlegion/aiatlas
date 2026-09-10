@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.07575v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.07575v1",
+    "title": "Efficient Exploration Is Enough",
+    "link": "https://arxiv.org/abs/2609.07575",
+    "description": "arXiv:2609.07575v1 Announce Type: cross Abstract: This work introduces an alternative view of efficient exploration and studies its theoretical and empirical implications in the absence of extrinsic rewards. Specifically, we define efficient explorers as agents that prioritize generating generalizable experience, i.e., data that supports learning models capable of predicting and adapting across the environment. This allows us to analyze efficient exploration through the lens of prediction and generalization. Theoretically, we demonstrate that optimally efficient explorers naturally schedule their trajectories to visit the most informative and learnable regions first. Empirically, we show that optimizing for these agents gives rise to an automatic curriculum of progressively more complex behaviors, even in relatively simple environments. These results indicate that pursuing this purely intrinsic objective alone is enough to drive the emergence of highly sophisticated behaviors. We believe that this new framework provides a principled mechanism by which agent-environment systems may sustain an open-ended process of increasingly complex behavior without external rewards, tasks, or objectives.",
+    "publishedAt": "2026-09-10",
+    "author": "Mikel Malag\\'on, Jon Vadillo, Josu Ceberio, Michael Bowling, Jose A. Lozano",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

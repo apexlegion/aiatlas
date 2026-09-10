@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.05928v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.05928v1",
+    "title": "Solving versus Verifying: Catching Contradictions in Tax Reasoning Systems",
+    "link": "https://arxiv.org/abs/2609.05928",
+    "description": "arXiv:2609.05928v1 Announce Type: cross Abstract: Large language models now compute correct tax liabilities on over 90% of well-formed cases in statutory benchmarks, which makes them candidates for the tax-advisory and compliance systems that consume such an answer directly. Real legal inputs, however, are frequently defective: required facts are missing, or stated facts contradict one another. Accuracy on clean benchmarks says nothing about how a model behaves then, and a system that computes straight through a defective input returns a confident number with no sign that anything is wrong. This raises two questions: does a model asked to solve a case abstain when the input is defective, and when it does not, can the same model catch the defect when asked instead to verify the input? We study six recent models on SARA-derived tax cases under missing-fact and contradictory-fact perturbations. The strongest models abstain when a fact is missing but compute through injected contradictions, returning the clean-input answer 63-76% of the time with no signal of the conflict; asked instead to verify the same input, they flag most of those contradictions. We wire that verification call into a simple contradiction gate: one extra call that abstains when the model reports a conflict. Across all six models it recovers most of the missed contradiction abstention at a clean-accuracy cost of at most about 5 percentage points, with no training and no external tooling. High accuracy on well-formed inputs is therefore an incomplete measure of reliability, and the detection the solver misses is cheaply recoverable with a single self-check.",
+    "publishedAt": "2026-09-10",
+    "author": "Albert Sadowski, Jaros{\\l}aw A. Chudziak",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.06615v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.06615v1",
+    "title": "MemCorr-DP: Counterfactual Correspondence Conditioning for a Diffusion Policy Guided by a Reference",
+    "link": "https://arxiv.org/abs/2609.06615",
+    "description": "arXiv:2609.06615v1 Announce Type: cross Abstract: Behavior-cloned visuomotor policies can remain accurate near their training distribution yet fail when object position and camera viewpoint change together. A successful reference trajectory contains the geometry needed to transfer the same interaction, but the policy must align that geometry with the current scene and remain sensitive to it during denoising. To address these challenges, we present MemCorr-DP, a diffusion policy that lifts frozen RoMa v2 matches into explicit 3D relations between the current scene and the reference trajectory. A counterfactual paired objective assigns opposite behaviors the same physical state and noisy action while retaining reference-specific denoising targets. Mixed-condition fine-tuning then adapts the policy from ground-truth geometry to measured correspondence errors. Our strongest evaluation places the Door in the outermost position bands beyond the training support and changes the query camera by $\\pm15^\\circ$. Under this combined shift, MemCorr-DP achieves 96.67% closed-loop success, compared with 88.00% for a visual Transformer with the same action architecture. Objective ablations and reference interventions show that behavior responds to the selected reference, while matched controls favor the complete relation set over future motion or centroid geometry alone. These results support explicit 3D reference relations as a robust conditioning interface when spatial and viewpoint changes are compounded in the evaluated task.",
+    "publishedAt": "2026-09-10",
+    "author": "Tan Su, Haoxiang Yang, Ruxin Wang, Binghui Xie",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

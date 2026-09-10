@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-08452v1",
+  "name": "SRPO: Setwise Relative Policy Optimization for Multi-Agent LLMs",
+  "summary": "arXiv:2609.08452v1 Announce Type: new Abstract: Multi-agent large language models solve complex tasks by coordinating several policies in a shared environment. However, existing reinforcement learn...",
+  "description": "arXiv:2609.08452v1 Announce Type: new Abstract: Multi-agent large language models solve complex tasks by coordinating several policies in a shared environment. However, existing reinforcement learning methods usually optimize each response or trajectory separately, even when several outputs jointly cause one state transition. Consequently, the update unit differs from the action executed by the...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.08452"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-10",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.08452"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-10",
+  "expiryAt": "2026-10-10T00:00:00.000Z",
+  "author": "Shengtian Yang, Ziyu Xiong, Yu Li, Yewen Li, Qingpeng Cai, Lei Feng"
+}

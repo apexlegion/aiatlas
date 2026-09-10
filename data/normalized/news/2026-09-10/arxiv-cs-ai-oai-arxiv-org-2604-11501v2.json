@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2604-11501v2",
+  "name": "Attention-Weighted Value Projection for KV-Cache Compression",
+  "summary": "arXiv:2604.11501v2 Announce Type: replace-cross Abstract: Rank reduction discards dimensions; quantization keeps them at lower precision. Comparing the two requires a choice of what compression sho...",
+  "description": "arXiv:2604.11501v2 Announce Type: replace-cross Abstract: Rank reduction discards dimensions; quantization keeps them at lower precision. Comparing the two requires a choice of what compression should preserve. For attention values, we study reconstruction of the attention output rather than reconstruction of the values alone. With fixed attention weights, the optimal orthogonal rank-$r$ projec...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2604.11501"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-10",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2604.11501"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-10",
+  "expiryAt": "2026-10-10T00:00:00.000Z",
+  "author": "Samuel Salfati"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2511.18493v5",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2511.18493v5",
+    "title": "SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation",
+    "link": "https://arxiv.org/abs/2511.18493",
+    "description": "arXiv:2511.18493v5 Announce Type: replace-cross Abstract: The significant variability in cell size and shape continues to pose a major obstacle in computer-assisted cancer detection on gigapixel Whole Slide Images (WSIs), due to cellular heterogeneity. Current CNN-Transformer hybrids use static computation graphs with fixed routing. This leads to extra computation and makes it harder to adapt to changes in input. We propose Shape-Adapting Gated Experts (SAGE), an input-adaptive framework that enables dynamic expert routing in heterogeneous visual networks. SAGE reconfigures static backbones into dynamically routed expert architectures via a dual-path design with hierarchical gating and a Shape-Adapting Hub (SA-Hub) that harmonizes feature representations across convolutional and transformer modules. Embodied as SAGE with ConvNeXt and Vision Transformer UNet (SAGE-ConvNeXt+ViT-UNet), our model achieves a Dice score of 95.23% on EBHI, DSC scores of 92.78% and 91.42% on GlaS Test A and Test B, respectively, and 91.26% DSC at the WSI level on DigestPath, while exhibiting robust generalization under distribution shifts by adaptively balancing local refinement and global context. SAGE establishes a scalable foundation for dynamic expert routing in visual networks, thereby facilitating flexible visual reasoning. Project page: https://oxyzgiahuy.github.io/sage/",
+    "publishedAt": "2026-09-10",
+    "author": "Gia Huy Thai, Hoang-Nguyen Vu, Anh-Minh Phan, Quang-Thinh Ly, Tram Dinh, Thi-Ngoc-Truc Nguyen, Nhat Ho",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

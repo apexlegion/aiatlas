@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.25836v3",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.25836v3",
+    "title": "AI Snitches Get Glitches: Towards Evading Agentic Surveillance",
+    "link": "https://arxiv.org/abs/2606.25836",
+    "description": "arXiv:2606.25836v3 Announce Type: replace Abstract: AI agents are now routinely entrusted with access to users' data and communications, operating with growing autonomy and low human supervision. This increasing reliance on AI agents introduces a novel privacy risk that we call agentic surveillance, wherein third-party-provided agents leverage their access privilege to monitor for specific user behaviors, compile a targeted report, and covertly deliver it via tools. Users under surveillance may have neither the ability to control nor awareness of what the agents do on their behalf. To study the surveillance capabilities of different LLMs, we construct SURVEILBENCH, a benchmark dataset comprising over 300 diverse surveillance scenarios across domains. We find that several LLMs, such as Gemini 3.1 Pro, report users in at least 3--30% of cases, even when they are not explicitly instructed to do so. Despite safety guardrails and alignment to protect user privacy, almost all models can be readily prompt-tuned to conduct extensive surveillance in &gt;75% of cases. Intriguingly, we also observe the agents reporting the surveillance attempt itself to government authorities. Finally, we repurpose prompt injection for the opposite goal---evading surveillance---and develop three techniques that let users hide from, deceive, or induce over-escalation in surveillance agents. We conclude that agentic surveillance is already easy to implement in practice, and we call for a comprehensive technical, ethical, and legislative framework to protect users.",
+    "publishedAt": "2026-09-10",
+    "author": "Hyejun Jeong, Dzung Pham, Amir Houmansadr, Eugene Bagdasarian",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

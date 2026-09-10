@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2508.19576v3",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2508.19576v3",
+    "title": "ReST-RL: Reinforcing LLM Reasoning through Unified Self-Training and Value-Guided Search",
+    "link": "https://arxiv.org/abs/2508.19576",
+    "description": "arXiv:2508.19576v3 Announce Type: replace Abstract: With respect to improving the reasoning accuracy of LLMs, the representative reinforcement learning (RL) method - Group Relative Policy Optimization (GRPO) - has achieved critical success, yet it still suffers from the issue of insignificant reward signals. This paper introduces ReST-RL, a unified Reinforced Self-Training (ReST) policy-value framework that reconnects policy optimization and value-guided search to improve LLM reasoning ability. Firstly, ReST-GRPO adopts an optimized ReST-style algorithm to reshape the policy-induced trajectory distribution by increasing the reward variance of GRPO sampling and exposing the policy to more informative partial states, thereby improving training efficiency and effectiveness. Then, we further introduce a decoding optimization method, VM-MCTS, which trains a Value Model (VM) from self-collected Monte-Carlo Tree Search (MCTS) targets and deploys it through an adapted MCTS algorithm to provide precise process signals and verification scores, further enhancing reasoning accuracy. These two stages are internally dependent - ReST-GRPO yields higher-quality trajectories for value learning with VM-MCTS, which in turn enables more effective inference-time search. We validate our framework on multiple coding benchmarks (e.g., APPS, BigCodeBench, and HumanEval), where it significantly outperforms other reinforcement training baselines (naive GRPO, DAPO, and ReST-DPO), as well as decoding and verification baselines (e.g., PRM-BoN and ORM-MCTS), indicating its power to strengthen LLM reasoning capability. Moreover, we further evaluate ReST-RL on out-of-domain math and science reasoning tasks, where it achieves improved performance without target-domain tuning and favorable end-to-end efficiency trade-offs, providing preliminary transfer evidence beyond our primary coding domain.",
+    "publishedAt": "2026-09-10",
+    "author": "Sining Zhoubian, Dan Zhang, Jie Tang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.08094v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.08094v1",
+    "title": "CIVI: A Framework for Diagnosing Search Agent Failures in Civic Information",
+    "link": "https://arxiv.org/abs/2609.08094",
+    "description": "arXiv:2609.08094v1 Announce Type: new Abstract: Large Language Models are increasingly deployed in public-sector settings, where incorrect guidance can cause irreversible harm. We introduce CIVI, the first framework for diagnosing search agent failures in civic information. Its benchmark instantiation jointly spans cross-national, interjurisdictional government contexts (federal, state, and local) and functional categories from an internationally adopted United Nations standard. We evaluate ten frontier search agents and find that none matches an attentive human baseline. Alongside accuracy, CIVI measures search invocation rate, selective no-search accuracy, and how often agents cite authoritative government sources. To perform this diagnosis, we introduce ARISE, which decomposes agentic search failures into four mutually exclusive modes, isolated via source-injection ablation. ARISE attributes 72.1% of all observed failures to retrieval-bound causes rather than to gaps in the models' parametric knowledge.",
+    "publishedAt": "2026-09-10",
+    "author": "Dingying Liu, Yunshun Zhong, Wentao Zhang, Yiyuan Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

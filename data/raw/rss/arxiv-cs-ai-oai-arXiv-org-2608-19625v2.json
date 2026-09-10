@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.19625v2",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.19625v2",
+    "title": "Scientific Data Skills: Enabling Agent-Ready Scientific Data Services at Scale",
+    "link": "https://arxiv.org/abs/2608.19625",
+    "description": "arXiv:2608.19625v2 Announce Type: replace Abstract: Scientific data are increasingly used by AI agents, yet existing dataset representations provide limited support for reliable dataset discovery and interpretation, constraining their effective use in scientific workflows. This limitation arises because agents must search across heterogeneous repositories and reconstruct dataset-specific semantics and operating procedures from documentation designed primarily for human use. To address this limitation, we introduce the Scientific Data Skill (SciDSK), an agent-ready representation that packages dataset-specific knowledge and operational guidance as a reusable agent skill. A SciDSK integrates dataset descriptions, scientific context, file organization, task-specific usage procedures, quality checks, and provenance information while retaining the underlying data in its original repository. We define a structured SciDSK specification and develop a systematic construction pipeline that grounds each SciDSK in authoritative dataset records and associated supporting materials. We further establish the Scientific Data Skill Bank, a unified platform that publishes SciDSK resources across six scientific disciplines and supports package access, persistent identification, and traceability to source datasets. We evaluate SciDSK through a retrieval benchmark for dataset discovery and controlled cases for dataset interpretation. On the query retrieval benchmark, Agent-SciDSK achieves 80.77% Hit@1, exceeding Agent-Raw by 9.62 percentage points. Across controlled interpretation cases, the SciDSK condition satisfies 23 of 24 assessment criteria, compared with 22 under the web-page condition. These results indicate that SciDSK improves how agents locate and understand scientific datasets, providing a stronger foundation for actionable scientific data use.",
+    "publishedAt": "2026-09-10",
+    "author": "Xiaohan Huang, Qingqing Long, Xiaolei Du, Siyu Pu, Jiawen Xu, Haotian Chen, Chenyang Zhao, Jinbiao Liu, Xuezhi Wang, Hengshu Zhu, Yuanchun Zhou",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

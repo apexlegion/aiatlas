@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.07013v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.07013v1",
+    "title": "ARNAI: Artifact Removal Network based on Autoencoding and Inpainting for Robust Spinal Image Segmentation and Measurement",
+    "link": "https://arxiv.org/abs/2609.07013",
+    "description": "arXiv:2609.07013v1 Announce Type: cross Abstract: Purpose: This study aims to develop an AI framework applicable for postoperative imaging for automated measurement of spinopelvic parameters on radiographs with robustness to the presence of spinal implants. Materials and Methods: We retrospectively reviewed lateral lumbar spine radiographs from two institutions (Internal: January 2017--December 2024; External: October 2021--September 2025). We developed the Restore, Segment, and Measure (RSM) framework, incorporating a novel Artifact Removal Network based on Autoencoding and Inpainting (ARNAI) to mitigate implant-related artifacts in postoperative radiographs. Segmentation and spinopelvic parameter (PT, LL, SS, SCA) measurement performance were assessed using Wilcoxon signed-rank tests and intraclass correlation coefficients. Results: When ARNAI was added to a recent Transformer-based segmentation model, FCBFormer, the mean DSC increased to 0.870 from 0.814, with marked gains at L3--L5 and smaller improvements at L1--L2. On 91 radiographs with implants, the mean L4--L5 segmental Cobb angle error decreased to 4.7 {\\deg} from 15.6--16.2 {\\deg}, an average error reduction of 70%. The ICC for L4--L5 segmental Cobb angle improved to 0.54 (Rater 1) and 0.59 (Rater 2) from 0.18, and ICCs for pelvic tilt, lumbar lordosis, and sacral slope all exceeded 0.70. The improvement in L4--L5 segmental Cobb angle error was statistically significant in the internal implant-containing cohort after correction for multiple comparisons. Conclusion: The proposed RSM framework improved automated spinopelvic parameter measurement in implant-containing postoperative radiographs. By mitigating implant-related artifacts, ARNAI improved segmentation and downstream measurement accuracy, with the greatest benefit observed for L4--L5 segmental Cobb angle estimation, where the mean error was reduced by approximately 70%.",
+    "publishedAt": "2026-09-10",
+    "author": "Sang-Jin Park, Jinyoung Choi, Seokwon Kim, Seungeon Song, Insu Park, Dougho Park, Taeyeon Kim, Youjin Lee, Donghoon Yang, Jaeman Cho, Joongwon Yang, Mansu Kim, Heumdai Kwon, Hong Gyu Baek, Dae Chul Cho, Injung Kim",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

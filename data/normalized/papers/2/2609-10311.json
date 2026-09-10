@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2609-10311",
+  "name": "One Loop, Two Gains: Can Active Learning win the Lottery for Free?",
+  "summary": "The lottery ticket hypothesis posits the existence of winning tickets: sparse subnetworks that, when trained in isolation from their original initialization, match the accuracy of the full dense ne...",
+  "description": "The lottery ticket hypothesis posits the existence of winning tickets: sparse subnetworks that, when trained in isolation from their original initialization, match the accuracy of the full dense network. The predominant method for discovering such tickets, iterative magnitude pruning, alternates pruning with full retraining from scratch until convergence over many cycles. Similarly, deep active learning also retrains a model from scratch after each acquisition round as new labels become available. Despite this shared reliance on iterative retraining with a substantial computational overhead...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.10311v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-09",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.10311v1"
+    }
+  ],
+  "authors": [
+    "Benedikt Tscheschner",
+    "Eduardo Veas",
+    "Marc Masana"
+  ],
+  "paperId": "2609.10311",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-09",
+  "abstract": "The lottery ticket hypothesis posits the existence of winning tickets: sparse subnetworks that, when trained in isolation from their original initialization, match the accuracy of the full dense network. The predominant method for discovering such tickets, iterative magnitude pruning, alternates pruning with full retraining from scratch until convergence over many cycles. Similarly, deep active learning also retrains a model from scratch after each acquisition round as new labels become available. Despite this shared reliance on iterative retraining with a substantial computational overhead..."
+}

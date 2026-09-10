@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.07462v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.07462v1",
+    "title": "When Superpixels Fail on Documents: A Study of Segmentation for LIME Explanations",
+    "link": "https://arxiv.org/abs/2609.07462",
+    "description": "arXiv:2609.07462v1 Announce Type: cross Abstract: Post-hoc explanation methods are widely used to inspect image classifiers, but their reliability depends on design choices that are often treated as implementation details. We study this issue for LIME on document image classification, focusing on the segmentation step that defines the interpretable units being perturbed. Standard image-based LIME typically relies on natural-image superpixels, which are poorly aligned with document structure such as text regions, layout blocks, and identification codes. Using RVL-CDIP, we compare Quickshift and SLIC with document-aware segmentations based on OCR bounding boxes and regular grids. Our results show that segmentation strongly affects explanation consistency, correctness, and local fidelity. Document-aware segmentations produce more stable and faithful explanations, require fewer perturbations to converge, and expose shortcut behaviour based on document identification codes, a known RVL-CDIP bias that superpixel-based LIME often obscures. These findings show that reliable post-hoc explanation requires domain-aware interpretable representations, and that segmentation should be treated as part of the explanation method rather than as neutral preprocessing.",
+    "publishedAt": "2026-09-10",
+    "author": "Quentin Telnoff, Emanuela Boros, Micka\\\"el Coustaty, Robin Jarry, Fabrice Crohas, Antoine Doucet",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

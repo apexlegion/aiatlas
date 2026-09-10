@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.07155v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.07155v1",
+    "title": "Mind the Approximation: Fisher-Weighted SVD Compression for ViTs",
+    "link": "https://arxiv.org/abs/2609.07155",
+    "description": "arXiv:2609.07155v1 Announce Type: cross Abstract: Model compression is key to mitigate deployment challenges of ever growing machine learning models. In this area of research, singular value decomposition (SVD)-based compression offers a compelling trade-off between computational efficiency and model accuracy. Fisher-weighted SVD in particular provides principled, loss-aware compression. However, we find that improving the fidelity of Fisher approximation used in the compression is poorly predictive of post-compression accuracy for Vision Transformers (ViTs). Motivated by this observation, we propose FACTS, a structured Fisher Approximation tailored to Compressing ViTs with Fisher-weighted SVD, which enforces token-local aggregation while preserving within-token activation-gradient dependence. Additionally, we introduce a fast Constrained Rank Search (CoRS), that optimizes layer-wise rank allocation while adhering to a fixed floating point operation (FLOP) constraint. Extensive experiments across ViTs and hybrid architectures demonstrate that FACTS consistently improves accuracy-efficiency trade-offs without requiring finetuning. Notably, it outperforms the strongest SVD baseline by up to +5.8 percentage points (p.p.) Top-1 on Swin-B, with further gains driven by our search method. Code is available at https://github.com/MoritzTho/FACTS.",
+    "publishedAt": "2026-09-10",
+    "author": "Moritz Thoma, Maximilian Groezinger, Maximilian Forstenh\\\"ausler, Emad Aghajanzadeh, Ryan Pegoud, Manoj Rohit Vemparala, Pierpaolo Mori, Alexander Frickenstein, Daniel Mueller-Gritschneder, Ulf Schlichtmann",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

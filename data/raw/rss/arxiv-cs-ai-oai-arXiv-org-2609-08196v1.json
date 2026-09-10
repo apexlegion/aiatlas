@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.08196v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.08196v1",
+    "title": "Qiushi Engine on AstaBench E2E-Bench-Hard",
+    "link": "https://arxiv.org/abs/2609.08196",
+    "description": "arXiv:2609.08196v1 Announce Type: new Abstract: This report analyzes Qiushi Engine v0.8 across all 40 test tasks in AstaBench E2E-Bench-Hard, a benchmark that requires autonomous agents to carry a research question through experimental design, code implementation, actual execution, result analysis, and report delivery. Qiushi Engine is model-configurable; this evaluation selected DeepSeek deepseek-v4pro-preview as the model backend. The official AstaBench leaderboard records a score of 0.816 and an average benchmark cost of USD 15.209 per task, while the full-precision local recomputation is $81.59 \\pm 1.87$. Four tasks satisfied every rubric item, yielding a full-task completion rate of 4/40 = 10% -- 7 percentage points above, and about 3.3 times, the approximately 3% best rate reported for AstaBench's official agents. Across 507 required rubric items, 416 were satisfied (82.1%). Official scoring archives and 40 Meta-Trace records show sustained production and verification of reports, code, and experimental artifacts; the principal gaps lie in repeated runs, external dependencies, specified metrics, and ablation studies. The report explains the benchmark, system workflow, aggregate results, representative cases, and limits of interpretation.",
+    "publishedAt": "2026-09-10",
+    "author": "Wenhao Li, Shuxing Yang, Fujia Chen, Jincheng Mi, Yuang Pan, Rui Zhao, Zichen Li, Junyao Wu, Shenzhan Hong, Yaqi Li, Yize Wang, Kaihao Zhu, Taowen Deng, Junjie Yang, Hongsheng Chen, Yihao Yang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

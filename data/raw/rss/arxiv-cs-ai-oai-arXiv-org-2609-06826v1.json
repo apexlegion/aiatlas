@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.06826v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.06826v1",
+    "title": "Formation of structural attractors in neuromorphic systems",
+    "link": "https://arxiv.org/abs/2609.06826",
+    "description": "arXiv:2609.06826v1 Announce Type: new Abstract: This paper examines the theory of Invariant Structural Learning (ISL), which proposes a non-optimization approach to concept formation. Learning is interpreted as convergence to structural attractors in a hypergraph space, rather than as the minimization of a global loss function. The paper presents the ISL model, including its mathematical formalization, computational verification, and a hypothetical neurobiological interpretation. The mathematical section introduces the formal apparatus of the structural reduction process and proves its finite convergence, the existence and uniqueness of class structural attractors, and the self-organization of attractor maps. The computational section demonstrates the feasibility of the proposed approach on classical image recognition tasks, utilizing the proposed learning mechanism without backpropagation and with extremely small training datasets. Finally, the neurobiological section formulates hypotheses regarding the possible implementation of structural attractors in dendritic trees, neural coding as a projection of internal attractor dynamics, and the development of neural architectures supporting the proposed learning concept. These hypotheses are discussed in the context of modern experimental data in the fields of dendritic computations, synaptic plasticity, and the structural organization of neural circuits. The proposed neurobiological mechanisms are presented as testable hypotheses rather than established biological facts. The results demonstrate the mathematical consistency and computational feasibility of the proposed model, while the neurobiological hypotheses outline potential directions for its experimental verification.",
+    "publishedAt": "2026-09-10",
+    "author": "Yurii Parzhyn, Alexander Schwarzmann, Mykyta Lapin, Kostiantyn Bokhan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

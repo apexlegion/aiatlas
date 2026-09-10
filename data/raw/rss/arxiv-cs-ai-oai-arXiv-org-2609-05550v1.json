@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.05550v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.05550v1",
+    "title": "Subject-Relative Micro-Motion and Sleep Dynamics for Near-Infrared Video Sleep Staging",
+    "link": "https://arxiv.org/abs/2609.05550",
+    "description": "arXiv:2609.05550v1 Announce Type: cross Abstract: Near-infrared (NIR) video is a promising modality for contactless sleep monitoring, but recent video-based sleep staging methods often use it as a route to reconstructed respiratory/cardiac proxies or cross-modal physiological representations. We study video-only sleep staging under labels defined by polysomnography (PSG), where the model infers sleep stages from NIR video alone without explicit physiological proxy reconstruction or auxiliary physiological signal supervision. This tests whether NIR video itself can provide informative sleep-stage evidence, rather than only serving as an input for recovering physiological proxies. We propose ViNUSS (Video-Native Unmediated Sleep Staging), a framework that combines subject-relative micro-motion learning with full-night sleep dynamics modeling. Spatially anchored pre-spatial micro-motion encoding preserves localized temporal variation together with its spatial context. Within-subject stage contrast learns stage cues with respect to each subject's night-specific baseline. Two-scale sleep dynamics modeling captures within-epoch motion evolution and organizes epoch-level evidence into a coherent full-night sleep-stage trajectory. On 475 overnight NIR recordings (~3,250 hours), ViNUSS achieves 0.80 accuracy and 0.78 macro-F1 for four-class sleep staging. Interpretability analysis suggests attention to thoraco-abdominal periodic motion and gross body movements associated with arousals and position changes. These results support NIR video as an independently informative and complementary modality for PSG-defined sleep-stage estimation",
+    "publishedAt": "2026-09-10",
+    "author": "Kunmin Jang, You Rim Choi, Hun Heo, Heonjun Lee, Suahn Bae, Dongik Park, Hyun-Woo Shin, Hyung-Sin Kim",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

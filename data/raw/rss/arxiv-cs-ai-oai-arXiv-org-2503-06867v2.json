@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2503.06867v2",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2503.06867v2",
+    "title": "Fewer yet critical: Reducing Redundant Token Dependencies for Transformer-based Time Series Forecasting",
+    "link": "https://arxiv.org/abs/2503.06867",
+    "description": "arXiv:2503.06867v2 Announce Type: replace Abstract: Time series forecasting (TSF) is important in real-world applications. Recently, Transformer-based methods have achieved strong performance by modeling token dependencies through attention mechanisms. However, existing methods are usually trained mainly with prediction error losses, which may cause models to exploit both critical and redundant token dependencies. Such redundant dependencies can introduce irrelevant information and weaken generalization. To address this issue, we propose a simple yet effective token dependency selection strategy. Specifically, by jointly introducing the attention entropy constraint and prediction error constraint, the model can identify fewer but more critical inter-token dependencies and perform forecasting based on them, thus avoiding the interference of redundant dependencies. The proposed method can be easily extended to various Transformer-based TSF models. Experiments on multiple TSF datasets demonstrate its effectiveness.",
+    "publishedAt": "2026-09-10",
+    "author": "Jianqi Zhang, Yuchan Liu, Zeen Song, Yuefei Li, Fanjiang Xu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

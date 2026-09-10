@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.06157v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.06157v1",
+    "title": "From Splats to Silicon: Rethinking Computational Efficiency of 3DGS",
+    "link": "https://arxiv.org/abs/2609.06157",
+    "description": "arXiv:2609.06157v1 Announce Type: cross Abstract: 3D Gaussian splatting (3DGS) represents scenes with explicit primitives and supports real-time novel-view synthesis, yet its system efficiency varies substantially across scenes, viewpoints, rendering paths, and platform constraints. Existing studies pursue efficiency through representation and algorithm design, GPU runtime optimization, and architectural support, but their reported gains correspond to different points along the rendering and update paths. Connecting these indicators to end-to-end system benefit requires tracing how each optimization changes Gaussian selection, screen-space work, data movement, and stage or frame time. We therefore use a workload-centric framework to connect representation and algorithm research, GPU runtimes, and hardware architectures and to identify recurring workload patterns. We complement literature analysis with reproduced measurements and controlled GPU profiling of selected implementations, relating workload counts to stage time and memory traffic. Together, these comparisons show that system gains depend on workload reductions reaching downstream execution, granularity matching each stage, and the cost of data transfers, synchronization, and cached results, gradients, and optimizer data. Building on these findings, we discuss more consistent evaluation under rendering-quality constraints and identify key directions for future system design.",
+    "publishedAt": "2026-09-10",
+    "author": "Minnan Pei, Qiwei Dong, Yihan Zhou, Gang Li, Yuchen Zhu, Wenju Zhao, Zhongtian Long, Siting Wang, Peisong Wang, Jian Cheng",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.07075v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.07075v1",
+    "title": "A Hierarchical Consistency Framework for Auditing Retrieval-Augmented Generation Systems",
+    "link": "https://arxiv.org/abs/2609.07075",
+    "description": "arXiv:2609.07075v1 Announce Type: new Abstract: Retrieval-augmented generation (RAG) is commonly evaluated by whether the final answer is correct. That test is insufficient: an answer can match its reference while the context that produced it contains a direct contradiction, leaving the contested evidence invisible to answer-only review and retrieval relevance scores. This paper presents the Hierarchical Consistency Framework (HCF), a post-hoc, model-agnostic audit of three distinct levels of a RAG process: the knowledge corpus, the final retrieved context, and the generated answer. HCF represents corpus conflicts as source-linked atomic facts, thereby identifying the documents responsible, and returns each Answer Consistency Score (ACS) with an explanation of supporting and contradictory contextual statements. We evaluate HCF on several controlled corpora spanning five domains and 100 query-corpus instances. A human evaluator compares every generated response with its supplied ground-truth response. The results show that the three diagnostic levels can dissociate: the corpus with the highest mean retrieval similarity has the lowest mean ACS, while a structurally degraded corpus performs worse at corpus level but better at answer level. Most importantly, HCF identifies contradictory retrieved evidence in several cases where the answer still matches the ground truth. HCF does not certify factual truth; it makes the evidence supporting and challenging an answer inspectable and attributable.",
+    "publishedAt": "2026-09-10",
+    "author": "Ramon Gonzalez, Antonio Diaz",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

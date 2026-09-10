@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.07102v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.07102v1",
+    "title": "AstroSpecLM: A Spectrum-Language Model for Evidence-Grounded Astronomical Spectral Analysis",
+    "link": "https://arxiv.org/abs/2609.07102",
+    "description": "arXiv:2609.07102v1 Announce Type: cross Abstract: Astronomical spectra encode rich physical information, but drawing scientific conclusions from spectral features typically requires expert interpretation. This paper presents AstroSpecLM, a spectrum-language model that connects one-dimensional DESI spectra with Qwen3-4B to answer questions and provide explanations grounded in spectral evidence. Instead of generating question-answer pairs directly from templates or raw catalog fields, we first distill each spectrum into a compact set of catalog- and spectrum-derived facts, then use these facts as references to generate instruction-following conversations. The resulting model is competitive with specialist supervised baselines on classification and redshift estimation, while additionally producing natural-language explanations that reference specific spectral features. Our results indicate that grounding a language model in one-dimensional scientific spectra is feasible, and that fact-mediated instruction data yields a model capable of both prediction and explanation.",
+    "publishedAt": "2026-09-10",
+    "author": "Jinghang Shi, Yanxia Zhang, Ali Luo, Changhua Li, Xiao Kong",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

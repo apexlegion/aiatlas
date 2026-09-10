@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2511.05933v3",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2511.05933v3",
+    "title": "Reinforcement Learning Improves Traversal of Parametric Knowledge in LLMs",
+    "link": "https://arxiv.org/abs/2511.05933",
+    "description": "arXiv:2511.05933v3 Announce Type: replace-cross Abstract: Reinforcement learning (RL) is often credited with improving reasoning at the expense of factual knowledge. We instead find that reasoning models outperform their instruction-tuned versions on factual recall by accessing existing parametric knowledge more effectively. Across five model families, structured prompting, which explicitly guides models through hierarchical traversal, recovers most of this gap, suggesting that much of the missing knowledge is latent rather than absent. Controlled RL experiments further support this: training on unseen, non-extractable facts improves recall of held-out, frequent but previously inaccessible facts, ruling out simple data exposure. Decomposing the training objective further attributes this gain to iterated on-policy exploration. The same mechanism appears behaviorally and internally: the reasoning advantage grows with retrieval depth, while layerwise analysis finds similar factual representations but divergent query representations. Distilled models, in contrast, often imitate self-correction without acquiring the exploration needed for navigation. Together, these findings suggest that improving factual recall in LLMs depends not only on expanding what models know but also on teaching them to navigate it, motivating future post-training methods that optimize traversal.",
+    "publishedAt": "2026-09-10",
+    "author": "Renfei Zhang, Manasa Kaniselvan, Rylan Schaeffer, Niloofar Mireshghallah",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

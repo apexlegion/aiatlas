@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.07586v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.07586v1",
+    "title": "A Tool-Augmented, GPT-4 Chatbot for Real-Time Repository Data Analysis",
+    "link": "https://arxiv.org/abs/2609.07586",
+    "description": "arXiv:2609.07586v1 Announce Type: new Abstract: Software repositories contain vast amounts of data on code contributions, bug reports, and project activities, yet this information remains challenging for non-technical stakeholders and developers to access due to limited expertise in querying repositories. To address this, we introduce a novel chatbot architecture leveraging OpenAI's GPT-4 model for automated extraction and analysis of repository data. In contrast, our architecture takes a structured path first by parsing the user's query to extract relevant parameters, then selecting the correct tool to employ based on that analysis, and finally invoking the GPT-4 model to create a highly detailed response. In contrast to previous work based on multi-component systems with embedding models and document retrievers, our architecture inverts the process by relying on prompt engineering and tool selection to fit with the query intent. To validate our approach, we conducted experiments on various question types, including Issues, Pull Requests, Commits, Compound Questions, and General Repository Information, evaluating our target prompts' ability to improve the accuracy of responses from the model. Beyond demonstrating the utility of this architecture to a diverse set of users, our findings suggest that this architecture can make repository data more accessible to technical and non-technical audiences through the production of actionable insights.",
+    "publishedAt": "2026-09-10",
+    "author": "Muhammad Jawad Chowdhury, Md. Sakib Khan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

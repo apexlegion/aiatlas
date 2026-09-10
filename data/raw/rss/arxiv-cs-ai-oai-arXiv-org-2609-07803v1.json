@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.07803v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.07803v1",
+    "title": "Understanding the Impact of Model Pruning on Long-Tail Forgetting and Explanation Reliability in Medical Imaging",
+    "link": "https://arxiv.org/abs/2609.07803",
+    "description": "arXiv:2609.07803v1 Announce Type: new Abstract: Model pruning is widely used to compress deep neural networks, reducing memory and computational requirements with minimal impact on aggregate performance. However, its effect on model behavior remains poorly understood, particularly for long-tailed medical datasets where rare but clinically important conditions are underrepresented. Furthermore, it remains unclear whether pruned models preserve reliable explanations of their predictions. To address this gap, we present a systematic study of long-tail forgetting and explanation reliability under model pruning. Across two long-tailed medical imaging datasets, two CNN architectures, four pruning methods, and sparsity levels up to 95\\%, we evaluate predictive performance, explanation stability, and explanation faithfulness. Our results show that predictive performance exhibits a strong frequency-dependent trend, with lower-frequency classes generally experiencing earlier and larger degradation than higher-frequency classes. In contrast, explanation stability and faithfulness are influenced primarily by the pruning strategy, with gradient-informed methods preserving explanation reliability more effectively under aggressive compression. Qualitative and mechanistic analyses further indicate that explanation degradation is primarily associated with the collapse of class-discriminative gradients rather than the disappearance of feature activations. These findings suggest that model compression should be evaluated beyond aggregate performance. Incorporating class-aware and explanation-aware evaluation reveals failure modes that would otherwise remain hidden, while moderate sparsity levels provide a practical balance between compression, predictive performance, and explanation reliability.",
+    "publishedAt": "2026-09-10",
+    "author": "Nazish Khalid, Tausifa Jan Saleem, Amal Saqib, Donald C. Wunsch II, Mohammad Yaqub",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

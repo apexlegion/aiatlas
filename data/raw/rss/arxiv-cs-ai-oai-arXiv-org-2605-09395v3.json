@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.09395v3",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.09395v3",
+    "title": "Empowering VLMs for Few-Shot Multimodal Time Series Classification via Tailored Agentic Reasoning",
+    "link": "https://arxiv.org/abs/2605.09395",
+    "description": "arXiv:2605.09395v3 Announce Type: replace Abstract: In this paper, we propose the first VL\\underline{\\textbf{M}} \\underline{\\textbf{a}}gentic \\underline{\\textbf{r}}easoning framework for few-\\underline{\\textbf{s}}hot multimodal \\underline{\\textbf{T}}ime \\underline{\\textbf{S}}eries \\underline{\\textbf{C}}lassification (\\textsc{MarsTSC}), which introduces a self-evolving knowledge bank as a dynamic context iteratively refined via reflective agentic reasoning. The framework comprises three collaborative roles: i) Generator conducts reliable classification via reasoning; ii) Reflector diagnoses the root causes of reasoning errors to yield discriminative insights targeting the temporal features overlooked by Generator; iii) Modifier applies verified updates to the knowledge bank to prevent context collapse. We further introduce a test-time update strategy to enable cautious, continuous knowledge bank refinement to mitigate few-shot bias and distribution shift. Extensive experiments across 12 mainstream time series benchmark datasets demonstrate that \\method{} delivers substantial and consistent performance gains across 5 VLM backbones, outperforming both classical and foundation model-based time series baselines under few-shot conditions, while producing interpretable rationales that ground each classification decision in human-readable feature evidence. Code is available at https://github.com/HuangJW0821/MarsTSC.",
+    "publishedAt": "2026-09-10",
+    "author": "Lin Li, Jiawei Huang, Qihao Quan, Dan Li, Boxin Li, Xiao Zhang, Erli Meng, Wenjie Feng, Jian Lou, See-Kiong Ng",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.07213v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.07213v1",
+    "title": "Unraveling the Real Working Mechanism and Inherent Flaws of GAE: A Method for Interpreting Transformer Processes from an Economic Perspective",
+    "link": "https://arxiv.org/abs/2609.07213",
+    "description": "arXiv:2609.07213v1 Announce Type: new Abstract: We observe a phenomenon that current algorithmic research in the field of explainable artificial intelligence primarily pursues better performance on several proxy metrics. On the one hand, these proxy metrics themselves are more or less flawed and cannot properly measure the quality of methods. On the other hand, metric-oriented research approaches often lead to the neglect of the rationality and interpretability of the methods themselves. Explainable artificial intelligence is abbreviated as XAI. The metric-driven research paradigm has resulted in a lack of interpretability of the relevant XAI methods themselves. Accordingly, there is a need for interpretability research on XAI methods, which can be playfully referred to as XXAI. This paper is one of our works on XXAI. This paper takes Generic Attention-model Explainability (GAE), a widely influential model interpretation method , or rather, XAI method that represents an important technical route, as the research object, and explores the real working mechanism and flaws of this method as well as the technical route it represents. Based on the conclusions of this study, it may be necessary to re-examine or verify GAE-related methods and their domain applications. We argue that GAE is an interpretation method that focuses on the attention process. After pointing out the working mechanism and flaws of GAE, we propose Cumulative Asset Holdings (CAH), a more reasonable Transformer interpretation method integrating both process-based and feature-based ideas from an economic zero-sum games perspective. In addition, it is worth noting that our method is applicable to models with special tokens, where existing methods may suffer from limitations. The model simplification research method and the analysis of additive operations adopted in this study may provide inspiration for other research works in XAI.",
+    "publishedAt": "2026-09-10",
+    "author": "Yongjin Cui, Xiaohui Fan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

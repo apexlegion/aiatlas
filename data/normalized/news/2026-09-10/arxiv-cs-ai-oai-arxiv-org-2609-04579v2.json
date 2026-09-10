@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-04579v2",
+  "name": "Does the Selected Object Reach the Reader? Auditing Identity Handoffs in Grounded Language-Model Pipelines",
+  "summary": "arXiv:2609.04579v2 Announce Type: replace Abstract: Grounded language-model pipelines can be divided into three stages: selecting an object, retrieving passages for it, and using that evidence to a...",
+  "description": "arXiv:2609.04579v2 Announce Type: replace Abstract: Grounded language-model pipelines can be divided into three stages: selecting an object, retrieving passages for it, and using that evidence to answer. If the selected object must reach the reader, losing it breaks the handoff. Benchmark recall checks the dataset-linked object, which can differ. We audit 600 HybridQA questions across three sel...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.04579"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-10",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.04579"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-10",
+  "expiryAt": "2026-10-10T00:00:00.000Z",
+  "author": "Siddharth Vohra, Runmin Jiang, Xiaomo Li, Min Xu"
+}

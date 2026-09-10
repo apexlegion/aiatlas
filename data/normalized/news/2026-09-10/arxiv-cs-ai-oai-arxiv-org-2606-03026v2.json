@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2606-03026v2",
+  "name": "Spike-Aware INT8 Execution for Spiking Language Models on Commodity CPUs",
+  "summary": "arXiv:2606.03026v2 Announce Type: replace-cross Abstract: Binary spike activations allow a language-model runtime to read only active weight columns and replace multiplications by weight sums. We i...",
+  "description": "arXiv:2606.03026v2 Announce Type: replace-cross Abstract: Binary spike activations allow a language-model runtime to read only active weight columns and replace multiplications by weight sums. We implement this execution strategy in C++ for an 874M-parameter spike-gated language model. Sparse projections use column-major INT8 weights, integer accumulation, and one scale application per output c...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2606.03026"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-10",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2606.03026"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-10",
+  "expiryAt": "2026-10-10T00:00:00.000Z",
+  "author": "Ting Liu"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "paper",
+  "slug": "2609-10441",
+  "name": "ConvMem: Convolutional Memory for Long-Context Reasoning",
+  "summary": "While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches li...",
+  "description": "While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches like MemAgent extend the effective context by reading text in segments and iteratively updating a fixed-size memory. However, this sequential paradigm suffers from high latency and requires costly reinforcement learning (RL) training, which can lead to overfitting on specific datasets. To overcome these limitations, we propose ConvMem, a training-free, highly parallelizable framework that reformulat...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.10441v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-09",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.10441v1"
+    }
+  ],
+  "authors": [
+    "Hongming Zhang",
+    "Zhaozhen Gu",
+    "Fengshuo Bai",
+    "Ming Hao",
+    "Qingyang Zhang",
+    "Yuanyuan Wang",
+    "Shiyang Tang",
+    "Yanna Wang",
+    "Bo Xu"
+  ],
+  "paperId": "2609.10441",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-09",
+  "abstract": "While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches like MemAgent extend the effective context by reading text in segments and iteratively updating a fixed-size memory. However, this sequential paradigm suffers from high latency and requires costly reinforcement learning (RL) training, which can lead to overfitting on specific datasets. To overcome these limitations, we propose ConvMem, a training-free, highly parallelizable framework that reformulat..."
+}

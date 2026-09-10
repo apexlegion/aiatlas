@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.08882v5",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.08882v5",
+    "title": "Epistemic Transfer in AI-Assisted Verification: A Framework and Evaluation Protocol",
+    "link": "https://arxiv.org/abs/2608.08882",
+    "description": "arXiv:2608.08882v5 Announce Type: replace-cross Abstract: AI tools can improve claim judgments while leaving open what users can do later without them. This paper develops an evaluation framework for epistemic transfer: the effect of prior AI-assisted verification on delayed judgments of novel claims under a specified access regime. The contribution is a verification-specific synthesis of learning, transfer, and human--AI evaluation, organized around two complementary estimands. The Epistemic Transfer Effect (ETE) compares delayed performance after alternative practice conditions. Tool-Removal Cost (TRC) compares immediate performance with and without assistance after practice; despite its name, it measures a current availability effect, not skill loss or psychological dependence. The proposed randomized protocol includes answer-first and evidence-first interfaces, active practice, a no-additional-practice comparator, and held-out claims. It specifies how to account for learning opportunities introduced by assessment, elicit confidence probabilities, average model predictions over a target population, and handle attrition and uncertainty. Reading ETE and TRC together distinguishes relative capability gains, equivalence, transfer penalties, and unresolved outcomes. A ``verification-on-loan'' profile is explicitly comparator-relative and cannot be inferred from a nonsignificant delayed contrast. A brief illustration from a two-wave verification study shows why these distinctions matter: an uncertain delayed interface contrast and an ordered assisted--unassisted probe cannot establish a clean transfer profile. The framework makes a practical demand: when independent judgment matters, evaluate both what assistance contributes now and what prior use changes later.",
+    "publishedAt": "2026-09-10",
+    "author": "Christoph Trattner",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

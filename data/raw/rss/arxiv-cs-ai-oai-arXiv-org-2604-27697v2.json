@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.27697v2",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.27697v2",
+    "title": "Deep Learning-Based Segmentation of Peritoneal Cancer Index Regions from CT Imaging",
+    "link": "https://arxiv.org/abs/2604.27697",
+    "description": "arXiv:2604.27697v2 Announce Type: replace-cross Abstract: Peritoneal metastases (PM) are staged using the surgically determined Peritoneal Cancer Index (sPCI), which requires invasive laparoscopic assessment. Although CT is routinely used for preoperative evaluation, imaging-based assessment of PM extent remains challenging and is often less structured than surgical PCI scoring. A recent consensus study defined radiological PCI (rPCI) regions for cross-sectional imaging. We present the first deep learning approach to automatically segment 13 rPCI regions on CT. 62 contrast-enhanced CT scans were retrospectively collected across the full PCI range. Each scan was annotated into non-overlapping rPCI regions by one researcher, reviewed by a second, with disagreements resolved by a radiologist. Using five-fold cross-validation, we compared nnU-Net and Swin UNETR with Dice, 95th-percentile Hausdorff distance (HD95) and Average Surface Distance (ASD). We introduce an anatomically constrained pipeline that trains on merged super-regions and splits them during post-processing using TotalSegmentator landmarks at the hips and the ligament of Treitz. On this 62-scan cohort, the baseline nnU-Net reached an overall Dice of 0.81 and outperformed Swin UNETR (0.76). The proposed pipeline improved the overall Dice to 0.84 and reduced boundary error (HD95 13.7 to 11.8 mm; ASD 4.1 to 3.4 mm), with the largest gains in the small-bowel regions, approaching the interobserver Dice of 0.87. Automated rPCI region segmentation on CT is feasible and approaches interobserver agreement. Encoding anatomical boundary constraints substantially improves segmentation quality in the most challenging regions. This provides a reproducible foundation for non-invasive, imaging-based PCI assessment. The main limitations are the single-center cohort and the small interobserver subset.",
+    "publishedAt": "2026-09-10",
+    "author": "Pieter C. Gort, Lotte J. S. Fleurkens-Ewals, Lenah D. Kampmeijer, Anna F. van Herwijnen, Marion W. Tops-Welten, Cris H. B. Claessens, Joost Nederend, Ignace H. J. T. De Hingh, Max J. Lahaye, Misha D. P. Luyer, Fons van der Sommen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.29308v2",
+  "fetchedAt": "2026-09-10T07:13:58.128Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.29308v2",
+    "title": "Improving Randomized Metric Distortion to 2.1441",
+    "link": "https://arxiv.org/abs/2608.29308",
+    "description": "arXiv:2608.29308v2 Announce Type: replace-cross Abstract: In metric social choice, voters rank candidates by their distances in an unknown metric space. A voting rule uses these rankings to select a candidate or a lottery over candidates, aiming to minimize the average distance to voters. Distortion measures the worst-case approximation ratio. While the best distortion of deterministic rules is $3$, prior work pins down the best distortion of randomized rules to $[2.1126,2.5]$. We improve the upper bound to $2.1441$, closing over $90\\%$ of this gap. The proof introduces random-size stable lotteries, proves their existence, and derives the new bound through a potential argument. All the proofs were obtained using GPT-5.6-Sol with significant guidance from the author, who verified them and simplified the exposition.",
+    "publishedAt": "2026-09-10",
+    "author": "Nisarg Shah",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

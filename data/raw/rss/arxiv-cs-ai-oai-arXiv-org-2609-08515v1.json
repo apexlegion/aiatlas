@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.08515v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.08515v1",
+    "title": "Same Values, Different Languages? From Multilingual Probing to Steering LLMs Toward Chinese Social Values",
+    "link": "https://arxiv.org/abs/2609.08515",
+    "description": "arXiv:2609.08515v1 Announce Type: cross Abstract: As Large Language Models (LLMs) are increasingly integrated into human society, aligning them with pluralistic social values has become a critical priority. However, whether LLMs exhibit consistent value preferences across languages remains underexplored, particularly for culturally grounded values, which are more abstract and difficult to evaluate and align than safety-centric principles. We investigate this issue through Chinese Social Values (CSV), a value system rooted in Chinese culture and comprising $12$ dimensions across national, societal, and personal levels. We construct C-Voices, the first comprehensive multilingual contrastive probe dataset for CSV, with 86,400 dilemma-based instances in six languages, each pairing a CSV-aligned action with a value-conflicting alternative. Building on the contrastive probes of C-Voices, we then propose a fine-tuning-free value vector steering method that derives value directions from hidden-state discrepancies and selectively intervenes on value-sensitive layers during inference. Experiments on six languages show that CSV-oriented preferences are model-dependent and language-sensitive, with the same dilemma eliciting divergent responses across languages. Our method achieves effective CSV steering, supports cross-lingual transfer of value vectors, and generalizes to existing FLAMES and ValuePrism.",
+    "publishedAt": "2026-09-10",
+    "author": "Yuemei Xu, Kexin Xu, Jian Zhou, Haoyu Lu, Yequan Wang, Aishan Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

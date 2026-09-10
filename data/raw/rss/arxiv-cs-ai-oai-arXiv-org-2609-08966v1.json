@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.08966v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.08966v1",
+    "title": "Good Pretraining, Bad SFT: Checkpoint Quality Across the Training Stack",
+    "link": "https://arxiv.org/abs/2609.08966",
+    "description": "arXiv:2609.08966v1 Announce Type: new Abstract: Language-model checkpoints are commonly selected by pretraining loss or benchmark scores, assuming that the highest-scoring checkpoint will remain the best starting point for subsequent training. We show that this assumption can fail in a full 30B mixture-of-experts training pipeline. The checkpoints that perform better after the full downstream training stack also have higher solution density, i.e., retain downstream performance under local weight perturbations.",
+    "publishedAt": "2026-09-10",
+    "author": "Sohir Maskey, Philipp Scholl, Jonas Knupp, Pit Neitemeier, Sascha Wirges",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.07258v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.07258v1",
+    "title": "MV-STRIDE: Enabling MLLMs to Master Multi-View Spatial Reasoning via Hierarchical Capability Modeling",
+    "link": "https://arxiv.org/abs/2609.07258",
+    "description": "arXiv:2609.07258v1 Announce Type: cross Abstract: Despite the rapid progress of Multimodal Large Language Models (MLLMs) in 2D vision-language tasks, robust multi-view spatial reasoning remains a fundamental bottleneck due to the lack of structured 3D cognitive pathways in existing datasets. To address this, we introduce MV-STRIDE, a Multi-View hierarchical SpaTial Reasoning dataset with Interdependent and DEcomposed capabilitiEs. Moving beyond flat data structures, MV-STRIDE explicitly models the dependency relationships between foundational perception, scene understanding, and complex contextual reasoning, providing a coherent learning pathway aligned with human spatial cognition. We develop a systematic QA generation pipeline leveraging diverse 3D scene sources that enforces cross-view dependency constraints to prevent single-view solvability, generating multi-level spatial reasoning tasks supported by cognitively grounded chain-of-thought supervision for complex inference. Extensive evaluations demonstrate that our multi-stage training framework based on our hierarchical dataset achieves state-of-the-art performance across multiple spatial reasoning benchmarks, notably the multi-view oriented MMSI-Bench. Our approach enables MLLMs to maintain robust, 3D-consistent spatial reasoning across diverse viewpoints. The code and dataset are available at https://co1dspring.github.io/MV-STRIDE/.",
+    "publishedAt": "2026-09-10",
+    "author": "Jin Xu, Xiaojian Huang, Zhuodong Luo, Zhihong Zhang, Xin Liu, Jiansheng Wei, Xinzhi Wang, Jie Zhao, Xuejin Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.08375v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.08375v1",
+    "title": "IPM-FM: A Foundation Model with Consensus Feature Selection for Industrial Process Monitoring",
+    "link": "https://arxiv.org/abs/2609.08375",
+    "description": "arXiv:2609.08375v1 Announce Type: cross Abstract: Industrial process monitoring is fundamental to the safety and economic performance of modern process plants. Current practice remains a one-task-one-model paradigm that is label-inefficient and prone to degradation under operating drift. Foundation models have reshaped language, vision, and generic time-series forecasting, but it has not been adapted to industrial process monitoring. This setting poses domain-specific challenges, including safety-critical decisions and asymmetric sampling between process variables and laboratory measurements. We propose the industrial process monitoring foundation model (IPM-FM). It first learns general-purpose representations from unlabeled industrial process data through self-supervised pretraining, then adapts to specific monitoring tasks using a small amount of task-labeled data, and finally produces calibrated predictions through an uncertainty-aware prediction head. IPM-FM integrates a self-supervised Informer backbone with a multi-criteria consensus feature selector, a recursive lag-feature regression head, and a calibrated Monte Carlo dropout uncertainty module. On a seven-year hydrotreater dataset for diesel flash-point soft sensing, IPM-FM attains an RMSE of 2.99, $R^2$ of 0.50, and 97\\% coverage of its 95\\% predictive interval, outperforming the strongest classical and from-scratch sequence baselines by 8.3\\% and 14.6\\% in RMSE respectively, supporting the viability of a unified pretraining--adaptation framework for industrial process monitoring.",
+    "publishedAt": "2026-09-10",
+    "author": "Liang Cao, Weide Liu, Yan Qin, Jun Cheng, Weisi Lin, Bhushan Gopaluni",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.06636v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.06636v1",
+    "title": "TD-STGT: A Spatio-Temporal Graph Transformer for Mobile Traffic Demand Forecasting",
+    "link": "https://arxiv.org/abs/2609.06636",
+    "description": "arXiv:2609.06636v1 Announce Type: cross Abstract: Fine-grained mobile traffic demand forecasting is essential for long-term planning of 5G and future 6G networks, including radio upgrades, site densification, backhaul expansion, and spectrum activation. This paper proposes the Traffic Demand Spatio-Temporal Graph Transformer (TD-STGT), a graph neural forecasting framework for predicting changes in wireless mobile traffic demand across fine geographic grids. The framework uses a population-scaled demand proxy developed from crowdsourced mobile measurements and daytime population information. Experiments across five Canadian metropolitan regions show that TD-STGT achieves the best performance in forecasting grid-level demand changes, reaching a $\\Delta R^2$ of 0.462 and reducing $\\Delta$RMSE by 5.7\\% relative to the strongest baseline. The proposed model provides a practical tool for identifying areas with increasing demand pressure and prioritizing future mobile-network capacity upgrades.",
+    "publishedAt": "2026-09-10",
+    "author": "Mohamad Alkadamani, Halim Yanikomeroglu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

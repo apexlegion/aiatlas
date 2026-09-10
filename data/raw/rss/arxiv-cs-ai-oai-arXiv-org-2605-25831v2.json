@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.25831v2",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.25831v2",
+    "title": "Clarify, Abstain or Answer? Strategising in Conversation with Belief-Augmented Generation",
+    "link": "https://arxiv.org/abs/2605.25831",
+    "description": "arXiv:2605.25831v2 Announce Type: replace-cross Abstract: Large language models (LLMs) define a distribution over text, which can be viewed as a probabilistic representation of uncertainty: sampling K responses yields a belief state - responses a model deems plausible. Existing work exploits this representation for narrow tasks like either decoding or selective prediction, and often requires manual interventions, not controlling generation directly. We propose Belief-Augmented Generation (BAG): grounding LLMs in their own belief state via the prompt and letting them reason over these K samples to decide on and execute a conversational strategy: clarify, abstain, or answer. In a multi-turn ambiguous question answering (QA) setting, we find that LLMs by default rarely clarify or abstain, ignoring uncertainty about the input (aleatoric) or facts (epistemic). BAG improves QA accuracy across six models and yields strategy decisions more faithful to their belief state than prompt-only baselines. Disentangling when to clarify from when to abstain, however, remains challenging.",
+    "publishedAt": "2026-09-10",
+    "author": "Joris Baan, Wilker Aziz, Barbara Plank, Raquel Fern\\'andez",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

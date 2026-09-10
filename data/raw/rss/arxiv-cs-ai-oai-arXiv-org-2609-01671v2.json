@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.01671v2",
+  "fetchedAt": "2026-09-10T07:13:58.128Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.01671v2",
+    "title": "Ranked by the Matcher: A Reproducibility Audit of Knowledge Graph Extraction from Threat Reports",
+    "link": "https://arxiv.org/abs/2609.01671",
+    "description": "arXiv:2609.01671v2 Announce Type: replace-cross Abstract: Security teams and researchers choose knowledge-graph extraction tooling for threat reports on the strength of published triple-F1 scores, yet those scores depend on how predicted triples are matched to gold annotations. We could reimplement the stated matching rule for only five of twelve inspected systems. Re-scoring ten system outputs on shared documents under eight protocols reverses eleven of forty-five pairwise orderings; one fixed prediction set spans 0.16--0.70 F1. On an external, human-adjudicated set, no mechanical matcher---lexical, embedding, or entailment---agrees with the reviewers more than seven times in ten; an LLM judge agrees far more often. To separate component effects from matcher rewards, we build CTIForge, whose deterministic validation layer can vary while extraction is held byte-identical. Across seven tested deployment configurations, no hosted backbone loses precision under validation and every offline one does. Backbone, decoding, and prompting covary across those configurations; on the one backbone we could serve both ways, serving alone reproduces the split. It coincides with a roughly 2.8-fold increase in actions explicitly disputing entity type, consistent with hand-written rules encoding the conventions of the extractor against which they were developed. We release the pipeline, protocol suite, and per-triple audit records.",
+    "publishedAt": "2026-09-10",
+    "author": "Safayat Bin Hakim, Houbing Herbert Song",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

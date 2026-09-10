@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.06611v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.06611v1",
+    "title": "SAGE: A Hierarchical Framework for Evaluating Interpretive Literary Quality in Narratives",
+    "link": "https://arxiv.org/abs/2609.06611",
+    "description": "arXiv:2609.06611v1 Announce Type: cross Abstract: Assessing the literary quality of narratives requires evaluating interpretive dimensions (cultural representation, emotional depth, and philosophical engagement) that existing NLG metrics cannot measure. We introduce SAGE, a six-layer evaluation framework that separates rule-based assessment of observable textual properties from LLM-based evaluation of interpretive qualities drawn from cultural theory, affect theory, and existentialist philosophy. Each interpretive layer is assessed through multi-round iterative LLM evaluation with independent cross-validation, achieving measurement-grade reliability (98.8% convergence, &gt;94% inter-rater agreement) stable across evaluator models. Validated on 600 evaluations across 100 short stories, our central finding is a systematic capability boundary: emotional-psychological representation approaches human levels, while cultural critique and philosophical depth exhibit approximately double the gap. LLM-generated narratives score below even commercial genre fiction on all three layers. We interpret this as a boundary between pattern-reproducible literary capacities learnable from training corpora and stance-requiring ones demanding cultural positioning and philosophical engagement that pattern matching alone cannot provide.",
+    "publishedAt": "2026-09-10",
+    "author": "Tianyu Wang, Nianjun Zhou",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

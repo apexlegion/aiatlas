@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2504.21323v3",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2504.21323v3",
+    "title": "How to Backdoor Image Knowledge Distillation",
+    "link": "https://arxiv.org/abs/2504.21323",
+    "description": "arXiv:2504.21323v3 Announce Type: replace-cross Abstract: Knowledge distillation is widely used to transfer behavior from a large teacher model to a smaller student. It is often assumed to be safe when the teacher is clean, because classic backdoor attacks rely on poisoned labels and triggers in supervised training, whereas distillation trains the student to match a teacher's outputs. We show that this assumption can fail when the distillation dataset itself is poisoned. Our attack injects triggered and manipulated images that a clean teacher already predicts as an attacker chosen target label, which causes the student to learn a backdoor even though the teacher remains unaffected. We evaluate this threat across multiple manipulation strategies, including targeted adversarial perturbations and targeted GAN based class transitions, and study how distillation settings influence both accuracy and attack success. We show that the attack remains effective even at a 10% poisoning rates. The results demonstrate that a clean teacher alone is not a sufficient safeguard: poisoned distillation data can produce a strongly backdoored student while maintaining competitive performance on clean images. These findings show that the integrity and provenance of distillation data are part of the security boundary of data intensive KD pipelines, even when the teacher itself is trusted.",
+    "publishedAt": "2026-09-10",
+    "author": "Qian Ma, Chen Wu, Prasenjit Mitra, Sencun Zhu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

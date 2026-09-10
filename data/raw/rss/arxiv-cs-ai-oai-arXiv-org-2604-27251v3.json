@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.27251v3",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.27251v3",
+    "title": "Compliance vs. Sensibility: On the Reasoning Controllability in Large Language Models",
+    "link": "https://arxiv.org/abs/2604.27251",
+    "description": "arXiv:2604.27251v3 Announce Type: replace-cross Abstract: Large Language Models (LLMs) acquire reasoning capabilities through shared inference patterns in pre-training data, which are further elicited via Chain-of-Thought (CoT). However, whether fundamental reasoning patterns, such as induction, deduction, and abduction, can be decoupled from specific problem instances remains a critical challenge for model controllability. In this paper, we present the first systematic investigation of this problem through the lens of reasoning conflicts, an explicit tension between parametric and contextual information induced by mandating logical schemata that deviate from those expected for a target task. Our evaluation reveals that LLMs consistently prioritize sensibility over compliance, favoring task-appropriate reasoning patterns despite conflicting instructions. We further demonstrate that reasoning conflicts are internally detectable, as confidence scores drop during conflicting episodes. Probing reveals instruction decodability even without compliance, while CKA identifies geometric differences across models and spans. Leveraging these insights, we steer models towards compliance, increasing instruction following by up to 29%. Overall, our findings establish that while LLM reasoning is anchored to concrete instances, active mechanistic interventions can effectively decouple logical schemata from data, offering a path toward improved controllability, faithfulness, and generalizability.",
+    "publishedAt": "2026-09-10",
+    "author": "Xingwei Tan, Marco Valentino, Mahmud Elahi Akhter, Yuxiang Zhou, Maria Liakata, Nikolaos Aletras",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

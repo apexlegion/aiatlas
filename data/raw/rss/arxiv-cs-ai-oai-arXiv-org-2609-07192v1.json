@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.07192v1",
+  "fetchedAt": "2026-09-10T07:13:58.127Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.07192v1",
+    "title": "FedRAW: Preserving Rare-Label Influence in Asynchronous Federated Learning",
+    "link": "https://arxiv.org/abs/2609.07192",
+    "description": "arXiv:2609.07192v1 Announce Type: cross Abstract: Asynchronous federated learning improves scalability by updating the global model from a server-side buffer of client updates as they arrive, rather than waiting for all selected clients to finish. While efficient, this arrival-driven aggregation can silently distort representation learning under heterogeneous participation. We identify silent rarity failure, a hidden failure mode in which clients holding rare labels contribute too weakly to the global model even though its overall accuracy appears largely unaffected. This failure arises from two coupled effects: rare-label clients may submit updates less frequently when they are slower or less available, creating participation bias; and once their updates enter the buffer, standard asynchronous aggregation assigns them no compensating influence, creating aggregation bias. We propose FedRAW, a fully server-side aggregation method that preserves rare-label influence without changing local training, client objectives, or communication protocols. FedRAW combines client-level update deduplication, which prevents frequently arriving clients from repeatedly dominating the update buffer, with rare-label-aware weighting, which increases the influence of clients carrying low-coverage labels. We formalize silent rarity failure through participation and aggregation bias, and show that FedRAW increases rare-label client influence over uniform aggregation while preserving convergence. Across EMNIST Balanced, CIFAR-10, HAM10000, and ISIC-2019, FedRAW improves rarelabel accuracy while preserving comparable global accuracy and adding negligible server-side computation.",
+    "publishedAt": "2026-09-10",
+    "author": "Prashant Bajpai, Divya Saxena, Philippe Lalanda, German Vega",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
