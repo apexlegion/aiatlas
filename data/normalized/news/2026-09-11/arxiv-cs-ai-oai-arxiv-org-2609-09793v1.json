@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-09793v1",
+  "name": "How Fragile Is Safety Alignment at Frontier Scale? A Single-Direction Attack on a 320B MoE",
+  "summary": "arXiv:2609.09793v1 Announce Type: cross Abstract: Directional ablation removes an aligned language model's ability to refuse by projecting a single \"refusal direction\" out of the weights that write...",
+  "description": "arXiv:2609.09793v1 Announce Type: cross Abstract: Directional ablation removes an aligned language model's ability to refuse by projecting a single \"refusal direction\" out of the weights that write the residual stream. It needs no gradient-based training and no optimization, only a few hundred contrastive prompts, which makes it the canonical white-box attack on open-weight alignment. However,...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.09793"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-11",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.09793"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-11",
+  "expiryAt": "2026-10-11T00:00:00.000Z",
+  "author": "Yi Shi, Tanyu Chen, Kai Shen"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2502.01555v3",
+  "fetchedAt": "2026-09-11T07:13:17.212Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2502.01555v3",
+    "title": "Query Brand Entity Linking in E-Commerce Search",
+    "link": "https://arxiv.org/abs/2502.01555",
+    "description": "arXiv:2502.01555v3 Announce Type: replace-cross Abstract: Associating user search queries with the correct brand entity is critical for e-commerce product retrieval, yet remains challenging due to the brevity of queries (three to four words on average), their lack of grammatical structure, and a catalog of hundreds of thousands of distinct brands. We formulate this as a brand entity linking task and develop two complementary solutions deployed at scale: (1) a cascaded pipeline that first detects brand mentions via sequence labeling and then disambiguates against a brand knowledge base, and (2) a single-stage approach that frames linking as extreme multiclass classification, directly mapping queries to brand identifiers. Through extensive multilingual evaluation (11 languages) and a controlled online experiment, we demonstrate that the proposed methods substantially improve brand recall while maintaining high precision, leading to measurable gains in customer engagement.",
+    "publishedAt": "2026-09-11",
+    "author": "Dong Liu, Sreyashi Nag",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

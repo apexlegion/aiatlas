@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-09-10T07:13:56.157Z",
+  "fetchedAt": "2026-09-11T07:13:15.646Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -26,7 +26,7 @@
       "region:us"
     ],
     "downloads": 2140894,
-    "likes": 8128,
+    "likes": 8135,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -220,19 +220,22 @@
       }
     ],
     "spaces": [
+      "embedl/hfviewer",
       "RioShiina/ImageGen",
-      "multimodalart/lora-ease",
-      "frogleo/Image-to-3D",
-      "John6666/DiffuseCraftMod",
       "yanze/PuLID-FLUX",
+      "multimodalart/lora-ease",
+      "John6666/DiffuseCraftMod",
       "diffusers/stable-diffusion-xl-inpainting",
+      "frogleo/Image-to-3D",
       "tencent/Hunyuan3D-2mini-Turbo",
       "eduagarcia/multilingual-tokenizer-leaderboard",
       "hugging-apps/qwen-video-edit",
       "Mlihan2/Tripix-media-engine",
       "franckgastel/Hunyuan3D-2mv",
+      "ramazanoff34/Neo-Pix",
       "shootstuff/flux-img2img-uncensored",
       "BoobyBoobs/Flux_Lustly_AI_Uncensored_NSFW_V1",
+      "ibyteohdear/10max",
       "InstantX/InstantID",
       "yisol/IDM-VTON",
       "VAST-AI/TripoSG",
@@ -316,10 +319,7 @@
       "clinteroni/outpainting-with-differential-diffusion-demo",
       "briaai/BRIA-Eraser-API",
       "jeasinema/UltraEdit-SD3",
-      "Nymbo/image_gen_supaqueue",
-      "tight-inversion/tight-inversion-pulid-demo",
-      "fffiloni/StyleAligned_Transfer",
-      "wcy1122/MGM"
+      "Nymbo/image_gen_supaqueue"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {

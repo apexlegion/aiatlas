@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.09953v1",
+  "fetchedAt": "2026-09-11T07:13:17.212Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.09953v1",
+    "title": "Improving Cross-Lingual Token Representations by Adding a Pinch of SALT",
+    "link": "https://arxiv.org/abs/2609.09953",
+    "description": "arXiv:2609.09953v1 Announce Type: cross Abstract: Cross-lingual sentence encoders enable scalable transfer across hundreds of languages, powering applications such as translation mining and zero-shot learning in low-resource settings. Although trained for sentence-level alignment, they are increasingly also applied to token-level tasks such as hallucination detection and sequence tagging, exposing a mismatch between training and usage. We propose SALT, a lightweight post-training method that improves token representations by injecting span-level supervision into existing sentence encoders. Across five multilingual token-level benchmarks, SALT achieves the best overall results on four of them, outperforming alternative fine-tuning strategies and competitive encoders. It also improves sentence-level performance on cross-lingual retrieval and classification tasks. These results demonstrate that span-level supervision is an effective signal for improving both token and sentence representations.",
+    "publishedAt": "2026-09-11",
+    "author": "Guillem Ram\\'irez",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

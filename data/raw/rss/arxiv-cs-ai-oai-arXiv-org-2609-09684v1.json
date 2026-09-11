@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.09684v1",
+  "fetchedAt": "2026-09-11T07:13:17.212Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.09684v1",
+    "title": "Which Medical Questions Deserve Rationales? Perturbation-Sensitive Selection for Robust QA",
+    "link": "https://arxiv.org/abs/2609.09684",
+    "description": "arXiv:2609.09684v1 Announce Type: cross Abstract: Medical question-answering datasets often contain answer labels, whereas high-quality rationales remain scarce, noisy, or costly to validate. This changes the acquisition question: rather than asking which questions should be labeled, we ask which already-labeled questions should receive rationale supervision under a fixed token budget. We study an offline version of this problem in which candidate rationales are visible to the selector but withheld from downstream training unless selected. We propose root-mean-square Robustness-based Sample Prioritization (RMS-RSP), which perturbs hidden states only at rationale tokens and measures the resulting shift in the gold-versus-best-distractor margin. Across five medical QA datasets, MedGemma-4B-IT, three training seeds, ten budgeted non-RSP selectors, and an unbudgeted full-supervision reference, RMS-RSP provides a deliberately qualified result. Its locked-budget accuracy is 60.61% on average versus 60.08% for Random, with a statistically resolved gain only on AfriMed-QA (+1.44 points). Its full-budget accuracy area is not better than Random. However, after three answer-option reorderings, RMS-RSP improves robust accuracy and semantic consistency by 1.91 and 2.85 points on average, respectively, with the same direction on all five datasets. Training on every pool rationale raises macro accuracy to 63.74%, but consumes 29--254 times more rationale tokens and does not uniformly improve robustness. These findings do not establish universal accuracy gains; they instead suggest that rationale-local boundary sensitivity can identify supervision that improves invariance to semantically equivalent formatting changes.",
+    "publishedAt": "2026-09-11",
+    "author": "Yuexin Wu, Dayou Yu, Vasile Rus",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2606-23698v3",
+  "name": "FP8 is All You Need (Part 2): Full-FP64 3-D FFT on FP8-Generation Tensor CoresThe Integer-Epilogue Wall and the Minimal Hardware That Would Remove It",
+  "summary": "arXiv:2606.23698v3 Announce Type: replace-cross Abstract: The NVIDIA Blackwell Ultra (B300) GPU cuts FP64 vector throughput $\\sim 30\\times$ while multiplying FP8 tensor throughput. After the recove...",
+  "description": "arXiv:2606.23698v3 Announce Type: replace-cross Abstract: The NVIDIA Blackwell Ultra (B300) GPU cuts FP64 vector throughput $\\sim 30\\times$ while multiplying FP8 tensor throughput. After the recovery of FP64 GEMM via Ozaki Scheme II on FP8 tensor cores and the Tensor-Memory Equilibrium model of the companions (\"FP8 is All You Need, Part 1\" and \"Ozaki 2.5\") we ask whether the fifth canonical HPC...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2606.23698"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-11",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2606.23698"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-11",
+  "expiryAt": "2026-10-11T00:00:00.000Z",
+  "author": "Satoshi Matsuoka"
+}

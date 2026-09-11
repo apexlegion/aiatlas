@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.23716v4",
+  "fetchedAt": "2026-09-11T07:13:17.212Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.23716v4",
+    "title": "Non-Stationarity Breaks Permutation Surrogates in Multi-Agent Reinforcement Learning: Diagnosis and Remedies",
+    "link": "https://arxiv.org/abs/2604.23716",
+    "description": "arXiv:2604.23716v4 Announce Type: replace Abstract: Reporting guidance for information-theoretic measures is rarely tested against ground truth. We test one guardrail in two multi-agent reinforcement learning games, a social dilemma and a coordination race, where directed influence between selected agent pairs is zero by construction, over 100 seeds. Omitting one precondition, exclusion of the non-stationary training transient, gives false-positive rates of 100.00% and 99.95%: agents annealing exploration independently, in runs that never met, are flagged as influencing one another. Excluding the transient reaches 3.0% in the social dilemma but 11.8% in the coordination game, which stationarity tests explain: 95.7% of social-dilemma series are stationary afterwards against 56.8% of coordination series. So the non-stationarity must be treated, and exclusion is neither the only way nor sufficient. What we recommend instead changes the null model rather than the data: permuting the source within blocks of training time reaches 5.25% and 5.50%, the only one of four constructions at the size of the test in both games, leaving series, statistic and estimand untouched. Titrating injected links of known strength in both games shows it is also the most sensitive of the three, detecting 89.0% in the coordination game where conditioning detects 61.0% on identical pairs, while the ablated test reports 100% with or without a link, so its apparent sensitivity is uninformative. The block count is not critical: every setting from 16 to 256 lands in the nominal region, and a partition derived from the stationarity test removes the parameter, though less sensitively. Code and data are released.",
+    "publishedAt": "2026-09-11",
+    "author": "Nikolaos Al. Papadopoulos, Konstantinos E. Psannis",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-09-10T07:13:56.402Z",
+  "fetchedAt": "2026-09-11T07:13:15.897Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 5106140,
-    "likes": 6257,
+    "downloads": 5051898,
+    "likes": 6260,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -346,11 +346,12 @@
       }
     ],
     "spaces": [
+      "embedl/hfviewer",
       "mteb/leaderboard",
       "openai/whisper",
       "phinam112/OmniVoice-Studio",
-      "eduagarcia/multilingual-tokenizer-leaderboard",
       "RyeAI/danish-asr-leaderboard",
+      "eduagarcia/multilingual-tokenizer-leaderboard",
       "rvguha/HFNLWebDemo",
       "hf-audio/whisper-large-v3",
       "artificialguybr/Video-Transcription-Smart-Summary",
@@ -444,8 +445,7 @@
       "reponislam/openai-whisper-large-v3",
       "Taranosaurus/Tokenizaminer",
       "AilexGPT/YTwhisper_GPT",
-      "pythonitalia/realtime-transcription",
-      "haoxiong693/openai-whisper-large-v3"
+      "pythonitalia/realtime-transcription"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {

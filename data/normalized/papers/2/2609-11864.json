@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2609-11864",
+  "name": "RetroThinker: Enabling Retrospective Thinking in Speech LLMs",
+  "summary": "Speech large language models (SpeechLLMs) offer reduced latency and retain paralinguistic nuances that are typically lost in cascaded automatic speech recognition (ASR) and text-based LM architectu...",
+  "description": "Speech large language models (SpeechLLMs) offer reduced latency and retain paralinguistic nuances that are typically lost in cascaded automatic speech recognition (ASR) and text-based LM architectures. However, they continue to lag behind text-only LLMs on complex reasoning tasks, while real-time spoken interaction imposes strict latency constraints. Although prior works employ Chain-of-Thought (CoT) and concurrent reasoning to enhance reasoning capabilities without inducing prohibitive delays, an inherent accuracy-latency trade-off persists. In this paper, we investigate whether a streamin...",
+  "tags": [
+    "arxiv",
+    "eess.AS"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.11864v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-10",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category eess.AS.",
+      "href": "https://arxiv.org/abs/2609.11864v1"
+    }
+  ],
+  "authors": [
+    "Yi-Jen Shih",
+    "Puyuan Peng",
+    "Abdelrahman Mohamed",
+    "David Harwath"
+  ],
+  "paperId": "2609.11864",
+  "category": "eess.AS",
+  "publishedAt": "2026-09-10",
+  "abstract": "Speech large language models (SpeechLLMs) offer reduced latency and retain paralinguistic nuances that are typically lost in cascaded automatic speech recognition (ASR) and text-based LM architectures. However, they continue to lag behind text-only LLMs on complex reasoning tasks, while real-time spoken interaction imposes strict latency constraints. Although prior works employ Chain-of-Thought (CoT) and concurrent reasoning to enhance reasoning capabilities without inducing prohibitive delays, an inherent accuracy-latency trade-off persists. In this paper, we investigate whether a streamin..."
+}

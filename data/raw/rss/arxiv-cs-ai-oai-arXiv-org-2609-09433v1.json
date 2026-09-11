@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.09433v1",
+  "fetchedAt": "2026-09-11T07:13:17.212Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.09433v1",
+    "title": "Efficient Leakage-Free Neural Architecture Search under Leave-One-Subject-Out Evaluation",
+    "link": "https://arxiv.org/abs/2609.09433",
+    "description": "arXiv:2609.09433v1 Announce Type: cross Abstract: Leave-One-Subject-Out (LOSO) evaluation estimates generalisation performance for subject-based classification but makes Neural Architecture Search (NAS) computationally expensive because a fully nested implementation requires N independent architecture searches and, assuming approximately linear training cost, scales as O(N^2). We propose a leakage-free, block-based approach that shares NAS runs across subjects. On the BioVid Heat Pain dataset, our approach increased the mean accuracy from 82.79% to 83.39% while reducing the number of parameters by up to 99.2%.",
+    "publishedAt": "2026-09-11",
+    "author": "Heinke Hihn",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

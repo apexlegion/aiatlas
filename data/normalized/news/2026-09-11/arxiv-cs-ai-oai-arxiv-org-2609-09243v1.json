@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-09243v1",
+  "name": "In RAG We Trust? Measuring Robustness of Retrieval-Augmented Generation Under Document Poisoning",
+  "summary": "arXiv:2609.09243v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) grounds a language model in retrieved documents, which reduces hallucination but creates a new attack surface:...",
+  "description": "arXiv:2609.09243v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) grounds a language model in retrieved documents, which reduces hallucination but creates a new attack surface: if retrieved text is tampered with, the model may repeat the falsehood. We study how much a small quantized model, Llama 3.1 8B, degrades when a fraction of its retrieved context is poisoned. Three c...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.09243"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-11",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.09243"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-11",
+  "expiryAt": "2026-10-11T00:00:00.000Z",
+  "author": "Iliano Fasolino"
+}

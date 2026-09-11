@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2609-11842",
+  "name": "Model-Aware Schedules Improve Generation via Fiberwise Optimal Transport",
+  "summary": "Diffusion and flow-matching schedules control the signal and noise coefficients that mix data and noise along affine probability paths. Minimizing a kinetic action defined on coefficient paths, mot...",
+  "description": "Diffusion and flow-matching schedules control the signal and noise coefficients that mix data and noise along affine probability paths. Minimizing a kinetic action defined on coefficient paths, motivated by optimal transport, helps explain strong baselines but remains model-agnostic and ignores prediction error. Here we introduce a model-aware schedule construction based on fiberwise optimal transport. At a fixed time and state on the probability path, compatible signal/noise decompositions form an affine fiber. We define a fiberwise prediction risk by averaging optimal-transport costs betw...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.11842v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-10",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.11842v1"
+    }
+  ],
+  "authors": [
+    "Luyi Jia",
+    "Boyan Zhang",
+    "Yilun Liu",
+    "Steffen Rulands"
+  ],
+  "paperId": "2609.11842",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-10",
+  "abstract": "Diffusion and flow-matching schedules control the signal and noise coefficients that mix data and noise along affine probability paths. Minimizing a kinetic action defined on coefficient paths, motivated by optimal transport, helps explain strong baselines but remains model-agnostic and ignores prediction error. Here we introduce a model-aware schedule construction based on fiberwise optimal transport. At a fixed time and state on the probability path, compatible signal/noise decompositions form an affine fiber. We define a fiberwise prediction risk by averaging optimal-transport costs betw..."
+}

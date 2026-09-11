@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.09752v1",
+  "fetchedAt": "2026-09-11T07:13:17.212Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.09752v1",
+    "title": "HiRAD: A Flexible Large-Scale AGV Routing System",
+    "link": "https://arxiv.org/abs/2609.09752",
+    "description": "arXiv:2609.09752v1 Announce Type: cross Abstract: Automatic Guided Vehicles (AGVs) substantially boost warehouse throughput, but routing large-scale AGV fleets remains challenging. Classical Multi-Agent Pathfinding solvers suffer from exploding combinatorial complexity and super-quadratic runtime, while relying on idealized grid or piecewise-linear motion models that mismatch real-world kinematics. Recent Reinforcement Learning (RL) solutions improve flexibility via decentralized agent policies but depend on discretized spatiotemporal representations, require millions of episodes to converge, and incur full-map observation at every step, which leads to large models, slow convergence, and high inference latency that violates real-time industrial control constraints. To address these bottlenecks, we propose HiRAD, a hierarchical RL framework for continuous-space AGV routing with real-time guarantees: (1) a step-level spatiotemporal representation that translates continuous motion into a differentiable RL problem, (2) a hierarchical strategy that splits heading choice from velocity control to reduce the action space, and (3) an asynchronous event-driven decision pipeline that lowers inference complexity from O(n^2) to O(n) and cuts per-step latency by as much as 71 percent. Across random graphs and two warehouse maps, HiRAD reduces makespan by 45 percent to 63 percent and shortens end-to-end runtime.",
+    "publishedAt": "2026-09-11",
+    "author": "Yunjie Huang, Ruizhong Wu, Mengxuan Zhang, Frodo Kin Sun Chan, Yan Nei Law, Lei Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

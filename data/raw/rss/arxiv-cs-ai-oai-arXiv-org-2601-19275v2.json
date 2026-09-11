@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.19275v2",
+  "fetchedAt": "2026-09-11T07:13:17.212Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.19275v2",
+    "title": "Tactile Memory with Soft Robot: Robust Object Insertion via Masked Encoding and Soft Wrist",
+    "link": "https://arxiv.org/abs/2601.19275",
+    "description": "arXiv:2601.19275v2 Announce Type: replace-cross Abstract: Tactile memory, the ability to store and retrieve touch-based experience, is critical for contact-rich tasks such as key insertion under uncertainty. To replicate this capability, we introduce Tactile Memory with Soft Robot (TaMeSo-bot), a system that integrates a soft wrist with tactile retrieval-based control to enable safe and robust manipulation. The soft wrist allows safe contact exploration during data collection, while tactile memory reuses past demonstrations via retrieval for flexible adaptation to unseen scenarios. The core of this system is the Masked Tactile Trajectory Transformer (MAT$^\\text{3}$), which jointly models spatiotemporal interactions between robot actions, distributed tactile cues, force-torque measurements, and proprioceptive signals. Through masked token prediction, MAT$^\\text{3}$ learns rich spatiotemporal representations by inferring missing sensory information from context, autonomously extracting task-relevant features without explicit subtask segmentation. We validate our approach on peg-in-hole tasks with diverse pegs and conditions in real-robot experiments. Our extensive evaluation demonstrates that MAT$^\\text{3}$ achieves higher success rates than the baselines over all conditions and shows remarkable capability to adapt to unseen pegs and conditions.",
+    "publishedAt": "2026-09-11",
+    "author": "Tatsuya Kamijo, Mai Nishimura, Nodoka Shibasaki, Jeremy Siburian, Cristian C. Beltran-Hernandez, Masashi Hamaya",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.09229v1",
+  "fetchedAt": "2026-09-11T07:13:17.212Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.09229v1",
+    "title": "Compute-Bounded Security Assurance - Coverage, Verification, and Response under Resource Constraints",
+    "link": "https://arxiv.org/abs/2609.09229",
+    "description": "arXiv:2609.09229v1 Announce Type: cross Abstract: Additional inference compute can increase the number of correctly resolved security-assurance tasks, but repeated success, unique coverage, accepted evidence, and operational protection are different quantities. We develop a resource-constrained framework that separates them. For repeated conditionally independent attempts with latent success probability $\\Theta$, coverage is $C_n = 1 - E[(1-\\Theta)^n]$, and its limiting value is $1 - P(\\Theta = 0)$. Positive pairwise outcome correlation does not by itself imply a ceiling below one: we construct two models with the same mean success and pairwise correlation but different limiting coverage. We distinguish this result from the effective sample size used to estimate a mean, and show why finite-budget observations cannot generally identify an asymptotic support ceiling. We then connect coverage to fallible evidence checking, proper scoring of factual grounding, complete resource accounting, service capacity, and a response model that includes mitigation delay. A conceptual defensive architecture separates evidence analysis, adjudication, and operational authority. An evaluation protocol specifies held-out tasks, paired comparisons, negative cases, and uncertainty reporting. The contribution is a consistent theoretical synthesis and a set of counterexamples to invalid extrapolations, rather than an empirical scaling law. All numerical illustrations are analytic; no model-parity result, hardware benchmark, or general attacker-defender equilibrium is claimed.",
+    "publishedAt": "2026-09-11",
+    "author": "Jithin VG, Ditto PS",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.09572v1",
+  "fetchedAt": "2026-09-11T07:13:17.212Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.09572v1",
+    "title": "Learning with Synthetic Data via SGD in High-Dimensional Linear Regression",
+    "link": "https://arxiv.org/abs/2609.09572",
+    "description": "arXiv:2609.09572v1 Announce Type: cross Abstract: Synthetic data has become a promising way to scale model training beyond limited human-generated data but it may also induce strong model collapse (Dohmatob et al., 2024), where any fixed fraction of synthetic data prevents model performance from improving under data scaling, leaving a non-vanishing excess risk floor. In this paper, we study how synthetic data affects the generalization of one-pass SGD in high-dimensional linear regression with model shift. We establish finite-sample risk bounds for mixed and two-stage training, separating standard bias and variance from source-mismatch effects, namely fluctuation and persistent drift under mixing and filtered initialization bias under two-stage. These bounds reveal a sharp contrast: mixed training induces strong model collapse, while two-stage training avoids the floor by using synthetic data only in the first stage, showing that collapse is not inevitable under a simple data curriculum. Under a random sketch model, we further obtain scaling laws for both protocols, with tight results for mixed training in the optimization-saturated regime. These laws show that larger models may amplify synthetic-induced degradation under mixing, and quantify how high-quality synthetic pretraining may reduce bias in two-stage training. Finally, we establish an exact finite-sample necessary-and-sufficient condition for two-stage training to strictly outperform real-only training under the same real-data budget and identical real-stage updates. Overall, our results highlight that synthetic data is neither inherently harmful nor beneficial; its effect depends critically on both its quality and the training protocol used to incorporate it.",
+    "publishedAt": "2026-09-11",
+    "author": "Jichu li, Difan Zou",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

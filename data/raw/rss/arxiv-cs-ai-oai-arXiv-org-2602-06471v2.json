@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.06471v2",
+  "fetchedAt": "2026-09-11T07:13:17.212Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.06471v2",
+    "title": "Revisiting the Shape Convention of Transformer Language Models",
+    "link": "https://arxiv.org/abs/2602.06471",
+    "description": "arXiv:2602.06471v2 Announce Type: replace-cross Abstract: The architectural shape of dense Transformers has remained remarkably stable: narrow-wide-narrow feed-forward networks (FFNs) consume most non-embedding parameters. Motivated by theoretical and empirical evidences that residual wide-narrow-wide (hourglass) MLPs remain expressive despite bottlenecks, we revisit whether this architectural convention is necessary for dense language models. We study Hourglass Transformers, which replace the conventional FFN with residual stacks of hourglass sub-MLPs and use hourglass attention to decouple residual-stream width from attention width. This exposes a practical depth-width trade-off: compressing the FFN intermediate dimension allows wider hidden states and fewer layers at matched parameter budgets. Across model scales from 113M to 8B parameters, Hourglass Transformers achieve language-modeling and downstream performance comparable to conventional Transformers, while improving training compute efficiency by $8.7\\%$ at matched average downstream accuracy across the 906M, 3B, and 8B scales. After long-context extension, the 8B Hourglass model also outperforms its matched conventional baseline across 4k-64k context lengths. At 64k context, the reduced attention layer count lowers both computation and KV-cache requirements, yielding up to $1.93\\times$ faster token decoding and $50\\%$ lower KV-cache memory at the 1B scale. These results identify hourglass structures as a practical architecture-efficiency alternative for compute- and latency-conscious Transformer design.",
+    "publishedAt": "2026-09-11",
+    "author": "Feng-Ting Liao, Guan-Ting Yi, Tzu-Quan Lin, Meng-Hsi Chen, Da-shan Shiu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

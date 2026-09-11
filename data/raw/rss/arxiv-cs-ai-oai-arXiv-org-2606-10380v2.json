@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.10380v2",
+  "fetchedAt": "2026-09-11T07:13:17.212Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.10380v2",
+    "title": "Expert-Level Crisis Detection in Mental Health Conversations",
+    "link": "https://arxiv.org/abs/2606.10380",
+    "description": "arXiv:2606.10380v2 Announce Type: replace-cross Abstract: Real-world crisis intervention is inherently conversational, yet existing research largely focuses on static texts. When applied to multi-turn dialogues, current models exhibit significant performance degradation, struggling to track risk signals that emerge as context evolves. To address this gap, we introduce CRADLE-Dialogue, a clinician-annotated benchmark for turn-level crisis detection in conversational settings. The dataset features 600 dialogues with multi-label annotations across clinically grounded risks, including suicide ideation, self-harm, and child abuse, distinguishing past from ongoing risk. We further propose an Alert-Confirm evaluation protocol that distinguishes early warning signals (Alert) from turns where a specific crisis becomes explicitly identifiable (Confirm), reflecting the clinical need to intervene before risk becomes explicit. Experiments show that identifying when risk emerges is much harder than recognizing that it exists: models achieve only mid-40% to high-60% Micro F1. Additionally, we release a synthetic training corpus and a 32B-parameter model that substantially outperforms existing open-source models and achieves competitive or superior results against proprietary models across turn-level, dialogue-level, and confirm-only evaluation settings.",
+    "publishedAt": "2026-09-11",
+    "author": "Grace Byun, Abigail Lott, Rebecca Lipschutz, Sean T. Minton, Elizabeth A. Stinson, Jinho D. Choi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.10060v1",
+  "fetchedAt": "2026-09-11T07:13:17.212Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.10060v1",
+    "title": "Reference-Based Bias Detection in LLMs via Relative Representations of Hidden States",
+    "link": "https://arxiv.org/abs/2609.10060",
+    "description": "arXiv:2609.10060v1 Announce Type: new Abstract: Existing bias auditing methods typically rely on model outputs, requiring costly benchmarks or judge models and potentially missing internal shifts that never appear in generated text. We propose a reference-based method that audits bias in hidden-state representations across related model variants, for example before and after fine-tuning. Because fine-tuning reshapes representation geometry, absolute hidden states are not directly comparable, so we encode each sentence by its similarities to a fixed set of anchor sentences, yielding relative representations in a shared comparison space. There we measure how target groups shift in their association with positive and negative attributes, a quantity we call the Representational Bias Shift $\\Delta B$. Across three model families and the WildGuardMix, DecodingTrust and ToxiGen benchmarks, $\\Delta B$ correlates with output-level bias change in 15 of the 18 settings we test, reaching $|r| = 0.84$ ($p &lt; 0.001$) under full fine-tuning and becoming more model-dependent under parameter-efficient adaptation. Thresholding $\\Delta B$ detects checkpoints whose bias increased with ROC AUC between $0.65$ and $0.99$, and on WildGuardMix and DecodingTrust it separates them better than a SEAT-based baseline for all three families. $\\Delta B$ is also stable under changes to the anchor set, attribute sets and target templates. Our method requires no task-specific evaluation data and audits a model in about three minutes, using $3$-$50\\times$ less compute than the output-level benchmarks considered here. We view it as complementary to output-based auditing rather than a replacement for it.",
+    "publishedAt": "2026-09-11",
+    "author": "Marek Jeli\\'nski, Jan Dubi\\'nski, Maciej Chrabaszcz, Sebastian Cygert",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

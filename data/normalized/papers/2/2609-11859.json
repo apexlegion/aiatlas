@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2609-11859",
+  "name": "From Parameters to Answers: How LLMs Retrieve and Use Their Internal Knowledge",
+  "summary": "How does a language model's dependence on query-routing information and target knowledge change as it answers a question? We study this question through layerwise interventions on the hidden state...",
+  "description": "How does a language model's dependence on query-routing information and target knowledge change as it answers a question? We study this question through layerwise interventions on the hidden state at the end of the question. Across Qwen, Llama, and Gemma, we compare country-continent questions with noun, adjective, and code answers while keeping several fitted measurements distinct. A pair-conditioned request direction describes which country is queried in natural single-country questions; a global request direction describes first- versus second-country requests in paired questions; separa...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.11859v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-10",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.11859v1"
+    }
+  ],
+  "authors": [
+    "Wenkang Wei",
+    "Yuan Fang",
+    "Renhe Jiang",
+    "Hong Cheng",
+    "Xingtong Yu"
+  ],
+  "paperId": "2609.11859",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-10",
+  "abstract": "How does a language model's dependence on query-routing information and target knowledge change as it answers a question? We study this question through layerwise interventions on the hidden state at the end of the question. Across Qwen, Llama, and Gemma, we compare country-continent questions with noun, adjective, and code answers while keeping several fitted measurements distinct. A pair-conditioned request direction describes which country is queried in natural single-country questions; a global request direction describes first- versus second-country requests in paired questions; separa..."
+}

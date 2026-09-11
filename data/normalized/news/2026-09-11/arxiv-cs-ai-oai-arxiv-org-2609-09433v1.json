@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-09433v1",
+  "name": "Efficient Leakage-Free Neural Architecture Search under Leave-One-Subject-Out Evaluation",
+  "summary": "arXiv:2609.09433v1 Announce Type: cross Abstract: Leave-One-Subject-Out (LOSO) evaluation estimates generalisation performance for subject-based classification but makes Neural Architecture Search...",
+  "description": "arXiv:2609.09433v1 Announce Type: cross Abstract: Leave-One-Subject-Out (LOSO) evaluation estimates generalisation performance for subject-based classification but makes Neural Architecture Search (NAS) computationally expensive because a fully nested implementation requires N independent architecture searches and, assuming approximately linear training cost, scales as O(N^2). We propose a leak...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.09433"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-11",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.09433"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-11",
+  "expiryAt": "2026-10-11T00:00:00.000Z",
+  "author": "Heinke Hihn"
+}

@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2609-11923",
+  "name": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
+  "summary": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in...",
+  "description": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in millions of small, interdependent gather and scatter steps issued through a generic tree interface. On a GPU every kernel finishes in microseconds, so kernel launches and framework dispatch dominate the run time, and prior GPU implementations have lost to optimized CPU code. We observe that for a fixed game, everything about a CFR iteration except the numerical values is known before the first ite...",
+  "tags": [
+    "arxiv",
+    "cs.DC"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.11923v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-10",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.DC.",
+      "href": "https://arxiv.org/abs/2609.11923v1"
+    }
+  ],
+  "authors": [
+    "Boning Li",
+    "Longbo Huang"
+  ],
+  "paperId": "2609.11923",
+  "category": "cs.DC",
+  "publishedAt": "2026-09-10",
+  "abstract": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in millions of small, interdependent gather and scatter steps issued through a generic tree interface. On a GPU every kernel finishes in microseconds, so kernel launches and framework dispatch dominate the run time, and prior GPU implementations have lost to optimized CPU code. We observe that for a fixed game, everything about a CFR iteration except the numerical values is known before the first ite..."
+}

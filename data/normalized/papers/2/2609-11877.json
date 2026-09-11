@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2609-11877",
+  "name": "Biology-in-the-loop: Amortized Adaptive Hit Discovery in CRISPR Screens",
+  "summary": "Many biological discovery problems require experiments to be selected sequentially under constrained budgets. CRISPR screening is a prominent example, as exhaustive perturbation testing is often in...",
+  "description": "Many biological discovery problems require experiments to be selected sequentially under constrained budgets. CRISPR screening is a prominent example, as exhaustive perturbation testing is often infeasible and candidate perturbations must instead be prioritized over multiple experimental rounds. Despite the importance of this problem, existing benchmarks for adaptive hit discovery remain limited in scale and diversity. Here, we introduce AssayBench-Loop, a large-scale benchmark for adaptive hit discovery comprising 1,389 CRISPR screens across five phenotype categories. Beyond enabling syste...",
+  "tags": [
+    "arxiv",
+    "q-bio.QM"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.11877v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-10",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category q-bio.QM.",
+      "href": "https://arxiv.org/abs/2609.11877v1"
+    }
+  ],
+  "authors": [
+    "Carl Edwards",
+    "Edward De Brouwer",
+    "Xiner Li",
+    "Namkyeong Lee",
+    "Ehsan Hajiramezanali",
+    "Anne Biton",
+    "Sara Mostafavi",
+    "Gabriele Scalia"
+  ],
+  "paperId": "2609.11877",
+  "category": "q-bio.QM",
+  "publishedAt": "2026-09-10",
+  "abstract": "Many biological discovery problems require experiments to be selected sequentially under constrained budgets. CRISPR screening is a prominent example, as exhaustive perturbation testing is often infeasible and candidate perturbations must instead be prioritized over multiple experimental rounds. Despite the importance of this problem, existing benchmarks for adaptive hit discovery remain limited in scale and diversity. Here, we introduce AssayBench-Loop, a large-scale benchmark for adaptive hit discovery comprising 1,389 CRISPR screens across five phenotype categories. Beyond enabling syste..."
+}

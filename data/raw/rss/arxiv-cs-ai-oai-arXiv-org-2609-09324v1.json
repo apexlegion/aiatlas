@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.09324v1",
+  "fetchedAt": "2026-09-11T07:13:17.212Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.09324v1",
+    "title": "Improving 5G AI-RAN MCS Selection by Predicting Retransmissions",
+    "link": "https://arxiv.org/abs/2609.09324",
+    "description": "arXiv:2609.09324v1 Announce Type: cross Abstract: Link Adaptation (LA) in 5G NR is inherently reactive, relying on channel measurements and HARQ feedback that may become quickly obsolete when the channel changes quickly. This data is also noisy, making it hard to track accurately, and has to be fed to real-time controllers with feedback-loop effects which are hard to troubleshoot. This explains why most practical deployments select simple but robust algorithms, which accept that the lag can leave the scheduler operating at overly aggressive or unnecessarily conservative rates, trading spectrum efficiency for predictable performance. In this paper, we improve on this status-quo with NOSTRAdAMUS, a predictive LA framework which adds foresight to existing algorithms without replacing or redesigning them. NOSTRAdAMUS predicts whether a retransmission will occur in the next radio frame from recent HARQ history, and applies corrections to the Modulation and Coding Scheme (MCS) selected by the underlying policy. We benchmark several ML models and show that Gradient Boosting achieves 82.9% accuracy overall with high-confidence interventions that are correct 94.2% of the time, and an inference latency of 5.5 {\\mu}s. We train the model based on data collected Over-the-Air (OTA) on the X5G testbed, using the open-source OpenAirInterface (OAI) 5G stack, NVIDIA Aerial, and COTS O-RAN Radio Units and User Equipments. The model is then deployed as a dApp, which we evaluate OTA as well as on various channels with hardware-in-the-loop channel emulators. This includes 3GPP TDL and CDL channels, SISO and MIMO configurations, and pedestrian and vehicular mobility. Our evaluation shows that without retraining, and across this variety of scenarios, the dApp augments two SOTA LA algorithms, and increases goodput by up to 71.5% while reducing retransmissions by up to 71.8%. This demonstrates the robustness and generalization capabilities of our approach.",
+    "publishedAt": "2026-09-11",
+    "author": "Tamerlan Aghayev, Maxime Elkael, Michele Polese, Reshma Prasad, Salvatore D'Oro, Yunseong Lee, Koichiro Furueda, Tommaso Melodia",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
