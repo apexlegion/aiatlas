@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.11262v1",
+  "fetchedAt": "2026-09-12T07:05:04.399Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.11262v1",
+    "title": "AI-Powered Flare Combustion Efficiency Estimation",
+    "link": "https://arxiv.org/abs/2609.11262",
+    "description": "arXiv:2609.11262v1 Announce Type: new Abstract: Achieving high combustion efficiency in flare stacks is crucial for adhering to regulatory standards and controlling the release of hydrocarbons into the environment. Traditional instruments like gas analyzers and hyperspectral cameras are expensive, fragile, and require frequent calibration, which makes them impractical for remote or budget constrained industrial sites. We propose an innovative solution that combines a lightweight vision-language encoder with a compact multi-layer perceptron to predict combustion efficiency directly from low-cost thermal video footage. The fully trained model is integrated into an easy-to-deploy graphical user interface. This interface overlays predicted combustion efficiency values on each video frame, displays real-time trends in combustion efficiency, shows the distribution of combustion efficiency across all frames in the video, and allows users to export CSV reports. Over a six-month period, the system achieved 99% uptime and required less than 15 minutes of maintenance per week.",
+    "publishedAt": "2026-09-12",
+    "author": "Afeefa Azam, Iyyakutti Iyappan Ganapathi, Fares Ossama Abdelhafez, Divya Velayudhan, Maregu Assefa Habtie, Hamad Karki, Khalid Yousef Al Awadhi, Naoufel Werghi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

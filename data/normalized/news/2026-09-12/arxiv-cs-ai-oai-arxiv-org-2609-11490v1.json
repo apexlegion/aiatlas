@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-11490v1",
+  "name": "Published Unlearning Numbers Move Per Checkpoint, and Not Because the Removed Data Survives: An Audit of 263 Released Batch-Normalized Checkpoints",
+  "summary": "arXiv:2609.11490v1 Announce Type: new Abstract: An unlearning audit reads its verdict off numbers that an unlearned model and its retrained reference each publish, and both also ship batch-normaliz...",
+  "description": "arXiv:2609.11490v1 Announce Type: new Abstract: An unlearning audit reads its verdict off numbers that an unlearned model and its retrained reference each publish, and both also ship batch-normalization statistics that no gradient step wrote and no release records. Refitting them on kept data at bit-identical weights moves 47 of 221 released checkpoints past the spread their own release's seeds...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.11490"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-12",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.11490"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-12",
+  "expiryAt": "2026-10-12T00:00:00.000Z",
+  "author": "Junlong Shen Xingyu Li"
+}

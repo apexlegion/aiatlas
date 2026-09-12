@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-10964v1",
+  "name": "Decoupling Readiness from Release for Tail-Aware Scheduling of Agentic LLM Workflows",
+  "summary": "arXiv:2609.10964v1 Announce Type: new Abstract: Agentic LLM workflows consist of sequences of model turns interleaved with tool interactions, so their end-to-end completion time depends not only on...",
+  "description": "arXiv:2609.10964v1 Announce Type: new Abstract: Agentic LLM workflows consist of sequences of model turns interleaved with tool interactions, so their end-to-end completion time depends not only on inference speed but also on when ready turns are released. Most runtimes release each turn immediately upon readiness. Under contention, this eager release policy can accumulate released but unfinish...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.10964"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-12",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.10964"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-12",
+  "expiryAt": "2026-10-12T00:00:00.000Z",
+  "author": "Bochao Feng, Jianjiang Li, Haojie Wang, Lin Qiao, Yinghui Li, Yukun Yan, Jidong Zhai"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.23821v2",
+  "fetchedAt": "2026-09-12T07:05:04.400Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.23821v2",
+    "title": "Perturbation: A simple and efficient adversarial tracer for representation learning in language models",
+    "link": "https://arxiv.org/abs/2603.23821",
+    "description": "arXiv:2603.23821v2 Announce Type: replace-cross Abstract: Linguistic representation learning in deep neural language models (LMs) has been studied for decades, but finding representations in LMs remains an unsolved problem. On the one hand, unconstrained alignments may trivialize the notion of representation (Sutter et al., 2025); on the other, even recently popularized linear approaches may not always be faithful to natural model behavior (Arora et al. 2024). Here we escape this dilemma by reconceptualizing representations not as patterns of activation but as conduits for learning. Our approach is simple: we perturb an LM by fine-tuning it on a single adversarial example and measure how this perturbation \"infects\" other examples. Perturbation makes no geometric assumptions, and unlike other methods, it does not find representations where it should not (e.g., in untrained LMs). But in trained LMs, perturbation reveals structured transfer at multiple linguistic grain sizes, suggesting that LMs both generalize along representational lines and acquire linguistic abstractions from experience alone.",
+    "publishedAt": "2026-09-12",
+    "author": "Joshua Rozner, Cory Shain",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

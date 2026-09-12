@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-10728v1",
+  "name": "Towards a Deterministic Math Solver for Clinical Language Models",
+  "summary": "arXiv:2609.10728v1 Announce Type: new Abstract: Large language models are unreliable at arithmetic, which is a problem for clinical calculators where a single numerical error changes the recommenda...",
+  "description": "arXiv:2609.10728v1 Announce Type: new Abstract: Large language models are unreliable at arithmetic, which is a problem for clinical calculators where a single numerical error changes the recommendation. The standard response is to hardcode each calculator as a validated function, one at a time. We test an alternative: the model does not calculate. Instead, it writes case-specific Python that a...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.10728"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-12",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.10728"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-12",
+  "expiryAt": "2026-10-12T00:00:00.000Z",
+  "author": "Felipe Ocampo Osorio, Sebasti\\'an Andr\\'es Cajas Ordo\\~nez, Maximin Lange, Rafi Al Attrach, Sahil Kapadia, Zakaria Laouabdia Sellami, Angelo Antonio Talio, Leo Anthony Celi"
+}

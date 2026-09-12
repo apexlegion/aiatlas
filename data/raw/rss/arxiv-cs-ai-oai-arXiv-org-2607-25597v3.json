@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.25597v3",
+  "fetchedAt": "2026-09-12T07:05:04.400Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.25597v3",
+    "title": "A Density-Matrix Framework for Electronic-Structure Analysis of Electrolytes for Lithium Batteries",
+    "link": "https://arxiv.org/abs/2607.25597",
+    "description": "arXiv:2607.25597v3 Announce Type: replace Abstract: Electrolyte reactivity in lithium batteries is shaped by molecular functional groups, Li$^{+}$ solvation and salt-anion participation. Conventional quantum chemistry is too computationally expensive for systematic analysis of diverse electrolyte molecules and their local solvation environments. Here we present EMolStudio, a density-matrix-centered AI platform for electronic-structure prediction and analysis. Its workflow integrates molecular functionalization, explicit Li$^{+}$ first-shell assembly, density-matrix prediction, and electronic-structure parsing. Applied to 163,655 functionalized molecules and 22,500 first-shell clusters across four lithium salts, we find that 1) functionalization separates CO$_{2}$Me, CN, F/CF$_{3}$, and sulfonyl groups by distinct shifts in frontier levels, electrostatic potential, and Li$^{+}$-donor contact; 2) anion identity reshapes frontier-orbital localization, with LiTDI anchoring the highest occupied orbital on the anion across the library. By carrying a unified density-matrix representation from molecular functionalization to salt-resolved solvation shells, EMolStudio provides a general platform for understanding and designing battery electrolytes.",
+    "publishedAt": "2026-09-12",
+    "author": "Mingkang Liu, Huize Yu, Lei Shen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

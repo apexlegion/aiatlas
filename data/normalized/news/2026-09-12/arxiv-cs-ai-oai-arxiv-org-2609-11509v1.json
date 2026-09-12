@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-11509v1",
+  "name": "Extending SMT Solving with Non-Ground Clause Learning",
+  "summary": "arXiv:2609.11509v1 Announce Type: new Abstract: Quantifier instantiation is currently the main approach to non-ground SMT solving: solvers generate ground instances and solve the resulting ground S...",
+  "description": "arXiv:2609.11509v1 Announce Type: new Abstract: Quantifier instantiation is currently the main approach to non-ground SMT solving: solvers generate ground instances and solve the resulting ground SMT problems with CDCL(T)-style reasoning. When a conflict is found, conflict analysis learns only a ground clause, even though the conflict comes from instances of non-ground clauses. Yet non-ground r...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.11509"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-12",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.11509"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-12",
+  "expiryAt": "2026-10-12T00:00:00.000Z",
+  "author": "Yasmine Briefs, Christoph Weidenbach"
+}

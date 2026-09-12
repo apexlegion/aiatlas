@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-11248v1",
+  "name": "Generative Replay Mitigates Sample Starvation in Quantum Architecture Search",
+  "summary": "arXiv:2609.11248v1 Announce Type: cross Abstract: Reinforcement learning (RL) can automate quantum architecture search, but its scalability is limited when useful circuit trajectories become rare i...",
+  "description": "arXiv:2609.11248v1 Announce Type: cross Abstract: Reinforcement learning (RL) can automate quantum architecture search, but its scalability is limited when useful circuit trajectories become rare in the rapidly expanding search space. Existing replay mechanisms reuse observed transitions; the proposed learned model produces additional predicted one step transitions from real state-action seeds....",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.11248"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-12",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.11248"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-12",
+  "expiryAt": "2026-10-12T00:00:00.000Z",
+  "author": "Akash Kundu, Amit Kumar Jaiswal, Sebastian Feld, Prayag Tiwari"
+}

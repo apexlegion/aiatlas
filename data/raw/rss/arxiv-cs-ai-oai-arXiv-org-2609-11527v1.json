@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.11527v1",
+  "fetchedAt": "2026-09-12T07:05:04.399Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.11527v1",
+    "title": "Lightweight LiDAR-Based Cone Detection Framework Using Random Forest for Formula Student Driverless",
+    "link": "https://arxiv.org/abs/2609.11527",
+    "description": "arXiv:2609.11527v1 Announce Type: new Abstract: Reliable, low-latency perception is crucial for Formula Student Driverless vehicles, yet many existing pipelines rely on deep learning and multi-sensor fusion, often requiring GPU acceleration. This paper presents a lightweight LiDAR-only perception pipeline tailored for CPU execution, combining ground removal, IMU-based motion compensation, DBSCAN clustering, and geometric feature-based Random Forest classification. Feature importance analysis reduced the model input from 12 to 7 features while preserving performance. Evaluated on 2,371 labeled clusters collected from real FSD events, the pipeline achieves an F1-score of 98.33% and an end-to-end runtime of 3.13 ms on CPU-only hardware. The released dataset, labeling tool, and trained models provide a practical and reproducible baseline for other resource-constrained autonomous racing teams.",
+    "publishedAt": "2026-09-12",
+    "author": "M\\'ark Mez\\H{o}-Kerekes, P\\'eter Praksz, Chang Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

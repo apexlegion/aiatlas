@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.20923v2",
+  "fetchedAt": "2026-09-12T07:05:04.400Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.20923v2",
+    "title": "Causal Past Logic for Runtime Verification of Distributed LLM Agent Workflows",
+    "link": "https://arxiv.org/abs/2605.20923",
+    "description": "arXiv:2605.20923v2 Announce Type: replace-cross Abstract: We study runtime monitoring for distributed LLM-agent workflows. In an asynchronous execution, a decision can only depend on events that are causally visible to the lifeline that makes it: an event that appears earlier in some log may still be unknown locally. We extend the ZipperGen agent-workflow framework with Causal Past Logic (CPL), an adaptation of PT-DTL to guards in if-constructs and while loops. In addition to standard past-time modalities such as previous and since, a guard can inspect the latest causally visible event of another lifeline and selected variables stored there. The owner evaluates the guard online to select the next branch or loop step. We adapt the knowledge-vector monitor to ZipperGen and prove that the locally computed monitor value coincides with the denotational semantics of the guard at the current event.",
+    "publishedAt": "2026-09-12",
+    "author": "Benedikt Bollig",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

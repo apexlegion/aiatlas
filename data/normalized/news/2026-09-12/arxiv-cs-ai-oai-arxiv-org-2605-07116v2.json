@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2605-07116v2",
+  "name": "Monotone Neural Policy Iteration for High-Dimensional First-Order Hamilton--Jacobi--Bellman Equations",
+  "summary": "arXiv:2605.07116v2 Announce Type: replace-cross Abstract: We analyze a neural semi-discrete method for high-dimensional first-order Hamilton-Jacobi-Bellman (HJB) equations with known or learned dyn...",
+  "description": "arXiv:2605.07116v2 Announce Type: replace-cross Abstract: We analyze a neural semi-discrete method for high-dimensional first-order Hamilton-Jacobi-Bellman (HJB) equations with known or learned dynamics. Centered differences and an artificial viscosity $Nh=O(h)$ define a monotone operator evaluated through $2d+1$ shifted network queries; policy iteration solves the resulting Bellman equation wi...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2605.07116"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-12",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2605.07116"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-12",
+  "expiryAt": "2026-10-12T00:00:00.000Z",
+  "author": "Minseok Kim, Yeongjong Kim, Namkyeong Cho, Yeoneung Kim"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.10906v2",
+  "fetchedAt": "2026-09-12T07:05:04.400Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.10906v2",
+    "title": "GitSkills: A Dataset of Agent Skills on GitHub",
+    "link": "https://arxiv.org/abs/2608.10906",
+    "description": "arXiv:2608.10906v2 Announce Type: replace-cross Abstract: An agent skill is a folder containing a $\\mathrm{SKILL.md}$ file with instructions for a language-model agent, optionally accompanied by scripts and reference files. The agent loads the skill when it judges that a task matches the skill description. Anthropic introduced the format in October 2025 as an open specification. Nine months later, public GitHub repositories hold millions of skill files. Skills are unlike the artifacts that software engineering researchers usually mine: they are written mainly in natural language, a model selects them probabilistically at run time, and no compiler or type checker verifies the selection. Skills also have no central registry or package manager; developers reuse them by copying folders between repositories. How developers write, reuse, and maintain skills is therefore an empirical question, and no existing dataset records this population. We present GitSkills, a dataset of 3,797,117 $\\mathrm{SKILL.md}$ files collected from 282,200 public repositories in July 2026. The dataset retains every file occurrence with its repository, path, and content hash. We group identical files into 1,877,981 distinct contents and enrich one representative per group with the full text, parsed front matter, folder contents, repository metadata, and, for a subset, the commit history of the file. A single self-contained SQLite file supports research on the adoption, reuse, structure, authorship, maintenance, and security of agent skills.",
+    "publishedAt": "2026-09-12",
+    "author": "Giuseppe Destefanis, Daniel Graziotin, Matteo Vaccargiu, Marco Ortu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

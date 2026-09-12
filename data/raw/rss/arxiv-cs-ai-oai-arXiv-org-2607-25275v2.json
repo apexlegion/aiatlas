@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.25275v2",
+  "fetchedAt": "2026-09-12T07:05:04.400Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.25275v2",
+    "title": "ScaleResfusion: Residual Rectified Flow based on Residual Vector Field",
+    "link": "https://arxiv.org/abs/2607.25275",
+    "description": "arXiv:2607.25275v2 Announce Type: replace-cross Abstract: Real-world Image Restoration (Real-IR) aims to recover high-quality (HQ) images from complex and unknown degradations. Recent diffusion-based methods have substantially improved perceptual quality, yet two obstacles remain: methods that sample from Gaussian noise require many steps and are often less faithful to the degraded input, whereas residual-based methods that start from the low-quality (LQ) image typically train task-specific models from scratch, with optimization objectives coupled to a particular noise scheduler, and therefore cannot reuse modern pre-trained generative priors. We present \\textbf{ScaleResfusion}, which rewrites residual restoration as a scheduler-independent adaptation interface for pre-trained text-to-image rectified-flow models. Its core, \\textbf{Residual Rectified Flow} (RRF), inserts the residual term $R$ into the linear transport path of Rectified Flow, so that sampling starts from noisy LQ at an exact acceleration point, where the signal-to-noise ratio of the starting state is continuously controlled by the residual ratio $\\gamma$. The resulting optimization target, the \\textbf{residual vector field}, contains no scheduler-specific coefficients and differs from the pre-trained rectified-flow target only by the residual offset $\\gamma R$; adapting a frozen billion-scale backbone therefore reduces to fitting this compact residual correction with LoRA-only training. A knowledge-distillation pipeline built around RRF further reduces sampling to as few as 4 steps. Experiments on real-world super-resolution across multiple benchmarks show that ScaleResfusion achieves state-of-the-art restoration quality and transfers consistently across pre-trained rectified-flow backbones from 2B to 9B parameters.",
+    "publishedAt": "2026-09-12",
+    "author": "Zhenning Shi, Chen Xu, Junhao Zhang, Kefei Zhang, Linjie Liu, Zhedong Zheng, Tao Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

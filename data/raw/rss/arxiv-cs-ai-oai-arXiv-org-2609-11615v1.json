@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.11615v1",
+  "fetchedAt": "2026-09-12T07:05:04.399Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.11615v1",
+    "title": "Distributed Optimization of Modular Production Systems using Model-based Reinforcement Learning with Inverse Models",
+    "link": "https://arxiv.org/abs/2609.11615",
+    "description": "arXiv:2609.11615v1 Announce Type: new Abstract: This paper presents a novel approach for data-driven self-learning control of highly flexible, modular manufacturing systems. Specifically, we employ a novel framework for model-based reinforcement learning which introduces approximate inverse process models within the training of reinforcement policies. This approach disentangles the learning of actuation dynamics and the dynamics in state space, resulting in RL-based training solely within the task space. We propose a lightweight feedforward architecture for approximate inverse models and integrate them within the policy network of standard RL algorithms. We apply the approach to a laboratory modular production testbed with heterogeneous production modules. The results underline the efficiency improvements for modular manufacturing units in terms of both performance and training speed, particularly for off-policy algorithms.",
+    "publishedAt": "2026-09-12",
+    "author": "Andreas Schwung, Steve Yuwono, Sofiene Lassoued, Dorothea Schwung",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

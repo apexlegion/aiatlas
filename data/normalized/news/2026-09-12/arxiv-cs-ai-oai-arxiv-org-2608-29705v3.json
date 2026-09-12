@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2608-29705v3",
+  "name": "A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction Models",
+  "summary": "arXiv:2608.29705v3 Announce Type: replace-cross Abstract: Feed-forward 3D reconstruction models output a per-pixel confidence that is used by downstream systems as an uncertainty signal. The confid...",
+  "description": "arXiv:2608.29705v3 Announce Type: replace-cross Abstract: Feed-forward 3D reconstruction models output a per-pixel confidence that is used by downstream systems as an uncertainty signal. The confidence is trained to serve as a weight in the training loss of models. Whether the confidence can be used as an uncertainty magnitude has not been measured. We audit seven backbones on 13 datasets and s...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2608.29705"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-12",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2608.29705"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-12",
+  "expiryAt": "2026-10-12T00:00:00.000Z",
+  "author": "Nanxing Nick Deng, Qing Cheng, Niclas Zeller, Daniel Cremers"
+}
