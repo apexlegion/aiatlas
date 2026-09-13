@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-09-12T07:05:02.754Z",
+  "fetchedAt": "2026-09-13T07:24:00.423Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 5008122,
-    "likes": 6265,
+    "downloads": 4857619,
+    "likes": 6267,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -348,10 +348,12 @@
     "spaces": [
       "embedl/hfviewer",
       "mteb/leaderboard",
+      "krmkayabasi/Anka-TTS",
       "openai/whisper",
-      "phinam112/OmniVoice-Studio",
       "RyeAI/danish-asr-leaderboard",
+      "treble-technologies/ffasr",
       "microsoft/paza-bench",
+      "phinam112/OmniVoice-Studio",
       "eduagarcia/multilingual-tokenizer-leaderboard",
       "Dezz-9-10/joat-content-engine",
       "rvguha/HFNLWebDemo",
@@ -369,7 +371,6 @@
       "gobeldan/insanely-fast-whisper-webui",
       "alexnasa/HuMo_local",
       "devilent2/whisper-v3-zero",
-      "treble-technologies/ffasr",
       "wcy1122/MGM-Omni",
       "aiqcamp/ENGLISH-Speaking-Scoring",
       "choimirai/whisper-large-v3",
@@ -444,8 +445,7 @@
       "ArtFix0/speech-to-speech-dashboard",
       "TogetherAI/whisper-large-v3",
       "reponislam/openai-whisper-large-v3",
-      "Taranosaurus/Tokenizaminer",
-      "AilexGPT/YTwhisper_GPT"
+      "Taranosaurus/Tokenizaminer"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {
