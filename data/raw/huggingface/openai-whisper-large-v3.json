@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-09-13T07:24:00.423Z",
+  "fetchedAt": "2026-09-14T07:49:21.282Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4857619,
-    "likes": 6267,
+    "downloads": 4801728,
+    "likes": 6294,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -351,13 +351,14 @@
       "krmkayabasi/Anka-TTS",
       "openai/whisper",
       "RyeAI/danish-asr-leaderboard",
+      "geraldadli/speech-emotion-recognition",
+      "hf-audio/whisper-large-v3",
       "treble-technologies/ffasr",
       "microsoft/paza-bench",
       "phinam112/OmniVoice-Studio",
       "eduagarcia/multilingual-tokenizer-leaderboard",
-      "Dezz-9-10/joat-content-engine",
+      "TobDeBer/Voxtral",
       "rvguha/HFNLWebDemo",
-      "hf-audio/whisper-large-v3",
       "artificialguybr/Video-Transcription-Smart-Summary",
       "artificialguybr/video-dubbing",
       "sanchit-gandhi/whisper-jax-spaces",
@@ -444,8 +445,7 @@
       "Yash030/claude-code-proxy",
       "ArtFix0/speech-to-speech-dashboard",
       "TogetherAI/whisper-large-v3",
-      "reponislam/openai-whisper-large-v3",
-      "Taranosaurus/Tokenizaminer"
+      "reponislam/openai-whisper-large-v3"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {

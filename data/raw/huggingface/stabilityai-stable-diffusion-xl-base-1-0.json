@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-09-13T07:24:00.172Z",
+  "fetchedAt": "2026-09-14T07:49:21.036Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,8 +25,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 2396887,
-    "likes": 8140,
+    "downloads": 2479895,
+    "likes": 8164,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -222,10 +222,10 @@
     "spaces": [
       "embedl/hfviewer",
       "RioShiina/ImageGen",
-      "yanze/PuLID-FLUX",
-      "multimodalart/lora-ease",
       "tencent/Hunyuan3D-2mini-Turbo",
+      "yanze/PuLID-FLUX",
       "diffusers/stable-diffusion-xl-inpainting",
+      "multimodalart/lora-ease",
       "jallenjia/Change-Clothes-AI",
       "tencent/Hunyuan3D-2mv",
       "frogleo/Image-to-3D",
@@ -233,6 +233,7 @@
       "eduagarcia/multilingual-tokenizer-leaderboard",
       "hugging-apps/qwen-video-edit",
       "mediasynthesismuseum/stable-diffusion-xl-base-1.0",
+      "Nymbo/IDM-VTON",
       "roky-dev/black-dragon-backend",
       "G2961cherry/Server",
       "franckgastel/Hunyuan3D-2mv",
@@ -318,8 +319,7 @@
       "multimodalart/Boogu-Image",
       "TIGER-Lab/AnyV2V",
       "tight-inversion/tight-inversion",
-      "clinteroni/outpainting-with-differential-diffusion-demo",
-      "briaai/BRIA-Eraser-API"
+      "clinteroni/outpainting-with-differential-diffusion-demo"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {

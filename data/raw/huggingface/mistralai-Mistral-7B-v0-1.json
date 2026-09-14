@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "mistralai/Mistral-7B-v0.1",
-  "fetchedAt": "2026-09-13T07:23:59.917Z",
+  "fetchedAt": "2026-09-14T07:49:20.785Z",
   "data": {
     "_id": "650aedb6238a644cb93a52c3",
     "id": "mistralai/Mistral-7B-v0.1",
@@ -23,8 +23,8 @@
       "text-generation-inference",
       "region:us"
     ],
-    "downloads": 354046,
-    "likes": 4157,
+    "downloads": 353601,
+    "likes": 4178,
     "modelId": "mistralai/Mistral-7B-v0.1",
     "author": "mistralai",
     "sha": "27d67f1b5f57dc0953326b2601d68371d40ea8da",
@@ -124,9 +124,10 @@
     "spaces": [
       "overhead520/LLM-Settings-Guide",
       "EuroEval/euroeval_leaderboard",
-      "VIDraft/global-llm-leaderboard",
       "Vokturz/can-it-run-llm",
+      "VIDraft/global-llm-leaderboard",
       "FallnAI/Quantize-HF-Models",
+      "seawolf2357/LLM_Quantization",
       "eduagarcia/open_pt_llm_leaderboard",
       "3DTopia/3DGen-Arena",
       "speakleash/open_pl_llm_leaderboard",
@@ -158,7 +159,6 @@
       "pseudolab/GaiaMiniMed",
       "ali-vilab/IDEA-Bench-Arena",
       "iberbench/leaderboard",
-      "seawolf2357/LLM_Quantization",
       "alKoGolik/codellama-CodeLlama-7b-hf",
       "pseudolab/MiniMed_EHR_Analyst",
       "awacke1/Deepseek-HPC-GPU-KEDA",
