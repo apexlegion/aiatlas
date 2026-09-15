@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.15314v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.15314v1",
+    "title": "The Universe of Universes: Benefit Yield Functions, Implosion Thresholds, and Infrastructure-Aware Optimization in Multi-LLM Systems",
+    "link": "https://arxiv.org/abs/2609.15314",
+    "description": "arXiv:2609.15314v1 Announce Type: cross Abstract: We introduce the Universe of Universes (UoU) framework, which treats the full ecosystem of major large language models (LLMs) as a structured retrieval corpus and proposes a compositional Automated Reasoning (AR) and Machine Learning (ML) architecture for cross-model retrieval-augmented generation. The central contribution is the formal characterization of the Benefit Yield Function (BYF), the marginal performance gain per additional model added to an ensemble, and the identification of the implosion threshold {\\theta}*: the ensemble size at which BYF crosses zero and aggregate performance begins to degrade. Existing LLM ensemble and mixture-of-agents systems treat models as responders and aggregate outputs, but do not study performance as a function of ensemble size N across the full model universe. Benchmark research confirms performance plateaus at the individual model level; model collapse literature establishes that iterative training on AI-generated outputs degrades individual model distributions. Neither body of work formalizes the ensemble-level implosion threshold, models Epistemic Hereditary Drift (EHD) at the ecosystem level, or treats AI manufacturing velocity as a co-variable of {\\theta}*. The framework has direct implications for DoD multi-model AI acquisition policy and the emerging science of testing AI-enabled systems.",
+    "publishedAt": "2026-09-15",
+    "author": "Danielle Franklin, Vasu Raj Jain",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

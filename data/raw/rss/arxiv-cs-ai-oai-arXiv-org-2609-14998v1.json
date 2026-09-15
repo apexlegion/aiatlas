@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.14998v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.14998v1",
+    "title": "Shallow Beliefs: Synthetic document finetuning does not inoculate against emergent misalignment from reward hacking",
+    "link": "https://arxiv.org/abs/2609.14998",
+    "description": "arXiv:2609.14998v1 Announce Type: new Abstract: Recent work shows that models that learn to reward hack on RL environments can become broadly misaligned, and that reframing reward hacking as acceptable behavior during training (inoculation prompting, or IP) blocks this generalization. We ask whether synthetic document finetuning (SDF) can inoculate a model against future training we don't intervene on. We add synthetic documents framing reward hacking as acceptable behavior to a model's midtraining corpus, and then train these models with RL on exploitable environments, teaching them to reward hack. Behaviorally, midtraining succeeds: models describe reward hacking favorably and are more approving of reward-hacking outputs they produce. However, they show strong EM after learning to reward hack, while IP in the same setting prevents EM. We show that SDF can predictably steer downstream generalization when inserting new associations, but struggles and has unpredictable effects when overriding existing associations, such as that between reward hacking and misalignment that produces EM. Our results suggest that, at the scales we test, SDF can make a model appear aligned with desired beliefs while steering its generalization from later training in unintended ways.",
+    "publishedAt": "2026-09-15",
+    "author": "Arun Jose, Julian Stastny",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

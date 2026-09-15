@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.15305v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.15305v1",
+    "title": "When Correlations Mislead: Confounder-Aware Multi-View Urban Region Representation Learning",
+    "link": "https://arxiv.org/abs/2609.15305",
+    "description": "arXiv:2609.15305v1 Announce Type: cross Abstract: Urban region representation learning commonly combines heterogeneous data sources, such as mobility flows, points of interest, and land-use information, to support tasks including mobility analysis, public safety forecasting, and service demand estimation. Existing multi-view methods typically improve region embeddings by strengthening interactions across views. However, such methods often overlook view-specific regional structures and may propagate correlations induced by shared latent factors, which can reduce the stability of downstream predictions. To overcome this major limitation, we propose CURE, a confounder-aware framework for multi-view urban region representation learning. CURE first encodes each view with its regional graph structure, estimates a shared latent component, and then reduces its projected influence before cross-view interaction. A hierarchical graph-aware fusion module subsequently aggregates the residual view representations using local and global regional contexts Experiments on three real-world cities show that CURE improves predictive performance, remains robust under missing and noisy input views, and provides reliable cross-view integration through shared component separation and context-dependent view weighting.",
+    "publishedAt": "2026-09-15",
+    "author": "Sean Bin Yang, Ying Sun, Zongyi Xu, Tung Kieu, Jilin Hu, Bin Yang, Kristian Torp, Hua Lu, Torben Bach Pedersen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

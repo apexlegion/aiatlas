@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.14344v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.14344v1",
+    "title": "AURA: Unified Multimodal Framework for Conversational Music Editing",
+    "link": "https://arxiv.org/abs/2609.14344",
+    "description": "arXiv:2609.14344v1 Announce Type: cross Abstract: Instruction-guided music editors typically process each request independently, limiting their ability to support workflows in which users progressively refine a track. We introduce AURA, a unified multimodal framework for conversational music editing. AURA uses a multimodal large language model to interpret the complete dialogue history, an optional image, and reference audio, distilling the editing intent into compact concept tokens. A concept-to-audio module injects these tokens and frame-aligned reference features into a frozen MusicGen backbone, enabling precise edits while preserving unaffected content. AURA optimizes only 91M parameters while retaining 1.9B frozen backbone parameters. Experiments on Slakh2100 and MoisesDB demonstrate substantial improvements in edit correctness and content preservation over existing instruction-guided methods, including a 4-5 times reduction in FAD for out-of-domain addition and removal.",
+    "publishedAt": "2026-09-15",
+    "author": "Quoc-Huy Trinh, Minh-Van Nguyen, Debesh Jha",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

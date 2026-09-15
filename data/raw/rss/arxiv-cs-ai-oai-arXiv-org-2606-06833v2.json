@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.06833v2",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.06833v2",
+    "title": "Hearing the Unspoken: Language Model Priors for Acoustic Adversarial Attacks",
+    "link": "https://arxiv.org/abs/2606.06833",
+    "description": "arXiv:2606.06833v2 Announce Type: replace-cross Abstract: Automatic Speech Recognition (ASR) systems operating in real-time settings must process acoustic input under strict temporal constraints, where transcription decisions are inherently made on incomplete information. This causal constraint serves as an information bottleneck on attackers, significantly limiting attack performance. Our new Semantic Gambit attack breaks this causal limitation by augmenting the adversary with predictive context derived from a Large Language Model in real-time. Our experiments show that this form of augmentation can elevate the corpus-level Word Error Rate to 35.6% -- a three-fold increase over the current state-of-the-art. Ultimately, this work reveals how common, low-latency LLM tooling can be exploited to systematically subvert real-time ASR pipelines.",
+    "publishedAt": "2026-09-15",
+    "author": "Jiani Xie, Andrew C. Cullen, Paul Montague, Benjamin I. P. Rubinstein",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.26410v2",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.26410v2",
+    "title": "Simultaneous Envy and Equitability Guarantees",
+    "link": "https://arxiv.org/abs/2608.26410",
+    "description": "arXiv:2608.26410v2 Announce Type: replace-cross Abstract: Recent work in fair division has focused on either simultaneously satisfying closely related fairness notions or achieving a single notion across the ex-ante and ex-post worlds. We study the compatibility of two fundamentally different fairness notions: envy-freeness and equitability. For indivisible goods-only and chores-only settings, we study the existence and complexity of simultaneously satisfying their relaxations, revealing sharp contrasts between the two settings. We show that EF1+EQ1 may fail to exist even for normalized binary goods: we construct an instance with 113 agents and 341 goods in which every agent approves exactly 165 goods, but no complete allocation satisfies both notions. Our main algorithmic result computes an EF1+EQ1 allocation for every normalized binary goods instance with at most seven agents. Thus, the smallest number of agents admitting a counterexample lies between 8 and 113, leaving the cases from 8 through 112 unresolved. In sharp contrast, binary chores admit the stronger EFX+EQX guarantee for any number of agents, even without normalization. We further initiate the study of cross-notion ex-ante and ex-post guarantees, asking whether randomized allocations can provide ex-ante guarantees for one notion while preserving ex-post guarantees for another.",
+    "publishedAt": "2026-09-15",
+    "author": "Hadi Hosseini, Shraddha Pathak, Lirong Xia, Chengkai Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

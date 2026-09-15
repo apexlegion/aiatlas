@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.14825v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.14825v1",
+    "title": "Route, Don't Fix: Regime-Dependent Decoding Correction and a Trajectory-Gated Router for Reliable Clinical LLM Answer Selection",
+    "link": "https://arxiv.org/abs/2609.14825",
+    "description": "arXiv:2609.14825v1 Announce Type: cross Abstract: Large language models (LLMs) are often deemed unsafe for clinical question answering because of their tendency to hallucinate. Retrieval augmentation, fine-tuning, and external verifiers require new infrastructure that clinical governance must approve and may add latency or extra model calls. Inference-time correction uses the model's internal logit signals, but a fixed transformation need not suit every question. A corrector that improves accuracy by about ten percentage points on a truthfulness stress test yields negligible gains on clinical multiple-choice benchmarks, where instruction tuning concentrates output probability on one answer and leaves low terminal entropy. We introduce ALTAS, which reads terminal entropy and late-layer linearity ($R^2$) from one forward pass to choose per question between greedy decoding and late-layer trajectory correction. No classifier, probe, or head is trained; the router operates on candidate-answer logits and adds 6.5% latency overhead. Applied to every question, the correction improves TruthfulQA over greedy at 3B and 8B by 11.4 and 10.0 percentage points, respectively ($p&lt;10^{-10}$). Gated per question, ALTAS retains gains of 8.3 to 9.5 percentage points while keeping MedQA, PubMedQA, and MedHallu within a one-percentage-point do-no-harm band, with no statistically significant differences from greedy. The method passes verification sweeps over frozen thresholds, the scoring rule, and the domain label.",
+    "publishedAt": "2026-09-15",
+    "author": "Zeyu Dong, Benjamin Wang, Joyee W. Jin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

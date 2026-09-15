@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.14530v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.14530v1",
+    "title": "Sharing standardized image-derived data in computational pathology using DICOM",
+    "link": "https://arxiv.org/abs/2609.14530",
+    "description": "arXiv:2609.14530v1 Announce Type: cross Abstract: Development and evaluation of computational pathology methods require access to large and diverse datasets. Over the past decade, various initiatives invested significantly into collecting, centralizing, and sharing pathology imaging data. In contrast, sharing of image-derived data such as region-of-interest delineations or segmentation masks is less well developed. In this work, we describe our approach to encoding and sharing image-derived pathology data in a standardized manner within the National Cancer Institute (NCI) Imaging Data Commons (IDC), a platform that hosts and provides public access to de-identified radiology and pathology data. The IDC relies on the Digital Imaging and Communications in Medicine (DICOM) standard for data harmonization, yet the adoption of DICOM for pathology image-derived content has remained largely unexplored until now. Here, we present five representative datasets harmonized by conversion from their original representations into DICOM and shared publicly in the IDC. We demonstrate the benefits of this harmonization, describe contributions to critical open-source tooling, and discuss technical considerations relevant to broader adoption of DICOM for pathology image-derived data.",
+    "publishedAt": "2026-09-15",
+    "author": "Daniela P. Schacherer (Fraunhofer Institute for Digital Medicine MEVIS, Bremen, Germany), Christopher P. Bridge (Athinoula A. Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Boston, USA), David Clunie (PixelMed Publishing, Bangor, USA), Igor Octaviano (Radical Imaging LLC, USA), Andr\\'e Homeyer (Fraunhofer Institute for Digital Medicine MEVIS, Bremen, Germany), Markus D. Herrmann (Harvard Medical School, Boston, USA), Olivier Gevaert (Stanford University, Stanford, USA), Tabita Ghete (University Hospital Erlangen, Erlangen, Germany), Markus Metzler (University Hospital Erlangen, Erlangen, Germany), Henning Hoefener (Fraunhofer Institute for Digital Medicine MEVIS, Bremen, Germany), Tahsin Kurc (Stony Brook University, Stony Brook, USA), Curtis Lisle (National Institute of Allergy and Infectious Diseases, Bethesda, USA), Kenneth Philbrick (Google Research, Mountain View, USA), Joel Saltz (Stony Brook University, Stony Brook, USA), Yuanning Zheng (Stanford University, Stanford, USA), Andrey Fedorov (Harvard Medical School, Boston, USA)",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

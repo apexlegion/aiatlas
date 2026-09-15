@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.14438v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.14438v1",
+    "title": "A latent dimension of Condorcet's jury theorem for multiple AI advisers",
+    "link": "https://arxiv.org/abs/2609.14438",
+    "description": "arXiv:2609.14438v1 Announce Type: cross Abstract: When the same question is asked of multiple AI advisers, as in self-consistency and LLM-as-a-judge panels, Condorcet's jury theorem predicts that adding independent, competent advisers makes the majority more reliable. The theorem, however, has a latent dimension when viewed from the user's vantage: adding advisers also makes disagreement more visible. A binomial model reveals that this ``visible dissent'' becomes nearly inevitable as the number of advisers grows, and that reliability and disagreement both approach certainty but at different convergence rates. The two rates cross at an adviser accuracy of 4/5 (0.8). Below this value, visible dissent approaches certainty faster than reliability and, with enough advisers, becomes more likely than a correct majority. Even ideal panels of independent and competent advisers can be correct in aggregate but appear divided; such disagreement does not by itself indicate aggregation failure. The way advisers split also provides a common basis for predictive multiplicity, reconciliation load, and reliance miscalibration. These results indicate two distinct decisions when using multiple AI advisers: how many advisers to consult and how their verdicts should be presented and interpreted.",
+    "publishedAt": "2026-09-15",
+    "author": "Kazutoshi Sasahara, Aoi Naito, Ryo Fujie",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

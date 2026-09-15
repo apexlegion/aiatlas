@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2411.09073v4",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2411.09073v4",
+    "title": "CHAI for LLMs: Improving Code-Mixed Translation in Large Language Models through Reinforcement Learning with AI Feedback",
+    "link": "https://arxiv.org/abs/2411.09073",
+    "description": "arXiv:2411.09073v4 Announce Type: replace-cross Abstract: Large language models (LLMs) show strong performance across many tasks but remain weak at understanding code-mixed (CM) language. Despite this limitation, improving LLMs for CM tasks has received little attention. To address this gap, we propose CHAI, a general-purpose framework for enhancing LLM performance on CM tasks, focusing on CM translation. CHAI leverages four key ideas. First, we investigate the use of LLMs as annotators to address the scarcity of high-quality CM datasets. Second, we leverage these LLM annotations to generate large-scale preference data and apply reinforcement learning from AI feedback (RLAIF) to improve CM translation. Third, we incorporate LLM-generated domain knowledge as a constitution, enabling iterative response refinement. Fourth, we perform extensive evaluations on real-world datasets and settings. Results show that CHAI-powered LLMs outperform state-of-the-art open-source models by 68.45% on average in human-adjudicated win rate on CM translation tasks. This work is a step toward more inclusive open-source code-mixed LLMs.",
+    "publishedAt": "2026-09-15",
+    "author": "Wenbo Zhang, Aditya Majumdar, Asif Ekbal, Amulya Yadav",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

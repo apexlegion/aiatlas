@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.14829v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.14829v1",
+    "title": "Enemray: Toward Capable Language Models for Hassaniya",
+    "link": "https://arxiv.org/abs/2609.14829",
+    "description": "arXiv:2609.14829v1 Announce Type: cross Abstract: We introduce Enemray, a Hassaniya-centric language model that enables general-purpose interaction in Hassaniya. Enemray is trained around a stability--plasticity objective: acquire strong Hassaniya linguistic and cultural competence while preserving the general reasoning, multilingual, instruction-following, and safety behaviors of a capable instruction-tuned model. The development pipeline separates language acquisition from behavioral specialization. A separately assembled continual-pretraining corpus provides broad exposure to natural Hassaniya and Mauritanian text; layer-selective continual pretraining learns a compact language-specific parameter update; that update is transferred into the instruction-tuned parameter space; and supervised post-training develops conversational, cultural, literary, task-oriented, and cross-lingual behavior. The supervised corpus integrates selected public Hassaniya and Mauritanian resources with a substantially larger body of newly collected, reconstructed, curated, and constructed instruction data, while policy-generated replay provides a retention signal from the reference model's own behavior distribution. The resulting collection is substantially larger and broader in purpose than existing Hassaniya text resources. In evaluation, Enemray achieves the strongest English to Hassaniya translation among the compared open and proprietary models and the highest overall score on Mauritanian translation error detection, while retaining most of the general capabilities of its instruction-tuned base model on mathematical reasoning, knowledge, code generation, and function calling. This report describes the motivation, data construction, model design, training methodology, and evaluation of Enemray.",
+    "publishedAt": "2026-09-15",
+    "author": "Cheikh Ahmed",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

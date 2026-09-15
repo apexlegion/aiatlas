@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.14724v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.14724v1",
+    "title": "Bayesian Intelligence from the Outside",
+    "link": "https://arxiv.org/abs/2609.14724",
+    "description": "arXiv:2609.14724v1 Announce Type: new Abstract: Inferring intelligence from observable behavior is a foundational challenge in artificial intelligence. We develop a theory of Bayesian intelligence for agents such as language models. Each prompt induces a possibly imperfect internal experiment; the agent updates a full-support prior by Bayes' rule and faithfully reports its posterior over the possible answers to the question. Repetitions draw fresh, independent outcomes from the same unobserved experiment at one fixed state. We show that the agent's behavior admits this explanation if and only if its reports are not fully contradictory, i.e., some state remains possible under every report across all prompts. Report frequencies and the sizes of positive probabilities impose no further restrictions. We further propose and characterize the behavioral implications of an intelligence order that makes the behavior of two agents consistent with one agent having access to a more informative experiment: there should exist a coupling of report distributions such that the more informative agent's report excludes every answer excluded by its counterpart. Finally, we show the difficulty of aggregating coarse reports from intelligent agents: unless the agent reports a belief about the complete state of the world, the optimal aggregation can assign arbitrary weights to states that have not been excluded. These results provide a basis for understanding when agents' behavior is intelligent and highlight the difficulty of rejecting Bayesian rationality.",
+    "publishedAt": "2026-09-15",
+    "author": "Alex Smolin, Bryan Wilder",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

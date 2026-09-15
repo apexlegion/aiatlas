@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-15396v1",
+  "name": "SkillLift: Learning Dense Rubrics from Sparse Oracles for Efficient Skill Evolution",
+  "summary": "arXiv:2609.15396v1 Announce Type: new Abstract: LLM-based agents increasingly rely on persistent skills, i.e., reusable procedural prompts, to adapt without weight updates. Existing skill self-evol...",
+  "description": "arXiv:2609.15396v1 Announce Type: new Abstract: LLM-based agents increasingly rely on persistent skills, i.e., reusable procedural prompts, to adapt without weight updates. Existing skill self-evolution methods directly revise skill text based on execution feedback, but each oracle evaluation requires a full agent rollout, creating a supervision bottleneck that confines search to failure-patchi...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.15396"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.15396"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-15",
+  "expiryAt": "2026-10-15T00:00:00.000Z",
+  "author": "Haoxiang Kang, Ming Wen"
+}

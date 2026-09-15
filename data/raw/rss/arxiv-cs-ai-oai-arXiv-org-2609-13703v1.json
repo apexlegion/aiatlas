@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.13703v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.13703v1",
+    "title": "Gap Entropy and Almost Instance-Wise Optimal Best-Arm Identification",
+    "link": "https://arxiv.org/abs/2609.13703",
+    "description": "arXiv:2609.13703v1 Announce Type: cross Abstract: In the best-arm identification problem, we are given $n$ stochastic arms with unknown means and wish to identify the arm with the largest mean with probability at least $1-\\delta$, using as few samples as possible. We consider independent Gaussian rewards with unit variance and means in $[0,1]$. Chen and Li [2016] conjectured that the instance-wise sample complexity of this problem is characterized by the gap entropy, up to an additive term arising from the two-arm problem. In this paper, we resolve their gap-entropy and almost instance-wise optimality conjectures. For an instance $I$, let $\\Delta_{[i]}$ be the gap between the largest and the $i$-th largest mean, let $H(I)=\\sum_{i=2}^{n}\\Delta_{[i]}^{-2}$, and let Ent$(I)$ denote the entropy of the normalized complexities of its dyadic gap groups. For every $0&lt;\\delta&lt;0.1$, we show that the order-oblivious instance-wise lower bound is $ {\\Theta} (H(I)[\\log(1/\\delta)+Ent(I)]). $ We also give a single $\\delta$-correct algorithm with expected sample complexity $ O ( H(I)[\\log(1/\\delta)+Ent(I)] +D\\log(e+\\log(e+D))),D=\\Delta_{[2]}^{-2}, $ without prior knowledge of the gaps. Our lower bound removes the dyadic-gap and monotonicity restrictions of previous work, and our upper bound removes the additional polylogarithmic factor multiplying the two-arm term. Thus, a single algorithm attains the instance-wise lower bound up to an additive two-arm term. The main theorems have been formalized and proved in Lean 4.",
+    "publishedAt": "2026-09-15",
+    "author": "Jiarui Yao, Jiaxi Zhao, Xiangxin Zhou",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.01043v4",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.01043v4",
+    "title": "DART-VLN: Test-Time Memory Decay and Anti-Loop Regularization for Discrete Vision-Language Navigation",
+    "link": "https://arxiv.org/abs/2607.01043",
+    "description": "arXiv:2607.01043v4 Announce Type: replace-cross Abstract: Memory-based agents for discrete vision-language navigation (VLN) operate under partial observability and may exhibit systematic inference-time failures even with strong pretrained backbones. This paper addresses two recurring problems: stale historical evidence during memory readout and inefficient local backtracking during action selection. We present DART-VLN, a training-free inference-time framework that combines Test-Time Memory Decay, which reweights stale and redundant memory slots without modifying their stored content, with Anti-Loop Regularization, a lightweight next-hop penalty that discourages immediate reversals. DART-VLN introduces no learnable parameters and leaves the navigation backbone unchanged. Experiments on R2R and REVERIE showed that memory decay preserved or improved task performance while reducing runtime. The addition of anti-loop regularization further shortened trajectories, reduced local backtracking, and achieved the best overall balance between navigation quality and efficiency among the evaluated GridMM variants. These results indicate that lightweight inference-time control can improve the reliability and efficiency of memory-based discrete VLN without retraining.",
+    "publishedAt": "2026-09-15",
+    "author": "Shaoheng Zhang, Zhichen Li, Guangfu Ma, Jie Mei",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

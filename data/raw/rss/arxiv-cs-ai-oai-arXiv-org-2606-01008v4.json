@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.01008v4",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.01008v4",
+    "title": "FVSpec: Real-World Property-Based Tests as Lean Challenges",
+    "link": "https://arxiv.org/abs/2606.01008",
+    "description": "arXiv:2606.01008v4 Announce Type: replace-cross Abstract: As AI systems generate an ever-growing share of the world's code, formal verification offers a principled way to ensure that code is correct, and AI itself may be able to shoulder much of the verification burden. Yet we lack a clear picture of how well today's models and agents perform on verification tasks drawn from real-world software, since existing benchmarks rely largely on curated or synthetic problems, or focus on math rather than program verification. To close this gap, we present a benchmark for evaluating AI on real-world formal software verification tasks. We first scrape 7,413 distinct property-based tests (PBTs) from real-world Python repositories, then automatically translate 2,623 of them (35%) into 9,415 Lean 4 specifications with sorry placeholders (3.5 formalizations/PBT). Translating PBTs to Lean specs is challenging: it requires modeling Python in Lean, inferring the property encoded in a PBT, and handling side effects. We describe an agentic pipeline for transpiling PBTs into Lean, evaluate coverage and quality metrics, and provide baselines for proof generation using several approaches. All code (scraper and agents) and data (PBTs and Lean specs) are open source.",
+    "publishedAt": "2026-09-15",
+    "author": "Quinn Dougherty, Max von Hippel, Simon Henniger, Hazel Shackleton, Mike Dodds",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

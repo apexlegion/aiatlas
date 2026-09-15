@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.13298v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.13298v1",
+    "title": "Variational Template Matching with Statistical Fusion for Anomaly Detection in Patterned Structures",
+    "link": "https://arxiv.org/abs/2609.13298",
+    "description": "arXiv:2609.13298v1 Announce Type: cross Abstract: Anomaly detection in structured images is challenging in small-data settings where deep learning approaches are costly or impractical. Classical template matching is simple and interpretable but lacks robustness to geometric variations such as scale, rotation, and perspective. We propose a variational template matching framework that represents anomaly templates as a family of transformed instances and performs detection via normalized cross-correlation over this transformation space. To further improve robustness, we introduce a density-based statistical anomaly score derived from local intensity distributions using kernel density estimation (KDE). This produces a smooth representation that captures distributional concentration and tail behavior more robustly than histogram-based methods. The structural and statistical signals are integrated through a unified fusion formulation, enabling complementary modeling of geometric similarity and distributional deviation. Experiments on biological cell images demonstrate that the proposed method outperforms classical baselines and achieves competitive performance with ResNet-50 under a fully training-free setting, while providing explicit localization. The approach offers an efficient, interpretable, and practical solution for anomaly detection in structured image domains.",
+    "publishedAt": "2026-09-15",
+    "author": "Qinwu Xu, Yifan Jiang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

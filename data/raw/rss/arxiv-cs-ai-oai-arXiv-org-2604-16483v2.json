@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.16483v2",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.16483v2",
+    "title": "DSS: Dynamic Semantic Steering for Robust Concept Erasure in Diffusion Models",
+    "link": "https://arxiv.org/abs/2604.16483",
+    "description": "arXiv:2604.16483v2 Announce Type: replace-cross Abstract: Text-to-image (T2I) diffusion models have introduced new security risks, as adversaries can exploit flexible text prompts to induce the generation of sensitive or policy-violating content (e.g., NSFW or copyrighted concepts). Concept erasure has emerged as a promising defense, aiming to suppress targeted semantics while preserving benign generation. However, existing approaches face a fundamental trade-off: training-based methods are costly and inflexible to emerging threats, while inference-time interventions often rely on unconstrained feature manipulation, leading to over-correction, semantic drift, and degraded utility. More critically, they lack an explicit understanding of local semantic structure, resulting in unstable behavior under adversarial or compositional prompts. In this paper, we propose Dynamic Semantic Steering (DSS), a training-free, inference-time defense framework for robust and controllable concept erasure under prompt-level adversarial settings. DSS introduces a geometry-aware formulation that explicitly models local semantic neighborhoods and constrains feature updates within this structure, which is key to achieving precise suppression without sacrificing benign semantics. Specifically, DSS (i) automatically identifies benign semantic anchors via density-based boundary modeling, and (ii) performs context-aware, constrained feature correction using cross-attention signals with a closed-form solution. Extensive experiments demonstrate that DSS achieves strong and consistent suppression across diverse concept categories and adversarial prompts, reaching an average erasure rate of 91.0\\%, outperforming prior defenses (18.6\\%--85.9\\%). At the same time, DSS substantially reduces semantic drift and preserves generation fidelity.",
+    "publishedAt": "2026-09-15",
+    "author": "Qinghui Gong, Zhengchun Zhou, Hua Meng, Yihuai Liang, Yuxuan Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

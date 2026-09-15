@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2503.18460v2",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2503.18460v2",
+    "title": "ModiGen: A Large Language Model-Based Workflow for Multi-Task Modelica Code Generation",
+    "link": "https://arxiv.org/abs/2503.18460",
+    "description": "arXiv:2503.18460v2 Announce Type: replace-cross Abstract: Modelica is a widely adopted language for simulating complex physical systems, yet effective model creation and optimization require substantial domain expertise. Although large language models (LLMs) have demonstrated promising capabilities in code generation, their application to modeling remains largely unexplored. To address this gap, we have developed benchmark datasets specifically designed to evaluate the performance of LLMs in generating Modelica component models and test cases. Our evaluation reveals substantial limitations in current LLMs, as the generated code often fails to simulate successfully. To overcome these challenges, we propose a specialized workflow that integrates supervised fine-tuning, graph retrieval-augmented generation, and feedback optimization to improve the accuracy and reliability of Modelica code generation. The evaluation results demonstrate significant performance gains: the maximum improvement in pass@1 reached 0.3349 for the component generation task and 0.2457 for the test case generation task. This research underscores the potential of LLMs to advance intelligent modeling tools and offers valuable insights for future developments in system modeling and engineering applications.",
+    "publishedAt": "2026-09-15",
+    "author": "Jiahui Xiang, Tong Ye, Peiyu Liu, Yinan Zhang, Wenhai Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

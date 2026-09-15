@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-15803v1",
+  "name": "Delegating Authorization to Misaligned Agents: Coalitional Alignment and Safe Control",
+  "summary": "arXiv:2609.15803v1 Announce Type: cross Abstract: Long-running AI agents create a control problem: each action they take changes the state, which in turn affects the trajectory of future actions. I...",
+  "description": "arXiv:2609.15803v1 Announce Type: cross Abstract: Long-running AI agents create a control problem: each action they take changes the state, which in turn affects the trajectory of future actions. If the agent is not fully aligned, then guaranteeing safety requires approving consequential actions before allowing them to be executed. But requiring human approval at every step makes attention a bo...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.15803"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.15803"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-15",
+  "expiryAt": "2026-10-15T00:00:00.000Z",
+  "author": "Natalie Collina, Surbhi Goel, Aaron Roth, Sikata Bela Sengupta"
+}

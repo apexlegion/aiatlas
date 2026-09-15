@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.11170v2",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.11170v2",
+    "title": "From Explanations to Interventions: Execution-Guided Counterfactual Synthesis in Temporal Graphs",
+    "link": "https://arxiv.org/abs/2609.11170",
+    "description": "arXiv:2609.11170v2 Announce Type: replace Abstract: Can a trace explaining model execution also compute the changes needed for a specified alternative prediction? We propose trace-guided intervention search, which uses executable reasoning traces as an intermediate representation for intervention synthesis. A Specified-Foil Counterfactual edits past events so that a frozen temporal predictor selects a designated foil. Our method constructs facts and replacement values from completed original and foil executions and recovered unmet conditions. Proposal generation constructs edits and selects candidates within a fixed cap; exact replay verifies foil top-1 outcomes among retained edits and compositions. Implemented in LiFTER for continuous-time dynamic graphs (CTDGs) and TLogic for temporal knowledge graphs (TKGs), the method improves success over coordinate-based proposal generation by 13.7-34.7 percentage points on four CTDG datasets and 60.0-83.3 points on two TKG datasets under matched downstream search and a proposal cap of 32. Separate shared-candidate comparisons retain 85.7-93.6% of black-box greedy's CTDG success rate with 75.0-80.0% fewer predictor evaluations. A Pulse case study confirms simulator-level survival for five of six interventions. Executable traces thus provide both explanatory evidence and a reusable computational representation for constructing and testing specified alternatives.",
+    "publishedAt": "2026-09-15",
+    "author": "Minwoo Yu, Young-guk Ha",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.14642v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.14642v1",
+    "title": "Diffusion-Based Generation of Gait Trajectories",
+    "link": "https://arxiv.org/abs/2609.14642",
+    "description": "arXiv:2609.14642v1 Announce Type: new Abstract: Generation of musculoskeletal gait trajectories conditioned on patient-specific parameters remains a key challenge for wearable robotics and rehabilitation. Assistive systems such as lower-limb exoskeletons require reference trajectories that adapt to individual morphology and therapeutic goals while preserving biomechanical realism. Traditional approaches rely on hand-crafted gait templates or optimization procedures that scale poorly across subjects and walking conditions. In this work, we explore conditional diffusion models for generating lower-limb joint-angle trajectories conditioned on gait parameters such as step length. We compare a baseline transformer diffusion model with a controllable diffusion transformer variant incorporating adaptive normalization and classifier-free guidance. Experiments on a dataset of 4,590 gait cycles show that diffusion models can generate realistic periodic gait trajectories while enabling some controllability variation in gait characteristics, highlighting their potential for personalized gait synthesis in assistive robotics.",
+    "publishedAt": "2026-09-15",
+    "author": "Damian Benasco, Juan Carballeira-Lopez, Jaime Ramos-Rojas, Julio S. Lora-Millan, Antonio J. Del-Ama, David Rodriguez-Cianca, Pablo Lanillos",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

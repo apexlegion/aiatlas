@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.09404v2",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.09404v2",
+    "title": "SAILS: Surrogate-based Analysis of Interactions via Local Effect Smooths",
+    "link": "https://arxiv.org/abs/2606.09404",
+    "description": "arXiv:2606.09404v2 Announce Type: replace-cross Abstract: Feature interactions drive much of the predictive power of machine learning models, yet existing explanation methods only detect and quantify interactions without revealing their functional form, or visualize only restricted interaction types. We propose Surrogate-based Analysis of Interactions via Local Effect Smooths (SAILS), a model-agnostic framework that analyzes pairwise interactions through generalized additive model (GAM) surrogates fitted to the local effects of a black-box model. For each interval of a feature of interest, the surrogate smooth terms isolate the interaction components on derivative level, enabling (i) interaction detection through a heuristic derived from significance tests on smooth terms, (ii) interaction form categorization into linear, product-separable, and non-product-separable types, and (iii) tailored, interpretable visualizations for each interaction type. We empirically validate the framework through controlled simulations and a real-world task, showing its effectiveness for pairwise interactions, with limitations under strong feature correlations and higher-order interactions. SAILS fills a notable gap in the eXplainable AI (XAI) toolbox, going beyond detecting interactions alone to characterizing their functional form.",
+    "publishedAt": "2026-09-15",
+    "author": "Timo Hei{\\ss}, Julia Herbinger, Bernd Bischl, Giuseppe Casalicchio",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

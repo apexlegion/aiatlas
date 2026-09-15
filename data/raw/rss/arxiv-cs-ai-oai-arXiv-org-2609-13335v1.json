@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.13335v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.13335v1",
+    "title": "Bridging Thought and Action: Taming Long-Horizon Instability in Open-Source LLM Agents with a MetaTool-Enhanced ROS Framework",
+    "link": "https://arxiv.org/abs/2609.13335",
+    "description": "arXiv:2609.13335v1 Announce Type: cross Abstract: Large Language Models (LLMs) have enabled more natural human-robot interaction, but open-source models often exhibit unstable long-horizon reasoning and inefficient action execution when deployed in agentic robotic frameworks. This paper presents an enhanced ROS-Agent based architecture that improves task reliability and execution efficiency for agentic robotic systems using open-source LLMs. The proposed system introduces a novel intermediate mechanism, termed the MetaTool, which enforces structured planning prior to action execution. Given a natural-language command, the MetaTool induces the LLM to generate a pseudo-code plan of intended tool invocations, which is stored in the ROS-Agent's scratchpad and persists throughout execution. By explicitly separating planning from execution, the proposed approach reduces execution loops and improves deterministic behavior. The architecture is validated on a custom mobile robotic platform with multimodal perception and motion control capabilities. Experimental results on real-world interactive tasks demonstrate improved task completion and contextual consistency, with up to ~24% gains on complex tasks compared to the baseline framework.",
+    "publishedAt": "2026-09-15",
+    "author": "Kazi Abrar Mahmud, Nilotpaul Kundu Dhurubo, Tamal Kirttonia, Sabbir Hossain Ujjal, Mohammad Ariful Haque",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

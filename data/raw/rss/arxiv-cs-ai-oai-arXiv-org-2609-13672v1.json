@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.13672v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.13672v1",
+    "title": "Recoverability as a System Primitive for Long-Horizon AI Agents",
+    "link": "https://arxiv.org/abs/2609.13672",
+    "description": "arXiv:2609.13672v1 Announce Type: new Abstract: AI agents can be interrupted while editing files, calling tools, or carrying out multi-step tasks. Restarting repeats completed work, but continuing from unverified or outdated progress can carry earlier errors forward. A saved state is not necessarily a suitable place to resume. We introduce recoverability as a system primitive that makes reuse an explicit decision: select a supported starting point and a permitted recovery action, or withhold automatic continuation. Its behavioral contract binds that choice to supporting evidence, execution, and independent checks. A reference architecture connects persistence, validation, and control, with complementary runtime instances testing distinct responsibilities. Four deterministic and 20 paired file challenges demonstrate that accurate restoration and successful completion can conceal disallowed starting points. Progress controls attribute retained work to shared restoration. Event-time tests show that permission must also constrain the action, and that independently held policy evidence can expose violations even after an effect occurs. These findings establish why recovery decisions need their own evaluation, beyond restored bytes and final task success. Within supplied policies and a declared trust model, the contribution is a common, testable interface for retaining justified progress and making the conditions for its reuse explicit and enforceable.",
+    "publishedAt": "2026-09-15",
+    "author": "Zhihui Zhang, Wei Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

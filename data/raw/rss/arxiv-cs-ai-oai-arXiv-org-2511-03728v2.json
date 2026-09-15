@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2511.03728v2",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2511.03728v2",
+    "title": "Efficient On-Device Agents via Adaptive Context Management",
+    "link": "https://arxiv.org/abs/2511.03728",
+    "description": "arXiv:2511.03728v2 Announce Type: replace Abstract: On-device AI agents offer the potential for personalized, low-latency assistance, but their deployment is fundamentally constrained by limited memory capacity. Context in agentic settings worsens this problem due to large static tool schemas and a growing interaction history that continually expands the persistent KV cache. To maintain on-device feasibility, agents must operate near the minimum task-sufficient context, while preserving task performance. We introduce two complementary mechanisms: (1) a learned intra-session memory architecture that distills trajectories into an append-only Context State Object (CSO), preserving current state and relevant details from previous steps that may have future utility, while still supporting KV-cache reuse, and (2) a just-in-time schema-passing mechanism that loads full tool definitions only upon tool selection. We instantiate this framework by adapting 3B-parameter SLMs and profiling them on smartphone hardware. In our evaluations, CSO-based memory outperforms KV-cache compression and trained summarization while retaining performance near or even above full-history execution. Deployed on-device, our framework reduces initial tool context by over $6\\times$ and interaction-context growth by 10-25 times, substantially reducing initial",
+    "publishedAt": "2026-09-15",
+    "author": "Sanidhya Vijayvargiya, Rahul Lokesh",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

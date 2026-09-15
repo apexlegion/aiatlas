@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.13254v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.13254v1",
+    "title": "(How) Do MLLMs Report Bistable Images Like Humans?",
+    "link": "https://arxiv.org/abs/2609.13254",
+    "description": "arXiv:2609.13254v1 Announce Type: cross Abstract: Bistable images such as the duck-rabbit are classic stimuli in which one image supports multiple mutually incompatible interpretations, typically reported one at a time in humans. We ask whether multimodal large language models (MLLMs) show similar report behavior and what internal computations support it. Using the LLaVA family, we study two tractable dimensions: modulability, whether reports can be biased by bottom-up visual cues and top-down linguistic priors, and exclusivity, whether responses commit to a single interpretation. We test both on the canonical duck-rabbit and on synthetic Visual Anagrams to mitigate memorization confounds. Behaviorally, both visual and linguistic manipulations systematically shift reports in human-consistent ways, while responses remain predominantly exclusive. Mechanistically, these effects arise from competing image-token representations, distinct pathways for bottom-up and top-down modulation, and a link between exclusive reporting and object-count encoding. Code and data are available at https://github.com/rtakatsky/mllm-bistable-images.",
+    "publishedAt": "2026-09-15",
+    "author": "Ryota Takatsuki, Tomoki Doi, Amane Watahiki, Anil K. Seth, Hitomi Yanaka",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

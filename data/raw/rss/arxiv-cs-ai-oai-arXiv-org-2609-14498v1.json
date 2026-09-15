@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.14498v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.14498v1",
+    "title": "EdgeHAR: An Edge-Native Compact Sensor Foundation Model for Human Activity Recognition",
+    "link": "https://arxiv.org/abs/2609.14498",
+    "description": "arXiv:2609.14498v1 Announce Type: cross Abstract: Sensor-based human activity recognition (HAR) is fundamental to ubiquitous and wearable computing, yet existing foundation models are largely designed for cloud-scale deployment and struggle with real-world sensing shifts, including unseen users, devices, sampling rates, and sensor placements. We present \\textbf{EdgeHAR}, an edge-native compact sensor foundation model designed for wearable intelligence. Unlike conventional models that entangle activity knowledge with acquisition variations, EdgeHAR learns transferable representations by factorizing sensor signals into three latent codes: an \\textbf{(i)Activity-Semantic Code} capturing reusable activity knowledge, a \\textbf{(ii)Motion-Dynamics Code} modeling temporal patterns, and an \\textbf{(iii)Acquisition-Context Code} representing sensor-specific variations. This disentangled design enables efficient adaptation to new users, devices, placements, and activity classes with limited target-domain data. By incorporating lightweight adaptation modules, EdgeHAR achieves foundation-model-level transferability while satisfying edge constraints in computation, memory, latency, and privacy. Experiments across heterogeneous HAR datasets demonstrate that EdgeHAR maintains competitive recognition performance under distribution shifts with substantially reduced deployment cost. EdgeHAR establishes a practical paradigm for compact, edge-first foundation models for ubiquitous sensing systems.",
+    "publishedAt": "2026-09-15",
+    "author": "He Zhang, Siyu Yuan, Siyu Liu, Sizhen Bian, Bin Guo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.12721v3",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.12721v3",
+    "title": "The Theory of Mind Utility: A Formal Account of Mentalizing",
+    "link": "https://arxiv.org/abs/2606.12721",
+    "description": "arXiv:2606.12721v3 Announce Type: replace Abstract: Inferring another person's beliefs requires reconstructing their information access history: what they encountered, in what order, from whom, and with what credibility. Existing formal accounts of theory of mind generally treat beliefs as given. We introduce the Theory of Mind Utility (ToM-U), a computational-level theory of how beliefs are formed from information-access history. ToM-U represents a person's epistemic situation as a Local Epistemic World Model (LEWM): a directed typed graph linking agents, information, and belief-like states. ToM-U generates candidate LEWMs, limits how deeply a person reasons about another's reasoning, and evaluates each candidate against observed behavior. A sufficiently coherent candidate is accepted, while a failed one leaves a structured residue that shapes later reasoning. Together, these components formalize a distinct cognitive process that operates across social reasoning. The architecture supports testable predictions about when mentalizing will fail and how those failures will affect subsequent attempts.",
+    "publishedAt": "2026-09-15",
+    "author": "Nikolos Gurney, Stacy Marsella",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

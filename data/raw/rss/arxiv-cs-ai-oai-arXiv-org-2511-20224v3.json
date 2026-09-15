@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2511.20224v3",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2511.20224v3",
+    "title": "DuoTok: Source-Aware Dual-Track Music Tokenization for Vocal-Accompaniment Generation",
+    "link": "https://arxiv.org/abs/2511.20224",
+    "description": "arXiv:2511.20224v3 Announce Type: replace-cross Abstract: Multi-track music generation requires tokens that preserve acoustic fidelity, support sequence modeling, and maintain cross-track structure. Reconstruction-oriented codecs retain acoustic detail but are difficult to model, while semantic tokenizers may sacrifice fidelity or cross-track alignment. We present DuoTok, a source-aware dual-track music tokenizer for vocal-accompaniment generation based on staged disentanglement. DuoTok first learns a semantic audio representation through self-supervised pretraining, then shapes source-aware structure using feature replacement noise and multi-task supervision: spectral reconstruction, music source separation regularization, and an ASR head for lyric alignment. It freezes the encoder and learns hard-routed codebooks for vocals and accompaniment, while a diffusion decoder restores fine acoustic detail from discrete tokens. Across public benchmarks, DuoTok achieves a favorable predictability-fidelity trade-off at ultra-low bitrate. Under held-constant dual-track language modeling, it improves both unconditional vocal-accompaniment modeling and vocal-conditioned accompaniment prediction. Controlled diagnostics show larger predictability costs under cross-track corruption and greater gains from longer temporal context, supporting stronger use of cross-track and temporal structure rather than merely easier local prediction. DuoTok also maintains competitive reconstruction quality and preserves control-relevant musical attributes in its discrete space. These results suggest that tokenizer design is a core modeling problem for multi-track music generation, beyond compression alone.",
+    "publishedAt": "2026-09-15",
+    "author": "Rui Lin, Zhiyue Wu, Jiahe Lei, Kangdi Wang, Weixiong Chen, Junyu Dai, Tao Jiang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

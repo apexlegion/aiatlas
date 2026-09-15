@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-02525v2",
+  "name": "PEEK: Predictive Queue-Informed KV Cache Management for LLM Serving",
+  "summary": "arXiv:2607.02525v2 Announce Type: replace-cross Abstract: We present PEEK, a lightweight scheduling and eviction framework for both online (streaming) and offline (batch) LLM serving; this paper fo...",
+  "description": "arXiv:2607.02525v2 Announce Type: replace-cross Abstract: We present PEEK, a lightweight scheduling and eviction framework for both online (streaming) and offline (batch) LLM serving; this paper focuses on the online regime. PEEK maintains an incremental radix tree over the pending queue, exposing prefix-sharing clusters no existing engine surfaces. A low-overhead dual-walk matches the tree aga...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.02525"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.02525"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-15",
+  "expiryAt": "2026-10-15T00:00:00.000Z",
+  "author": "Bing Xie, Zhipeng Wang, Masahiro Tanaka, Zhen Zheng"
+}

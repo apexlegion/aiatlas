@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.15100v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.15100v1",
+    "title": "ChatGPT Images 2.5 in the Wild: A Launch-Period Dataset and Detector Evaluation",
+    "link": "https://arxiv.org/abs/2609.15100",
+    "description": "arXiv:2609.15100v1 Announce Type: cross Abstract: An image tool can change its underlying generator while retaining its public name, making version attribution from online posts ambiguous. We study this problem after the ChatGPT Images 2.5 launch. Our frozen collection contains 3,478 images from 2,440 posts across 8 sources. Recorded posting times fall within the first 51.1 hours after the announcement. It records three attribution tiers and retains standalone images after image-form filtering and targeted review. Caption claims and host records provide admission evidence, not independently verified generator identity. The observed content profile depends on the source mixture: NightCafe supplies 39.0% of images but 77.0% of CLIP-assigned fantasy scenes. We then evaluate six frozen detectors at thresholds calibrated to a 5% flag rate on reference photographs. Collection flag rates range from 3.7 to 56.4%, falling 42-81 percentage points below GenImage recall. Held-out artwork false-positive rates range from 1.5 to 96.5%, so a higher collection flag rate does not by itself establish better detection. An exploratory X-only comparison with our April collection finds a higher September flag rate for Effort, and a suggestive difference for DoU, under fixed-threshold post-clustered bootstrap intervals. Attribution, content and processing differences prevent a causal interpretation of these contrasts. The collection supports analysis of reported model use during a product transition, with source and attribution evidence retained for interpretation.",
+    "publishedAt": "2026-09-15",
+    "author": "Dennis Ng, Xingyu Shen, Ankit Raj, Kidus Zewde, Tommy Duong, Yuchen Zhou, Yuxin Zhang, Neo Tiangratanakul, Simiao Ren",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2509.19375v2",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2509.19375v2",
+    "title": "Uncertainty-Aware Calibrated Clinical Text Classification with Large Language Models",
+    "link": "https://arxiv.org/abs/2509.19375",
+    "description": "arXiv:2509.19375v2 Announce Type: replace-cross Abstract: Large language models are increasingly used for clinical text classification, where overconfident misclassifications can directly affect patient care. Existing black-box uncertainty methods attach a confidence score to a fixed LLM prediction using softmax probabilities, verbalised confidence, prompt agreement, or generation consistency. These signals are often poorly calibrated and offer no mechanism for combining model evidence with prior clinical belief. We instead formulate closed-set clinical classification as likelihood-free posterior inference over diagnostic hypotheses. A prompt-conditioned LLM is treated as a class-conditional stochastic simulator: for each candidate diagnosis it generates synthetic clinical descriptions, which are compared with the observed case in an embedding summary space. Sequential Monte Carlo Approximate Bayesian Computation then yields a posterior over diagnoses from which both the prediction and its uncertainty are derived. We instantiate three variants spanning a cost-fidelity spectrum: multinomial SMC (M-SMC), Dirichlet SMC (D-SMC), and an amortised Dirichlet posterior network (ABI) for deployment-time inference. Across three clinical benchmarks and six open LLMs, the inferred posterior separates correct predictions from errors more sharply than black-box confidence, with misclassification-detection AUROC on MultiCare of 0.923 for M-SMC against 0.760 for softmax and 0.584 for a consistency baseline. The posterior also accepts an explicit clinician prior, recovering the correct diagnosis from a deliberately misleading one, and remains diffuse on out-of-distribution presentations. We release OLB-300, an expert-validated clinical uncertainty-quantification benchmark of oral-lesion vignettes.",
+    "publishedAt": "2026-09-15",
+    "author": "Mridul Sharma, Adeetya Patel, Zaneta D' Souza, Samira Abbasgholizadeh Rahimi, Siva Reddy, Sreenath Madathil",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

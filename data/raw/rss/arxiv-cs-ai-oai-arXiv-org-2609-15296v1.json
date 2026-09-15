@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.15296v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.15296v1",
+    "title": "Reason What Matters: Retrieval-Grounded Reasoning for Universal Multimodal Embeddings",
+    "link": "https://arxiv.org/abs/2609.15296",
+    "description": "arXiv:2609.15296v1 Announce Type: new Abstract: Universal multimodal embedding (UME) learns unified representations across modalities, enabling a single model to support diverse retrieval tasks. Recent methods use Chain-of-Thought (CoT) reasoning to better interpret multimodal inputs before generating embeddings for complex retrieval tasks and further optimize this reasoning process through GRPO with retrieval-based rewards. However, two limitations hinder corpus-scale deployment. GRPO assigns all CoT tokens the same advantage, without identifying input-supported claims or evidence that distinguishes the positive from negatives. Moreover, generating a complete CoT before each embedding introduces substantial latency, even when a partial trace already provides sufficient retrieval evidence. To address these limitations, we propose Reason What Matters (ReWAM), a retrieval-grounded reasoning framework that uses retrieval feedback to guide both credit assignment and reasoning computation. Specifically, we introduce Retrieval-aware Self-Distillation (RASD), which constructs privileged guidance from input-supported evidence that distinguishes the positive item from retrieved hard negatives. An on-policy self-teacher uses this guidance to refine trajectory-level feedback into token-specific supervision for retrieval-relevant reasoning. We further develop Retrieval-adaptive Inference (RAI), which uses a retrieval confidence head to estimate the remaining retrieval utility of a partial CoT. It stops unproductive traces early and accelerates useful continuations with speculative decoding. Extensive experiments on MMEB-V2 and MRMR demonstrate that ReWAM achieves state-of-the-art retrieval performance while delivering up to 5x the inference throughput of competitive explicit-CoT UME methods. These results bridge the gap between retrieval quality and inference efficiency, making reasoning-enhanced UME practical for large-scale deployment.",
+    "publishedAt": "2026-09-15",
+    "author": "Mingzhou Jiang, Peixi Wu, Hang Cheng, Yunhao Zhou, Biao Yang, Wei Yuan, Yun Li, Fan Yang, Wenwu Ou, Honghui He",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-14976v1",
+  "name": "MemRiskBench: Trace-Aware Risk-Preserving Evaluation for Long-Horizon LLM Agents",
+  "summary": "arXiv:2609.14976v1 Announce Type: new Abstract: Long-horizon LLM agents accumulate memory across sessions, creating sparse but high-impact risks: stale facts, conflicting updates, cross-user leakag...",
+  "description": "arXiv:2609.14976v1 Announce Type: new Abstract: Long-horizon LLM agents accumulate memory across sessions, creating sparse but high-impact risks: stale facts, conflicting updates, cross-user leakage, revoked-memory reuse, and constraint decay. Standard aggregate scores hide per-risk failure rates--a model achieving 78% average accuracy may still leak data in 4% of episodes--and benchmark compre...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.14976"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.14976"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-15",
+  "expiryAt": "2026-10-15T00:00:00.000Z",
+  "author": "Jianhua Jiang, Dongbo Yuan, Weihua Li"
+}

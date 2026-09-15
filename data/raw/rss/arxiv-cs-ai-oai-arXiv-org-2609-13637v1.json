@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.13637v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.13637v1",
+    "title": "Identity Is More Than Recall: A Benchmark for Persistent Identity in Deployed AI Agents",
+    "link": "https://arxiv.org/abs/2609.13637",
+    "description": "arXiv:2609.13637v1 Announce Type: new Abstract: Persistent agents need evaluations that distinguish identity facts they can recall from those they express and enact. We introduce PAI-Bench, a provider-neutral benchmark for fidelity to a versioned, update-governed identity contract. It separates recall, composition, behavioral enactment, resistance, persistence, lineage, and role-conditioned updates while keeping scoring oracles outside the target process. Two frozen campaigns cover sixteen synthetic profiles, thirty-two probes, and three independently initialized target configurations, yielding 1,536 retained responses. A judge-independent literal audit finds direct-parent identifiers in 48/48 atomic responses but only 1/48 implicit self-portraits. On eight profiles, explicit field cues increase joint presence of three identity identifiers from 0/8 to 7/8 under the same four-sentence instruction. A separate startup body-label substitution increases full-designation presence from 1/8 to 7/8 while parents remain absent. These contrasts reveal prompt-dependent component selection and component-specific sensitivity to startup cues in the tested deployments. Replaying identical factorial responses also yields a Claude headline mean 12.5 percentage points below Astra's, demonstrating evaluator sensitivity separately from target behavior. The studies use single target samples per condition, with post-hoc audits and follow-ups. PAI-Bench provides a reproducible evaluation protocol for measuring factual availability, identity expression, and behavioral enactment as distinct aspects of identity-contract fidelity.",
+    "publishedAt": "2026-09-15",
+    "author": "Zhenyu Zhao, Roy Zhao",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

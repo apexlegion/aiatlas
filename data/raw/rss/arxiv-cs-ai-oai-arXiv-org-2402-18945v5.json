@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2402.18945v5",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2402.18945v5",
+    "title": "SynGhost: Invisible and Universal Task-agnostic Backdoor Attack via Syntactic Transfer",
+    "link": "https://arxiv.org/abs/2402.18945",
+    "description": "arXiv:2402.18945v5 Announce Type: replace-cross Abstract: Although pre-training achieves remarkable performance, it suffers from task-agnostic backdoor attacks due to vulnerabilities in data and training mechanisms. These attacks can transfer backdoors to various downstream tasks. In this paper, we introduce $\\mathtt{maxEntropy}$, an entropy-based poisoning filter that mitigates such risks. To overcome the limitations of manual target setting and explicit triggers, we propose $\\mathtt{SynGhost}$, an invisible and universal task-agnostic backdoor attack via syntactic transfer, further exposing vulnerabilities in pre-trained language models (PLMs). Specifically, $\\mathtt{SynGhost}$ injects multiple syntactic backdoors into the pre-training space through corpus poisoning, while preserving the PLM's pre-training capabilities. Second, $\\mathtt{SynGhost}$ adaptively selects optimal targets based on contrastive learning, creating a uniform distribution in the pre-training space. To identify syntactic differences, we also introduce an awareness module to minimize interference between backdoors. Experiments show that $\\mathtt{SynGhost}$ poses significant threats and can transfer to various downstream tasks. Furthermore, $\\mathtt{SynGhost}$ resists defenses based on perplexity, fine-pruning, and $\\mathtt{maxEntropy}$. The code is available at https://github.com/Zhou-CyberSecurity-AI/SynGhost.",
+    "publishedAt": "2026-09-15",
+    "author": "Pengzhou Cheng, Wei Du, Zongru Wu, Fengwei Zhang, Libo Chen, Zhuosheng Zhang, Gongshen Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

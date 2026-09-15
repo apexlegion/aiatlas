@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2511.12101v3",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2511.12101v3",
+    "title": "Freeze, Share, Shrink: Rethinking the Action Backbone in Diffusion Policies",
+    "link": "https://arxiv.org/abs/2511.12101",
+    "description": "arXiv:2511.12101v3 Announce Type: replace-cross Abstract: Many recent Vision-Language-Action models employ diffusion or flow-matching backbones with hundreds of millions of parameters for action generation. However, unlike image synthesis where the output spans millions of diverse pixels, a manipulation policy generates only short sequences of low-dimensional, physically correlated action values, a far simpler target that may not require such capacity. We confirm this intuition and show that, in modulation-conditioned diffusion policies, task adaptation can be routed entirely through the conditioning pathway, leaving a frozen, observation-free backbone that serves as a reusable trajectory prior. To establish this, we introduce a decoupled training recipe: a general-purpose action head is first pretrained on observation-free forward-kinematics data, then frozen while only the conditioning pathway is trained for downstream tasks. Using Diffusion Policy as a testbed, we show that on both MimicGen and LIBERO, a single frozen backbone shared across all tasks matches normally trained counterparts. In our ablations, this succeeds with modulation-based conditioning, while attention-based conditioning is embedded in the backbone's own weights and collapses once they are frozen. Ablations show the pretraining signal (joint positions, end-effector poses, or none) has little effect, while a randomly initialized backbone fails entirely, indicating that pretraining need only supply a general trajectory prior. Finally, a 5M-parameter MLP backbone matches or exceeds both the 244M U-Net and the transformer on these benchmarks, suggesting the action backbone is over-parameterized and that architectures inherited from image and language generation are a poor inductive-bias fit for the low-dimensional action target, with implications for action-backbone design in VLA models and other policies with an action backbone.",
+    "publishedAt": "2026-09-15",
+    "author": "Jian Zhou, Sihao Lin, Shuai Fu, Zerui Li, Gengze Zhou, Qi WU",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.13920v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.13920v1",
+    "title": "Finite-Time Node Separation in Recurrent Graph Neural Networks with Persistent Gaussian Perturbations",
+    "link": "https://arxiv.org/abs/2609.13920",
+    "description": "arXiv:2609.13920v1 Announce Type: cross Abstract: Persistent Gaussian perturbations have been shown to prevent asymptotic oversmoothing in recurrent Graph Neural Networks (GNNs) by ensuring a positive stationary Dirichlet energy. However, this global energy bound does not guarantee that individual node representations remain distinct at finite depths. In this paper, we provide a complementary finite-time analysis of the same persistent-noise architecture. Let \\(d\\) denote the representation dimension and \\(\\sigma\\) the noise standard deviation. We first prove an exact second-moment decomposition for the expected squared distance between any two node representations, yielding the universal lower bound \\(2\\sigma^2 d\\) at every positive time step without contraction or stationarity assumptions. More precisely, conditional pairwise distances have a noncentral chi-square characterization: the noncentrality parameter is the deterministic message-passing separation normalized by \\(2\\sigma^2\\). This yields dynamics-aware fixed-time and finite-horizon near-collision bounds that retain information discarded by the central worst-case analysis. The earlier central Gaussian bound is recovered as the worst-case zero-separation case. We additionally prove almost-sure pairwise noncollision, derive a uniform finite-horizon guarantee, and establish permutation equivariance in distribution for the stochastic dynamics and permutation-invariant graph outputs. Our results complement the asymptotic energy analysis of prior work and provide rigorous finite-time guarantees on node-level representation separation.",
+    "publishedAt": "2026-09-15",
+    "author": "Mostafa Haghir Chehreghani",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

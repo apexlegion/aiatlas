@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.13685v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.13685v1",
+    "title": "Not all Negation Cues are Equal: Affixal Negations Yield Better Negation Understanding",
+    "link": "https://arxiv.org/abs/2609.13685",
+    "description": "arXiv:2609.13685v1 Announce Type: cross Abstract: Negation remains a longstanding challenge for both language models (LMs) and large language models (LLMs). Prior work mainly focuses on a small set of high-frequency single-word negation cues, such as not and never, with limited exploration of broader negation types and modern LLMs. To address this gap, we construct NegCue, a large-scale dataset containing over 1.8M samples spanning single-word, multi-word, and affixal negation with more than 200 unique cues. We further pre-train both encoder-only LMs and LLMs on NegCue to investigate how different negation types affect negation understanding. Experiments on five downstream benchmarks show that negation types contribute unevenly to performance gains under the same training scale. In particular, affixal negation yields the largest improvements, while the gains from the commonly studied single-word negation remain modest. Moreover, our results demonstrate that further pre-training improves negation understanding for both LMs and LLMs.",
+    "publishedAt": "2026-09-15",
+    "author": "Tian Tan, Eduardo Blanco",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

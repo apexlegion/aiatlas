@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.02504v3",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.02504v3",
+    "title": "NeuroProlog: Multi-Task Fine-Tuning for Neurosymbolic Mathematical Reasoning via the Cocktail Effect",
+    "link": "https://arxiv.org/abs/2603.02504",
+    "description": "arXiv:2603.02504v3 Announce Type: replace Abstract: Large Language Models (LLMs) achieve strong performance on natural language tasks but remain unreliable in mathematical reasoning, frequently generating fluent yet logically inconsistent solutions. We present \\textbf{NeuroProlog}, a neurosymbolic framework that ensures verifiable reasoning by compiling math word problems into executable Prolog programs with formal verification guarantees. We propose a multi-task Cocktail training strategy that jointly optimizes three synergistic objectives in a unified symbolic representation space: (i) mathematical formula-to-rule translation (KB), (ii) natural language-to-program synthesis (SOLVE), and (iii) program-answer alignment. This joint supervision enables positive transfer, where symbolic grounding in formula translation directly improves compositional reasoning capabilities. At inference, we introduce an execution-guided decoding pipeline with fine-grained error taxonomy that enables iterative program repair and quantifies model self-debugging capacity. Evaluation on GSM8K across multiple model scales demonstrates that cocktail training improves accuracy over single-task baselines, with statistically significant gains for most evaluated models. Error analysis reveals scale-associated differences in repair behavior: larger models exhibit more readily correctable errors, whereas smaller models show reduced syntactic errors but persistent semantic failures. These findings suggest that model capacity influences the acquisition of reliable symbolic reasoning and self-correction capabilities.",
+    "publishedAt": "2026-09-15",
+    "author": "Pratibha Zunjare, Michael Hsiao",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.23870v2",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.23870v2",
+    "title": "MulRobBench: A Decision-Level Benchmark for Safe and Security-Policy-Compliant Multimodal UAV Agents",
+    "link": "https://arxiv.org/abs/2607.23870",
+    "description": "arXiv:2607.23870v2 Announce Type: replace-cross Abstract: In IoT-enabled smart-city settings, Uncrewed Aerial Vehicles (UAVs) are evolving from passive sensing platforms into cyber-physical decision makers that must respect operational rules under degraded observations and ambiguous language. Existing UAV and multimodal benchmarks cover aerial perception, navigation, collaboration, and task reasoning, but rarely test whether physical evidence, protocol constraints, and action risk stay coupled at critical decisions. We introduce MulRobBench, an offline, protocol-conditioned benchmark for Vision-Language-Action (VLA) UAV agents that links real UAV multimodal observations, protocol-level security-policy constraints, and action-level cyber-physical safety within an auditable decision contract. The evaluation set contains 3,024 samples spanning 17 task-taxonomy nodes and 12 metric scoring dimensions, organized around context understanding, multimodal evidence arbitration, degradation-aware reasoning, and risk-aware action planning. MulRobBench reports controlled semantic scores alongside strict structural diagnostics for policy compliance, formatting, unsafe actions, parsing, and dimension-level validity. Across 17 uniformly audited models, the best semantic protocol-decision score reaches 0.5141 and the best strict mean scoring-dimension accuracy reaches 0.1599. A matched 20-anchor modality-removal study changes 4-15 action selections per model, showing both visual and textual inputs influence decisions while the strongest input condition varies across metrics. Per-dimension and conditional analyses identify modality-trust selection, constraint extraction, strong glare, missing data, and high-entropy operator shorthand as principal sources of action instability. The central challenge is thus stable coupling of degraded evidence, security-policy constraints, and risk-bearing action, not isolated scene recognition.",
+    "publishedAt": "2026-09-15",
+    "author": "Belal S. Alsinglawi, Weizheng Wang, Junyi Wu, Lianhai Lin, Merouane Debbah, Izzat Alsmadi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

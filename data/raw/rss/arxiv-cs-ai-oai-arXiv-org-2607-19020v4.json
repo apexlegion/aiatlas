@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.19020v4",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.19020v4",
+    "title": "Freezing the Physiological Encoder: Explanation Stability Under Bounded Updates of an ICU Model",
+    "link": "https://arxiv.org/abs/2607.19020",
+    "description": "arXiv:2607.19020v4 Announce Type: replace-cross Abstract: Clinical prediction models deployed in intensive care units may require model updating when data distributions shift, yet unconstrained adaptation can alter model behavior in ways that are difficult to audit. We propose a structurally bounded updating framework that separates physiological dynamics from treatment context and restricts post-drift adaptation to the treatment pathway and fusion head, while leaving the physiological encoder unchanged. Rather than assuming that physiological information remains stable, we investigate how this predefined update boundary affects model explanations after distribution shift. Using 84,792 MIMIC-IV ICU stays across four temporal transitions, we compare selective adaptation with full model adaptation under treatment-side distributional and performance drift. Selective adaptation produces more stable physiological attribution ordering than full adaptation, with rank correlation of 0.875 versus 0.812 and top-5 feature agreement of 0.674 versus 0.552, while retrieval stability also improves (Jaccard similarity 0.614 versus 0.517). Importantly, freezing does not make explanations globally invariant; instead, it constrains where model changes can occur, redirecting explanatory changes toward the treatment pathway and fusion component. Predictive performance remains task-dependent, with selective adaptation outperforming full adaptation for some outcomes while showing a slight disadvantage for intubation prediction. These results suggest that explanation behavior after model updating is influenced not simply by whether a component is frozen, but by the structural boundary defining which components are permitted to absorb adaptation. Such predefined boundaries provide a practical basis for auditable and controlled updating of clinical prediction models under distribution shift.",
+    "publishedAt": "2026-09-15",
+    "author": "Fatema Ferdous Tamanna, K. M. Merajul Arefin, Md. Abdul Masud",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

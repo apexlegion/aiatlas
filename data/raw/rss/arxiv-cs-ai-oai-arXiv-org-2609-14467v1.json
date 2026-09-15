@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.14467v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.14467v1",
+    "title": "Bridging the Modality Gap in Long-Form Clinical Audio: A Comparative Study of Lightweight and Heavyweight End-to-End SOAP Generation",
+    "link": "https://arxiv.org/abs/2609.14467",
+    "description": "arXiv:2609.14467v1 Announce Type: cross Abstract: Automating clinical documentation from long-form doctor-patient conversations remains challenging for modern audio-language models. While cascaded ASR systems perform well, end-to-end (E2E) models often struggle with information loss and hallucinations on extended audio. For the BeTraC 2026 challenge, the ASLP team presents a fully E2E multimodal system that generates structured SOAP notes directly from audio, bypassing intermediate transcripts. We constructed a 1.41-million-sample multi-task corpus and applied a multi-stage pipeline: domain pre-training, supervised fine-tuning, and reward optimization. Evaluating the architecture under both Lightweight (3B) and Heavyweight (30B) constraints reveals that each training stage progressively enhances performance. Furthermore, scaling to 30B parameters substantially boosts concept extraction and summarization quality. Ultimately, our E2E systems consistently outperform representative cascaded ASR+LLM baselines, proving the efficacy of direct multimodal optimization for clinical documentation.",
+    "publishedAt": "2026-09-15",
+    "author": "Ziyu Zhang, Mingchen Shao, Wenjie Tian, Tianlun Zuo, Longhao Li, Lei Xie",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

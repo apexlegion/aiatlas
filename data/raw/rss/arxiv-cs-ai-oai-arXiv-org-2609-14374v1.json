@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.14374v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.14374v1",
+    "title": "LLaTSA: Large Language Model-Aligned General-Purpose Transient Stability Analysis",
+    "link": "https://arxiv.org/abs/2609.14374",
+    "description": "arXiv:2609.14374v1 Announce Type: cross Abstract: Dynamic trajectory prediction has become an important paradigm for data-driven transient stability analysis (TSA), yet most existing predictors remain system-specific and require substantial retraining when network configurations, generation mixes, or state-variable sets change. Uni-TSA introduced a general-purpose TSA framework that combines channel-independent modeling with a pretrained large language model (LLM) predictor. Nevertheless, its application to heterogeneous systems is limited by ambiguity in short observations, a mismatch between numerical trajectories and LLM embeddings, neglected coupling among state variables, and the high inference cost of dense backbones. This paper proposes LLaTSA, an LLM-aligned framework for general-purpose trajectory-based TSA. LLaTSA first incorporates operating conditions, disturbance attributes, and state-variable identity through a structured textual prefix. It then aligns normalized temporal patches with a TSA-related vocabulary before processing them with a pretrained sparse decoder-only mixture-of-experts (MoE) backbone. A state-variable coupling module captures coordinated post-fault evolution, while teacher forcing and rollout-based training support iterative long-horizon prediction. Case studies on multiple test systems demonstrate accurate trajectory prediction, reliable stability discrimination, and effective adaptation across unseen scenarios.",
+    "publishedAt": "2026-09-15",
+    "author": "Chao Shen, Hongwei Zhen, Junyan Shao, Zhenghao Yang, Yifan Zhang, Mingyang Sun",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

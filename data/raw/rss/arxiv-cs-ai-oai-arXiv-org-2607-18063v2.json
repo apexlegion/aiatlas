@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.18063v2",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.18063v2",
+    "title": "Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security",
+    "link": "https://arxiv.org/abs/2607.18063",
+    "description": "arXiv:2607.18063v2 Announce Type: replace-cross Abstract: LLM-based agents process external content, exposing them to prompt injection and multi-turn manipulation. We present a 21-scenario benchmark for adaptive cross-session attacks against fresh-session LLM defenders: an autonomous LLM attacker observes prior defender responses and pivots across rounds, while each defender response is evaluated as a fresh interaction. A controlled 3 x 3 attacker-defender matrix contains 945 battles. Restricting scoring to the first round yields 0-1% attack success rate (ASR); allowing 15 rounds yields 7.9-16.8%. Pooling three attacker LLMs uncovers 1.7-2.2 times as many unique successful inputs as the best single attacker, at three times the battle budget. Aggregate rates conceal opposing scenario-specific weaknesses in session-secret protection and authority handling, preserved in two higher-sample evaluations. On six scenarios, adding one provenance paragraph reduces ASR from 110/270 to 70/270, with selective effects across tasks. History and defender-state controls, together with frozen replay, characterize how the interaction protocol changes the result. A competition adds 18,422 held-out battles on a fixed gpt-oss-20b backbone and complementary benign-task evaluations. The benchmark exposes attacker and defender models, harnesses, scenarios, session state, and interaction budgets as configurable choices for systematic security evaluation.",
+    "publishedAt": "2026-09-15",
+    "author": "Devina Jain, David Hartmann, Chuan Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

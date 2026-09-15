@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.15638v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.15638v1",
+    "title": "Potential of Artificial Intelligence Algorithms for Identification of Relevant Diagnostic and Prognostic Biomarkers of Early-Stage Liver Cancer",
+    "link": "https://arxiv.org/abs/2609.15638",
+    "description": "arXiv:2609.15638v1 Announce Type: new Abstract: This study explores the use of deep learning and explainable artificial intelligence to diagnose hepatocellular carcinoma (HCC) and define effective biomarkers across five different stages of disease development using a transcriptomic biomarker HCC dataset constructed via semi-supervised learning from three source datasets. Several deep learning experiments were conducted with different feature extraction techniques and gene sets to identify the most effective features for training high-accuracy models with minimal loss. The best-performing model, using 15 selected genes with the SelectKBest algorithm, achieved 90.74% accuracy, while the model with the lowest recorded loss of 0.3187 was obtained using 20 selected genes. To address the issue of class imbalance in the dataset, a weighted training approach was conducted, and for model transparency and interpretability a SHAP-based XAI analysis provided insights into the model's decision-making, consistently finding DNAJB14 as the most influential gene. Functional validation in this study has provided compelling evidence that DNAJB14 plays an important role in the adverse properties of HCC and that its inhibition effectively reverses tumour cell migration, invasion, colony and sphere formation. The main limitation of this study is the dataset's class imbalance, and while weighted training helped mitigate this, further research and additional data are needed to guarantee model generalizability. Future studies should also explore the influence of genetic variations, environmental factors, and clinical differences on model performance across diverse populations.",
+    "publishedAt": "2026-09-15",
+    "author": "Ali Bou Nassif, Darko Castven, Manar Abu Talib, Jibran Sualeh Muhammad, Ahmed Ammar Kubba, Jens Marquardt, Abdalla Sayed Ali",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

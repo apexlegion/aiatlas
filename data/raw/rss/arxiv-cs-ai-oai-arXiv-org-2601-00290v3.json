@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.00290v3",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.00290v3",
+    "title": "ClinicalReTrial: Clinical Trial Redesign with Self-Evolving Agents",
+    "link": "https://arxiv.org/abs/2601.00290",
+    "description": "arXiv:2601.00290v3 Announce Type: replace Abstract: Clinical trials constitute a critical yet exceptionally challenging and costly stage of drug development (\\$2.6B per drug), where protocols are encoded as complex natural language documents, motivating the use of AI systems beyond manual analysis. Existing AI methods accurately predict trial failure, but do not provide actionable remedies. To fill this gap, this paper proposes ClinicalReTrial, a multi-agent system that formulates clinical trial optimization as an iterative redesign problem on textual protocols. Our method integrates failure diagnosis, safety-aware modifications, and candidate evaluation in a closed-loop, reward-driven optimization framework. Serving the outcome prediction model as a simulation environment, ClinicalReTrial enables low-cost evaluation and dense reward signals for continuous self-improvement. We further propose a hierarchical memory that captures iteration-level feedback within trials and distills transferable redesign patterns across trials. Empirically, ClinicalReTrial turns 56.7% of failed protocols into predicted successes under the simulation environment, with a mean success probability gain of 7.4% at negligible cost (\\$0.156 per trial). Extensive retrospective case studies further show that ClinicalReTrial recovers clinically meaningful modification patterns that align with real-world expert-driven protocol changes.",
+    "publishedAt": "2026-09-15",
+    "author": "Sixue Xing, Kerui Wu, Xuanye Xia, Haoyu He, Meng Jiang, Jintai Chen, Tianfan Fu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

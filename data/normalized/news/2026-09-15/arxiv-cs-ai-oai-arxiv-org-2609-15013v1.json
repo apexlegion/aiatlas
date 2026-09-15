@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-15013v1",
+  "name": "Overflip: Repetition-Induced Label Flips in Guardrail Models",
+  "summary": "arXiv:2609.15013v1 Announce Type: new Abstract: Guardrail models are classifiers deployed to screen malicious prompts and responses in LLM-based services. To meet latency constraints, many lightwei...",
+  "description": "arXiv:2609.15013v1 Announce Type: new Abstract: Guardrail models are classifiers deployed to screen malicious prompts and responses in LLM-based services. To meet latency constraints, many lightweight guardrails adopt compact Transformer backbones (e.g., DeBERTa) that are trained with short context windows (typically 512 tokens) and rely on bucketed relative positional encodings to process long...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.15013"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.15013"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-15",
+  "expiryAt": "2026-10-15T00:00:00.000Z",
+  "author": "Xu He, Chih-Hsuan Lin, Hung-Mao Chen, Junjie Xiong, Yan Zhai, Kun Sun"
+}

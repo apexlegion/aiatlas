@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-15239v1",
+  "name": "ProtoGuide: Prototype-Driven Guidance for Class-Conditional Graph Generation",
+  "summary": "arXiv:2609.15239v1 Announce Type: cross Abstract: Discrete diffusion models are a prominent family for graph generation, but standard class-conditional mechanisms embed the class signal in the deno...",
+  "description": "arXiv:2609.15239v1 Announce Type: cross Abstract: Discrete diffusion models are a prominent family for graph generation, but standard class-conditional mechanisms embed the class signal in the denoiser during training, tying the conditioning mechanism to the trained model. Classifier guidance avoids this coupling in continuous domains by steering a frozen model with a classifier's gradient, but...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.15239"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.15239"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-15",
+  "expiryAt": "2026-10-15T00:00:00.000Z",
+  "author": "Salvatore Romano, Marco Grassia, Pietro Li\\`o, Giuseppe Mangioni"
+}

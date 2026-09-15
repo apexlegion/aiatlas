@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.15209v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.15209v1",
+    "title": "Failure-Guided Co-Evolution of Prompts and Training Data",
+    "link": "https://arxiv.org/abs/2609.15209",
+    "description": "arXiv:2609.15209v1 Announce Type: cross Abstract: Automatic prompt optimization (APO) improves language-model programs by revising prompts from task feedback, yet it typically holds its training data fixed. Repeatedly optimizing against the same instances confines feedback to weaknesses already represented in those data, leaving related failure conditions unexplored. We therefore view each failure as a dual signal: it indicates both how the prompt should be revised and what new training evidence should be synthesized. We introduce FORGE, a failure-guided framework that co-evolves prompts and training data. FORGE abstracts imperfect executions into reusable failure modes and synthesizes new training data through four complementary mutation strategies. Verified instances are fed back into prompt search, allowing updated prompts to expose the next data needs. Across eight heterogeneous benchmarks, FORGE improves the aggregate score over the unoptimized baseline by 16.52 percentage points and outperforms all evaluated APO baselines. The synthesized data also transfer beyond FORGE: in a transfer study, they improve all nine APO comparisons by 2--9 points and all three GRPO comparisons by 4--8 points under matched optimization budgets. These results establish failures as a shared interface between prompt optimization and data synthesis, and show the benefit of jointly adapting what a model is instructed to do and what it learns from.",
+    "publishedAt": "2026-09-15",
+    "author": "Tianyu Yuan, Zhuzhong Qian",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

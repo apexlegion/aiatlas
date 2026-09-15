@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.26502v5",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.26502v5",
+    "title": "Humans Disengage, Reasoning Models Persist: Separating Difficulty Registration from Deliberation Allocation",
+    "link": "https://arxiv.org/abs/2606.26502",
+    "description": "arXiv:2606.26502v5 Announce Type: replace Abstract: Large reasoning models (LRMs) tend to produce longer reasoning traces on problems that also take humans longer. This correspondence leaves open how the systems distribute further work on those problems. We distinguish *difficulty registration*, sensitivity to differences in problem difficulty, from *deliberation allocation*, the distribution of further work once difficulty is encountered. We examine both in item-matched data from three reasoning tasks. In visual abstraction (H-ARC), model trace length follows the human ordering of problems by duration. After item identity is controlled, successful human attempts last longer than failed attempts, while failed LRM attempts have longer traces than successful ones in the pooled model analysis. The estimated slopes follow the same pattern in intuitive reasoning (INTUIT). In relational reasoning (Cortes), successful attempts are longer in separate human and model analyses, while a joint fit on shared items finds a human-LRM difference. Longer human attempts include more grid actions. At comparable lengths, failed LRM traces contain more hedging on H-ARC and more repetition on Cortes. A resource-rational account relates these patterns to what further work is expected to achieve and how that progress is valued. The results identify a difference in the allocation of continued work that cross-problem duration alignment alone leaves undetected.",
+    "publishedAt": "2026-09-15",
+    "author": "Han-yu Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

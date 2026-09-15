@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2503.17894v4",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2503.17894v4",
+    "title": "Generative Learner for Distributional Causal Effects",
+    "link": "https://arxiv.org/abs/2503.17894",
+    "description": "arXiv:2503.17894v4 Announce Type: replace-cross Abstract: We propose a generative learner for estimating conditional average treatment effects and characterizing the full distribution of these effects. The learner takes the form of a multi-head feed-forward neural network with three jointly estimated subnetworks: propensity score, baseline outcome, and the conditional average treatment effect. Here, the treatment effect subnetwork parameterizes the conditional quantile function via a compositional architecture in which covariate representation and cosine quantile embeddings are combined through element-wise multiplication. We then recover the conditional average treatment effect as an integral over conditional quantile treatment effects. Under the classical causal assumptions within the Neyman--Rubin potential outcomes framework, we find that the proposed generative learner reduces out-of-sample mean squared error relative to the generalized random forest, double machine learning, and generative adversarial networks, with gains ranging from 5.4% to 93.5% on average across experimental designs. In an empirical application, we formalize the Stefan--Boltzmann law within a unidirectional causal model and apply the method to publicly available stellar data. The estimated effects satisfy the restrictions the law implies.",
+    "publishedAt": "2026-09-15",
+    "author": "Maria Nareklishvili, Nicholas Polson, Vadim Sokolov",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

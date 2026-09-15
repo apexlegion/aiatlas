@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.15609v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.15609v1",
+    "title": "Diversified and Perceptible Counterfactual Examples Leveraging Expert Knowledge",
+    "link": "https://arxiv.org/abs/2609.15609",
+    "description": "arXiv:2609.15609v1 Announce Type: new Abstract: CounterFactual Examples (CFEs) are a cornerstone of eXplainable Artificial Intelligence (XAI), offering local, post hoc, and model-agnostic explanations by identifying minimal input modifications that alter a model's prediction. Yet, in order to be intelligible, these modifications must also be semantically meaningful to the explainee. This paper proposes to integrate knowledge expressed as a fuzzy linguistic vocabulary to represent the explainee's perception and interpretation of the data. The domain induced by this fuzzy vocabulary imposes structural constraints that make the features dependent, preventing the use of gradient-based optimisation methods for CFE generation, e.g., DiCE. The paper proposes a continuous data embedding in this linguistic domain and exploits it to define a variant of DiCE that allows personalisation for the explainee, named DiCEf. As illustrated by experimental results on a real-world dataset, this extension of the DiCE method enables the generation of CFEs that are linguistically perceptible while preserving cost minimality, sparsity, and diversity.",
+    "publishedAt": "2026-09-15",
+    "author": "Akram Bensalem (IMT Atlantique - INFO), Fahima Djelil (Lab-STICC\\_MOTEL, IMT Atlantique - INFO), Marie-Jeanne Lesot (IMT Atlantique - INFO, Lab-STICC, Lab-STICC\\_MOTEL), Gr{\\'e}gory Smits (IMT Atlantique - INFO, Lab-STICC, Lab-STICC\\_MOTEL)",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.13771v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.13771v1",
+    "title": "Homeostatic Continual Learning",
+    "link": "https://arxiv.org/abs/2609.13771",
+    "description": "arXiv:2609.13771v1 Announce Type: new Abstract: In this paper, I formulate a Continual Learning problem and propose a method named \"Homeostatic Continual Learning\" that enables an AI agent to learn continuously in a changing environment without catastrophic forgetting. The core of the method is to find outliers in the environment data when the agent experiences an outlier in its output. Through this method, the agent gradually completes its model and policy and performs well in more and more contexts. I also suggest that we may use the method to build a world model where the agent factorizes the objects in the world into features, abstract objects into comparable instances of concepts and map concepts to intents through features. I discuss the works needed to render the method practical, the connections to many fields in Artificial Intelligence and the broader implications of the method.",
+    "publishedAt": "2026-09-15",
+    "author": "Yue Jin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

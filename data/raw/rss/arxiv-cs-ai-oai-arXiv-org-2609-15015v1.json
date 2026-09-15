@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.15015v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.15015v1",
+    "title": "Four Ledgers, Not One Score: Responsible Communication of LLM-Judge Calibration in Biomedical ML",
+    "link": "https://arxiv.org/abs/2609.15015",
+    "description": "arXiv:2609.15015v1 Announce Type: new Abstract: Synthetic perturbations appear to offer inexpensive calibration data for LLM evaluators in biomedical ML, where expert review is scarce. Yet a planted mutation key is neither a detector output nor automatically human ground truth. We formalize four distinct ledgers: planted perturbations, independent detector outputs, source-linked human dispositions, and human-added discoveries. We then audit the evaluation design, scoring code, read paths, and current human records of a private synthetic Japanese care-handoff workflow. The factory stored 69 planted error cards across 47 targets. Final review covers 22 targets and contains 22 confirmed imported proposals, 9 rejected proposals, and 79 human-added cards; only 3 reviewed targets are double annotated. Passing imported plant keys to a generic detector scorer yields 22/(22+9)=0.710 and 22/(22+79)=0.218. A direct audit identity shows that these values are proposal-confirmation yield and submitted-ledger composition, not judge precision and recall, because no independent detector realization was preserved for the audited proposals in the available records. The audit also finds source-name collisions, row shadowing, forced severity, vacuous ratio defaults, and unsupported zero-support field weights. We contribute a provenance-aware claim audit, a storage contract, and a minimum calibration gate for responsibly communicating biomedical ML capability claims. This single-workflow forensic case is an existence proof of a failure mode, not an estimate of its prevalence: existing human work supports an exploratory audit of synthetic proposals, but not LLM-judge operating characteristics, clinical validity, corpus prevalence, or robust inter-annotator agreement.",
+    "publishedAt": "2026-09-15",
+    "author": "Sidi Chang, Peiying Zhu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

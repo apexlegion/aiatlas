@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.23474v3",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.23474v3",
+    "title": "What's the Catch? Evaluating Temporal Consistency in Vision-Language Models",
+    "link": "https://arxiv.org/abs/2608.23474",
+    "description": "arXiv:2608.23474v3 Announce Type: replace-cross Abstract: Vision-language models (VLMs) achieve strong performance on video and image-sequence benchmarks, yet it remains unclear whether they capture temporal structure. To study this question, we formulate temporal grounding as an anomaly detection problem, providing a simple and controlled evaluation that directly tests sensitivity to temporal consistency. We introduce TimeCatch, where temporal anomalies are created by swapping consecutive frames and frame-level anomalies by replacing a frame with Gaussian noise. Models are evaluated on anomaly detection and localization tasks across four synthetic and real-world datasets, alongside a human study. Our evaluation reveals a substantial gap between frame-level and temporal anomaly detection. While VLMs consistently detect frame-level anomalies and often localize them accurately, under our main evaluation setting they generally perform near chance on temporal anomaly detection and show limited localization performance. Humans, in contrast, achieve near-ceiling performance on both tasks. Additional analyses across model scales, prompting strategies, sequence lengths, and visual similarity show that performance can improve under some conditions, while substantial gaps in temporal anomaly detection and localization remain. Together, these findings reveal a gap between frame-level and temporal anomaly detection. TimeCatch provides a controlled benchmark for evaluating temporal consistency in vision-language models.",
+    "publishedAt": "2026-09-15",
+    "author": "Marek Hradil, Danae S\\'anchez Villegas",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

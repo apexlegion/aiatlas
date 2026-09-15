@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-23264v2",
+  "name": "X-Stage: Modeling Post-Issue Backpressure in GPU Communication--Computation Fusion",
+  "summary": "arXiv:2607.23264v2 Announce Type: replace-cross Abstract: Fine-grained, device-initiated communication allows fused GPU kernels to issue remote stores directly from their compute pipelines, a patte...",
+  "description": "arXiv:2607.23264v2 Announce Type: replace-cross Abstract: Fine-grained, device-initiated communication allows fused GPU kernels to issue remote stores directly from their compute pipelines, a pattern increasingly used in expert parallelism (EP), tensor parallelism (TP), and Ulysses-style sequence parallelism (UP). Existing designs reason about where communication is issued and when remote data...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.23264"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.23264"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-15",
+  "expiryAt": "2026-10-15T00:00:00.000Z",
+  "author": "Jianwen Xian, Zhiyuan Xu, Yuchen Li, Ziliang Lai, Kang He, Zhen Huang, Aichen Feng, Jinyan Chen, Yilin Zhang, Qinqin Chen, Julien Lai, Chengru Song"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-29491v2",
+  "name": "DreamQAS: Learning a Decision-Useful World Model for VQE-Efficient Quantum Architecture Search",
+  "summary": "arXiv:2607.29491v2 Announce Type: replace-cross Abstract: Reinforcement-learning-based quantum architecture search (RL-QAS) repeatedly invokes a variational quantum eigensolver (VQE) after each gat...",
+  "description": "arXiv:2607.29491v2 Announce Type: replace-cross Abstract: Reinforcement-learning-based quantum architecture search (RL-QAS) repeatedly invokes a variational quantum eigensolver (VQE) after each gate addition even though circuit transitions and action legality are known. DreamQAS preserves these exact dynamics and learns only expensive post-VQE feedback through a recurrent ensemble that predicts...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.29491"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.29491"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-15",
+  "expiryAt": "2026-10-15T00:00:00.000Z",
+  "author": "Jiayang Niu, Yan Wang, Jie Li, Ke Deng, Azadeh Alavi, Muhammad Usman, Yongli Ren"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.15035v1",
+  "fetchedAt": "2026-09-15T07:34:54.210Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.15035v1",
+    "title": "Horizon-specific Expert Fusion for Photovoltaic Power Forecasting",
+    "link": "https://arxiv.org/abs/2609.15035",
+    "description": "arXiv:2609.15035v1 Announce Type: new Abstract: Short-term photovoltaic power forecasting requires models to represent regular solar cycles and weather-driven fluctuations whose importance changes with the forecast horizon. This study develops a hierarchical ensemble that combines temporal neural models, historical analogs, state climatology, and gradient-boosted trees. Solar geometry and numerical weather forecasts describe the expected generation conditions, while horizon-specific convex weights combine complementary predictions. A separate calibration step uses available historical forecast errors to account for recent bias. The framework is evaluated on public PVDAQ data at 15--240-minute horizons and on three GEFCom2014 solar zones at hourly horizons up to four hours. On PVDAQ, the ensemble achieves a daylight capacity-normalized mean absolute error of 4.315%, reducing error by 4.11% relative to full-feature LightGBM and by 6.03% relative to fine-tuned Chronos-2 under identical calibration. Expert-removal experiments identify redundancy within the ensemble. Across three training seeds on GEFCom2014, learned fusion improves upon equal weighting but performs comparably to LightGBM. The results support horizon-specific combination as a useful forecasting strategy while showing that its advantage over strong individual models depends on the dataset and evaluation period.",
+    "publishedAt": "2026-09-15",
+    "author": "Xu Yuqing, Zhou Liguo, Sun Ze, Yu Lei, Jiang Mingming",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
