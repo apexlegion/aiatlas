@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2609-17509",
+  "name": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
+  "summary": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigat...",
+  "description": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate this by reducing the effective frame rate using a compression step to merge multiple frames together. However, most prior methods either operate on single-codebook codecs or apply a single compression step before multi-layer quantization. This forces all quantization layers to share the same segmentation boundaries, despite the residual embeddings at different quantization layers exhibiting diff...",
+  "tags": [
+    "arxiv",
+    "cs.SD"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.17509v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-15",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.SD.",
+      "href": "https://arxiv.org/abs/2609.17509v1"
+    }
+  ],
+  "authors": [
+    "Thanapat Trachu",
+    "Samuele Cornell",
+    "William Chen",
+    "Shinji Watanabe"
+  ],
+  "paperId": "2609.17509",
+  "category": "cs.SD",
+  "publishedAt": "2026-09-15",
+  "abstract": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate this by reducing the effective frame rate using a compression step to merge multiple frames together. However, most prior methods either operate on single-codebook codecs or apply a single compression step before multi-layer quantization. This forces all quantization layers to share the same segmentation boundaries, despite the residual embeddings at different quantization layers exhibiting diff..."
+}

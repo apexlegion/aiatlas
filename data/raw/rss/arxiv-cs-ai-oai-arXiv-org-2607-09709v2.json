@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.09709v2",
+  "fetchedAt": "2026-09-16T07:34:19.585Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.09709v2",
+    "title": "The Verifier is the Curriculum: Precision Sets the Return on Search in Code Self-Distillation",
+    "link": "https://arxiv.org/abs/2607.09709",
+    "description": "arXiv:2607.09709v2 Announce Type: replace Abstract: Post-training a code generator against a learned judge can optimize proxy features that raise the score without improving the artifact. We study the opposite signal: a deterministic, judge-free filter that asks only whether a generated project launches cleanly under a headless engine (strict-launch). Under this gate, rejection-sampling self-distillation compounds out-of-family generalization: on GameCraft-Bench a 14B model raises the per-candidate clean-launch rate on four held-out families from 8.8% to 42.2% and coverage at 32 candidates from 84% to 100%, the gold references' own ceiling, beating the supervised model on every one of the 25 held-out tasks. The gate costs one engine invocation per candidate: no reward model, no judge. At a fixed admitted count, what governs the loop is verifier precision. Swapping in a lenient build check alone erases the gain (p=0.0012); a matched gold-duplication control regresses below the supervised model. Under a semantic gate on APPS, dialing fuel precision from 1.0 to 0.25 at fixed candidate count prices that fuel linearly: over 23 training seeds, half-clean fuel returns +3.59 percentage points against the +3.69 a linear rate predicts. Under count-matched rejection-SFT only one direction of verifier error carries a measurable cost. Search obeys the same gate: quadrupling the harvest budget is worth +1.62pp behind a strict gate and nothing distinguishable from zero behind a partial-credit one. Recall is nearly free; search pays only through a precise gate: the verifier is the curriculum.",
+    "publishedAt": "2026-09-16",
+    "author": "Chenyu Zhou, Qiliang Jiang, Shuning Wu, Xu Zhou",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

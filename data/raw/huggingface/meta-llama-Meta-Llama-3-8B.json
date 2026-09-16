@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "meta-llama/Meta-Llama-3-8B",
-  "fetchedAt": "2026-09-15T07:34:49.704Z",
+  "fetchedAt": "2026-09-16T07:34:15.530Z",
   "data": {
     "_id": "661f97d48e7f3438386f755d",
     "id": "meta-llama/Meta-Llama-3-8B",
@@ -26,7 +26,7 @@
       "region:us"
     ],
     "downloads": 304021,
-    "likes": 6682,
+    "likes": 6684,
     "modelId": "meta-llama/Meta-Llama-3-8B",
     "author": "meta-llama",
     "sha": "8cde5ca8380496c9a6cc7ef3a8b46a0372a1d920",
@@ -144,10 +144,10 @@
       }
     ],
     "spaces": [
+      "embedl/hfviewer",
       "EuroEval/euroeval_leaderboard",
       "VIDraft/global-llm-leaderboard",
       "hugging-apps/ardy",
-      "FallnAI/Quantize-HF-Models",
       "seawolf2357/LLM_Quantization",
       "featherless-ai/try-this-model",
       "eduagarcia/open_pt_llm_leaderboard",
@@ -157,6 +157,7 @@
       "Omnibus/Chatbot-Compare",
       "AIM-Harvard/rabbits-leaderboard",
       "panuthept/thai_sentence_embedding_benchmark",
+      "FallnAI/Quantize-HF-Models",
       "prometheus-eval/BiGGen-Bench-Leaderboard",
       "openfree/LLM_Quantization",
       "bhaskartripathi/LLM_Quantization",
@@ -242,8 +243,7 @@
       "goaiguru/meta-llama-Meta-Llama-3-8B",
       "afrenkai/meta-llama-Meta-Llama-3-8B",
       "andrewchristen/meta-llama-Meta-Llama-3-8B",
-      "nabu098/meta-llama-Meta-Llama-3-8B",
-      "rudyTzhan/meta-llama-Meta-Llama-3-8B"
+      "nabu098/meta-llama-Meta-Llama-3-8B"
     ],
     "createdAt": "2024-04-17T09:35:16.000Z",
     "safetensors": {

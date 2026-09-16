@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-16338v1",
+  "name": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+  "summary": "arXiv:2609.16338v1 Announce Type: new Abstract: Ternary Large Language Models (LLM) store every weight as one of three symbols $\\{-1,0,+1\\}$, so the cost of a ternary model is conventionally refere...",
+  "description": "arXiv:2609.16338v1 Announce Type: new Abstract: Ternary Large Language Models (LLM) store every weight as one of three symbols $\\{-1,0,+1\\}$, so the cost of a ternary model is conventionally referenced to the information-theoretic $\\log_2 3 \\approx 1.585$ bits per weight. The prevailing deployment format packs five ternary weights into one byte (five-trit packing), and due to the power-of-two g...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.16338"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-16",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.16338"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-16",
+  "expiryAt": "2026-10-16T00:00:00.000Z",
+  "author": "Evangelos Georganas, Alexander Heinecke, Pradeep Dubey"
+}

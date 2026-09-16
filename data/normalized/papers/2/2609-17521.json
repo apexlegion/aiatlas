@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2609-17521",
+  "name": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+  "summary": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require th...",
+  "description": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control schedule before generation starts, or use pixel-space signals that dictate object positions rather than physical dynamics. To address these limitations, we propose PhysStream, an autoregressive model for physics-grounded image-to-video synthesis that incorporates structured scene memory---positional maps and object tracking maps derived online from previously generated frames---and...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.17521v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-15",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2609.17521v1"
+    }
+  ],
+  "authors": [
+    "Chuhao Chen",
+    "Peter Wonka",
+    "Chaoyang Wang",
+    "Chen Wang",
+    "Qiao Feng",
+    "Sergey Tulyakov",
+    "Lingjie Liu"
+  ],
+  "paperId": "2609.17521",
+  "category": "cs.CV",
+  "publishedAt": "2026-09-15",
+  "abstract": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control schedule before generation starts, or use pixel-space signals that dictate object positions rather than physical dynamics. To address these limitations, we propose PhysStream, an autoregressive model for physics-grounded image-to-video synthesis that incorporates structured scene memory---positional maps and object tracking maps derived online from previously generated frames---and..."
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-17391v1",
+  "name": "FlashVector: Agent for Hierarchical Model Serving Stack Optimization",
+  "summary": "arXiv:2609.17391v1 Announce Type: new Abstract: Model serving is one of the largest cost drivers in production recommender systems. Maximizing its throughput requires navigating a deeply layered hi...",
+  "description": "arXiv:2609.17391v1 Announce Type: new Abstract: Model serving is one of the largest cost drivers in production recommender systems. Maximizing its throughput requires navigating a deeply layered hierarchy: GPU kernels, the ML framework computation graph, the model server, and on-demand feature processing -- each demanding specialized domain expertise. Such cross-layer expertise is inherently di...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.17391"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-16",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.17391"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-16",
+  "expiryAt": "2026-10-16T00:00:00.000Z",
+  "author": "Qi Wu, Lohan Lemire, Kai Meng, Zhongmou Cai, Raphael Bargues, Petr Zhitnikov, Zeyuan Cao, Yao Wang, Shujun Bian, Wei Chen, Sean Sheng"
+}

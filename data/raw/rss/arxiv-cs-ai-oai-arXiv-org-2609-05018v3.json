@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.05018v3",
+  "fetchedAt": "2026-09-16T07:34:19.585Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.05018v3",
+    "title": "How a Chatbot's Response Style Shapes a Classroom: A Multi-Agent Simulation of Students Consulting AI",
+    "link": "https://arxiv.org/abs/2609.05018",
+    "description": "arXiv:2609.05018v3 Announce Type: replace-cross Abstract: Chatbots built on large language models (LLMs) are increasingly used as confidants. Tuned to satisfy users, they may answer with excessive empathy and affirmation that fosters dependence, and how the states and relationships of many users co-evolve under repeated consultation is hard to observe in real settings. We build a virtual classroom of 20 student agents who interact through rule-based chats, quarrels and consultations with friends and, when stressed, may instead consult a counselor AI (Gemini 2.5 Flash) under one of six style prompts: affirming, listening, solution-oriented, reality-redirecting, inciting and blaming. A second LLM call turns each exchange into updates of five state variables (stress, happiness, self-reliance, sociability, AI dependence) without seeing the prompt. We compare the seven conditions, including a no-AI control, over 15 and 50 days and under a lower consultation threshold, and test the robustness of the 50-day comparison with a pre-specified protocol: the same block in ten independent classrooms, repeated LLM realizations of one classroom with its event stream fixed, and evaluator updates scaled by 0.3 and 0.1. In every classroom the affirming and inciting prompts ended with lower self-reliance and higher AI dependence than the control, and the listening, reality-redirecting, inciting and blaming prompts with higher stress, lower happiness and more non-attendance; the solution-oriented prompt did not differ consistently from the control. The robust self-reliance and AI-dependence differences kept their signs at the 0.3 scale with highly similar rankings (Spearman 0.89, 0.93); the stress and happiness rankings did not, and the affirming prompt's lower stress reversed its sign. All quantities are simulation state variables, not effects on users. We specify the agent dynamics completely and discuss the limits of an LLM as generator of state updates.",
+    "publishedAt": "2026-09-16",
+    "author": "Rin Tamai, Yuya Dan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
