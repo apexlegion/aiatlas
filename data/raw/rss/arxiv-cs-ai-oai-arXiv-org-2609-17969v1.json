@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.17969v1",
+  "fetchedAt": "2026-09-17T07:30:26.563Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.17969v1",
+    "title": "Memory Has Geometry: Non-Uniform Geometric Memory for Long-Horizon Personalized AI",
+    "link": "https://arxiv.org/abs/2609.17969",
+    "description": "arXiv:2609.17969v1 Announce Type: new Abstract: Long-term memory is becoming a core substrate for personalized AI, yet most systems still represent personalization as discrete records in a largely static latent space, accessed under one global similarity notion. For data mining, this creates a mismatch: the evidence is a temporal event stream, while the dominant abstraction is a searchable record set. We argue that long-horizon personalization should instead model memory as a user-specific dynamical state space with locally heterogeneous geometry. Geometry here is a computational language, not a literal claim about cognition: it captures stable versus volatile regions, variable-rate drift, heterogeneous neighborhoods, and uncertainty about current user state. Profiles and isolated events remain useful as points, but interaction, feedback, and elapsed time induce trajectories. Memory access then becomes trajectory-conditioned reconstruction of the relevant user state, not only nearest-neighbor lookup.",
+    "publishedAt": "2026-09-17",
+    "author": "Jiahong Liu, Wenhao Yu, Zexuan Qiu, Menglin Yang, Irwin King",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

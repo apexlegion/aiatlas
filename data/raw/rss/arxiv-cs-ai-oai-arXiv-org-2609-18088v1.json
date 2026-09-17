@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.18088v1",
+  "fetchedAt": "2026-09-17T07:30:26.563Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.18088v1",
+    "title": "Mask 2D-3D: Adaptive Dual-Masked Autoencoder Network for Image-to-Point Cloud Registration",
+    "link": "https://arxiv.org/abs/2609.18088",
+    "description": "arXiv:2609.18088v1 Announce Type: cross Abstract: Detection-free methods for image-to-point cloud registration are prone to erroneous correspondences caused by domain and modality discrepancies, limited sensitivity of feature extractors, and the presence of non-overlapping regions. The Masked Autoencoder (MAE) has shown strong performance in visual representation for images and point clouds. It may be helpful to apply this approach to image-to-point cloud registration, a task that requires unified feature extraction and accurate cross-modal correspondences. Standard MAE's random masking may overlook key regions due to limited camera views, reducing registration effectiveness. To address this, we propose the Intermodal Dual-MAE Framework (ID-MAE) with a Similarity-based RL Masking Strategy (SRLM), which adaptively masks informative positions by leveraging cross-modal similarity and reinforcement learning, thus narrowing the modality gap. Our method enhances cross-modal representation learning by enforcing representation consistency during feature extraction, thereby enabling more reliable 2D-3D correspondence estimation. Experiments on RGB-D Scenes v2 and 7-Scenes benchmarks show that our method achieves state-of-the-art performance in image-to-point cloud registration.",
+    "publishedAt": "2026-09-17",
+    "author": "Zhixin Cheng, Jiacheng Deng, Xiaotian Yin, Baoqun Yin, Richang Hong, Tianzhu Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

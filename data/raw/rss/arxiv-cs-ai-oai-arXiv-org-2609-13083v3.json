@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.13083v3",
+  "fetchedAt": "2026-09-17T07:30:26.563Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.13083v3",
+    "title": "Language-Guided Terrain-Adaptive Neural MPC for Autonomous Traversal of Articulated Tracked Robots",
+    "link": "https://arxiv.org/abs/2609.13083",
+    "description": "arXiv:2609.13083v3 Announce Type: replace-cross Abstract: In urban search and rescue, articulated tracked robots (ATRs) must traverse structured but contact-rich environments such as stairwells and cluttered building interiors. Reliable autonomy remains challenging because robot-terrain interaction (RTI) is hybrid and discontinuous, and effective flipper-track coordination is difficult to model analytically. We present ASTRIL-MPC, a language-guided neural kinematics model predictive control (MPC) framework for autonomous traversal. A learned kinematics model predicts short-horizon task-state increments from a height sequence and recent trajectories; NMPC plans with multi-objective costs and strict feasibility constraints; and a large language model (LLM) proposes bounded updates to selected weights and bounds through a safety-checked interface with range clipping, rate limiting, and consistency checks. The compiled predictor enables a full control cycle within 100 ms. Across three traversal tasks and a multi-height generalization setting, ASTRIL-MPC improves an aggregate traversal-quality score by up to 71% over a non-adaptive NMPC and by 67% over a PPO baseline, while eliminating measurable collision impacts during descent. These results indicate that combining terrain-conditioned neural kinematics, optimization-based planning, and language-guided adaptation yields data-efficient and robust autonomy for articulated tracked robots. Real-robot trials over four indoor obstacles further demonstrate transfer to contact-rich physical traversal.",
+    "publishedAt": "2026-09-17",
+    "author": "Zhenfeng Gan, Yanbo Chen, Lirong Che, Yongyi Ma, Rongkai Zhu, Xueqian Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

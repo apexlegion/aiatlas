@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-18849v1",
+  "name": "Ask the Tool, Don't Guess: Agent Tool Calls Hold Their Progress, and the Serving System Should Read It",
+  "summary": "arXiv:2609.18849v1 Announce Type: cross Abstract: An agentic request spends substantial wall-clock time waiting for tools, and its KV cache holds GPU memory the whole time. Serving systems decide w...",
+  "description": "arXiv:2609.18849v1 Announce Type: cross Abstract: An agentic request spends substantial wall-clock time waiting for tools, and its KV cache holds GPU memory the whole time. Serving systems decide whether that cache stays, leaves, or comes back by guessing how long the tool will run, from the tool's name, its history, a duration declared before the call, or the engine's own occupancy. We show th...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.18849"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-17",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.18849"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-17",
+  "expiryAt": "2026-10-17T00:00:00.000Z",
+  "author": "Yipeng Liu, Yingqiang Zhang, Feifei Li, Huanchen Zhang"
+}

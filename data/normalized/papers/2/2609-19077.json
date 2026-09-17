@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2609-19077",
+  "name": "Probabilistic Linear Explanations",
+  "summary": "Formal explainability provides mathematically grounded justifications for individual predictions. However, abductive explanations often exceed human cognitive limits by involving too many features,...",
+  "description": "Formal explainability provides mathematically grounded justifications for individual predictions. However, abductive explanations often exceed human cognitive limits by involving too many features, while probabilistic relaxations have remained largely limited to categorical classification. We present a unified framework for probabilistic explainability based on sparse, anchored linear models, applicable to both binary classification and continuous regression. By mapping instances to the Boolean hypercube, our linear explanations strictly generalize subset-based approaches: they capture both...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.19077v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-16",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.19077v1"
+    }
+  ],
+  "authors": [
+    "Frederic Koriche",
+    "Jean-Marie Lagniez",
+    "Chi Tran"
+  ],
+  "paperId": "2609.19077",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-16",
+  "abstract": "Formal explainability provides mathematically grounded justifications for individual predictions. However, abductive explanations often exceed human cognitive limits by involving too many features, while probabilistic relaxations have remained largely limited to categorical classification. We present a unified framework for probabilistic explainability based on sparse, anchored linear models, applicable to both binary classification and continuous regression. By mapping instances to the Boolean hypercube, our linear explanations strictly generalize subset-based approaches: they capture both..."
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.18996v1",
+  "fetchedAt": "2026-09-17T07:30:26.563Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.18996v1",
+    "title": "Compiled Agency: Frontier General-Purpose Coding Agents Build Winning Game Players from Bare Interaction - from Flappy Bird to StarCraft II and Civilization",
+    "link": "https://arxiv.org/abs/2609.18996",
+    "description": "arXiv:2609.18996v1 Announce Type: new Abstract: LLM agents have repeatedly struggled to convert knowledge of a game into competent play, even when researchers build the agent around the model - supplying perception, memory, skill libraries, planners, or executable-policy scaffolds. Rapid progress in coding agents raises two sharper questions: can frontier models now win games at all, and can they win them unaided, building the entire player themselves? We introduce Gauntlet, a develop-freeze-evaluate framework that ports games from small arcades to full commercial-scale titles, behind one deliberately bare contract: a general-purpose coding agent receives a game description, a raw observation/action interface, and an empty policy file - no strategy, no algorithm, no architecture. In a single autonomous session the agent experiments with the live game and engineers a standalone controller; we freeze the result and score it on held-out instances with zero model calls during play. On an unpublished procedural roguelike, held-out success spans 0-86 percent and exposes a sharp generational threshold: every observed session of a newest-generation system outperforms the best session of its predecessor. At full-game scale, a compiled raw-API controller defeats every fair StarCraft II built-in AI and two cheating variants, and single-session programs win complete games of Civilization (Freeciv) by total conquest on held-out seeds. Though at modest rates against novice AI, this is a first: no prior language-agent system had won full games of this genre standalone, without per-turn model calls and a hand-crafted tactical layer. Frontier coding agents begin to track long-horizon strategy. The frozen programs are inspectable. We call this capability compiled agency: development experience compiled into a persistent executable agent whose architecture is built by the model.",
+    "publishedAt": "2026-09-17",
+    "author": "Joey Xiao, Haonan Huang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

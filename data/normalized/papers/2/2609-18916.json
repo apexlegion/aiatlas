@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2609-18916",
+  "name": "Higher-order pruning of experts in mixture-of-experts language models",
+  "summary": "Mixture-of-Experts (MoE) language models suffer from large parameter counts, which create a significant memory bottleneck. Expert pruning is the most direct approach for reducing this parameter cou...",
+  "description": "Mixture-of-Experts (MoE) language models suffer from large parameter counts, which create a significant memory bottleneck. Expert pruning is the most direct approach for reducing this parameter count, yet existing methods make pruning decisions for each expert independently, and assume experts' contributions are purely additive. In reality, expert usage in MoEs is inherently cooperative. We derive HOPE (Higher-Order Pruning of Experts), a second-order pruning objective which provably minimizes an upper bound on the error resulting from pruning. We show that REAP (a state-of-the-art first-or...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.18916v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-16",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.18916v1"
+    }
+  ],
+  "authors": [
+    "Alex M. Tseng",
+    "Prannay Kaul",
+    "Luca Zancato",
+    "Wei Xia",
+    "Stefano Soatto"
+  ],
+  "paperId": "2609.18916",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-16",
+  "abstract": "Mixture-of-Experts (MoE) language models suffer from large parameter counts, which create a significant memory bottleneck. Expert pruning is the most direct approach for reducing this parameter count, yet existing methods make pruning decisions for each expert independently, and assume experts' contributions are purely additive. In reality, expert usage in MoEs is inherently cooperative. We derive HOPE (Higher-Order Pruning of Experts), a second-order pruning objective which provably minimizes an upper bound on the error resulting from pruning. We show that REAP (a state-of-the-art first-or..."
+}

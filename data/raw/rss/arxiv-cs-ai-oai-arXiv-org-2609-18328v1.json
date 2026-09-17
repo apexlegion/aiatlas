@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.18328v1",
+  "fetchedAt": "2026-09-17T07:30:26.563Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.18328v1",
+    "title": "Visual Compliance via Executable Safety Rule Entailment",
+    "link": "https://arxiv.org/abs/2609.18328",
+    "description": "arXiv:2609.18328v1 Announce Type: new Abstract: Recent advances in LLMs and VLMs have enabled safety systems to reason beyond simple risk patterns toward more contextual and semantic safety concerns. However, as risk patterns continue to evolve and safety rules become more complex, existing training-based end-to-end safeguards face persistent challenges in adaptability and explainable reasoning over complex safety rules. To address these challenges, we propose GuardEn (Guarding by Safety Rule Entailment), an executable safeguard framework that decomposes safety policies into atomic propositions through Safety-Rule Compilation, modeling their composition as executable code. At test time, Scene-Grounded Execution instantiates these atomic propositions with contextual visual information derived from scene graphs, enabling rule-grounded and interpretable safety reasoning. Experiments on SafetyVisionBench demonstrate the effectiveness of programmable safeguard for complex visual safety assessment, achieving an average improvement of 9.8 F1 points over the strongest baseline.",
+    "publishedAt": "2026-09-17",
+    "author": "Jisoo Kim (Sungkyunkwan University), TaeYoon Kwack (Sungkyunkwan University), Jinwoo Jang (Sungkyunkwan University), Honguk Woo (Sungkyunkwan University)",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

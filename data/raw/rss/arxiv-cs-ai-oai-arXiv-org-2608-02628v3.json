@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.02628v3",
+  "fetchedAt": "2026-09-17T07:30:26.563Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.02628v3",
+    "title": "Deep Divide-and-Reduce in Symbolic Regression",
+    "link": "https://arxiv.org/abs/2608.02628",
+    "description": "arXiv:2608.02628v3 Announce Type: replace-cross Abstract: Symbolic regression (SR) aims to discover underlying mathematical expressions from data while preserving interpretability. Most existing learning-based SR methods primarily optimize expressions from observations without explicitly exploiting their structural mathematical properties. AI Feynman introduced a complementary paradigm that leverages such properties to recursively decompose complex expressions, but its decomposition criteria cover only restricted structural forms and its treatment of nested composition can require brute-force search over candidate sub-expressions. Building on this paradigm, we propose Deep Divide-and-Reduce in Symbolic Regression (DDRSR), a mathematically grounded framework that systematically generalizes expression decomposition and variable reduction. DDRSR extends translational symmetry to coefficient- and exponent-interfered forms, enables variable separation under overlapping variables and additive constant offsets, and generalizes the identification of nested compositional structures. We further characterize an intrinsic non-identifiability limitation of decomposition when no effective variable separation is induced. Experiments across multiple symbolic regression algorithms and benchmark datasets show that DDRSR identifies a broader range of decomposable structures than AI Feynman and overall improves downstream regression accuracy and exact-expression recovery.",
+    "publishedAt": "2026-09-17",
+    "author": "Yusong Deng, Yanjie Li, Xin Ning, Lina Yu, Liping Zhang, Shu Wei, Mingzhu Wan, Min Wu, Weijun Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

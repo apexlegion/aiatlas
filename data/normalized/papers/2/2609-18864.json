@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2609-18864",
+  "name": "ASLEval: Measuring Privacy Exposure Displacement in LLM Agent Sessions",
+  "summary": "Privacy evaluations of tool-using LLM agents often inspect a designated action, final response, or attacker report. These local proxies can miss unauthorized exposure elsewhere in a multi-step sess...",
+  "description": "Privacy evaluations of tool-using LLM agents often inspect a designated action, final response, or attacker report. These local proxies can miss unauthorized exposure elsewhere in a multi-step session and lack common ground truth across outlets, reports, and tool paths. We introduce privacy exposure displacement, the mismatch between a local evaluation proxy and target-grounded session exposure, and ASLEval, an authorization-aware framework that pre-registers a hidden target set, measures all declared visible exits, and reserves internal traces for diagnosis. Across multiple enterprise-styl...",
+  "tags": [
+    "arxiv",
+    "cs.CR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.18864v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-16",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CR.",
+      "href": "https://arxiv.org/abs/2609.18864v1"
+    }
+  ],
+  "authors": [
+    "Guosen Wu",
+    "Huizhen Huang",
+    "Guoxiong Long",
+    "Tao Huang",
+    "Chen Hou"
+  ],
+  "paperId": "2609.18864",
+  "category": "cs.CR",
+  "publishedAt": "2026-09-16",
+  "abstract": "Privacy evaluations of tool-using LLM agents often inspect a designated action, final response, or attacker report. These local proxies can miss unauthorized exposure elsewhere in a multi-step session and lack common ground truth across outlets, reports, and tool paths. We introduce privacy exposure displacement, the mismatch between a local evaluation proxy and target-grounded session exposure, and ASLEval, an authorization-aware framework that pre-registers a hidden target set, measures all declared visible exits, and reserves internal traces for diagnosis. Across multiple enterprise-styl..."
+}
