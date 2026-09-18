@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.19539v1",
+  "fetchedAt": "2026-09-18T07:19:12.766Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.19539v1",
+    "title": "Compressed Active Subspaces for Scalable Bayesian Inference",
+    "link": "https://arxiv.org/abs/2609.19539",
+    "description": "arXiv:2609.19539v1 Announce Type: cross Abstract: Active subspace methods provide a framework for quantifying predictive uncertainty in high-dimensional models by identifying and performing inference along parameter directions that have the greatest influence on the model output. However, the construction of active subspaces requires storing many full-dimensional model gradients, which becomes prohibitive as model size increases. We address this limitation by proposing Compressed Active Subspaces (CAS), a scalable approach that first maps the model parameters to a compressed space using a structured isometric embedding and then constructs the active subspace within this reduced parameterization. Our approach substantially reduces the memory required for active subspace construction and enables Bayesian inference for large models where standard active subspace methods become impractical. We demonstrate the scalability of CAS on neural networks of increasing size while maintaining predictive performance and robust uncertainty estimates.",
+    "publishedAt": "2026-09-18",
+    "author": "Thomas Flynn, Sanket Jantre, Byung-Jun Yoon, Kibaek Kim",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

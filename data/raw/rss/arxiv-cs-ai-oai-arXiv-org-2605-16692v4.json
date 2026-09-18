@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.16692v4",
+  "fetchedAt": "2026-09-18T07:19:12.766Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.16692v4",
+    "title": "EfficientTDMPC: Improved MPC Objectives for Sample-Efficient Continuous Control",
+    "link": "https://arxiv.org/abs/2605.16692",
+    "description": "arXiv:2605.16692v4 Announce Type: replace-cross Abstract: We introduce EfficientTDMPC, a sample-efficient model-based reinforcement learning method for continuous control built on the TD-MPC family of algorithms. Central to this family is a planner that aims to find an action sequence that maximizes the estimated return. The return is estimated using a learned model and value networks, each of which can introduce error. EfficientTDMPC introduces three contributions that improve performance by aiming to reduce this error. First, we introduce an aggregate multi-horizon planning objective that evaluates the value at different rollout depths and averages them. Second, we introduce ensembles for state-action value estimation to value-equivalent/MuZero-style model-based RL methods. Third, we add pessimistic reanalyze, which penalizes uncertain return estimates when creating policy targets. We evaluate EfficientTDMPC on HumanoidBench and the DeepMind Control Suite, to the best of our knowledge, it is the new state of the art on both domains in terms of sample efficiency.",
+    "publishedAt": "2026-09-18",
+    "author": "Thomas Evers, Cristian Meo, Wendelin Bohmer, Justin Dauwels, Yaniv Oren",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

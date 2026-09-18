@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.25667v2",
+  "fetchedAt": "2026-09-18T07:19:12.766Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.25667v2",
+    "title": "MyMentorLLM: A psychotherapy GenAI environment with multimodal voice/text patients, trainees and experts for deliberate practice",
+    "link": "https://arxiv.org/abs/2607.25667",
+    "description": "arXiv:2607.25667v2 Announce Type: replace-cross Abstract: Psychotherapists need repeated training and supervision; however, scalability is problematic. We present MyMentorLLM, a multimodal voice- and text-based deliberate-practice environment with 2,100 complete Cognitive Behavioural Therapy (CBT) sessions. Each session links a DSM-5-TR-grounded LLM patient (with major depressive, generalised anxiety or borderline personality disorder), an LLM therapist-in-training and an LLM expert supervisor (powered by Gemma-4, Gemini-3.1-Flash-Live and Qwen-3.6). Sessions were analysed for emotional dynamics, therapeutic competence and diagnostic accuracy against human psychotherapy data. Simulated patients expressed disorder-congruent emotional profiles, which therapists mirrored as in human counselling. LLM trainee competence was rated above human levels in most conditions, while native speech-to-speech was closest to human scores. Supervisor feedback improved diagnostic accuracy in 5 of 7 LLM conditions, whereas symptom identification accuracy increased with model size. This work shows deliberate practice can be simulated for CBT training, although patient fidelity, supervisor calibration and harmful feedback require evaluation via a complex systems perspective.",
+    "publishedAt": "2026-09-18",
+    "author": "Rodolfo Rizzi, Alessandro Grecucci, Massimo Stella",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

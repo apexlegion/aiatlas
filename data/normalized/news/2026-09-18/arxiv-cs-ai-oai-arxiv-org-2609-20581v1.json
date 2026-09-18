@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-20581v1",
+  "name": "Limits of Confidence in Diffusion",
+  "summary": "arXiv:2609.20581v1 Announce Type: new Abstract: Discrete diffusion, including remasking and uniform-state samplers, generate a sequence by writing multiple token positions per step, drawing each fr...",
+  "description": "arXiv:2609.20581v1 Announce Type: new Abstract: Discrete diffusion, including remasking and uniform-state samplers, generate a sequence by writing multiple token positions per step, drawing each from a per-position distribution and choosing which positions to write from those same distributions. For domains of general interest (pixels, phonemes, or words) there are inherent dependencies between...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.20581"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-18",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.20581"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-18",
+  "expiryAt": "2026-10-18T00:00:00.000Z",
+  "author": "Russ Webb, Amitis Shidani, Alice Bizeul, Dan Busbridge"
+}

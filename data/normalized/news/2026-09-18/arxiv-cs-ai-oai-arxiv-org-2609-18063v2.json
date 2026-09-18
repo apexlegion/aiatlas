@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-18063v2",
+  "name": "The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction",
+  "summary": "arXiv:2609.18063v2 Announce Type: replace Abstract: Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks t...",
+  "description": "arXiv:2609.18063v2 Announce Type: replace Abstract: Mixture-of-experts (MoE) inference on consumer hardware is bounded by weight memory: a 35B-class model is 19.5GB at 4-bit, and sparsity shrinks the compute per token, not the bytes that must be held. Naive offloading to SSD does not help on its own, because layer N+1's experts must be chosen before layer N's output exists, so the reads cannot...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.18063"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-18",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.18063"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-18",
+  "expiryAt": "2026-10-18T00:00:00.000Z",
+  "author": "Yu Lin, Yiming Wang, Runyuan Cai, Hanze Liu, Xiaodong Zeng"
+}

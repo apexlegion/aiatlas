@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "mistralai/Mistral-7B-v0.1",
-  "fetchedAt": "2026-09-17T07:30:23.775Z",
+  "fetchedAt": "2026-09-18T07:19:10.581Z",
   "data": {
     "_id": "650aedb6238a644cb93a52c3",
     "id": "mistralai/Mistral-7B-v0.1",
@@ -24,7 +24,7 @@
       "region:us"
     ],
     "downloads": 388829,
-    "likes": 4179,
+    "likes": 4180,
     "modelId": "mistralai/Mistral-7B-v0.1",
     "author": "mistralai",
     "sha": "27d67f1b5f57dc0953326b2601d68371d40ea8da",
@@ -125,7 +125,7 @@
       "embedl/hfviewer",
       "overhead520/LLM-Settings-Guide",
       "VIDraft/global-llm-leaderboard",
-      "EuroEval/euroeval_leaderboard",
+      "K00B404/LLM_Quantization",
       "seawolf2357/LLM_Quantization",
       "Vokturz/can-it-run-llm",
       "eduagarcia/open_pt_llm_leaderboard",
@@ -152,6 +152,7 @@
       "CosmoAI/BhagwatGeeta",
       "Justinrune/LLaMA-Factory",
       "ruslanmv/convert_to_gguf",
+      "EuroEval/euroeval_leaderboard",
       "cot-leaderboard/open-cot-dashboard",
       "Aabbhishekk/MistralQnA",
       "Olivier-Truong/mistral-7b-chat",
@@ -177,7 +178,6 @@
       "Samarth991/Youtube-Video-ChatBot",
       "gstaff/token-per-second-simulator",
       "li-qing/FIRE",
-      "K00B404/LLM_Quantization",
       "Livengood/Instance-VRAM-Calculator",
       "lusstta/Mistral-7B-v0.1-Demo",
       "SAAZIZI/SummarizeAV",
@@ -230,6 +230,7 @@
       },
       "total": 7241732096
     },
+    "inference": "warm",
     "usedStorage": 44007786287
   }
 }

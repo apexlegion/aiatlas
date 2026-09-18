@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.10840v5",
+  "fetchedAt": "2026-09-18T07:19:12.766Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.10840v5",
+    "title": "Clin-JEPA: A Multi-Phase Co-Training Framework for Joint-Embedding Predictive Pretraining on EHR Patient Trajectories",
+    "link": "https://arxiv.org/abs/2605.10840",
+    "description": "arXiv:2605.10840v5 Announce Type: replace-cross Abstract: Joint-embedding predictive architectures (JEPA) learn representations by predicting in latent space, as in computer vision; retaining the action-conditioned predictor at inference turns them into latent world models, enabling planning in robotics (V-JEPA 2-AC). Bringing this design to EHR patient trajectories---a predictor that simulates a patient's trajectory in latent space---has not been explored. We use an LLM as the encoder, reading the hourly record as text, avoiding feature engineering and vocabulary harmonisation. But an LLM adapted by supervised fine-tuning does not organise its latent space around physiological dynamics, and freezing it to train the predictor, as in V-JEPA 2-AC, leaves the encoder unaware of the rollout signal: the predictor degrades under rollout. We instead co-train encoder and predictor under one latent-prediction objective, grounding the encoder in the dynamics its predictor must follow. Na\\\"ive co-training, however, is unstable: the untrained predictor drags the encoder toward collapse, and the predictor's rollout diverges as its target space moves. We present Clin-JEPA, a five-phase curriculum that stably co-trains an LLM encoder with a latent trajectory predictor on MIMIC-IV. Three evaluations support the design: (1) under 48-hour autoregressive rollout the co-trained predictor degrades least (predictor degradation $\\times$1.06, against $\\times$1.23--1.36 for two-stage designs and $\\times$6.3--66 for curriculum ablations) while the co-trained encoder resolves the progression of patient state most sharply (largest state displacement); (2) the co-trained encoder separates deteriorating from stable patients in its latent space with Cohen's $d{=}1.59$, against $\\leq$0.50 for two-stage encoders; (3) one set of embeddings serves 34 downstream tasks across three benchmarks, outperforming strong per-task tuned baselines and a pretrained EHR foundation model.",
+    "publishedAt": "2026-09-18",
+    "author": "Yixuan Yang, Mehak Arora, Ryan Zhang, Baraa Abed, Junseob Kim, Tilendra Choudhary, Md Hassanuzzaman, Kevin Zhu, Ayman Ali, Chengkun Yang, Alasdair Edward Gent, Victor Moas, Rishikesan Kamaleswaran",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

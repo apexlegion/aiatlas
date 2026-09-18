@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2609-20817",
+  "name": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+  "summary": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from...",
+  "description": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape priors. We present FAMOS, a feed-forward model that predicts movable-part segmentation and joint parameters from a sparse, unordered set of partial point clouds. Our model jointly reasons over multiple observations and naturally supports a variable number of inputs, including a single view. To aggregate articulation c...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.20817v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-17",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2609.20817v1"
+    }
+  ],
+  "authors": [
+    "Kevin Qu",
+    "Tao Sun",
+    "Massimiliano Viola",
+    "Liyuan Zhu",
+    "Zhizhuo Zhou",
+    "Sayan Deb Sarkar",
+    "Konrad Schindler",
+    "Iro Armeni"
+  ],
+  "paperId": "2609.20817",
+  "category": "cs.CV",
+  "publishedAt": "2026-09-17",
+  "abstract": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape priors. We present FAMOS, a feed-forward model that predicts movable-part segmentation and joint parameters from a sparse, unordered set of partial point clouds. Our model jointly reasons over multiple observations and naturally supports a variable number of inputs, including a single view. To aggregate articulation c..."
+}

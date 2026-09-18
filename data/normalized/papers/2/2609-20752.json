@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2609-20752",
+  "name": "Large Language Models as Falsifiers for Cyber-Physical Systems",
+  "summary": "Falsification searches for counterexamples to formal specifications in cyber-physical systems (CPS). With specifications written in Signal Temporal Logic (STL), falsification can be formulated as a...",
+  "description": "Falsification searches for counterexamples to formal specifications in cyber-physical systems (CPS). With specifications written in Signal Temporal Logic (STL), falsification can be formulated as a robustness optimization problem, traditionally tackled with black-box search algorithms. In parallel, large language models (LLMs) have recently emerged as surprisingly effective optimizers when coupled with iterative prompting. In this work, we connect these ideas and introduce LLM-Falsifier, an LLM-based approach that falsifies specifications by minimizing the STL robustness degree. Beyond gene...",
+  "tags": [
+    "arxiv",
+    "eess.SY"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.20752v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-17",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category eess.SY.",
+      "href": "https://arxiv.org/abs/2609.20752v1"
+    }
+  ],
+  "authors": [
+    "Ali ArjomandBigdeli",
+    "Jiawei Zhou",
+    "Stanley Bak"
+  ],
+  "paperId": "2609.20752",
+  "category": "eess.SY",
+  "publishedAt": "2026-09-17",
+  "abstract": "Falsification searches for counterexamples to formal specifications in cyber-physical systems (CPS). With specifications written in Signal Temporal Logic (STL), falsification can be formulated as a robustness optimization problem, traditionally tackled with black-box search algorithms. In parallel, large language models (LLMs) have recently emerged as surprisingly effective optimizers when coupled with iterative prompting. In this work, we connect these ideas and introduce LLM-Falsifier, an LLM-based approach that falsifies specifications by minimizing the STL robustness degree. Beyond gene..."
+}

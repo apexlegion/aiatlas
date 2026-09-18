@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2609-20822",
+  "name": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+  "summary": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-s...",
+  "description": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating task completion as its sole objective while neglecting safety. The agent reasons about the obstacle...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.20822v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-17",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2609.20822v1"
+    }
+  ],
+  "authors": [
+    "Bingxin Xu",
+    "Yuzhang Shang",
+    "Zhen Dong",
+    "Emilio Ferrara"
+  ],
+  "paperId": "2609.20822",
+  "category": "cs.RO",
+  "publishedAt": "2026-09-17",
+  "abstract": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating task completion as its sole objective while neglecting safety. The agent reasons about the obstacle..."
+}

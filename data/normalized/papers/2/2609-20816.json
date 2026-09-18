@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2609-20816",
+  "name": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
+  "summary": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation,...",
+  "description": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, editing, and colorization, but often relies on dedicated color representations or specialized inference procedures. Advances in large language models offer a simpler starting point: even compact models can associate hex values with color semantics. We present Paint-Anything, which learns a shared hex-prompt interface for generation and editing through object-level color supervision. We develop a...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.20816v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-17",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2609.20816v1"
+    }
+  ],
+  "authors": [
+    "Ji Xie",
+    "Dewei Zhou",
+    "Xinyu Huang",
+    "Zhennan Chen",
+    "Xun Wang"
+  ],
+  "paperId": "2609.20816",
+  "category": "cs.CV",
+  "publishedAt": "2026-09-17",
+  "abstract": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, editing, and colorization, but often relies on dedicated color representations or specialized inference procedures. Advances in large language models offer a simpler starting point: even compact models can associate hex values with color semantics. We present Paint-Anything, which learns a shared hex-prompt interface for generation and editing through object-level color supervision. We develop a..."
+}

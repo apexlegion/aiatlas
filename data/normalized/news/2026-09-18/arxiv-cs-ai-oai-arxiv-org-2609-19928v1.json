@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-19928v1",
+  "name": "From \"Who Is This User?\" to \"What Does This Purchase Mean?\": A Deployed Pipeline for Semantic User Profiling at Bank Scale",
+  "summary": "arXiv:2609.19928v1 Announce Type: new Abstract: Per-user LLM inference on transaction histories binds the inference budget linearly to user count, which becomes prohibitive at applied scale. We re-...",
+  "description": "arXiv:2609.19928v1 Announce Type: new Abstract: Per-user LLM inference on transaction histories binds the inference budget linearly to user count, which becomes prohibitive at applied scale. We re-cast attribute inference from per-user to per-transaction-pattern. The pipeline runs in three phases: Resolve abstracts item names with optional web grounding, Profile infers attributes for each frequ...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.19928"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-18",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.19928"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-18",
+  "expiryAt": "2026-10-18T00:00:00.000Z",
+  "author": "Ryota Mitsuhashi, Tetsuro Morimura, Hirotake Ito"
+}

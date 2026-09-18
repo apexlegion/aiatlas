@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.19137v2",
+  "fetchedAt": "2026-09-18T07:19:12.766Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.19137v2",
+    "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation",
+    "link": "https://arxiv.org/abs/2609.19137",
+    "description": "arXiv:2609.19137v2 Announce Type: replace-cross Abstract: Video generation models have advanced rapidly and can now synthesize plausible videos of robot manipulation from image and text prompts. Recent work extracts robot actions directly from such generated videos, but the result is purely kinematic and lacks force information, causing failures in contact-rich tasks where appropriate contact forces are essential for success. We present a pipeline that jointly leverages generated video and audio to derive motion trajectories and desired-force profiles. The force profile is shaped by the loudness of the generated contact sound, and we execute the resulting force-aware trajectories on a Franka robot using a closed-loop force regulator. We evaluate our pipeline on multiple tasks that require making contact and demonstrate successful zero-shot manipulation where a kinematic-only baseline fails. We also show that the pipeline can be used as a data generation engine to train policies that achieve the tasks in a closed-loop manner. Project website, videos, and dataset: https://dreamingcontactsound.github.io/",
+    "publishedAt": "2026-09-18",
+    "author": "Guanhua Ji, Tianyu Li, Dayoon Suh, Yuqian Zhang, Boyan Zhang, Nadia Figueroa",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

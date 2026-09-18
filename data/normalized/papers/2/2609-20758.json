@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2609-20758",
+  "name": "Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation",
+  "summary": "Evaluating an AI system requires disaggregated assessment, as performance varies across domains such as benchmark task types or conversation types in deployed agents. Exhaustive testing is expensiv...",
+  "description": "Evaluating an AI system requires disaggregated assessment, as performance varies across domains such as benchmark task types or conversation types in deployed agents. Exhaustive testing is expensive, so evaluation rests on a sample of labeled units. We treat the evaluation set as a finite population and seek accurate point and interval estimates of each domain mean. Direct estimators, including prediction-powered inference (PPI), use only a domain's own labels and are imprecise where labels are few. Small area estimation addresses this problem, and we build on it to develop an integrated wo...",
+  "tags": [
+    "arxiv",
+    "stat.ML"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.20758v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-17",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category stat.ML.",
+      "href": "https://arxiv.org/abs/2609.20758v1"
+    }
+  ],
+  "authors": [
+    "Sho Kawano",
+    "Zehang Richard Li",
+    "Paul A. Parker"
+  ],
+  "paperId": "2609.20758",
+  "category": "stat.ML",
+  "publishedAt": "2026-09-17",
+  "abstract": "Evaluating an AI system requires disaggregated assessment, as performance varies across domains such as benchmark task types or conversation types in deployed agents. Exhaustive testing is expensive, so evaluation rests on a sample of labeled units. We treat the evaluation set as a finite population and seek accurate point and interval estimates of each domain mean. Direct estimators, including prediction-powered inference (PPI), use only a domain's own labels and are imprecise where labels are few. Small area estimation addresses this problem, and we build on it to develop an integrated wo..."
+}

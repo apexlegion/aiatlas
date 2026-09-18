@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-20004v1",
+  "name": "EPIG-Tree: Compute-Optimal Branching for Gradient-Efficient Reinforcement Learning",
+  "summary": "arXiv:2609.20004v1 Announce Type: cross Abstract: Reward-based reinforcement learning for language models, exemplified by Group Relative Policy Optimization (GRPO), collapses an entire stochastic t...",
+  "description": "arXiv:2609.20004v1 Announce Type: cross Abstract: Reward-based reinforcement learning for language models, exemplified by Group Relative Policy Optimization (GRPO), collapses an entire stochastic trajectory into a single scalar reward. This is clean and scalable, but it explores and allocates reward inefficiently: a trajectory may contain many causal decisions, recovery attempts, and environmen...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.20004"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-18",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.20004"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-18",
+  "expiryAt": "2026-10-18T00:00:00.000Z",
+  "author": "Nikita Khomich, Leopold Hermansson, Ido Hakimi"
+}

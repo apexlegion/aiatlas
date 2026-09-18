@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2606-15157v2",
+  "name": "Exploring a Layer-Wise Design Space for KV Cache Eviction",
+  "summary": "arXiv:2606.15157v2 Announce Type: replace-cross Abstract: KV cache eviction methods typically use a single retention-rule family throughout a model, making eviction-method identity a model-level de...",
+  "description": "arXiv:2606.15157v2 Announce Type: replace-cross Abstract: KV cache eviction methods typically use a single retention-rule family throughout a model, making eviction-method identity a model-level design choice. Yet Transformer layers differ substantially in their attention behavior, representations, and sensitivity to compression, suggesting that a uniform rule may overlook useful layer-wise str...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2606.15157"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-18",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2606.15157"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-18",
+  "expiryAt": "2026-10-18T00:00:00.000Z",
+  "author": "Chao Fei, Kaihua Liang, Hanzhi Hu, Hongcheng Guo, Jian Weng, Marco Canini, Panos Kalnis"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.24115v2",
+  "fetchedAt": "2026-09-18T07:19:12.766Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.24115v2",
+    "title": "PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control",
+    "link": "https://arxiv.org/abs/2608.24115",
+    "description": "arXiv:2608.24115v2 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) can integrate long visual histories and infer behavior from a few examples, yet vision-language-action models rarely use this capacity as episode memory. Instead of a purpose-built memory module, PONDERPOUNCE reuses an MLLM's native causal context. PONDER, a pretrained System 2 MLLM, integrates episode history and demonstrations to produce continuous cognition. POUNCE, a System 1 action model, asynchronously conditions control on the newest cognition and its age. Both are jointly trained end to end without separate bridge pretraining. Optimized per-call inference on an H100 achieves p50 latencies of 78 ms for cognition-only refresh and 25 ms for action-model invocation. On RoboMME, PONDERPOUNCE achieves 60.83% success at the base data scale and 75.54% with 9x data, compared with 44.51% and 57.88% for FrameSamp+Modul. At base scale, scaling PONDER from 0.8B to 9B adds 6.71 percentage points with the POUNCE architecture unchanged. A separately trained 9B PONDER without execution history achieves only 26.21% under matched supervision. PONDERPOUNCE also achieves 12.5% success on RoboCasa-DC and demonstrates real-world applicability on four tasks under asynchronous execution, with 60.98% mean success versus 40.67% for FrameSamp+Modul.",
+    "publishedAt": "2026-09-18",
+    "author": "Suhwan Choi, Jaeyoon Jung, Sungkyung Kim, Yunsung Lee, Youngjae Yu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2609-20820",
+  "name": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+  "summary": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades p...",
+  "description": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical information through expensive VLM queries in-the-loop to process only task-salient information. In this paper, we propose an alternative approach in which computationally intensive VLM queries are made during train-time to learn a lightweight latent memory that can be efficiently queried at deployment time. Our representat...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.20820v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-17",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2609.20820v1"
+    }
+  ],
+  "authors": [
+    "Nitish Dashora",
+    "Douglas Chen",
+    "Idan Shenfeld",
+    "John Marangola",
+    "Pulkit Agrawal",
+    "Max Simchowitz"
+  ],
+  "paperId": "2609.20820",
+  "category": "cs.RO",
+  "publishedAt": "2026-09-17",
+  "abstract": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many approaches to policy memory involve compressing historical information through expensive VLM queries in-the-loop to process only task-salient information. In this paper, we propose an alternative approach in which computationally intensive VLM queries are made during train-time to learn a lightweight latent memory that can be efficiently queried at deployment time. Our representat..."
+}

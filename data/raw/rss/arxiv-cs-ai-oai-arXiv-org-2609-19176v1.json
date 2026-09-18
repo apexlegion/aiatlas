@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.19176v1",
+  "fetchedAt": "2026-09-18T07:19:12.766Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.19176v1",
+    "title": "Optimal Transport Metric Learning for Feature Alignment in Partially Supervised Segmentation",
+    "link": "https://arxiv.org/abs/2609.19176",
+    "description": "arXiv:2609.19176v1 Announce Type: cross Abstract: Multi-organ segmentation is often challenged by partially annotated datasets and domain shifts across different imaging sources. To address these limitations, we propose a two-stage learning framework that efficiently leverages partial supervision. In the first stage, the model learns from available annotations to produce accurate segmentations of annotated organs, establishing robust feature representations. In the second stage, we introduce learnable organ prototypes and a Sinkhorn-triplet loss to enforce organ-wise feature consistency across datasets. This encourages latent embeddings of the same organ to remain close, while increasing separation between different organs, even when annotations are missing. Our approach achieves performance comparable to state-of-the-art methods on the BTCV dataset, while remaining computationally efficient. By explicitly aligning feature distributions rather than relying solely on pseudo-labels, the framework effectively mitigates domain shift, making it particularly suitable for medical image segmentation tasks with limited annotation resources.",
+    "publishedAt": "2026-09-18",
+    "author": "Dakini Mallam Garba, Salim Abdou Daoura",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

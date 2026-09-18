@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "sentence-transformers/all-MiniLM-L6-v2",
-  "fetchedAt": "2026-09-17T07:30:24.528Z",
+  "fetchedAt": "2026-09-18T07:19:11.330Z",
   "data": {
     "_id": "621ffdc136468d709f180294",
     "id": "sentence-transformers/all-MiniLM-L6-v2",
@@ -57,8 +57,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 255618777,
-    "likes": 6038,
+    "downloads": 255050544,
+    "likes": 6052,
     "modelId": "sentence-transformers/all-MiniLM-L6-v2",
     "author": "sentence-transformers",
     "sha": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
@@ -228,6 +228,7 @@
     "spaces": [
       "embedl/hfviewer",
       "mteb/leaderboard",
+      "marcosv/InstructIR",
       "Mr-TD/RAG-PDF-QnA-ChatBot",
       "FireRedTeam/FireRed-OpenStoryline",
       "hakari-bench/leaderboard",
@@ -239,14 +240,11 @@
       "hashan-7/h7-chat-backend",
       "SufyanR/rag-chatbot",
       "CVision-assitant/asistente-virtual-CVision",
-      "free-apis-collection/markitdown",
-      "bhumilshah/aegis-backend",
+      "Hassan120/yordamai",
       "AishaSurve/codebase-agent",
       "Anhu321/CHAT_BOT",
-      "ManasDubey/finsight-api",
       "BEASTZZZ/JanMat",
       "cvachet/pdf-chatbot",
-      "marcosv/InstructIR",
       "JournalistsonHF/ai-scraper",
       "MTEB-BR/leaderboard",
       "mteb/arena",
@@ -325,7 +323,9 @@
       "yardi/phrase-semantic-similarity",
       "OuroborosM/STLA-BABY",
       "captain-awesome/Docuverse-zephyr-beta",
-      "JDWebProgrammer/chatbot"
+      "JDWebProgrammer/chatbot",
+      "Gololias/MetroCuadrado",
+      "KrishnaKumar23/documentQABot"
     ],
     "createdAt": "2022-03-02T23:29:05.000Z",
     "safetensors": {

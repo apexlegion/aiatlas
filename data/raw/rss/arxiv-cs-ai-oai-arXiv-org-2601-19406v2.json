@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.19406v2",
+  "fetchedAt": "2026-09-18T07:19:12.766Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.19406v2",
+    "title": "Sim-and-Human Co-training for Data-Efficient and Scene-Generalizable Bimanual Manipulation",
+    "link": "https://arxiv.org/abs/2601.19406",
+    "description": "arXiv:2601.19406v2 Announce Type: replace-cross Abstract: Real-robot demonstrations are prohibitively expensive, while simulation data and real-world human demonstrations are both scalable but each leaves a distinct gap: simulation suffers from a sim-to-real visual gap, and human data suffers from a human-to-robot embodiment gap. In this work, we identify a natural yet underexplored complementarity between these sources: simulation contributes robot-valid actions absent in human data, while human data provides real-world observations that simulation struggles to render. Building on this insight, we present SimHum, a co-training recipe that extracts kinematic priors from simulation and visual priors from human observations, then fine-tunes on a small real-robot dataset. SimHum exhibits strong scene-generalizable and data-efficient capabilities. With only 80 real-robot episodes per task, it achieves 62.5% success on held-out OOD scenes across four bimanual tabletop tasks, 53.7% higher than Real only in absolute success rate. Moreover, in a controlled data-collection study with matched collection time, SimHum improves over the best single-source pre-training baseline by 35.0% in absolute success rate. Project page: https://kaipengfang.github.io/sim-and-human/",
+    "publishedAt": "2026-09-18",
+    "author": "Kaipeng Fang, Weiqing Liang, Yuyang Li, Ji Zhang, Pengpeng Zeng, Heng Tao Shen, Jingkuan Song, Lianli Gao",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
