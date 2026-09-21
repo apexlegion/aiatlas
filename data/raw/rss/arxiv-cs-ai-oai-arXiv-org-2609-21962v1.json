@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.21962v1",
+  "fetchedAt": "2026-09-21T07:53:11.352Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.21962v1",
+    "title": "Learning Cardiac Features: ECG Biometrics Across Time and~Exercise",
+    "link": "https://arxiv.org/abs/2609.21962",
+    "description": "arXiv:2609.21962v1 Announce Type: new Abstract: Electrocardiograms (ECGs) carry subject-specific patterns enabling reliable individual discrimination, forming the basis of ECG biometrics. Beyond authentication, this paradigm holds significant potential to secure sensitive cardiac data and to serve as a pretext task in self-supervised learning. Yet, most studies remain confined to singlesession, resting data, leaving robustness to temporal and physiological variations largely untested. We address this gap by evaluating ECG biometrics under realistic conditions involving exercise-induced stress and cross-session variability. A Siamese ResNet with late multi-lead fusion strategy is trained on a large ECG dataset extracted from cardiopulmonary exercise tests and evaluated with a exercise-and time-aware protocol, as well as on public benchmarks. This first extensive assessment of ECG biometrics under combined physiological and temporal variability achieves an intra-session rest-to-peak EER of 1.7% and stateof-the-art 3.9% on the CYBHi dataset. Findings support the presence of an intrinsic cardiac signature resilient to physiological and temporal drift.",
+    "publishedAt": "2026-09-21",
+    "author": "Luca Thiebaud (AMU, AMU SCI, DIAPRO, LIS), Paul Chauchat (AMU SCI, AMU, LIS, DIAPRO), Mustapha Ouladsine (AMU SCI, AMU, LIS, DIAPRO), St\\'ephane Delliaux (AMU, APHM, C2VN)",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

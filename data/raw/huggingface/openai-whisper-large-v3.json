@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-09-20T07:40:32.283Z",
+  "fetchedAt": "2026-09-21T07:53:09.152Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4650439,
-    "likes": 6325,
+    "downloads": 4588919,
+    "likes": 6326,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -350,17 +350,14 @@
       "mteb/leaderboard",
       "openai/whisper",
       "hf-audio/whisper-large-v3",
-      "geraldadli/speech-emotion-recognition",
       "artificialguybr/video-dubbing",
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "nari-labs/Dia2-2B",
       "treble-technologies/ffasr",
       "microsoft/paza-bench",
-      "RyeAI/danish-asr-leaderboard",
       "Quran-Lab/quranic-asr-leaderboard",
       "ysharma/gr-workflow-microduck-lab",
       "Ritesh-hf/speech-to-text-with-timestamps",
-      "TobDeBer/Voxtral",
       "Aiklj/Koloni",
       "artificialguybr/Video-Transcription-Smart-Summary",
       "sanchit-gandhi/whisper-jax-spaces",
@@ -386,6 +383,7 @@
       "mozilla-ai/transcribe",
       "mrm8488/whisper-large-v3",
       "msalhab96/open_universal_arabic_asr_leaderboard_all",
+      "RyeAI/danish-asr-leaderboard",
       "mfielding92/insanely-fast-whisper-webui-zero",
       "richardzheng/whisper-large-v3",
       "hfmlsoc/different-flops",
@@ -445,7 +443,9 @@
       "ghourmetto/openai-whisper-large-v3",
       "Speedofmastery/orynxml-backend",
       "Yash030/claude-code-proxy",
-      "ArtFix0/speech-to-speech-dashboard"
+      "ArtFix0/speech-to-speech-dashboard",
+      "geraldadli/speech-emotion-recognition",
+      "Maximofn/subtify"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {

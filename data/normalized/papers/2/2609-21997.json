@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2609-21997",
+  "name": "Bayesian Belief Layer for Controllable Opinion Dynamics in LLM Agents",
+  "summary": "LLM agents in social simulation revise their opinions implicitly, in context: how open an agent is to persuasion can neither be specified nor verified, and collective outcomes inherit the model's t...",
+  "description": "LLM agents in social simulation revise their opinions implicitly, in context: how open an agent is to persuasion can neither be specified nor verified, and collective outcomes inherit the model's training prior. We introduce Bayesian Chronicle Agents (BCA), a minimal belief layer separating \\emph{what} an agent believes from \\emph{how} it speaks. Each stance is a probability, updated by one Bayesian step per utterance heard. A single prior-strength parameter $κ$ encodes stubbornness, modeled after its role in Friedkin--Johnsen (FJ) opinion dynamics. We then sweep this parameter to yield thr...",
+  "tags": [
+    "arxiv",
+    "cs.MA"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.21997v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-18",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.MA.",
+      "href": "https://arxiv.org/abs/2609.21997v1"
+    }
+  ],
+  "authors": [
+    "Hafsa Akbar",
+    "Daniel Platnick",
+    "Marjan Alirezaie",
+    "Hossein Rahnama"
+  ],
+  "paperId": "2609.21997",
+  "category": "cs.MA",
+  "publishedAt": "2026-09-18",
+  "abstract": "LLM agents in social simulation revise their opinions implicitly, in context: how open an agent is to persuasion can neither be specified nor verified, and collective outcomes inherit the model's training prior. We introduce Bayesian Chronicle Agents (BCA), a minimal belief layer separating \\emph{what} an agent believes from \\emph{how} it speaks. Each stance is a probability, updated by one Bayesian step per utterance heard. A single prior-strength parameter $κ$ encodes stubbornness, modeled after its role in Friedkin--Johnsen (FJ) opinion dynamics. We then sweep this parameter to yield thr..."
+}

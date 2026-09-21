@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-20971v1",
+  "name": "RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models",
+  "summary": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generat...",
+  "description": "arXiv:2609.20971v1 Announce Type: new Abstract: Long-context large language model inference is increasingly limited by prefill, where dense self-attention processes the entire prompt before generation begins. Sparse block selection can reduce this cost, but a block centroid may hide a highly relevant token among many irrelevant ones. We call this failure mode mean dilution and propose RBS-Atten...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.20971"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-21",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.20971"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-21",
+  "expiryAt": "2026-10-21T00:00:00.000Z",
+  "author": "Chuxu Song, Jiuqi Wei, Zhencan Peng"
+}

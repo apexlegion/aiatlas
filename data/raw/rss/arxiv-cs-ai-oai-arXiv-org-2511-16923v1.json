@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2511.16923v1",
+  "fetchedAt": "2026-09-21T07:53:11.352Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2511.16923v1",
+    "title": "A Hybrid Computational Intelligence Framework for scRNA-seq Imputation: Integrating scRecover and Random Forests",
+    "link": "https://arxiv.org/abs/2511.16923",
+    "description": "arXiv:2511.16923v1 Announce Type: cross Abstract: Single-cell RNA sequencing (scRNA-seq) enables transcriptomic profiling at cellular resolution but suffers from pervasive dropout events that obscure biological signals. We present SCR-MF, a modular two-stage workflow that combines principled dropout detection using scRecover with robust non-parametric imputation via missForest. Across public and simulated datasets, SCR-MF achieves robust and interpretable performance comparable to or exceeding existing imputation methods in most cases, while preserving biological fidelity and transparency. Runtime analysis demonstrates that SCR-MF provides a competitive balance between accuracy and computational efficiency, making it suitable for mid-scale single-cell datasets.",
+    "publishedAt": "2026-09-21",
+    "author": "Ali Anaissi, Deshao Liu, Yuanzhe Jia, Weidong Huang, Widad Alyassine, Junaid Akram",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

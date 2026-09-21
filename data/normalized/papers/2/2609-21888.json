@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2609-21888",
+  "name": "Detecting Pretraining Data in Large Language Models from a Free-Energy Perspective",
+  "summary": "Detecting pretraining data in large language models is challenging because high likelihood can reflect either training exposure or strong generalization. In the joint space of prediction loss and p...",
+  "description": "Detecting pretraining data in large language models is challenging because high likelihood can reflect either training exposure or strong generalization. In the joint space of prediction loss and predictive entropy, a likelihood-only detector uses a horizontal boundary and can mistake predictable non-members for members. Motivated by this, we introduce an inclined boundary that evaluates prediction loss relative to predictive entropy. Our analysis shows that entropy correction can preserve the expected membership signal while reducing its variance, thereby improving standardized member--non...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.21888v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-18",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.21888v1"
+    }
+  ],
+  "authors": [
+    "Chenye Ke",
+    "Zirui Liu",
+    "Qi Liu",
+    "Yan Zhuang",
+    "Jintao Zhang",
+    "Zhenya Huang",
+    "Shijin Wang"
+  ],
+  "paperId": "2609.21888",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-18",
+  "abstract": "Detecting pretraining data in large language models is challenging because high likelihood can reflect either training exposure or strong generalization. In the joint space of prediction loss and predictive entropy, a likelihood-only detector uses a horizontal boundary and can mistake predictable non-members for members. Motivated by this, we introduce an inclined boundary that evaluates prediction loss relative to predictive entropy. Our analysis shows that entropy correction can preserve the expected membership signal while reducing its variance, thereby improving standardized member--non..."
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.07036v2",
+  "fetchedAt": "2026-09-21T07:53:11.352Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.07036v2",
+    "title": "MENASpeechBank: A Reference Voice Bank with Persona-Conditioned Multi-Turn Conversations for AudioLLMs",
+    "link": "https://arxiv.org/abs/2602.07036",
+    "description": "arXiv:2602.07036v2 Announce Type: replace-cross Abstract: Audio large language models (AudioLLMs) enable instruction following over speech and general audio, but progress is limited by the scarcity of diverse, conversational, and instruction-aligned speech--text data. This gap is particularly pronounced for persona-grounded and dialectal interactions, where collecting real multi-speaker recordings remains costly and slow. We introduce MENASpeechBank, a reference speech bank comprising ~18K high-quality utterances from 124 speakers spanning multiple MENA countries, covering English, Modern Standard Arabic (MSA), and regional Arabic varieties. We develop a controllable data pipeline that (i) constructs persona profiles enriched with World Values Survey (WVS) inspired attributes, (ii) defines a taxonomy driven ~5Kconversational scenarios, (iii) matches personas to scenarios via semantic similarity, (iv) generates ~417K role-play conversations with an LLM where the user speaks as the persona and the assistant behaves as a helpful agent, and (v) produces speaker-conditioned user-turn audio (synthetic) from reference recordings to preserve speaker diversity. We evaluate synthetic and human recorded conversations and provide an analysis. We will make the MENASpeechBank available for the community.(\\href{https://huggingface.co/datasets/QCRI/MenaSpeechBank)",
+    "publishedAt": "2026-09-21",
+    "author": "Zien Sheikh Ali, Hunzalah Hassan Bhatti, Rabindra Nath Nandi, Shammur Absar Chowdhury, Firoj Alam",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

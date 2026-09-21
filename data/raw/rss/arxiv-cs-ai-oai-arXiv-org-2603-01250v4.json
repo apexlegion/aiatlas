@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.01250v4",
+  "fetchedAt": "2026-09-21T07:53:11.352Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.01250v4",
+    "title": "The MAMA-MIA Challenge: Advancing Generalizability and Fairness in Breast MRI Tumor Segmentation and Treatment Response Prediction",
+    "link": "https://arxiv.org/abs/2603.01250",
+    "description": "arXiv:2603.01250v4 Announce Type: replace-cross Abstract: Breast cancer is the most frequently diagnosed malignancy among women worldwide and a leading cause of cancer-related mortality. Dynamic contrast-enhanced magnetic resonance imaging plays a central role in tumor characterization and treatment monitoring, particularly in patients receiving neoadjuvant chemotherapy. However, existing artificial intelligence models for breast magnetic resonance imaging are typically developed and evaluated using heterogeneous datasets, study populations, and assessment protocols, making direct comparison difficult and limiting understanding of model robustness across institutions and clinically relevant patient subgroups. The MAMA-MIA Challenge was designed to address these challenges by providing a standardized benchmark for the joint evaluation of primary tumor segmentation and prediction of pathologic complete response using pre-treatment magnetic resonance imaging only. The training cohort comprised 1,506 patients from multiple institutions in the United States, while evaluation was conducted on an external test set of 574 patients from three independent European centers to assess cross-continental and cross-institutional generalization. A unified scoring framework combined predictive performance with subgroup consistency across age, menopausal status, and breast density. Twenty-six international teams participated in the final evaluation phase. Results demonstrate substantial performance variability under a common external evaluation framework and reveal trade-offs between overall accuracy and subgroup fairness. The challenge provides standardized datasets, evaluation protocols, and public resources to promote the development of robust and equitable artificial intelligence systems for breast cancer imaging.",
+    "publishedAt": "2026-09-21",
+    "author": "Lidia Garrucho, Smriti Joshi, Kaisar Kushibar, Richard Osuala, Maciej Bobowicz, Xavier Bargall\\'o, Paulius Jaru\\v{s}evi\\v{c}ius, Kai Geissler, Raphael Sch\\\"afer, Muhammad Alberb, Tony Xu, Anne Martel, Daniel Sleiman, Navchetan Awasthi, Hadeel Awwad, Joan C. Vilanova, Robert Mart\\'i, Daan Schouten, Jeong Hoon Lee, Mirabela Rusu, Eleonora Poeta, Luisa Vargas, Eliana Pastor, Maria A. Zuluaga, Jessica K\\\"achele, Dimitrios Bounias, Alexandra Ertl, Katarzyna Gwo\\'zdziewicz, Maria-Laura Cosaka, Pasant M. Abo-Elhoda, Sara W. Tantawy, Shorouq S. Sakrana, Norhan O. Shawky-Abdelfatah, Amr Muhammad Abdo-Salem, Androniki Kozana, Eugen Divjak, Gordana Ivanac, Katerina Nikiforaki, Michail E. Klontzas, Rosa Garc\\'ia-Dosd\\'a, Meltem Gulsun-Akpinar, O\\u{g}uz Lafc{\\i}, Carlos Mart\\'in-Isla, Oliver D\\'iaz, Laura Igual, Karim Lekadir",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2609-21924",
+  "name": "What Should We Ask Next? Retrieval-Aware Question Learning under Partial Evidence",
+  "summary": "Interactive retrieval under partial evidence is a sequential information-acquisition problem: an agent must decide which question will create the most useful evidence for the next retrieval update....",
+  "description": "Interactive retrieval under partial evidence is a sequential information-acquisition problem: an agent must decide which question will create the most useful evidence for the next retrieval update. Existing systems train this decision by imitating an offline ordering of candidate QA pairs, although question value is determined by the response it elicits and its downstream effect on retrieval. We establish that candidate discriminativeness and perceived usefulness provide weak supervision for this objective, then introduce RAVEL, a retrieval-aware online reinforcement learning framework for...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.21924v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-18",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.21924v1"
+    }
+  ],
+  "authors": [
+    "Lyucheng Qian",
+    "John Yuehan Zhang",
+    "Pingyu Wang"
+  ],
+  "paperId": "2609.21924",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-18",
+  "abstract": "Interactive retrieval under partial evidence is a sequential information-acquisition problem: an agent must decide which question will create the most useful evidence for the next retrieval update. Existing systems train this decision by imitating an offline ordering of candidate QA pairs, although question value is determined by the response it elicits and its downstream effect on retrieval. We establish that candidate discriminativeness and perceived usefulness provide weak supervision for this objective, then introduce RAVEL, a retrieval-aware online reinforcement learning framework for..."
+}
