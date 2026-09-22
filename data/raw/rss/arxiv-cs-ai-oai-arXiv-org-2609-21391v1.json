@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.21391v1",
-  "fetchedAt": "2026-09-21T07:53:11.352Z",
+  "fetchedAt": "2026-09-22T07:37:17.446Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.21391v1",
     "title": "WS-NeRF: A Mamba-Driven World-State-Aware Adaptive Deblurring Neural Radiance Field",
     "link": "https://arxiv.org/abs/2609.21391",
     "description": "arXiv:2609.21391v1 Announce Type: cross Abstract: Neural Radiance Fields (NeRF) have attracted extensive attention in recent years due to their strong capability for high-quality 3D reconstruction and novel view synthesis from multi-view images. Existing methods usually rely on high-quality sharp inputs, while real-world image acquisition is highly susceptible to blur degradation, which severely affects the reconstruction quality of NeRF. In this paper, we propose a novel Mamba-driven world-state-aware adaptive deblurring neural radiance field, termed WS-NeRF, to address image degradation and 3D inconsistency. We formulate the alternating optimization of radiance fields as a dynamic evolution process with temporal memory, and jointly exploit comprehensive multi-dimensional world states and a mixture-of-experts mechanism to dynamically adjust the confidence of deblurring priors. Experimental results show that WS-NeRF significantly improves blurry radiance field reconstruction quality, achieving better performance on PSNR, SSIM, and LPIPS, while exhibiting more stable iterative recovery behavior.",
-    "publishedAt": "2026-09-21",
+    "publishedAt": "2026-09-22",
     "author": "Hang Jiang, Jinghao Wang, Yiming Zhang, Xinhong Wang, Luwei Ran, Yinfeng Yu",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

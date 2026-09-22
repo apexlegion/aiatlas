@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.21811v1",
-  "fetchedAt": "2026-09-21T07:53:11.352Z",
+  "fetchedAt": "2026-09-22T07:37:17.446Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.21811v1",
     "title": "MIST: Multimodal Survival Prediction with Genomic-Guided Histology Attention",
     "link": "https://arxiv.org/abs/2609.21811",
     "description": "arXiv:2609.21811v1 Announce Type: new Abstract: Multimodal survival models can combine complementary prognostic information from whole-slide images and genomic profiles, but effective fusion remains challenging amid external cohort shift and computational complexity. To address these challenges, we propose MIST, multimodal survival prediction with genomic-guided histology attention. MIST represents genomic features as tokens and allows them to query compact foundation-model-derived histology context tokens before survival prediction. This design enriches molecular information with histology context rather than merging separately encoded modalities only at the final stage. Training combines discrete-time survival prediction with genomic feature masking, WSI dropout, and paired WSI-genomics contrastive alignment. Across four external evaluations in colon, renal, lung, and glioblastoma cohorts, MIST improves external C-index over standard fusion baselines in the primary comparisons. These results support genomic-guided histology attention as a compact and effective strategy for multimodal oncology outcome prediction. Our code is available at https://github.com/samiyavuuz/MIST .",
-    "publishedAt": "2026-09-21",
+    "publishedAt": "2026-09-22",
     "author": "Muhammet Sami Yavuz, Sabri Mustafa Kahya, Richard R. Chen, Jana Lipkova, Benedikt Wiestler",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

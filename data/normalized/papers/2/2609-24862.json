@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2609-24862",
+  "name": "When Tomorrow Becomes Today: Self-Evolving Policies for Agentic Time-Series Forecasting",
+  "summary": "Agentic time series forecasting concerns systems whose underlying mechanisms evolve, making the relative effectiveness of numerical models, reasoning strategies, and intervention rules inherently t...",
+  "description": "Agentic time series forecasting concerns systems whose underlying mechanisms evolve, making the relative effectiveness of numerical models, reasoning strategies, and intervention rules inherently time-varying. Consequently, a time series agent must adapt the forecasts it produces and the orchestration policy that determines which components to trust and how to coordinate them. The deployment process naturally provides supervision for this adaptation as forecast horizons elapse and realized targets reveal the effectiveness of earlier decisions. Committing all numerical expert forecasts and c...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.24862v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-21",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.24862v1"
+    }
+  ],
+  "authors": [
+    "Yifan Hu",
+    "Xilin Dai",
+    "Zhiyuan Qu",
+    "Yiding Liu",
+    "Zewei Dong",
+    "Jiang-ming Yang",
+    "Qiang Xu"
+  ],
+  "paperId": "2609.24862",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-21",
+  "abstract": "Agentic time series forecasting concerns systems whose underlying mechanisms evolve, making the relative effectiveness of numerical models, reasoning strategies, and intervention rules inherently time-varying. Consequently, a time series agent must adapt the forecasts it produces and the orchestration policy that determines which components to trust and how to coordinate them. The deployment process naturally provides supervision for this adaptation as forecast horizons elapse and realized targets reveal the effectiveness of earlier decisions. Committing all numerical expert forecasts and c..."
+}

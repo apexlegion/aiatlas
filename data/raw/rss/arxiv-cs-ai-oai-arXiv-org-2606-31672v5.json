@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.31672v5",
-  "fetchedAt": "2026-09-21T07:53:11.352Z",
+  "fetchedAt": "2026-09-22T07:37:17.446Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2606.31672v5",
     "title": "WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models",
     "link": "https://arxiv.org/abs/2606.31672",
     "description": "arXiv:2606.31672v5 Announce Type: replace-cross Abstract: Despite rapid progress in interactive world models (IWMs), short-horizon performance does not establish sustained action following, visual stability, physical plausibility, or memory. We introduce WorldRoamBench, an open-world benchmark for long-horizon stability across four dimensions, each with innovations: (i) Action: per-frame action metric bypassing cross-model semantic scale disparity and exposing failures hidden by trajectory; (ii) Vision: sliding-window drift metric capturing non-monotonic mid-sequence collapse missed by start-vs-end comparisons; (iii) Physics: evaluation of physical plausibility across mechanics, optics, and 3D consistency, gated by camera-motion and subject-tracking checks; (iv) Memory: a trajectory-aware protocol reducing confounding from action-following errors, evaluating scene memory via transition-localized 3D point-cloud reconstruction and subject memory via tracking-plus-VLM reasoning. The benchmark comprises 1000+ test cases across Nature, Urban, and Indoor scenes in first/third-person views with WASD 10-60 s continuous interaction. Evaluating 10+ open/closed-source models reveals none reliably satisfies all dimensions; even the best achieves only moderate scores. Advances on WorldRoamBench are steps toward IWMs that are stable, physically grounded, memory-faithful, and deployable in real-world applications.",
-    "publishedAt": "2026-09-21",
+    "publishedAt": "2026-09-22",
     "author": "Ting-Bing Xu, Jiacheng Sui, Zhe Gao, Kewei Shi, Wenjin Yang, Zhicheng Liu, Zhaoxu Sun, Mingchao Sun, Hongyu Pan, Fan Jiang, Mu Xu, Qi Fan, Yang Gao, Yong Li, Baoquan Chen",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

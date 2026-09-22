@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2609-24881",
+  "name": "Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models",
+  "summary": "In high-stakes decision-making applications of large language models (LLMs), practitioners require not only accurate LLMs but also uncertainty estimates for their predictions. Existing approaches t...",
+  "description": "In high-stakes decision-making applications of large language models (LLMs), practitioners require not only accurate LLMs but also uncertainty estimates for their predictions. Existing approaches to uncertainty estimation for LLMs require access to log-probabilities output by the model or require fine-tuning access. However, many industrial LLM products use closed-source API models, and many such API models like GPT do not return log-probabilities and may not allow fine-tuning. We introduce Pinocchio, an external calibrator that estimates the correctness of responses from black-box API mode...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.24881v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-21",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.24881v1"
+    }
+  ],
+  "authors": [
+    "Kevin David Hayes",
+    "Arka Pal",
+    "Haosong Zhang",
+    "Tom Goldstein",
+    "Micah Goldblum"
+  ],
+  "paperId": "2609.24881",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-21",
+  "abstract": "In high-stakes decision-making applications of large language models (LLMs), practitioners require not only accurate LLMs but also uncertainty estimates for their predictions. Existing approaches to uncertainty estimation for LLMs require access to log-probabilities output by the model or require fine-tuning access. However, many industrial LLM products use closed-source API models, and many such API models like GPT do not return log-probabilities and may not allow fine-tuning. We introduce Pinocchio, an external calibrator that estimates the correctness of responses from black-box API mode..."
+}

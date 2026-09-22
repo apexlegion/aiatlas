@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.21666v1",
-  "fetchedAt": "2026-09-21T07:53:11.352Z",
+  "fetchedAt": "2026-09-22T07:37:17.446Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.21666v1",
     "title": "Samsone: A Family of Open Small Audio Language Models for On-Device Inference",
     "link": "https://arxiv.org/abs/2609.21666",
     "description": "arXiv:2609.21666v1 Announce Type: cross Abstract: The success of Large Audio Language Models has driven the development of massive multimodal networks exceeding billions of parameters. However, the demand for privacy-preserving, low-latency processing has shifted focus toward Small Audio Language Models (SALMs) capable of on-device execution. In this paper, we introduce Samsone, a family of SALMs designed for edge computing. Our core model, Samsone-134M, establishes a new state-of-the-art for its size class across multiple benchmarks. We further explore the scaling laws of SALMs by introducing Samsone-99M and Samsone-356M. Despite their compact footprint, the Samsone family delivers performance competitive with models orders of magnitude larger. To foster open research and reproducibility, we train Samsone on publicly available data. We release the training code, model weights, mobile-optimized checkpoints and provide an open-source Android application to demonstrate real-time on-device inference of Samsone.",
-    "publishedAt": "2026-09-21",
+    "publishedAt": "2026-09-22",
     "author": "Piotr Masztalski, Micha{\\l} K. Grzeszczyk, Olaf Sikorski",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

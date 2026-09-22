@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.04277v2",
-  "fetchedAt": "2026-09-21T07:53:11.352Z",
+  "fetchedAt": "2026-09-22T07:37:17.446Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2607.04277v2",
     "title": "Self-Reference in Large Language Models: The Introspection Threshold for Recursive Self-Improvement",
     "link": "https://arxiv.org/abs/2607.04277",
     "description": "arXiv:2607.04277v2 Announce Type: replace-cross Abstract: The pursuit of self-evolving AI raises a critical question: when is autonomous self-improvement sustainable rather than degenerative? Drawing an analogy to von Neumann's complexity threshold for self-reproducing automata, we argue that sustainable recursive self-improvement in Large Language Models (LLMs) requires a functional analogue: introspection -- the system's capacity to simulate its own operations and target modifications. Grounded in Kleene's Second Recursion Theorem, we demonstrate the theoretical existence of such introspective programs. However, an empirical review reveals that while current LLMs exhibit quasi-introspection (e.g., partial metacognition), they fall short of true introspection due to structural bottlenecks: a lack of complete self-access, the feedforward nature of the Transformer, and computational class constraints that prevent fixed-point iteration. We conclude by outlining architectural paths to cross this complexity threshold and discussing the associated safety implications.",
-    "publishedAt": "2026-09-21",
+    "publishedAt": "2026-09-22",
     "author": "Jiang Zhang, Bing Yuan, Qian Zhang",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

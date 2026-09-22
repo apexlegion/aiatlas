@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T07:53:12.926Z",
+  "generatedAt": "2026-09-22T07:37:19.507Z",
   "entries": {
     "automatic1111-stable-diffusion-webui": {
       "slug": "automatic1111-stable-diffusion-webui",
@@ -177,224 +177,224 @@
         "jupyter notebook"
       ]
     },
-    "2609-21828": {
-      "slug": "2609-21828",
-      "typedId": "paper/2609-21828",
-      "name": "Touvigation: Embodied Adaptive Object Acquisition for Blind and Low-Vision Users in Unfamiliar Indoor Environments",
+    "2609-24862": {
+      "slug": "2609-24862",
+      "typedId": "paper/2609-24862",
+      "name": "When Tomorrow Becomes Today: Self-Evolving Policies for Agentic Time-Series Forecasting",
       "type": "paper",
-      "summary": "Blind and low-vision users often face challenges when locating and physically acquiring objects in unfamiliar indoor environments. Existing vision-language-model-based assistants can provide semant...",
-      "tags": [
-        "arxiv",
-        "cs.HC"
-      ]
-    },
-    "2609-21829": {
-      "slug": "2609-21829",
-      "typedId": "paper/2609-21829",
-      "name": "Federated Deep Clustering Networks for High-Dimensional and Heterogeneous Data",
-      "type": "paper",
-      "summary": "Clustering high-dimensional data is a fundamental task in unsupervised machine learning with applications to a variety of domains. In the centralized data scenario, this task is commonly solved usi...",
+      "summary": "Agentic time series forecasting concerns systems whose underlying mechanisms evolve, making the relative effectiveness of numerical models, reasoning strategies, and intervention rules inherently t...",
       "tags": [
         "arxiv",
         "cs.LG"
       ]
     },
-    "2609-21841": {
-      "slug": "2609-21841",
-      "typedId": "paper/2609-21841",
-      "name": "EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise",
+    "2609-24864": {
+      "slug": "2609-24864",
+      "typedId": "paper/2609-24864",
+      "name": "SE(3) Neural Potential Fields for 6-DoF Trajectory Planning Directly from Images Without Explicit 3D Reconstruction",
       "type": "paper",
-      "summary": "Frontier language models now produce professional deliverables that expert graders judge to match human work on a substantial share of economically valuable tasks, yet most enterprise GenAI initiat...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-21857": {
-      "slug": "2609-21857",
-      "typedId": "paper/2609-21857",
-      "name": "Do Personality-Tuned LLMs Make Better Social Agents?",
-      "type": "paper",
-      "summary": "LLMs are increasingly used in social simulations for socially interactive agents and robots, offering more flexibility than rule-based systems. However, even though they mimic human behaviour very...",
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ]
-    },
-    "2609-21863": {
-      "slug": "2609-21863",
-      "typedId": "paper/2609-21863",
-      "name": "AutoRecLab: Describe the Experiment, Get the Code!",
-      "type": "paper",
-      "summary": "Empirical evaluation is central to recommender-systems (RecSys) research, but turning experimental designs into executable code remains a manual and error-prone task. We present AutoRecLab, a Pytho...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-21870": {
-      "slug": "2609-21870",
-      "typedId": "paper/2609-21870",
-      "name": "Neural Cellular Automata Learn General Features in their Hidden Channels",
-      "type": "paper",
-      "summary": "Modern deep learning models achieve impressive generalization through over-parameterization, but this paradigm often struggles with overfitting and memorization in few-shot regimes. Neural Cellular...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2609-21879": {
-      "slug": "2609-21879",
-      "typedId": "paper/2609-21879",
-      "name": "Benchmarking the Explanatory Quality of Open-Weight Vision-Language Models in Face Recognition",
-      "type": "paper",
-      "summary": "Vision-Language Models (VLMs) have recently been proposed as promising tools for face recognition, as they can produce natural language explanations alongside similarity scores. This capability is...",
-      "tags": [
-        "arxiv",
-        "cs.CV"
-      ]
-    },
-    "2609-21888": {
-      "slug": "2609-21888",
-      "typedId": "paper/2609-21888",
-      "name": "Detecting Pretraining Data in Large Language Models from a Free-Energy Perspective",
-      "type": "paper",
-      "summary": "Detecting pretraining data in large language models is challenging because high likelihood can reflect either training exposure or strong generalization. In the joint space of prediction loss and p...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2609-21924": {
-      "slug": "2609-21924",
-      "typedId": "paper/2609-21924",
-      "name": "What Should We Ask Next? Retrieval-Aware Question Learning under Partial Evidence",
-      "type": "paper",
-      "summary": "Interactive retrieval under partial evidence is a sequential information-acquisition problem: an agent must decide which question will create the most useful evidence for the next retrieval update....",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-21940": {
-      "slug": "2609-21940",
-      "typedId": "paper/2609-21940",
-      "name": "AutoViewMem: Self-Configuring Orthogonal Views for Conversational Long-Term Memory",
-      "type": "paper",
-      "summary": "Long-term memory is essential for large language model (LLM) agents to maintain consistency and personalization over extended interactions. Existing memory systems typically rely on fixed granulari...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-21942": {
-      "slug": "2609-21942",
-      "typedId": "paper/2609-21942",
-      "name": "When Should a Failing Robot Ask? Initiating Corrective Human-Robot Dialogue from Audited Sensor Evidence",
-      "type": "paper",
-      "summary": "A robot that fails at a task faces the first decision in corrective dialogue: act on its own diagnosis, consult another onboard sensor, or interrupt a person. Choosing well requires knowing how muc...",
+      "summary": "Reaching a 6-DoF grasp pose in clutter requires a collision-free trajectory, conventionally obtained by reconstructing the scene in 3D and planning inside that reconstruction, at the cost of its ac...",
       "tags": [
         "arxiv",
         "cs.RO"
       ]
     },
-    "2609-21962": {
-      "slug": "2609-21962",
-      "typedId": "paper/2609-21962",
-      "name": "Learning Cardiac Features: ECG Biometrics Across Time and~Exercise",
+    "2609-24876": {
+      "slug": "2609-24876",
+      "typedId": "paper/2609-24876",
+      "name": "Partner-Specific Affective Precision in Social Active Inference",
       "type": "paper",
-      "summary": "Electrocardiograms (ECGs) carry subject-specific patterns enabling reliable individual discrimination, forming the basis of ECG biometrics. Beyond authentication, this paradigm holds significant po...",
+      "summary": "In multi-agent social settings, model reliability varies across relationships. Beyond inferring what others will do, an agent must calibrate how confidently those inferences should guide policy sel...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2609-21967": {
-      "slug": "2609-21967",
-      "typedId": "paper/2609-21967",
-      "name": "NemotronLabs VoiceChat: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities",
+    "2609-24881": {
+      "slug": "2609-24881",
+      "typedId": "paper/2609-24881",
+      "name": "Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models",
       "type": "paper",
-      "summary": "We introduce NemotronLabs VoiceChat, an open full-duplex speech-to-speech model with native tool-calling capabilities. NemotronLabs VoiceChat combines a streaming speech encoder and decoder-only la...",
+      "summary": "In high-stakes decision-making applications of large language models (LLMs), practitioners require not only accurate LLMs but also uncertainty estimates for their predictions. Existing approaches t...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-24883": {
+      "slug": "2609-24883",
+      "typedId": "paper/2609-24883",
+      "name": "A Global Comparison of Schemas, Transparency, and Interoperability in Public-Sector AI Registers and Inventories",
+      "type": "paper",
+      "summary": "Artificial intelligence (AI) registers and inventories aim to make governmental AI visible, but their institutional scope, schemas, and reporting practices construct different representations of pu...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-24890": {
+      "slug": "2609-24890",
+      "typedId": "paper/2609-24890",
+      "name": "OSWorld-Pro: Process-based Evaluation for Computer Use Agents",
+      "type": "paper",
+      "summary": "Evaluation of Computer-Use Agents (CUAs) is often limited to the final deliverables they create (at the end of hundreds of steps) and assessed with functional verifiers, as seen in OSWorld. However...",
       "tags": [
         "arxiv",
         "cs.CL"
       ]
     },
-    "2609-21996": {
-      "slug": "2609-21996",
-      "typedId": "paper/2609-21996",
-      "name": "A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal",
+    "2609-24906": {
+      "slug": "2609-24906",
+      "typedId": "paper/2609-24906",
+      "name": "Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning",
       "type": "paper",
-      "summary": "Large language models can hold knowledge they do not report. A model may sandbag on a capability evaluation, or answer against what it internally knows, and its outputs alone cannot tell whether it...",
+      "summary": "Dormant tree pruning is labor-intensive yet essential for maintaining modern high-productivity fruit orchards. In this work, we focus on pruning of modern planar tree training systems - V-Trellis a...",
+      "tags": [
+        "arxiv",
+        "cs.RO"
+      ]
+    },
+    "2609-24921": {
+      "slug": "2609-24921",
+      "typedId": "paper/2609-24921",
+      "name": "BackTrend: Evaluating Scientific Weak-Signal Prediction via Backward Reconstruction",
+      "type": "paper",
+      "summary": "Scientific weak signals are early, low-visibility research directions that later become central to mature scientific topics, yet existing resources such as trend tracking, citation forecasting, and...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2609-21997": {
-      "slug": "2609-21997",
-      "typedId": "paper/2609-21997",
-      "name": "Bayesian Belief Layer for Controllable Opinion Dynamics in LLM Agents",
+    "2609-24927": {
+      "slug": "2609-24927",
+      "typedId": "paper/2609-24927",
+      "name": "Et Tu, Brute? Economic Misalignment in Personal AI Agents",
       "type": "paper",
-      "summary": "LLM agents in social simulation revise their opinions implicitly, in context: how open an agent is to persuasion can neither be specified nor verified, and collective outcomes inherit the model's t...",
+      "summary": "Personal AI agents make recommendations and take actions on people's behalf in high-stakes economic contexts, e.g., buying a flight, choosing health insurance, or selecting a graduate program. The...",
       "tags": [
         "arxiv",
-        "cs.MA"
+        "cs.AI"
       ]
     },
-    "2609-22008": {
-      "slug": "2609-22008",
-      "typedId": "paper/2609-22008",
-      "name": "DiaVLo: Diagnosing Behaviours of Vision-Language Models",
+    "2609-24942": {
+      "slug": "2609-24942",
+      "typedId": "paper/2609-24942",
+      "name": "Exactness at Inference: A Representational Criterion for Out-of-Distribution Generalization",
       "type": "paper",
-      "summary": "Vision-language models (VLMs) rely on storing and transferring appropriate information across their sub-components. Verifying that the VLMs exhibit desired behaviours, while avoiding harmful ones,...",
+      "summary": "A model generalizes outside its training distribution only when it computes a representation structurally equivalent to the generating mechanism, not an approximation fitted to it. Such equivalence...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2609-24955": {
+      "slug": "2609-24955",
+      "typedId": "paper/2609-24955",
+      "name": "Generative Tutorial: Towards Live Contextualized Visual Instructions for Physical Tasks",
+      "type": "paper",
+      "summary": "Visual instructions for physical tasks are typically authored in one context and followed in another, requiring users to translate demonstrated tools, materials, and spatial relationships into thei...",
+      "tags": [
+        "arxiv",
+        "cs.HC"
+      ]
+    },
+    "2609-24965": {
+      "slug": "2609-24965",
+      "typedId": "paper/2609-24965",
+      "name": "Jev for Scientific Decisions: Evaluating Semantic Choices and Their Consequences",
+      "type": "paper",
+      "summary": "Scientific workflows often require choosing among known relations before a deterministic calculation can proceed. Whether observations share a culture, treatment or reference standard can change th...",
       "tags": [
         "arxiv",
         "cs.CL"
       ]
     },
-    "2609-22039": {
-      "slug": "2609-22039",
-      "typedId": "paper/2609-22039",
-      "name": "Gricea: An Open Science Platform for Conversational AI Research",
+    "2609-24967": {
+      "slug": "2609-24967",
+      "typedId": "paper/2609-24967",
+      "name": "Emergent Collusion in Long-Horizon LLM Agent Interaction",
       "type": "paper",
-      "summary": "We need studies on conversational AI (CAI) at scale to understand human behavior and shape CAI design. However, fragmented reporting of systems and study configurations hinders replication, extensi...",
-      "tags": [
-        "arxiv",
-        "cs.HC"
-      ]
-    },
-    "2609-22067": {
-      "slug": "2609-22067",
-      "typedId": "paper/2609-22067",
-      "name": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
-      "type": "paper",
-      "summary": "Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with...",
-      "tags": [
-        "arxiv",
-        "cs.HC"
-      ]
-    },
-    "2609-22068": {
-      "slug": "2609-22068",
-      "typedId": "paper/2609-22068",
-      "name": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
-      "type": "paper",
-      "summary": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typica...",
+      "summary": "LLM agents are increasingly deployed in collaborative settings, yet long-term interaction may give rise to undesirable coordination. We study the emergence of collusion in a long-horizon multi-agen...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2609-22086": {
-      "slug": "2609-22086",
-      "typedId": "paper/2609-22086",
-      "name": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+    "2609-24969": {
+      "slug": "2609-24969",
+      "typedId": "paper/2609-24969",
+      "name": "Rare Event Estimation via Iterative Unalignment",
       "type": "paper",
-      "summary": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We in...",
+      "summary": "As agents are deployed with increased autonomy, even extremely rare events along their stochastic output trajectories can occur and prove catastrophic. Safe deployment therefore does not depend on...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2609-24971": {
+      "slug": "2609-24971",
+      "typedId": "paper/2609-24971",
+      "name": "DolphinBench: Mapping the Pareto Frontier of Agent Memory",
+      "type": "paper",
+      "summary": "Agents today often take real-world actions that depend on long-term memory and context recall over time. However, most current memory benchmarks are built for a conversational question-answer forma...",
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ]
+    },
+    "2609-24972": {
+      "slug": "2609-24972",
+      "typedId": "paper/2609-24972",
+      "name": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+      "type": "paper",
+      "summary": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increa...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2609-24974": {
+      "slug": "2609-24974",
+      "typedId": "paper/2609-24974",
+      "name": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+      "type": "paper",
+      "summary": "Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the...",
       "tags": [
         "arxiv",
         "cs.AI"
+      ]
+    },
+    "2609-24976": {
+      "slug": "2609-24976",
+      "typedId": "paper/2609-24976",
+      "name": "DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation",
+      "type": "paper",
+      "summary": "Dexterous manipulation depends on contact dynamics that are often only partially observable from vision. Recent World-Action Models (WAMs) couple predictive video world modeling with action generat...",
+      "tags": [
+        "arxiv",
+        "cs.RO"
+      ]
+    },
+    "2609-24984": {
+      "slug": "2609-24984",
+      "typedId": "paper/2609-24984",
+      "name": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "type": "paper",
+      "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video worl...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2609-25001": {
+      "slug": "2609-25001",
+      "typedId": "paper/2609-25001",
+      "name": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+      "type": "paper",
+      "summary": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple tempor...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
       ]
     },
     "arxiv-cs-ai-oai-arxiv-org-2305-16056v5": {
@@ -1497,12 +1497,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2609-20989v1": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-20989v1",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-20989v1",
+    "arxiv-cs-ai-oai-arxiv-org-2609-20989v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-20989v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-20989v2",
       "name": "Trustworthy FinAInce: Unpacking How AI-Mediated Financial Advice is Judged",
       "type": "news",
-      "summary": "arXiv:2609.20989v1 Announce Type: cross Abstract: As generative AI is increasingly used as a source of personal financial guidance, understanding how people appraise such advice is important for su...",
+      "summary": "arXiv:2609.20989v2 Announce Type: cross Abstract: As generative AI is increasingly used as a source of personal financial guidance, understanding how people appraise such advice is important for su...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -2135,12 +2135,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2609-21509v1": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-21509v1",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-21509v1",
+    "arxiv-cs-ai-oai-arxiv-org-2609-21509v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-21509v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-21509v2",
       "name": "The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models",
       "type": "news",
-      "summary": "arXiv:2609.21509v1 Announce Type: new Abstract: When language models reason in chain-of-thought or exchange free-text intermediates, they serialize structured information into natural language. How...",
+      "summary": "arXiv:2609.21509v2 Announce Type: new Abstract: When language models reason in chain-of-thought or exchange free-text intermediates, they serialize structured information into natural language. How...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -2212,12 +2212,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2609-21562v1": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-21562v1",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-21562v1",
+    "arxiv-cs-ai-oai-arxiv-org-2609-21562v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-21562v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-21562v2",
       "name": "GameLogicBench: Evaluating Coding Agents on Runtime Game Logic with Tick-Level State Assertions",
       "type": "news",
-      "summary": "arXiv:2609.21562v1 Announce Type: cross Abstract: Coding agents can modify and test code across large software projects. Game development is a domain where agents must implement gameplay rules. A g...",
+      "summary": "arXiv:2609.21562v2 Announce Type: cross Abstract: Coding agents can modify and test code across large software projects. Game development is a domain where agents must implement gameplay rules. A g...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -2388,12 +2388,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2609-21677v1": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-21677v1",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-21677v1",
+    "arxiv-cs-ai-oai-arxiv-org-2609-21677v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-21677v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-21677v2",
       "name": "GUARD: Natural Forgetting in Large Reasoning Models via Guided Answer-Reasoning Distillation",
       "type": "news",
-      "summary": "arXiv:2609.21677v1 Announce Type: new Abstract: Recent advances in large reasoning models (LRMs) have made machine unlearning more challenging, as protected facts or unsafe rationales may surface i...",
+      "summary": "arXiv:2609.21677v2 Announce Type: new Abstract: Recent advances in large reasoning models (LRMs) have made machine unlearning more challenging, as protected facts or unsafe rationales may surface i...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -2749,6 +2749,94 @@
       "tags": [
         "news",
         "arxiv-cs-ai"
+      ]
+    },
+    "huggingface-blog-https-huggingface-co-blog-omlx": {
+      "slug": "huggingface-blog-https-huggingface-co-blog-omlx",
+      "typedId": "news/huggingface-blog-https-huggingface-co-blog-omlx",
+      "name": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "type": "news",
+      "summary": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "tags": [
+        "news",
+        "huggingface-blog"
+      ]
+    },
+    "huggingface-blog-https-huggingface-co-blog-multiversecomputingcai-pruning-llms-like-a-physicist-block-removal-as-an": {
+      "slug": "huggingface-blog-https-huggingface-co-blog-multiversecomputingcai-pruning-llms-like-a-physicist-block-removal-as-an",
+      "typedId": "news/huggingface-blog-https-huggingface-co-blog-multiversecomputingcai-pruning-llms-like-a-physicist-block-removal-as-an",
+      "name": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "type": "news",
+      "summary": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "tags": [
+        "news",
+        "huggingface-blog"
+      ]
+    },
+    "huggingface-blog-https-huggingface-co-blog-tokenizers-v1": {
+      "slug": "huggingface-blog-https-huggingface-co-blog-tokenizers-v1",
+      "typedId": "news/huggingface-blog-https-huggingface-co-blog-tokenizers-v1",
+      "name": "tokenizers v1: encode, decode and scaling, measured",
+      "type": "news",
+      "summary": "tokenizers v1: encode, decode and scaling, measured",
+      "tags": [
+        "news",
+        "huggingface-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-advisory-group-on-mathematics-and-ai": {
+      "slug": "openai-blog-https-openai-com-index-advisory-group-on-mathematics-and-ai",
+      "typedId": "news/openai-blog-https-openai-com-index-advisory-group-on-mathematics-and-ai",
+      "name": "Advisory Group on Mathematics and Artificial Intelligence",
+      "type": "news",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-building-standards-next-phase-ai": {
+      "slug": "openai-blog-https-openai-com-index-building-standards-next-phase-ai",
+      "typedId": "news/openai-blog-https-openai-com-index-building-standards-next-phase-ai",
+      "name": "Building standards for the next phase of AI",
+      "type": "news",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-expanding-openai-academy-with-new-learning-paths": {
+      "slug": "openai-blog-https-openai-com-index-expanding-openai-academy-with-new-learning-paths",
+      "typedId": "news/openai-blog-https-openai-com-index-expanding-openai-academy-with-new-learning-paths",
+      "name": "Expanding OpenAI Academy with new learning paths",
+      "type": "news",
+      "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-higgsfield-from-prompt-to-production-with-astra": {
+      "slug": "openai-blog-https-openai-com-index-higgsfield-from-prompt-to-production-with-astra",
+      "typedId": "news/openai-blog-https-openai-com-index-higgsfield-from-prompt-to-production-with-astra",
+      "name": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "type": "news",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-v7": {
+      "slug": "openai-blog-https-openai-com-index-v7",
+      "typedId": "news/openai-blog-https-openai-com-index-v7",
+      "name": "How V7 gives AI agents institutional memory",
+      "type": "news",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "tags": [
+        "news",
+        "openai-blog"
       ]
     },
     "google-ai-blog-https-blog-google-innovation-and-ai-technology-ai-expanding-ai-economy-research-bench": {
@@ -3233,17 +3321,6 @@
       "tags": [
         "news",
         "openai-blog"
-      ]
-    },
-    "huggingface-blog-https-huggingface-co-blog-multiversecomputingcai-safety-for-whom": {
-      "slug": "huggingface-blog-https-huggingface-co-blog-multiversecomputingcai-safety-for-whom",
-      "typedId": "news/huggingface-blog-https-huggingface-co-blog-multiversecomputingcai-safety-for-whom",
-      "name": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "type": "news",
-      "summary": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "tags": [
-        "news",
-        "huggingface-blog"
       ]
     },
     "openai-blog-https-openai-com-index-1password": {

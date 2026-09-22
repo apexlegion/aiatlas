@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.04287v2",
-  "fetchedAt": "2026-09-21T07:53:11.352Z",
+  "fetchedAt": "2026-09-22T07:37:17.446Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2606.04287v2",
     "title": "Scaling Novel Graph Generation via Lightweight Structure-Guided Autoregressive Models",
     "link": "https://arxiv.org/abs/2606.04287",
     "description": "arXiv:2606.04287v2 Announce Type: replace-cross Abstract: Generating realistic and diverse graphs is a key problem in machine learning, with applications in molecular discovery, circuit design, cybersecurity, and beyond. However, current graph generative models remain limited by scalability and novelty. Diffusion-based methods often require costly full-adjacency operations and long denoising chains, while many autoregressive and hybrid models have at least quadratic complexity. In addition, these models often imitate training graphs rather than generalize beyond them. We propose a lightweight autoregressive framework to address these issues. It uses a structure-guided topological ordering to serialize graphs into regular edge sequences, enabling near log-linear generation, and a two-phase training strategy that combines exploration-oriented augmentation with iterative refinement to reduce overfitting and promote controlled novelty. Experiments on molecular and non-molecular benchmarks show that our approach improves novelty while preserving high validity and uniqueness. The framework also supports both LSTM and Mamba-style causal sequence backbones, with large-memory accelerators enabling longer graph-sequence experiments beyond typical GPU limits.",
-    "publishedAt": "2026-09-21",
+    "publishedAt": "2026-09-22",
     "author": "Alessio Barboni, Massimiliano Lupo Pasini, Bishal Lakha, Edoardo Serra",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

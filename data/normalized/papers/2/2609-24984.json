@@ -1,0 +1,43 @@
+{
+  "type": "paper",
+  "slug": "2609-24984",
+  "name": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+  "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video worl...",
+  "description": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to let the requested viewpoint shape how multi-view evidence is compressed into the video generator's limited token budget. Trained jointly with the video generator, a memory encoder and pose-conditioned readout module integrate historical observations into a fixed set of target view-specific token...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.24984v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-21",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2609.24984v1"
+    }
+  ],
+  "authors": [
+    "Wangbo Yu",
+    "Kunhao Liu",
+    "Wenbo Hu",
+    "Shenghai Yuan",
+    "Chaoran Feng",
+    "Haiyang Zhou",
+    "Yukun Huang",
+    "Yiran Wang",
+    "Wang Zhao",
+    "Yingmin Luo",
+    "Ying Shan"
+  ],
+  "paperId": "2609.24984",
+  "category": "cs.CV",
+  "publishedAt": "2026-09-21",
+  "abstract": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world model that learns a camera-queryable implicit 3D-aware memory for this purpose. The key insight is to let the requested viewpoint shape how multi-view evidence is compressed into the video generator's limited token budget. Trained jointly with the video generator, a memory encoder and pose-conditioned readout module integrate historical observations into a fixed set of target view-specific token..."
+}

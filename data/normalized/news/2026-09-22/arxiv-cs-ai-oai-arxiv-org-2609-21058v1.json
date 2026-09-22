@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-21058v1",
+  "name": "How Much of a Real Workload Can LLM-Generated GPU Kernels Actually Reach?",
+  "summary": "arXiv:2609.21058v1 Announce Type: cross Abstract: Language models can now write GPU kernels that outperform PyTorch. We evaluate five model configurations on KernelBench level 1 and find that a fro...",
+  "description": "arXiv:2609.21058v1 Announce Type: cross Abstract: Language models can now write GPU kernels that outperform PyTorch. We evaluate five model configurations on KernelBench level 1 and find that a frontier model produces correct kernels for 91.1% of problems and independently verified speedups on 22 of 56, including three convolutions, with a median of 1.235x. Open-weights models are far behind: t...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.21058"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-22",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.21058"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-22",
+  "expiryAt": "2026-10-22T00:00:00.000Z",
+  "author": "Gaurav Agarwal, Ashish Garg, Isha Singhal"
+}
