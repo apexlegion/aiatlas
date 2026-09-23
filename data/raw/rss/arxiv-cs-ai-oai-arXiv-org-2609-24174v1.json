@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.24174v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.24174v1",
+    "title": "CREDO: Variance-Guided Rubric Evolution for Replay-Corrected Credit Assignment",
+    "link": "https://arxiv.org/abs/2609.24174",
+    "description": "arXiv:2609.24174v1 Announce Type: new Abstract: Long-horizon language agents receive sparse terminal feedback, while intermediate rubrics provide structured but potentially misspecified assessments of progress. In resettable training environments, counterfactual continuation rollouts can measure local credit, but exhaustive replay is costly. We propose Credo, a framework that couples evolving semantic rubrics with selective, execution-based credit correction. A frozen judge maps visible transitions to rubric features, and a credit head predicts the change in expected terminal reward associated with the realized transition. Independently sampled two-sided replays correct prediction residuals using their recorded inclusion probabilities. We derive conditional unbiasedness and a variance decomposition that connects two design choices: which rubric features to retain, and where to allocate a fixed expected replay budget. The resulting criterion weights prediction errors by policy-score sensitivity and missing replay coverage; its allocation rule additionally accounts for continuation cost. We also describe a practical mixture with terminal leave-one-out advantages and distinguish its clipped, token-normalized PPO implementation from the ideal policy-gradient estimator. This preliminary report provides the method, proofs, an exact finite-model audit, and a controlled evaluation protocol. It makes no claim of empirical superiority on language-agent benchmarks.",
+    "publishedAt": "2026-09-23",
+    "author": "Xuchun Hu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

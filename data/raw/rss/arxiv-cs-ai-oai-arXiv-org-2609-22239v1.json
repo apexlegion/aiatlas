@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.22239v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.22239v1",
+    "title": "Knowledge Graph-Augmented Ambient AI for Clinical Note Generation",
+    "link": "https://arxiv.org/abs/2609.22239",
+    "description": "arXiv:2609.22239v1 Announce Type: cross Abstract: Ambient AI is increasingly adopted in healthcare to automatically generate clinical notes from patient-clinician conversations, with the potential to substantially reduce clinician documentation burden. However, generated notes may omit clinically relevant information discussed during the encounter, creating information gaps that can affect downstream care. Knowledge graphs (KGs) constructed from encounter transcripts can provide a structured representation of what was discussed and enable systematic identification of missing information from generated notes that are critical for patient care. In this study, we introduce Coverage-Directed Revision (CDR), a model-agnostic framework that constructs a KG from the encounter transcript, identifies medical concepts absent from an initially generated note, and directs large language models (LLMs) to restore the missing information without modifying the underlying note-generation system. We evaluate CDR on two datasets: 1) Pitt-Bench, a local dataset comprising rehabilitation sessions, and 2) ACI-Bench, a public dataset for benchmarking clinical note generation. We tested four underlying LLMs widely used in ambient AI systems. The results show that CDR consistently improves content recall across all evaluated conditions. Our study provides a practical approach for improving the completeness of ambient AI-generated clinical documentation.",
+    "publishedAt": "2026-09-23",
+    "author": "Jakir Hossain, Yi-Fei Zhao, Hongjian Wang, Minmei Shih, Katie Leigh Mullen, Ahmad P. Tafti, Leming Zhou, Manoj Purohit, William Hogan, Jay Zeng, Elizabeth Skidmore, Yanshan Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

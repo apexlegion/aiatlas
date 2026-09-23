@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.16859v3",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.16859v3",
+    "title": "SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models",
+    "link": "https://arxiv.org/abs/2603.16859",
+    "description": "arXiv:2603.16859v3 Announce Type: replace Abstract: Evaluating omni-modal large language models (OLMs) in multi-party dialogue requires more than answer correctness on pre-segmented inputs. We introduce SocialOmni, an offline diagnostic benchmark that separates three turn-level decisions: identifying who is speaking, deciding when a designated participant should enter at an annotated query time, and determining how that participant should continue the dialogue. SocialOmni contains 2,000 perception items and a quality-controlled core split of 200 interaction-generation items, including naturally occurring speaker-visibility mismatches. Each item is independently checked by three human annotators. Evaluated systems receive only query-time-bounded multimodal evidence, while manually verified reference continuations are reserved for response judging. A complete three-judge ensemble scores every eligible response, with leave-one-judge-out and family-sensitivity audits. Across 11 OLMs, rankings vary substantially by axis, and coverage-adjusted scores reveal when high conditional response quality depends on selective turn entry. The protocol does not measure persistent streaming state or wall-clock latency.",
+    "publishedAt": "2026-09-23",
+    "author": "Tianyu Xie, Jinfa Huang, Yuexiao Ma, Rongfang Luo, Yan Yang, Qingchuan Ma, Wang Chen, Yuhui Zeng, Yixuan Zou, Zhiqiang Lu, Ruize Fang, Jiebo Luo, Rongrong Ji, Xiawu Zheng",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

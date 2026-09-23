@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.24103v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.24103v1",
+    "title": "Reinforcement Learning under State and Outcome Uncertainty: A Foundational Distributional Perspective",
+    "link": "https://arxiv.org/abs/2609.24103",
+    "description": "arXiv:2609.24103v1 Announce Type: cross Abstract: In many real-world planning tasks, agents must tackle uncertainty about the environment's state and variability in the outcomes of any chosen policy. We address both forms of uncertainty as a first step toward safer algorithms in partially observable settings. Specifically, we extend Distributional Reinforcement Learning (DistRL)-which models the entire return distribution for fully observable domains-to Partially Observable Markov Decision Processes (POMDPs), allowing an agent to learn the distribution of returns for each conditional plan. Concretely, we introduce new distributional Bellman operators for partial observability and prove their convergence under the supremum p-Wasserstein metric. We also propose a finite representation of these return distributions via psi-vectors, generalizing the classical alpha-vectors in POMDP solvers. Building on this, we develop Distributional Point-Based Value Iteration (DPBVI), which integrates psi-vectors into a standard point-based backup procedure-bridging DistRL and POMDP planning. By tracking return distributions, DPBVI lays the foundation for future risk-sensitive control in domains where rare, high-impact events must be carefully managed. We provide source code to foster further research in robust decision-making under partial observability.",
+    "publishedAt": "2026-09-23",
+    "author": "Larry Preuett, Qiuyi Zhang, Muhammad Aurangzeb Ahmad",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

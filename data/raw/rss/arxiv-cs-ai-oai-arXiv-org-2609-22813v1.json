@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.22813v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.22813v1",
+    "title": "Commonsense-Grounded Path Planning from Abstract Instructions",
+    "link": "https://arxiv.org/abs/2609.22813",
+    "description": "arXiv:2609.22813v1 Announce Type: cross Abstract: We present \\emph{commonsense ranked search} (CoRS), a novel path planner that turns an abstract instruction into a route that follows commonsense. While existing methods respect the considerations written down in advance, a robot working among people must follow those left unstated too, as with a wet floor that a worker avoids without being told. CoRS leverages large language models (LLMs) and vision-language models (VLMs) as commonsense knowledge to reason about these latent considerations in its planning. Given an abstract instruction (\\emph{e.g.}, ``move carefully'') and visual observations of each region in the environment, CoRS derives a consideration for each region, as in ``this wet floor is slippery and worth a detour.'' It then compares the considerations between regions to see which of the two the robot should avoid more, as in ``the crowd is worse than the wet floor.'' These judgments sort the regions into a commonsense ranking, whose costs drive a conventional search that always returns a valid route. We build a benchmark for planning under latent considerations, with three environments, 1350 problems, and five instructions at three levels of abstraction. Experiments show that CoRS discovers the unstated considerations and goes around the ones worth a detour while crossing the rest, a behavior that recent LLM-based planners do not achieve.",
+    "publishedAt": "2026-09-23",
+    "author": "Masafumi Endo, Kohei Honda, Ryo Yonetani",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

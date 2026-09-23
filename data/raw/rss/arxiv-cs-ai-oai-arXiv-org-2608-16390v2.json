@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.16390v2",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.16390v2",
+    "title": "Counting Documents Is Not Counting Text: Unit Bias in Web-PDF Corpus Statistics",
+    "link": "https://arxiv.org/abs/2608.16390",
+    "description": "arXiv:2608.16390v2 Announce Type: replace-cross Abstract: PDF corpora advertise their size in tokens, but every rate they publish (coverage, OCR routing, re-fetch recovery, language mix) is computed per document, and none decomposes its token total. Because PDF length is extremely skewed, the two units can describe the same corpus very differently. We ask how the headline statistics of a web-PDF corpus change when each document is weighted by the text it contributes rather than counted once. We used CC-MAIN-2021-31-PDF-UNTRUNCATED (7.9M Common Crawl PDFs, 32.6B tokens), the one public corpus that pairs the fragments Common Crawl stored with the re-fetched originals. Text mass is highly concentrated: 3.02% of text-bearing documents hold half the tokens (Gini 0.807). The clearest consequence is Common Crawl's payload cap, which truncated 23.06% of these documents but 63.08% of their text. Reconstructing the truncated fragments and extracting both versions, two widely used text-layer parsers recover only 1.4% and 11.4% of that exposed text, so roughly 55-62% of the corpus's text is unrecoverable from the crawl by such pipelines; under the 5MiB cap adopted in March 2025, 30.19% of tokens would still be exposed. We recommend that corpus statistics be reported in both units, documents and tokens.",
+    "publishedAt": "2026-09-23",
+    "author": "Luca Foppiano",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

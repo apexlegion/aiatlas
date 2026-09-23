@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.23789v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.23789v1",
+    "title": "Belted Engression: Sufficient Dimension Reduction for Generative Distributional Regression",
+    "link": "https://arxiv.org/abs/2609.23789",
+    "description": "arXiv:2609.23789v1 Announce Type: cross Abstract: Modern conditional generative models face significant challenges when learning complex covariate dependencies. While sufficient dimension reduction (SDR) provides a principled approach to compress these dependencies, traditional SDR frameworks were not formulated for conditional generation. To bridge this gap, we propose Belted Engression, a unified and architecturally parameter-efficient framework for generative distributional regression. Our approach establishes an end-to-end compress-then-generate paradigm driven by sufficient representation learning, embedding a structural bottleneck into the generative architecture. Theoretically, we prove that the standard SDR condition is equivalent to a law-preserving generative factorization, which is achieved at the global optimum of the population Belted Engression objective. Furthermore, by uncovering a localized Bernstein-type control for the energy-score loss, we establish finite-sample convergence rates that are sharper than those of existing results. We also prove that this belted architecture is strictly smaller, operating with an asymptotically vanishing parameter count relative to the unstructured baseline. Extensive simulations and real-world applications demonstrate that Belted Engression achieves superior distributional prediction and SDR recovery with fewer trainable parameters.",
+    "publishedAt": "2026-09-23",
+    "author": "Wenxi Tan, Bing Li, Lingzhou Xue",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

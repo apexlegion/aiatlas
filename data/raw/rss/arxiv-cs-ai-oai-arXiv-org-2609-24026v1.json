@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.24026v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.24026v1",
+    "title": "InterHier: Learning Interconnected Hierarchical Semantics for Open-Vocabulary Object Detection",
+    "link": "https://arxiv.org/abs/2609.24026",
+    "description": "arXiv:2609.24026v1 Announce Type: cross Abstract: In this paper, we investigate the limitations of fixed, hand-crafted connectors in hierarchical semantic representations for open-vocabulary object detection. Existing methods establish semantic relationships between base categories and unseen novel categories by placing a fixed connector between adjacent super-/sub-categories. However, such fixed connectors may not optimally capture the relationships within a semantic hierarchy. To address this limitation, we propose interconnected hierarchical semantic representations (InterHier), which utilize a prepended learnable context to globally guide the interpretation of prompts containing hierarchical relationships. InterHier operates in two main stages. First, it constructs a hierarchy-aware prompt by integrating super-/sub-categories and prepending a learnable context. Second, it optimizes this learnable context to align visual region embeddings and textual embeddings. InterHier consistently improves performance over methods that rely on fixed connectors and can be seamlessly integrated into existing open-vocabulary object detection models. Experiments on open-vocabulary object detection benchmarks demonstrate that InterHier achieves competitive performance against state-of-the-art methods.",
+    "publishedAt": "2026-09-23",
+    "author": "Yeong-Jin Kim, Ho-Joong Kim, Seong-Whan Lee",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

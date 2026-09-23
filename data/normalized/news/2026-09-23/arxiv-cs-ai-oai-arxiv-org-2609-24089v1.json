@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-24089v1",
+  "name": "FlashBoB: I/O-Efficient Exact Backward-over-Backward for Softmax Attention",
+  "summary": "arXiv:2609.24089v1 Announce Type: cross Abstract: Transformer models built on the attention mechanism have become a central building block in modern deep learning, yet softmax attention remains a m...",
+  "description": "arXiv:2609.24089v1 Announce Type: cross Abstract: Transformer models built on the attention mechanism have become a central building block in modern deep learning, yet softmax attention remains a major bottleneck for long-context workloads. While FlashAttention makes the forward and first backward passes I/O-efficient, it does not support backward-over-backward (BoB), which enables exact differ...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.24089"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-23",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.24089"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-23",
+  "expiryAt": "2026-10-23T00:00:00.000Z",
+  "author": "Anthony Givans, Michael Crawshaw, Mingrui Liu"
+}

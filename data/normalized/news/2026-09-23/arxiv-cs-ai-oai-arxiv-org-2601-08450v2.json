@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2601-08450v2",
+  "name": "Decoding Order Matters in Autoregressive Speech Synthesis",
+  "summary": "arXiv:2601.08450v2 Announce Type: replace-cross Abstract: Autoregressive speech synthesis often adopts a left-to-right order, yet generation order is a modelling choice. We investigate decoding ord...",
+  "description": "arXiv:2601.08450v2 Announce Type: replace-cross Abstract: Autoregressive speech synthesis often adopts a left-to-right order, yet generation order is a modelling choice. We investigate decoding order through masked diffusion framework, which progressively unmasks positions and allows arbitrary decoding orders during training and inference. By interpolating between identity and random permutatio...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2601.08450"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-23",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2601.08450"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-23",
+  "expiryAt": "2026-10-23T00:00:00.000Z",
+  "author": "Minghui Zhao, Anton Ragni"
+}

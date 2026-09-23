@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2609-26761",
+  "name": "A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem",
+  "summary": "Agents using the Model Context Protocol (MCP) rely on semantic matching to select tools from third-party servers, exposing a semantic supply-chain risk through attacker-controlled metadata and outp...",
+  "description": "Agents using the Model Context Protocol (MCP) rely on semantic matching to select tools from third-party servers, exposing a semantic supply-chain risk through attacker-controlled metadata and outputs. We introduce A2M (Attraction-to-Manipulation), a two-stage black-box framework for hijacking MCP agents. The Attraction phase optimizes tool metadata to increase invocation probability; the Manipulation phase uses execution traces to refine adversarial tool returns that steer agents toward attacker-desired outcomes. On LiveMCPBench, direct attacks optimized and evaluated on GLM-4.6 achieve a...",
+  "tags": [
+    "arxiv",
+    "cs.CR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.26761v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-22",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CR.",
+      "href": "https://arxiv.org/abs/2609.26761v1"
+    }
+  ],
+  "authors": [
+    "Laizhen Li",
+    "Xuan Wang",
+    "Peicheng Zhao",
+    "Juanjuan Zhao",
+    "Kejiang Ye",
+    "Cheng-zhong Xu",
+    "Xitong Gao"
+  ],
+  "paperId": "2609.26761",
+  "category": "cs.CR",
+  "publishedAt": "2026-09-22",
+  "abstract": "Agents using the Model Context Protocol (MCP) rely on semantic matching to select tools from third-party servers, exposing a semantic supply-chain risk through attacker-controlled metadata and outputs. We introduce A2M (Attraction-to-Manipulation), a two-stage black-box framework for hijacking MCP agents. The Attraction phase optimizes tool metadata to increase invocation probability; the Manipulation phase uses execution traces to refine adversarial tool returns that steer agents toward attacker-desired outcomes. On LiveMCPBench, direct attacks optimized and evaluated on GLM-4.6 achieve a..."
+}

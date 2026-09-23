@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-23766v1",
+  "name": "TriFleetRCA: On-Premise LLM Root Cause Analysis for Kubernetes",
+  "summary": "arXiv:2609.23766v1 Announce Type: cross Abstract: Root cause analysis at a remote site is slow: evidence is scattered across pod logs, Kubernetes events and cluster-level objects, and many operator...",
+  "description": "arXiv:2609.23766v1 Announce Type: cross Abstract: Root cause analysis at a remote site is slow: evidence is scattered across pod logs, Kubernetes events and cluster-level objects, and many operators cannot send production logs to a hosted model at all. On-premise inference removes the second constraint but raises a question live-cluster benchmarks have not addressed: when one workstation GPU fi...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.23766"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-23",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.23766"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-23",
+  "expiryAt": "2026-10-23T00:00:00.000Z",
+  "author": "Rohit Patel, Susil Kumar Mohanty, Jeenal Chaudhary"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2505.09716v4",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2505.09716v4",
+    "title": "Disassociating performance from compositional feature learning",
+    "link": "https://arxiv.org/abs/2505.09716",
+    "description": "arXiv:2505.09716v4 Announce Type: replace-cross Abstract: Out-of-distribution (OOD) generalisation through composition requires a system to discover invariant properties from input-output associations and transfer them to novel inputs and unseen tasks. We argue that confirming compositional learning requires more than OOD evaluation alone: one must also verify that the learned features are genuinely compositional and that the system encodes their compositional rules. We demonstrate this through two tasks with clearly defined OOD metrics, generated via composable high-level abstractions, on which three standard architectures (MLP, CNN, Transformer) and an object-centric, slot-based architecture fail to generalise OOD. We pair these tasks with two novel attention-based architectures featuring an interpretable final hidden layer designed to expose whether compositional representations emerge. One architecture carries an engineered inductive bias that enables near-perfect OOD performance on one task. Our results show that even with appropriate biases and near-perfect OOD accuracy, a model can fail to learn the compositional feature structures necessary for systematic generalisation. The interpretable layer reveals that successful OOD performance is driven by task-specific biases rather than the discovery of reusable compositional primitives. These findings indicate that OOD benchmarks alone are insufficient for evaluating compositionality in neural networks.",
+    "publishedAt": "2026-09-23",
+    "author": "George Dimitriadis, Spyridon Samothrakis",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

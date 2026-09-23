@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.23260v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.23260v1",
+    "title": "Why Ghost Outputs Teach: A Kernel-Based Understanding of Subliminal Learning",
+    "link": "https://arxiv.org/abs/2609.23260",
+    "description": "arXiv:2609.23260v1 Announce Type: cross Abstract: Subliminal Learning (SL) is a recently identified phenomenon in which a student model acquires downstream task capabilities by matching seemingly unrelated auxiliary outputs from a teacher, despite never observing task labels, task-specific outputs, or the original training data. While recent studies have identified where subliminal signals may reside, the optimization mechanism underlying this phenomenon remains poorly understood. In this work, we provide a mechanistic understanding of SL through the lens of learning dynamics. Specifically, we derive a chained cross-task kernel that explicitly links ghost-output supervision to changes in task predictions through shared backbone representations. Our unified analytical framework provides a rigorous mathematical explanation for three central empirical puzzles in SL: (i) under shared initialization, the transfer operator forms a strictly Positive Semi-Definite (PSD) structure, guaranteeing that ghost-output optimization aligns the student with the teacher's true task objective without explicit label exposure; (ii) the ghost-output dimensionality acts as an explicit rank bottleneck governing the transfer of task-relevant features; and (iii) synthetic, high-entropy inputs function as broadband probes that maximize cross-task kernel overlap, explaining why random noise consistently outperforms structured data for subliminal transfer. Experiments on the canonical ghost-output setting validate all three theoretical predictions, providing the first learning-dynamics-based theoretical explanation of how ghost-output supervision gives rise to subliminal learning.",
+    "publishedAt": "2026-09-23",
+    "author": "Zhe Li, Bicheng Ying, Chaosheng Dong, Haibo Yang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.13286v2",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.13286v2",
+    "title": "English is Not All You Need: Systematically Exploring the Role of Multilinguality in LLM Post-Training",
+    "link": "https://arxiv.org/abs/2604.13286",
+    "description": "arXiv:2604.13286v2 Announce Type: replace-cross Abstract: Despite the widespread multilingual deployment of large language models, post-training pipelines remain predominantly English-centric, contributing to performance disparities across languages. We present a systematic, controlled study of the interplay between training language coverage, model scale, and task domain, based on 220 supervised fine-tuning runs on parallel translated multilingual data mixtures spanning mathematical reasoning and API calling tasks, with models up to 8B parameters. We find that English-only post-training is typically suboptimal: incorporating even a single non-English language improves both English performance and cross-lingual generalization. Increasing language diversity during post-training generally yields further gains, particularly for low-resource languages, while performance on high-resource languages tends to plateau rather than degrade. Moreover, greater language diversity enables strong zero-shot transfer to unseen languages, reducing the need for direct inclusion, though gains remain limited for typologically distant, low-resource languages.",
+    "publishedAt": "2026-09-23",
+    "author": "Mehak Dhaliwal, Shashwat Chaurasia, Yao Qin, Dezhi Hong, Thomas Butler",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

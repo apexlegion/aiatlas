@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2609-26704",
+  "name": "Beyond Repeated Sampling: Learning Search Policies for LLM Reasoning",
+  "summary": "Large language models increasingly tackle hard reasoning problems by spending more test-time compute, yet the dominant strategy remains naive repeated sampling: draw many independent solutions and...",
+  "description": "Large language models increasingly tackle hard reasoning problems by spending more test-time compute, yet the dominant strategy remains naive repeated sampling: draw many independent solutions and hope one is correct. Because such sampling explores only through local decoding noise, it tends to produce many near duplicate attempts rather than genuinely different ideas. We ask whether exploration can instead be steered at a semantic level, by first sampling problem specific concepts, hints, or strategies and then conditioning answer generation on them. We refine this into a simple, more expl...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.26704v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-22",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2609.26704v1"
+    }
+  ],
+  "authors": [
+    "Ismail Labiad",
+    "Matthieu Kowalski",
+    "Marc Schoenauer",
+    "Rémi Munos",
+    "Julia Kempe"
+  ],
+  "paperId": "2609.26704",
+  "category": "cs.CL",
+  "publishedAt": "2026-09-22",
+  "abstract": "Large language models increasingly tackle hard reasoning problems by spending more test-time compute, yet the dominant strategy remains naive repeated sampling: draw many independent solutions and hope one is correct. Because such sampling explores only through local decoding noise, it tends to produce many near duplicate attempts rather than genuinely different ideas. We ask whether exploration can instead be steered at a semantic level, by first sampling problem specific concepts, hints, or strategies and then conditioning answer generation on them. We refine this into a simple, more expl..."
+}

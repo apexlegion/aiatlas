@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-22237v1",
+  "name": "Not All Ranks Are Equal: Budget-Aware LoRA Merging Across Tasks",
+  "summary": "arXiv:2609.22237v1 Announce Type: cross Abstract: Merging low-rank adapters (LoRAs) promises to eliminate the overhead of swapping task-specific weights at inference time. However, existing merging...",
+  "description": "arXiv:2609.22237v1 Announce Type: cross Abstract: Merging low-rank adapters (LoRAs) promises to eliminate the overhead of swapping task-specific weights at inference time. However, existing merging methods assume every layer needs the same rank budget. Further, some methods assume that rank budget needs to be split equally among the tasks too. We show this uniform-budget assumption is a major s...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.22237"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-23",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.22237"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-23",
+  "expiryAt": "2026-10-23T00:00:00.000Z",
+  "author": "Avinash Amballa, Yashas Malur Saidutta, Wenbo Li, Lazar Valkov, Srinivas Chappidi"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.02346v2",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.02346v2",
+    "title": "APIOT: Autonomous Vulnerability Management Across Bare-Metal Industrial OT Networks",
+    "link": "https://arxiv.org/abs/2605.02346",
+    "description": "arXiv:2605.02346v2 Announce Type: replace-cross Abstract: Operational technology (OT) devices run safety-critical physical processes, yet their security testing remains manual and expert-intensive. Autonomous security agents could ease this burden, but bare-metal OT devices are difficult targets because they lack shells, filesystems, and named exploit abstractions, requiring operation through protocol fields and observable device state. We present APIOT (Autonomous Purple-teaming for Industrial OT), a large language model (LLM) agent framework that completes a discovery -&gt; exploitation -&gt; network-level mitigation -&gt; verification workflow without human intervention. We evaluate APIOT in 360 runs on vulnerable firmware and simulators for Zephyr RTOS, spanning five LLMs, three topologies, two impairment levels, and prompt, tooling and two ablations. APIOT completed 90% of primary missions (63/70 across protocols and topologies) and 85% of 150 cross-model runs (128/150) - feasible across models, with substantial variation. Named exploit tools (e.g., a canned CoAP option-overflow) were faster, but protocol primitives (the agent builds the fields itself) produced more reusable mitigations that blocked unseen payload variants. Runtime oversight improved reliability: success rose from 27/30 to 29/30 with rule-based guards and 30/30 when a second LLM added advisory steering. To our knowledge, this is the first end-to-end autonomous attack-remediation demonstration on bare-metal industrial devices, establishing controlled feasibility - not zero-day discovery or production-OT transfer.",
+    "publishedAt": "2026-09-23",
+    "author": "Adel ElZemity, Budi Arief, Shujun Li, George Oikonomou, James Pope",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

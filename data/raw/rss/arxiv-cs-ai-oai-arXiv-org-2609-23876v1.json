@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.23876v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.23876v1",
+    "title": "GLR-MM: Graph-Based Global-Local Reconstruction for Robust Multimodal Chest X-ray and EHR Representation Learning under Missing Modalities",
+    "link": "https://arxiv.org/abs/2609.23876",
+    "description": "arXiv:2609.23876v1 Announce Type: cross Abstract: Clinical multimodal models must often predict before all chest X-ray (CXR) and electronic health record (EHR) inputs are available. Existing approaches align observed representations, model missingness, or reconstruct across modalities, but do not jointly exploit within-patient and clinically similar inter-patient evidence. We propose GLR-MM, a Graph-Based Global-Local Reconstruction framework for early ICU mortality prediction. It maps five CXR-EHR modalities to a shared space, reconstructs missing embeddings through complementary local cross-modal and global graph-attention branches, adaptively fuses their estimates, and optimizes class-balanced prediction, reconstruction, and contrastive objectives. On 9,620 MIMIC-derived ICU stays, we evaluate 10%, 30%, and 50% random modality missingness with shared deterministic masks. MUSE performs better under mild and moderate missingness, whereas GLR-MM achieves higher AUROC and AUPRC at 50% by 0.0088 and 0.0249, respectively. These results indicate that graph-guided reconstruction is most useful when inputs are severely incomplete.",
+    "publishedAt": "2026-09-23",
+    "author": "Surbhi Sharma, Nikhil Manali, Devesh Maheshwari",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

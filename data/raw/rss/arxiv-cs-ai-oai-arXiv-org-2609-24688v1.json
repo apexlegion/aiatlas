@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.24688v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.24688v1",
+    "title": "Understanding Hyperspherical Geometry of ECAPA-TDNN Embedding and Its Impact on Zero-Shot Voice Conversion",
+    "link": "https://arxiv.org/abs/2609.24688",
+    "description": "arXiv:2609.24688v1 Announce Type: cross Abstract: Angular-margin speaker encoders are widely used in voice conversion, yet the geometry of their classifier prototypes remains poorly understood. We analyze ECAPA-TDNN classifier prototypes as points on the unit hypersphere and characterize their organization using rotation-invariant angular statistics together with global and local effective dimensionality measures. Our analysis shows that standard training can induce angular concentration and a substantial reduction in effective dimensionality. To address this, we investigate two geometric regularization strategies (hinged Riesz log-energy and effective-dimension maximization) applied to classifier prototypes to encourage more uniform hyperspherical coverage. The resulting prototype sets exhibit higher effective dimensionality and improved isotropy, with configuration-dependent effects on speaker-recognition performance. When the corresponding ECAPA-TDNN models are used as speaker encoders for Fast-VGAN, the regularized systems also exhibit improved robustness in zero-shot voice conversion, particularly for previously unseen speakers.",
+    "publishedAt": "2026-09-23",
+    "author": "Mathilde Abrassart, Nicolas Obin, Axel Roebel",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.18094v2",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.18094v2",
+    "title": "Agora: Git as Shared Memory for Collective AutoResearch",
+    "link": "https://arxiv.org/abs/2609.18094",
+    "description": "arXiv:2609.18094v2 Announce Type: replace-cross Abstract: Research agents working in separate sessions need to know what others have tried and which results they can build on. Agora stores their contributions as an append-only directed acyclic graph (DAG) in Git. Each commit records a result, insight, hypothesis, verification, or report and links it to prior work. Searchable views show leading results, neglected branches, and verification status; diversity-aware recommendations suggest experiments beyond the current leaders. We report a run of nearly 12 days in which 13 language-model workers, with no assigned tasks or central planner, used Agora to solve a weight-transfer problem. Given 141 pretrained donor models and a frozen 119.6M-parameter attention-SSM hybrid whose dimensions match no donor, the workers had to initialize the target without training data or gradient updates. They published 1,703 contributions and reduced the development evaluator score from 3.39 to 1.899 bits per byte, closing 62% of the gap to a trained GPT-2 124M. The best method compresses donor next-token statistics into the target's embedding and output head, then adds short-range context through sparse edits to attention, feed-forward, and state-space blocks. Its 145-commit ancestry spans 15 accounts. Participants also posted 165 independent reproductions across 95 targets, with no reported failures. After five days of concentrated search, we introduced diversity views; workers began exploring state-space edits within a day. The run documents how agents reused and verified shared work. Measuring the effect on discovery per unit of compute requires a matched comparison.",
+    "publishedAt": "2026-09-23",
+    "author": "Yifan Zhang, Yunheng Zou, Shaokun Zhang, Jian Hu, Hao Zhang, Binfeng Xu, Jan Kautz, Yi Dong",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2412.07813v5",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2412.07813v5",
+    "title": "How Can Incentives and Cut Layer Selection Influence Data Contribution in Split Federated Learning?",
+    "link": "https://arxiv.org/abs/2412.07813",
+    "description": "arXiv:2412.07813v5 Announce Type: replace-cross Abstract: To alleviate the training burden in federated learning while enhancing convergence speed, Split Federated Learning (SFL) has emerged as a promising approach by combining the advantages of federated and split learning. However, despite its advantages, existing SFL studies have largely overlooked the strategic interactions among self-interested participants during the SFL process. In this framework, the SFL model owner can choose the cut layer to balance the training load between the server and clients, ensuring the necessary level of privacy for the clients. Additionally, the SFL model owner sets incentives to encourage client participation in the SFL process. The optimization strategies employed by the SFL model owner influence clients' decisions regarding the amount of data they contribute, taking into account the shared incentives over clients and anticipated energy consumption from both computation and networking during SFL. To address this framework, we model the problem using a hierarchical decision-making approach, formulated as a single-leader multi-follower Stackelberg game. We demonstrate the existence and uniqueness of the Nash equilibrium among clients and analyze the Stackelberg equilibrium by examining the leader's game. Furthermore, we discuss privacy concerns related to differential privacy and the criteria for selecting the minimum required cut layer. Our findings show that the Stackelberg equilibrium solution maximizes the utility for both the clients and the SFL model owner while achieving a well-balanced trade-off between model accuracy and the associated computing and networking overhead during the SFL process.",
+    "publishedAt": "2026-09-23",
+    "author": "Joohyung Lee, Jungchan Cho, Wonjun Lee, Mohamed Seif, H. Vincent Poor",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

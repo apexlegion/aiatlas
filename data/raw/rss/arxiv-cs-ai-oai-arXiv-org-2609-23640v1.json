@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.23640v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.23640v1",
+    "title": "Are Human-Aligned Models Models of Humans? A Turing-Test Gap in Preference Alignment",
+    "link": "https://arxiv.org/abs/2609.23640",
+    "description": "arXiv:2609.23640v1 Announce Type: new Abstract: Human-feedback alignment has made language models useful assistants and is commonly described as aligning them with humans. However, the responses people prefer from an AI need not be the responses they themselves would give. We distinguish alignment with human preferences from alignment with human behavior, and show that alignment with human preferences can make model behavior less human-like even when both preferences and responses come entirely from humans. We call this the Turing-test gap. We show that preference alignment preserves the human response distribution only under a restrictive condition, and find no consistent evidence that real human preferences satisfy it. Empirically, the loss of human-response likelihood increases with the strength of preference weighting, regardless of its direction, and the gap also appears under standard DPO. These results establish human-likeness as an explicit dimension of alignment rather than something assumed to follow from preference alignment.",
+    "publishedAt": "2026-09-23",
+    "author": "Suqin Yuan, Runqi Lin, Muyang Li, Guanzhe Hong, Jindong Gu, Lei Feng, Chris Russell, Tongliang Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

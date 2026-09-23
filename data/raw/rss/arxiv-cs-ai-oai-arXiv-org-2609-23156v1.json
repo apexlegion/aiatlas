@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.23156v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.23156v1",
+    "title": "EquiSELD: Efficient training of equivariant sound event localization and detection networks",
+    "link": "https://arxiv.org/abs/2609.23156",
+    "description": "arXiv:2609.23156v1 Announce Type: cross Abstract: First-order Ambisonics (FOA) signals exhibit exact O(3) symmetry: The rotation or reflection of the FOA signal modifies the direction of arrival of the sound sources, while preserving the sound sources themselves. Prior attempts to utilize this spatial symmetry of FOA to improve the efficiency and robustness of sound event detection and localization (SELD) systems either learned only an approximation of the symmetry through rotation-based augmentation or relied on computationally expensive methods to integrate equivariance. Furthermore, prior work focused exclusively on SO(3) equivariance , leaving the potential of incorporating O(3) equivariance for SELD tasks unclear. To address these limitations, we developed EquiSELD. This equivariant attention network processes first-order Ambisonics as paired streams of O(3)-invariant scalars and equivariant intensity vectors, producing an invariant activity magnitude and an equivariant DOA with a Multi-ACCDOA readout. To compare the impact of O(3) versus SO(3)-equivariance, we designed a matched SO(3)-only variant. EquiSELD outperforms prior equivariant networks on both simulated scenes with measured RIRs and recordings of real-world sound scenes at a fraction of the training cost. EquiSELD additionally surpasses the performance of non-equivariant SELD networks of a similar size on the simulated real-world sound scenes and achieves competitive performance on the real-world sound scenes.",
+    "publishedAt": "2026-09-23",
+    "author": "Goksenin Yuksel, Marcel van Gerven, Kiki van der Heijden",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

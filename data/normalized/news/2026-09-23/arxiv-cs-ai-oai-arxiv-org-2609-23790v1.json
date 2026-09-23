@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-23790v1",
+  "name": "Total Cost of Agency: Exact Attribution of Memory Injection Cost in Multi-Agent LLM Workflows",
+  "summary": "arXiv:2609.23790v1 Announce Type: new Abstract: Every node in a multi-agent large language model (LLM) workflow retrieves context from memory and injects it into its prompt, where those injected to...",
+  "description": "arXiv:2609.23790v1 Announce Type: new Abstract: Every node in a multi-agent large language model (LLM) workflow retrieves context from memory and injects it into its prompt, where those injected tokens are billed as input tokens at the same per-token price as the system prompt and the user query. Production observability tools report total token cost but do not separate the tokens a node genera...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.23790"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-23",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.23790"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-23",
+  "expiryAt": "2026-10-23T00:00:00.000Z",
+  "author": "Vivek Kumar Singh, Preeti Priyam, Gautam Bhowmick"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.17036v4",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.17036v4",
+    "title": "Reliability and Effectiveness of Autonomous AI Agents in Supply Chain Management",
+    "link": "https://arxiv.org/abs/2605.17036",
+    "description": "arXiv:2605.17036v4 Announce Type: replace Abstract: This paper studies the performance and reliability of autonomous generative AI agents in multi-echelon supply chains using the MIT Beer Game. We examine how model choice, operational guardrails, centralized data sharing, and prompt design affect system performance. In our best-performing configuration, GenAI agents reduce total supply-chain costs by up to 80% relative to human teams. Despite strong average performance, autonomous agents can exhibit substantial run-to-run instability, generating volatile procurement decisions and large tail costs. We characterize this phenomenon as agent bullwhip, the amplification of decision instability in autonomous multi-agent systems. We show that this instability can propagate across echelons and compound over time, even when the underlying demand path is held fixed. We then evaluate two approaches for improving reliability: reinforcement-learning post-training and operational guardrails. Both reduce tail events and mitigate agent bullwhip, but they operate through different mechanisms and require different levels of information and model access. Reinforcement-learning post-training delivers the largest gains in reliability and system performance when system-level feedback is available, while guardrails provide a simple training-free alternative for constraining extreme decisions.",
+    "publishedAt": "2026-09-23",
+    "author": "Carol Xuan Long, David Simchi-Levi, Feng Zhu, Huangyuan Su, Andre P. Calmon, Flavio P. Calmon",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

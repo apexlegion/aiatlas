@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2609-26760",
+  "name": "Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents",
+  "summary": "Large language model (LLM) agents often handle streams of related tasks, yet standard harnesses repeatedly ask the model to reconstruct the same control decisions inside each task's context. We stu...",
+  "description": "Large language model (LLM) agents often handle streams of related tasks, yet standard harnesses repeatedly ask the model to reconstruct the same control decisions inside each task's context. We study whether task feedback can instead turn recurring control into reusable executable code, while reserving LLM calls for task-specific semantic reasoning. We introduce Growing Harness, a failure-guided training paradigm that learns the agent harness itself from a strategy-free scaffold that exposes fixed model and tool interfaces but encodes no task-solving controller. Function-level execution tra...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.26760v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-22",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.26760v1"
+    }
+  ],
+  "authors": [
+    "Laizhen Li",
+    "Jiarui Li",
+    "Juanjuan Zhao",
+    "Kejiang Ye",
+    "Ye Li",
+    "Cheng-zhong Xu",
+    "Xitong Gao"
+  ],
+  "paperId": "2609.26760",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-22",
+  "abstract": "Large language model (LLM) agents often handle streams of related tasks, yet standard harnesses repeatedly ask the model to reconstruct the same control decisions inside each task's context. We study whether task feedback can instead turn recurring control into reusable executable code, while reserving LLM calls for task-specific semantic reasoning. We introduce Growing Harness, a failure-guided training paradigm that learns the agent harness itself from a strategy-free scaffold that exposes fixed model and tool interfaces but encodes no task-solving controller. Function-level execution tra..."
+}

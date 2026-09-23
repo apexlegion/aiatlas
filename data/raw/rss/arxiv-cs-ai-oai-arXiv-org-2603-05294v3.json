@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.05294v3",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.05294v3",
+    "title": "STRUCTUREDAGENT: Planning with AND/OR Trees for Long-Horizon Web Tasks",
+    "link": "https://arxiv.org/abs/2603.05294",
+    "description": "arXiv:2603.05294v3 Announce Type: replace Abstract: Existing LLM-based web agents struggle on complex, long-horizon tasks due to limited in-context memory, weak planning abilities, and greedy behaviors that lead to premature termination. To address these challenges, we propose \\SA{}, a hierarchical planning framework that interleaves planning and execution via dynamic $\\ANDOR$ trees. The framework separates structural planning from LLM-based reasoning, enabling principled error recovery through node repair, systematic exploration of alternatives via OR nodes, and modular plans that can facilitate human intervention. On WebArena (630 tasks), \\SA{} achieves a $\\sim$53\\% success rate vs.\\ $\\sim$46\\% for AgentOccam, and on complex multi-constraint Amazon shopping tasks, gains reach 10\\% over the strongest baseline.",
+    "publishedAt": "2026-09-23",
+    "author": "ELita Lobo, Xu Chen, Jingjing Meng, Nan Xi, Yang Jiao, Chirag Agarwal, Yair Zick, Yan Gao",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2509.26200v2",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2509.26200v2",
+    "title": "Toward an Unbiased Collective Memory for Efficient LLM-Based Agentic 6G Cross-Domain Management",
+    "link": "https://arxiv.org/abs/2509.26200",
+    "description": "arXiv:2509.26200v2 Announce Type: replace-cross Abstract: Agentic artificial intelligence is a candidate enabler of Level-4 autonomy in sixth-generation (6G) networks, but agents reasoning over a shared memory inherit its distortions. We study cross-domain radio access network (RAN)--edge orchestration in which a RAN agent minimizing energy and an edge agent minimizing latency negotiate, validate proposals against a digital twin (DT), and share a collective memory. Such a memory is a sampling device: what agents retrieve, not what they store, determines what they do. We define the Retrieval Bias Index, a divergence between the induced retrieval law and a representative reference, decomposed along temporal, confirmation and availability axes, and show that additive retrieval scoring is an exponential tilt of the undebiased law, yielding a closed form for the failure-amplification weight and a saturation floor set by the store's own composition; a further result bounds excess service level agreement (SLA) violation additively in retrieval bias and DT mismatch. On a tandem queue for which stochastic network calculus supplies a feasible region, an oracle and a Nash bargaining reference, the operator attains a $12.7\\times$ bias reduction over a recency store and the smallest distance to the bargaining solution among six memory architectures.",
+    "publishedAt": "2026-09-23",
+    "author": "Hatim Chergui, Farhad Rezazadeh, Miguel Catalan Cid, Pouria Sayyad Khodashenas, Daniel Camps Mur, Christos Verikoukis",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

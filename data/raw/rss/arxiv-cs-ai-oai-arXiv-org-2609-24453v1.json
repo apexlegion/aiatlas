@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.24453v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.24453v1",
+    "title": "Predicting Postprandial Glycemic Response from Meal Images, Clinical Variables, and Gut Microbiome Information",
+    "link": "https://arxiv.org/abs/2609.24453",
+    "description": "arXiv:2609.24453v1 Announce Type: new Abstract: Predicting postprandial glycemic response (PPGR) is fundamental to personalized nutrition and type 2 diabetes management, yet existing approaches typically rely on manually reported dietary intake, limiting their scalability in free-living settings. We propose a multimodal framework that replaces manual dietary logging with image-derived macronutrient estimates and integrates them with clinical variables and gut microbiome information for personalized PPGR prediction. The framework jointly performs image-based macronutrient estimation and glucose prediction, while an attention-based prediction module models interactions between dietary and host-specific information. We evaluate the proposed approach on a real-world dataset comprising meal images, continuous glucose monitoring, clinical variables, and gut microbiome profiles. The proposed model outperforms existing PPGR baselines using image-derived nutritional inputs and approaches the performance of methods that rely on manually reported macronutrients despite using automatically estimated nutritional information. These results demonstrate that combining image-derived nutrition with complementary clinical and gut microbiome information provides a practical foundation for scalable personalized PPGR prediction.",
+    "publishedAt": "2026-09-23",
+    "author": "Varvara Kondratyeva, Kamilia Zaripova, Nassir Navab, Azade Farshad",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

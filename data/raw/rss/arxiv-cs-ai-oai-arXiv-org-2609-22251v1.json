@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.22251v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.22251v1",
+    "title": "Predictors and Orchestrators: Parsimonious Machine Learning within an Agentic AI Harness for Multi-Horizon Karst Aquifer Forecasting",
+    "link": "https://arxiv.org/abs/2609.22251",
+    "description": "arXiv:2609.22251v1 Announce Type: cross Abstract: Forecasting karst aquifer dynamics is difficult because recharge responses are nonlinear, event-driven, and governed by strongly heterogeneous flow paths. This study develops and evaluates a deployment-aware framework for 1-12-week-ahead prediction of spring discharge and groundwater level using approximately 79 years of hydroclimatic observations from the Edwards Aquifer, Texas. Five model families were compared under a common temporal evaluation design: extreme gradient boosting, extremely randomized trees, long short-term memory, convolutional neural networks, and Transformers. Predictions were evaluated using coefficient of determination, Kling-Gupta efficiency, root-mean-square error, and agreement with operational drought thresholds. Extreme gradient boosting was consistently most reliable, with R2 at least 0.97, 0.96, and 0.94 across 1-4-, 5-8-, and 9-12-week horizons, respectively, and greater than 90% critical-stage agreement at the first three drought stages across all horizons. Deep models were competitive at short horizons but degraded progressively and exhibited isolated failures at longer lead times. We attribute this contrast to an alignment between tree partitioning and low-dimensional, axis-aligned hydroclimatic predictors, together with the tendency of neural models to smooth irregular extremes. The validated models were embedded in a five-agent operational architecture that automates data acquisition, model assignment, deterministic prediction, threshold monitoring, prospective verification, literature retrieval, and reporting. The contribution is therefore a transferable framework joining parsimonious model selection, leakage-aware multi-horizon evaluation, decision-relevant threshold skill, and auditable agentic automation.",
+    "publishedAt": "2026-09-23",
+    "author": "Pramod Lekhak, Chetan Sharma, Hakan Ba\\c{s}a\\u{g}ao\\u{g}lu, F. Paul Bertetti, Debaditya Chakraborty",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

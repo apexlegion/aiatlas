@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.23774v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.23774v1",
+    "title": "On Probabilistic Inference Through Parametric Tensor Decomposition in Base Tensor Networks",
+    "link": "https://arxiv.org/abs/2609.23774",
+    "description": "arXiv:2609.23774v1 Announce Type: new Abstract: Probabilistic inference is generally only tractable in low-treewidth graphical models, limiting its effective applicability in high-treewidth settings. Many existing methods improve efficiency by exploiting specific parametric structure, such as symmetries. However, they typically require such structure to be explicitly present, limiting their applicability to a broader range of graphical models. To address this limitation, we propose a framework where tractable inference is controlled by latent parametric structure exploitation, rather than requiring it to be explicitly present a priori. Our approach first reparameterises a graphical model as a specific tensor network representation, which we call a base tensor network. This representation yields two key properties that allow inference tractability to be controlled by parametric structure: 1) First, the complexity of inference is mainly determined by the parametric structure of a single tensor, called the base tensor. We characterise several tractable classes of base tensors for which the entire base tensor network can be contracted efficiently. 2) Second, decomposing the base tensor yields again a collection of base tensor networks. This allows inference to be naturally reduced to decomposing the base tensor into tractable components with sufficient parametric structure. We call this procedure parametric tensor decomposition. By exploiting parametric structure within the base tensor, our framework enables a novel view on inference beyond settings where such structure is explicitly present.",
+    "publishedAt": "2026-09-23",
+    "author": "Sagad Hamid, Tanya Braun",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

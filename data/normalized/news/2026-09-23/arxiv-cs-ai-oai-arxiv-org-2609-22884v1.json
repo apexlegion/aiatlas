@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-22884v1",
+  "name": "Block-Sparse Attention with Semantic-Geometric Decoupled Routing",
+  "summary": "arXiv:2609.22884v1 Announce Type: cross Abstract: Long-context inference has become a defining capability of large language models, but exact dense attention remains costly due to its quadratic sca...",
+  "description": "arXiv:2609.22884v1 Announce Type: cross Abstract: Long-context inference has become a defining capability of large language models, but exact dense attention remains costly due to its quadratic scaling with sequence length. Block-sparse attention offers a hardware-friendly alternative by routing each query block to a small set of relevant key blocks, yet accurate training-free block routing rem...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.22884"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-23",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.22884"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-23",
+  "expiryAt": "2026-10-23T00:00:00.000Z",
+  "author": "Xinwei Long, Weigao Sun, Weibo Gao, Pengkun Jiao, Biqing Qi, Feida Zhu, Yiran Zhong, Steven Hoi, Bowen Zhou"
+}

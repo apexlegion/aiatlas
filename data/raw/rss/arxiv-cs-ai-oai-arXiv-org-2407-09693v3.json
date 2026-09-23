@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2407.09693v3",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2407.09693v3",
+    "title": "A Mathematical Framework and a Suite of Learning Techniques for Neural-Symbolic Systems",
+    "link": "https://arxiv.org/abs/2407.09693",
+    "description": "arXiv:2407.09693v3 Announce Type: replace-cross Abstract: The field of Neural-Symbolic (NeSy) systems is growing rapidly. Proposed approaches show great promise in achieving symbiotic unions of neural and symbolic methods. However, a unifying framework is needed to organize common NeSy modeling patterns and develop general learning approaches. In this paper, we introduce Neural-Symbolic Energy-Based Models (NeSy-EBMs), a unifying mathematical framework for discriminative and generative NeSy modeling. Importantly, NeSy-EBMs allow the derivation of general expressions for gradients of prominent learning losses, and we introduce a suite of four learning approaches that leverage methods from multiple domains, including bilevel and stochastic policy optimization. Finally, we ground the NeSy-EBM framework with Neural Probabilistic Soft Logic (NeuPSL), an open-source NeSy-EBM library designed for scalability and expressivity, facilitating the real-world application of NeSy systems. Through extensive empirical analysis across multiple datasets, we study NeSy-EBMs as instantiated through NeuPSL in tasks including image classification, graph node labeling, autonomous vehicle situation awareness, and question answering. The results provide evidence for the practical utility of this instantiation in the studied settings.",
+    "publishedAt": "2026-09-23",
+    "author": "Charles Dickens, Connor Pryor, Changyu Gao, Alon Albalak, Eriq Augustine, William Wang, Stephen Wright, Lise Getoor",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

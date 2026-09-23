@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.26446v3",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.26446v3",
+    "title": "DDGAD: Disagreement-Driven Graph Anomaly Detection via Adapt-Then-Combine",
+    "link": "https://arxiv.org/abs/2605.26446",
+    "description": "arXiv:2605.26446v3 Announce Type: replace-cross Abstract: Graph anomaly detection (GAD) commonly relies on message passing to jointly encode node attributes and neighborhood context. However, once the two are mixed, an abnormal post-encoding state may reflect either an intrinsic node deviation or incompatible contextual influence, making its source ambiguous. We propose Disagreement-Driven Graph Anomaly Detection (DDGAD), which treats persistent incompatibility between node-wise and contextual estimates as anomaly evidence. Inspired by Adapt-Then-Combine (ATC), DDGAD reverses its consensus objective: Adapt produces a node-wise estimate without new same-step neighbor aggregation, while Combine forms a neighborhood-dependent contextual estimate, and their pre-consensus disagreement is accumulated across ATC steps for detection. We further characterize this signal from graph-spectral and source-response perspectives and derive sufficient conditions for anomaly--normal separation under contextual mixing. Experiments on six benchmarks show the highest average AUROC among the evaluated methods, while controlled interventions and Adapt-operator controls further support persistent disagreement as an effective detection signal.",
+    "publishedAt": "2026-09-23",
+    "author": "Yuxin Yang, Limei Hu, Feng Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

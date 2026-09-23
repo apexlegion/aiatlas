@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.24241v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.24241v1",
+    "title": "Hessian Rank Constraint for Learning Structure of Nonlinear Latent Variable Models",
+    "link": "https://arxiv.org/abs/2609.24241",
+    "description": "arXiv:2609.24241v1 Announce Type: cross Abstract: Uncovering latent variables and their causal relations from observed data is a fundamental yet challenging problem. Existing methods often rely on restrictive assumptions, such as linear relations or invertible mixing functions. To better address this problem under general nonlinear mixing procedures, we propose a condition called the cross-Hessian Rank Constraint (HRC), which serves as a primitive rank-based tool for nonlinear latent causal discovery. In particular, we show that a rank-based property arises from the cross-Hessian of the observed-data log-density in the nonlinear case, revealing information about the latent variables, and reduces to the Tetrad constraints in the linear Gaussian case. More specifically, when two groups of observed variables are d-separated by a set of lower-dimensional latent variables, the rank of this cross-Hessian is equal to the dimension of the latent variables, under a mild affine derivative assumption on the conditional log-density derivatives. This assumption can be naturally satisfied when the noise level is low or the relevant nonlinearity is moderate. As a downstream application, we instantiate HRC in the pure one-factor measurement setting for locating latent variables and recovering their causal structure up to Markov equivalence. Experimental results on synthetic and real-world datasets support the theoretical claims.",
+    "publishedAt": "2026-09-23",
+    "author": "Zijian Li, Ruichu Cai, Feng Xie, Xinshuai Dong, Haoyue Dai, Yuewen Sun, Yujia Zheng, Guangyi Chen, Yingyao Hu, Kun Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

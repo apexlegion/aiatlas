@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.24609v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.24609v1",
+    "title": "GraphToolbox: A Configurable Python Framework for Graph Neural Network Forecasting",
+    "link": "https://arxiv.org/abs/2609.24609",
+    "description": "arXiv:2609.24609v1 Announce Type: cross Abstract: Electricity forecasting often involves spatially related signals observed over regions, substations, and feeders, and Graph Neural Networks (GNNs) provide a natural way to represent these relations. Building a complete GNN forecasting experiment is nonetheless laborious, because graph construction, model selection, training, aggregation, and interpretation sit in incompatible tools. We present GraphToolbox, an open-source Python framework that unifies these stages in one configurationdriven pipeline built on PyTorch Geometric. It offers data-driven graph construction, an adapter that instantiates and trains 51 of the 65 PyTorch Geometric convolutions together with the recurrent cells of PyTorch Geometric Temporal, online expert aggregation, forecasting interpretability, and significance testing on cached forecasts. We evaluate the pipeline in two case studies. On French regional load, the 48 convolutions included in the complete forecasting sweep fall in a band from 1.14% to 1.60% error, online aggregation lowers this to 0.98%, and the graph models improve on classical additive and boosting baselines. On net-load, direct graph models are less accurate than a classical additive model, while forecasting each physical component separately improves them without closing that gap. Both comparisons use the same experimental interface, illustrating the role of GraphToolbox in systematic architectural evaluation.",
+    "publishedAt": "2026-09-23",
+    "author": "Eloi Campagne (CB), Yvenn Amara-Ouali (LMO, CELESTE), Yannig Goude (EDF R\\&amp;D), Argyris Kalogeratos (CB, ENS Paris Saclay)",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

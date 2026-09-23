@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2609-26756",
+  "name": "FleXray: Universal Clinical X-ray Segmentation",
+  "summary": "X-ray is medicine's most widely used imaging modality, yet remains among its least quantitative. Unlike volumetric modalities like CT or MRI, X-ray collapses 3D anatomy into a 2D projection, causin...",
+  "description": "X-ray is medicine's most widely used imaging modality, yet remains among its least quantitative. Unlike volumetric modalities like CT or MRI, X-ray collapses 3D anatomy into a 2D projection, causing structures to overlap and anatomical boundaries to be ambiguous, even to experts. As a result, labeling X-ray databases for training general-purpose segmentation systems is impractical, leaving morphometric and functional X-ray analysis confined to narrow anatomical regions and applications. To this end, we present FleXray, a generalist model for anatomical segmentation across the entire body in...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.26756v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-22",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2609.26756v1"
+    }
+  ],
+  "authors": [
+    "Victor Ion Butoi",
+    "Vivek Gopalakrishnan",
+    "John V. Guttag",
+    "Adrian V. Dalca",
+    "Neel Dey"
+  ],
+  "paperId": "2609.26756",
+  "category": "cs.CV",
+  "publishedAt": "2026-09-22",
+  "abstract": "X-ray is medicine's most widely used imaging modality, yet remains among its least quantitative. Unlike volumetric modalities like CT or MRI, X-ray collapses 3D anatomy into a 2D projection, causing structures to overlap and anatomical boundaries to be ambiguous, even to experts. As a result, labeling X-ray databases for training general-purpose segmentation systems is impractical, leaving morphometric and functional X-ray analysis confined to narrow anatomical regions and applications. To this end, we present FleXray, a generalist model for anatomical segmentation across the entire body in..."
+}

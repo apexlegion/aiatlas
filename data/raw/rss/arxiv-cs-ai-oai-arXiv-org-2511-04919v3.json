@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2511.04919v3",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2511.04919v3",
+    "title": "BudgetMem: Training-Free Selective Memory for Cost-Efficient Long-Context Processing in Language Models",
+    "link": "https://arxiv.org/abs/2511.04919",
+    "description": "arXiv:2511.04919v3 Announce Type: replace-cross Abstract: Processing long documents with large language models (LLMs) is expensive: a single query over a 100K-token document can cost from tens of cents to over a dollar in API fees, depending on the model, and memory grows linearly with context length. We introduce BudgetMem, a training-free architecture that keeps only high-salience content under an explicit memory budget. Unlike token-level neural compressors such as LLMLingua, BudgetMem makes chunk-level keep-or-discard decisions from interpretable features: entity density, TF-IDF importance, position, numerical density, discourse markers, and question presence. Across four benchmarks, BudgetMem matches the uncompressed baseline on template-generated structured documents (F1 = 0.859 vs. 0.855) while discarding 70% of chunks. As a pre-retrieval filter on the same documents it outperforms LLMLingua-2 by a wide margin (0.859 vs. 0.554), because token-level compression destroys the phrasal structure that retrieval depends on; the advantage holds across model scale and family (Llama-3.2-3B, Qwen2.5-7B), under dense retrieval (0.918 vs. 0.530), and in LLMLingua-2's intended direct-feed mode (0.797 vs. 0.720). On real NLP research papers (Qasper), BudgetMem is competitive but not free, trailing the full baseline by 7.4% and LLMLingua-2 by 5.5% relative F1 at a 72% storage reduction. Removing discourse markers or numerical density hurts most, although TF-IDF alone scores as well on template documents. The pipeline needs no trained models or GPU for compression and runs on a $10/month Colab instance.",
+    "publishedAt": "2026-09-23",
+    "author": "Chandra Vamsi Krishna Alla, Harish Naidu Gaddam, Manohar Kommi, Sheikh Nazib Ahmed",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2609-26603",
+  "name": "Towards Hierarchical GNNs for multi-grid power flow: generalization across operating scenarios",
+  "summary": "Hierarchical latent communication improves the generalization of a multi-grid power-flow model to new operating scenarios. The module exchanges information through two reduced graphs within a GENCO...",
+  "description": "Hierarchical latent communication improves the generalization of a multi-grid power-flow model to new operating scenarios. The module exchanges information through two reduced graphs within a GENCO-based corrective network. We compare Kron-derived transports, a same-anchor Quotient construction and a flat backbone in preliminary trainings of 200 epochs on three grid topologies, with three initialization seeds per model. Evaluation uses 200 newly generated, preselected scenarios per grid. On the training topologies, Kron reduces the macro family-balanced voltage error from 5.660 +- 0.899 to...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.26603v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-22",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.26603v1"
+    }
+  ],
+  "authors": [
+    "Carmine Delle Femine",
+    "Leire Garin Atxaga",
+    "Asier Diaz-Iglesias",
+    "Juan Pablo Maroto Herrera",
+    "Ane Miren Florez-Tapia",
+    "Marco Quartulli. Izaro Goienetxea Urziku"
+  ],
+  "paperId": "2609.26603",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-22",
+  "abstract": "Hierarchical latent communication improves the generalization of a multi-grid power-flow model to new operating scenarios. The module exchanges information through two reduced graphs within a GENCO-based corrective network. We compare Kron-derived transports, a same-anchor Quotient construction and a flat backbone in preliminary trainings of 200 epochs on three grid topologies, with three initialization seeds per model. Evaluation uses 200 newly generated, preselected scenarios per grid. On the training topologies, Kron reduces the macro family-balanced voltage error from 5.660 +- 0.899 to..."
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.22771v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.22771v1",
+    "title": "ParA-LLM: A Unified Approach to Paralinguistic and Acoustic Speech Understanding",
+    "link": "https://arxiv.org/abs/2609.22771",
+    "description": "arXiv:2609.22771v1 Announce Type: cross Abstract: Recent advances in Audio LLMs have achieved human-level speech recognition, yet existing systems struggle to capture paralinguistic aspects such as speaker traits, expressive variations, and environmental acoustic conditions. To address this, we design a framework of 22 paralinguistic characteristics and create a dataset of over 1.2M Audio-QA pairs. We develop ParA-LLM, trained with a two-stage curriculum: first on single-attribute questions to build foundational knowledge, then on multi-attribute questions for joint reasoning over speaker and acoustic characteristics. We also release ParA-Bench, a benchmark of 6,000 multiple-choice questions across speaker-speech, acoustic, and mixed categories, where frontier models like GPT-4o-Audio achieve only 36% accuracy. ParA-LLM surpasses state-of-the-art Audio LLMs like GPT-4o-Audio by 7.5% on ParA-Bench, with additional gains of 1.13% on MMAU-Pro Speech and 7.49% on MMAR Speech.",
+    "publishedAt": "2026-09-23",
+    "author": "Nishit Anand, Jiaqi Su, Ke Chen, Yunyun Wang, Dinesh Manocha, Ramani Duraiswami, Rithesh Kumar, Zeyu Jin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.24156v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.24156v1",
+    "title": "TAC-Time: Texts as Channels For Multimodal Time Series Forecasting",
+    "link": "https://arxiv.org/abs/2609.24156",
+    "description": "arXiv:2609.24156v1 Announce Type: cross Abstract: Most existing time series forecasting methods rely solely on numerical observations, overlooking rich contextual information from auxiliary texts. Recent multimodal approaches attempt to incorporate textual signals, but they often treat text as static features or use large language models as forecasting backbones, limiting their ability to capture temporal dynamics and increasing computational cost. To address these challenges, we propose TAC-Time, a unified framework that transforms textual information into additional temporal channels. By modeling text features jointly with numerical sequences in a shared temporal backbone, TAC-Time preserves temporal continuity and periodic structures while remaining efficient and scalable. This formulation also enables systematic interpretability analyses. We show strong cross-modal dependencies through attention and frequency-domain analyses, and identify predictive textual signals whose correlation-aware alignment yields partial forecasting improvements. Extensive experiments on real-world multimodal benchmarks demonstrate that TAC-Time outperforms prior methods.",
+    "publishedAt": "2026-09-23",
+    "author": "Jiayi Liang, Xiaotian Gu, Xinyu Xie, Yuanbin Wu, Xiaoling Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

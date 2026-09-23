@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.22244v1",
+  "fetchedAt": "2026-09-23T07:39:12.094Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.22244v1",
+    "title": "Universal Observatory Graphs for Distributed Sky Coverage and Artificial Intelligence Based Interplanetary Routing",
+    "link": "https://arxiv.org/abs/2609.22244",
+    "description": "arXiv:2609.22244v1 Announce Type: cross Abstract: This research proposes the Universal Observatory Graph (UOG), an AI-driven framework for distributed astronomical observation across the Solar System. The proposed architecture models autonomous observatories located at the Sun planet L2 Lagrange points as nodes in a weighted graph, while communication links are represented as graph edges characterized by multi-objective physical and operational metrics, including interplanetary distance, communication latency, transmission power, and link reliability. The resulting graph provides a unified mathematical representation of a cooperative interplanetary observatory network. This proposal examines a six-observatory Solar System configuration comprising Earth, Mars, Jupiter, Saturn, Uranus and Neptune. Instantaneous sky coverage is evaluated independently using a 200,000 direction Fibonacci sphere, a 2,000,000 direction fixed seed Monte Carlo calculation and deterministic spherical integration. All three methods yield complete network union coverage, approximately 0.43% complete six observatory intersection and approximately 24.96% mean pairwise Jaccard similarity under the adopted pointing model. Communication routing is subsequently formulated as a finite horizon Markov decision process and solved using tabular Q-learning. The reward balances node participation and a distance dependent reliability proxy against distance, light time latency and a distance squared transmission power proxy. The learned Earth-Saturn-Uranus-Neptune route is also the highest discounted return route among all 41 feasible simple paths under the four hop constraint. The framework provides a reproducible baseline for sequential coverage assessment and multi objective routing; time dependent ephemerides, mission specific visibility, calibrated link budgets and scalable graph policies remain future work.",
+    "publishedAt": "2026-09-23",
+    "author": "Mohammed Abdel Razek",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
