@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.27333v1",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.27333v1",
+    "title": "Alignment Inertia: Auditing the Durability of Training Data Influence Through Policy Override Resistance",
+    "link": "https://arxiv.org/abs/2609.27333",
+    "description": "arXiv:2609.27333v1 Announce Type: new Abstract: Platform operators increasingly rely on system prompts and fine-tuning to govern model behavior, yet it remains unclear how reliably these interventions override behavior inherited from prior training. We propose Override Success Rate (OSR) and alignment inertia to measure when operator interventions succeed or fail to change prior behavior. We evaluate zero-shot prompting and LoRA fine-tuning across Llama and Mistral in medical misinformation and hate speech. Alignment inertia persists across both models but varies by model, domain, and policy direction. Notably, in Mistral's restrictive hate-speech condition, LoRA increased inertia by 46.5 percentage points, showing that fine-tuning can reinforce rather than override prior behavior. We also use TRAK to test whether inertia is associated with weaker adaptation signals. TRAK achieves AUC of at least 0.85 in 7 of 8 conditions and outperforms model confidence, TF-IDF similarity, and embedding similarity as a predictor of inertia. These results provide an operator-facing audit of where prior training constrains downstream model governance.",
+    "publishedAt": "2026-09-24",
+    "author": "Renata Barreto, Markelle Roesti, Mohammad Tahaei",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

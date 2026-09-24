@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.27865v1",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.27865v1",
+    "title": "What Changed? Drift Detection with Real, Virtual, and Incomparable Diagnosis",
+    "link": "https://arxiv.org/abs/2609.27865",
+    "description": "arXiv:2609.27865v1 Announce Type: cross Abstract: Sharing a deep encoder does not, by itself, fix the central confound of task-comparison scores. We show that cross-evaluated heads on a frozen shared representation inherit the extrapolation confound of shallow exchange scores: pure input rotations with fixed labels inflate a deep exchange score from about 0 to 0.80, while representation-novelty scores are blind in the complementary direction (flat under label permutations that change the task completely). Transplanting a conditional two-discriminator discrepancy into the embedding space resolves both blind spots: the functional axis stays within +-0.001 under rotations and tracks label-permutation drift mass monotonically. Built into a mixture-of-heads lifecycle, the two-axis gate attains better decision quality with fewer heads than exchange or novelty triggers at a matched training budget. On generalized category discovery, the same chunk-level functional axis separates semantic novelty from photometric shift with AUROC 0.98-0.99 where per-input OOD scores (MSP, Energy, Mahalanobis, KNN) sit near chance for that distinction. All findings replicate across frozen ImageNet-21k ViT-B/16 and self-supervised DINOv2 backbones on CIFAR-100, and extend to residual adapter pools with recurrence, where a null-calibrated novelty trigger never fires on mechanism changes while the two-axis gate handles them with full recurrence reuse. We state explicitly the common-factoring condition under which embedding-space conclusions transfer to the original mechanism.",
+    "publishedAt": "2026-09-24",
+    "author": "Kentaro Oda",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

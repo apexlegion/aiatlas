@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.27773v1",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.27773v1",
+    "title": "Beyond Unsafe Detection: Counterfactually Anchored Evidence Attribution for Multi-Turn LLM Safety Failures",
+    "link": "https://arxiv.org/abs/2609.27773",
+    "description": "arXiv:2609.27773v1 Announce Type: cross Abstract: As Large Language Models (LLMs) move from conversational assistants to advanced agentic systems, guardrail failures can convert adversarial intents into harmful executions. However, most guardrail evaluation frameworks focus only on the result and assess whether a user request is safe or unsafe. This approach is insufficient for multi-turn failures, where adversarial intent is distributed across multiple turns. This motivates us to go beyond detection to identify the turns and tokens that push the conversation toward unsafe trajectories. To support this, we construct a multi-turn dataset with behavioral validation and tiered evidence supervision. The dataset contains 1,762 conversations, including adversarial conversations, benign twins, and benign variants with high-risk vocabulary. We train a lightweight hierarchical attribution model that predicts safety violations and attributes them to contributing user turns and token spans. The model achieves strong detection performance (F1=0.988), and removing the top 15% of attributed tokens reduces the adversarial classification confidence by 51.1%. The model preserves low false positive rates on benign conversations with high-risk vocabulary, with false positives below 1% on both borderline benign and benign high-risk vocabulary conversations, compared to 37.3% and 94.7% for a keyword-based surface-risk baseline. Independent human annotation supports the model's attribution performance, with the top-five attributed turns containing a human-identified evidence-bearing turn in 84.5% of adversarial cases.",
+    "publishedAt": "2026-09-24",
+    "author": "Srinivasan Subramanian, Kazi Aminul Islam, Md. Abdullah Al Hafiz Khan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

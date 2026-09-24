@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.26820v1",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.26820v1",
+    "title": "Signal2Symbol: Neuro-Symbolic Temporal Reasoning for Explainable Physiological Time-Series Anomaly Detection",
+    "link": "https://arxiv.org/abs/2609.26820",
+    "description": "arXiv:2609.26820v1 Announce Type: cross Abstract: Physiological time series such as electrocardiograms (ECG) and electroencephalograms (EEG) exhibit complex temporal structure, substantial acquisition variability, and a strong need for transparent decision-making. Although deep models can achieve high detection performance, they often provide limited insight into why a segment is anomalous, how local anomalies relate over time, and whether a detection belongs to a broader recurring pattern. We propose Signal2Symbol, a neuro-symbolic framework for explainable biosignal anomaly detection. The method first converts ECG/EEG signals into symbolic sequences using either a learned VQ-VAE (Vector Quantized Variational Autoencoder) codebook or a SAX (Symbolic Aggregate approXimation) baseline. It then constructs bigram enriched token-window transactions and scores anomalies through rare itemset evidence derived from minimal rare itemset mining. Detected anomalous windows are merged into intervals and related using Allen interval algebra, enabling composite temporal explanations such as escalation chains, artifact overlap, and cross-channel synchrony. Finally, we introduce a rare temporal concept lattice based on Formal Concept Analysis (FCA), which groups anomalous intervals by shared rare symbolic evidence, Allen temporal relations, channel context, and robustness attributes. The resulting Galois lattice compresses many local detections into interpretable families of temporal-symbolic anomalies. We evaluate on three public benchmarks: MIT-BIH Arrhythmia (beat-level ECG), PTB-XL (record-level ECG), and the Bonn EEG dataset (segment-level EEG). We stress-test robustness under additive noise and baseline-wander perturbations. The results highlight the value of neuro-symbolic tokenization for temporal anomaly analysis and show that Allen/FCA reasoning provides compact, interpretable summaries of local detections.",
+    "publishedAt": "2026-09-24",
+    "author": "Naser Mansour, Sidahmed Benabderrahmane, Ameer Rahwan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

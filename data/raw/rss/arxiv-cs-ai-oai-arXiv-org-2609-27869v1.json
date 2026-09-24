@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.27869v1",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.27869v1",
+    "title": "Learning What to Activate: Combinatorial Capability Allocation for Long-Horizon Multimodal Agents",
+    "link": "https://arxiv.org/abs/2609.27869",
+    "description": "arXiv:2609.27869v1 Announce Type: new Abstract: Long-horizon multimodal agents rely on specialized capabilities for perception, retrieval, reasoning, verification, and execution. Existing designs typically activate a fixed capability set or invoke a predefined workflow, incurring substantial computational overhead while failing to accommodate stage-dependent capability demands. In this paper, we study the \\textit{combinatorial capability allocation} problem for long-horizon multimodal agent systems, where the system selects a cost-sensitive subset of specialized capabilities at each interaction stage, which is nontrivial since capability values depend on the selected subset, while previous allocations alter the states encountered by subsequent decisions. We introduce \\textsc{CoCA}, an on-policy learning framework that recovers a deployable capability-subset policy from sparse conditional comparisons. On states visited by the student policy, the stronger teacher compares the marginal net values of candidate capabilities, conditioned on the currently selected subset. Then, we adopt a conditional utility model to transform such comparisons into an autoregressive capability-subset policy, avoiding explicit enumeration. We further introduce dual-level on-policy distillation to address distribution mismatch both across environment states and within the partial subsets encountered during set construction. Finally, trajectory-level reinforcement learning refines the distilled policy toward task success, activation cost, and allocation stability. At inference time, allocation is performed solely by the lightweight student policy without teacher queries or online updates. Experiments on long-horizon multimodal environments and controlled capability-demand shifts demonstrate the superiority of our method over the state-of-the-art baseline methods.",
+    "publishedAt": "2026-09-24",
+    "author": "Wenhao Yuan, Chenchen Lin, Jian Chen, Jinfeng Xu, Shuo Yang, Edith Cheuk-Han Ngai",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

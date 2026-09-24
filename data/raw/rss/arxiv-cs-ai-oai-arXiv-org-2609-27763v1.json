@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.27763v1",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.27763v1",
+    "title": "Alignment of LRMs via Counter-Aligned Few-Shot Conversation Exposure",
+    "link": "https://arxiv.org/abs/2609.27763",
+    "description": "arXiv:2609.27763v1 Announce Type: new Abstract: Large Reasoning Models (LRMs) rely on explicit chain-of-thought (CoT) reasoning and large context windows to achieve strong performance on complex tasks, but these features also introduce new attack surfaces. We show that LRMs' reasoning processes can be systematically steered by prepending counter-aligned few-shot conversations containing explicit CoT traces, leading to unsafe generations on harmful queries and unwarranted refusals on benign ones. We formalize this attack as SRCF (Steering Reasoning via Counter-Aligned Few-shot Conversations) that operates solely through a flexible conversational interface and requires no access to the model's parameters and gradients. Our key insight is that SRCF exploits an adversarial generalization issue that induces a representation drift, causing the representations of benign and harmful inputs to shift in a similar direction. This observation motivates our post-training defense, ARCF (Aligning Reasoning via Counter-Aligned Few-Shot Conversations), which exposes models to counter-aligned conversational contexts while enforcing aligned targets. ARCF is compatible with existing post-training methods and consistently improves safety and helpfulness without degrading utility.",
+    "publishedAt": "2026-09-24",
+    "author": "Xiangyu Zhou, Saleh Zare Zade, Dongxiao Zhu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

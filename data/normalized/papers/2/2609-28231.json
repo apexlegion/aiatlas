@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2609-28231",
+  "name": "Do Center Biases Propagate? Robustness of Pathology Foundation Models in Whole-Slide Image Classification",
+  "summary": "Pathology foundation models (PFMs) have transformed computational pathology through powerful representation learning from histopathological images. PFMs provide rich, discriminative representations...",
+  "description": "Pathology foundation models (PFMs) have transformed computational pathology through powerful representation learning from histopathological images. PFMs provide rich, discriminative representations for whole slide image (WSI) analysis, enabling tasks such as slide-level classification under multiple instance learning (MIL). However, these representations may also encode non-biological signals associated with acquisition centers, potentially introducing spurious shortcuts into downstream predictions. In this work, we evaluate center-associated robustness in WSI classification using a control...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.28231v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-23",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2609.28231v1"
+    }
+  ],
+  "authors": [
+    "Ilán Carretero",
+    "Pablo Meseguer",
+    "Rocío del Amor",
+    "Valery Naranjo"
+  ],
+  "paperId": "2609.28231",
+  "category": "cs.CV",
+  "publishedAt": "2026-09-23",
+  "abstract": "Pathology foundation models (PFMs) have transformed computational pathology through powerful representation learning from histopathological images. PFMs provide rich, discriminative representations for whole slide image (WSI) analysis, enabling tasks such as slide-level classification under multiple instance learning (MIL). However, these representations may also encode non-biological signals associated with acquisition centers, potentially introducing spurious shortcuts into downstream predictions. In this work, we evaluate center-associated robustness in WSI classification using a control..."
+}

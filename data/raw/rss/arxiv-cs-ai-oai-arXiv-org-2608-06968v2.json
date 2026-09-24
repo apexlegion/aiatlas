@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.06968v2",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.06968v2",
+    "title": "How a shared state is described determines whether AI agents synchronize",
+    "link": "https://arxiv.org/abs/2608.06968",
+    "description": "arXiv:2608.06968v2 Announce Type: replace-cross Abstract: Language-model agents increasingly act in populations, where the outcome that matters is collective: whether they align, split or fail to coordinate. Each acts not on the world but on a text description of it, a choice usually fixed in software. Using synchronization, the canonical probe of how interaction rules produce collective order, we show that this choice can decide the outcome. Agents on a circle chose to advance, stay or move back after reading the others' relative positions, in 507,112 valid responses across matched populations, controlled inputs and three model families. In GPT, numerical summaries aligned every matched population at both positive couplings, whereas histograms aligned none; Claude showed the reverse at the stronger coupling. Re-describing identical states shifted action probabilities in all three families, even between histograms carrying the same information. No single directional coefficient explained the outcome: state descriptions are part of the interaction rule that turns individual responses into collective order.",
+    "publishedAt": "2026-09-24",
+    "author": "Takahiro Ezaki, Naoto Imura, Katsuhiro Nishinari",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

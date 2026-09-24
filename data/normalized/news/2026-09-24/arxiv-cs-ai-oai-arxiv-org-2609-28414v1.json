@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-28414v1",
+  "name": "Frozen Flows Forget: Diagnosing and Restoring Lost Motion in a Latent-flow World Model",
+  "summary": "arXiv:2609.28414v1 Announce Type: cross Abstract: Latent world models that integrate a flow in a frozen self supervised latent space train stably and cheaply, yet silently lose the property manipul...",
+  "description": "arXiv:2609.28414v1 Announce Type: cross Abstract: Latent world models that integrate a flow in a frozen self supervised latent space train stably and cheaply, yet silently lose the property manipulation depends on most: motion. The pretrained flow never moves the manipulated object; retraining it with latent-only losses only trades stillness for teleport-like motion. We trace the failure to the...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.28414"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-24",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.28414"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-24",
+  "expiryAt": "2026-10-24T00:00:00.000Z",
+  "author": "Xiwen Chen, Rigaudiere Z. Li, Zhiruo Zhou, Xiaojun Zhu, Houde Liu"
+}

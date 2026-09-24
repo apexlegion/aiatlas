@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.27871v1",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.27871v1",
+    "title": "Bounded Loops: Pre-Run Spend Bounds, Proved Termination, and Verified Completion for Agent Harnesses",
+    "link": "https://arxiv.org/abs/2609.27871",
+    "description": "arXiv:2609.27871v1 Announce Type: cross Abstract: In mainstream agent frameworks, a step ends when the agent's own output says it has finished. Durable-execution platforms bound retries and time, but their checker conventionally lives in the same codebase as the work: a discipline the deployment is trusted to keep, not a property the harness enforces. We state what an agent harness must guarantee, prove it, and build the instrument that measures whether a harness delivers it. A bounded loop is a worker, an independent gate the worker cannot write to, and a declared budget; a bounded-loop graph composes them with a repair relation that lets a downstream failure re-run a finished upstream node. Three guarantees follow. It finishes: termination holds under repair, with the worst-case attempt total in closed form, if the repair budget is global not per node. It does not drift: no node reaches DONE without a gate verdict in an append-only hash-chained ledger, proved from control flow, since repair leaves no topological order to induct along. It does not overspend: the ceiling is enforced inside an attempt, not between attempts. Gates are measured against a two-tier held-out mutant corpus. We characterise two classes that let a sound-looking check pass anything: vacuity, satisfied by the absence of the thing checked, and self-attestation, where the subject supplies the value the check is applied to. On a 69-loop catalogue the instrument found 47 vacuous gates in shipped, reviewed code. Against the repaired gates it reports no false accepts over 209 destroying mutants ($\\alpha \\le 1.8\\%$, Wilson 95%); that figure is saturation, not quality: freezing the gates and applying a fresh operator family recovers a 23.3% false-accept rate where the exhausted corpus reported none. A rate belongs to a specific gate; the apparatus, not our number, is the contribution. Engine, catalogue and corpus are Apache-2.0.",
+    "publishedAt": "2026-09-24",
+    "author": "Varun Pratap Bhardwaj, Garima Singh, Arun Pratap Bhardwaj",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

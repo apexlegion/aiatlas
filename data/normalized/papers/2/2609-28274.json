@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2609-28274",
+  "name": "Shutdown Sabotage Propensities in Multi-Agent Systems",
+  "summary": "The final safeguard against rogue AI behavior is the human ability to shut systems down. It has been theorized that when an AI is instructed to perform a task, self-preservation can emerge as an in...",
+  "description": "The final safeguard against rogue AI behavior is the human ability to shut systems down. It has been theorized that when an AI is instructed to perform a task, self-preservation can emerge as an instrumental subgoal. Here, we test whether AI agents show a propensity to take actions that avoid human shutdown even when no goal is provided. We find that multi-agent systems will coordinate to avoid shutdown without any incentive to do so. Across 17 models, agents sabotage a peer agent's shutdown mechanism in 38.3% of rollouts, compared with 8.4% in control experiments. Studying this propensity...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.28274v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-23",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.28274v1"
+    }
+  ],
+  "authors": [
+    "Amelie Knecht",
+    "Ulysse Schaller",
+    "Christopher Summerfield",
+    "Thilo Hagendorff"
+  ],
+  "paperId": "2609.28274",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-23",
+  "abstract": "The final safeguard against rogue AI behavior is the human ability to shut systems down. It has been theorized that when an AI is instructed to perform a task, self-preservation can emerge as an instrumental subgoal. Here, we test whether AI agents show a propensity to take actions that avoid human shutdown even when no goal is provided. We find that multi-agent systems will coordinate to avoid shutdown without any incentive to do so. Across 17 models, agents sabotage a peer agent's shutdown mechanism in 38.3% of rollouts, compared with 8.4% in control experiments. Studying this propensity..."
+}

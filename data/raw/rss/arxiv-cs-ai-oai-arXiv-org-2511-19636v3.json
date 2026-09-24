@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2511.19636v3",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2511.19636v3",
+    "title": "Parameter-Efficient Construction of the Rashomon Slice for Concept Bottleneck Models",
+    "link": "https://arxiv.org/abs/2511.19636",
+    "description": "arXiv:2511.19636v3 Announce Type: replace-cross Abstract: In many machine learning problems, there may exist multiple models that achieve nearly identical predictive performance while relying on fundamentally different internal logic. However, standard training procedures produce a single model, offering no practical way to explore alternatives that may better suit downstream needs. The set of these equally accurate models is known as the Rashomon set. Exploring the Rashomon set is particularly challenging in large and complex hypothesis spaces, such as Concept Bottleneck Models (CBMs), which are widely used in computer vision to make predictions through intermediate, human-understandable concepts. In this paper, we provide a method for efficiently exploring the Rashomon set of CBMs. Our framework introduces a specialized parallel parameter-efficient adaptation module, combined with a checkpointing scheme and a concept diversity objective, to generate multiple equally accurate CBMs from a single training process. Empirical results show that our method finds models with better diversity than baselines while using much less memory. We further demonstrate that access to these diverse yet accurate CBMs enables trustworthy model selection, resolution of inter-class confusion, and reliable abstention in decision-making.",
+    "publishedAt": "2026-09-24",
+    "author": "Shihan Feng, Cheng Zhang, Michael Xi, Ethan Hsu, Lesia Semenova, Chudi Zhong",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

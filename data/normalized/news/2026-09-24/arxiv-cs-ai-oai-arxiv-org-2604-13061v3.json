@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2604-13061v3",
+  "name": "Toward Measuring Structural Drift in LLM Communication Loops",
+  "summary": "arXiv:2604.13061v3 Announce Type: replace-cross Abstract: Large language models increasingly run in stateful pipelines that assemble each prompt from retrieval, memory, tools, and other agents. Suc...",
+  "description": "arXiv:2604.13061v3 Announce Type: replace-cross Abstract: Large language models increasingly run in stateful pipelines that assemble each prompt from retrieval, memory, tools, and other agents. Such pipelines drift: information that should shape the next response is dropped, compressed, or misrouted while every component still reports success. Existing diagnostics miss this because they evaluat...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2604.13061"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-24",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2604.13061"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-24",
+  "expiryAt": "2026-10-24T00:00:00.000Z",
+  "author": "Wael Hafez, Amir Nazeri, Chenan Wei"
+}

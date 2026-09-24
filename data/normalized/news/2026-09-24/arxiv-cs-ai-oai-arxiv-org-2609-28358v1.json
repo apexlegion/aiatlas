@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-28358v1",
+  "name": "MicroQonv: Reshaping Convolution Tensors for Efficient Microscaling in Training and Inference",
+  "summary": "arXiv:2609.28358v1 Announce Type: cross Abstract: Microscaling quantization techniques are increasingly used to represent neural network parameters with 8 bits or fewer while preserving near-full p...",
+  "description": "arXiv:2609.28358v1 Announce Type: cross Abstract: Microscaling quantization techniques are increasingly used to represent neural network parameters with 8 bits or fewer while preserving near-full precision accuracy. However, applying these methods efficiently in convolutional layers is not straightforward. A naive approach transfers full-precision weights and activations to processing units and...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.28358"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-24",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.28358"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-24",
+  "expiryAt": "2026-10-24T00:00:00.000Z",
+  "author": "Romain Facq, Sami Ben Ali, Olivier Sentieys"
+}

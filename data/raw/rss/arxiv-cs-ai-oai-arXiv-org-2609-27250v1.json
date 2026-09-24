@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.27250v1",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.27250v1",
+    "title": "The Risk-Sensitive Schr\\\"odinger Bridge: Is Not a KL Projection",
+    "link": "https://arxiv.org/abs/2609.27250",
+    "description": "arXiv:2609.27250v1 Announce Type: cross Abstract: The Schr\\\"odinger bridge owes its computational power to a single structural fact: by Girsanov's theorem the controlled problem is a Kullback--Leibler (KL) projection onto a fixed reference measure, solvable by alternating projections. This letter shows that the fact does not survive risk sensitivity. When the expected path cost is replaced by the entropic risk measure and both endpoint marginals are kept as hard constraints, the resulting fixed-point bridge value $J_\\theta$ (the soft-problem value at the multiplier that enforces the terminal constraint) admits no representation as a constrained KL minimum against any fixed path-space reference with a regular endpoint law (a class strictly larger than the uniformly elliptic diffusion references: no Markov property is required), even allowing an additive normalisation depending on the initial marginal. Moreover, no single reference generates the one-parameter family in the risk parameter. The obstruction is computed in closed form: the Gaussian bridge value violates, by exactly $\\theta/2$, a heat equation that any Gaussian smoothing of a fixed endpoint density must obey. In place of the projection, the theory rests on a terminal-multiplier fixed point and an asymmetric factorisation penalising the score energy of the backward factor.",
+    "publishedAt": "2026-09-24",
+    "author": "Hamidreza Behjoo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

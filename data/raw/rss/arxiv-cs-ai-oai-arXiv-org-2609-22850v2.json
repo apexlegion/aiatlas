@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.22850v2",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.22850v2",
+    "title": "Same Outcome, Different Readout: What Does a Steerable Valence Direction in LLMs Represent?",
+    "link": "https://arxiv.org/abs/2609.22850",
+    "description": "arXiv:2609.22850v2 Announce Type: replace-cross Abstract: Decodability and successful activation steering do not, by themselves, establish what an internal direction represents. This gap is especially consequential for welfare-relevant interpretations, where a proposed functional state must be distinguished from correlated features of the extraction contrast. We study this question for a good-bad outcome direction in a maze task, using controlled interventions that separate the realised outcome from the informational history through which it became known. Across multiple LLM checkpoints, directions fitted on one explicit outcome encoding transfer well to another, indicating that the readout is not tied to surface form. In contrast, when the same realised outcome is reached through announced and unannounced histories, transfer degrades substantially: even after both histories receive the same explicit outcome, the post-event readout remains strongly conditioned on the earlier announcement. In a matched maze-RL run, the post-RL direction becomes substantially more predictive of reference-MDP remaining return and the policy becomes more dependent on it at the tested sites, while this history dependence persists. These results support a functional, value-related interpretation of the direction, but not its identification with a history-invariant scalar valence state.",
+    "publishedAt": "2026-09-24",
+    "author": "Weihan Li, Xinlei Chen, Yuhan Song, Xiaofeng Lin, Tianshi Zheng",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

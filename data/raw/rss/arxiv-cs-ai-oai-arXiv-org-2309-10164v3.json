@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2309.10164v3",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2309.10164v3",
+    "title": "A Scalable Multi-Robot Framework for Decentralized and Asynchronous Perception-Action-Communication Loops",
+    "link": "https://arxiv.org/abs/2309.10164",
+    "description": "arXiv:2309.10164v3 Announce Type: replace-cross Abstract: We develop a decentralized Perception-Action-Communication (PAC) system for multi-robot teams that enables them to collaborate in large scale, outdoor environments. Our system natively supports deployments at any scale by leveraging a graph neural network (GNN) to diffuse information hop-by-hop across the fleet's network. This achieves global collaboration from individual robots limited to local sensing and communication. Fully asynchronous, the core modules of PAC: perception, inter-robot communication, message aggregation and action are clocked at different frequencies with information flowing between them through buffers. We implement the PAC system as a series of highly extensible ROS2 nodes to serve as the foundational infrastructure for deployable swarm systems. PAC is validated in the real world with outdoor experiments with up to N=20 quadrotor robots and in simulations based on real-world data with up to N=100. These validations show that our system upholds crucial properties for field-deployable robot collectives: scalability, resiliency and repeatability.",
+    "publishedAt": "2026-09-24",
+    "author": "Saurav Agarwal, Frederic Vatnsdal, Romina Garcia Camargo, Carlos Nieto-Granda, Vijay Kumar, Alejandro Ribeiro",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

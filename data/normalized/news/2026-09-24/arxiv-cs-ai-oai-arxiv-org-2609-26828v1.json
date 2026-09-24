@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-26828v1",
+  "name": "Bridging LLM Serving and CXL-SSDs with Chunk-Aware KV Cache Management",
+  "summary": "arXiv:2609.26828v1 Announce Type: cross Abstract: NAND-backed storage offers the capacity needed to scale LLM prefix caching, but its block I/O path incurs CPU cache contention and host-DRAM stagin...",
+  "description": "arXiv:2609.26828v1 Announce Type: cross Abstract: NAND-backed storage offers the capacity needed to scale LLM prefix caching, but its block I/O path incurs CPU cache contention and host-DRAM staging in addition to NAND latency. Our characterization shows that these interface costs persist even with DRAM as the storage medium, motivating CXL-SSDs for byte-addressable access to NAND-backed capaci...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.26828"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-24",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.26828"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-24",
+  "expiryAt": "2026-10-24T00:00:00.000Z",
+  "author": "Hyunsun Chung, Taewan Noh, Minji Kim, Joo-Young Hwang, Hong-Yeon Kim, Youngjae Kim"
+}

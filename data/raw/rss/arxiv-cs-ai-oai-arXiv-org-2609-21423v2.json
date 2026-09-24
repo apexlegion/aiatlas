@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.21423v2",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.21423v2",
+    "title": "DENSE: Distilling Agent Trajectories into Evidence-Grounded Shortcut Trees for Self-Refinement",
+    "link": "https://arxiv.org/abs/2609.21423",
+    "description": "arXiv:2609.21423v2 Announce Type: replace Abstract: Online agent deployments produce abundant execution traces, while task-specific verification and expert annotation are costly to scale. This gap raises a question: without post-execution rewards or correctness labels, what useful experience can we extract from the trajectories themselves? To efficiently use this information, we introduce DENSE (Distilling Evidence from Nested Subtask Executions), which organizes trajectory evidence into evidence-grounded nested shortcut trees. DENSE condenses repeated attempts, tracks resolved problems, and preserves useful steps alongside unfinished requirements. To evaluate how feedback helps agents retry the same task, we introduce REFIT, which compares changes in task success rates from the initial attempt. Among tested methods without external outcome supervision, DENSE achieves the highest strict pass rate across four agent models on Terminal-Bench 2.1. Compared with the initial attempts, strict pass rate increases by 7.12-15.64 percentage points, with 19.0-43.6% lower observed agent token use during the new attempts. In an exploratory hard-task extension, DENSE also outperforms the Self-reflection baseline in cumulative pass rate after multiple feedback iterations across all four models. These findings suggest DENSE's potential for continual agent self-improvement without external annotations or post-execution outcome supervision.",
+    "publishedAt": "2026-09-24",
+    "author": "Siyuan Liu (Fudan University, Meituan Longcat Team), Fan Yu (Fudan University, Meituan Longcat Team), Dongyu Ru (Meituan Longcat Team), Yizhu Liu (Meituan Longcat Team), Yifan Yang (Meituan Longcat Team), Xuezhi Cao (Meituan Longcat Team), Xunliang Cai (Meituan Longcat Team), Yixin Cao (Fudan University)",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

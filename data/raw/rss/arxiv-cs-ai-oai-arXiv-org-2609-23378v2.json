@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.23378v2",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.23378v2",
+    "title": "Leaky-integrator reconstruction: taming error accumulation in recursive differenced time-series forecasting",
+    "link": "https://arxiv.org/abs/2609.23378",
+    "description": "arXiv:2609.23378v2 Announce Type: replace Abstract: Recursive differenced forecasting, the standard remedy for non-stationarity, predicts one-step changes and integrates them by cumulative summation. We show that this reconstruction is a discrete integrator with a pole on the unit circle, so the biased increment errors of a learned nonlinear model are summed without bound and the rollout diverges: at 336 steps its normalised MAE reaches 1.6-3.8 for every neural architecture tested, against 0.80 for a stable linear recursion. We then introduce leaky-integrator reconstruction, a training-free fix that moves the pole inside the unit circle with H(z) = 1/(1 - gamma z^-1), gamma &lt; 1, bounding the accumulation of the model's own increment errors. Applied post hoc with a single fixed gamma=0.9 (no retraining, a two-line change to any deployed one-step or foundation-model forecaster), it beats the traditional recursive integrator at every horizon, with the mean gain over seven diverging architectures and twenty datasets growing from ~3% at H=24 to 23% at H=96, 37% at H=192 and 51% at H=336 (43-75% across those architectures; 78% with an oracle pole), bringing all of them to 0.87-0.97. Based on these extensive empirical experiments, adding a leaky integrator thus improves recursive differenced time-series forecasting.",
+    "publishedAt": "2026-09-24",
+    "author": "Zijiang Yang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.27815v1",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.27815v1",
+    "title": "Evaluating ADC-only deep learning pipelines for breast cancer detection and segmentation using standalone diffusion-weighted MRI",
+    "link": "https://arxiv.org/abs/2609.27815",
+    "description": "arXiv:2609.27815v1 Announce Type: cross Abstract: Dynamic contrast-enhanced (DCE) imaging is the gold standard technique for the detection and characterization of breast cancer using magnetic resonance imaging (MRI). However, DCE-MRI requires long acquisition times and the administration of contrast into the bloodstream, which can cause allergic reactions. Alternatively, diffusion-weighted MRI (DW-MRI) is a standard complementary technique for breast MRI that does not require contrast, has shorter acquisition times, and enables calculation of apparent diffusion coefficient (ADC) maps that correlate with tumor cellularity. Yet, despite these technical advantages, deep learning research has focused on DCE-based models and has barely explored the tumor detection performance of DW-MRI and ADC maps either in combination with DCE-MRI or as standalone alternatives. Here, we evaluate the application of different state-of-the-art deep learning techniques for detection and segmentation of breast cancer using ADC-only images. This is, to our knowledge, the first comprehensive evaluation of ADC-only breast cancer pipelines for classification, detection, and segmentation tasks.",
+    "publishedAt": "2026-09-24",
+    "author": "Pablo Garc\\'ia Marcos, Paula Puerta Gonz\\'lez, Guillermo Lorenzo, H\\'ector G\\'omez, Covadonga del Camino, Angel Rio-Alvarez, V\\'ictor M. Gonz\\'alez",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

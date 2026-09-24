@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.08673v2",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.08673v2",
+    "title": "BIDETA: Brain-Inspired Data-Efficient Tactile Adaptation for Unseen Sensors",
+    "link": "https://arxiv.org/abs/2609.08673",
+    "description": "arXiv:2609.08673v2 Announce Type: replace-cross Abstract: Vision-based tactile sensors provide high-resolution contact information for robotic perception and contact-rich manipulation, advancing embodied intelligence through more reliable physical interaction. However, device-specific sensing mechanisms cause tactile foundation models to degrade on unfamiliar hardware. Existing cross-sensor methods often require calibration data, paired observations, or iterative training. To address this problem, we propose Brain-Inspired Data-Efficient Tactile Adaptation (BIDETA), a gradient-free framework that uses a frozen tactile encoder and a few labeled target contacts to jointly predict labels for an unlabeled query batch. Inspired by the brain's rapid sensory adaptation, BIDETA combines rapid support memory, support-conditioned spectral graphs, and reliability-gated recurrence to preserve pretrained representations, repair sensor-dependent feature neighborhoods, and integrate reliable cross-query evidence. Experiments on SITR, TacVerse Shape, and TacQuad show that BIDETA substantially improves adaptation to unknown sensors: with only 10\\% labeled target data on SITR, it raises mean Sparsh accuracy from 6.86\\% for the frozen source classifier to 87.09\\%, exceeding the strongest implemented prior comparison by 47.22 percentage points, and these gains generalize across datasets, pretrained backbones, and tactile tasks. In the SITR timing benchmark with TVL, BIDETA also achieves approximately 20x faster target-sensor adaptation than the best baseline. BIDETA thus offers a gradient-free, data-efficient route to deploying tactile models on new hardware.",
+    "publishedAt": "2026-09-24",
+    "author": "Boheng Liu, Lan Wei, Ziyu Li, Chenghua Duan, Qing Li, Dandan Zhang, Xia Wu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

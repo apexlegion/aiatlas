@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.27855v1",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.27855v1",
+    "title": "Reachable Global Optimization in AI Systems: How Global Is Global?",
+    "link": "https://arxiv.org/abs/2609.27855",
+    "description": "arXiv:2609.27855v1 Announce Type: new Abstract: AI systems increasingly claim to optimize prompts, policies, architectures, plans, tool-use trajectories, reasoning traces, and test-time computation. This paper argues that such claims are underspecified unless they state the region actually reachable by the system that performed the optimization. We introduce Reachability-Induced Optimization (RIO), a model in which a generator, verifier, controller, memory, tools, and budget induce a reachable candidate region. The returned solution is therefore a best visited point, an approximate reachable optimum, or an exact global optimum only when additional certificates relate the reachable region to the full formal space. We prove reachable-optimality, false-globality, gap- decomposition, certificate, escape, pruning, and control-value results. The full benchmark record contains 66,150 executed trials over six known-optimum landscape families, seven control policies, 270 landscapes, and 35 runs per landscape-method. The online appendix includes raw trial records, aggregate tables, figures, benchmark code, validation scripts, and checksums. The results show that control can restrict, expand, or misdirect reachability, and that optimization quality, reachability quality, and control reliability must be reported separately.",
+    "publishedAt": "2026-09-24",
+    "author": "Wesley Shu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

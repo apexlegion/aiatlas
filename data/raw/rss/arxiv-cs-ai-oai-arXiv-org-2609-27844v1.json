@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.27844v1",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.27844v1",
+    "title": "Agentic Governance and Adversarial Verification for Policy-Constrained LLM Healthcare Appeal Generation",
+    "link": "https://arxiv.org/abs/2609.27844",
+    "description": "arXiv:2609.27844v1 Announce Type: new Abstract: Claim denial management costs U.S. healthcare approximately $260 billion annually in administrative overhead. Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) can produce fluent clinical text, but single-agent architectures fail in high-stakes healthcare: they introduce unsupported clinical details and lose the logical structure of hierarchical payer policy. We propose AGVF (Agentic Governance and Adversarial Verification Framework), a multi-agent architecture for medical-necessity appeal generation under explicit policy and evidence constraints. AGVF models appeal synthesis as a Constrained Markov Decision Process (CMDP) over five agents: policy formalization, evidence retrieval, gap analysis, adversarial critique, and gated synthesis. We prove that refinement over a fixed policy constraint graph monotonically reduces evidence-deficiency and terminates with either a complete satisfying frontier or a localized evidence gap. A deterministic citation- grounding gate prevents assertions without admissible evidence from entering shared state. We provide a reference implementation and validate it on 1,000 synthetic appeal cases parameterized from de-identified public hospital discharge data. The validation confirms zero citation-grounding violations across all AGVF cases and monotone deficiency reduction in every episode; ablating the gate raises violations to 100%, confirming it is load-bearing. The study uses no real patient records and does not measure clinical efficacy. AGVF thus contributes a theory-backed agentic architecture and verified reference implementation for policy-constrained LLM generation in healthcare.",
+    "publishedAt": "2026-09-24",
+    "author": "Harshil Lodhiya, Alex McManus, Reese Walker",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

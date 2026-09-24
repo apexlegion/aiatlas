@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.06080v2",
+  "fetchedAt": "2026-09-24T07:31:10.538Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.06080v2",
+    "title": "PhenoBench: Mapping What a Deeply Phenotyped Human Cohort Can Tell Us",
+    "link": "https://arxiv.org/abs/2609.06080",
+    "description": "arXiv:2609.06080v2 Announce Type: replace-cross Abstract: Deeply phenotyped cohorts combine clinical, imaging, molecular, and wearable observations across timescales from seconds to years, but heterogeneous analyses are not directly comparable. We present PhenoBench, an executable benchmark that turns deep-phenotyping measurements into explicit questions and controlled comparisons of information sources and predictive models. It is built around the Human Phenotype Project, with more than 13,000 participants at the initial visit. Each question fixes the target, population, timing, and allowed information; its evaluation contract specifies the split, metric, baseline, and claim boundary. PhenoBench defines 90 clinically grounded tasks across 15 domains and 26 input modalities. Across 160 matched regression comparisons spanning 52 tasks, six pretrained tabular models ranked above the evaluated task-specific baselines, including XGBoost and CatBoost, under a fixed single-estimator protocol with bounded tuning. Giving each task equal weight, their mean advantage over ridge was 0.0103 $R^2$ (95% task-bootstrap interval, 0.0071-0.0136). We also evaluated 14 language models, collectively covering 40 tasks spanning phenotype recovery, classification, follow-up forecasting, and participant ordering. Without cohort-specific fitting, language models made informative predictions on some tasks but showed task-specific capability gaps, shared failures of scale, and rarely surpassed task-specific ridge or logistic regression models fitted on the same input fields. PhenoBench provides a versioned, auditable evaluation system where new questions, measurements, and models can be added without redefining existing comparisons.",
+    "publishedAt": "2026-09-24",
+    "author": "Gal Sapir, Alon Diament, Adva Wolf, Doron Yaya-Stupp, Dikla Gelbard Solodkin, Dana Azouri, Anat Etzion-Fuchs, Guy Lutsker, Eran Segal, Hagai Rossman",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
