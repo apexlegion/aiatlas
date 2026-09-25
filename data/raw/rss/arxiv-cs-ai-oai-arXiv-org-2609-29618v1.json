@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.29618v1",
+  "fetchedAt": "2026-09-25T07:34:32.292Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.29618v1",
+    "title": "An Exploratory Ablation of a Small MLA--SSM Hybrid Language Model",
+    "link": "https://arxiv.org/abs/2609.29618",
+    "description": "arXiv:2609.29618v1 Announce Type: cross Abstract: We report an exploratory, single-seed ablation of TALH (Adaptive Latent Hybrid), a decoder-only language model with parallel Multi-head Latent Attention (MLA) and a custom recurrent state-space (SSM) branch. Five variants, spanning 117--217M estimated active parameters per token, are trained from scratch on a FineWeb sample for the same number of optimisation steps and tokens. In this specific setup, removing the SSM branch gives the largest degradation in validation perplexity (MLA-only PPL 315), whereas removing MLA has a much smaller effect (SSM-only PPL 239). A dense-FFN hybrid obtains PPL 231, compared with 240 for the tested top-2 ternary-MoE hybrid, while using 3.87 GB less peak training memory. We also preserve a preliminary Apple M3 timing observation: among the five unoptimised implementations, MLA-only has the flattest measured time-to-first-token curve from 512 to 2,048 prompt tokens, although the dense Transformer is much faster in absolute terms. Because the runs are single-seed, parameter counts are unmatched, the evaluation stream may overlap the training source, and raw repeated timing records are unavailable, these results support implementation-specific hypotheses rather than general conclusions about MLA, SSMs, or mixture-of-experts models.",
+    "publishedAt": "2026-09-25",
+    "author": "Christos Koutsiaris",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

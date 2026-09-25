@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2405.18929v3",
+  "fetchedAt": "2026-09-25T07:34:32.292Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2405.18929v3",
+    "title": "Deep Positive-Unlabeled Anomaly Detection for Contaminated Unlabeled Data",
+    "link": "https://arxiv.org/abs/2405.18929",
+    "description": "arXiv:2405.18929v3 Announce Type: replace-cross Abstract: Semi-supervised anomaly detection, which aims to improve the anomaly detection performance by using a small amount of labeled anomaly data in addition to unlabeled data, has attracted attention. Existing semi-supervised approaches assume that most unlabeled data are normal, and train anomaly detectors by minimizing the anomaly scores for the unlabeled data while maximizing those for the labeled anomaly data. However, in practice, the unlabeled data are often contaminated with anomalies. This weakens the effect of maximizing the anomaly scores for anomalies, and prevents us from improving the detection performance. To solve this, we propose the deep positive-unlabeled anomaly detection framework, which integrates positive-unlabeled learning with deep anomaly detection models such as autoencoders and deep support vector data descriptions. Our approach enables the approximation of anomaly scores for normal data using the unlabeled data and the labeled anomaly data. Therefore, without labeled normal data, our approach can train anomaly detectors by minimizing the anomaly scores for normal data while maximizing those for the labeled anomaly data. We also provide a theoretical analysis establishing a generalization error bound for the proposed objective, guaranteeing that the empirical minimizer converges asymptotically to the ideal minimizer. Our approach achieves better detection performance than existing approaches on various datasets.",
+    "publishedAt": "2026-09-25",
+    "author": "Hiroshi Takahashi, Tomoharu Iwata, Atsutoshi Kumagai, Yuuki Yamanaka",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

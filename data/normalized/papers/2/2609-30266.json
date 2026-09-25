@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2609-30266",
+  "name": "LLM Agents Can Easily Tamper With Their Own Traces",
+  "summary": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their o...",
+  "description": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces. We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code and Grok Build fail to enforce this boundary. All tested harnesses, except Muse Code, allowed agents to delete their traces when asked, without triggering monitor guardrails. We also validate that external attackers can exploit this gap to induce trace deletion. Finally, we show that trace tamperi...",
+  "tags": [
+    "arxiv",
+    "cs.CR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.30266v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-24",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CR.",
+      "href": "https://arxiv.org/abs/2609.30266v1"
+    }
+  ],
+  "authors": [
+    "Jeremy Qin",
+    "David Schmotz",
+    "Derck Prinzhorn",
+    "Luca Beurer-Kellner",
+    "Ameya Prabhu",
+    "Maksym Andriushchenko"
+  ],
+  "paperId": "2609.30266",
+  "category": "cs.CR",
+  "publishedAt": "2026-09-24",
+  "abstract": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces. We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code and Grok Build fail to enforce this boundary. All tested harnesses, except Muse Code, allowed agents to delete their traces when asked, without triggering monitor guardrails. We also validate that external attackers can exploit this gap to induce trace deletion. Finally, we show that trace tamperi..."
+}

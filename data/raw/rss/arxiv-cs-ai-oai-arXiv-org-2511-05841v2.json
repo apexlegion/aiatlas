@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2511.05841v2",
+  "fetchedAt": "2026-09-25T07:34:32.292Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2511.05841v2",
+    "title": "Cross-Task Generalization in Handwriting-Based Alzheimer's Screening via Vision Language Adaptation",
+    "link": "https://arxiv.org/abs/2511.05841",
+    "description": "arXiv:2511.05841v2 Announce Type: replace-cross Abstract: Alzheimer's disease (AD) is a prevalent neurodegenerative disorder for which early detection is critical. Handwriting, which can be disrupted by subtle motor and cognitive decline, provides a non-invasive and cost-effective window for AD screening. Existing handwriting-based AD studies mostly rely on online trajectories and hand-crafted features, while the influence of handwriting task type on diagnostic performance and cross-task generalization remains underexplored. Meanwhile, large-scale vision--language models have demonstrated strong transfer and adaptation ability in natural-image anomaly detection and several medical modalities, such as chest X-ray and brain MRI. However, handwriting-based disease detection remains unexplored within this paradigm. To address this gap, we introduce a lightweight Cross-Layer Fusion Adapter (CLFA) framework that repurposes Contrastive Language--Image Pre-training (CLIP) for handwriting-based AD screening. CLFA inserts multi-level adapters into a frozen visual encoder, combining cross-layer feature fusion with depthwise 2D convolution on patch grids to capture both local stroke irregularities and higher-level handwriting structure. This design progressively aligns pretrained vision--language representations with AD-related handwriting cues and supports transfer from supervised source tasks to task-disjoint unseen target tasks. On the Darwin dataset, under the subject-disjoint cross-task protocol, averaged over all 600 task-disjoint source-target pairs, CLFA achieves 74.63\\% AUC, 74.85\\% accuracy, and 73.72\\% F1 score, outperforming the best competing model by 2.15, 1.79, and 1.87 percentage points, respectively.",
+    "publishedAt": "2026-09-25",
+    "author": "Changqing Gong, Huafeng Qin, Mounim A. El-Yacoubi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

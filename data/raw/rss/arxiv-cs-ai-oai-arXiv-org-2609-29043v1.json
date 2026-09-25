@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.29043v1",
+  "fetchedAt": "2026-09-25T07:34:32.292Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.29043v1",
+    "title": "Design and Evaluation of LLM Chaining-Based Task Planning for General Purpose Service Robots",
+    "link": "https://arxiv.org/abs/2609.29043",
+    "description": "arXiv:2609.29043v1 Announce Type: cross Abstract: General Purpose Service Robot (GPSR) tasks, as defined in the RoboCup@Home benchmark, require robots to interpret diverse natural language commands and generate multi-step action sequences in real home environments. Conventional Single Prompt (SP) approaches suffer from context bloat and the \"Lost in the Middle\" phenomenon, leading to unreliable task planning. We propose an LLM chaining architecture that separates instruction classification and action generation into two specialized stages, reducing per-inference prompt length by approximately 45% while improving planning consistency. We evaluate our method using 100 randomly generated GPSR commands across three language models spanning local open-source and frontier cloud deployment contexts. Results show consistent planning improvements over SP across all models, with gains of up to +37 percentage points on local models. Further, real-robot execution experiments on the Toyota Human Support Robot (HSR) reveal that planning success alone does not guarantee task completion, with 6 of 10 tasks completing successfully and execution-layer failures identified as the primary remaining bottleneck.",
+    "publishedAt": "2026-09-25",
+    "author": "Lucas Da Mota Bruno, Jiahao Sim, Yoshinobu Hagiwara",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

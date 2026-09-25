@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.29228v1",
+  "fetchedAt": "2026-09-25T07:34:32.292Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.29228v1",
+    "title": "Towards An LLM-Driven Unified Conversion Framework for BT and FSM in Autonomous Intelligent Systems",
+    "link": "https://arxiv.org/abs/2609.29228",
+    "description": "arXiv:2609.29228v1 Announce Type: new Abstract: Finite state machine (FSM) and behavior trees (BT) are widely adopted behavioral modeling paradigms for autonomous intelligent systems. While functionally equivalent and inter-convertible in principle, existing transformation methods between FSM and BT face major challenges in preserving behavioral completeness and avoiding model complexity explosion. To overcome these issues, we propose an LLM-driven unified conversion framework that enables automatic, efficient, and semantically consistent transformation between FSM and BT. Specifically, a novel loop execution BT structure is designed for LLM to accurately capture the loop structure in FSM, thereby preserving behavioral completeness. To mitigate the state explosion problem in BT-to-FSM conversion, a depth compression strategy is introduced with LLM prompt to eliminate redundant control nodes, complemented by differentiated hierarchical conversion rules that collectively reduce the number of required sub-FSM. Simulation experiments in multiple autonomous decision-making scenarios demonstrate that the proposed framework enables an accurate and automated bidirectional conversion between FSM and BT. Furthermore, it significantly enhances the scalability and maintainability of generated models compared to traditional approaches, providing a practical solution for behavior model conversion in consumer-grade autonomous intelligent systems such as service robots, game agents, and smart home devices",
+    "publishedAt": "2026-09-25",
+    "author": "Zhang Qi, Yang Shuo, Zhu Zhengqiu, Zhou Peng, Jiao Peng",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

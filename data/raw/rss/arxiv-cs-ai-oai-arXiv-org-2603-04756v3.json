@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.04756v3",
+  "fetchedAt": "2026-09-25T07:34:32.292Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.04756v3",
+    "title": "MOOSEnger: A Simulation-Aware AI Agent Framework for the MOOSE Ecosystem",
+    "link": "https://arxiv.org/abs/2603.04756",
+    "description": "arXiv:2603.04756v3 Announce Type: replace Abstract: MOOSEnger is a modeling and simulation AI agent framework for the Multiphysics Object-Oriented Simulation Environment (MOOSE) ecosystem, built around a simulation-aware harness that combines an interchangeable reasoning model with grounded domain knowledge, revised simulation artifacts, MOOSE-specific validation, and executable solver feedback. This surrounding system addresses a central limitation of one-shot large language model generation: small syntax, schema, reference, or solver-configuration errors can prevent a plausible input from executing, while successful execution alone does not establish scientific correctness. MOOSEnger's simulation-aware harness integrates MOOSE knowledge retrieval, Hierarchical Input Text (HIT)-aware parsing, syntax metadata, language-server diagnostics, revision-controlled authoring, and local or MCP-backed validation and execution in a generate-check-repair-run workflow that binds evidence to each input revision and guides bounded repair before acceptance. Across 200 prompts spanning eight simulation families, the MOOSEnger harness increases executable success from 10/200 (5%) to 179/200 (89.5%) with GPT 5.2 API and from 0/200 to 153/200 (76.5%) with Gemma 4 31B. A complementary ten-case Method of Manufactured Solutions benchmark moves beyond executability: all ten generated inputs satisfy the semantic-alignment criterion, and eight execute successfully while meeting the prescribed single-mesh numerical-accuracy criterion. These results show that executable reliability depends on the complete agent system rather than on the reasoning model alone, and that simulation-aware harnessing provides a path toward physics-informed verification and future full application-level and engineering verification and validation implementation.",
+    "publishedAt": "2026-09-25",
+    "author": "Mengnan Li, Jason Miller, Zaid Abulawi, Zachary Prince, Matt Kohl, Jack M. Cavaluzzi, Guillaume Giudicelli, Casey T. Icenhour, Alexander Lindsay, Cody Permann",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

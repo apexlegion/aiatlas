@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-30096v1",
+  "name": "Accelerating Video Diffusion via Training-Free Trajectory Routing",
+  "summary": "arXiv:2609.30096v1 Announce Type: cross Abstract: Video diffusion is computationally expensive, as it requires executing a large model across many denoising steps. Even with step-distillation, infe...",
+  "description": "arXiv:2609.30096v1 Announce Type: cross Abstract: Video diffusion is computationally expensive, as it requires executing a large model across many denoising steps. Even with step-distillation, inference remains expensive because every distilled step still requires a costly model evaluation. We present TRACK: TRajectory-Aware Capacity routing via top-K selection, a heterogeneous denoising strate...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.30096"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-25",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.30096"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-25",
+  "expiryAt": "2026-10-25T00:00:00.000Z",
+  "author": "Mustafa Munir, Huy Vu, Shreyas Misra, Rohit Jena, Sajad Norouzi, Ali Taghibakhshi, Anis Ahmad, Anjul Patney, Pavlo Molchanov, Nima Tajbakhsh"
+}

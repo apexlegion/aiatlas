@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-29095v1",
+  "name": "Where Does Exactly-Once Live? Model, Harness, and Tool-Contract Effects on Duplicate Side Effects in LLM Agents",
+  "summary": "arXiv:2609.29095v1 Announce Type: cross Abstract: When a tool-using agent's write times out or returns a server error, the action may already have taken effect. Retrying blindly duplicates it -- a...",
+  "description": "arXiv:2609.29095v1 Announce Type: cross Abstract: When a tool-using agent's write times out or returns a server error, the action may already have taken effect. Retrying blindly duplicates it -- a second charge, a second announcement, a second deployment -- while giving up skips required work. We ask where exactly-once behaviour should be enforced: in the model, in the agent harness, or in the...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.29095"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-25",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.29095"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-25",
+  "expiryAt": "2026-10-25T00:00:00.000Z",
+  "author": "Jiapeng Li"
+}

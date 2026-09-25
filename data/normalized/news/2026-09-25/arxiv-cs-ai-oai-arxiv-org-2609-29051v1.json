@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-29051v1",
+  "name": "From Self-Distillation to Self-Practice: Privileged Information for Multi-Turn Agents",
+  "summary": "arXiv:2609.29051v1 Announce Type: new Abstract: On-policy self-distillation (OPSD) has become a popular recipe for post-training LLM agents. It supervises the agent model at the token level with a...",
+  "description": "arXiv:2609.29051v1 Announce Type: new Abstract: On-policy self-distillation (OPSD) has become a popular recipe for post-training LLM agents. It supervises the agent model at the token level with a stronger teacher view of the same model, obtained by conditioning on privileged information (PI). In this work, we show that in multi-turn agents, this paradigm teaches the student to act with confide...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.29051"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-25",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.29051"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-25",
+  "expiryAt": "2026-10-25T00:00:00.000Z",
+  "author": "Xingyu Su, Abhishek Kumar, Qing Ping, Youzhi Luo, Jonathan Buck, Zach Zhang, Subramanian Chidambaram, Vinayak Arannil"
+}

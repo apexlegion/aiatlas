@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2609-30233",
+  "name": "Coding Agents for Generalized Task and Motion Planning Problems",
+  "summary": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic...",
+  "description": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic constraints. Generalized TAMP addresses this difficulty by exploiting regularities across problem instances to reduce planning effort on new instances. However, existing methods require substantial TAMP-specific engineering. We investigate whether coding agents can automate this process by synthesizing programs that generalize across instances. Given a task description and simulator access, each a...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.30233v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-24",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2609.30233v1"
+    }
+  ],
+  "authors": [
+    "Matteo Merler",
+    "Bowen Li",
+    "Josh Roy",
+    "Yichao Liang",
+    "Qianwei Wang",
+    "Yixuan Huang",
+    "Tom Silver"
+  ],
+  "paperId": "2609.30233",
+  "category": "cs.RO",
+  "publishedAt": "2026-09-24",
+  "abstract": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic constraints. Generalized TAMP addresses this difficulty by exploiting regularities across problem instances to reduce planning effort on new instances. However, existing methods require substantial TAMP-specific engineering. We investigate whether coding agents can automate this process by synthesizing programs that generalize across instances. Given a task description and simulator access, each a..."
+}

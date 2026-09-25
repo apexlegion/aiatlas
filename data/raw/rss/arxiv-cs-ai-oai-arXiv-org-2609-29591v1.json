@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.29591v1",
+  "fetchedAt": "2026-09-25T07:34:32.292Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.29591v1",
+    "title": "CATCH: Counterfactual Anatomical Tissue Inpainting with Conditional Haar Diffusion",
+    "link": "https://arxiv.org/abs/2609.29591",
+    "description": "arXiv:2609.29591v1 Announce Type: cross Abstract: BraTS local synthesis replaces masked regions in T1-weighted brain MRI with plausible tumor-free tissue while preserving observed anatomy. We present CATCH, conditional 3D diffusion in an invertible Haar-wavelet domain. Its denoiser receives noisy target coefficients, voided-image coefficients, and a signed mask; tumor-excluded wavelet reconstruction and a hole-focused loss guide training, and hard compositing preserves observed voxels. We compare fixed masks, tumor-component augmentation, and a weighted mixture of tumor-derived, irregular-blob, and ellipsoidal masks. Of 25 development cases, five prespecified cases select each arm's checkpoint and all 25 of their trajectory aggregations; a separate 75-case internal set compares the frozen pipelines and selects a weighted mixture for organizer evaluation. Five-trajectory averaging yielded internal SSIM/PSNR/MSE (mean$\\pm$SD) of $0.80\\pm0.13$, $19.18\\pm1.80$dB, and $0.010\\pm0.005$. As the sole officially evaluated pipeline, weighted mixture yielded $0.772\\pm0.119$, $20.89\\pm3.27$dB, and $0.0098\\pm0.0054$ on the 219-case BraTS 2026 validation set. Against compute-matched random augmentation internally, it improved SSIM by 0.019 (95% bootstrap CI: 0.013-0.025), PSNR by 0.95dB, and MSE by 0.003; all three paired comparisons remained significant after Holm correction. Results favor the complete weighted-mixture policy within CATCH; absent official fixed- and random-pipeline scores and a directly comparable external baseline limit broader conclusions.",
+    "publishedAt": "2026-09-25",
+    "author": "Simon Winther Albertsen, Hjalte Bjoernstrup, Said Djafar Said, Mostafa Mehdipour Ghazi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

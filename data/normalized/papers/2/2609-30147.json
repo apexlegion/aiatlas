@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2609-30147",
+  "name": "GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI",
+  "summary": "Large Language Models (LLMs) typically exhibit a performance profile where reliability degrades as task complexity increases. We address the challenge of generating high-quality natural language ex...",
+  "description": "Large Language Models (LLMs) typically exhibit a performance profile where reliability degrades as task complexity increases. We address the challenge of generating high-quality natural language executable plans for complex tasks by introducing $\\textbf{GRASP}$, a strategy-aware, multi-stage planning framework. GRASP decouples the planning pipeline across specialized, context-isolated modules: it pre-compiles global macro-guidelines (GenPlan), explores alternative localized strategies within isolated context windows (RevPlan), and independently evaluates trajectories using a multi-criteria...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.30147v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-24",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.30147v1"
+    }
+  ],
+  "authors": [
+    "Arunabh Srivastava</name> <arxiv:affiliation>Amir</arxiv:affiliation> </author> <author> <name>Mohammad A.</name> <arxiv:affiliation>Amir</arxiv:affiliation> </author> <author> <name> Khojastepour",
+    "Srimat Chakradhar",
+    "Sennur Ulukus"
+  ],
+  "paperId": "2609.30147",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-24",
+  "abstract": "Large Language Models (LLMs) typically exhibit a performance profile where reliability degrades as task complexity increases. We address the challenge of generating high-quality natural language executable plans for complex tasks by introducing $\\textbf{GRASP}$, a strategy-aware, multi-stage planning framework. GRASP decouples the planning pipeline across specialized, context-isolated modules: it pre-compiles global macro-guidelines (GenPlan), explores alternative localized strategies within isolated context windows (RevPlan), and independently evaluates trajectories using a multi-criteria..."
+}

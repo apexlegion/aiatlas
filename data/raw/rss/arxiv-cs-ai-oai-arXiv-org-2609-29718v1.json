@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.29718v1",
+  "fetchedAt": "2026-09-25T07:34:32.292Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.29718v1",
+    "title": "PPTBench: Can Coding Agents Reconstruct the Visual World through Structured, Editable Slides",
+    "link": "https://arxiv.org/abs/2609.29718",
+    "description": "arXiv:2609.29718v1 Announce Type: cross Abstract: Coding agents are beginning to act in the visual world. They now build webpages, GUIs, games, 3D scenes, diagrams, and documents. Success in such visual coding requires bridging two spaces: inferring visual structure and expressing it programmatically. Slides are a core medium of knowledge work, widely used to communicate ideas and collaborate in a form that people can directly inspect and edit. Therefore, they provide an ideal testbed for visual coding, as they require agents to recover visual structure and realize it as editable objects. However, existing benchmarks either rely on subjective open-ended evaluation, produce non-editable code outputs, or focus only on local editing rather than end-to-end visual reconstruction. We introduce PPTBench, which benchmarks visual coding through editable slide reconstruction. It contains 500 tasks, each based on a scientific flow diagram from a real arXiv paper and requiring agents to reconstruct it as a single PPTX page composed of native, editable objects. A four-stage Agentic Judge evaluates artifact validity, semantic correctness, rendering quality, and fine-grained visual quality. Across 31 configurations spanning model families, effort levels, and harnesses, the best configuration, Kimi K3, reaches only 67.80, while the median scores 19.47. We find that agents can reliably produce valid PPTX files but still struggle with semantic and visual correctness, especially text details. More reasoning mainly helps agents pass hard gates, while stronger verification is more consistently associated with higher quality. PPTBench advances the vision of coding agents that can understand and reconstruct the visual world through structured, editable code.",
+    "publishedAt": "2026-09-25",
+    "author": "Xiaoqiu Wang, Yizhe Chi, Wenyi Li, Deyao Hong, Zhihan Shan, Mingju Gao, Kaisen Yang, Youjie Zheng, Calvin Xiao, Qinhuai Na",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

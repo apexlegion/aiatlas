@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2609-30264",
+  "name": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
+  "summary": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve...",
+  "description": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low factual prediction error yet poorly distinguish candidate actions. We introduce AD-WM, an action-discriminative joint-embedding world model for counterfactual MPC. AD-WM combines residual latent dynamics with predictor-level action-recovery regularization, using inverse dynamics and a normalized recovery objective motivated by conditional mutual information. Both objectives encourage planning...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.30264v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-24",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.30264v1"
+    }
+  ],
+  "authors": [
+    "Jiabin Qiu",
+    "Zixuan Chen",
+    "Hongye Cao",
+    "Jieqi Shi",
+    "Jing Huo",
+    "Yang Gao"
+  ],
+  "paperId": "2609.30264",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-24",
+  "abstract": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low factual prediction error yet poorly distinguish candidate actions. We introduce AD-WM, an action-discriminative joint-embedding world model for counterfactual MPC. AD-WM combines residual latent dynamics with predictor-level action-recovery regularization, using inverse dynamics and a normalized recovery objective motivated by conditional mutual information. Both objectives encourage planning..."
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-29522v1",
+  "name": "Stale Does Not Mean Unsafe: Guard Precision for Tool-Using LLM Agents under Infrastructure State Races",
+  "summary": "arXiv:2609.29522v1 Announce Type: new Abstract: Tool-using language-model agents increasingly mutate schedulers, data pipelines, object stores, and access-control systems. Between an agent's read a...",
+  "description": "arXiv:2609.29522v1 Announce Type: new Abstract: Tool-using language-model agents increasingly mutate schedulers, data pipelines, object stores, and access-control systems. Between an agent's read and its commit, external state can change, but not every change makes the commit unsafe. We separate invalidating races, which break a declared safety predicate, from predicate-preserving and irrelevan...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.29522"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-25",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.29522"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-25",
+  "expiryAt": "2026-10-25T00:00:00.000Z",
+  "author": "Zihao Zheng, Jiayu Long, Baichuan Li, Junyi Yao"
+}

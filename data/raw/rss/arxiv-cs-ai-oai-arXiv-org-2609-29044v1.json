@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.29044v1",
+  "fetchedAt": "2026-09-25T07:34:32.292Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.29044v1",
+    "title": "Multi-Agent Orchestration of 3GPP Channel Estimators",
+    "link": "https://arxiv.org/abs/2609.29044",
+    "description": "arXiv:2609.29044v1 Announce Type: cross Abstract: Pilot-aided channel estimation is a decisive block in orthogonal frequency-division multiplexing (OFDM) receivers for both 5G New Radio (5G-NR) and Long-Term Evolution (LTE). A large body of estimators exists, from simple least-squares (LS) interpolation to statistically optimal linear minimum-mean-square-error (LMMSE) variants and, more recently, deep convolutional denoisers, yet no single estimator is uniformly best: the winner depends on the propagation scenario, the numerology, the operating signal-to-noise ratio (SNR), the mobility (Doppler), and the antenna configuration. In this paper, we quantify this fact through a unified study of eight literature estimators evaluated over the 3GPP TR~38.901 Urban-Macro (UMa), Urban-Micro (UMi), and Rural-Macro (RMa) channels generated with NVIDIA Sionna, for both 5G-NR and LTE numerologies, in single-input single-output (SISO) and $8\\times2$ multiple-input multiple-output (MIMO) settings. We then propose a \\emph{condition-adaptive multi-agent orchestrator} that treats each estimator as an independent agent and dispatches, per operating condition, to the agent that is best on a validation split without any genie knowledge. The orchestrator tracks the per-realization oracle to within $1.07$~dB and improves the normalized mean-square error (NMSE) over the best \\emph{fixed} strategy by up to $3.6$~dB at high SNR, where the low-SNR champion is no longer optimal. Because the agents are independent, running them concurrently delivers this best-of-eight accuracy at essentially single-estimator latency: a data-parallel partition scales the wall-clock nearly as $1/K$ with $K$ workers (up to $6.9\\times$), whereas naive by-algorithm partitioning is Amdahl-limited by the heaviest agent. The results substantiate multi-agent orchestration as a practical route to robust channel estimation across heterogeneous 5G-NR/LTE deployments.",
+    "publishedAt": "2026-09-25",
+    "author": "I. Zakir Ahmed, Hamid Sadjadpour",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

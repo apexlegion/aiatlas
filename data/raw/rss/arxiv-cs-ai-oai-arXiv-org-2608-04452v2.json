@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.04452v2",
+  "fetchedAt": "2026-09-25T07:34:32.292Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.04452v2",
+    "title": "Q-CueGraph: Query-Conditioned Visual Evidence Graphs for Multimodal Reasoning",
+    "link": "https://arxiv.org/abs/2608.04452",
+    "description": "arXiv:2608.04452v2 Announce Type: replace-cross Abstract: Multimodal large language models (MLLMs) can miss fine details in a full image that they recognize in a closer view. Recovering this evidence requires deciding where to look and how much surrounding context to retain. We present Q-CueGraph, a query-conditioned evidence acquisition method for frozen MLLMs. For text-rich images, it builds a reusable graph of OCR lines and layout relations. Each question activates anchors, expands them into contextual regions, and selects candidates for a single observation window. Query-conditioned object detections support natural-image search through the same region-selection and composition interface. A lightweight candidate scorer further learns which observations support correct answers from frozen-reader feedback and training answers, without evidence-box supervision. Across six benchmarks, we examine the roles of query conditioning, evidence composition, and learned answerability. With Qwen2.5-VL-7B, Q-CueGraph raises V*Bench accuracy from 0.696 to 0.832 using 19.1% of source-image area, and retains 92% of full-image ANLS on InfographicVQA using about half the image area. The analyses show that useful evidence depends on both its relevance to the question and the context available to the reader. Q-CueGraph makes these choices explicit before answer generation.",
+    "publishedAt": "2026-09-25",
+    "author": "Pengcheng Pan, Xinfang Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

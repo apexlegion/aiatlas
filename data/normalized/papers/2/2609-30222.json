@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2609-30222",
+  "name": "TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations",
+  "summary": "Existing point tracking models face a fundamental tradeoff: they can either track a sparse set of query points over long horizons, or track all points across only short clips. We introduce TrackEve...",
+  "description": "Existing point tracking models face a fundamental tradeoff: they can either track a sparse set of query points over long horizons, or track all points across only short clips. We introduce TrackEverything, a 3D point tracker that breaks this trade-off by representing videos as persistent 3D scene tracks in world coordinates. Grounded in the insight that videos are 2D projections of an underlying 3D world, TrackEverything decouples model complexity from video duration, allowing it to scale with unique physical scene geometry instead. Our approach introduces three key innovations. First, we e...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.30222v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-24",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2609.30222v1"
+    }
+  ],
+  "authors": [
+    "Ayush Jain",
+    "Sreeharsha Paruchuri",
+    "Ishita Gupta",
+    "Fan Zhang",
+    "Tanner Schmidt",
+    "Jakob Engel",
+    "Katerina Fragkiadaki",
+    "Adam W. Harley"
+  ],
+  "paperId": "2609.30222",
+  "category": "cs.CV",
+  "publishedAt": "2026-09-24",
+  "abstract": "Existing point tracking models face a fundamental tradeoff: they can either track a sparse set of query points over long horizons, or track all points across only short clips. We introduce TrackEverything, a 3D point tracker that breaks this trade-off by representing videos as persistent 3D scene tracks in world coordinates. Grounded in the insight that videos are 2D projections of an underlying 3D world, TrackEverything decouples model complexity from video duration, allowing it to scale with unique physical scene geometry instead. Our approach introduces three key innovations. First, we e..."
+}

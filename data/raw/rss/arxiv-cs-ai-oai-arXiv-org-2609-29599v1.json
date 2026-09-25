@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.29599v1",
+  "fetchedAt": "2026-09-25T07:34:32.292Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.29599v1",
+    "title": "PEEL: Physics-Enabled Evidential Learning for Identifiable Uncertainty in CT Imaging",
+    "link": "https://arxiv.org/abs/2609.29599",
+    "description": "arXiv:2609.29599v1 Announce Type: new Abstract: Normal-inverse-gamma (NIG) regression is not uniquely identifiable from its marginal Student-t likelihood: the likelihood determines three combinations of four NIG parameters and is constant along a one-dimensional fiber. We identify that fiber using independent physical measurement. As an initial embodiment, a reconstruction network receives one noisy filtered-backprojection (FBP) image and is first trained only by Student-t negative log-likelihood to estimate the three identifiable coordinates (gamma, alpha, c). The network is then frozen; repeated physical-noise realizations propagated through its reconstruction output form a Monte Carlo (MC) teacher label for output-domain aleatoric variance. An aleatoric head attached to frozen features learns this label, after which (beta, nu) are recovered algebraically. On 30 held-out simulated objects at five photon levels, one-image predictions achieved pooled Spearman correlations of 0.832-0.951 against independent 400-repeat references, median within-image correlations were 0.834-0.947, and 98.81-99.55% of evaluated pixels satisfied the algebraic admissibility condition. The method needs no KL term, reference prior, evidence regularizer, or cross-loss weight.",
+    "publishedAt": "2026-09-25",
+    "author": "Ge Wang (Rensselaer Polytechnic Institute)",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

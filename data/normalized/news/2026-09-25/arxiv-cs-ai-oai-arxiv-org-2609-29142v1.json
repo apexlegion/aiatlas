@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-29142v1",
+  "name": "Not Every Token Is Worth Distilling: Selective Supervision for Direct-OPD",
+  "summary": "arXiv:2609.29142v1 Announce Type: cross Abstract: Direct On-Policy Distillation (Direct-OPD) transfers reinforcement-learning-induced policy improvements from a small model to a larger student by u...",
+  "description": "arXiv:2609.29142v1 Announce Type: cross Abstract: Direct On-Policy Distillation (Direct-OPD) transfers reinforcement-learning-induced policy improvements from a small model to a larger student by using the token-level log-ratio between post-RL and pre-RL checkpoints as dense supervision on the student's own rollouts. This transfer rewards the policy shift at every state, yet the log-ratio measu...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.29142"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-25",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.29142"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-25",
+  "expiryAt": "2026-10-25T00:00:00.000Z",
+  "author": "Yibo Zhao, Zixuan Yang, Yunshi Lan, Xiang Li"
+}

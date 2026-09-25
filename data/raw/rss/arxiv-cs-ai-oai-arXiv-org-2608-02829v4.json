@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.02829v4",
+  "fetchedAt": "2026-09-25T07:34:32.292Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.02829v4",
+    "title": "Wiring Beats Blending: Structure-Aware Compensation for Transformer Downscaling",
+    "link": "https://arxiv.org/abs/2608.02829",
+    "description": "arXiv:2608.02829v4 Announce Type: replace-cross Abstract: Model families are trained size by size. Can a pretrained large model instead be converted into a smaller sibling? We study the 1.4B-&gt;410M conversion in Pythia end to end. Representations align strongly across sizes (ridge R^2=0.84); parameters align weakly. Dense weight projection is destructive; a bit-exact control places the fault in basis mixing, which breaks rotary, per-head, GELU, and LayerNorm structure. Residuals after the best-fit linear operator carry no learnable or transferable signal under shuffle controls, so conversion value lives in initialization. Matched-budget continued pre-training separates two independent levers: least-squares compensation (function lever, best zero-shot) and variance-preserving rescale (dynamics lever, best endpoints). Placement follows the architecture: compensation is well-posed exactly where no normalization sits between cut and read; norm-fronted paths take rescale. Compensation is a low-budget, token-efficiency win, not a universal one. At 30M tokens it beats the best subcloning variant on a width-reduced pair (84.0+-1.8 vs. 89.7+-3.7, 3/3 seeds) and a held-out depth-reduced pair (109.3 vs. 117.9, 3/3 seeds). Selection given the same activation statistics recovers under half of that gap (3/3 seeds): the gain is the re-fit, not the information. At 33x the budget the two reach parity (40.3+-0.3 vs. 40.3+-0.5, 3 seeds), both far ahead of from-scratch, which transfer always beats (up to 18x at low budget, narrowing at convergence and at the largest scale). At ~5x the donor scale (6.9B-&gt;1.4B) stacking both levers over-corrects, consistent with an ill-conditioned compensation solve at large width, pointing to dimension-aware regularization as a fix. The init also beats structured pruning plus distillation, the standard pipeline, at matched budget, and improves further combined with it. Code, checkpoints, and the frozen eval corpus are released.",
+    "publishedAt": "2026-09-25",
+    "author": "Ravi Satya Durga Prasad Yenugula",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

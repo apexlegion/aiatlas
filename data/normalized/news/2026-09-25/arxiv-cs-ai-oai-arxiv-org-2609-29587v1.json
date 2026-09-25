@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-29587v1",
+  "name": "Sequential knowledge editing breaks a model's ability to tell good evidence from bad, without costing it accuracy",
+  "summary": "arXiv:2609.29587v1 Announce Type: new Abstract: Knowledge editing is evaluated on whether the edited fact changed, whether paraphrases follow, and whether unrelated answers stayed put. A model can...",
+  "description": "arXiv:2609.29587v1 Announce Type: new Abstract: Knowledge editing is evaluated on whether the edited fact changed, whether paraphrases follow, and whether unrelated answers stayed put. A model can pass all three and still lose something none of them measures: the ability to decide, on facts that were never edited, which retrieved documents to believe. We score the log odds a model assigns to it...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.29587"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-25",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.29587"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-25",
+  "expiryAt": "2026-10-25T00:00:00.000Z",
+  "author": "Atul Anand"
+}

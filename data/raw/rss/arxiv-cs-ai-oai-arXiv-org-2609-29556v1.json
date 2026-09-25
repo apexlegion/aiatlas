@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.29556v1",
+  "fetchedAt": "2026-09-25T07:34:32.292Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.29556v1",
+    "title": "Cross-Modal Emotion Understanding: A Transformer-GAT Approach for Dialogue Emotion Recognition",
+    "link": "https://arxiv.org/abs/2609.29556",
+    "description": "arXiv:2609.29556v1 Announce Type: new Abstract: Multimodal emotion recognition is a key research area in affective computing, with applications in sentiment analysis, intelligent customer service, and human-computer interaction. However, existing methods often rely on single-modal features or simple multimodal fusion, failing to capture the synergy between global and local contexts, which limits model performance and emotion understanding. To address this challenge, we propose Transformer-GAT, a hybrid framework that combines Transformer and the Graph Attention Network to enable cross-modal emotion understanding. The Transformer is used to capture global semantic information, while the Graph Attention Network is employed to model fine-grained relationships between modalities, thereby enhancing the representation of emotional features. Experiments on the IEMOCAP and MELD datasets show that our model achieves weighted F1 scores of 72.45% and 77.37%, outperforming state-of-the-art methods. These results demonstrate that Transformer-GAT effectively integrates multimodal features, balances global and local contexts, and provides deeper emotional insights, offering new directions for multimodal emotion computing.",
+    "publishedAt": "2026-09-25",
+    "author": "Jiaqi Qiao, Yifan Lyu, Xiujuan Xu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

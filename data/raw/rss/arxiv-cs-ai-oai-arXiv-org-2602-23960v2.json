@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.23960v2",
+  "fetchedAt": "2026-09-25T07:34:32.292Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.23960v2",
+    "title": "SHINE: Sequential Hierarchical Integration Network for EEG and MEG",
+    "link": "https://arxiv.org/abs/2602.23960",
+    "description": "arXiv:2602.23960v2 Announce Type: replace-cross Abstract: How natural speech is represented in the brain constitutes a major challenge for cognitive neuroscience. Reconstructing the speech envelope and Mel spectrogram from EEG and MEG provides a time-resolved way to study its temporal and spectral structure. Speech-related neural activity spans sensors and temporal scales; extracting these representations while adapting the use of context to each acoustic target is a central problem in speech reconstruction. We propose SHINE, a Sequential Hierarchical Integration Network for EEG and MEG. A residual sensor adapter unifies input dimensions, intermediate dilated-block states retain temporal depth, and a target- and time-dependent gate fuses local hierarchical and attention-enhanced context predictions. Across two EEG and two MEG datasets, SHINE has the highest mean envelope and mean-Mel Pearson correlations among nine local baseline implementations on all eight dataset-metric combinations. SHINE also placed second in the speech-detection Extended Track of the NeurIPS 2025 PNPL Competition. Code will be released at https://github.com/xuxiran/SHINE.",
+    "publishedAt": "2026-09-25",
+    "author": "Xiran Xu, Yujie Yan, Songyi Li, Linze Zheng, Zifeng Zhang, Mochu Dong, Jing Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "meta-llama/Meta-Llama-3-8B",
-  "fetchedAt": "2026-09-24T07:31:07.751Z",
+  "fetchedAt": "2026-09-25T07:34:29.934Z",
   "data": {
     "_id": "661f97d48e7f3438386f755d",
     "id": "meta-llama/Meta-Llama-3-8B",
@@ -25,8 +25,8 @@
       "deploy:sagemaker",
       "region:us"
     ],
-    "downloads": 255181,
-    "likes": 6704,
+    "downloads": 246740,
+    "likes": 6706,
     "modelId": "meta-llama/Meta-Llama-3-8B",
     "author": "meta-llama",
     "sha": "8cde5ca8380496c9a6cc7ef3a8b46a0372a1d920",
@@ -148,7 +148,6 @@
       "EuroEval/euroeval_leaderboard",
       "VIDraft/global-llm-leaderboard",
       "cs686/ardy-motion-api",
-      "K00B404/LLM_Quantization",
       "LabHC/dike-leaderboard",
       "featherless-ai/try-this-model",
       "eduagarcia/open_pt_llm_leaderboard",
@@ -177,6 +176,7 @@
       "medmekk/TorchAO_Quantization",
       "soeb/meta-llama-Meta-Llama-3-8B",
       "totolook/Quant",
+      "K00B404/LLM_Quantization",
       "qinghua-zhou/stealth-edits",
       "fantos/Chatbot-Compare",
       "aelitta/BioMistral_gradio",
@@ -232,9 +232,10 @@
       "exploitz3r0bbd/Quantize-HF-Models",
       "Oss11/Quantize-HF-Models",
       "bobbyjin/oll-v2-performance-frontiers",
-      "anasxs/icd10-llama3-8b-qlora-demo",
+      "mlanvvs/icd10-llama3-8b-qlora-demo",
       "nisum04/nepbpe-api",
       "drizzymedia/ardy",
+      "jwherrold/neuraldaredevil-8b-abliterated-chat",
       "tws-pappu/Llama3_PK_DemoAPP",
       "RajatChaudhari/QueryingLangchainPaper",
       "Rupesx007/meta-llama-Meta-Llama-3-8B",
@@ -242,8 +243,7 @@
       "VictorHAM/meta-llama-Meta-Llama-3-8B",
       "ClefChen/ARIN_7102_final",
       "JARVIS-DEV/meta-llama-Meta-Llama-3-8B",
-      "machalex/meta-llama-Meta-Llama-3-8B",
-      "berkekoca/meta-llama-Meta-Llama-3-8B"
+      "machalex/meta-llama-Meta-Llama-3-8B"
     ],
     "createdAt": "2024-04-17T09:35:16.000Z",
     "safetensors": {

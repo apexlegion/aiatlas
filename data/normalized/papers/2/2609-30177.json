@@ -1,0 +1,41 @@
+{
+  "type": "paper",
+  "slug": "2609-30177",
+  "name": "Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search",
+  "summary": "Query understanding (QU) plays a critical role in production search systems, translating raw user queries into search execution plans that drive downstream retrieval and ranking. While large langua...",
+  "description": "Query understanding (QU) plays a critical role in production search systems, translating raw user queries into search execution plans that drive downstream retrieval and ranking. While large language models (LLMs) have enabled QU to be framed as a structured multi-task generation problem (e.g., intent classification, query expansion), optimizing such models to produce search-engine-coupled outputs remains challenging: static, label-based supervision fails to capture how each component actually interacts with the underlying search pipeline to affect downstream performance. We present a searc...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.30177v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-24",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.30177v1"
+    }
+  ],
+  "authors": [
+    "Nayoung Choi",
+    "Shengjian Chen",
+    "Xiaokai Wei",
+    "Wenzheng Zhang",
+    "Daiyao Yi",
+    "Rachit Pareek",
+    "Vincent Su",
+    "Michelle Gong",
+    "Jinho D. Choi"
+  ],
+  "paperId": "2609.30177",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-24",
+  "abstract": "Query understanding (QU) plays a critical role in production search systems, translating raw user queries into search execution plans that drive downstream retrieval and ranking. While large language models (LLMs) have enabled QU to be framed as a structured multi-task generation problem (e.g., intent classification, query expansion), optimizing such models to produce search-engine-coupled outputs remains challenging: static, label-based supervision fails to capture how each component actually interacts with the underlying search pipeline to affect downstream performance. We present a searc..."
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.12730v2",
+  "fetchedAt": "2026-09-25T07:34:32.292Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.12730v2",
+    "title": "BEHAVE: Real-Time Modeling of Human Systems as Observable Complex Dynamical Systems and Operational Objects for Physical AI",
+    "link": "https://arxiv.org/abs/2605.12730",
+    "description": "arXiv:2605.12730v2 Announce Type: replace Abstract: A robot can track every person and still fail to see the system those people form. BEHAVE treats an interacting human group as a complex dynamical system: a HumanSystem, an observable, persistent, relational object whose state is carried partly by interaction structure. It is therefore neither explicit in independent individual-track representations nor reducible to simple aggregates. We call this operational emergence. On public pedestrian data, interaction evidence improves group discrimination beyond proximity (AUC 0.896-&gt;0.933). On 24 bottleneck runs, future-calm and future-breakdown moments matched on density, mean speed, flow and speed dispersion differ in neighbour-level organization under run-level inference (p=0.028). From interaction evidence K, BEHAVE constructs conservative routing P and local dynamics J=-D+GP, separating routing from gain and relaxation. Stability, critical modes and response become explicit model quantities. We derive exact bounds on what topology can change in collective stability, and conditions under which an observable is blind to the mode becoming unstable. In a causal real-data stress test, the coupled operator improves held-out local dynamics over self-only relaxation by 4.5%. The fitted stability margin St is prospectively associated with future throughput loss but overlaps with lag-1 autocorrelation and self-only relaxation; we read it as a model-based early-warning quantity, not a superior scalar alarm. For Physical AI, the HumanSystem provides a real-time human-side object between perception and action. A robot or scheduler can query group state, structure, critical modes and forced response. Action-conditioned stability changes are reported only when supported by identified changes in human dynamics or signed human-machine coupling. Mixed human-machine systems are represented through a joint Jacobian.",
+    "publishedAt": "2026-09-25",
+    "author": "Helene Malyutina",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

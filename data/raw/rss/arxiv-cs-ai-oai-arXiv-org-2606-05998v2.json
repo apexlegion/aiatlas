@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.05998v2",
+  "fetchedAt": "2026-09-25T07:34:32.292Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.05998v2",
+    "title": "Deep Learning-based 3D Oral Cavity Reconstruction Using 2D Intraoral Images",
+    "link": "https://arxiv.org/abs/2606.05998",
+    "description": "arXiv:2606.05998v2 Announce Type: replace-cross Abstract: Oral 3D modelling is one of the most essential stages in dentistry, and many different approaches, such as impression taking and intraoral scanning, are commonly used for this phase, each with notable limitations. Impression taking, which involves placing alginate or silicone material in a tray and inserting it into the patient's oral cavity to form a negative mold, suffers from significant patient discomfort, material deformation errors, and difficulties in storage and transportation. Intraoral scanners, which directly scan oral structures in real time using structured light or laser technology, produce state-of-the-art results but are associated with substantially high equipment costs. To address these limitations, this paper proposes a software-based approach that reconstructs a 3D oral model using only ten 2D intraoral images captured from different angles, requiring no dedicated hardware devices. The proposed method reduces cost, eliminates the need for physical scanning equipment, minimises patient discomfort, and enables automated 3D reconstruction. The model is trained on the publicly available Teeth3DS dataset, comprising 950 upper jaw samples, and employs MobileNetV2 as the image encoder combined with Multi-head Attention for multi-view feature fusion. The proposed model achieves an accuracy of 77.49%, measured by nearest-neighbor matching with a distance threshold of 0.035. However, predicted vertices tend to concentrate in high-density regions of the ground truth, resulting in uneven point distribution across the reconstructed model.",
+    "publishedAt": "2026-09-25",
+    "author": "Jihun Cho, Soo-Yeon Jeong, Eun-Jeong Bae, Sun-Young Ihm",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
