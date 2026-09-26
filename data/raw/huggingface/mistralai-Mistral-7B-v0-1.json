@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "mistralai/Mistral-7B-v0.1",
-  "fetchedAt": "2026-09-25T07:34:30.133Z",
+  "fetchedAt": "2026-09-26T07:27:48.206Z",
   "data": {
     "_id": "650aedb6238a644cb93a52c3",
     "id": "mistralai/Mistral-7B-v0.1",
@@ -23,7 +23,7 @@
       "text-generation-inference",
       "region:us"
     ],
-    "downloads": 430986,
+    "downloads": 430912,
     "likes": 4184,
     "modelId": "mistralai/Mistral-7B-v0.1",
     "author": "mistralai",
@@ -125,8 +125,9 @@
       "embedl/hfviewer",
       "EuroEval/euroeval_leaderboard",
       "VIDraft/global-llm-leaderboard",
-      "Vokturz/can-it-run-llm",
       "overhead520/LLM-Settings-Guide",
+      "aquanode/gpu-vram-calculator",
+      "Vokturz/can-it-run-llm",
       "eduagarcia/open_pt_llm_leaderboard",
       "3DTopia/3DGen-Arena",
       "speakleash/open_pl_llm_leaderboard",
@@ -220,8 +221,7 @@
       "DRDELATV/gpt-local",
       "duoemo/ai-agent-demo",
       "LeroyDyer/LCARS_BASIC_CHAT",
-      "JingyiZhou/anlp",
-      "afeng/tokenizers"
+      "JingyiZhou/anlp"
     ],
     "createdAt": "2023-09-20T13:03:50.000Z",
     "safetensors": {

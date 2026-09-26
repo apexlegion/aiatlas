@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-09-25T07:34:30.624Z",
+  "fetchedAt": "2026-09-26T07:27:48.704Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4670376,
-    "likes": 6377,
+    "downloads": 4600554,
+    "likes": 6386,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -348,17 +348,19 @@
     "spaces": [
       "embedl/hfviewer",
       "mteb/leaderboard",
-      "openai/whisper",
+      "treble-technologies/ffasr",
       "hf-audio/whisper-large-v3",
-      "nari-labs/Dia2-2B",
+      "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "tvosch/Dutch-ASR-Leaderboard",
       "hugging-apps/ex-omni-talking-avatar",
       "mocomoco-inc/AudioDecisionModel",
+      "aquanode/gpu-vram-calculator",
+      "openai/whisper",
       "artificialguybr/Video-Transcription-Smart-Summary",
       "artificialguybr/video-dubbing",
       "sanchit-gandhi/whisper-jax-spaces",
-      "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "OpenSound/CapSpeech-TTS",
+      "nari-labs/Dia2-2B",
       "Illia56/Ask-AI-Youtube",
       "kadirnar/Audio-WebUI",
       "cstr/transcribe_audio",
@@ -366,7 +368,6 @@
       "gobeldan/insanely-fast-whisper-webui",
       "alexnasa/HuMo_local",
       "devilent2/whisper-v3-zero",
-      "treble-technologies/ffasr",
       "wcy1122/MGM-Omni",
       "aiqcamp/ENGLISH-Speaking-Scoring",
       "choimirai/whisper-large-v3",
@@ -444,8 +445,7 @@
       "ArtFix0/speech-to-speech-dashboard",
       "ysharma/gr-workflow-microduck-lab",
       "geraldadli/speech-emotion-recognition",
-      "Maximofn/subtify",
-      "TogetherAI/whisper-large-v3"
+      "Maximofn/subtify"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {
