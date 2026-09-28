@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.31179v1",
+  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.31179v1",
+    "title": "SPO: Discovering Adaptive Large Neighborhood Search Operators via Stackelberg Program Optimization",
+    "link": "https://arxiv.org/abs/2609.31179",
+    "description": "arXiv:2609.31179v1 Announce Type: new Abstract: Large neighborhood search (LNS) relies critically on destroy and repair operators, whose effectiveness depends on both adaptation to the evolving LNS state and interaction between the two roles. We introduce Stackelberg Program Optimization (SPO), an LLM-based framework for discovering adaptive executable destroy-repair programs. SPO conditions operator decisions on a compact LNS state, allowing state-dependent behavior to emerge through program discovery, and organizes destroy-repair discovery as a Stackelberg interaction over program space that reflects their asymmetric dependency. Role-specific credits evaluate destroy programs as leaders and repair programs as conditional follower responses, guiding a coupled optimization process that combines LLM generator learning with population-based evolutionary search over programs. Experiments on the traveling salesperson problem and capacitated vehicle routing problem show that SPO outperforms strong baselines across a broad range of settings and generalizes beyond the discovery scale to larger instances and benchmark sets. Behavioral analyses further demonstrate state-dependent operator behavior and coupled destroy-repair improvement during discovery.",
+    "publishedAt": "2026-09-28",
+    "author": "Xinyi Ke, Kai Li, Junliang Xing, Yifan Zhang, Jian Cheng",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

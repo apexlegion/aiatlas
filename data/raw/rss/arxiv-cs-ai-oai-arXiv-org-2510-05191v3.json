@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2510.05191v3",
+  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2510.05191v3",
+    "title": "Provable Speech Attributes Conversion via Latent Independence",
+    "link": "https://arxiv.org/abs/2510.05191",
+    "description": "arXiv:2510.05191v3 Announce Type: replace-cross Abstract: Conditional generation and disentangled representation learning are central to controlled generation across audio, vision, and multimodal domains. However, despite strong empirical progress, particularly in speech style transfer, most existing approaches rely on heuristic objectives and architectural choices, offering limited theoretical understanding of when and why reliable attribute control is achievable. In this work, we develop a formal framework for speech attribute conversion and provide a theoretical analysis of sufficient conditions for exact and consistent transfer. Our analysis focuses on a deterministic autoencoder setting augmented with an independence constraint between the learned latent representation and the controllable attribute. Under explicit population-level assumptions about the data-generating process, we establish guarantees linking reconstruction, independence, and the feasibility of attribute manipulation while preserving task-relevant content. We further show how the theoretical framework translates into practice by proposing a practical voice conversion method that directly implements its core principles. Experimental evaluations on voice and pitch conversion tasks demonstrate the applicability of the theoretical analysis to real-world speech conversion settings and show that the resulting method achieves competitive performance against existing approaches.",
+    "publishedAt": "2026-09-28",
+    "author": "Jonathan Svirsky, Ofir Lindenbaum, Uri Shaham",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

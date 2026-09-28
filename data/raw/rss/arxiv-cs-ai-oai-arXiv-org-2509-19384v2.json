@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2509.19384v2",
+  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2509.19384v2",
+    "title": "AUWave: A Data-Driven Model for Reconstructing Significant Wave Heights Using Sparse Observations",
+    "link": "https://arxiv.org/abs/2509.19384",
+    "description": "arXiv:2509.19384v2 Announce Type: replace-cross Abstract: Reconstructing high-resolution regional significant wave height (SWH) fields from sparse buoy observations is a critical challenge for ocean monitoring. We introduce AUWave, a hybrid deep learning framework that fuses a station-wise encoder with a multi-scale U-Net enhanced by self-attention to recover regional SWH fields. Trained and validated using NDBC buoy observations and ERA5 reanalysis over the Hawaii region, AUWave achieves high accuracy. It consistently outperforms a representative baseline, especially in configurations with more than a single buoy, demonstrating the benefit of its multi-scale architecture. Spatial error analysis shows performance is highest near observation sites, as expected. Further, buoy ablation studies identify critical anchor stations whose removal disproportionately degrades performance, offering actionable guidance for observational network design. AUWave provides a scalable pathway for gap-filling, creating high-resolution priors for data assimilation, and contingency reconstruction. Cross-basin evaluations in the Atlantic and Pacific confirm the model robustness and portability, highlighting its potential for operational use across diverse ocean regimes.",
+    "publishedAt": "2026-09-28",
+    "author": "Hongyuan Shi, Yilin Zhai, Ping Dong, Zaijin You, Chao Zhan, Qing Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

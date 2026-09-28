@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.08826v3",
+  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.08826v3",
+    "title": "Affective Flow Language Model for Emotional Support Conversation",
+    "link": "https://arxiv.org/abs/2602.08826",
+    "description": "arXiv:2602.08826v3 Announce Type: replace-cross Abstract: Large language models (LLMs) have advanced emotional support conversation, but existing alignment methods rely mainly on sparse preferences at the response level or outcomes at the dialogue level, providing limited supervision for sequential strategy decisions in multi-turn interactions. This raises a key question: how can detailed process signals be derived from overall dialogue outcomes to guide the gradual adaptation of support strategies? We propose the Affective Flow Language Model (AFlow), which models multi-turn emotional support as an affective utility flow evolving along dialogue trajectories. AFlow searches diverse support trajectories and estimates the utility of intermediate dialogue states and candidate strategies. It further introduces Affective Flow Preference Optimization (AFPO), which uses a flow-balance objective defined over dialogue subpaths to propagate downstream preference signals to intermediate states and learn strategy transitions consistent with support outcomes over the full dialogue. AFlow introduces flow-balance learning into multi-turn affective interaction, providing a process-based approach to dynamic affect modeling and continuous strategy optimization. Experiments on ExTES and ESConv show consistent improvements in strategy alignment, response diversity, and generation quality across different model environments and evaluation settings. Our code is available at https://github.com/chz2025/AffectiveFlow.",
+    "publishedAt": "2026-09-28",
+    "author": "Chenghui Zou, Ning Wang, Tiesunlong Shen, Luwei Xiao, Chuan Ma, Xiangpeng Li, Rui Mao, Erik Cambria",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

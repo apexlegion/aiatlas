@@ -1,0 +1,33 @@
+{
+  "type": "paper",
+  "slug": "2609-31468",
+  "name": "PriceBench: A Diagnostic Benchmark for Price, Quality, and Brand Preferences in LLM Booking Agents",
+  "summary": "LLMs increasingly act as purchasing agents, which makes the LLM, not the user, the one choosing among the options that satisfy a request; its preferences quietly fix what gets bought and what it co...",
+  "description": "LLMs increasingly act as purchasing agents, which makes the LLM, not the user, the one choosing among the options that satisfy a request; its preferences quietly fix what gets bought and what it costs. Hotel booking is a clean instance: a high-volume choice settled on a few comparable attributes, where the pick reveals those preferences. We introduce PriceBench, a diagnostic benchmark that recovers an LLM's price, quality, and brand preferences from its booking choices with a logit choice model, applied to 28 LLMs from 8 providers on 3,600 hotel tasks from 179 real New York City properties....",
+  "tags": [
+    "arxiv",
+    "econ.GN"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.31468v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category econ.GN.",
+      "href": "https://arxiv.org/abs/2609.31468v1"
+    }
+  ],
+  "authors": [
+    "Pavel Kireyev"
+  ],
+  "paperId": "2609.31468",
+  "category": "econ.GN",
+  "publishedAt": "2026-09-25",
+  "abstract": "LLMs increasingly act as purchasing agents, which makes the LLM, not the user, the one choosing among the options that satisfy a request; its preferences quietly fix what gets bought and what it costs. Hotel booking is a clean instance: a high-volume choice settled on a few comparable attributes, where the pick reveals those preferences. We introduce PriceBench, a diagnostic benchmark that recovers an LLM's price, quality, and brand preferences from its booking choices with a logit choice model, applied to 28 LLMs from 8 providers on 3,600 hotel tasks from 179 real New York City properties...."
+}

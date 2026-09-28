@@ -1,0 +1,41 @@
+{
+  "type": "paper",
+  "slug": "2609-31619",
+  "name": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
+  "summary": "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping...",
+  "description": "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping mechanisms or by explicitly encouraging shorter reasoning during training, for example through reinforcement learning with length penalties. We show that substantial efficiency gains can instead emerge from a different kind of supervision: \\textit{confidence}. Using a self-supervised procedure, we fine-tune reasoning models to predict their confidence in the answer at intermediate points along th...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.31619v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.31619v1"
+    }
+  ],
+  "authors": [
+    "Parsa Hosseini",
+    "Akasha Tigalappanavara",
+    "Sumit Nawathe",
+    "Chenrui Fan",
+    "Sourya Basu",
+    "Genta Indra Winata",
+    "Anirban Das",
+    "Soheil Feizi",
+    "Nima Chitsazan"
+  ],
+  "paperId": "2609.31619",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-25",
+  "abstract": "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping mechanisms or by explicitly encouraging shorter reasoning during training, for example through reinforcement learning with length penalties. We show that substantial efficiency gains can instead emerge from a different kind of supervision: \\textit{confidence}. Using a self-supervised procedure, we fine-tune reasoning models to predict their confidence in the answer at intermediate points along th..."
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.05725v2",
+  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.05725v2",
+    "title": "Detecting Time Series Anomalies Like an Expert: A Multi-Agent LLM Framework with Specialized Analyzers",
+    "link": "https://arxiv.org/abs/2605.05725",
+    "description": "arXiv:2605.05725v2 Announce Type: replace Abstract: Time-series anomaly detection often returns scores or intervals, while analysts need to understand the abnormal behavior and the evidence supporting it. We introduce SAGE (Specialized Analyzer Group for Expert-like Detection), a multi-agent framework for evidence-grounded diagnosis of univariate time series. Four specialized Analyzers examine point, structural, seasonal, and pattern anomalies using numerical tools and diagnostic visualizations. A Detector integrates their evidence into intervals, candidate types, and evidence-strength confidence scores; a Supervisor translates these records into analyst-facing reports. Synthetic in-context references are constructed from normal-reference training segments, reducing dependence on real anomalous demonstrations. Across Yahoo S5, KPI, and WSD, SAGE achieves an average Point-F1 of 66.26, the highest among the evaluated methods. Controlled synthetic evaluation examines localization and type diagnosis, while component ablations support the detection contribution of specialized evidence generation. In a method-blind human study, evaluators rate SAGE's diagnostic outputs as more useful than those of the compared methods.",
+    "publishedAt": "2026-09-28",
+    "author": "Hyeongwon Kang, Jeongseob Kim, Jinwoo Park, Pilsung Kang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

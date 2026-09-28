@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2609-31607",
+  "name": "Statistical attribute alignment for black-box generative AI via output post-processing",
+  "summary": "Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-ge...",
+  "description": "Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-generated output aligns with a user-specified target. This is motivated by examples such as fairness, where we want to ensure that a protected attribute (e.g., gender, race, or age categories) follows a desired distribution, and synthetic data generation, where we want the generated data to be representative of a target distribution. We study the practically important black-box access setting, where...",
+  "tags": [
+    "arxiv",
+    "stat.ME"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.31607v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category stat.ME.",
+      "href": "https://arxiv.org/abs/2609.31607v1"
+    }
+  ],
+  "authors": [
+    "Kevin Jiang",
+    "Morgane Austern",
+    "Edgar Dobriban",
+    "Jason M. Klusowski"
+  ],
+  "paperId": "2609.31607",
+  "category": "stat.ME",
+  "publishedAt": "2026-09-25",
+  "abstract": "Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-generated output aligns with a user-specified target. This is motivated by examples such as fairness, where we want to ensure that a protected attribute (e.g., gender, race, or age categories) follows a desired distribution, and synthetic data generation, where we want the generated data to be representative of a target distribution. We study the practically important black-box access setting, where..."
+}

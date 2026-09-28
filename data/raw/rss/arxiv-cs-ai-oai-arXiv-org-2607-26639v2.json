@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.26639v2",
+  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.26639v2",
+    "title": "Depth, Not Breadth: Best-of-N Jailbreaking Beyond Surface Noise",
+    "link": "https://arxiv.org/abs/2607.26639",
+    "description": "arXiv:2607.26639v2 Announce Type: replace-cross Abstract: Best-of-N jailbreaking spends a query budget on surface variation, scrambling and recasing a request until one draw lands. We ask what a budget buys when its variance is moved into a structural channel instead, holding the search identical across both arms so the encoding is the only difference. Against SAGE, the strongest published self-check defense, best-of-N over a code-completion encoding reaches 67, 22 and 15% of behaviors on three open-weight targets, where that encoding fired once reaches at most 4.7% and the published character search at full budget at most 3.0%: 9 to 75 times the sum of the parts, with bootstrap intervals clearing both ingredients on every target. We report the operative figure beside the headline rather than the headline alone: at the actionable severity threshold those cells read 24, 8 and 1 behaviors (95% CI [13, 28], [3, 13], [0, 3]). A 2x2 holding encoding and variation apart shows the two defense families fail to different factors: a transform defense is broken by the depth of the encoding (7 -&gt; 67 behaviors at fixed variation) and a gate by the breadth of the variation (13 -&gt; 57 at fixed encoding). Repeated sampling also inflates apparent robustness, because an attacker who may try N times experiences the maximum over draws while safety results are reported as means: on one target SAGE blocks 99.8% of individual draws yet loses 12 behaviors to a repeat attacker where a classifier gate blocking 95.6% loses 10. Removing the target's sampling costs SAGE 59, 76, 82 and 29 points of coverage more than it costs an undefended control, against 25, -5, 8 and 2 for a defense whose verdict comes from a fixed shadow model. The design that loses is the one fusing screening and answering into a single generation, so every attacker draw redraws the safety decision as well. The prescription is architectural, not free: do not fuse screening with generation.",
+    "publishedAt": "2026-09-28",
+    "author": "Haoyu Zhang, Hanwen Liu, Yang Chen, Shibo Zheng, Xiangchen Guan, Zhuoxi Wang, Zijian Xiao, Xiao Luo, Yi Feng, Haowen Xu, Mohammad Zandsalimy, Shanu Sushmita",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

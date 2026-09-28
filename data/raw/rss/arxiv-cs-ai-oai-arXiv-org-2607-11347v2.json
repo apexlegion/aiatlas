@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.11347v2",
+  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.11347v2",
+    "title": "Do Neural Networks Preserve Case Structure? Case-Based Decomposition, Interpretation, and Decision Consistency",
+    "link": "https://arxiv.org/abs/2607.11347",
+    "description": "arXiv:2607.11347v2 Announce Type: replace Abstract: Neural networks increasingly inform consequential decisions, making their reliability increasingly important. Yet their internal mechanisms provide little evidence of whether decisions remain grounded in the training cases and which cases ultimately support or oppose their outcomes. Without this connection between decisions and training cases, users cannot determine whether a model has learned reliable decision patterns from data. This motivates a fundamental question: do neural networks preserve case structure? We establish a connection between neural networks and Case-Based Decision Theory (CBDT), showing that trained neural networks can preserve a recoverable case structure through their learned representations. Such a structure allows fitted decision margins to be decomposed into individual case contributions. We identify the conditions under which this recovered case structure admits a CBDT interpretation. We further establish decision consistency between this interpretation and the decision selected by the original neural network. Experiments on a controlled CBDT setting and three decision tasks based on real-world data validate our approach. These results connect neural network decisions with the cases that shape them. This connection allows model choices to be traced back to supporting and opposing cases, providing a basis for assessing the reliability of neural network decisions.",
+    "publishedAt": "2026-09-28",
+    "author": "Manli Yan, Yaowen Yu, Yong Zhao, Yuebin Lin, Shoudong Han",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.30993v1",
+  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.30993v1",
+    "title": "FLIP: Final Layer Inference-Time Probing for Vision-Language Models",
+    "link": "https://arxiv.org/abs/2609.30993",
+    "description": "arXiv:2609.30993v1 Announce Type: cross Abstract: We present FLIP, a final-layer inference-time probe for testing whether a logit-facing intervention site in an open-weight vision-language model (VLM) supports structured, task-linked computation rather than generic perturbation. Behavioral change under internal intervention is otherwise mechanistically ambiguous: it may reflect improved use of visual evidence, generic output instability, or outright degradation. FLIP applies elementwise flooring to the final normalized hidden state before logit computation, leaving parameters, prompts, and decoding unchanged. On a controlled detection/counting probe, sweeping intervention strength reveals three regions: negligible change, a bounded interior regime in which detection recall at IoU 0.50 ($R_{50}$) improves while tolerant counting error ($\\mathcal{E}_{\\mathrm{count}}$) falls, and over-suppression. We formalize a four-criterion probe-and-sweep protocol for disciplining the interpretation of intervention effects: regime structure, grounding-proxy alignment, feature-coherence dependence, and failure to reproduce the same positive regime on a performance-based negative control. The post-normalization state passed to the output head is the logit-facing instantiation of this test; under a non-targeted flooring sweep it satisfies the full protocol. Raw decoder-layer interventions, including the last-block output before final normalization, and the singleton-pair left/right control fail to reproduce the Final-site signature, while same-site operators and multiple VLMs replicate it. FLIP is therefore a validation step for intervention-based mechanistic interpretability, not a steering method.",
+    "publishedAt": "2026-09-28",
+    "author": "Drandreb Earl O. Juanico, Rowel O. Atienza",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

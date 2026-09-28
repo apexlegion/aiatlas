@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-30878v1",
+  "name": "TISD: On-Policy Self-Distillation with Trajectory Intervention",
+  "summary": "arXiv:2609.30878v1 Announce Type: new Abstract: On-policy self-distillation (OPSD) provides dense teacher targets, but evaluates them only along student-sampled rollouts. When the privileged teache...",
+  "description": "arXiv:2609.30878v1 Announce Type: new Abstract: On-policy self-distillation (OPSD) provides dense teacher targets, but evaluates them only along student-sampled rollouts. When the privileged teacher favors an alternative action at a visited prefix, OPSD can provide a target for the branch decision but cannot supervise the successor contexts induced by that action unless the student samples it....",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.30878"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-28",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.30878"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-28",
+  "expiryAt": "2026-10-28T00:00:00.000Z",
+  "author": "Taeckyung Lee, Rinat Amankos, Jeonghye Kim, Hyungjun Yoon, Woogyeol Jin, Sung-Ju Lee"
+}

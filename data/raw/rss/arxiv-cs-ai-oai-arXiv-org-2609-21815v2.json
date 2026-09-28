@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.21815v2",
+  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.21815v2",
+    "title": "Matrix AdaGrad: Row-wise and Column-wise Adaptive Subgradient Methods",
+    "link": "https://arxiv.org/abs/2609.21815",
+    "description": "arXiv:2609.21815v2 Announce Type: replace-cross Abstract: Adaptive optimization methods such as AdaGrad and Adam are widely used in modern deep neural network training, but their adaptive scaling is primarily designed for vector-valued parameters and does not explicitly exploit matrix structure. Recent matrix-aware optimizers demonstrate the benefits of structured optimization, yet a general theoretical framework for deriving matrix-aware adaptivity comparable to that of AdaGrad remains lacking. In this work, we develop an Online Mirror Descent framework with adaptive proximal functions for matrix-valued parameters, providing a principled methodology for deriving matrix-aware adaptive optimization through online regret minimization. By introducing row-wise and column-wise matrix proximal functions, our framework explicitly reveals the trade-off governing adaptive scaling: increasing the scaling factors reduces the gradient-dependent dual norm term while increasing the cost of evolving the proximal geometry. In the row-wise setting, this trade-off becomes separable under diagonal parameterization, allowing the adaptive scaling for each row to be derived independently by minimizing its corresponding row-wise regret bound. The column-wise counterpart follows directly by applying the row-wise construction to the transposed matrix. This framework yields Row-wise Matrix AdaGrad and Column-wise Matrix AdaGrad as concrete instantiations, with regret guarantees that are strictly tighter than those of entry-wise AdaGrad under row-sparse or column-sparse gradient structures. Experiments on matrix factorization and stacked deep MLP training further demonstrate the benefits of matrix-aware adaptive scaling, yielding improved optimization performance in both settings and enhanced optimization stability and trainability at larger learning rates and greater network depths in the latter.",
+    "publishedAt": "2026-09-28",
+    "author": "Wenpeng Zhang, Runsheng Yu, Peilin Zhao",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

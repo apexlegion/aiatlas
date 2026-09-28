@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2504.08596v3",
+  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2504.08596v3",
+    "title": "MedHal: a Synthetic Dataset for Medical Hallucination Detection",
+    "link": "https://arxiv.org/abs/2504.08596",
+    "description": "arXiv:2504.08596v3 Announce Type: replace-cross Abstract: Hallucination, the generation of non factual content by AI systems, poses serious risks in medical contexts, where errors can directly affect patient outcomes. We present MedHal, a large-scale dataset specifically designed to assess capabilities and train models on the task of hallucination detection in medical texts. Current hallucination detection methods face significant limitations when applied to specialized domains like medicine, where they can have disastrous consequences. MedHal addresses this issue by incorporating diverse medical text sources and tasks covering both intrinsic and extrinsic hallucinations, and by providing a substantial volume of data samples suitable for training medical hallucination detection models. We demonstrate MedHal's utility by training and evaluating a baseline medical hallucination detection model, showing improvements over general-purpose hallucination detection approaches. This resource enables more efficient evaluation and training of medical text generation systems while reducing reliance on costly expert review, potentially accelerating the development of medical AI research.",
+    "publishedAt": "2026-09-28",
+    "author": "Fabrice Lamarche, Gaya Mehenni, Neshat Elhami Fard, Odette Rios-Ibacache, Li Ming Wang, John Kildea, Amal Zouaq",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

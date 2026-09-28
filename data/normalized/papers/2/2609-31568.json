@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2609-31568",
+  "name": "DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education",
+  "summary": "AI tutoring could markedly improve learning outcomes for students in developing regions such as Vietnam, yet the two obvious paths both fall short. Cloud assistants such as ChatGPT route sensitive...",
+  "description": "AI tutoring could markedly improve learning outcomes for students in developing regions such as Vietnam, yet the two obvious paths both fall short. Cloud assistants such as ChatGPT route sensitive student data to foreign servers---violating data-sovereignty laws such as Vietnam's Decree 53---and, pre-trained on Western-centric corpora, are not organized around the national textbook curriculum, so their knowledge of local content is unsystematic and frequently hallucinated. Self-hosting an open model keeps data on-premise but hits a two-fold wall: post-training quantization (AWQ, GPTQ) tames...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.31568v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.31568v1"
+    }
+  ],
+  "authors": [
+    "Quang Nguyen",
+    "Hieu Nguyen",
+    "Hien Hoang",
+    "Toan Pham",
+    "Cong Tran",
+    "Nam Vu"
+  ],
+  "paperId": "2609.31568",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-25",
+  "abstract": "AI tutoring could markedly improve learning outcomes for students in developing regions such as Vietnam, yet the two obvious paths both fall short. Cloud assistants such as ChatGPT route sensitive student data to foreign servers---violating data-sovereignty laws such as Vietnam's Decree 53---and, pre-trained on Western-centric corpora, are not organized around the national textbook curriculum, so their knowledge of local content is unsystematic and frequently hallucinated. Self-hosting an open model keeps data on-premise but hits a two-fold wall: post-training quantization (AWQ, GPTQ) tames..."
+}
