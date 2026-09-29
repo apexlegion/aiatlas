@@ -1,0 +1,44 @@
+{
+  "type": "paper",
+  "slug": "2609-35745",
+  "name": "Copy the Same, Distill the Difference: Initializing Linear Vision Transformers",
+  "summary": "Linear Vision Transformers (ViTs) are designed to replace the attention in Softmax ViTs with the linear-complexity attention operator for more efficient token routing, but they require from-scratch...",
+  "description": "Linear Vision Transformers (ViTs) are designed to replace the attention in Softmax ViTs with the linear-complexity attention operator for more efficient token routing, but they require from-scratch pre-training and typically underperform the original Softmax version. How to initialize linear ViTs both efficiently and effectively still remains unclear. In this work, we explicitly ask: given that most foundation ViTs are built on the mainstream Softmax attention, can linear ViTs benefit from their pre-trained weights? Recent works on Attention Transfer show that attention is the effective tra...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.35745v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-28",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2609.35745v1"
+    }
+  ],
+  "authors": [
+    "Huaiyuan Qin",
+    "Muli Yang",
+    "Gabriel James Goenawan",
+    "Shiqi Huang",
+    "Min Kass Chong",
+    "Wahyu Wiratama",
+    "Peng Hu",
+    "Chen Gong",
+    "Wu Liu",
+    "Xi Peng",
+    "Chun Jian Ho",
+    "Hongyuan Zhu"
+  ],
+  "paperId": "2609.35745",
+  "category": "cs.CV",
+  "publishedAt": "2026-09-28",
+  "abstract": "Linear Vision Transformers (ViTs) are designed to replace the attention in Softmax ViTs with the linear-complexity attention operator for more efficient token routing, but they require from-scratch pre-training and typically underperform the original Softmax version. How to initialize linear ViTs both efficiently and effectively still remains unclear. In this work, we explicitly ask: given that most foundation ViTs are built on the mainstream Softmax attention, can linear ViTs benefit from their pre-trained weights? Recent works on Attention Transfer show that attention is the effective tra..."
+}

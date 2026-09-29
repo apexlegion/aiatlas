@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2506.13344v2",
-  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "fetchedAt": "2026-09-29T08:17:30.494Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2506.13344v2",
     "title": "LapDDPM: Spectral Perturbation Diffusion for Robust Single-Cell Manifold Generation",
     "link": "https://arxiv.org/abs/2506.13344",
     "description": "arXiv:2506.13344v2 Announce Type: replace-cross Abstract: Generating high-fidelity and biologically plausible synthetic single-cell RNA sequencing (scRNA-seq) data is a critical challenge in computational biology, driven by the need to model high-dimensional, sparse, and non-linear cellular manifolds. Existing generative models often fail to capture the complex topology of cellular differentiation or lack robustness against technical noise and structural variability. We introduce LapDDPM, a novel conditional Graph Diffusion Probabilistic Model designed for robust manifold learning and high-fidelity generation. LapDDPM integrates graph-based inductive biases with score-based generative modeling, enhanced by a novel spectral adversarial perturbation mechanism. By systematically perturbing graph edge weights along principal spectral modes during training, our method acts as a Distributionally Robust Optimization (DRO) framework, enforcing invariance to structural noise. We further extend LapDDPM to spatial transcriptomics and multi-modal data, treating generation as a robust inverse problem on cellular graphs. Extensive experiments on diverse datasets, including PBMC3K, Dentate Gyrus, HLCA, Visium, and 10x Multiome, demonstrate that LapDDPM significantly outperforms state-of-the-art baselines in distribution matching, manifold preservation, and downstream utility, generating biologically coherent cell states.",
-    "publishedAt": "2026-09-28",
+    "publishedAt": "2026-09-29",
     "author": "Lorenzo Bini, Stephane Marchand-Maillet",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.31506v1",
-  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "fetchedAt": "2026-09-29T08:17:30.494Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.31506v1",
     "title": "Evaluating Cultural Awareness of LLMs for Haitian Creole",
     "link": "https://arxiv.org/abs/2609.31506",
     "description": "arXiv:2609.31506v1 Announce Type: cross Abstract: Large language models (LLMs) exhibit substantial performance disparities between high- and low-resource languages. Beyond lower task performance, they often fail to capture the cultural norms and values of underrepresented communities. In this work, we present the first systematic evaluation of cultural awareness in LLMs for Haitian Creole, a language spoken by millions but severely underrepresented in digital resources. We assess cultural awareness along four complementary dimensions---specificity, bias, diversity, and variation---using a benchmark of culturally salient prompts curated by native speakers in a text infilling setting. Our results reveal a clear gap between cultural awareness in Haitian Creole and higher-resource French, with Haitian performance being more uneven across domains and more affected by French linguistic interference. Story generation further reveals recurring portrayals of Haitian characters through hardship and resilience, showing that even positive characterizations can encode stereotypical narratives. Our code, benchmark, and evaluation framework are publicly available.",
-    "publishedAt": "2026-09-28",
+    "publishedAt": "2026-09-29",
     "author": "Christelle Clervilsson, Yanzhu Guo",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

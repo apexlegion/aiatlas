@@ -1,0 +1,52 @@
+{
+  "type": "paper",
+  "slug": "2609-35744",
+  "name": "FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents",
+  "summary": "Evaluating finance research agents requires rubrics that reflect expert standards and fix the values correct as of an information cutoff. Expert-reviewed finance benchmarks rely on fixed, per-item...",
+  "description": "Evaluating finance research agents requires rubrics that reflect expert standards and fix the values correct as of an information cutoff. Expert-reviewed finance benchmarks rely on fixed, per-item rubrics, which are costly to extend and cannot encode each institution's own standard. In FinAutoRubric, experts specify reusable evaluation guidance, while agents and code carry out query-specific rubric generation, review, and validation. This expert guidance governs every agent, as prompts and as rules that code enforces, and a Task Bank of reusable criteria carries it across tasks. In long-hor...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.35744v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-28",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.35744v1"
+    }
+  ],
+  "authors": [
+    "Hoyoung Lee",
+    "Suyeol Yun",
+    "Jack Haverty",
+    "Yunju Cho",
+    "Meesong Kim",
+    "Daekyung Park",
+    "Sumin Kim",
+    "Jihoon Kwon",
+    "Jasmine Jia Geng",
+    "Andrew Chin",
+    "Yin Luo",
+    "Edward Tong",
+    "Yu Yu",
+    "Zach Golkhou",
+    "Minkyu Kim",
+    "Igor Halperin",
+    "Young Cha",
+    "Alejandro Lopez-Lira",
+    "Chanyeol Choi",
+    "Yongjae Lee"
+  ],
+  "paperId": "2609.35744",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-28",
+  "abstract": "Evaluating finance research agents requires rubrics that reflect expert standards and fix the values correct as of an information cutoff. Expert-reviewed finance benchmarks rely on fixed, per-item rubrics, which are costly to extend and cannot encode each institution's own standard. In FinAutoRubric, experts specify reusable evaluation guidance, while agents and code carry out query-specific rubric generation, review, and validation. This expert guidance governs every agent, as prompts and as rules that code enforces, and a Task Bank of reusable criteria carries it across tasks. In long-hor..."
+}

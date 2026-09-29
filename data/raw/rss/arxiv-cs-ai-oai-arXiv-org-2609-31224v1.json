@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.31224v1",
-  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "fetchedAt": "2026-09-29T08:17:30.494Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.31224v1",
     "title": "Acoustic-to-Text KV Compression for Full-Duplex Speech Models",
     "link": "https://arxiv.org/abs/2609.31224",
     "description": "arXiv:2609.31224v1 Announce Type: cross Abstract: Full-duplex speech language models continuously accumulate acoustic key-value (KV) states, making long-running interactions memory-intensive. During listening, the model can finish processing an audio unit before the next arrives; we term the remaining interval listening-time slack. We propose acoustic-to-text KV compression, which introduces a transcription side channel to convert incoming speech into compact textual memory within this interval. When the cache exceeds a target budget during inference, older acoustic states are evicted while transcripts and recent acoustic context remain. We train the side channel with LoRA using cross-entropy on transcription segments. To preserve listening and speaking behavior, we apply knowledge distillation to the original model's token-level output distributions at native prediction positions. On ten-minute LongSpeech sessions, our MiniCPM-o 4.5 implementation reduces peak streaming KV-cache size by 64.6% compared with the same model without eviction. The proposed method also improves transcription, temporal question answering, and summarization over the baseline. Full-Duplex-Bench evaluations further show comparable pause-handling, turn-taking, and interruption performance.",
-    "publishedAt": "2026-09-28",
+    "publishedAt": "2026-09-29",
     "author": "Yejin Lee, Seungbeom Kim, Yongha Lee, Kyuhong Shim",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

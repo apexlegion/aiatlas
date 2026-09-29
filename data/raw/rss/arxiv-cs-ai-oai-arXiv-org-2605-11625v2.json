@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.11625v2",
-  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "fetchedAt": "2026-09-29T08:17:30.494Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2605.11625v2",
     "title": "Nice Fold or Hero Call: Learning Budget-Efficient Thinking under Policy-Dependent Solvability",
     "link": "https://arxiv.org/abs/2605.11625",
     "description": "arXiv:2605.11625v2 Announce Type: replace Abstract: Large reasoning models (LRMs) improve problem solving through extended reasoning, but often misallocate test-time compute. Existing efficiency methods reduce cost by compressing reasoning traces or conditioning budget on perceived difficulty, yet read the resulting pass rate as a difficulty score, leaving the zero-return regime unmodeled. As a result, they overspend on queries beyond the model's capability while compressing hard-but-solvable ones that need deeper reasoning. In this work, we formulate adaptive reasoning as a computational investment under uncertainty, where budget follows the expected return of reasoning rather than perceived difficulty. To instantiate this principle, we propose Budget-Efficient Thinking (BET), a two-stage framework that combines behavioral cold-start with GRPO under an investment-cost-aware reward. By aligning solve-or-fold decisions with rollout-derived solvability, BET learns three behaviors: (1) short solve, answering easy queries concisely; (2) nice fold, abstaining early when continued reasoning has near-zero expected return; and (3) hero call, preserving sufficient compute for hard-but-solvable queries. Across seven benchmarks and three base models, BET reduces reasoning tokens by 54% while improving up to 3.2% accuracy, and transfers zero-shot to scientific QA and logical reasoning with comparable efficiency gains. Code is available at https://github.com/houqiii/BET",
-    "publishedAt": "2026-09-28",
+    "publishedAt": "2026-09-29",
     "author": "Zhaomeng Zhou, Lan Zhang, Junyang Wang, Mu Yuan, Songlin Liu, Tingzhao Li, Yiqing Hu, Yumeng Zhao",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

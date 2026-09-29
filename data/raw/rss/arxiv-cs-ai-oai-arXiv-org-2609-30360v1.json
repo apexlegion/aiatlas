@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.30360v1",
-  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "fetchedAt": "2026-09-29T08:17:30.494Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.30360v1",
     "title": "Cost-Aware Best-LLM Identification using Dueling Feedback",
     "link": "https://arxiv.org/abs/2609.30360",
     "description": "arXiv:2609.30360v1 Announce Type: cross Abstract: Inspired by the problem of identifying the best model from a collection of large language models (LLMs) with heterogeneous querying costs, we formulate and analyse a variant of the multi-armed bandit (MAB) with (i) dueling feedback, where pairwise comparisons between model responses provide robust preference signals, and (ii) heterogeneous sampling costs, reflecting the differing costs of querying different LLMs. Assuming the existence of a Condorcet winner, a condition we empirically validate across multiple real-world datasets, we propose a Track-and-Stop style algorithm for best-arm identification with prescribed confidence. We prove that the algorithm almost surely achieves the asymptotically optimal cost as the error tends to zero. Finally, we extensively evaluate our approach on both synthetic and real-world instances, demonstrating consistent improvements over classical cost-unaware algorithms and their cost-aware extensions.",
-    "publishedAt": "2026-09-28",
+    "publishedAt": "2026-09-29",
     "author": "Sarvesh Gharat, Nikhil Karamchandani, Jayakrishnan Nair",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

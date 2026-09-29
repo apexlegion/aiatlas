@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2512.05836v2",
-  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "fetchedAt": "2026-09-29T08:17:30.494Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2512.05836v2",
     "title": "Testing the Utility of Using Large Language Models to Create Personalized Networks From Therapy Session Transcripts: A Proof of Concept Study",
     "link": "https://arxiv.org/abs/2512.05836",
     "description": "arXiv:2512.05836v2 Announce Type: replace Abstract: Recent advances in psychotherapy have focused on treatment personalization, such as by selecting treatment modules based on individual networks. However, estimating personalized networks typically requires intensive longitudinal data, which is not always feasible to collect. A solution to increase scalability of network-driven treatment personalization is leveraging large language models (LLMs). In this study, we developed an end-to-end pipeline for automatically generating client networks to support case conceptualization and treatment planning. We annotated 8,028 utterances from 77 therapy transcripts (N = 6). In the first stage of the pipeline, we identified clinically relevant processes (binary classification) and their corresponding dimensions (multi-label classification). Then, we introduced a two-step method that grouped the processes into clinically meaningful clusters and generated labels for the clusters. Finally, we generated connections between clusters. Evaluation results generally supported model utility, however, interrater agreement on model performance metrics was inconsistent, ranging from poor to substantial. Qualitative examination of the networks indicated consistency with original study data. Given coherence and interpretability of the generated networks, developing networks from therapy transcripts using LLMs appears to be feasible. Nonetheless, more research is needed to examine whether these networks improve treatment outcomes, including relative to other methods of treatment personalization, such as statistically estimated networks. Potential use cases and limitations of our pipeline are discussed.",
-    "publishedAt": "2026-09-28",
+    "publishedAt": "2026-09-29",
     "author": "Clarissa W. Ong, Hiba Arnaout, Kate Sheehan, Estella Fox, Eugen Owtscharow, Iryna Gurevych",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

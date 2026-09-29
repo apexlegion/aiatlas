@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2609-35699",
+  "name": "Distillation Defenses Easily Break After Reinforcement Learning",
+  "summary": "Distillation attacks copy the reasoning capabilities of closed-source large language models, allowing bad actors to replicate state-of-the-art performance at low cost. Attackers systematically coll...",
+  "description": "Distillation attacks copy the reasoning capabilities of closed-source large language models, allowing bad actors to replicate state-of-the-art performance at low cost. Attackers systematically collect a large volume of frontier model reasoning traces and then train (i.e., \"distill\") their own models on these traces. Existing defenses against distillation attacks are typically evaluated immediately after distillation, implicitly assuming attackers do not train their models any further. In this paper, we argue that a more realistic threat model includes further training with reinforcement lea...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.35699v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-28",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.35699v1"
+    }
+  ],
+  "authors": [
+    "Shidan Javaheri",
+    "Alexander Panfilov",
+    "Oliver Britton",
+    "Yarin Gal",
+    "Yonatan Gideoni"
+  ],
+  "paperId": "2609.35699",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-28",
+  "abstract": "Distillation attacks copy the reasoning capabilities of closed-source large language models, allowing bad actors to replicate state-of-the-art performance at low cost. Attackers systematically collect a large volume of frontier model reasoning traces and then train (i.e., \"distill\") their own models on these traces. Existing defenses against distillation attacks are typically evaluated immediately after distillation, implicitly assuming attackers do not train their models any further. In this paper, we argue that a more realistic threat model includes further training with reinforcement lea..."
+}

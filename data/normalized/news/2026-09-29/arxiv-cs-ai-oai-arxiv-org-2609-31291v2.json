@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-31291v2",
+  "name": "Softmax Reparameterization for Output-Head Quantization",
+  "summary": "arXiv:2609.31291v2 Announce Type: cross Abstract: Large vocabularies make output heads a substantial inference cost in small language models. We introduce softmax reparameterization, a post-trainin...",
+  "description": "arXiv:2609.31291v2 Announce Type: cross Abstract: Large vocabularies make output heads a substantial inference cost in small language models. We introduce softmax reparameterization, a post-training method that searches over functionally equivalent output heads before quantization. The method subtracts a scalar multiple of the vocabulary-row mean from every output row and selects the coefficien...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.31291"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-29",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.31291"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-29",
+  "expiryAt": "2026-10-29T00:00:00.000Z",
+  "author": "Asim Kadav, Christian Flores, Chirag Arora, Varun Kotte, Hongbo Zheng, Lan Yan, Priya Shanmugasundaram, Tracy Holloway King"
+}

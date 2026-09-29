@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.30796v1",
-  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "fetchedAt": "2026-09-29T08:17:30.494Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.30796v1",
     "title": "ConsultMind:Towards Automated Diagnostic Consultation via Uncertainty-Aware Reasoning",
     "link": "https://arxiv.org/abs/2609.30796",
     "description": "arXiv:2609.30796v1 Announce Type: new Abstract: Diagnostic consultation is an online sequential decision-making process in which clinicians gather evidence through patient interaction until a diagnosis is sufficiently supported. Automating this process requires adaptive inquiry and interpretable decisions. Bayesian networks offer a natural foundation by updating diagnostic posteriors as evidence accumulates, but their use in open-ended consultation raises two challenges: linking diagnostic hypotheses to potential inquiries and translating evolving posteriors into consultation decisions. We introduce AutoDisym, an automated pipeline that integrates diagnostic knowledge with heterogeneous diagnosis-labeled clinical narratives to construct a Disorder--Symptom Bayesian Network (DSBN). Building on the DSBN, we propose ConsultMind, an uncertainty-aware framework that updates disorder posteriors after each response and uses posterior uncertainty to guide inquiry and diagnosis. We evaluate both methods across psychiatry, respiratory medicine, fever clinics, and three public datasets. The results show that AutoDisym can automatically construct high-quality DSBNs and that ConsultMind consistently improves diagnostic performance and explanation soundness. For example, AutoDisym achieves macro-averaged F1 scores of 81.37 for canonical symptoms and 72.19 for manifestations using GPT-5.6-Sol. ConsultMind improves Top-1 and Top-3 diagnostic accuracy by up to 22.15 and 37.89 percentage points, respectively. Physician evaluation further shows that ConsultMind improves the quality of ranking explanations, differential diagnoses, and diagnosis rationales across LLMs of different scales. This work offers a promising approach to automatic diagnostic consultation.",
-    "publishedAt": "2026-09-28",
+    "publishedAt": "2026-09-29",
     "author": "Xiao Sun, Yuming Yang, Yun Chen, Jiang Zhong, Junnan Zhu, Xinyi Jiang, Haoyang Zeng, Ruirui Chen, Yining Wang, Xinyu Zhou, Rong Tang, Kaiwen Wei",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

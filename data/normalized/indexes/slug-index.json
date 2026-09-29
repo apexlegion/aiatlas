@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T08:35:02.046Z",
+  "generatedAt": "2026-09-29T08:17:31.975Z",
   "entries": {
     "automatic1111-stable-diffusion-webui": {
       "slug": "automatic1111-stable-diffusion-webui",
@@ -177,224 +177,224 @@
         "jupyter notebook"
       ]
     },
-    "2609-31450": {
-      "slug": "2609-31450",
-      "typedId": "paper/2609-31450",
-      "name": "From Reward Signal to Visual Utility: A Controlled Audit of Medical VLM Post-Training",
+    "2609-35664": {
+      "slug": "2609-35664",
+      "typedId": "paper/2609-35664",
+      "name": "MS-GLA: Multi-Scale Gated Linear Attention for Addressing Representational Bottlenecks via Multi-Temporal Resolution",
       "type": "paper",
-      "summary": "Medical vision-language model (VLM) post-training is commonly evaluated through answer accuracy. We examine how changes in accuracy and training objectives relate to image-conditioned decisions in...",
-      "tags": [
-        "arxiv",
-        "cs.CV"
-      ]
-    },
-    "2609-31454": {
-      "slug": "2609-31454",
-      "typedId": "paper/2609-31454",
-      "name": "Different Corruptions, Different Signals: Uncertainty and Loss in Federated Data Quality",
-      "type": "paper",
-      "summary": "Federated learning (FL) data corruption can affect either inputs or labels, but it remains unclear whether input-conditional uncertainty and prediction-label loss expose these corruption modes equa...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2609-31460": {
-      "slug": "2609-31460",
-      "typedId": "paper/2609-31460",
-      "name": "Segment-Level Agentic Topic Modeling for Improved Data Exploration and Resource Efficiency",
-      "type": "paper",
-      "summary": "Topic modeling is an effective technique for discovering hidden themes within documents and is widely used in text mining and data analysis across a variety of industry sectors. Recently, large lan...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-31463": {
-      "slug": "2609-31463",
-      "typedId": "paper/2609-31463",
-      "name": "Uncertainty-Aware Federated Learning for Infant Movement Analysis",
-      "type": "paper",
-      "summary": "Infant movement analysis provides valuable biomarkers for the early identification of neurodevelopmental disorders. Recent advances in deep learning have enabled automated analysis of infant moveme...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2609-31468": {
-      "slug": "2609-31468",
-      "typedId": "paper/2609-31468",
-      "name": "PriceBench: A Diagnostic Benchmark for Price, Quality, and Brand Preferences in LLM Booking Agents",
-      "type": "paper",
-      "summary": "LLMs increasingly act as purchasing agents, which makes the LLM, not the user, the one choosing among the options that satisfy a request; its preferences quietly fix what gets bought and what it co...",
-      "tags": [
-        "arxiv",
-        "econ.GN"
-      ]
-    },
-    "2609-31473": {
-      "slug": "2609-31473",
-      "typedId": "paper/2609-31473",
-      "name": "Game Arena: Strategic LLM Evaluation in Competitive Environments",
-      "type": "paper",
-      "summary": "We introduce Kaggle Game Arena, an open and ever-expanding platform to evaluate large language models (LLMs) through competitive games. Different from static benchmarks, game arena enables models t...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-31482": {
-      "slug": "2609-31482",
-      "typedId": "paper/2609-31482",
-      "name": "\"AI is (not) the new...\": A Diagnostic Analogy Framework for Generative AI's Cultural Impacts",
-      "type": "paper",
-      "summary": "Generative AI is reshaping the cultural infrastructures through which knowledge is found, synthesized, and held accountable. To make sense of this shift, scholars and policymakers reach for histori...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-31491": {
-      "slug": "2609-31491",
-      "typedId": "paper/2609-31491",
-      "name": "UQ-LOB: Uncertainty-Aware Limit Order Book Mid-Price Forecasting",
-      "type": "paper",
-      "summary": "Forecasting short-horizon mid-price movements from limit order book (LOB) data is central to algorithmic trading, yet most deep LOB forecasters are point predictors: they output a direction or a di...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-31505": {
-      "slug": "2609-31505",
-      "typedId": "paper/2609-31505",
-      "name": "Prompt Minimization: Reducing Input Redundancy Without Sacrificing Output Fidelity",
-      "type": "paper",
-      "summary": "Despite the growing capabilities of large language models (LLMs), prompt design remains largely heuristic and ad hoc. This project will explore $\\textit{prompt minimization}$, the process of reduci...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-31506": {
-      "slug": "2609-31506",
-      "typedId": "paper/2609-31506",
-      "name": "Evaluating Cultural Awareness of LLMs for Haitian Creole",
-      "type": "paper",
-      "summary": "Large language models (LLMs) exhibit substantial performance disparities between high- and low-resource languages. Beyond lower task performance, they often fail to capture the cultural norms and v...",
+      "summary": "Gated Linear Attention (GLA) Transformers advance linear recurrent models through data-dependent gating, but face a core limitation: the fixed-capacity memory matrices across all heads operate at a...",
       "tags": [
         "arxiv",
         "cs.CL"
       ]
     },
-    "2609-31509": {
-      "slug": "2609-31509",
-      "typedId": "paper/2609-31509",
-      "name": "ClearGS: Reliability-Aware Gaussian Splatting from Handheld Videos",
+    "2609-35671": {
+      "slug": "2609-35671",
+      "typedId": "paper/2609-35671",
+      "name": "PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents",
       "type": "paper",
-      "summary": "We present ClearGS for 3D Gaussian Splatting (3DGS) from handheld videos with uneven viewpoint coverage and mixed frame quality. Rather than selecting frames with binary decisions, ClearGS uses Rel...",
+      "summary": "Mobile GUI agents operate through a perception--action loop: at each step they screenshot the device, invoke a vision--language model (VLM), and emit an action. It is slow, costly, and brittle, yet...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-35677": {
+      "slug": "2609-35677",
+      "typedId": "paper/2609-35677",
+      "name": "Verifier Errors in RLVR: Reward Hacking, Limits of Feedback, and Selective Control",
+      "type": "paper",
+      "summary": "In reinforcement learning with verifiable rewards (RLVR), imperfect verifiers can reward incorrect responses, creating opportunities for reward hacking. Using gradient flow with a fixed verifier, w...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-35686": {
+      "slug": "2609-35686",
+      "typedId": "paper/2609-35686",
+      "name": "Rethinking Circuit Evaluation: Do Circuits Explain Model Errors?",
+      "type": "paper",
+      "summary": "Mechanistic interpretability (MI) aims to explain a model's behaviour through analyzing its internal computations; circuit-based explanations aim to isolate these computations with compact subnetwo...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2609-35692": {
+      "slug": "2609-35692",
+      "typedId": "paper/2609-35692",
+      "name": "Report: Progressive Disclosure of Agent Skills",
+      "type": "paper",
+      "summary": "Users of Workday's deployed LLM-based agents often request features which can be addressed by defining named procedures, also known as skills, in the LLM context, effectively augmenting agents' cap...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-35694": {
+      "slug": "2609-35694",
+      "typedId": "paper/2609-35694",
+      "name": "Reasoning with Continuous Latent Diffusion",
+      "type": "paper",
+      "summary": "Continuous diffusion generates complete reasoning solutions through iterative refinement in latent space. We introduce Latent Flow Reasoning Models (LFRMs), an ELF-based training and inference reci...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-35699": {
+      "slug": "2609-35699",
+      "typedId": "paper/2609-35699",
+      "name": "Distillation Defenses Easily Break After Reinforcement Learning",
+      "type": "paper",
+      "summary": "Distillation attacks copy the reasoning capabilities of closed-source large language models, allowing bad actors to replicate state-of-the-art performance at low cost. Attackers systematically coll...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2609-35703": {
+      "slug": "2609-35703",
+      "typedId": "paper/2609-35703",
+      "name": "A Unified Uncertainty Representation for Graph Neural Networks via Doubly-Spectral Stochastic Expansion",
+      "type": "paper",
+      "summary": "Reliable deployment of graph neural networks requires calibration, out-of-distribution (OOD) detection, and robustness to distribution shift, yet existing methods address these needs with separate...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2609-35706": {
+      "slug": "2609-35706",
+      "typedId": "paper/2609-35706",
+      "name": "Reinforcing Agentic Creativity in Scientific Ideation with Night Science",
+      "type": "paper",
+      "summary": "Large language models (LLMs) excel at structured, verifiable tasks, but their low-entropy bias can produce homogeneous and predictable outputs, limiting their utility for open-ended scientific idea...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-35715": {
+      "slug": "2609-35715",
+      "typedId": "paper/2609-35715",
+      "name": "X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets",
+      "type": "paper",
+      "summary": "Reinforcement learning (RL) in simulation can train dexterous manipulation policies without robot demonstrations, but training a single generalist policy with task-agnostic rewards faces a severe e...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2609-35732": {
+      "slug": "2609-35732",
+      "typedId": "paper/2609-35732",
+      "name": "Failure-Transparent Agents: Benchmarking Post-Failure Reporting in Tool-Using Language Models",
+      "type": "paper",
+      "summary": "Tool-using agents can fail twice: a required tool can fail, and the agent can then report success without the evidence needed to justify it. Existing benchmarks often entangle this reporting failur...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-35741": {
+      "slug": "2609-35741",
+      "typedId": "paper/2609-35741",
+      "name": "Shockingly Simple Self-retrospection Improves Agentic Models Without RL",
+      "type": "paper",
+      "summary": "People learn not only by repeating successful actions, but also by recounting and explaining their experiences, revising their understanding to guide future behavior. Can a language-model agent imp...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-35744": {
+      "slug": "2609-35744",
+      "typedId": "paper/2609-35744",
+      "name": "FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents",
+      "type": "paper",
+      "summary": "Evaluating finance research agents requires rubrics that reflect expert standards and fix the values correct as of an information cutoff. Expert-reviewed finance benchmarks rely on fixed, per-item...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2609-35745": {
+      "slug": "2609-35745",
+      "typedId": "paper/2609-35745",
+      "name": "Copy the Same, Distill the Difference: Initializing Linear Vision Transformers",
+      "type": "paper",
+      "summary": "Linear Vision Transformers (ViTs) are designed to replace the attention in Softmax ViTs with the linear-complexity attention operator for more efficient token routing, but they require from-scratch...",
       "tags": [
         "arxiv",
         "cs.CV"
       ]
     },
-    "2609-31540": {
-      "slug": "2609-31540",
-      "typedId": "paper/2609-31540",
-      "name": "Can You Check That? The Checkability Boundary for Local LLM Network Automation",
+    "2609-35750": {
+      "slug": "2609-35750",
+      "typedId": "paper/2609-35750",
+      "name": "KV-streams for Efficient Compaction in Agentic Reinforcement Learning",
       "type": "paper",
-      "summary": "Sending every network-automation input to a third-party frontier LLM exports sensitive artifacts such as production configurations, topologies, and logs. Querying small language models (SLMs) local...",
+      "summary": "Scaling the horizon of agentic LLMs is bottlenecked by the need to fit ever longer context traces in GPU memory. Context compaction has been the most popular mechanism to alleviate this issue, keep...",
       "tags": [
         "arxiv",
-        "cs.NI"
+        "cs.LG"
       ]
     },
-    "2609-31544": {
-      "slug": "2609-31544",
-      "typedId": "paper/2609-31544",
-      "name": "A Flow Matching Framework for Neural Representational Dissimilarity",
+    "2609-35751": {
+      "slug": "2609-35751",
+      "typedId": "paper/2609-35751",
+      "name": "How to Loop MoE: Flatten the Experts, Untie the Attention",
       "type": "paper",
-      "summary": "Neural representational dissimilarity quantifies differences between neural response distributions, and is essential for comparing neural codes across stimuli, brain areas, tasks, and models. Commo...",
+      "summary": "Looped Transformers reuse one block of layers several times: by spending extra computation they push a model of fixed size further, and so use its parameters more fully; while sparse mixture-of-exp...",
       "tags": [
         "arxiv",
-        "cs.AI"
+        "cs.LG"
       ]
     },
-    "2609-31563": {
-      "slug": "2609-31563",
-      "typedId": "paper/2609-31563",
-      "name": "Multi-agent Scaling Across Disjunctive and Compensatory Tasks",
+    "2609-35760": {
+      "slug": "2609-35760",
+      "typedId": "paper/2609-35760",
+      "name": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
       "type": "paper",
-      "summary": "Multi-agent LLM systems are often expected to improve as team size increases, yet the scaling behavior may depend on task structure. Our central contribution is to introduce Steiner's taxonomy of g...",
+      "summary": "When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and int...",
       "tags": [
         "arxiv",
-        "cs.AI"
+        "cs.LG"
       ]
     },
-    "2609-31568": {
-      "slug": "2609-31568",
-      "typedId": "paper/2609-31568",
-      "name": "DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education",
+    "2609-35767": {
+      "slug": "2609-35767",
+      "typedId": "paper/2609-35767",
+      "name": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
       "type": "paper",
-      "summary": "AI tutoring could markedly improve learning outcomes for students in developing regions such as Vietnam, yet the two obvious paths both fall short. Cloud assistants such as ChatGPT route sensitive...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2609-31569": {
-      "slug": "2609-31569",
-      "typedId": "paper/2609-31569",
-      "name": "Adapting for AI: How elementary teachers adjust their practices for an AI-integrated curriculum",
-      "type": "paper",
-      "summary": "Conversational AI tools are entering children's everyday experiences, and schools are interested in adopting them. However, successful classroom integration depends not only on the technology but a...",
-      "tags": [
-        "arxiv",
-        "cs.HC"
-      ]
-    },
-    "2609-31572": {
-      "slug": "2609-31572",
-      "typedId": "paper/2609-31572",
-      "name": "OC-GS: Gaussian Splatting for Irregular Turntable Capture",
-      "type": "paper",
-      "summary": "Uneven rotation and dropped frames make equal-angle assumptions unreliable for turntable reconstruction. We present OC-GS, an object-centric Gaussian splatting that refines each image's angle while...",
+      "summary": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose a...",
       "tags": [
         "arxiv",
         "cs.CV"
       ]
     },
-    "2609-31587": {
-      "slug": "2609-31587",
-      "typedId": "paper/2609-31587",
-      "name": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
+    "2609-35769": {
+      "slug": "2609-35769",
+      "typedId": "paper/2609-35769",
+      "name": "Telescopic Language Models",
       "type": "paper",
-      "summary": "We investigate whether natural-language documentation helps coding agents resolve software issues, and we build the tools to construct and evaluate it. We introduce a roundtrip benchmark that score...",
+      "summary": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) t...",
       "tags": [
         "arxiv",
-        "cs.SE"
+        "cs.CL"
       ]
     },
-    "2609-31607": {
-      "slug": "2609-31607",
-      "typedId": "paper/2609-31607",
-      "name": "Statistical attribute alignment for black-box generative AI via output post-processing",
+    "2609-35770": {
+      "slug": "2609-35770",
+      "typedId": "paper/2609-35770",
+      "name": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
       "type": "paper",
-      "summary": "Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-ge...",
+      "summary": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datas...",
       "tags": [
         "arxiv",
-        "stat.ME"
-      ]
-    },
-    "2609-31619": {
-      "slug": "2609-31619",
-      "typedId": "paper/2609-31619",
-      "name": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
-      "type": "paper",
-      "summary": "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
+        "cs.CV"
       ]
     },
     "arxiv-cs-ai-oai-arxiv-org-2412-03072v2": {
@@ -1321,12 +1321,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2608-04408v2": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-04408v2",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-04408v2",
+    "arxiv-cs-ai-oai-arxiv-org-2608-04408v3": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2608-04408v3",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2608-04408v3",
       "name": "Not Every Divergence Should Be Suppressed: Counterfactual Recoverability in On-Policy Distillation",
       "type": "news",
-      "summary": "arXiv:2608.04408v2 Announce Type: replace-cross Abstract: On-policy distillation (OPD) supervises student-visited trajectories, yet divergence-based rules cannot determine whether an erroneous pref...",
+      "summary": "arXiv:2608.04408v3 Announce Type: replace-cross Abstract: On-policy distillation (OPD) supervises student-visited trajectories, yet divergence-based rules cannot determine whether an erroneous pref...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -1970,12 +1970,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2609-30345v1": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-30345v1",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-30345v1",
+    "arxiv-cs-ai-oai-arxiv-org-2609-30345v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-30345v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-30345v2",
       "name": "Coding Agents Aren't Enough! Evaluating an Enterprise Security Brain for Agentic Cloud Investigations",
       "type": "news",
-      "summary": "arXiv:2609.30345v1 Announce Type: cross Abstract: Cloud-security investigation is dominated by population tasks: which identities can read a data store, how many resources fail a control, which ass...",
+      "summary": "arXiv:2609.30345v2 Announce Type: cross Abstract: Cloud-security investigation is dominated by population tasks: which identities can read a data store, how many resources fail a control, what is r...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -2509,12 +2509,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2609-30725v1": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-30725v1",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-30725v1",
+    "arxiv-cs-ai-oai-arxiv-org-2609-30725v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-30725v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-30725v2",
       "name": "Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents",
       "type": "news",
-      "summary": "arXiv:2609.30725v1 Announce Type: new Abstract: Although effective, coding agents often incur substantial monetary costs. Their recurring cost-inefficient behaviors remain underexplored. We conduct...",
+      "summary": "arXiv:2609.30725v2 Announce Type: new Abstract: Although effective, coding agents often incur substantial monetary costs. Their recurring cost-inefficient behaviors remain underexplored. We conduct...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -2740,12 +2740,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2609-30837v1": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-30837v1",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-30837v1",
+    "arxiv-cs-ai-oai-arxiv-org-2609-30837v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-30837v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-30837v2",
       "name": "MOPD-Router: Rethinking Teacher Routing in Multi-Teacher On-Policy Distillation",
       "type": "news",
-      "summary": "arXiv:2609.30837v1 Announce Type: cross Abstract: Multi-teacher on-policy distillation (MOPD) integrates specialized capabilities into a single student, but existing practice typically hard-routes...",
+      "summary": "arXiv:2609.30837v2 Announce Type: cross Abstract: Multi-teacher on-policy distillation (MOPD) integrates specialized capabilities into a single student, but existing practice typically hard-routes...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -2861,12 +2861,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2609-30918v1": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-30918v1",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-30918v1",
+    "arxiv-cs-ai-oai-arxiv-org-2609-30918v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-30918v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-30918v2",
       "name": "Robust to Which Model Change? A Unified Evaluation of Robust Counterfactual Explanations",
       "type": "news",
-      "summary": "arXiv:2609.30918v1 Announce Type: cross Abstract: Robust counterfactual explanations promise recourse that still works after the model behind it changes. Whether they keep that promise depends on w...",
+      "summary": "arXiv:2609.30918v2 Announce Type: cross Abstract: Robust counterfactual explanations promise recourse that still works after the model behind it changes. Whether they keep that promise depends on w...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -3543,12 +3543,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2609-31272v1": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-31272v1",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-31272v1",
+    "arxiv-cs-ai-oai-arxiv-org-2609-31272v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-31272v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-31272v2",
       "name": "Cognitive Skills in the Age of AI: Computing Students and Experts Perceptions",
       "type": "news",
-      "summary": "arXiv:2609.31272v1 Announce Type: cross Abstract: AI is becoming increasingly integrated into daily workflows, especially in computing. We are gradually shifting towards an AI-rich future, an impen...",
+      "summary": "arXiv:2609.31272v2 Announce Type: cross Abstract: AI is becoming increasingly integrated into daily workflows, especially in computing. We are gradually shifting towards an AI-rich future, an impen...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -3587,23 +3587,23 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2609-31291v1": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-31291v1",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-31291v1",
+    "arxiv-cs-ai-oai-arxiv-org-2609-31291v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-31291v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-31291v2",
       "name": "Softmax Reparameterization for Output-Head Quantization",
       "type": "news",
-      "summary": "arXiv:2609.31291v1 Announce Type: cross Abstract: Large vocabularies make output heads a substantial inference cost in small language models. We propose softmax reparameterization, a post-training...",
+      "summary": "arXiv:2609.31291v2 Announce Type: cross Abstract: Large vocabularies make output heads a substantial inference cost in small language models. We introduce softmax reparameterization, a post-trainin...",
       "tags": [
         "news",
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2609-31298v1": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-31298v1",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-31298v1",
+    "arxiv-cs-ai-oai-arxiv-org-2609-31298v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-31298v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-31298v2",
       "name": "UniAR: A Unified Framework for Autism Recognition Enhanced by Multi-View Prompt Learning",
       "type": "news",
-      "summary": "arXiv:2609.31298v1 Announce Type: cross Abstract: Autism Spectrum Disorder (ASD) is a complex neurodevelopmental disorder for which early and accurate diagnosis is critical to improving long-term d...",
+      "summary": "arXiv:2609.31298v2 Announce Type: cross Abstract: Autism Spectrum Disorder (ASD) is a complex neurodevelopmental disorder for which early and accurate diagnosis is critical to improving long-term d...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -3895,12 +3895,12 @@
         "arxiv-cs-ai"
       ]
     },
-    "arxiv-cs-ai-oai-arxiv-org-2609-31491v1": {
-      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-31491v1",
-      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-31491v1",
+    "arxiv-cs-ai-oai-arxiv-org-2609-31491v2": {
+      "slug": "arxiv-cs-ai-oai-arxiv-org-2609-31491v2",
+      "typedId": "news/arxiv-cs-ai-oai-arxiv-org-2609-31491v2",
       "name": "UQ-LOB: Uncertainty-Aware Limit Order Book Mid-Price Forecasting",
       "type": "news",
-      "summary": "arXiv:2609.31491v1 Announce Type: new Abstract: Forecasting short-horizon mid-price movements from limit order book (LOB) data is central to algorithmic trading, yet most deep LOB forecasters are p...",
+      "summary": "arXiv:2609.31491v2 Announce Type: new Abstract: Forecasting short-horizon mid-price movements from limit order book (LOB) data is central to algorithmic trading, yet most deep LOB forecasters are p...",
       "tags": [
         "news",
         "arxiv-cs-ai"
@@ -4036,6 +4036,116 @@
       "tags": [
         "news",
         "arxiv-cs-ai"
+      ]
+    },
+    "mit-news-ai-https-news-mit-edu-2026-algorithmic-monoculture-effects-depend-on-details-0929": {
+      "slug": "mit-news-ai-https-news-mit-edu-2026-algorithmic-monoculture-effects-depend-on-details-0929",
+      "typedId": "news/mit-news-ai-https-news-mit-edu-2026-algorithmic-monoculture-effects-depend-on-details-0929",
+      "name": "The effects of an “algorithmic monoculture” depend on the details",
+      "type": "news",
+      "summary": "In a study focusing on hiring decisions, MIT researchers found the use of a single algorithm by many firms could benefit job seekers in certain situations.",
+      "tags": [
+        "news",
+        "mit-news-ai"
+      ]
+    },
+    "mit-news-ai-https-news-mit-edu-2026-when-we-talk-to-machines-sherry-turkle-book-0929": {
+      "slug": "mit-news-ai-https-news-mit-edu-2026-when-we-talk-to-machines-sherry-turkle-book-0929",
+      "typedId": "news/mit-news-ai-https-news-mit-edu-2026-when-we-talk-to-machines-sherry-turkle-book-0929",
+      "name": "Who we become when we talk to machines",
+      "type": "news",
+      "summary": "Professor Sherry Turkle’s new book, “Artificial Intimacy,” offers a withering critique of chatbots and the antisocial dynamics she believes they encourage.",
+      "tags": [
+        "news",
+        "mit-news-ai"
+      ]
+    },
+    "google-ai-blog-https-blog-google-innovation-and-ai-technology-ai-winner-future-vision-xprize": {
+      "slug": "google-ai-blog-https-blog-google-innovation-and-ai-technology-ai-winner-future-vision-xprize",
+      "typedId": "news/google-ai-blog-https-blog-google-innovation-and-ai-technology-ai-winner-future-vision-xprize",
+      "name": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "type": "news",
+      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\"&gt;Watch the winning trailer from the Future Vision XPRIZE, The...",
+      "tags": [
+        "news",
+        "google-ai-blog"
+      ]
+    },
+    "huggingface-blog-https-huggingface-co-blog-hcompany-holo4": {
+      "slug": "huggingface-blog-https-huggingface-co-blog-hcompany-holo4",
+      "typedId": "news/huggingface-blog-https-huggingface-co-blog-hcompany-holo4",
+      "name": "Holo4: powering generalist computer-use agents",
+      "type": "news",
+      "summary": "Holo4: powering generalist computer-use agents",
+      "tags": [
+        "news",
+        "huggingface-blog"
+      ]
+    },
+    "mit-news-ai-https-news-mit-edu-2026-new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928": {
+      "slug": "mit-news-ai-https-news-mit-edu-2026-new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+      "typedId": "news/mit-news-ai-https-news-mit-edu-2026-new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+      "name": "New formulation helps RNA vaccines withstand high temperatures",
+      "type": "news",
+      "summary": "MIT engineers have found a way to stabilize the lipid nanoparticles used to deliver RNA vaccines, which could allow the vaccines to be more widely distributed.",
+      "tags": [
+        "news",
+        "mit-news-ai"
+      ]
+    },
+    "openai-blog-https-openai-com-form-codex-originals": {
+      "slug": "openai-blog-https-openai-com-form-codex-originals",
+      "typedId": "news/openai-blog-https-openai-com-form-codex-originals",
+      "name": "Are you a Codex Original?",
+      "type": "news",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals prog...",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-basis-tax-workbook-with-astra": {
+      "slug": "openai-blog-https-openai-com-index-basis-tax-workbook-with-astra",
+      "typedId": "news/openai-blog-https-openai-com-index-basis-tax-workbook-with-astra",
+      "name": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "type": "news",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-how-we-will-do-better-for-australia": {
+      "slug": "openai-blog-https-openai-com-index-how-we-will-do-better-for-australia",
+      "typedId": "news/openai-blog-https-openai-com-index-how-we-will-do-better-for-australia",
+      "name": "How we will do better for Australia",
+      "type": "news",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-lenfest-ai-collaborative-expansion": {
+      "slug": "openai-blog-https-openai-com-index-lenfest-ai-collaborative-expansion",
+      "typedId": "news/openai-blog-https-openai-com-index-lenfest-ai-collaborative-expansion",
+      "name": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "type": "news",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-towards-safety-cases-for-frontier-ai-training": {
+      "slug": "openai-blog-https-openai-com-index-towards-safety-cases-for-frontier-ai-training",
+      "typedId": "news/openai-blog-https-openai-com-index-towards-safety-cases-for-frontier-ai-training",
+      "name": "Towards safety cases for frontier AI training",
+      "type": "news",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "tags": [
+        "news",
+        "openai-blog"
       ]
     },
     "mit-news-ai-https-news-mit-edu-2026-mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925": {

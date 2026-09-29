@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2609-35686",
+  "name": "Rethinking Circuit Evaluation: Do Circuits Explain Model Errors?",
+  "summary": "Mechanistic interpretability (MI) aims to explain a model's behaviour through analyzing its internal computations; circuit-based explanations aim to isolate these computations with compact subnetwo...",
+  "description": "Mechanistic interpretability (MI) aims to explain a model's behaviour through analyzing its internal computations; circuit-based explanations aim to isolate these computations with compact subnetworks validated by ablating the rest of the model. We show that circuits validated this way may fail to recover the underlying mechanism of the model's behaviour by closely reproducing its successful decisions while failing to account for most of its errors. Such explanations should account for the model's particular errors as well as its successes. We evaluate this requirement by measuring exact an...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.35686v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-28",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.35686v1"
+    }
+  ],
+  "authors": [
+    "Li Zhang",
+    "Chuqin Geng",
+    "Mark Zhang",
+    "Chen Yang",
+    "Luke Zhang",
+    "Haolin Ye",
+    "Xujie Si"
+  ],
+  "paperId": "2609.35686",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-28",
+  "abstract": "Mechanistic interpretability (MI) aims to explain a model's behaviour through analyzing its internal computations; circuit-based explanations aim to isolate these computations with compact subnetworks validated by ablating the rest of the model. We show that circuits validated this way may fail to recover the underlying mechanism of the model's behaviour by closely reproducing its successful decisions while failing to account for most of its errors. Such explanations should account for the model's particular errors as well as its successes. We evaluate this requirement by measuring exact an..."
+}

@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2511.06701v4",
-  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "fetchedAt": "2026-09-29T08:17:30.494Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2511.06701v4",
     "title": "Structural Enforcement of Statistical Rigor in AI-Driven Discovery: A Functional Architecture",
     "link": "https://arxiv.org/abs/2511.06701",
     "description": "arXiv:2511.06701v4 Announce Type: replace-cross Abstract: AI-Scientist systems risk manufacturing spurious discoveries through uncontrolled multiple testing. We present a functional architecture that enforces statistical rigor at two levels: a Haskell embedded domain-specific language (the Research monad) that makes it impossible to test a hypothesis without updating the error budget, and a declarative scaffold that fixes the data flow and the statistical test, together with an OS-level sandbox that makes validation data physically absent from the environment in which LLM-generated code runs. We treat FDR control as a formal requirement and trace it to the implementation. We ground the design in a machine-checked Lean~4 formalization of LORD online false-discovery-rate (FDR) control: we derive its error budget and prove marginal FDR control, and full FDR control when thresholds do not adapt to earlier rejections. We then verify in SPARK/Ada that the LORD thresholds, computed in IEEE~754 arithmetic, never exceed the available wealth, given a margin condition that our configurations meet by a factor of at least eight; without a margin the property fails. To our knowledge this is the first machine-checked proof of an online FDR control theorem. In simulation, the architecture holds the false discovery rate near 1\\% against a 5\\% target, where a naive approach reaches 41\\%. In end-to-end case studies, a valid test avoids the false discoveries a flawed one produces, yet still finds real effects when the data allow. An adversarial evaluation confirms that, inside the sandbox, generated code cannot read the held-out data even when given its exact path.",
-    "publishedAt": "2026-09-28",
+    "publishedAt": "2026-09-29",
     "author": "Karen Sargsyan",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

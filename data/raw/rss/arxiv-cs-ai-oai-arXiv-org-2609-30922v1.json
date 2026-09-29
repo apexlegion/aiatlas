@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.30922v1",
-  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "fetchedAt": "2026-09-29T08:17:30.494Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.30922v1",
     "title": "JevSoup: System-One Routing for Training-Free LoRA Composition",
     "link": "https://arxiv.org/abs/2609.30922",
     "description": "arXiv:2609.30922v1 Announce Type: new Abstract: Building adaptable AI systems requires effective coordination of specialized capabilities across diverse tasks. Low-rank adaptation (LoRA) enables modular expertise, but existing routing approaches may require auxiliary data, additional training, or autoregressive decoding. We propose JevSoup, a training-free framework separating System One expert routing from System Two execution. Using only the input and expert descriptions, Jev selects two experts through structured probabilities. JevSoup retains the leading expert's update, projects the second onto the orthogonal complement of the first update's row space, and combines them with equal weights. Across 14 PorTAL tasks and three Qwen3 scales, JepSoup achieves absolute gains of up to 1.19\\% in task-macro and 1.21\\% in sample-micro accuracy over the strongest evaluated external baselines. Our code is available at https://github.com/Leowang980/JevSoup.",
-    "publishedAt": "2026-09-28",
+    "publishedAt": "2026-09-29",
     "author": "Xiuying Wang, Jiahua Cheng, Shuotian Li, Yufan Cheng, Bowen Deng, Zhexuan Bai, Yichen Li",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

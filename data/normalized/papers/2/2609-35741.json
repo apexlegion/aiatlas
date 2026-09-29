@@ -1,0 +1,42 @@
+{
+  "type": "paper",
+  "slug": "2609-35741",
+  "name": "Shockingly Simple Self-retrospection Improves Agentic Models Without RL",
+  "summary": "People learn not only by repeating successful actions, but also by recounting and explaining their experiences, revising their understanding to guide future behavior. Can a language-model agent imp...",
+  "description": "People learn not only by repeating successful actions, but also by recounting and explaining their experiences, revising their understanding to guide future behavior. Can a language-model agent improve its future actions by training only on explanations of its own experience? We investigate this question by studying Retrospection-Only Fine-Tuning (ROFT), a minimal online procedure designed to isolate the effect of explanation-only training on subsequent behavior. The agent attempts a task, observes available feedback, generates a retrospective explanation, and is fine-tuned with a next-toke...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.35741v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-28",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.35741v1"
+    }
+  ],
+  "authors": [
+    "Jonathan Light",
+    "Christopher Zhang Cui",
+    "Jeonghye Kim",
+    "Roger Creus Castanyer",
+    "Emiliano Penaloza",
+    "Zhengyan Shi",
+    "Alessandro Sordoni",
+    "Marc-Alexandre Côté",
+    "Xingdi Yuan",
+    "Minseon Kim"
+  ],
+  "paperId": "2609.35741",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-28",
+  "abstract": "People learn not only by repeating successful actions, but also by recounting and explaining their experiences, revising their understanding to guide future behavior. Can a language-model agent improve its future actions by training only on explanations of its own experience? We investigate this question by studying Retrospection-Only Fine-Tuning (ROFT), a minimal online procedure designed to isolate the effect of explanation-only training on subsequent behavior. The agent attempts a task, observes available feedback, generates a retrospective explanation, and is fine-tuned with a next-toke..."
+}

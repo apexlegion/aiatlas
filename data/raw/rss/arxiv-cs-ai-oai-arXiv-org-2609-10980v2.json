@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.10980v2",
-  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "fetchedAt": "2026-09-29T08:17:30.494Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.10980v2",
     "title": "EGGROLL, Unrolled: Understanding and Improving Low-Rank Evolution Strategies at Scale",
     "link": "https://arxiv.org/abs/2609.10980",
     "description": "arXiv:2609.10980v2 Announce Type: replace-cross Abstract: EGGROLL (Sarkar et al., 2026) makes evolution strategies (ES) practical for LLMs by replacing dense Gaussian weight perturbations with low-rank Gaussian products, often of rank one. This choice is computationally attractive but geometrically severe: Each rank-one perturbation lies in a zero-volume subset of the ambient matrix space, despite having identity covariance. We characterize the EGGROLL update mean field at finite rank and nonzero perturbation radius as a resolvent applied to the gradient of the perturbation-smoothed objective. This transformation can make the mean field nonconservative and reverse the local stability of an optimum. EGGROLL nevertheless recovers the gradient exactly on quadratic objectives at every rank and radius. In finite populations, the additional sampling variance of rank-one perturbations relative to dense Gaussian ES decays inversely with matrix width under a local affine model, and is only $0.098\\%$ at width $4096$. Finally, we introduce LOO-ROLL, a leave-one-out estimator that replaces EGGROLL's two antithetic evaluations per direction by one. At equal evaluation cost, LOO-ROLL halves estimator MSE in transformer blocks. Across fourteen post-training settings up to 14B parameters, matched-time comparisons with EGGROLL yield eleven improvements in individual paired tests and no significant loss. At 1.7B, 8B, and 14B parameters, matched-time gains are $2.9$, $14.1$, and $7.9$ percentage points on GSM8K and $12.2$, $8.4$, and $8.1$ points on MATH-500.",
-    "publishedAt": "2026-09-28",
+    "publishedAt": "2026-09-29",
     "author": "Ege C. Kaya, Abolfazl Hashemi",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

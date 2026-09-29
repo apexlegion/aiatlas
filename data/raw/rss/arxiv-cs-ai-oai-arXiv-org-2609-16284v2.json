@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.16284v2",
-  "fetchedAt": "2026-09-28T08:35:00.054Z",
+  "fetchedAt": "2026-09-29T08:17:30.494Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.16284v2",
     "title": "ProtoLIP: From Sentence-Level to Object-Level Evidence Disentanglement",
     "link": "https://arxiv.org/abs/2609.16284",
     "description": "arXiv:2609.16284v2 Announce Type: replace-cross Abstract: Query-conditioned vision-language models enable fine-grained interpretation by revealing which visual content supports a given textual query and how this evidence changes across queries. However, semantically, sentence-level evidence does not necessarily decompose into object-specific contributions, while spatially, object-level evidence can remain entangled with co-occurring objects and surrounding scene context. Across multiple VLM architectures and independent benchmarks, we observe persistent object-level evidence entanglement. Moreover, exposed evidence maps do not necessarily correspond to the evidence that directly constitutes the model's prediction. To disentangle visual evidence at both semantic and spatial levels, we introduce ProtoLIP, a lightweight prototype-mediated evidence layer that organizes reusable visual prototypes into text-derived semantic families and uses coarse-to-fine evidence routing, where semantic families constrain prototype eligibility and the complete query determines fine-grained prototype contributions. Our studies show that ProtoLIP improves evidence localization and separation across query granularities, achieving average relative gains of 29% in Pointing and 43% in Energy across four object- and phrase-level OOD benchmarks. Its localization gains also transfer to independently pretrained VLMs, with larger improvements observed in several transfer settings. On the primary backbone, ProtoLIP also improves image-text matching discrimination while remaining competitive with a spatially supervised grounding model in object-level localization. Crucially, ProtoLIP constructs its image-text matching score directly from localized prototype evidence, enabling exact decomposition across prototypes, semantic families, and spatial evidence without spatial annotations or backbone retraining.",
-    "publishedAt": "2026-09-28",
+    "publishedAt": "2026-09-29",
     "author": "Yan Zhu, Yongbo Chen, Zhengming Ding, Rebecca Faust",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

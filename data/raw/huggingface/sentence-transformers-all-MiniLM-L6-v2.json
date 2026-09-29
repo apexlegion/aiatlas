@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "sentence-transformers/all-MiniLM-L6-v2",
-  "fetchedAt": "2026-09-28T08:34:58.134Z",
+  "fetchedAt": "2026-09-29T08:17:29.375Z",
   "data": {
     "_id": "621ffdc136468d709f180294",
     "id": "sentence-transformers/all-MiniLM-L6-v2",
@@ -57,8 +57,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 242677197,
-    "likes": 6135,
+    "downloads": 242757705,
+    "likes": 6142,
     "modelId": "sentence-transformers/all-MiniLM-L6-v2",
     "author": "sentence-transformers",
     "sha": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
@@ -228,9 +228,11 @@
     "spaces": [
       "embedl/hfviewer",
       "mteb/leaderboard",
-      "GiacomoDeLuca/orrery-demo",
+      "gaurabdas/issue-lens",
       "Agents-MCP-Hackathon/Intelligent_Content_Organizer",
       "absiitr/PDF-Assistant",
+      "GiacomoDeLuca/orrery-demo",
+      "Jagukumar/Text-To-Embeddings",
       "swarajsonawane4/scifact-rag",
       "Vusal3242134/Movie_Recommendation_Chatbot",
       "syeddddaaaa/Medical_Ai_chatbot-Rag_Based_System",
@@ -244,8 +246,9 @@
       "AlephBeth-AI/GuardLLM",
       "sparshsrivastava95111/echoo-ai-commerce-api",
       "Sarvjais12/skyclad-rag",
-      "BrocoAI/trikal-darshi-api",
+      "Omthakur1394/shopease-self-rag",
       "Remiarmand/Proxys_career_conversation",
+      "sushantkshirsagar/career_conversations",
       "dontelightfoot/symbolic-recursive-engine",
       "yztql/emotion-mirror",
       "shareefmx/pdf-knowledge-assistant",
@@ -322,10 +325,7 @@
       "dnzblgn/RAG_PDF_langchain",
       "khalifssa/medicine-chartbot",
       "VIDraft/Local-RAG-llama-3-8b",
-      "Ardaarslan02/finance-chatbot",
-      "santanavagner/responsible-prompting-demo",
-      "CyberTud/legalchat",
-      "MCP-1st-Birthday/auto-distill"
+      "Ardaarslan02/finance-chatbot"
     ],
     "createdAt": "2022-03-02T23:29:05.000Z",
     "safetensors": {

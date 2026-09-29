@@ -1,0 +1,49 @@
+{
+  "type": "paper",
+  "slug": "2609-35769",
+  "name": "Telescopic Language Models",
+  "summary": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) t...",
+  "description": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to be that continuum: a nested-capacity Transformer supervised by stochastic prefix supervision with a full anchor. At every step, one randomly truncated prefix of the capacity axis is trained against the full next-token target, alongside one full-capacity pass, so the trained artifact is a valid language model at every depth. Two forward-backward passes per step, no architectural change, nothing e...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.35769v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-28",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2609.35769v1"
+    }
+  ],
+  "authors": [
+    "Zhilin Guo",
+    "Boqiao Zhang",
+    "Hakan Aktas",
+    "Kyle Fogarty",
+    "Nursena Koprucu Aslan",
+    "Wenzhao Li",
+    "Canberk Baykal",
+    "Albert Miao",
+    "Siyu Hong",
+    "Yixiao Liu",
+    "Adam Wu",
+    "Ashish Kumar Singh",
+    "Sakar Khattar",
+    "Chenliang Zhou",
+    "Weihao Xia",
+    "Cristina Nader Vasconcelos",
+    "Cengiz Oztireli"
+  ],
+  "paperId": "2609.35769",
+  "category": "cs.CL",
+  "publishedAt": "2026-09-28",
+  "abstract": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to be that continuum: a nested-capacity Transformer supervised by stochastic prefix supervision with a full anchor. At every step, one randomly truncated prefix of the capacity axis is trained against the full next-token target, alongside one full-capacity pass, so the trained artifact is a valid language model at every depth. Two forward-backward passes per step, no architectural change, nothing e..."
+}
