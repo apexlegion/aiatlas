@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.36357v1",
+  "fetchedAt": "2026-09-30T08:18:03.157Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.36357v1",
+    "title": "HyperZip: Efficient Data Compression through Personalized Diffusion LLMs with Hypernetworks",
+    "link": "https://arxiv.org/abs/2609.36357",
+    "description": "arXiv:2609.36357v1 Announce Type: new Abstract: Large language models (LLMs) have shown strong potential for lossless data compression, but existing approaches are constrained by the high computational cost and low throughput of autoregressive decoding. We propose HyperZip, an efficient and scalable LLM-based compression framework that leverages diffusion-based LLMs (dLLMs) with Multi-Token Prediction (MTP) to accelerate LLM-based data compression processes. We identify a trade-off in diffusion-based compression, where increasing decoding throughput degrades the compression rate. To mitigate this trade-off, HyperZip employs a hypernetwork to generate data-specific updates from a context representation, adapting the dLLM to the target data without costly fine-tuning, resulting in a low compression rate and high throughput. Extensive experiments show that HyperZip achieves a superior trade-off between compression rate and speed compared with state-of-the-art baselines.",
+    "publishedAt": "2026-09-30",
+    "author": "Thai Nguyen, Khang Tran, NhatHai Phan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

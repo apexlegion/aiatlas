@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-36471v1",
+  "name": "Staircase Policy: Streaming Inference for World-Action Models with Large Action Chunks",
+  "summary": "arXiv:2609.36471v1 Announce Type: cross Abstract: World-Action Models (WAMs) improve robotic manipulation by conditioning action generation on predicted future observations, but future prediction a...",
+  "description": "arXiv:2609.36471v1 Announce Type: cross Abstract: World-Action Models (WAMs) improve robotic manipulation by conditioning action generation on predicted future observations, but future prediction adds further inference overhead to already expensive iterative action generation. Action chunking can amortize this cost over multiple actions, yet performance degrades over long execution horizons bec...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.36471"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-30",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.36471"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-30",
+  "expiryAt": "2026-10-30T00:00:00.000Z",
+  "author": "Guoheng Sun, Chen Chen, Jin Wang, Ang Li, Teresa Lv"
+}

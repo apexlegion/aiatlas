@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-37829v1",
+  "name": "DIET: Deletion-response Expert Trimming for Video Diffusion Transformers",
+  "summary": "arXiv:2609.37829v1 Announce Type: new Abstract: Video diffusion transformers (DiTs) increasingly adopt mixture-of-experts (MoE) architectures to reduce active computation, but their full expert sto...",
+  "description": "arXiv:2609.37829v1 Announce Type: new Abstract: Video diffusion transformers (DiTs) increasingly adopt mixture-of-experts (MoE) architectures to reduce active computation, but their full expert storage remains costly. Existing one-shot pruning criteria mainly rely on static activation or routing statistics and cannot capture layer-level re-routing after expert deletion. We introduce DIET, a tra...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.37829"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-30",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.37829"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-30",
+  "expiryAt": "2026-10-30T00:00:00.000Z",
+  "author": "Jiachang Zhang, Teng Hu, Bohao Feng, Songhang Shen, Wenqiang Wang, Hongqian Deng, Ran Yi"
+}

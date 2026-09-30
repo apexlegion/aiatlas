@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.08059v2",
+  "fetchedAt": "2026-09-30T08:18:03.157Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.08059v2",
+    "title": "From Concept Erasure to Style Purification: Contrastive Eigenbases for Artist Style Protection",
+    "link": "https://arxiv.org/abs/2602.08059",
+    "description": "arXiv:2602.08059v2 Announce Type: replace-cross Abstract: Text-to-image diffusion models can reproduce specific artists visual styles at extremely low cost, raising copyright and deployment safety concerns about unauthorized style mimicry. Existing model-side protection methods generally follow ordinary concept erasure, emphasizing aggressive deletion or redirection of target styles. However, our causal intervention analysis shows that the central issue is not insufficient erasure strength, but a mismatch between artist styles and this paradigm: unlike ordinary object concepts, artist styles do not form compact, localized editable semantic units. Consequently, sparse editing and fixed retain lists struggle to suppress target styles while preserving generation utility. We therefore reformulate artist style protection as style purification, suppressing target style expression during inference while preserving the requested content and visual structure. We propose CAPE (Contrastive Artist Style Purification with Eigenbases), a training-free framework against artist style mimicry. CAPE constructs contrastive triplets around the target request and formulates style direction estimation as a generalized eigenvalue problem, capturing style-related directions that remain stable across content variations and are less affected by shared content. During inference, CAPE employs the Adaptive Suppression Controller to assign suppression strengths to different tokens based on Q, K, and V responses, and performs target style suppression on the K and V paths of self-attention. Experimental results show that CAPE effectively weakens target artist characteristics, including brushstrokes, textures, and local color processing, while better preserving major semantic entities, scene composition, and visual structures.",
+    "publishedAt": "2026-09-30",
+    "author": "Tong Zhang, Ru Zhang, Jianyi Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

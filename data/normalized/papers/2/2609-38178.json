@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2609-38178",
+  "name": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+  "summary": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make e...",
+  "description": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction. Recent agentic systems offer a way to reduce this reliance on human effort by using foundation models to autonomously compose learned behaviors to complete tasks. Yet completing tasks this way does not itself teach a task policy to overcome its own failures; that requires turning these behaviors into learnable cor...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.38178v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-29",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2609.38178v1"
+    }
+  ],
+  "authors": [
+    "Zihang Rui",
+    "Renhao Wang",
+    "Haoxu Huang",
+    "Yang Gao"
+  ],
+  "paperId": "2609.38178",
+  "category": "cs.RO",
+  "publishedAt": "2026-09-29",
+  "abstract": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effective use of experience without requiring human demonstration of each correction. Recent agentic systems offer a way to reduce this reliance on human effort by using foundation models to autonomously compose learned behaviors to complete tasks. Yet completing tasks this way does not itself teach a task policy to overcome its own failures; that requires turning these behaviors into learnable cor..."
+}

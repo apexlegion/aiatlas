@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.36492v1",
+  "fetchedAt": "2026-09-30T08:18:03.157Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.36492v1",
+    "title": "Benchmarking Vision-Language Models on Synapse Detection and Proofreading in Connectomics",
+    "link": "https://arxiv.org/abs/2609.36492",
+    "description": "arXiv:2609.36492v1 Announce Type: cross Abstract: We benchmarked vision-language models (VLMs) on the decisions annotators take when inspecting electron microscopy images in connectomics: synapse detection (presence and polarity) and proofreading (split errors and merge errors). For synapse detection, we evaluated 19 open and 2 closed models across various architectures and sizes under zero-shot, four-shot in-context learning and LoRA settings, against specialist models, on datasets constructed by us using public resources. For proofreading, we evaluated 3 open and 2 closed models on the ConnectomeBench2 dataset, with cross-species transfer from fly and mouse to human and zebrafish. Most models were at chance zero-shot; a few examples helped mainly the closed and largest open ones. LoRA on a few thousand labels brought open models level with specialist models. When evaluated on unseen species, the best adapted VLMs outperformed specialist models trained on the same data in identifying merge errors. The project will be publicly available upon acceptance.",
+    "publishedAt": "2026-09-30",
+    "author": "Yicong Li, Junjie Wang, Leander Lauenburg, Ella Hugie, Alexandra Irger, Wanhua Li, Donglai Wei, Hanspeter Pfister",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

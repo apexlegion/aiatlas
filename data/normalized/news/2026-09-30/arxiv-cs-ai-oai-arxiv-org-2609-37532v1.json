@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-37532v1",
+  "name": "DScale: Scaling Block-Diffusion Speculative Decoding with Adaptive Verification",
+  "summary": "arXiv:2609.37532v1 Announce Type: cross Abstract: Growing large language model applications demand efficient inference. At high concurrency, block-diffusion speculative decoding suffers from verifi...",
+  "description": "arXiv:2609.37532v1 Announce Type: cross Abstract: Growing large language model applications demand efficient inference. At high concurrency, block-diffusion speculative decoding suffers from verification padding, rejected candidates, and incompatibility between variable prefixes and fixed-shape graphs. Uniform truncation sacrifices acceptable tokens. We present DScale, preserving drafter archit...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.37532"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-30",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.37532"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-30",
+  "expiryAt": "2026-10-30T00:00:00.000Z",
+  "author": "Rongjian Chen, Minxian Xu, Zhengxin Fang, Kejiang Ye, Chengzhong Xu"
+}

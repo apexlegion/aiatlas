@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2604-14345v5",
+  "name": "PAC-CF: Calibrating Irreversible Frontier Pruning in LLM-Guided Search",
+  "summary": "arXiv:2604.14345v5 Announce Type: replace-cross Abstract: LLM-guided search explores multiple candidate trajectories, but at substantial test-time cost. Pruning low-scoring frontier candidates can...",
+  "description": "arXiv:2604.14345v5 Announce Type: replace-cross Abstract: LLM-guided search explores multiple candidate trajectories, but at substantial test-time cost. Pruning low-scoring frontier candidates can control this cost, yet it also turns potentially biased evaluator scores into irreversible decisions: systematic ranking errors can persist under repeated scoring and remove useful branches. We propos...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2604.14345"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-30",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2604.14345"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-30",
+  "expiryAt": "2026-10-30T00:00:00.000Z",
+  "author": "Tianhao Qian, Jiayu Chen, Zhenyu Sun, Lixu Wang"
+}

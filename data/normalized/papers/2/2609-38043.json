@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2609-38043",
+  "name": "UserProxyBench: Evaluating LLM User Simulators for Agent Benchmarks and Training",
+  "summary": "Interactive agent benchmarks and multi-turn reinforcement learning increasingly place a second language model in the role of the user. This simulated user controls what information the agent receiv...",
+  "description": "Interactive agent benchmarks and multi-turn reinforcement learning increasingly place a second language model in the role of the user. This simulated user controls what information the agent receives and when, yet current benchmarks score only the agent and do not directly measure whether the user correctly executed its assigned role. We introduce UserProxyBench, an evaluation layer over the tau-bench family, and the User Fidelity Score (UFS), which measures adherence to the benchmark's private user instructions using task-grounded rubric criteria scored independently of agent success. Hold...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.38043v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-29",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.38043v1"
+    }
+  ],
+  "authors": [
+    "Ashish Jain",
+    "Armaan Sandhu"
+  ],
+  "paperId": "2609.38043",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-29",
+  "abstract": "Interactive agent benchmarks and multi-turn reinforcement learning increasingly place a second language model in the role of the user. This simulated user controls what information the agent receives and when, yet current benchmarks score only the agent and do not directly measure whether the user correctly executed its assigned role. We introduce UserProxyBench, an evaluation layer over the tau-bench family, and the User Fidelity Score (UFS), which measures adherence to the benchmark's private user instructions using task-grounded rubric criteria scored independently of agent success. Hold..."
+}

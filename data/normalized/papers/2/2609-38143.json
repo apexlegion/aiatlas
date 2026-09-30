@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2609-38143",
+  "name": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
+  "summary": "Agent performance depends on both reasoning ability and the environment in which it acts. We study test-time AI-for-AI, asking how a Builder can learn to construct better execution environments for...",
+  "description": "Agent performance depends on both reasoning ability and the environment in which it acts. We study test-time AI-for-AI, asking how a Builder can learn to construct better execution environments for a Target while both models' weights remain fixed. To make the Builder's experience reusable, we introduce Meta-Skill: principles specifying when support is needed and what resources to provide. The Builder learns these principles from Target's execution feedback on the development set, then uses the frozen skill bank to construct harnesses for unseen tasks. Across Harness-Bench and NewtonBench, f...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.38143v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-29",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.38143v1"
+    }
+  ],
+  "authors": [
+    "Cheng Qian",
+    "Kunlun Zhu",
+    "Beibin Li",
+    "Zhenhailong Wang",
+    "Heng Ji"
+  ],
+  "paperId": "2609.38143",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-29",
+  "abstract": "Agent performance depends on both reasoning ability and the environment in which it acts. We study test-time AI-for-AI, asking how a Builder can learn to construct better execution environments for a Target while both models' weights remain fixed. To make the Builder's experience reusable, we introduce Meta-Skill: principles specifying when support is needed and what resources to provide. The Builder learns these principles from Target's execution feedback on the development set, then uses the frozen skill bank to construct harnesses for unseen tasks. Across Harness-Bench and NewtonBench, f..."
+}

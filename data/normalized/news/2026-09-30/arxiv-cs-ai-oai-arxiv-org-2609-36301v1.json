@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-36301v1",
+  "name": "MoRE: Scaling mixture of experts with hardware-aware low-rank routing",
+  "summary": "arXiv:2609.36301v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) layers are central to frontier language models, and recent architectures push toward more and smaller experts. In this reg...",
+  "description": "arXiv:2609.36301v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) layers are central to frontier language models, and recent architectures push toward more and smaller experts. In this regime, the standard linear router becomes a bottleneck: with $M$ experts and hidden dimension $h$, its per-token cost $\\Theta(Mh)$ dominates the MoE layer once $M$ is large. We introduce MoRE (Mixture o...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.36301"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-30",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.36301"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-30",
+  "expiryAt": "2026-10-30T00:00:00.000Z",
+  "author": "Honam Wong, Surbhi Goel, Enric Boix-Adser\\`a"
+}

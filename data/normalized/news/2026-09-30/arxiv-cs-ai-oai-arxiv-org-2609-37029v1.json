@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-37029v1",
+  "name": "LongSpark: Efficient speculative decoding with a fixed-cost parallel drafter",
+  "summary": "arXiv:2609.37029v1 Announce Type: cross Abstract: Speculative decoding accelerates autoregressive inference by verifying multiple draft tokens in a single target forward pass. However, as the conte...",
+  "description": "arXiv:2609.37029v1 Announce Type: cross Abstract: Speculative decoding accelerates autoregressive inference by verifying multiple draft tokens in a single target forward pass. However, as the context grows, existing state-of-the-art drafters become increasingly expensive, eroding the very efficiency advantage they are designed to provide. We argue that this scaling is unnecessary. A standalone...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.37029"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-30",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.37029"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-30",
+  "expiryAt": "2026-10-30T00:00:00.000Z",
+  "author": "Hao-Yuan He, Peng-Fei Liu, Si Shen, Ming Li"
+}

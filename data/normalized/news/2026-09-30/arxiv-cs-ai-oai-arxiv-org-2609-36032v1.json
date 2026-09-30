@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-36032v1",
+  "name": "TORQUE: Optimizing What (not) to Quantize Before and After Rotation",
+  "summary": "arXiv:2609.36032v1 Announce Type: cross Abstract: Uniform random rotations are an effective preprocessing step for quantization: they make normalized coordinate distributions approximately Gaussian...",
+  "description": "arXiv:2609.36032v1 Announce Type: cross Abstract: Uniform random rotations are an effective preprocessing step for quantization: they make normalized coordinate distributions approximately Gaussian, enabling the use of codebooks optimized offline. We introduce TORQUE, a framework that improves on previous quantization works that use random rotations by jointly optimizing how many and which coor...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.36032"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-30",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.36032"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-30",
+  "expiryAt": "2026-10-30T00:00:00.000Z",
+  "author": "Ran Ben Basat, Michael Mitzenmacher, Shay Vargaftik"
+}

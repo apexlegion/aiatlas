@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.35809v1",
+  "fetchedAt": "2026-09-30T08:18:03.157Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.35809v1",
+    "title": "Can Multimodal Large Language Models Generate and Detect Multimodal Social Media Fake News?",
+    "link": "https://arxiv.org/abs/2609.35809",
+    "description": "arXiv:2609.35809v1 Announce Type: cross Abstract: The rapid advancement of generative AI raises concerns about the misuse of Multimodal LLMs (MLLMs) for large-scale disinformation campaigns on social media. Despite existing research on textual disinformation, a fundamental question remains unanswered: can MLLMs be exploited to fabricate realistic multimodal fake news, and can they reliably detect it? We introduce a multi-agent framework in which a story agent, an image agent, and a critic agent collaborate to produce fake social media posts that plausibly counter true news. We apply the framework to generate over 9,000 paired multimodal news posts across science, health, and entertainment domains, and benchmark 16 open- and closed-source MLLMs for automated detection. We find that most models fall substantially short of human-level accuracy and fail critically on identifying image authenticity. Our research provides a foundation for developing robust defenses against social media fake news. Code and data are available at https: //github.com/xiuzhenzhang/Multimodal.",
+    "publishedAt": "2026-09-30",
+    "author": "Jiyao Yang, Yang Liu, Zhenyue Qin, Qingyu Chen, Xiuzhen Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

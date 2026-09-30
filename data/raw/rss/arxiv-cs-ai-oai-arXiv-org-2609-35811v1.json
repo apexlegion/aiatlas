@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.35811v1",
+  "fetchedAt": "2026-09-30T08:18:03.157Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.35811v1",
+    "title": "Lookahead-R: Budget-Aware Tool Retrieval via Execution-Centric Planning",
+    "link": "https://arxiv.org/abs/2609.35811",
+    "description": "arXiv:2609.35811v1 Announce Type: cross Abstract: Tool retrieval is a critical bottleneck for LLM-based agents operating over large, heterogeneous API ecosystems. Existing approaches face an inherent trade-off: semantic retrievers are fast but suffer from the semantic-functional gap, while execution-based validation improves precision at the cost of prohibitive latency. We propose Lookahead-R, a planning-based framework that reformulates tool retrieval as a resource-constrained sequential decision-making problem. At its core, Lookahead-R introduces a lightweight execution-aware surrogate world model that jointly predicts tool execution success, latency cost, and semantic utility---without invoking real APIs. This world model drives a cost-sensitive, uncertainty-guided Monte Carlo Tree Search that navigates the tool space under strict budget constraints. Evaluated on the large-scale ToolBench benchmark, Lookahead-R achieves a superior accuracy-efficiency trade-off across all test scenarios. On the most challenging I3 split, it attains an NDCG@5 of 91.40\\%, outperforming the state-of-the-art ToolGen (90.16\\%) by 1.24\\%. Ablation studies confirm that explicit latency modeling is the key discriminative signal for identifying high-quality tools under resource constraints.",
+    "publishedAt": "2026-09-30",
+    "author": "Zongze Wu, Yani Guo, Runnan Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.37287v1",
+  "fetchedAt": "2026-09-30T08:18:03.157Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.37287v1",
+    "title": "VISTA-Bench: Benchmarking Multilingual Image Translation with Image-Specific Rubrics",
+    "link": "https://arxiv.org/abs/2609.37287",
+    "description": "arXiv:2609.37287v1 Announce Type: cross Abstract: Image translation is a fundamental capability of multimodal models for multilingual applications, requiring visual understanding and meaning preservation across languages. However, existing benchmarks have limited language coverage and often lack explicit image-specific evaluation criteria, making it difficult to comprehensively assess this capability. To systematically evaluate this capability, we introduce VISTA-Bench, covering 22 languages and 10 domains, and develop an image-specific rubric evaluation protocol. The benchmark combines sampling for language and scenario coverage with model-assisted, human-verified annotations that group related text into coherent semantic units and provide multilingual reference translations. The rubrics specify essential content, semantic relations, and acceptable translation variants, yielding separate output-based scores for translation quality and the preservation of visual and knowledge-dependent information. We conduct extensive evaluations of 16 mainstream models, including 12 multimodal models and four text-input models, and provide systematic analyses across languages, domains, and evaluation dimensions.",
+    "publishedAt": "2026-09-30",
+    "author": "Bo Lv, Mao Zheng, Zheng Li, Fangxu Liu, Mingrui Sun, Tao Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

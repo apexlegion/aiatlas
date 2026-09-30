@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.10723v2",
+  "fetchedAt": "2026-09-30T08:18:03.157Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.10723v2",
+    "title": "AcFlow: Controlling Text-to-Image Diffusion Transformers via Learned Conditional Activation Flow",
+    "link": "https://arxiv.org/abs/2609.10723",
+    "description": "arXiv:2609.10723v2 Announce Type: replace-cross Abstract: Text-to-image diffusion transformers (DiTs) are powerful generators, yet direct prompting provides limited control interface for style intensity and can fail to suppress unwanted concepts. To enable these controls, we introduce AcFlow, an inference-time controller that transports intermediate layer image-token activations through a learned concept-conditioned velocity field while keeping the base DiT frozen. A textual concept description specifies the desired intervention, while the integration horizon provides a continuous control parameter. The field produces token-varying, activation-dependent updates. With parameters shared across concepts within each task family, one field covers over 15,000 style descriptions or over 1,000 suppression concepts, and generalizes to concepts unseen during training without per-concept fitting. On style control, AcFlow achieves the best style--content trade-off among the evaluated baselines in the high-style-alignment regime. At a fixed operating point, AcFlow attains style--content alignment of 0.5365/0.2860, compared with 0.4397/0.2684 for the baseline with the highest style alignment. On concept suppression, AcFlow reduces the fraction of images showing the concept from 95.3%/82.1% to 41.6%/40.5% on held-in/held-out concepts, including cases where deleting them from the prompt fails to remove them. Our analyses support the learned velocity field as an adaptive control mechanism, with update directions varying across tokens and depending on their activation states. Our code is available at https://github.com/Nove1yst/AcFlow.",
+    "publishedAt": "2026-09-30",
+    "author": "Junran Wang, Zehao Jin, Tianyu Luan, Ruixuan Deng, Tian Qiu, Xinjie Shen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.29029v3",
+  "fetchedAt": "2026-09-30T08:18:03.157Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.29029v3",
+    "title": "Flow-JEPA: Robust Latent Dynamics for JEPA World Models via Flow Matching",
+    "link": "https://arxiv.org/abs/2608.29029",
+    "description": "arXiv:2608.29029v3 Announce Type: replace-cross Abstract: Joint-Embedding Predictive Architectures (JEPAs) provide a powerful framework for latent world modeling and planning in a reconstruction-free manner. Although numerous JEPA-based approaches have been proposed to mitigate representation collapse, our experiments on localized, out-of-distribution visual noise reveal that performance degradation remains pronounced and unresolved. We propose Flow-JEPA (F-JEPA), a flow-based latent dynamics model that jointly generates a sequence of future latent states conditioned on the current observation and actions. A Gaussian distribution serves as the flow source, exposing the vector field to perturbed latent trajectories as it learns to transport them toward clean future representations. This formulation retains the reconstruction-free JEPA framework while switching from pointwise transition regression to stochastic trajectory-level prediction. F-JEPA raises mean success from $86\\%$ to $92\\%$ under clean observations and from $67\\%$ to $86\\%$ under noisy conditions. Further evaluations over varying perturbation severity and inference settings show that the performance advantage persists across a broad range of conditions. These results suggest that conditional flow matching provides a promising alternative to deterministic autoregressive prediction as a dynamics formulation in JEPA world models.",
+    "publishedAt": "2026-09-30",
+    "author": "Yanchen Huo, Ziying Song, Yadan Luo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

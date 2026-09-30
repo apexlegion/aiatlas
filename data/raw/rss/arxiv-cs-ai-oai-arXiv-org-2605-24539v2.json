@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.24539v2",
+  "fetchedAt": "2026-09-30T08:18:03.157Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.24539v2",
+    "title": "DemoEvolve: Demonstration-Guided Harness Evolution under Sparse Feedback",
+    "link": "https://arxiv.org/abs/2605.24539",
+    "description": "arXiv:2605.24539v2 Announce Type: replace Abstract: Harness evolution enables frozen language model agents to adapt to unfamiliar tasks by modifying the external programs that govern their behavior. For long-horizon tasks, each rollout is costly, and a limited interaction budget may yield few examples of effective behavior. Sparse, delayed feedback also makes it difficult for a coding agent to diagnose failures and determine which modifications will improve performance. We present DemoEvolve, which uses human demonstrations to guide harness evolution under limited interaction budgets. The coding agent examines demonstrations alongside its own rollout history, extracts strategies and the conditions under which they apply, and turns them into reusable harness components. We compare demonstration guidance with self-rollout evolution and augmentation with retrieved textual knowledge under the same evolution procedure and agent interaction budget. On held-out seeds, DemoEvolve improves mean capped final-round progress from 16.83 to 20.00 in Balatro and mean floor reached from 18.17 to 28.83 in Slay the Spire 2, compared with the respective base harnesses. These results suggest that demonstrations can help harness evolution make better use of limited interaction experience by providing concrete guidance for diagnosis and modification.",
+    "publishedAt": "2026-09-30",
+    "author": "Lirong Che, Yuzhe yang, Peiwen lin, Xu Cao, Chuang wang, Xueqian wang, Jian su",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

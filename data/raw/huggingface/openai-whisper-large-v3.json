@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-09-29T08:17:29.126Z",
+  "fetchedAt": "2026-09-30T08:18:01.820Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4323896,
-    "likes": 6452,
+    "downloads": 4232154,
+    "likes": 6479,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -348,12 +348,12 @@
     "spaces": [
       "embedl/hfviewer",
       "mteb/leaderboard",
-      "treble-technologies/ffasr",
-      "openai/whisper",
       "hf-audio/whisper-large-v3",
+      "treble-technologies/ffasr",
+      "aquanode/gpu-vram-calculator",
+      "openai/whisper",
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "RyeAI/danish-asr-leaderboard",
-      "aquanode/gpu-vram-calculator",
       "artificialguybr/Video-Transcription-Smart-Summary",
       "artificialguybr/video-dubbing",
       "sanchit-gandhi/whisper-jax-spaces",

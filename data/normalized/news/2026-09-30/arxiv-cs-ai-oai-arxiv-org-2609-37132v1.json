@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-37132v1",
+  "name": "Train Ahead, Distill Back: Bootstrapping On-Policy Self-Distillation for Large Language Models",
+  "summary": "arXiv:2609.37132v1 Announce Type: new Abstract: On-policy self-distillation (OPSD) improves large language models by letting a self-teacher with privileged information provide dense token-level sup...",
+  "description": "arXiv:2609.37132v1 Announce Type: new Abstract: On-policy self-distillation (OPSD) improves large language models by letting a self-teacher with privileged information provide dense token-level supervision on the model's own trajectories. Yet existing methods typically construct the self-teacher from the current, initial, or slowly averaged policy state, leaving the quality of supervision const...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.37132"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-30",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.37132"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-30",
+  "expiryAt": "2026-10-30T00:00:00.000Z",
+  "author": "Zheng Zhang, Xinyue Tan, Lufei Li, Xinyi Zhang, Yexin Li, Kan Ren"
+}

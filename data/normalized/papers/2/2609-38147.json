@@ -1,0 +1,44 @@
+{
+  "type": "paper",
+  "slug": "2609-38147",
+  "name": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
+  "summary": "As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on,...",
+  "description": "As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on, whether to start fresh, or when to stop. We introduce agentic meta-reasoning, an inference-time harness that makes these choices an explicit and structured reasoning process. Workers carry out the task-level computation, while a controller consolidates what the run has established, explores next options, assesses what each option is worth under the remaining budget, and dispatches the chosen work...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.38147v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-29",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2609.38147v1"
+    }
+  ],
+  "authors": [
+    "Paras Dahal",
+    "Anton Bakhtin",
+    "Taco Cohen",
+    "Zhengxing Chen",
+    "Carole-Jean Wu",
+    "Rob Fergus",
+    "Scott Yih",
+    "Gabriel Synnaeve",
+    "Ruslan Salakhutdinov",
+    "Sanjeev Arora",
+    "Jason Weston",
+    "Anirudh Goyal"
+  ],
+  "paperId": "2609.38147",
+  "category": "cs.AI",
+  "publishedAt": "2026-09-29",
+  "abstract": "As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on, whether to start fresh, or when to stop. We introduce agentic meta-reasoning, an inference-time harness that makes these choices an explicit and structured reasoning process. Workers carry out the task-level computation, while a controller consolidates what the run has established, explores next options, assesses what each option is worth under the remaining budget, and dispatches the chosen work..."
+}

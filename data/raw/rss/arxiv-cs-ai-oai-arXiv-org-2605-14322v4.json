@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.14322v4",
+  "fetchedAt": "2026-09-30T08:18:03.157Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.14322v4",
+    "title": "Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows",
+    "link": "https://arxiv.org/abs/2605.14322",
+    "description": "arXiv:2605.14322v4 Announce Type: replace Abstract: Language agents are increasingly deployed in professional workflows, yet tutoring remains a high-stakes capability that existing evaluations only partially capture. Effective tutor agents require more than producing correct answers or executing accurate tool calls: they must infer a warranted teaching decision from evidence, adapt support as learner state changes, and carry an instructor's request through a learning-management system (LMS) to a completed, verified intervention. We introduce TeachArena, a source-grounded benchmark that jointly evaluates three complementary surfaces of teaching work: professional pedagogical judgment, situated multi-turn tutoring, and end-to-end LMS teaching workflows. Its 354 audited tasks are each built around a pedagogical insight, grounded in evidence, and evaluated with matched verifiers over observable turn-level responses, tutoring trajectories, and persistent artifacts or environment states. Across a comprehensive evaluation of frontier models, our findings reveal that current models are generally capable of bounded pedagogical judgment, but still fall short of professional teaching standards in situated tutoring and end-to-end teaching-workflow execution. By unifying teacher judgment, adaptive tutoring, and institutional action in one auditable benchmark, TEACHARENA provides a measurement foundation for developing tutor agents that can support realistic teaching work.",
+    "publishedAt": "2026-09-30",
+    "author": "Zixin Chen, Peng Liu, Rui Sheng, Haobo Li, Jianhong Tu, Xiaodong Deng, Kashun Shum, Dayiheng Liu, Huamin Qu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

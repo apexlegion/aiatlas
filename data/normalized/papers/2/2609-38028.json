@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2609-38028",
+  "name": "doPlan: A Variable-Horizon Dataset for Multi-Stage Language-Conditioned Planning in Autonomous Driving",
+  "summary": "Autonomous vehicles interacting with passengers through natural language must reason beyond immediate commands. Passenger intent may span multiple stages of behavior, depend on future events, refer...",
+  "description": "Autonomous vehicles interacting with passengers through natural language must reason beyond immediate commands. Passenger intent may span multiple stages of behavior, depend on future events, refer to surrounding agents or landmarks, and remain relevant as driving conditions evolve. Existing language-enabled driving datasets largely focus on short, localized interactions, leaving these longer-horizon forms of passenger intent comparatively underexplored. We introduce doPlan, to our knowledge the first publicly available, human-annotated real-world dataset designed to study passenger languag...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.38028v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-29",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2609.38028v1"
+    }
+  ],
+  "authors": [
+    "Parthib Roy",
+    "Yash Tandon",
+    "Marcus Blennemann",
+    "Giovanni Tapia Lopez",
+    "Angel Martinez-Sanchez",
+    "Mohan M. Trivedi",
+    "Ross Greer"
+  ],
+  "paperId": "2609.38028",
+  "category": "cs.RO",
+  "publishedAt": "2026-09-29",
+  "abstract": "Autonomous vehicles interacting with passengers through natural language must reason beyond immediate commands. Passenger intent may span multiple stages of behavior, depend on future events, refer to surrounding agents or landmarks, and remain relevant as driving conditions evolve. Existing language-enabled driving datasets largely focus on short, localized interactions, leaving these longer-horizon forms of passenger intent comparatively underexplored. We introduce doPlan, to our knowledge the first publicly available, human-annotated real-world dataset designed to study passenger languag..."
+}

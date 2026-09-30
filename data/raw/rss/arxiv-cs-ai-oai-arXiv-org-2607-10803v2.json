@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.10803v2",
+  "fetchedAt": "2026-09-30T08:18:03.157Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.10803v2",
+    "title": "Weight-Adjusted Gradients Reveal Parameter Importance and Failure Modes in LLMs",
+    "link": "https://arxiv.org/abs/2607.10803",
+    "description": "arXiv:2607.10803v2 Announce Type: replace-cross Abstract: Understanding which parameters are influential in Large Language Models (LLMs) is central to improving their efficiency, reliability, and interpretability. We introduce Weight-Adjusted Gradients (WAG), a simple yet effective approach for estimating parameter importance that explicitly captures the interaction between model weights and first-order gradient information and identifies parameters that disproportionately influence model behavior, such as those responsible for collapse phenomena in LLMs. Across a range of models and settings, we show that WAG surfaces a tiny but critical subset of parameters (&lt; 0.5 parts per million or 0.00005% of model size) whose modification leads to dramatic degradation in performance, indicating a novel failure mode. These findings also reveal a previously underexplored interplay between weights and gradients, suggesting that parameter importance cannot be fully understood through either signal alone. We demonstrate the practical utility of WAG across several diverse applications, such as expert allocation in Mixture-of-Experts (MoE) architectures, targeted unlearning, mixed-precision quantization, and layer selection for knowledge editing. In sum, WAG can serve as a unified approach for analyzing, debugging, and controlling LLMs, and opens new directions for principled parameter-level interpretation.",
+    "publishedAt": "2026-09-30",
+    "author": "Shrestha Datta, Hongfu Liu, Anshuman Chhabra",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

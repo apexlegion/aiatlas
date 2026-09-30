@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-36384v1",
+  "name": "Support-Set Target Leakage in Relational Foundation Models during In-Context Learning: Impact, Detection, and Mitigation",
+  "summary": "arXiv:2609.36384v1 Announce Type: new Abstract: Relational in-context learning (ICL) conditions predictions on the labeled support examples and their linked tables, creating a failure mode when the...",
+  "description": "arXiv:2609.36384v1 Announce Type: new Abstract: Relational in-context learning (ICL) conditions predictions on the labeled support examples and their linked tables, creating a failure mode when the support set contains target-derived features that are unavailable for the query. We formulate this problem as support-set target leakage, distinct from leakage during dataset construction, temporal s...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.36384"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-30",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.36384"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-30",
+  "expiryAt": "2026-10-30T00:00:00.000Z",
+  "author": "Roshan Reddy Upendra, Alexandre Dorais, Joe Meyer, Andrew Pouret, Anastasios Lambrianos Stappas, Dinesh Katupputhur Ramprasath, Tom Palczewski, Minghua Li"
+}

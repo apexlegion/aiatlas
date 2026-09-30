@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-35865v1",
+  "name": "PACT: Pairwise-Anchored Calibrated Tuning for Single-Token Typed Decisions",
+  "summary": "arXiv:2609.35865v1 Announce Type: cross Abstract: Single-token typed-decision models answer a schema question by reading the logits of a few one-letter answer codes at a single position: they are f...",
+  "description": "arXiv:2609.35865v1 Announce Type: cross Abstract: Single-token typed-decision models answer a schema question by reading the logits of a few one-letter answer codes at a single position: they are fast and return a probability for every allowed answer, but they are trained with plain cross-entropy that ignores most of the structure in their training data. We study such a model whose data is cura...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.35865"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-30",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.35865"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-30",
+  "expiryAt": "2026-10-30T00:00:00.000Z",
+  "author": "Yida Lin"
+}

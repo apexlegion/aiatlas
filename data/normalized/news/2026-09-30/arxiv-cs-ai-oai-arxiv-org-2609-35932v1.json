@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-35932v1",
+  "name": "Same Bytes, Different Authority: Reserved-Token Representations in Chat-Template Prompt Injection",
+  "summary": "arXiv:2609.35932v1 Announce Type: cross Abstract: Prompt injection against LLM agents becomes much stronger when the injected instruction is wrapped in the model's own chat template. A forged templ...",
+  "description": "arXiv:2609.35932v1 Announce Type: cross Abstract: Prompt injection against LLM agents becomes much stronger when the injected instruction is wrapped in the model's own chat template. A forged template marker such as &lt;|im_start|&gt; can reach the model either as a single reserved control token or as a sequence of ordinary subword tokens. The two decode to exactly the same text, and because to...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.35932"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-30",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.35932"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-30",
+  "expiryAt": "2026-10-30T00:00:00.000Z",
+  "author": "Yan Zhan, Yunze Song, Mengkai Hou, Wanting Zhang, Shaobo Liu, Zhijun Gao"
+}

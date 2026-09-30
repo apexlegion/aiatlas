@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2512.18991v3",
+  "fetchedAt": "2026-09-30T08:18:03.157Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2512.18991v3",
+    "title": "Training-Free Global Geometric Association for 4D LiDAR Panoptic Segmentation",
+    "link": "https://arxiv.org/abs/2512.18991",
+    "description": "arXiv:2512.18991v3 Announce Type: replace-cross Abstract: Dominant paradigms for 4D LiDAR panoptic segmentation are usually required to train deep neural networks with large superimposed point clouds or design dedicated modules for instance association. However, these approaches perform redundant point processing and consequently become computationally expensive, yet still overlook the rich geometric priors inherently provided by raw point clouds. To this end, we introduce \\textsc{Geo-4D}, a simple yet effective training-free framework that unifies spatial and temporal reasoning, enabling holistic LiDAR perception over long time horizons. Specifically, we propose a global geometric association strategy that establishes consistent instance correspondences by estimating an optimal transformation between instance-level point sets. To mitigate instability caused by structural inconsistencies in point cloud observations, we propose a global geometry-aware soft matching mechanism that enforces spatially coherent point-wise correspondences grounded in the spatial distribution of instance point sets. Furthermore, our carefully designed pipeline, which considers three instance types-static, dynamic, and missing-offers computational efficiency and occlusion-aware matching. Our extensive experiments across both SemanticKITTI and nuScenes demonstrate that our method consistently outperforms state-of-the-art approaches, even without additional training or extra point cloud inputs.",
+    "publishedAt": "2026-09-30",
+    "author": "Gyeongrok Oh, Youngdong Jang, Jonghyun Choi, Suk-Ju Kang, Guang Lin, Sangpil Kim",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

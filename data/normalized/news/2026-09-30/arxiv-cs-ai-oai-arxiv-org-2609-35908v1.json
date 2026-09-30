@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-35908v1",
+  "name": "Similarity Is Not Validity: Defending LLM Semantic Caches Against Poisoning",
+  "summary": "arXiv:2609.35908v1 Announce Type: cross Abstract: Semantic caches reduce LLM serving costs by reusing previously generated answers for semantically similar queries. However, retrieval is based sole...",
+  "description": "arXiv:2609.35908v1 Announce Type: cross Abstract: Semantic caches reduce LLM serving costs by reusing previously generated answers for semantically similar queries. However, retrieval is based solely on embedding similarity between the incoming query and cached queries. This design enables cache poisoning: an attacker can cache a malicious response under a query with high cosine similarity to b...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.35908"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-30",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.35908"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-09-30",
+  "expiryAt": "2026-10-30T00:00:00.000Z",
+  "author": "Zihan Zhang, Shuangjie Yao, Zesen Liu, Zhixiang Zhang, Wai Ip Lai, Dung Hiu Hilton Yeung, Chun Kit Zhang, Fuchen Ma, Yuanyuan Yuan, Yu Jiang, Dongdong She"
+}
