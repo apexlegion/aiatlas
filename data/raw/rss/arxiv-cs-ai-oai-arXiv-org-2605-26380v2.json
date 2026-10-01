@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.26380v2",
+  "fetchedAt": "2026-10-01T08:41:32.248Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.26380v2",
+    "title": "VisualNeedle: Benchmarking Active Visual Search in Information-Dense Scenes",
+    "link": "https://arxiv.org/abs/2605.26380",
+    "description": "arXiv:2605.26380v2 Announce Type: replace-cross Abstract: Frontier multimodal large language models (MLLMs) have been reported to achieve over 90\\% accuracy on fine-grained perception benchmarks. However, such scores do not necessarily imply faithful use of visual evidence. Prior studies have identified three shortcuts that inflate benchmark performance. First, linguistic priors and lexical cues in questions often enable models to infer plausible answers without seeing the image. Second, coarse global semantics from the visual encoder can bypass fine-grained local details. Third, in some ``think-with-images'' benchmarks, corrupting the intermediate images returned by visual tools barely affects the final answer. These findings suggest that higher input resolution or larger question pools alone do not elicit genuine active visual search. To address this, we introduce VisualNeedle, a challenging, information-dense, and fine-grained benchmark for scenes where critical evidence is spatially constrained to minute regions and not discernible at a glance. We further propose a counterfactual crop-black setting, which replaces crops returned by tools with black images of the same size, to test whether tool-enabled performance truly relies on intermediate visual evidence.We evaluate 9 prominent MLLMs across four settings: text-only, without tools, with tools, and crop-black. Text-only accuracy stays below 10\\%, while accuracy without tools remains below 20\\%. The best tool-enabled model reaches only 56.00\\%, still trailing the 63.00\\% human majority-vote accuracy. These results reveal persistent limitations in fine-grained visual search, while the crop-black ablation confirms that success on VisualNeedle hinges on genuine intermediate visual evidence.",
+    "publishedAt": "2026-10-01",
+    "author": "Jingru Chen, Yiming Liu, Mingtao Chen, Sijie Chen, Richeng Xuan, Liang Yang, Zhichao Hu, Fanyang Lu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

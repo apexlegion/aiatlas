@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.06912v2",
+  "fetchedAt": "2026-10-01T08:41:32.248Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.06912v2",
+    "title": "Fast LapSum: Exact Differentiable Top-$k$ at Million Scale",
+    "link": "https://arxiv.org/abs/2608.06912",
+    "description": "arXiv:2608.06912v2 Announce Type: replace Abstract: Selecting the top-$k$ elements is a fundamental operation for inducing sparsity in large-scale models and optimization problems, enabling robust expert activation, token routing or attention pruning. However, hard top-$k$ is non-differentiable, while existing differentiable alternatives become increasingly expensive as the number of coordinates grows. We introduce Fast LapSum, a scalable solver for the LapSum soft top-$k$ formulation that preserves an exact selection mass of $k$, while supporting end-to-end differentiation. In Fast LapSum, we reduce sorting cost using probabilistic bracketing, which restricts sorting to a narrow band of scores around the threshold using a binomial order-statistic from kernel-noised samples. A certification pass upgrades the probabilistic localization to a verified one at the cost of one additional linear pass, with a full-sort fallback that covers the worst-case scenario. Our certified GPU implementation processes $10^6$, $10^7$, and $10^8$ scores in median times of $0.92$, $1.39$, and $7.24$ ms, respectively, making exact-budget soft top-$k$ practical within million-scale optimization loops. We demonstrate this capability in two applications: megapixel sparse adversarial examples with a small fraction of initial image pixels, where Fast LapSum achieves an order-of-magnitude speedup over state-of-the-art methods, and 3D Gaussian splatting. In the latter, we use Fast LapSum to reduce the number of Gaussians produced by Adaptive Density Control to a substantially smaller number while retaining nearly the same rendering quality and massively reducing computation. These results demonstrate that exact-budget differentiable top-$k$ can be incorporated into practical million-scale optimization pipelines.",
+    "publishedAt": "2026-10-01",
+    "author": "Jakub Antczak, Joanna Wojciechowicz, Kamil Ksi\\k{a}\\.zek, Marcin Mazur, {\\L}ukasz Struski, Jacek Tabor",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

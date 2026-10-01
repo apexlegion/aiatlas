@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-38931v1",
+  "name": "Adaptive Self-Consistency: From Black-Box Sampling to Distribution-Valued Feedback",
+  "summary": "arXiv:2609.38931v1 Announce Type: cross Abstract: Self-consistency samples many reasoning trajectories and aggregates their final answers, treating the LLM as a black box that returns one answer pe...",
+  "description": "arXiv:2609.38931v1 Announce Type: cross Abstract: Self-consistency samples many reasoning trajectories and aggregates their final answers, treating the LLM as a black box that returns one answer per trajectory. Yet the final answer of each trajectory is sampled from a softmax vector that is available from the model's log-probabilities. We refer to this as the grey-box setting in which each traj...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.38931"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-01",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.38931"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-01",
+  "expiryAt": "2026-10-31T00:00:00.000Z",
+  "author": "Jingkai Huang, Yunfan Zhang, Will Ma, Weihua Zhou, Zhengyuan Zhou"
+}

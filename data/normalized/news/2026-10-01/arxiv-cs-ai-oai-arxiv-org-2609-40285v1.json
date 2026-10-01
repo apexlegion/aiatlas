@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-40285v1",
+  "name": "PivotOPD: Learning to Recover from Pivotal Mistakes in Multi-Turn Agents",
+  "summary": "arXiv:2609.40285v1 Announce Type: new Abstract: On-policy distillation (OPD) is a promising approach for training language agents, providing dense teacher supervision on student-generated trajector...",
+  "description": "arXiv:2609.40285v1 Announce Type: new Abstract: On-policy distillation (OPD) is a promising approach for training language agents, providing dense teacher supervision on student-generated trajectories. However, in multi-turn interaction, an incorrect action changes the states the student encounters later, so errors compound across turns. In preliminary experiments across three Qwen3 models (8B...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.40285"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-01",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.40285"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-01",
+  "expiryAt": "2026-10-31T00:00:00.000Z",
+  "author": "Yinghui He, Yapei Chang, Khushi Bhardwaj, Daniele Molinari, Tugrul Konuk, Jan Kautz, Ali Hatamizadeh"
+}

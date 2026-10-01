@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-39967v1",
+  "name": "What Limits Recursive Reasoning Models: Optimization, Architecture and Test-Time Scaling",
+  "summary": "arXiv:2609.39967v1 Announce Type: cross Abstract: Recursive reasoning models apply a small shared Transformer block many times to refine a latent state. This gives them large effective depth with f...",
+  "description": "arXiv:2609.39967v1 Announce Type: cross Abstract: Recursive reasoning models apply a small shared Transformer block many times to refine a latent state. This gives them large effective depth with few parameters and makes them strong on algorithmic tasks. Such compact solvers are natural candidates for tools that an LLM can call on narrow algorithmic subproblems. However, existing models such as...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.39967"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-01",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.39967"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-01",
+  "expiryAt": "2026-10-31T00:00:00.000Z",
+  "author": "Yuliana Shakhvalieva, Dmitrii Kharchev, Viacheslav Bezrukov, Inessa Fedorova, Dmitry Bocharov, Ivan Oseledets, Valerii Ternovskii"
+}

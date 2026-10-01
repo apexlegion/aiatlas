@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-39634v1",
+  "name": "Free Everywhere, Exact on Trees: PPO's Dropped Correction Buys Sample Efficiency Under Aggressive Reuse",
+  "summary": "arXiv:2609.39634v1 Announce Type: cross Abstract: Common policy improvement methods, including TRPO, PPO, and GRPO, estimate policy improvement under the behavioral policy's state-visitation distri...",
+  "description": "arXiv:2609.39634v1 Announce Type: cross Abstract: Common policy improvement methods, including TRPO, PPO, and GRPO, estimate policy improvement under the behavioral policy's state-visitation distribution rather than the improved policy's own. The substitution makes the objective estimable from the behavioral policy's rollouts but adds a bias growing with policy divergence, hence the trust regio...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.39634"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-01",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.39634"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-01",
+  "expiryAt": "2026-10-31T00:00:00.000Z",
+  "author": "Nima H. Siboni"
+}

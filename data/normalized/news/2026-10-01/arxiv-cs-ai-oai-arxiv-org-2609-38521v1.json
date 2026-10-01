@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-38521v1",
+  "name": "ShamAN-Q: Shampoo Augmented NanoQuant for Sub-1-bit LLM Weights",
+  "summary": "arXiv:2609.38521v1 Announce Type: cross Abstract: We introduce ShamAN-Q, a sub-1-bit post-training quantization method that extends NanoQuant by replacing each its diagonal reconstruction geometry...",
+  "description": "arXiv:2609.38521v1 Announce Type: cross Abstract: We introduce ShamAN-Q, a sub-1-bit post-training quantization method that extends NanoQuant by replacing each its diagonal reconstruction geometry with a tractable dense curvature metric, using a general paradigm popularized by the Shampoo optimizer. For each linear weight, ShamAN-Q fits a Kronecker product to the empirical Fisher information ma...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.38521"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-01",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.38521"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-01",
+  "expiryAt": "2026-10-31T00:00:00.000Z",
+  "author": "Jonathan Mei, Sang Hyub Kim, Oliver Knitter, Chi Chen, Martin Roetteler"
+}

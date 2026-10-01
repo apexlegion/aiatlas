@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-38984v1",
+  "name": "Sparse-WAM: Accelerating World Action Models via Action-Guided Sparse Imagination",
+  "summary": "arXiv:2609.38984v1 Announce Type: cross Abstract: World-action models (WAMs) leverage pretrained video models to improve generalization in robot control by jointly predicting future visual states a...",
+  "description": "arXiv:2609.38984v1 Announce Type: cross Abstract: World-action models (WAMs) leverage pretrained video models to improve generalization in robot control by jointly predicting future visual states and actions. This capability comes at a substantial inference cost, as dense future-frame tokens are repeatedly processed during denoising. Prior methods address this by token pruning that prioritizes...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.38984"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-01",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.38984"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-01",
+  "expiryAt": "2026-10-31T00:00:00.000Z",
+  "author": "Xinling Xie, Haodong Wang, Jiazhi Mi, Zhiming Liu, Zicong Hong, Xiaoyi Pang, Qianli Liu, Yangjia Hu, Ying Chen, Zhengyang Yan, Song Guo"
+}

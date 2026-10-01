@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.39723v1",
+  "fetchedAt": "2026-10-01T08:41:32.248Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.39723v1",
+    "title": "Let the Carrier Carry the Attack: Preserving the Subject in Adversarial Image Generation",
+    "link": "https://arxiv.org/abs/2609.39723",
+    "description": "arXiv:2609.39723v1 Announce Type: cross Abstract: Strong unrestricted adversarial attacks can distort the primary object of an image, hereafter referred to as the subject. To preserve subject integrity without compromising attack magnitude, we introduce the carrier: a secondary visual element that provides an auxiliary region to facilitate the attack under global classifier guidance. We demonstrate three key findings: 1. A carrier mitigates subject distortion by absorbing a larger share of globally normalized attack updates. 2. A carrier improves cross-model transferability, governed by the strength of target-related features that balance semantic separation and transfer performance. 3. Successful targeted attacks retain the personalized subject as the primary content perceived by humans while successfully misleading the classifier. Our results demonstrate that a visually secondary carrier offers an auxiliary spatial pathway for adversarial changes, enabling strong and transferable attacks while improving subject preservation.",
+    "publishedAt": "2026-10-01",
+    "author": "Linfeng Jiang, Steven McDonagh, Yuhang Chen, Xingyu Zhao, Siddartha Khastgir, Andi Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

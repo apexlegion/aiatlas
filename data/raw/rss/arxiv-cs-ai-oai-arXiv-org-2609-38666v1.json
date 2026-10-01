@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.38666v1",
+  "fetchedAt": "2026-10-01T08:41:32.248Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.38666v1",
+    "title": "Understanding Off- vs On-Policy Distillation: A Tale of Distinct Training Objectives",
+    "link": "https://arxiv.org/abs/2609.38666",
+    "description": "arXiv:2609.38666v1 Announce Type: cross Abstract: On-policy distillation (OPD) learns from teacher feedback on student-generated responses and has shown promise in reducing forgetting relative to supervised fine-tuning (SFT). However, its benefits and fragility remain incompletely understood. We study sequential distillation from multiple teachers, where the student minimizes its average divergence from the teachers. Forward Kullback--Leibler (KL) divergence yields a weighted arithmetic mixture, while reverse KL yields a normalized weighted geometric aggregate. We develop algorithms that learn these targets under off-policy and on-policy feedback, respectively, establishing logarithmic regret bounds in the tabular setting and extending the analysis to function approximation. By analyzing these aggregation targets, we identify mechanisms that help explain both the benefits and fragility of OPD. Relative to forward KL, reverse KL can better retain a confident expert's preferences under uninformative feedback, but is more sensitive to teachers that assign very low probabilities to correct responses. Its token-level conditionals also reveal a dependence on continuation distributions that can favor incorrect prefixes over long horizons.",
+    "publishedAt": "2026-10-01",
+    "author": "Qiwei Di, Xuheng Li, Kaixuan Ji, Chenggong Zhang, Heyang Zhao, Quanquan Gu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

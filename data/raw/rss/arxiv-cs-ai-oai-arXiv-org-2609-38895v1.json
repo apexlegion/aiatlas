@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.38895v1",
+  "fetchedAt": "2026-10-01T08:41:32.248Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.38895v1",
+    "title": "Unmerge: Efficient Machine Unlearning via Task Arithmetic",
+    "link": "https://arxiv.org/abs/2609.38895",
+    "description": "arXiv:2609.38895v1 Announce Type: cross Abstract: Approximate machine unlearning seeks to remove the influence of a forget set from a trained model without full retraining. Existing gradient-based methods require data-dependent hyperparameter search, struggle when forget and retain knowledge are entangled, and offer little insight into where unlearning actually happens inside the network. We recast unlearning through the lens of task arithmetic: if finetuning produces a merged task vector $\\tau_m$ that combines learning on forget and retain sets, unlearning is the inverse operation that subtracts a learned forget component $\\tau_F$ to recover the retain task vector $\\tau_R$. The forget signal is concentrated: at every layer, forget activations lie in a subspace spanned by a handful of dominant directions, so we factorize $\\tau_F$ in a low-rank forget basis, which is faithful up to a small tail-eigenvalue residual and limits how far the correction can perturb retain. We then optimize three intuitive goals (match the merged vector inside the forget span, suppress leakage into the retain span, and bound the correction size) that provably bound forget leakage and retain damage in activation space. The resulting algorithm, Unmerge, is fast and powerful: on class-level unlearning with ResNet-50 on CIFAR-100 and Tiny ImageNet, it improves Tug-of-War by up to ~24% over a baseline of comparable runtime and by up to ~18% over stronger baselines that run ~5x slower, keeps membership-inference exposure at the level of retraining, and shrinks the feature-distribution gap to the retrained model, where relabeling methods leave forget features cleanly separable. Further studies show that Unmerge also applies to ViT-S/16 and scales to Llama-3.2-3B. The per-layer basis geometry that drives the algorithm also serves as a layerwise diagnostic for when and where unlearning becomes structurally hard.",
+    "publishedAt": "2026-10-01",
+    "author": "Haoran Tang, Andrew Tan, Rajiv Khanna",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

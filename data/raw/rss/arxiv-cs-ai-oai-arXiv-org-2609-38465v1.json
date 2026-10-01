@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.38465v1",
+  "fetchedAt": "2026-10-01T08:41:32.248Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.38465v1",
+    "title": "Does Gradient Conflict Predict the Understanding--Generation Trade-off? A Controlled Audit of Conflict-Metric Validity in Unified Multimodal Models",
+    "link": "https://arxiv.org/abs/2609.38465",
+    "description": "arXiv:2609.38465v1 Announce Type: cross Abstract: Unified multimodal models (UMMs) are increasingly designed around gradient conflict between understanding and generation objectives. The premise that reducing these metrics improves the downstream understanding-generation trade-off has never been tested directly. We audit it in a controlled testbed, GRIDUMM, which mirrors key structural ingredients of UMM training while making the ground-truth trade-off exactly computable. Across 63 configurations and 372 measured checkpoints, no directional conflict metric reaches an absolute Spearman correlation of 0.3 with a confidence interval excluding zero for conflict measured during training against the eventual trade-off. A dose-response intervention that monotonically suppresses conflict leaves the trade-off flat, separating correlation from causation. The norm ratio is a generation-failure detector and becomes null among configurations that master generation. Functional interference measures outperform directional conflict metrics, while training loss tracks the trade-off strongly. Our results do not show that conflict is useless; they show that its validity as a diagnostic target must be established, not assumed, and we release the audit protocol as a reusable standard.",
+    "publishedAt": "2026-10-01",
+    "author": "Shuyang Jiang, Fucheng Deng, Yuchuan Luo, Zhenyu Wu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

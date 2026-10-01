@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.38400v1",
+  "fetchedAt": "2026-10-01T08:41:32.248Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.38400v1",
+    "title": "GestAdapt: Workspace-Conditioned Co-Speech Gesture Generation for Humanoid Robots",
+    "link": "https://arxiv.org/abs/2609.38400",
+    "description": "arXiv:2609.38400v1 Announce Type: cross Abstract: Co-speech gestures for robots must adapt not only to speech and embodiment, but also to the workspace available for performing the motion. Since the same speech can be accompanied by different gestures, a robot can respond to workspace constraints, e.g., gestures for speech next to a wall. In these scenarios, the robot should gesture in a suitable motion rather than simply correcting an unconstrained one. To achieve this goal, we present GestAdapt, a workspace-conditioned framework that conditions co-speech gesture generation on a prescribed wrist workspace. The GestAdapt framework learns from six complementary co-speech corpora through a shared motion representation and supports retargeting to different robot embodiments. Quantitative evaluation shows that generated motions remain close to the real-motion distribution while respecting the workspace. In a user study, gestures generated under modified workspace constraints receive a mean quality score of 3.24/5, above our no-workspace variant (2.43/5) and below the reference motions (3.68/5). In a real robot evaluation, all compared motions are retargeted to the Reachy2 humanoid robot under identical workspace constraints. Motions generated with our framework rank first in 69.7\\% of comparisons, higher than our no-workspace variant baseline and retargeted ground-truth motions constrained afterward. Overall, the results support adapting gestures to the available workspace during generation, rather than modifying unconstrained trajectories afterward to satisfy workspace constraints, potentially compromising gesture naturalness.",
+    "publishedAt": "2026-10-01",
+    "author": "Bosong Ding, Xianglin Zhang, Miao Xin, Murat Kirtay, Giacomo Spigler",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

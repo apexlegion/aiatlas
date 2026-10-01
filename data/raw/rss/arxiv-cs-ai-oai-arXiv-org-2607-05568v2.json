@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.05568v2",
+  "fetchedAt": "2026-10-01T08:41:32.248Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.05568v2",
+    "title": "Prompting Image Generators for Training-free Primitive Shape Abstraction",
+    "link": "https://arxiv.org/abs/2607.05568",
+    "description": "arXiv:2607.05568v2 Announce Type: replace-cross Abstract: Compact primitive abstractions represent 3D shapes with a few geometric primitives while preserving recognizable components. Learned methods depend on their training classes, and optimization-based methods split shapes geometrically rather than into parts. We instead reuse the visual part knowledge of pretrained models without task-specific training or fine-tuning. A vision-language model names parts in multi-view renders, and an unmodified image generator paints color-coded part masks. Reprojection and spatial clustering recover 3D instances, and a classical optimizer fits one tapered and bent superquadric per part. With five to eight primitives per object, the abstractions match the Chamfer distance of the strongest learned baseline on HumanPrim, improve on it by 10% on Toys4K, and have the lowest overlap among compact methods, while chair legs, backrest bars and wheels remain separate primitives. Our accuracy also transfers better than theirs to objects outside the learned methods' ShapeNet training classes. Replacing the generated masks with part labels from the 3D segmentation methods P3-SAM or PartField lowers IoU by 7 to 17 points under the same fitter. Further studies relate the remaining volumetric error to part granularity and to parts that the rendered views observe from one side only.",
+    "publishedAt": "2026-10-01",
+    "author": "Gregor Kobsik, Tim Elsner, Leif Kobbelt",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

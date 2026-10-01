@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2609-40221",
+  "name": "PhantomEnvironments: Training LLM Agents in Fictional Worlds",
+  "summary": "Training LLM agents with reinforcement learning (RL) is bottlenecked by environments, which must provide verifiable rewards, support long-horizon interaction, and scale cheaply. Existing approaches...",
+  "description": "Training LLM agents with reinforcement learning (RL) is bottlenecked by environments, which must provide verifiable rewards, support long-horizon interaction, and scale cheaply. Existing approaches rely on costly human-curated data or on LLM-generated environments that risk hallucinations and benchmark contamination. We show that LLMs can instead be trained into capable search agents using synthetic environments generated entirely by rules, whose generation requires no LLM and has zero marginal cost. We build PhantomEnvironments, multi-turn RL environments from fictional worlds, where agent...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.40221v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-30",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.40221v1"
+    }
+  ],
+  "authors": [
+    "Anmol Kabra",
+    "Swathi Saravana Selvam",
+    "Albert Gong",
+    "Chao Wan",
+    "Christian Belardi",
+    "Dongyoung Go",
+    "Katie Z. Luo",
+    "Kilian Q. Weinberger"
+  ],
+  "paperId": "2609.40221",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-30",
+  "abstract": "Training LLM agents with reinforcement learning (RL) is bottlenecked by environments, which must provide verifiable rewards, support long-horizon interaction, and scale cheaply. Existing approaches rely on costly human-curated data or on LLM-generated environments that risk hallucinations and benchmark contamination. We show that LLMs can instead be trained into capable search agents using synthetic environments generated entirely by rules, whose generation requires no LLM and has zero marginal cost. We build PhantomEnvironments, multi-turn RL environments from fictional worlds, where agent..."
+}

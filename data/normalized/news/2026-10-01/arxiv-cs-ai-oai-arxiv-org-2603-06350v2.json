@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2603-06350v2",
+  "name": "MoEless: Efficient MoE LLM Serving with Serverless Experts",
+  "summary": "arXiv:2603.06350v2 Announce Type: replace-cross Abstract: Large Language Models (LLMs) increasingly adopt Mixture-of-Experts (MoE) architectures to scale efficiently under stringent resource constr...",
+  "description": "arXiv:2603.06350v2 Announce Type: replace-cross Abstract: Large Language Models (LLMs) increasingly adopt Mixture-of-Experts (MoE) architectures to scale efficiently under stringent resource constraints. However, MoE's sparse activation causes severe expert load imbalance, where a few experts become stragglers while others remain underutilized, leading to inflated inference latency and cost. Ex...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2603.06350"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-01",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2603.06350"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-01",
+  "expiryAt": "2026-10-31T00:00:00.000Z",
+  "author": "Hanfei Yu, Bei Ouyang, Shwai He, Ang Li, Hao Wang"
+}

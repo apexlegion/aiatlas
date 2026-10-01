@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2512.12870v2",
+  "fetchedAt": "2026-10-01T08:41:32.248Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2512.12870v2",
+    "title": "Active Learning with Imperfect Labels: Optimal Labeler Assignment and Sample Selection",
+    "link": "https://arxiv.org/abs/2512.12870",
+    "description": "arXiv:2512.12870v2 Announce Type: replace-cross Abstract: Active Learning (AL) is commonly used in applications where labeling data is expensive or time-consuming. In practice, however, labels are often noisy due to varying labeler expertise and annotation uncertainty, especially for complex or ambiguous samples. Learning from such imperfectly labeled data can degrade classifier performance. We propose an AL framework that explicitly accounts for label noise by optimally assigning labelers and selecting samples to minimize labeling error. Our approach, called OLAS (Optimal Labeler Assignment and Sampling), uses a noise model that depends on both labeler accuracy and model uncertainty to guide these decisions. We develop two tractable optimization formulations: one for assigning samples to labelers to minimize worst-case noise, and another for selecting samples while controlling overall label noise. Theoretical results provide closed-form solutions under mild conditions. Empirical evaluations on benchmark datasets and a real-world warranty claim classification problem show that OLAS achieves the highest or near-highest classification accuracy among existing AL strategies across most settings, using only a single label per sample.",
+    "publishedAt": "2026-10-01",
+    "author": "Pouya Ahadi, Blair Winograd, Camille Zaug, Karunesh Arora, Lijun Wang, Kamran Paynabar",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.38642v1",
+  "fetchedAt": "2026-10-01T08:41:32.248Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.38642v1",
+    "title": "ChartRevise: A Dataset and Evaluation Protocol for Exact Chart Editing via Code",
+    "link": "https://arxiv.org/abs/2609.38642",
+    "description": "arXiv:2609.38642v1 Announce Type: new Abstract: Chart editing requires cross-modal edit grounding, realizing a requested visual change in the code that draws it, with necessary related updates and without altering unrelated content. Existing benchmarks emphasize either code executability or chart quality, but their metrics do not clearly distinguish request completion from missed coupled updates and gratuitous changes. We introduce ChartRevise, a structured dataset and evaluation protocol for exact program-grounded chart editing. For dataset construction, we build on the grammar of graphics to systematically cover chart-editing operations, using source-program checks to verify their applicability across chart types and libraries. To improve edit exactness, our pipeline checks individual requirements and guides repair or exclusion when they are unmet. The resulting dataset contains 92,438 records covering 344 edit types across 20 chart types and three plotting libraries. For evaluation, our reference-free protocol separately measures atomic requirement completion, identifies gratuitous changes, and detects missed coupled updates. These checks are combined with successful execution and rendering to determine exact-edit success. Across five models and four external benchmarks, fine-tuning yields relative gains of 16\\% in mean requirement recall and 22\\% in mean exact-edit rate.",
+    "publishedAt": "2026-10-01",
+    "author": "Jiaxiang Tang, Yi Zhou, Chad DeLuca, Rogerio Feris, Ahmed Khalil Omran, Zhi-Li Zhang, Pengyuan Li, Ali Anwar",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

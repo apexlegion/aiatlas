@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2609-40360",
+  "name": "Semifactual Credit-Augmented Policy Optimization",
+  "summary": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt featu...",
+  "description": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features. We investigate this sensitivity through semifactual prompt interventions that preserve the underlying problem and its answer. Our analysis reveals substantial variation in token-level sensitivity and shows that suppressing high-drift token candidates during decoding improves reasoning accuracy without updating model weights. These findings highlight a limitation of Group Relative Policy Optim...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2609.40360v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-09-30",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2609.40360v1"
+    }
+  ],
+  "authors": [
+    "Junshu Pan",
+    "Zhizhang Fu",
+    "Shulin Huang",
+    "Yiran Ding",
+    "Zifan Cheng",
+    "Wenqi Shao",
+    "Qiaosheng Zhang",
+    "Yue Zhang"
+  ],
+  "paperId": "2609.40360",
+  "category": "cs.LG",
+  "publishedAt": "2026-09-30",
+  "abstract": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features. We investigate this sensitivity through semifactual prompt interventions that preserve the underlying problem and its answer. Our analysis reveals substantial variation in token-level sensitivity and shows that suppressing high-drift token candidates during decoding improves reasoning accuracy without updating model weights. These findings highlight a limitation of Group Relative Policy Optim..."
+}
