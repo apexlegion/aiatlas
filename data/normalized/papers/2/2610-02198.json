@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2610-02198",
+  "name": "FERPO: Forward Entropy-Regularized Policy Optimization",
+  "summary": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predi...",
+  "description": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predict returns, and accurate value predictions do not necessarily yield accurate action derivatives, potentially leading to unreliable policy updates. We propose Forward Entropy-Regularized Policy Optimization (FERPO), an on-policy maximum entropy reinforcement learning algorithm that performs policy improvement using critic values without differentiating the critic with respect to actions. FERPO deri...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.02198v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-01",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.02198v1"
+    }
+  ],
+  "authors": [
+    "Sebastian Sanokowski",
+    "Alireza Sarmadi",
+    "Majid Khadiv"
+  ],
+  "paperId": "2610.02198",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-01",
+  "abstract": "Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predict returns, and accurate value predictions do not necessarily yield accurate action derivatives, potentially leading to unreliable policy updates. We propose Forward Entropy-Regularized Policy Optimization (FERPO), an on-policy maximum entropy reinforcement learning algorithm that performs policy improvement using critic values without differentiating the critic with respect to actions. FERPO deri..."
+}

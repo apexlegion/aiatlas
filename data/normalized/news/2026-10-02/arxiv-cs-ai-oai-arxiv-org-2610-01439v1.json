@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-01439v1",
+  "name": "DRelay: Global Draft Context for Prefix-Aware Parallel Speculative Decoding Repair",
+  "summary": "arXiv:2610.01439v1 Announce Type: new Abstract: Parallel drafting reduces the drafting overhead of speculative decoding for large language models (LLMs), but its gains remain limited by the accepte...",
+  "description": "arXiv:2610.01439v1 Announce Type: new Abstract: Parallel drafting reduces the drafting overhead of speculative decoding for large language models (LLMs), but its gains remain limited by the accepted prefix length. Even when the correct token is present in the candidate pool, a single early selection error prevents subsequent predictions from being used. We propose DRelay, which uses global info...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.01439"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.01439"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-02",
+  "expiryAt": "2026-11-01T00:00:00.000Z",
+  "author": "Zhuoyu Wang, Junnan Huang, Xinyu Chen"
+}

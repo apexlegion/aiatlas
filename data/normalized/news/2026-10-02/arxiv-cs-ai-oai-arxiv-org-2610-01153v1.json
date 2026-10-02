@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-01153v1",
+  "name": "Looping Beyond Twice: A Scalable Recipe for Looped Mixture-of-Experts",
+  "summary": "arXiv:2610.01153v1 Announce Type: cross Abstract: Looped Transformers introduce recurrent depth as a new scaling axis for LLMs: by repeatedly applying shared Transformer blocks, they increase effec...",
+  "description": "arXiv:2610.01153v1 Announce Type: cross Abstract: Looped Transformers introduce recurrent depth as a new scaling axis for LLMs: by repeatedly applying shared Transformer blocks, they increase effective depth without increasing parameter count. However, the benefits of looping remain unclear for large MoE LLMs under FLOPs-matched comparisons. The main reason is that the gains from additional ite...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.01153"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.01153"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-02",
+  "expiryAt": "2026-11-01T00:00:00.000Z",
+  "author": "Di He, Pengxiang Li, Da Chang, Qingyan Meng, Lu Yin, Shiwei Liu"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.01527v1",
+  "fetchedAt": "2026-10-02T08:19:13.123Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.01527v1",
+    "title": "Exact Distinguishability in Non-Markovian Decision Processes",
+    "link": "https://arxiv.org/abs/2610.01527",
+    "description": "arXiv:2610.01527v1 Announce Type: cross Abstract: Non-Markovian environments are often modeled as Regular Decision Processes (RDPs), where dynamics depend on the interaction history through a finite automaton. Existing offline guarantees for RDPs rely on a distinguishability assumption on the behaviour policy but provide no means of verifying it. When the assumption is violated, distinct models may explain the data equally well. We study when data collected under a fixed behaviour policy can distinguish two candidate RDPs. We prove that the posterior odds between observationally equivalent candidates remain equal to the prior odds at every sample size, even when the policy visits every automaton state, and verify both results formally in Lean 4. We then characterize this equivalence exactly and derive PEC, an algorithm that decides it in time linear in the size of the product automaton. The distinguishability assumption of prior work fails on three of our four test environments, and the experiment identified by PEC restores it in each case.",
+    "publishedAt": "2026-10-02",
+    "author": "Kabir Murjani, Nisarg Patel",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

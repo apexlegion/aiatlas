@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-01515v1",
+  "name": "FedMIX-P: Mixing Local and Global Preconditioners for Federated Vision and Language Model Training",
+  "summary": "arXiv:2610.01515v1 Announce Type: cross Abstract: Adaptive preconditioners accelerate model training, but heterogeneous client geometries can bias federated updates even when gradients are evaluate...",
+  "description": "arXiv:2610.01515v1 Announce Type: cross Abstract: Adaptive preconditioners accelerate model training, but heterogeneous client geometries can bias federated updates even when gradients are evaluated at the same model. Round-start synchronization alone cannot prevent this mismatch from reappearing during local training. We propose \\texttt{FedMIX-P}, which mixes shared and local preconditioners a...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.01515"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.01515"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-02",
+  "expiryAt": "2026-11-01T00:00:00.000Z",
+  "author": "Junkang Liu"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2606-22826v2",
+  "name": "MINCE: Shrinking LLM Evaluation Datasets via Few-Model Monte Carlo Calibration",
+  "summary": "arXiv:2606.22826v2 Announce Type: replace Abstract: Evaluating LLMs across many model variants---quantized, fine-tuned, or deployment-specific---requires running large benchmarks repeatedly, a proc...",
+  "description": "arXiv:2606.22826v2 Announce Type: replace Abstract: Evaluating LLMs across many model variants---quantized, fine-tuned, or deployment-specific---requires running large benchmarks repeatedly, a process that can take tens of hours per model on edge hardware such as NPUs. Existing subset selection methods reduce this cost but depend on large calibration pools or learned prediction layers. We intro...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2606.22826"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2606.22826"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-02",
+  "expiryAt": "2026-11-01T00:00:00.000Z",
+  "author": "Devleena Das, Rajeev Patwari, Vikram Kumar Bukka, Nithin Kumar Guggilla, Elliott Delaye, Ashish Sirasao"
+}

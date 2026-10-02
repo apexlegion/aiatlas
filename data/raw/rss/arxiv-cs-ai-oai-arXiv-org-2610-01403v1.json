@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.01403v1",
+  "fetchedAt": "2026-10-02T08:19:13.123Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.01403v1",
+    "title": "Contrastive Attention Mitigates Spectral Bias in Spiking Transformers",
+    "link": "https://arxiv.org/abs/2610.01403",
+    "description": "arXiv:2610.01403v1 Announce Type: new Abstract: Spiking Transformers merge the energy-efficiency of spiking neural networks (SNNs) with the representational power of self-attention, creating a promising architecture for high-performance, energy-efficient computation. However, a performance gap persists versus its counterparts in artificial neural networks (ANNs). Unlike prior works attributing this to binary activations, we reveal that both spiking neurons and spiking self-attention (SSA) act as low-pass filters through multiscale spectral analysis. This characteristic leads to the dissipation of high-frequency components. To address this issue, we propose the Spiking Contrastive Attention (SCA) paradigm, which draw inspiration from the edge-detection and differential sensing properties of biological visual system. By extracting contrast prototypes via global contrastive aggregation and applying local differential refinement, SCA effectively enhances high-frequency information. Extensive experiments show that SCA is a general module that consistently boosts Spiking Transformers across image classification, semantic segmentation, and event-based tracking. Furthermore, it achieves lower complexity, offering superior efficiency over original SSA. These results establish its potential as a fundamental building block for energy-efficient Spiking Transformers.",
+    "publishedAt": "2026-10-02",
+    "author": "Xiaoli Liu, Malu Zhang, Yang Yang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-02201v1",
+  "name": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+  "summary": "arXiv:2610.02201v1 Announce Type: cross Abstract: High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesiz...",
+  "description": "arXiv:2610.02201v1 Announce Type: cross Abstract: High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragments continuous surfaces into many local tokens, inflates generation cost, and often weakens topological consistency for thin or highly connected sh...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.02201"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.02201"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-02",
+  "expiryAt": "2026-11-01T00:00:00.000Z",
+  "author": "Tianjiao Yu, Xinzhuo Li, Yifan Shen, Ying Shen, Kiet A. Nguyen, Adheesh Sunil Juvekar, Ismini Lourentzou"
+}

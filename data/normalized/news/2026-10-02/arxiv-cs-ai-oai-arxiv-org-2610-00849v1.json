@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-00849v1",
+  "name": "Learning Multiple Timescales for Goal-Conditioned Reinforcement Learning",
+  "summary": "arXiv:2610.00849v1 Announce Type: new Abstract: Existing approaches to offline goal-conditioned reinforcement learning (GCRL) struggle with long-horizon tasks. Discounting shrinks value differences...",
+  "description": "arXiv:2610.00849v1 Announce Type: new Abstract: Existing approaches to offline goal-conditioned reinforcement learning (GCRL) struggle with long-horizon tasks. Discounting shrinks value differences between distant states until they fall below the function approximation error, leaving the agent with no signal for ranking states. Temporal abstraction, which treats k environment steps as a single...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.00849"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.00849"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-02",
+  "expiryAt": "2026-11-01T00:00:00.000Z",
+  "author": "Pedro Robles Dutenhefner, Dikshant Shehmar, Wagner Meira Jr., Marlos C. Machado"
+}

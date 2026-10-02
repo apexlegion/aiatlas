@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-00041v1",
+  "name": "The Delegation Danger Band: Why Mid-Capability Sub-Agents Over-Trust Inherited Stale State",
+  "summary": "arXiv:2610.00041v1 Announce Type: cross Abstract: Agent frameworks increasingly delegate work by forking sub-agents; a common default makes the child inherit the parent's full working context. We m...",
+  "description": "arXiv:2610.00041v1 Announce Type: cross Abstract: Agent frameworks increasingly delegate work by forking sub-agents; a common default makes the child inherit the parent's full working context. We measure how the effect of inherited state changes with capability, where $C_m$ denotes clean fork-fresh accuracy. We compare 3 inheritance policies: Reset (fork fresh: base evidence only), Selective (c...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.00041"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.00041"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-02",
+  "expiryAt": "2026-11-01T00:00:00.000Z",
+  "author": "Jundong Hu, Shekar Ramachandran"
+}

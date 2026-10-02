@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2610-02180",
+  "name": "Generative Cinematographer: Composing Camera and Object Motion in 3D",
+  "summary": "Current controllable video generation systems often rely on 2D motion trajectories or sparse drag signals for object motion. These controls are ambiguous because the same 2D trajectory can correspo...",
+  "description": "Current controllable video generation systems often rely on 2D motion trajectories or sparse drag signals for object motion. These controls are ambiguous because the same 2D trajectory can correspond to different 3D motions, especially when the camera and objects move simultaneously. We present Generative Cinematographer (GenCine), a system that lifts a single image into an editable 3D scene scaffold where artists jointly author camera and foreground motion. Artists specify a camera path and move selected foreground regions using local 3D motion handles. Several handles can move different p...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.02180v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-01",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.02180v1"
+    }
+  ],
+  "authors": [
+    "Jiahan Zhang",
+    "Chaohao Yang",
+    "Namitha Guruprasad",
+    "Vivekjyoti Banerjee",
+    "Trong-Tung Nguyen",
+    "Alan Yuille",
+    "Anand Bhattad"
+  ],
+  "paperId": "2610.02180",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-01",
+  "abstract": "Current controllable video generation systems often rely on 2D motion trajectories or sparse drag signals for object motion. These controls are ambiguous because the same 2D trajectory can correspond to different 3D motions, especially when the camera and objects move simultaneously. We present Generative Cinematographer (GenCine), a system that lifts a single image into an editable 3D scene scaffold where artists jointly author camera and foreground motion. Artists specify a camera path and move selected foreground regions using local 3D motion handles. Several handles can move different p..."
+}

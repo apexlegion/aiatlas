@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-01207v1",
+  "name": "Dependency-Aware Reward Shaping for Agentic Reinforcement Learning",
+  "summary": "arXiv:2610.01207v1 Announce Type: new Abstract: When training large language models with reinforcement learning, terminal rewards provide little guidance about which steps matter. Common methods fo...",
+  "description": "arXiv:2610.01207v1 Announce Type: new Abstract: When training large language models with reinforcement learning, terminal rewards provide little guidance about which steps matter. Common methods for assigning step credit overlook that work built on uncorrected mistakes is wasted while independent work remains valid. With only a final success/failure reward, every step in a failed episode has ze...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.01207"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.01207"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-02",
+  "expiryAt": "2026-11-01T00:00:00.000Z",
+  "author": "Ziyi Chen, Yan Zhang, Jianhui Wei, Daoan Zhang, Zuozhu Liu"
+}

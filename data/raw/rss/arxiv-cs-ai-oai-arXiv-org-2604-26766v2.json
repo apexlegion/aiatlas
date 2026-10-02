@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.26766v2",
+  "fetchedAt": "2026-10-02T08:19:13.123Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.26766v2",
+    "title": "Domain-Adapted Small Language Models for Reliable Clinical Triage",
+    "link": "https://arxiv.org/abs/2604.26766",
+    "description": "arXiv:2604.26766v2 Announce Type: replace-cross Abstract: Accurate and consistent Emergency Severity Index (ESI) assignment remains a persistent challenge in emergency departments, where highly variable free-text triage documentation contributes to mistriage and workflow inefficiencies. This study evaluates whether open-source small language models (SLMs) can serve as reliable, privacy-preserving decision-support tools for clinical triage. We systematically compared multiple SLMs across diverse prompting pipelines and found that clinical vignettes, concise summaries of triage narratives, yielded the most accurate predictions. The SLM, Qwen2.5-7B, demonstrated the strongest balance of accuracy, stability, and computational efficiency. Through large-scale domain adaptation using expert-curated and silver-standard pediatric triage data, fine-tuned Qwen2.5-7B models substantially reduced discordance and clinically significant errors, outperforming all baseline SLMs and advanced proprietary large language models (LLMs, e.g., GPT-4o). These findings highlight the feasibility of institution-specific SLMs for reliable, privacy-preserving ESI decision support and underscore the importance of targeted fine-tuning over more complex inference strategies.",
+    "publishedAt": "2026-10-02",
+    "author": "Manar Aljohani, Brandon Ho, Kenneth McKinley, Dennis Ren, Xuan Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

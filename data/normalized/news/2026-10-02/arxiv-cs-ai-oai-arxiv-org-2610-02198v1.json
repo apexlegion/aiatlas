@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-02198v1",
+  "name": "FERPO: Forward Entropy-Regularized Policy Optimization",
+  "summary": "arXiv:2610.02198v1 Announce Type: cross Abstract: Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned criti...",
+  "description": "arXiv:2610.02198v1 Announce Type: cross Abstract: Several state-of-the-art methods for online reinforcement learning in continuous control improve policies using action gradients of a learned critic. However, critics are typically trained to predict returns, and accurate value predictions do not necessarily yield accurate action derivatives, potentially leading to unreliable policy updates. We...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.02198"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.02198"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-02",
+  "expiryAt": "2026-11-01T00:00:00.000Z",
+  "author": "Sebastian Sanokowski, Alireza Sarmadi, Majid Khadiv"
+}

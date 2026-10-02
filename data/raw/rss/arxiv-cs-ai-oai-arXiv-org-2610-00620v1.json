@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.00620v1",
+  "fetchedAt": "2026-10-02T08:19:13.123Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.00620v1",
+    "title": "Misalignment of Low-Loss Regions Causes Grokking",
+    "link": "https://arxiv.org/abs/2610.00620",
+    "description": "arXiv:2610.00620v1 Announce Type: cross Abstract: Grokking refers to the delayed emergence of validation-set generalization after a model has already overfit the training set. Although first observed in small algorithmic tasks trained with transformers, its underlying mechanism remains unsettled. In this work, we develop an analysis framework based on mode connectivity and the geometry of low-loss regions. The framework predicts that the standard modular-arithmetic setting does not always produce grokking: under a symmetry-preserving train/validation split, we observe a stable anti-grokking case in which validation performance does not recover. This counterexample challenges several existing correlational explanations of grokking. More broadly, our analysis framework and results further suggest that grokking arises when the low-loss regions induced by the training and validation partitions are misaligned. Once these regions become well aligned, training hyperparameters alone cannot produce grokking and the observed dynamics collapse to either trainable or non-trainable behavior.",
+    "publishedAt": "2026-10-02",
+    "author": "Yongding Tian, Zaid Al-Ars, Maksim Kitsak, Peter Hofstee",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

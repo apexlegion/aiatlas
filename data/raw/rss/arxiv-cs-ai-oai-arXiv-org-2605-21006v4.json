@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.21006v4",
+  "fetchedAt": "2026-10-02T08:19:13.123Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.21006v4",
+    "title": "Playing Devil's Advocate: Off-the-Shelf Persona Vectors Rival Targeted Steering for Sycophancy",
+    "link": "https://arxiv.org/abs/2605.21006",
+    "description": "arXiv:2605.21006v4 Announce Type: replace Abstract: Language models are often sycophantic: they agree with a user's stated opinion whether or not it is correct. Prior work has shown that this trait can be controlled by steering a model with a sycophancy persona vector (Chen et al., 2025). Such vectors, however, are extracted from data about sycophancy itself. We ask whether we can instead reuse existing vectors for general roles---Skeptic, Judge, Devil's Advocate---that were extracted without targeting sycophancy at all. On Gemma 2 27B and Qwen 3 32B, we compare these role vectors with a purpose-built Contrastive Activation Addition (CAA) sycophancy vector on a largely held-out, counterbalanced PhilPapers benchmark, using task-specific coefficient tuning on a separate split of sycophancy data. The selected \"critical\" roles achieve, on average, about 68% (Gemma) and 98% (Qwen) of CAA's reduction in the sycophancy logit. Less agreement does not mean more factual errors on the probes we checked: on 16 true and false factual claims, Qwen steered by the Skeptic or Judge vector still gives the correct answer in all 16 cases, matching the unsteered model and CAA. \"Conformist\" roles do not reliably produce the opposite effect. Role vectors also have low absolute cosine similarity with the measured CAA direction at the layer we steer; they are geometrically separate interventions, although this does not by itself show that they act through distinct downstream mechanisms. Together, these results show that general persona vectors can help mitigate sycophancy in LLMs, even when extracted without sycophancy-specific labels. Code: https://github.com/vkmk1/Sycophancy-Steering Results: https://github.com/kelkarI/sycophancy-clean-results",
+    "publishedAt": "2026-10-02",
+    "author": "Ishaan Kelkar, Vikram Kakaria, Nebras Alam, Madhur Panwar, Vasu Sharma, Maheep Chaudhary",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

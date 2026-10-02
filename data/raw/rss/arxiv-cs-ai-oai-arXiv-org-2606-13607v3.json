@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.13607v3",
+  "fetchedAt": "2026-10-02T08:19:13.123Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.13607v3",
+    "title": "Reasoning as Pattern Matching: Shared Mechanisms in Human and LLM Everyday Reasoning",
+    "link": "https://arxiv.org/abs/2606.13607",
+    "description": "arXiv:2606.13607v3 Announce Type: replace Abstract: When large language models (LLMs) fail to generalize or make content-sensitive errors in reasoning, it is often taken as evidence that LLMs are not truly reasoning, but rather performing a kind of pattern matching. The implication is that human behavior does not exhibit the same types of failures because human reasoning relies on principled and content-invariant world models. We test this assumption by first evaluating humans and LLMs on their ability to engage in common-sense reasoning about a variety of everyday situations. Our results reveal convergent patterns of reasoning across 46 LLMs and two cohorts of human participants. We then ask whether this behavioral convergence is due to LLMs having acquired content-invariant world models or a set of pattern-matching heuristics by characterizing the roles of content-invariant and content-sensitive model neurons in producing human-like responses. We find that while LLMs encode both content-invariant and content-sensitive representations, it is content-sensitive mechanisms which are causally responsible for aligning models with humans. Taken together, our results suggest that everyday causal reasoning in people and LLMs makes heavy use of pattern-matching.",
+    "publishedAt": "2026-10-02",
+    "author": "Zach Studdiford, Gary Lupyan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

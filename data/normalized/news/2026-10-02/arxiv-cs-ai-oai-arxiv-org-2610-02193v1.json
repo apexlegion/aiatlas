@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-02193v1",
+  "name": "Hierarchical Continuous Diffusion Language Models",
+  "summary": "arXiv:2610.02193v1 Announce Type: cross Abstract: Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and glob...",
+  "description": "arXiv:2610.02193v1 Announce Type: cross Abstract: Discrete diffusion language models offer a compelling alternative to autoregressive generation for tasks demanding bidirectional reasoning and global constraint satisfaction. Yet they share a structural bottleneck: when decoding in parallel, each token is sampled independently from its marginal, severing the statistical dependencies among the to...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.02193"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.02193"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-02",
+  "expiryAt": "2026-11-01T00:00:00.000Z",
+  "author": "Hui Ren, Zihan Li, Chang Liu, Huidong Liu, Alexander Schwing"
+}

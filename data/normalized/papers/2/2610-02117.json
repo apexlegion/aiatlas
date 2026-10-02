@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2610-02117",
+  "name": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
+  "summary": "On-policy self-distillation has recently emerged as an effective approach for improving language-model reasoning by supervising students with a frozen or EMA version of themselves that receives pri...",
+  "description": "On-policy self-distillation has recently emerged as an effective approach for improving language-model reasoning by supervising students with a frozen or EMA version of themselves that receives privileged information. Its application to multimodal large language models (MLLMs), however, remains largely unexplored. Recent approaches use privileged visual information, such as image crops corresponding to a question, to improve fine-grained perception, but their gains are confined to tasks that benefit from such visual zooming and require either human-annotated grounding data or external teach...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.02117v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-01",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.02117v1"
+    }
+  ],
+  "authors": [
+    "Sophia Sirko-Galouchenko",
+    "Monika Wysoczanska",
+    "Andrei Bursuc",
+    "Nicolas Thome",
+    "Spyros Gidaris"
+  ],
+  "paperId": "2610.02117",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-01",
+  "abstract": "On-policy self-distillation has recently emerged as an effective approach for improving language-model reasoning by supervising students with a frozen or EMA version of themselves that receives privileged information. Its application to multimodal large language models (MLLMs), however, remains largely unexplored. Recent approaches use privileged visual information, such as image crops corresponding to a question, to improve fine-grained perception, but their gains are confined to tasks that benefit from such visual zooming and require either human-annotated grounding data or external teach..."
+}

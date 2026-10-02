@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.00676v1",
+  "fetchedAt": "2026-10-02T08:19:13.123Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.00676v1",
+    "title": "Learning Transferable Skills using Goal-Conditioned Bisimulation",
+    "link": "https://arxiv.org/abs/2610.00676",
+    "description": "arXiv:2610.00676v1 Announce Type: cross Abstract: Unsupervised skill discovery has emerged as a promising approach for leveraging reward-free datasets to pretrain general-purpose policies. However, current skill discovery methods either require access to expert data or exhibit limited generalization, failing to transfer effectively to previously unseen layouts. A key challenge is to learn representations that capture the temporal structure of the environment while remaining robust to variations across layouts. To address this issue, we present an objective for learning action-aware temporal representations that satisfy the functional equivariance property while preserving the local temporal structure of the environment. Building upon this embedding, we further propose unsupervised skill discovery using bisimulation, which learns transferable skills by conditioning the behavior of skills exclusively on the subset of state features that directly affect their execution. This enforces invariant behavior across different layouts, enabling skills to transfer effectively to other configurations. Finally, through comprehensive empirical evaluations, we show that skills learned in a given environment can be effectively applied to solve downstream tasks in various environment layouts, demonstrating strong out-of-distribution generalization.",
+    "publishedAt": "2026-10-02",
+    "author": "Mohammad Amin Abbasfar, Farbod Azimmohseni, Mohammad Hossein Rohban",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

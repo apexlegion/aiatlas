@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.00526v1",
+  "fetchedAt": "2026-10-02T08:19:13.123Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.00526v1",
+    "title": "Rules Amortize, Pairings Don't: Linguistic Structure Determines What Latent Task Representations Can Replace In-Context Learning",
+    "link": "https://arxiv.org/abs/2610.00526",
+    "description": "arXiv:2610.00526v1 Announce Type: cross Abstract: In-context learning (ICL) can be amortized into latent objects (task vectors, function vectors, context vectors) that recover few-shot behavior at zero-shot inference cost, but recent theory shows a static vector acts as a single synthetic demonstration and must fail on high-rank mappings such as word-level bijections. We ask a linguistic version of this question: which linguistic operations can be amortized out of the prompt? We train a 2.6M-parameter network that reads the geometry of a few-shot support set (centroid, principal subspace, spectrum, computed once and cached) and produces an input-conditioned additive update to the query's residual stream at a mid-depth layer of a frozen GPT-2-large/XL. Across eight inflectional directions and one lexical relation, under a canonical split that bars inverted-pair leakage between directions, three regimes emerge. On forward inflection, where 10-shot ICL is strong (0.67-0.89) and extracted task vectors collapse (&lt;=0.06), the transform matches ICL at strictly zero-shot per-query cost. On lemmatization directions, which frozen GPT-2 can execute but 10 demonstrations systematically fail to convey (ICL 0.13-0.48 at 1.5B), the transform is not capped by ICL at all: it reaches 0.78-0.92, up to +72 points over ICL (past to present: 0.85 vs. 0.13). On arbitrary pairings (antonymy) every amortizer plateaus near half of ICL at every scale, capacity, and seed tested. Controls show the support manifold acts as a causally necessary task fingerprint: wrong-task manifolds collapse accuracy to &lt;=0.06, query-only variants cannot disambiguate tasks sharing an input space, and leave-one-task-out transfer is zero. Productive rules amortize into latent task representations, sometimes better than prompting can convey them; memorized pairings do not.",
+    "publishedAt": "2026-10-02",
+    "author": "Gunmay Jhingran",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

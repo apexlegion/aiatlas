@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2502.13141v2",
+  "fetchedAt": "2026-10-02T08:19:13.123Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2502.13141v2",
+    "title": "UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models",
+    "link": "https://arxiv.org/abs/2502.13141",
+    "description": "arXiv:2502.13141v2 Announce Type: replace-cross Abstract: Large Language Models (LLMs) are vulnerable to attacks like prompt injection, backdoor attacks, and adversarial attacks, which manipulate prompts or models to generate harmful outputs. In this paper, departing from traditional deep learning attack paradigms, we explore their intrinsic relationship and collectively term them Prompt Trigger Attacks (PTA). This raises a key question: Given a prompt, can we tell whether a hidden trigger is steering the model's behavior? We propose UniGuardian, to the best of our knowledge the first training-free LLM detector to jointly detect successfully activated prompt injection, backdoor, and adversarial attacks without knowing the attack type. Its shared mechanism measures how structured prompt perturbations shift the model's output distribution. Additionally, we introduce a single-forward strategy to optimize the detection pipeline, enabling simultaneous attack detection and text generation within a shared batched forward pass at each decoding step. Our experiments confirm that UniGuardian accurately and efficiently identifies trigger-activated prompts in LLMs.",
+    "publishedAt": "2026-10-02",
+    "author": "Huawei Lin, Yingjie Lao, Tony Geng, Tan Yu, Weijie Zhao",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

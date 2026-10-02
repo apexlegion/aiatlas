@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-01323v1",
+  "name": "TRACE: Trajectory Return Attribution and Contrastive Erasure for Multi-Turn Safety",
+  "summary": "arXiv:2610.01323v1 Announce Type: new Abstract: Safety-aligned large language models (LLMs) often refuse a harmful request but comply once the same goal is spread over several turns. Preference obj...",
+  "description": "arXiv:2610.01323v1 Announce Type: new Abstract: Safety-aligned large language models (LLMs) often refuse a harmful request but comply once the same goal is spread over several turns. Preference objectives score whole responses to single prompts, so their training loss alone cannot control risk on unseen histories. Our analysis gives sufficient conditions under which suppression at supervised si...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.01323"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.01323"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-02",
+  "expiryAt": "2026-11-01T00:00:00.000Z",
+  "author": "Fengpeng Li, Kemou Li, Qizhou Wang, Haiwei Wu, Jiantao Zhou, Di Wang"
+}

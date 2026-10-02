@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2505.17613v2",
+  "fetchedAt": "2026-10-02T08:19:13.123Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2505.17613v2",
+    "title": "MMMG: a Comprehensive and Reliable Benchmark for Multitask Multimodal Generation",
+    "link": "https://arxiv.org/abs/2505.17613",
+    "description": "arXiv:2505.17613v2 Announce Type: replace Abstract: Automatically evaluating multimodal generation presents a significant challenge, as automated metrics often struggle to align with human evaluation, especially for complex tasks that involve multiple modalities. We present MMMG, the first benchmark to bring the verifiable-task paradigm to multimodal generation, spanning 4 modality combinations (image, audio, interleaved text and image, interleaved text and audio). As few multimodal outputs can be checked by programs alone, MMMG targets tasks that are either verifiable or near-verifiable: by providing references, and constraining model judges with explicit rubrics. We keep tasks challenging for generation models while enabling reliable automatic evaluation through a combination of models and programs. MMMG encompasses 55 tasks (including 31 newly developed ones), each with a carefully designed evaluation pipeline, and 1288 instructions to systematically assess reasoning, controllability, and other key capabilities of multimodal generation models. Extensive validation demonstrates that MMMG is highly aligned with human judgment, achieving an average agreement of 94.4%. Benchmarking results on 29 models reveal that even though the state-of-the-art model, GPT Image, achieves 70.7% accuracy for image generation, it falls short on interleaved generation. Furthermore, results suggest considerable improvement space in audio generation, highlighting an important future direction.",
+    "publishedAt": "2026-10-02",
+    "author": "Jihan Yao, Yushi Hu, Wenyuan Wang, Bin Han, Shangbin Feng, Guang Yang, Yujie Yi, Bingbing Wen, Ranjay Krishna, Lucy Lu Wang, Yulia Tsvetkov, Noah A. Smith, Banghua Zhu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

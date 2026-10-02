@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.01619v1",
+  "fetchedAt": "2026-10-02T08:19:13.123Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.01619v1",
+    "title": "Exposing the Cost of Deep Learning Audio Development",
+    "link": "https://arxiv.org/abs/2610.01619",
+    "description": "arXiv:2610.01619v1 Announce Type: cross Abstract: The environmental impact of deep learning has attracted increasing attention over the past decade. Existing studies mainly focus on the energy and carbon emissions of model training and inference, while the whole development phase is often overlooked. Yet, architecture prototyping and intensive experiments are conducted during this stage, which is highly energy-demanding. In this article, we propose a methodology to estimate these costs, based on activity logs from the Grid5000 shared computing platform used by the LORIA laboratory. As a case-study, we focus on audio projects developed in the Multispeech research team. We evaluate the overall energy cost of four projects, and we compare them to those of training the reported models. Our results show that the energy required for the development phase is 3 to 256 times greater than that required to train the best-performing model alone. These results advocate for a more systematic reporting of energy consumption across the entire life cycle of deep learning-based audio projects.",
+    "publishedAt": "2026-10-02",
+    "author": "Constance Douwes, Paul Magron, Romain Serizel",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

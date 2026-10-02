@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2610-02201",
+  "name": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+  "summary": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fra...",
+  "description": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragments continuous surfaces into many local tokens, inflates generation cost, and often weakens topological consistency for thin or highly connected shapes. We introduce SILSA, a topology-aware 3D generation framework that represents shapes with compact sliding-window slice latents. Instead of generating expensive voxel tokens, SILSA uses a fixed set of overlapping slices along the three canonical...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.02201v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-01",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.02201v1"
+    }
+  ],
+  "authors": [
+    "Tianjiao Yu",
+    "Xinzhuo Li",
+    "Yifan Shen",
+    "Ying Shen",
+    "Kiet A. Nguyen",
+    "Adheesh Sunil Juvekar",
+    "Ismini Lourentzou"
+  ],
+  "paperId": "2610.02201",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-01",
+  "abstract": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragments continuous surfaces into many local tokens, inflates generation cost, and often weakens topological consistency for thin or highly connected shapes. We introduce SILSA, a topology-aware 3D generation framework that represents shapes with compact sliding-window slice latents. Instead of generating expensive voxel tokens, SILSA uses a fixed set of overlapping slices along the three canonical..."
+}

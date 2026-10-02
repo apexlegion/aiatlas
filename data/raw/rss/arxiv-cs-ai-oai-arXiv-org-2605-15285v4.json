@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.15285v4",
+  "fetchedAt": "2026-10-02T08:19:13.123Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.15285v4",
+    "title": "Universal Approximation of Nonlinear Operators and Their Derivatives",
+    "link": "https://arxiv.org/abs/2605.15285",
+    "description": "arXiv:2605.15285v4 Announce Type: replace-cross Abstract: We show that Universal Approximation (UA) of nonlinear operators and their derivatives via Operator Learning (OL) architectures fails in ${C^k_F}$ (Fr\\'echet) compact-open topologies and in Fr\\'echet--Sobolev norms (i.e. under operator norms). We solve this obstruction by restoring UA in natural weaker topologies: $C^k_B$ (Bastiani) compact-open topologies and (novel) weighted Bastiani--Sobolev spaces for general finite input measures. In full Banach-space generality, these are the first complete generalizations of the corresponding influential classical results in [Hornik, 1991] to infinite-dimensional spaces and OL. Based on our UATs, we formulate Bastiani--Sobolev training in DIOL. These results launch Derivative-Informed Operator Learning (DIOL) (i.e. learning nonlinear operators and their derivatives) on general Banach spaces. We parameterize nonlinear operators via Encoder-Decoder Architectures, classical OL architectures available in general Banach spaces; these include DeepONets, Deep-H-ONets, and PCA-Nets, which our UATs cover. A key mathematical result is that our new weighted Bastiani--Sobolev spaces generalize classical Gaussian (Malliavin) Sobolev spaces on Banach spaces. Open frontiers where DIOL and our UATs find applications are: high-order accuracy in OL; fast constrained optimization in Banach spaces (e.g. optimal control of PDEs, inverse problems) via Learn-Then-Optimize; numerical methods for infinite-dimensional PDEs (e.g. HJB PDEs on Banach spaces from infinite-dimensional optimal control via Optimize-Then-Learn, such as optimal control of PDEs, SPDEs, path-dependent systems, partially observed systems, mean-field control).",
+    "publishedAt": "2026-10-02",
+    "author": "Filippo de Feo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

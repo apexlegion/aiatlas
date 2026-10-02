@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.02043v1",
+  "fetchedAt": "2026-10-02T08:19:13.123Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.02043v1",
+    "title": "Distributionally Robust Schr\\\"odinger Bridge",
+    "link": "https://arxiv.org/abs/2610.02043",
+    "description": "arXiv:2610.02043v1 Announce Type: cross Abstract: Schr\\\"odinger bridge (SB) learns stochastic transport between prescribed initial and target distributions. When the initial distribution shifts at test time, the learned dynamics can fail to recover the target distribution. We introduce the Distributionally Robust Schr\\\"odinger Bridge (DRSB), which learns a single controller that accounts for uncertainty in the initial distribution. The DRSB objective consists of control energy and a KL penalty between the resulting terminal distribution and the target distribution. DRSB seeks a single controller that minimizes the worst-case value of this objective as the initial distribution varies within an ambiguity set around the nominal distribution. We derive an exact variational formulation of this objective and connect its fixed-terminal-cost subproblem to stochastic optimal control and distributionally robust optimization. This formulation motivates an alternating algorithm that updates the adversarial initial distribution, estimates the terminal log-density ratio, and trains the controller. We develop Wasserstein and Sinkhorn variants using stochastic control optimality conditions to approximate the gradients required for adversarial updates. Experiments on two-dimensional transport tasks and image-to-image translation show improved robustness to input perturbations relative to standard SB, with a tradeoff in nominal performance. On Gaussian mixture transport, Sinkhorn DRSB also achieves lower mean sliced Wasserstein distance than fixed-level noise augmentation at both tested unseen noise levels.",
+    "publishedAt": "2026-10-02",
+    "author": "Jinhwan Sul, Panagiotis Theodoropoulos, Vincent Pacelli, Jaemoo Choi, Evangelos Theodorou",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
