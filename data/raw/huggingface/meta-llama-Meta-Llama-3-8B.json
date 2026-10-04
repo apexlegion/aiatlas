@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "meta-llama/Meta-Llama-3-8B",
-  "fetchedAt": "2026-10-03T07:55:22.428Z",
+  "fetchedAt": "2026-10-04T08:17:31.182Z",
   "data": {
     "_id": "661f97d48e7f3438386f755d",
     "id": "meta-llama/Meta-Llama-3-8B",
@@ -25,8 +25,8 @@
       "deploy:sagemaker",
       "region:us"
     ],
-    "downloads": 212735,
-    "likes": 6721,
+    "downloads": 210230,
+    "likes": 6722,
     "modelId": "meta-llama/Meta-Llama-3-8B",
     "author": "meta-llama",
     "sha": "8cde5ca8380496c9a6cc7ef3a8b46a0372a1d920",
@@ -145,6 +145,7 @@
     ],
     "spaces": [
       "embedl/hfviewer",
+      "tardellirs/model-pulse",
       "aquanode/gpu-vram-calculator",
       "lyokovn/meta-llama-Meta-Llama-3-8B",
       "featherless-ai/try-this-model",
@@ -228,8 +229,8 @@
       "fdaudens/meta-download-stats",
       "mep296/llama-3-8b-entigraph-quality",
       "trialog/der_zeiten",
-      "exploitz3r0bbd/Quantize-HF-Models",
       "Xlnk/Quantize-HF-Models",
+      "exploitz3r0bbd/Quantize-HF-Models",
       "Oss11/Quantize-HF-Models",
       "bobbyjin/oll-v2-performance-frontiers",
       "mlanvvs/icd10-llama3-8b-qlora-demo",
@@ -238,12 +239,11 @@
       "jwherrold/neuraldaredevil-8b-abliterated-chat",
       "tws-pappu/Llama3_PK_DemoAPP",
       "RajatChaudhari/QueryingLangchainPaper",
+      "Rupesx007/meta-llama-Meta-Llama-3-8B",
       "comsian/meta-llama-Meta-Llama-3-8B",
       "VictorHAM/meta-llama-Meta-Llama-3-8B",
-      "Rupesx007/meta-llama-Meta-Llama-3-8B",
       "ClefChen/ARIN_7102_final",
-      "JARVIS-DEV/meta-llama-Meta-Llama-3-8B",
-      "machalex/meta-llama-Meta-Llama-3-8B"
+      "JARVIS-DEV/meta-llama-Meta-Llama-3-8B"
     ],
     "createdAt": "2024-04-17T09:35:16.000Z",
     "safetensors": {
