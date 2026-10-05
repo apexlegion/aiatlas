@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2605-14841v3",
+  "name": "GPart: End-to-End Isometric Fine-Tuning via Global Parameter Partitioning",
+  "summary": "arXiv:2605.14841v3 Announce Type: replace-cross Abstract: Low-rank adaptation (LoRA) has become a dominant paradigm for parameter-efficient fine-tuning (PEFT) of large-scale deep learning models. H...",
+  "description": "arXiv:2605.14841v3 Announce Type: replace-cross Abstract: Low-rank adaptation (LoRA) has become a dominant paradigm for parameter-efficient fine-tuning (PEFT) of large-scale deep learning models. However, its bilinear parameterization induces a parameter-dependent geometry: the mapping from trainable parameters to weight updates is not generally distance-preserving. Related methods that project...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2605.14841"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-05",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2605.14841"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-05",
+  "expiryAt": "2026-11-04T00:00:00.000Z",
+  "author": "Paolo Mandica, Micha{\\l} Brzozowski, Zuzanna Dubanowska, Neo Christopher Chung"
+}

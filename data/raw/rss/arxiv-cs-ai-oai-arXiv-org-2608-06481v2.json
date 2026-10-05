@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.06481v2",
+  "fetchedAt": "2026-10-05T08:49:01.827Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.06481v2",
+    "title": "Safe and Robust Neural Policy Learning with Statistical Verification for Sim-to-Real Deployment in Robotics",
+    "link": "https://arxiv.org/abs/2608.06481",
+    "description": "arXiv:2608.06481v2 Announce Type: replace-cross Abstract: Synthesizing safe and robust neural controllers in simulation for reliable sim-to-real deployment remains a critical challenge in robotics. Existing learning-based methods typically lack safety and performance guarantees over an explicitly defined operating region, while post-training verification techniques provide no mechanism to refine controllers when safety violations are detected. To bridge this gap, we propose a curriculum-driven framework that tightly integrates scenario-based Evolution Strategy with Statistical Model Checking-based verification in a closed-loop procedure. Starting from a candidate region, our approach co-optimizes policy performance while progressively enlarging its safe operating boundaries. Upon termination, it yields a neural controller together with a region over which safety and performance are statistically verified. Extensive evaluations on Cartpole and 3D Quadrotor benchmarks, showing 6.14x and 224.04x expansions, respectively, of the safe operating region over mathematically certified ones, together with physical experiments under both nominal conditions and severe dynamic perturbations, demonstrate that our learned controllers consistently outperform established control-theoretic and learning-based baselines. Furthermore, we show that the size of the verified region serves as a quantitative indicator of policy quality before deployment. These results establish our framework as an automated pipeline for learning, assessing and deploying safe and robust neural controllers from simulation to reality.",
+    "publishedAt": "2026-10-05",
+    "author": "Riccardo Curcio, Hongpeng Cao, Marco Caccamo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

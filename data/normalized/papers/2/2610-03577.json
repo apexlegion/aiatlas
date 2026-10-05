@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2610-03577",
+  "name": "Rethinking What to Cache in Few-Step Diffusion Transformers: Solver-Aware Target Selection",
+  "summary": "Diffusion Transformers (DiTs) can generate high-quality images and videos, but generating each sample requires multiple costly DiT forward passes. Two common ways to accelerate DiT sampling are ste...",
+  "description": "Diffusion Transformers (DiTs) can generate high-quality images and videos, but generating each sample requires multiple costly DiT forward passes. Two common ways to accelerate DiT sampling are step distillation, which reduces the number of sampling steps, and caching, which skips some DiT evaluations by reusing a tensor computed at an earlier step. Most caching methods decide in advance which tensor to reuse. After distillation, adjacent sampling steps are farther apart. Reusing a tensor across this larger gap introduces more error, so choosing what to cache becomes especially important. W...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.03577v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-02",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.03577v1"
+    }
+  ],
+  "authors": [
+    "Shuo Yang",
+    "Lihao Fang",
+    "Yi Zhang",
+    "Haixiang Wang",
+    "Xincheng Ye",
+    "Shufan Chen",
+    "Jipeng Guo",
+    "Youqing Wang"
+  ],
+  "paperId": "2610.03577",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-02",
+  "abstract": "Diffusion Transformers (DiTs) can generate high-quality images and videos, but generating each sample requires multiple costly DiT forward passes. Two common ways to accelerate DiT sampling are step distillation, which reduces the number of sampling steps, and caching, which skips some DiT evaluations by reusing a tensor computed at an earlier step. Most caching methods decide in advance which tensor to reuse. After distillation, adjacent sampling steps are farther apart. Reusing a tensor across this larger gap introduces more error, so choosing what to cache becomes especially important. W..."
+}

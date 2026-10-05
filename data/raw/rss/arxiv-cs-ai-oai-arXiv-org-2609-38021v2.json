@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.38021v2",
+  "fetchedAt": "2026-10-05T08:49:01.827Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.38021v2",
+    "title": "Auditing Long-Term Memory Evaluation: Repeated Judging, Reader Variation, and Negative Controls",
+    "link": "https://arxiv.org/abs/2609.38021",
+    "description": "arXiv:2609.38021v2 Announce Type: replace-cross Abstract: This report audits evaluation of a long-term-memory retrieval chain on the 500 LongMemEval-S development questions. Its strongest historical reader lane scores 479 and 475 under an adapted GPT-4o rubric; re-judging the same pass-1 answers changes three labels and yields 478. Fixed-answer knowledge-update re-scoring gives 70/72 under the upstream template and 69/72 under the modified template. Reader lanes span 93 to 479 on fixed packets; paired tests between the two strongest historical lanes establish neither superiority nor equivalence. A different-family reader, configured without client tools or operator files, scores 474, 1.0 percentage point below the headline pass (paired 95% interval [-3.0,+1.0]). Live reader request bodies were not retained. With the same requested reader label, route and judge snapshot, the full package scores 474 versus 454 for baseline sessions, a difference of +4.0 percentage points [95% interval +2.2,+6.0]. Eighteen of the 23 gains, and no losses, occur where baseline packets lacked listed evidence; this post-hoc split does not identify a component effect. In recovered LoCoMo data, token-F1 gains do not survive answer-line extraction. A negative control rejects a verifier that repairs three wrong drafts but breaks eleven correct ones. All questions were used to develop the components; no untouched holdout was evaluated. These findings do not establish a new leaderboard leader or transferable memory advantage. The A/D comparison has one pass per arm, including six reused identical-prompt outcomes, with no pinned reader snapshot; B/C and repeats remain unrun. Original headline requests cannot be reconstructed and stages 1--4 remain closed. Released artifacts support packet inspection and saved-verdict recounting and re-scoring; they do not reconstruct the method.",
+    "publishedAt": "2026-10-05",
+    "author": "Christopher J. Chanhnourack",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

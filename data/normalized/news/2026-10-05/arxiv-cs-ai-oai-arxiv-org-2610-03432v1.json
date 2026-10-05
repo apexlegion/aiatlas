@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-03432v1",
+  "name": "OptiSelect: How does the Optimizer Shape Data Curriculum?",
+  "summary": "arXiv:2610.03432v1 Announce Type: cross Abstract: Online data selection has demonstrated substantial efficiency gains for LLM pretraining by training on the most valuable candidates within each bat...",
+  "description": "arXiv:2610.03432v1 Announce Type: cross Abstract: Online data selection has demonstrated substantial efficiency gains for LLM pretraining by training on the most valuable candidates within each batch. Since a candidate's value is realized through its effective model update, principled selection should account for the optimizer step, which reshapes the raw gradient before it updates model parame...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.03432"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-05",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.03432"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-05",
+  "expiryAt": "2026-11-04T00:00:00.000Z",
+  "author": "Simin Fan, Alireza Abdollahpoorrostam, Martin Jaggi"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.38810v2",
+  "fetchedAt": "2026-10-05T08:49:01.827Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.38810v2",
+    "title": "CRAFT: Causal Responsibility and Failure Tracing in Medical Vision Language Models",
+    "link": "https://arxiv.org/abs/2609.38810",
+    "description": "arXiv:2609.38810v2 Announce Type: replace-cross Abstract: As vision language models are increasingly deployed in clinical diagnosis, under standing how they internally resolve competing visual and textual signals becomes a safety imperative. Existing mechanistic analyses remain confined to unimodal text and offer no explanation for why a single misleading sentence can override a correct image based diagnosis, or why a model commits to a confident answer despite insufficient visual evidence. We find that these two safety risks, arbitra tion failure where textual context overrides visual grounding and brake failure where the model commits without adequate evidence, are mediated by spatially disjoint attention head populations: arbitration heads form a mid-to-deep wideband reflecting cross-layer evidence competition, while brake heads concentrate in a narrow middle-to-late layer band that regulates evidence sufficiency and abstention behavior. To ground these observations in causal circuitry, we introduce CRAFT, which localizes each failure mode to a minimal causal head set via dual criteria and verifies necessity and sufficiency through temporal probes and Tuned Lens trajectory analysis. Excising arbitration heads sharply reduces conflict following with negligible degradation on clean inputs, while excising brake heads restores ap propriate abstention under degraded visual evidence. The two interventions target spatially disjoint head sets and produce distinct corrective effects, underscoring the mechanistic separability of the failure modes. Experiments across multiple medical VQA benchmarks and VLM architectures validate both the localization and inter ventions, demonstrating that the identified heads causally drive each failure mode and that targeted modulation generalises without retraining. The code is available at https://github.com/zhcz328/CRAFT.",
+    "publishedAt": "2026-10-05",
+    "author": "Chunzheng Zhu, Jiaqi Zeng, Hongbo Zhao, Yihang Chen, Yijun Wang, Jianxin Lin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

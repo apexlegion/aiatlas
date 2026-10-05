@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.02867v1",
+  "fetchedAt": "2026-10-05T08:49:01.827Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.02867v1",
+    "title": "TACD: Distilling Efficient Text-to-Motion Models via Terminal Amplification Control",
+    "link": "https://arxiv.org/abs/2610.02867",
+    "description": "arXiv:2610.02867v1 Announce Type: new Abstract: Recent text-to-motion models have improved motion quality and instruction following, yet many-step denoising and large model components make deployment slow and memory-intensive. We present Terminal-Amplification-Controlled Distillation (TACD), an on-policy approach for training efficient motion generators from text prompts and pretrained teachers, without real-motion training data. Building on segmented on-policy flow distillation, we supervise clean-motion predictions along student-generated trajectories. We identify a failure mode in which velocity matching on a fixed supervision grid repeatedly overweights errors near the denoising endpoint, degrading few-step generation. TACD ties the latest teacher query to the student's step size, bounding the effective loss weights in clean-motion space without changing inference. Experiments on HumanML3D and KIT-ML demonstrate improved few-step generation, including a 58% reduction in eight-step HY-Motion student FID relative to distillation without this bound. For diffusion teachers, the endpoint-matching form of TACD yields four-step students with lower FID and matched or improved text-motion retrieval relative to their 50-step teachers on HumanML3D. On HY-Motion and Kimodo, eight-step students with compact components achieve 7.7-11.9x end-to-end speedups and reduce peak GPU memory by 3.8-6.7x relative to their teachers. Project page: https://vkgo.github.io/TACD/",
+    "publishedAt": "2026-10-05",
+    "author": "Wei-Jin Huang, Yuan-Ming Li, Kun-Yu Lin, Wang Luo, Yinlin Zhu, Yue Yu, Shenghao Ye, Junbin Yuan, Fa-Ting Hong, Qing Zhang, Wei-Shi Zheng",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.00904v2",
+  "fetchedAt": "2026-10-05T08:49:01.827Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.00904v2",
+    "title": "Screw Attention: Rigid-Body Algebra Inside a Transformer",
+    "link": "https://arxiv.org/abs/2610.00904",
+    "description": "arXiv:2610.00904v2 Announce Type: replace-cross Abstract: Learned manipulation policies rediscover from data the spatial relations that rigid-body mechanics supplies in closed form, which leaves them fragile to geometric change. We present Screw Attention, a transformer layer in which the relation between two bodies is a spatial transform rather than a graph edge. Each pair of tokens carries the relative pose and, for robot joints, the joint screw. Messages are transported along this relation into the receiver's frame, while the attention scores see only frame-invariant quantities. By construction, the messages are equivariant to an independent change of frame at every token, and a single layer can express the velocity recursion of rigid-body mechanics. On LIBERO-Spatial, a policy of 16k parameters trained from object poses alone reaches 97.3% success, above graph, transformer and flat networks of the same size and a flat network with 27 times more parameters. Ablations show that the gain comes from transporting the correct relations, and that the structure pays most where the task requires relations between frames that nothing else supplies. The equivariance makes the policy robust to how the robot is described, where every other learned network collapses under a change of frame convention. Furthermore, the policy tolerates pose noise and calibration errors at least as well as an analytic controller. Used as a gated residual on an analytic controller, it also improves a contact-rich insertion task. Code and trained policies will be released.",
+    "publishedAt": "2026-10-05",
+    "author": "Aly Magassouba",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

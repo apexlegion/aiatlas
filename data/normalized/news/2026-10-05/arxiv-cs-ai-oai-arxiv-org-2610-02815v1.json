@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-02815v1",
+  "name": "iS-KV: Online Low-Rank KV Cache Compression via Block-Incremental SVD",
+  "summary": "arXiv:2610.02815v1 Announce Type: new Abstract: Long chain-of-thought reasoning substantially increases KV-cache memory during autoregressive decoding, as every generated token introduces new key a...",
+  "description": "arXiv:2610.02815v1 Announce Type: new Abstract: Long chain-of-thought reasoning substantially increases KV-cache memory during autoregressive decoding, as every generated token introduces new key and value states and causes the cache to grow linearly with decoding length. Existing KV-cache compression methods typically control this growth through token eviction, but irreversible deletion can re...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.02815"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-05",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.02815"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-05",
+  "expiryAt": "2026-11-04T00:00:00.000Z",
+  "author": "Yiren Zhao, Guanghui Song, Tianrui Qin, Kejiang Ye, Cheng-zhong Xu, Xitong Gao"
+}

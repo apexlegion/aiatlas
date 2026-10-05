@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.02827v1",
+  "fetchedAt": "2026-10-05T08:49:01.827Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.02827v1",
+    "title": "MLCommons Jailbreak Benchmark v1.0",
+    "link": "https://arxiv.org/abs/2610.02827",
+    "description": "arXiv:2610.02827v1 Announce Type: new Abstract: Modern AI systems are designed to refuse hazardous requests. A jailbreak is a prompt crafted to bypass those safeguards and elicit outputs that the system would normally refuse to provide. The MLCommons Jailbreak Benchmark v1.0 provides an end-to-end methodology for evaluating the robustness of large language models to single-turn, text-based jailbreak attacks. It combines criteria-driven system and attack selection, paired baseline and adversarial evaluation, human annotation, automated evaluator calibration, scoring, grading, and risk-calibrated disclosure within a single benchmarking pipeline. The benchmark evaluates eight open-weight systems using 264 seed prompts spanning eleven hazard categories and representative attacks drawn from the MLCommons Jailbreak Taxonomy. Responses are assessed using the AILuminate Assessment Standard v1.4, and robustness is measured through the Resilience Gap: the change in safety performance between baseline and adversarial conditions. Across all evaluated systems and attacks, the unsafe-response rate increased from 11.08% under baseline conditions to 18.65% under jailbreak conditions, producing an average Resilience Gap of 7.57%. Accessible systems showed a larger mean gap, while attack effectiveness varied substantially across attack categories and hazards. The benchmark also examines evaluator reliability and sources of measurement error. Beyond reporting results, Jailbreak Benchmark v1.0 establishes a reproducible methodological foundation for comparative jailbreak evaluation and for future expansion across systems, attacks, hazards, and evaluation methods.",
+    "publishedAt": "2026-10-05",
+    "author": "Carsten Maple (Victor), Cagatay Yucel (Victor), Isaac Holeman (Victor), Chris Knotz (Victor), Peter Mattson (Victor), James Goel (Victor), Jonathan Petit (Victor), Sean McGregor (Victor), James Ezick (Victor), Abhishek Kumar (Victor), Alicia Parrish (Victor), Murali Emani (Victor), Kashyap Iyer (Victor), Faiza Khan Khattak (Victor), Washington Mbonu (Victor), Daniel Machlab (Victor), Eileen Long (Victor), Shaona Ghosh (Victor), Jibin Varghese (Victor), Roman Lutz (Victor), Andrew Gruen (Victor), Bennett Hillenbrand (Victor), Prabal Gupta (Victor), Mohammed Serrhini (Victor), Dhivya Nagasubramanian (Victor), Aakash Gupta (Victor),  Jun (Victor),  Lu, Kurt Bollacker, Chang Liu, Jonathan Petit, Cong Chen, Jean-Philippe Monteuuis, Brent Miller, Apurv Verma, Roman Eng, Armstrong Foundjem, Mohammed Serrhini",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

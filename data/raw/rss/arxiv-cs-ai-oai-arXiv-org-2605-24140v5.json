@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.24140v5",
+  "fetchedAt": "2026-10-05T08:49:01.827Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.24140v5",
+    "title": "HyperGuide: Hyperbolic Guidance for Efficient Multi-Step Reasoning in Large Language Models",
+    "link": "https://arxiv.org/abs/2605.24140",
+    "description": "arXiv:2605.24140v5 Announce Type: replace Abstract: Searching over alternative continuations lets large language models (LLMs) compare the downstream consequences of a reasoning step before committing to it, but expanding and evaluating many branches makes inference expensive. Training value models to score intermediate steps does not avoid this cost, as they still rank candidates at inference time. We introduce HyperGuide, a framework that treats reasoning as movement through a tree of states embedded in hyperbolic space. HyperGuide first trains a state encoder on the Poincar'e ball, then trains a guidance head to predict the direction of a minimum-cost transition from the current state. The predicted direction is inserted into the decoder as a virtual token after each reasoning step, so inference follows a single autoregressive trajectory without expanding or reranking candidates. Because the supervision is ordinal rather than binary, it favors continuations that are both reliable and short, which steers generation toward successful, concise solutions. Experiments on competition mathematics and code generation show that HyperGuide matches or exceeds the accuracy of search- and verifier-based baselines while generating substantially fewer tokens than these baselines and about as many as few-shot prompting.",
+    "publishedAt": "2026-10-05",
+    "author": "Yuyu Liu, Haotian Xu, Yanan He, Sarang Rajendra Patil, Mengjia Xu, Tengfei Ma",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

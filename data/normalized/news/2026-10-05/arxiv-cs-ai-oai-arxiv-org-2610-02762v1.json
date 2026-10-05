@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-02762v1",
+  "name": "Dynamic LLM Routers are Often Misguided",
+  "summary": "arXiv:2610.02762v1 Announce Type: new Abstract: Dynamic LLM routers promise to cut inference costs by sending each query to the cheapest model that can answer it correctly. We analyze six commercia...",
+  "description": "arXiv:2610.02762v1 Announce Type: new Abstract: Dynamic LLM routers promise to cut inference costs by sending each query to the cheapest model that can answer it correctly. We analyze six commercial routers across 14 settings on a diverse benchmark spanning eight task categories, finding that none of them outperforms a router that randomly selects between two well-chosen models at matched cost....",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.02762"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-05",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.02762"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-05",
+  "expiryAt": "2026-11-04T00:00:00.000Z",
+  "author": "Sam Wang, Julia White, Sahibzada Allahyar, Dhruv Atreja, Urchade Zaratiana, Kelton Zhang"
+}

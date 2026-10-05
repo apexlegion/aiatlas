@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.02976v1",
+  "fetchedAt": "2026-10-05T08:49:01.827Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.02976v1",
+    "title": "Relevant Evidence Decoding for Audio-Visual Hallucination Mitigation",
+    "link": "https://arxiv.org/abs/2610.02976",
+    "description": "arXiv:2610.02976v1 Announce Type: new Abstract: Audio-Visual Large Language Models (AV-LLMs) remain prone to cross-modal hallucinations, where one modality incorrectly affects predictions about another. Although contrastive decoding reduces hallucinations in vision-language models, its direct extension to AV-LLMs overlooks a key challenge: different questions require different perceptual evidence, including audio, video, or their interaction. Notably, we observe that joint audio-visual inference can weaken the prediction even when a model can recover the correct answer from a single informative modality. For example, when asked which instrument is heard, a model may correctly predict violin from the audio alone. Once a video showing a guitar is added, its confidence in violin may drop. In this paper, we introduce Relevant Evidence Decoding (RED), a training-free method that identifies question-relevant evidence and selectively strengthens its contribution. RED uses pointwise mutual information to quantify the predictive support provided by audio and video beyond the question alone. It decomposes their joint contribution into audio, video, and residual interaction components. A question-only inference pass determines the required evidence type, after which the model augments the original audio-visual prediction with the corresponding PMI contribution. Across three audio-visual hallucination benchmarks and three AV-LLMs, RED improves accuracy over standard decoding by up to 7% on CMM, 6.3% on AVHBench, and 3.8% on SVHalluc, with an average relative time to first token of 1.5x standard decoding.",
+    "publishedAt": "2026-10-05",
+    "author": "Hyunjae Ra, Aecheon Jung, Jungin Park, Sungeun Hong",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

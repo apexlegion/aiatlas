@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.02594v1",
+  "fetchedAt": "2026-10-05T08:49:01.827Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.02594v1",
+    "title": "How Causality Bridges the Semantic Gap",
+    "link": "https://arxiv.org/abs/2610.02594",
+    "description": "arXiv:2610.02594v1 Announce Type: cross Abstract: Numerical measurements capture how a system behaves, but often leave the meanings of its variables unspecified. Some variables are measured but never labeled, and others are never measured at all. Existing methods assign semantics to such variables by consulting general human knowledge, but this inherits its biases where that knowledge exists and offers nothing where it does not. We bridge this gap between measurements and their meanings with causal structure instead, reading a variable's semantics from how it acts on other variables. We formalize this as structure-constrained semantic alignment, in which the embedding of each unnamed variable is solved under the dependence relations implied by the causal graph, with the embeddings of a few known names as anchors. Accordingly, we build CausalBridge, a framework that discovers the causal graph from the measurements, latent variables included, solves for the embeddings under those relations, and expresses them as names through a language model. The causal structure reflects the mechanism that generated the measurements and is recovered from the measurements alone, which may make it the one source of information free of bias from human knowledge. We evaluate CausalBridge on five questionnaires and three robotics scenarios, with 20 to 90% of the variable names masked. It recovers the semantics of observed and latent variables more accurately than existing methods that rely on association, and its lead widens as less of the system is documented. The graph it discovers names variables as accurately as the documented one, and a new system is named in minutes and at a fraction of the cost of sampling methods. Once the semantic gap is bridged faithfully, machines can understand the world and take actions causally.",
+    "publishedAt": "2026-10-05",
+    "author": "Shuhao Zhang, Xuran Zhou, Han Guo, Pengtao Xie, Yujia Zheng",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

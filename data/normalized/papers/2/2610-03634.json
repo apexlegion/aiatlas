@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2610-03634",
+  "name": "Credit Where It Matters: Dependency-Aware Policy Optimization for Terminal Agents",
+  "summary": "Terminal-using agents benefit from reinforcement learning (RL) in coding, debugging, and other multi-step terminal tasks. In these tasks, later commands often depend on information or intermediate...",
+  "description": "Terminal-using agents benefit from reinforcement learning (RL) in coding, debugging, and other multi-step terminal tasks. In these tasks, later commands often depend on information or intermediate results produced by earlier commands. However, existing trajectory-level and step-level credit assignment methods do not explicitly trace the read-write dependencies through which commands affect the final outcome. Consequently, training signals could still be assigned to irrelevant operations, weakening learning from relevant steps. In this paper, we propose Dependency-Aware Group Policy Optimiza...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.03634v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-02",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.03634v1"
+    }
+  ],
+  "authors": [
+    "Yu Li",
+    "Guangfeng Cai",
+    "Long-Fei Li",
+    "Shuo Han",
+    "Shengtian Yang",
+    "Han Luo",
+    "Kaibing Yang",
+    "Lei Feng"
+  ],
+  "paperId": "2610.03634",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-02",
+  "abstract": "Terminal-using agents benefit from reinforcement learning (RL) in coding, debugging, and other multi-step terminal tasks. In these tasks, later commands often depend on information or intermediate results produced by earlier commands. However, existing trajectory-level and step-level credit assignment methods do not explicitly trace the read-write dependencies through which commands affect the final outcome. Consequently, training signals could still be assigned to irrelevant operations, weakening learning from relevant steps. In this paper, we propose Dependency-Aware Group Policy Optimiza..."
+}

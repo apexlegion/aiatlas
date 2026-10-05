@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-10-04T08:17:31.609Z",
+  "fetchedAt": "2026-10-05T08:49:00.173Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,8 +25,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4285782,
-    "likes": 8267,
+    "downloads": 4366818,
+    "likes": 8269,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -220,18 +220,19 @@
       }
     ],
     "spaces": [
-      "embedl/hfviewer",
       "tardellirs/model-pulse",
+      "embedl/hfviewer",
       "RioShiina/ImageGen",
       "InstantX/InstantID",
-      "yanze/PuLID-FLUX",
       "frogleo/Image-to-3D",
+      "yanze/PuLID-FLUX",
+      "jallenjia/Change-Clothes-AI",
+      "aquanode/gpu-vram-calculator",
       "yisol/IDM-VTON",
       "fffiloni/InstantIR",
-      "jallenjia/Change-Clothes-AI",
       "John6666/DiffuseCraftMod",
       "hugging-apps/qwen-video-edit",
-      "aquanode/gpu-vram-calculator",
+      "alxander84/ImageGen-32",
       "Daankular/TripoSG",
       "AEUPH/sdxl-gguf-q8",
       "BoobyBoobs/Flux_Lustly_AI_Uncensored_NSFW_V1",
@@ -318,8 +319,7 @@
       "clinteroni/outpainting-with-differential-diffusion-demo",
       "briaai/BRIA-Eraser-API",
       "jeasinema/UltraEdit-SD3",
-      "tight-inversion/tight-inversion-pulid-demo",
-      "fffiloni/StyleAligned_Transfer"
+      "tight-inversion/tight-inversion-pulid-demo"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {
