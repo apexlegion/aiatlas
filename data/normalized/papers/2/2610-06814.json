@@ -1,0 +1,43 @@
+{
+  "type": "paper",
+  "slug": "2610-06814",
+  "name": "TAPDreamer: Transferable Adversarial Patches for World Action Models",
+  "summary": "World models learn to predict how their environment will evolve, making them an important foundation for general-purpose robotic control. Yet world action models depend on camera inputs whose manip...",
+  "description": "World models learn to predict how their environment will evolve, making them an important foundation for general-purpose robotic control. Yet world action models depend on camera inputs whose manipulation can corrupt the visual representations used across tasks and action policies. Existing attacks on these models optimize against the victim's actions or predicted futures and therefore require access to target-model outputs. In this paper, we propose an attack, TAPDreamer, against world action models that instead uses a public encoder alone to construct a fixed local perturbation that trans...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.06814v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-05",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.06814v1"
+    }
+  ],
+  "authors": [
+    "Xuanyu Lu",
+    "Fengqing Jiang",
+    "Kaiyuan Zheng",
+    "Yichen Feng",
+    "Yaorui Ding",
+    "Yuetai Li",
+    "Zhen Xiang",
+    "Bhaskar Ramasubramanian",
+    "Basel Alomair",
+    "Luyao Niu",
+    "Radha Poovendran"
+  ],
+  "paperId": "2610.06814",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-05",
+  "abstract": "World models learn to predict how their environment will evolve, making them an important foundation for general-purpose robotic control. Yet world action models depend on camera inputs whose manipulation can corrupt the visual representations used across tasks and action policies. Existing attacks on these models optimize against the victim's actions or predicted futures and therefore require access to target-model outputs. In this paper, we propose an attack, TAPDreamer, against world action models that instead uses a public encoder alone to construct a fixed local perturbation that trans..."
+}

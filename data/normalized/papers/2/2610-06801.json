@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2610-06801",
+  "name": "MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers",
+  "summary": "Sparse attention is a primary approach to reducing the latency of diffusion transformers in long-sequence generation tasks, such as video and high-resolution 3D asset generation. However, existing...",
+  "description": "Sparse attention is a primary approach to reducing the latency of diffusion transformers in long-sequence generation tasks, such as video and high-resolution 3D asset generation. However, existing methods can degrade generation quality and fidelity at high sparsity levels. Through controlled oracle comparisons, we trace this degradation to three sources: constraints imposed by token grouping, inaccurate interaction selection, and the attention contributions lost when tokens are discarded. Guided by this analysis, we propose Meta-Cached Sparse Attention (MC-Sparse), a training-free framework...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.06801v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-05",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.06801v1"
+    }
+  ],
+  "authors": [
+    "Jiarui Chen",
+    "Zeqiang Lai",
+    "Jiangshan Wang",
+    "Ziheng Ouyang",
+    "Ye Huang",
+    "Xiangyu Yue",
+    "Cewu Lu",
+    "Chunchao Guo"
+  ],
+  "paperId": "2610.06801",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-05",
+  "abstract": "Sparse attention is a primary approach to reducing the latency of diffusion transformers in long-sequence generation tasks, such as video and high-resolution 3D asset generation. However, existing methods can degrade generation quality and fidelity at high sparsity levels. Through controlled oracle comparisons, we trace this degradation to three sources: constraints imposed by token grouping, inaccurate interaction selection, and the attention contributions lost when tokens are discarded. Guided by this analysis, we propose Meta-Cached Sparse Attention (MC-Sparse), a training-free framework..."
+}

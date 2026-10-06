@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2610-06751",
+  "name": "MatrixFormer: A Foundation Model for Matrix Completion",
+  "summary": "Matrix completion underlies problems from tabular imputation to causal inference, yet existing tabular foundation models treat it as entry-by-entry prediction, repeating context for every target an...",
+  "description": "Matrix completion underlies problems from tabular imputation to causal inference, yet existing tabular foundation models treat it as entry-by-entry prediction, repeating context for every target and discarding the matrix's two-dimensional structure. We introduce MatrixFormer, a pre-trained matrix-native transformer that predicts a full distribution for every missing entry in a single forward pass. MatrixFormer is trained entirely on synthetic low-rank and latent-factor matrices under diverse missingness patterns. Applied zero-shot and with the same model weights, MatrixFormer achieves compe...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.06751v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-05",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.06751v1"
+    }
+  ],
+  "authors": [
+    "Dwaipayan Saha",
+    "Jacob Feitelberg",
+    "Kyuseong Choi",
+    "Raaz Dwivedi",
+    "Anish Agarwal"
+  ],
+  "paperId": "2610.06751",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-05",
+  "abstract": "Matrix completion underlies problems from tabular imputation to causal inference, yet existing tabular foundation models treat it as entry-by-entry prediction, repeating context for every target and discarding the matrix's two-dimensional structure. We introduce MatrixFormer, a pre-trained matrix-native transformer that predicts a full distribution for every missing entry in a single forward pass. MatrixFormer is trained entirely on synthetic low-rank and latent-factor matrices under diverse missingness patterns. Applied zero-shot and with the same model weights, MatrixFormer achieves compe..."
+}

@@ -1,0 +1,41 @@
+{
+  "type": "paper",
+  "slug": "2610-06765",
+  "name": "Conditional Rank Allocation for Taxonomy-Aware Medical Language Model Adaptation",
+  "summary": "Medical question answering spans specialties and clinical operations that may benefit from different adaptation directions. We propose ARBOR, a parameter-efficient method that selects rank-one comp...",
+  "description": "Medical question answering spans specialties and clinical operations that may benefit from different adaptation directions. We propose ARBOR, a parameter-efficient method that selects rank-one components from a shared low-rank basis for each question. An additive gate combines question representations, specialty tags, operation tags, and their interaction; a learned coefficient scales the adapter residual. An illustrative separation under orthogonal, equiprobable subtasks shows how conditional selection can avoid an approximation floor faced by a fixed update with the same active rank. This...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.06765v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-05",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.06765v1"
+    }
+  ],
+  "authors": [
+    "Guangyuan Dong",
+    "Ziwei Hong",
+    "Xuehao Zhou",
+    "Zidong Yu",
+    "Bingchen Liu",
+    "Kehan Liu",
+    "Chuang Liu",
+    "Rong Fu",
+    "Yuchao Hou"
+  ],
+  "paperId": "2610.06765",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-05",
+  "abstract": "Medical question answering spans specialties and clinical operations that may benefit from different adaptation directions. We propose ARBOR, a parameter-efficient method that selects rank-one components from a shared low-rank basis for each question. An additive gate combines question representations, specialty tags, operation tags, and their interaction; a learned coefficient scales the adapter residual. An illustrative separation under orthogonal, equiprobable subtasks shows how conditional selection can avoid an approximation floor faced by a fixed update with the same active rank. This..."
+}

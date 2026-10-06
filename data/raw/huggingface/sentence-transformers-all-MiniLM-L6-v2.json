@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "sentence-transformers/all-MiniLM-L6-v2",
-  "fetchedAt": "2026-10-05T08:49:00.675Z",
+  "fetchedAt": "2026-10-06T08:51:15.389Z",
   "data": {
     "_id": "621ffdc136468d709f180294",
     "id": "sentence-transformers/all-MiniLM-L6-v2",
@@ -57,8 +57,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 235658929,
-    "likes": 6185,
+    "downloads": 235470023,
+    "likes": 6191,
     "modelId": "sentence-transformers/all-MiniLM-L6-v2",
     "author": "sentence-transformers",
     "sha": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
@@ -227,20 +227,18 @@
     ],
     "spaces": [
       "tardellirs/model-pulse",
-      "embedl/hfviewer",
       "mteb/leaderboard",
-      "gaurabdas/issue-lens",
+      "embedl/hfviewer",
+      "SamsLookingGlass/carepolicy-rag",
       "ZySec-AI/ZySec",
-      "Jagukumar/Text-To-Embeddings",
       "pxdelta/RAG",
       "qiang777/c4ai",
       "Safwanahmad619/RAG-CHATBOT",
       "LightRT/pdf_rag",
+      "vinitsingare/ai-news-api",
       "samruddhisadar/gradeops",
-      "sushantkshirsagar/career_conversations",
       "kaustuvkunal/pdf-rag",
       "alperiox/prosodia",
-      "SamsLookingGlass/carepolicy-rag",
       "cvachet/pdf-chatbot",
       "marcosv/InstructIR",
       "JournalistsonHF/ai-scraper",
@@ -325,7 +323,9 @@
       "OuroborosM/STLA-BABY",
       "captain-awesome/Docuverse-zephyr-beta",
       "JDWebProgrammer/chatbot",
-      "Gololias/MetroCuadrado"
+      "Gololias/MetroCuadrado",
+      "KrishnaKumar23/documentQABot",
+      "ABBNikit/Nikit_PDF_Chatbot"
     ],
     "createdAt": "2022-03-02T23:29:05.000Z",
     "safetensors": {

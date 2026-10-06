@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2610-06750",
+  "name": "Balancing Memory Pathways: Analyzing and Improving Memory Utilization in Hybrid LMs",
+  "summary": "Recurrent-attention hybrid language models (LMs), which interleave attention and recurrent layers, are increasingly used to combine the efficiency of the recurrent layers with the strong performanc...",
+  "description": "Recurrent-attention hybrid language models (LMs), which interleave attention and recurrent layers, are increasingly used to combine the efficiency of the recurrent layers with the strong performance of attention layers. Prior work suggests that attention and recurrent layers offer complementary pathways to use past information: attention supports precise memory recall from earlier tokens, while recurrent layers support consolidation of disparate information over long contexts. However, we observe that simply having access to both pathways does not mean that hybrid LMs are effectively using...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.06750v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-05",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2610.06750v1"
+    }
+  ],
+  "authors": [
+    "Hyunji Lee",
+    "Joykirat Singh",
+    "Zaid Khan",
+    "Justin Chih-Yao Chen",
+    "Elias Stengel-Eskin",
+    "Alessandro Sordoni",
+    "Arman Cohan",
+    "Mohit Bansal"
+  ],
+  "paperId": "2610.06750",
+  "category": "cs.CL",
+  "publishedAt": "2026-10-05",
+  "abstract": "Recurrent-attention hybrid language models (LMs), which interleave attention and recurrent layers, are increasingly used to combine the efficiency of the recurrent layers with the strong performance of attention layers. Prior work suggests that attention and recurrent layers offer complementary pathways to use past information: attention supports precise memory recall from earlier tokens, while recurrent layers support consolidation of disparate information over long contexts. However, we observe that simply having access to both pathways does not mean that hybrid LMs are effectively using..."
+}

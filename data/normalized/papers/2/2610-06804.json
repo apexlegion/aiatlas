@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2610-06804",
+  "name": "Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution",
+  "summary": "A language model can give a correct answer more probability than any single incorrect answer and still usually sample an incorrect one, because the incorrect answers together hold more probability....",
+  "description": "A language model can give a correct answer more probability than any single incorrect answer and still usually sample an incorrect one, because the incorrect answers together hold more probability. The power distribution raises each complete answer's probability to a power above one and renormalizes, shifting probability toward answers the model finds most likely (sharpening). Sampling from it improves reasoning without changing parameters, but needs many scored candidates per query. We show that a model can instead be trained to produce such answers in one generation. On-policy power disti...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.06804v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-05",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.06804v1"
+    }
+  ],
+  "authors": [
+    "Erfan Baghaei Potraghloo",
+    "Seyedarmin Azizi",
+    "Arya Fayyazi",
+    "Saeid Shokoufa",
+    "Mehdi Kamal",
+    "Souvik Kundu",
+    "Massoud Pedram"
+  ],
+  "paperId": "2610.06804",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-05",
+  "abstract": "A language model can give a correct answer more probability than any single incorrect answer and still usually sample an incorrect one, because the incorrect answers together hold more probability. The power distribution raises each complete answer's probability to a power above one and renormalizes, shifting probability toward answers the model finds most likely (sharpening). Sampling from it improves reasoning without changing parameters, but needs many scored candidates per query. We show that a model can instead be trained to produce such answers in one generation. On-policy power disti..."
+}

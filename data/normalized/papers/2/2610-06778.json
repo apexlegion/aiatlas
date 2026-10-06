@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2610-06778",
+  "name": "IdeaLens: Detecting AI Ideas in Long-form Writing",
+  "summary": "While modern AI detectors identify who wrote the words, emerging policies on AI use increasingly hinge on a different question: who came up with the ideas? We introduce IdeaLens, a detector that id...",
+  "description": "While modern AI detectors identify who wrote the words, emerging policies on AI use increasingly hinge on a different question: who came up with the ideas? We introduce IdeaLens, a detector that identifies whether a document's ideas came from a human or AI (idea provenance), regardless of who wrote its words. To focus IdeaLens on ideas rather than prose, we represent documents as outlines: lists of items that each pair a discourse role with a brief, paraphrased description of the content, minimizing word-level overlap with the raw text. We train IdeaLens on 1M FineWeb documents with silver...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.06778v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-05",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2610.06778v1"
+    }
+  ],
+  "authors": [
+    "Rishanth Rajendhran",
+    "Minjoon Choi",
+    "Jenna Russell",
+    "Ramya Namuduri",
+    "Deniz Bölöni-Turgut",
+    "Marzena Karpinska",
+    "John Wieting",
+    "Mohit Iyyer"
+  ],
+  "paperId": "2610.06778",
+  "category": "cs.CL",
+  "publishedAt": "2026-10-05",
+  "abstract": "While modern AI detectors identify who wrote the words, emerging policies on AI use increasingly hinge on a different question: who came up with the ideas? We introduce IdeaLens, a detector that identifies whether a document's ideas came from a human or AI (idea provenance), regardless of who wrote its words. To focus IdeaLens on ideas rather than prose, we represent documents as outlines: lists of items that each pair a discourse role with a brief, paraphrased description of the content, minimizing word-level overlap with the raw text. We train IdeaLens on 1M FineWeb documents with silver..."
+}
