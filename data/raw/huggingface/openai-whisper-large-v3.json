@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-10-06T08:51:15.138Z",
+  "fetchedAt": "2026-10-07T08:29:55.515Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4046310,
-    "likes": 6568,
+    "downloads": 3994754,
+    "likes": 6571,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -351,13 +351,14 @@
       "embedl/hfviewer",
       "RyeAI/danish-asr-leaderboard",
       "openai/whisper",
-      "hf-audio/whisper-large-v3",
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "aquanode/gpu-vram-calculator",
+      "hf-audio/whisper-large-v3",
       "Quran-Lab/quranic-asr-leaderboard",
       "krmkayabasi/Anka-TTS",
       "Ganbatte/STT-whisper-large-v3",
       "ghhyhy/my-gaia-agent",
+      "hugging-apps/buzzasr-persian",
       "artificialguybr/Video-Transcription-Smart-Summary",
       "artificialguybr/video-dubbing",
       "sanchit-gandhi/whisper-jax-spaces",
@@ -444,8 +445,7 @@
       "Speedofmastery/orynxml-backend",
       "Yash030/claude-code-proxy",
       "ArtFix0/speech-to-speech-dashboard",
-      "ysharma/gr-workflow-microduck-lab",
-      "geraldadli/speech-emotion-recognition"
+      "ysharma/gr-workflow-microduck-lab"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {

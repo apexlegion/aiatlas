@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-07005v1",
+  "name": "Where Does the Audio Jailbreak Live? A Controlled Frequency-Depth Audit of AdvWave-P on Qwen2-Audio",
+  "summary": "arXiv:2610.07005v1 Announce Type: cross Abstract: We audit frequency and decoder-depth claims for AdvWave-P, an additive audio jailbreak, on Qwen2-Audio. The protocol masks frequency components of...",
+  "description": "arXiv:2610.07005v1 Announce Type: cross Abstract: We audit frequency and decoder-depth claims for AdvWave-P, an additive audio jailbreak, on Qwen2-Audio. The protocol masks frequency components of the perturbation in the short-time Fourier transform (STFT) domain and measures attack success and audio-span representations. On 520 AdvBench prompts, the primary judge labels 76.7% of adversarial in...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.07005"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-07",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.07005"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-07",
+  "expiryAt": "2026-11-06T00:00:00.000Z",
+  "author": "Boyuan Chen, Minseok Kim, Sohaila Abdulsattar, Minghao Shao, Siddharth Garg, Ramesh Karri, Muhammad Shafique"
+}

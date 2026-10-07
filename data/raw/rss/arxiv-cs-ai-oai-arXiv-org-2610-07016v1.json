@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.07016v1",
+  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.07016v1",
+    "title": "Anchor and Adapt: Asymmetric Prompt Adaptation for Few-Shot Industrial Anomaly Detection",
+    "link": "https://arxiv.org/abs/2610.07016",
+    "description": "arXiv:2610.07016v1 Announce Type: cross Abstract: In few-shot industrial anomaly detection, the few normal target images provide no direct defect supervision, making anomaly prompts difficult to learn from these samples alone. Some vision-language methods therefore use manually specified descriptions to supply explicit anomaly semantics. However, constructing these descriptions requires product-specific effort, and their effectiveness depends on prompt selection. We propose Anchor and Adapt, a two-stage prompt learning framework that separates the acquisition of anomaly semantics from adaptation to target normal appearance. Stage I learns transferable normal and abnormal anchors from annotated auxiliary data. Stage II keeps these anchors fixed and adapts an additional normal branch using the few target normal samples. The inherited and adapted normal branches jointly characterize target normality, with text-anchor regularization encouraging consistency with the generic normal prior and separation from the abnormal anchors. This design retains learned anomaly knowledge while reducing dependence on category-specific anomaly templates, without requiring synthetic anomaly generation. Cross-dataset experiments between MVTec-AD and VisA under 1-, 2-, and 4-shot settings demonstrate competitive detection and localization performance. Controlled ablations assess the roles of transferred anchors, asymmetric adaptation, dual-normal representations, and anchor regularization.",
+    "publishedAt": "2026-10-07",
+    "author": "Mengyang Zhao, Teng Fu, Haiyang Yu, Ke Niu, Bin Li, Xiangyang Xue",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

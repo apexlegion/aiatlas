@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-08627v1",
+  "name": "Parallel Predictive World Models for Accurate and Efficient Long-Horizon Planning",
+  "summary": "arXiv:2610.08627v1 Announce Type: new Abstract: Long-horizon world-model planning typically relies on autoregressive rollouts, where predicted states are repeatedly fed back into the model. This pr...",
+  "description": "arXiv:2610.08627v1 Announce Type: new Abstract: Long-horizon world-model planning typically relies on autoregressive rollouts, where predicted states are repeatedly fed back into the model. This preserves temporal structure but creates a horizon-length sequential path and exposes later predictions to recursive decoded-state feedback. We introduce Parallel Predictive World Models (PPWM), which p...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.08627"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-07",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.08627"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-07",
+  "expiryAt": "2026-11-06T00:00:00.000Z",
+  "author": "Wanjin Feng, Baobin Zhang, Ao Yu, Shibo Feng, Xi Wang, Xingyu Gao"
+}

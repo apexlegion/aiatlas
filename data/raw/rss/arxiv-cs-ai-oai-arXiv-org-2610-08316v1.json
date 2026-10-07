@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.08316v1",
+  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.08316v1",
+    "title": "MARCO: The Radioactive Watermark for Protein Generative Models",
+    "link": "https://arxiv.org/abs/2610.08316",
+    "description": "arXiv:2610.08316v1 Announce Type: cross Abstract: Protein Generative Models (PGMs) have revolutionized structural biology by enabling the design of complex 3D protein structures from sequence data. However, this breakthrough introduces a dual-use challenge, exposing high-value PGMs to economic risks like unauthorized model extraction and biosecurity threats such as biohazard synthesis. To mitigate these threats, we propose \\textbf{MARCO} (\\textsc{COnformation waterMARk}), the first radioactive watermarking framework specifically tailored for PGMs. MARCO establishes a Dual-Layer defense that simultaneously protects intellectual property and ensures the forensic traceability of potential biosecurity misuses. (i) To preserve efficiency, MARCO iteratively embeds watermarks during diffusion reverse denoising via an auxiliary encoder-decoder, allowing the original PGM parameters to remain frozen for broad compatibility. (ii) To preserve biophysical fidelity and maximize robustness, we employ specialized loss functions targeting $C_\\alpha$-atom pairwise distances and torsion angles ($\\psi, \\phi$) within an adversarial training framework integrated with stochastic attack simulations. (iii) Crucially, MARCO exhibits ``radioactivity'' where the watermark automatically transfers to the outputs of any pirate models trained on the watermarked data, effectively countering model extraction attacks. Comprehensive experiments demonstrate that MARCO achieves superior fidelity and robustness while successfully validating watermark transferability.",
+    "publishedAt": "2026-10-07",
+    "author": "Huajie Chen, Xin Guo, Yuchen Shi, Yuchen Zhong, Minhui Xue, Chi Liu, Congcong Zhu, Kun Gao, Minfeng Qi, Tianqing Zhu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

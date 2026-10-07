@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-07359v1",
+  "name": "Evaluate the Stack, Not the Layer: Do Deterministic and LLM Gates for Agent Actions Fail Independently?",
+  "summary": "arXiv:2610.07359v1 Announce Type: new Abstract: Runtime gates for agent tool calls are stacked on the assumption that their errors multiply. We test it on 1,119 labelled agent actions from three co...",
+  "description": "arXiv:2610.07359v1 Announce Type: new Abstract: Runtime gates for agent tool calls are stacked on the assumption that their errors multiply. We test it on 1,119 labelled agent actions from three corpora, without an adaptive adversary. The stack has one deterministic rule layer and four LLM judges, three of them re-collected with the served model recorded on every call. We read each stack as a n...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.07359"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-07",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.07359"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-07",
+  "expiryAt": "2026-11-06T00:00:00.000Z",
+  "author": "Chenglin Yang"
+}

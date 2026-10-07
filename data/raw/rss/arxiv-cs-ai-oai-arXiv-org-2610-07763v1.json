@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.07763v1",
+  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.07763v1",
+    "title": "ST-Bench: A Spatial-Temporal Benchmark for Multi-Agent System Generation on Scientific Research Tasks",
+    "link": "https://arxiv.org/abs/2610.07763",
+    "description": "arXiv:2610.07763v1 Announce Type: new Abstract: The rapid progress of LLM-based multi-agent systems (MAS) has shown that they largely outperform single agents on coding, math, and QA tasks, where executable tests provide a binary success signal. Whether this advantage transfers to real scientific data analysis remains untested. We introduce ST-Bench, a benchmark designed to answer two questions: whether MAS outperform single agents on complex scientific data analysis tasks, and if so, by how much and at what additional cost. ST-Bench contains 100 data science tasks adapted from published Earth science studies across hydrology, agriculture, and wetland methane research, expanded into 2,067 queries grounded in additional published studies and validated by domain experts. Using ST-Bench, we evaluate five recent MAS generation methods under two training protocols, against single-agent baselines on the same GPT-5 backbone. Nine of the ten MAS configurations exceed the cheapest single-agent baseline, with the strongest reaching nearly three times its composite score. This gain is primarily attributable to coverage: trained workflows produce realistic numerical metrics on a larger fraction of queries, while the quality of those metrics, conditional on producing realistic output, is comparable to that of the single-agent baseline. The strongest configuration requires approximately four times the single-agent inference time, whereas a more economical workflow captures the majority of the benefit at less than twice the cost. MAS specialization confers measurable benefit on scientific data analysis, but the benefit is conditional rather than universal.",
+    "publishedAt": "2026-10-07",
+    "author": "Qi Cheng, Rongchao Dong, Shengyu Chen, Licheng Liu, Dan Lu, Zhengzhang Chen, Wei Cheng, Yiqun Xie, Haifeng Chen, Xiaowei Jia, Haoyu Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

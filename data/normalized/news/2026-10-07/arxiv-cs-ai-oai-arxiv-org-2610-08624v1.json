@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-08624v1",
+  "name": "Early Memory Selection for Balanced Adam",
+  "summary": "arXiv:2610.08624v1 Announce Type: cross Abstract: We propose a method for choosing the shared memory parameter $\\beta_1=\\beta_2=\\beta$ in Adam from a short pilot training. The selected $\\beta$ rema...",
+  "description": "arXiv:2610.08624v1 Announce Type: cross Abstract: We propose a method for choosing the shared memory parameter $\\beta_1=\\beta_2=\\beta$ in Adam from a short pilot training. The selected $\\beta$ remains fixed during the subsequent full training. A local model of Adam's normalized direction balances sampling variability against the delay introduced by averaging past gradients. This balance gives a...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.08624"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-07",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.08624"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-07",
+  "expiryAt": "2026-11-06T00:00:00.000Z",
+  "author": "Alberto Fern\\'andez-Hern\\'andez, Cristian P\\'erez-Corral, Jose I. Mestre, Manuel F. Dolz, Enrique S. Quintana-Ort\\'i"
+}

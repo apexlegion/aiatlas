@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.18618v3",
+  "fetchedAt": "2026-10-07T08:29:57.035Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.18618v3",
+    "title": "Stochastic Penalty-Barrier Method for Constrained Machine Learning",
+    "link": "https://arxiv.org/abs/2605.18618",
+    "description": "arXiv:2605.18618v3 Announce Type: replace-cross Abstract: Constrained Machine Learning (CML) enables fairness-aware training, physics-informed neural networks, and integration of symbolic domain knowledge into statistical models. In this work, we introduce the Stochastic Penalty-Barrier Method (SPBM) for CML problems. SPBM extends classical penalty and barrier methods by incorporating an exponential averaging of the dual variables, a stabilized penalty schedule, and the Moreau envelope to handle non-smoothness. We analyze the bias that mini-batching introduces in the barrier function and show that the feasible set of the resulting transformed problem is contained within the original one. We compare SPBM with CML baselines across multiple fairness and physics informed neural networks experiments. We find that SPBM is competitive with state-of-the-art methods. We also observe, on our fairness-based computational benchmark, that the per-epoch runtime of CML methods is largely independent of the number of constraints, and within $1.3\\times$ of the per-epoch runtime of regularized Adam, for a number of constraints ranging from $90$ to $9900$.",
+    "publishedAt": "2026-10-07",
+    "author": "Adam Bos\\'ak, Andrii Kliachkin, Gilles Bareilles, Allen Gehret, Allahkaram Shafiei, Jana Lep\\v{s}ov\\'a, Jakub Mare\\v{c}ek",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

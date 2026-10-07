@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.05370v2",
+  "fetchedAt": "2026-10-07T08:29:57.035Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.05370v2",
+    "title": "EnGRICH: Enhancing Generative Reward Modeling with Critiques from Humans",
+    "link": "https://arxiv.org/abs/2610.05370",
+    "description": "arXiv:2610.05370v2 Announce Type: replace Abstract: Generative reward models (GRMs) are important for LLM optimization. Unlike scalar reward models, GRMs generate natural-language critiques alongside preference judgments, providing finer-grained evaluation signals. Their effectiveness depends heavily on critique reliability. However, existing GRM training typically uses final preference correctness as outcome supervision. Because the preference outcome space is highly constrained, unreliable critiques can still yield correct outcomes and thus be reinforced. Recent work leverages human critiques for process supervision, but such critiques are scarce and are often reduced to scalar rewards, leaving their fine-grained evaluative information underutilized. We argue that evaluative criteria learned from human critiques can be generalized to broader outcome-only preference data. To this end, we propose \\textbf{EnGRICH}, a GRM training framework that pairs the GRM with a training-time MetaCritic learned from a small set of human critiques. MetaCritic constructs response-specific rubrics and uses them to evaluate the evidence coverage and correctness of generated critiques. The resulting signals provide both process rewards for fine-grained credit assignment and structured guidance for exploring better critiques. During GRM training, MetaCritic is further optimized to generalize human-grounded evaluative criteria to outcome-only data. At inference, the trained GRM operates independently. Experiments across seven reward-model benchmarks show that EnGRICH consistently improves over competitive baselines, while further analyses validate the effectiveness of its core mechanisms.",
+    "publishedAt": "2026-10-07",
+    "author": "Xuancheng Li, Beining Wang, Haitao Li, Heng Wang, Yujia Zhou, Qingyi Pan, Blaze Chen, Yiqun Liu, Min Zhang, Qingyao Ai",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

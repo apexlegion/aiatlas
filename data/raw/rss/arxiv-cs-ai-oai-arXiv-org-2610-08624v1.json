@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.08624v1",
+  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.08624v1",
+    "title": "Early Memory Selection for Balanced Adam",
+    "link": "https://arxiv.org/abs/2610.08624",
+    "description": "arXiv:2610.08624v1 Announce Type: cross Abstract: We propose a method for choosing the shared memory parameter $\\beta_1=\\beta_2=\\beta$ in Adam from a short pilot training. The selected $\\beta$ remains fixed during the subsequent full training. A local model of Adam's normalized direction balances sampling variability against the delay introduced by averaging past gradients. This balance gives a cubic memory rule, whose two coefficients are estimated from gradient probes at a few pilot checkpoints. The estimator uses the numerator and denominator jointly, preserving their covariance. With a 200-update pilot and sixteen probe gradients at each of four checkpoints, a seed-matched retrospective evaluation on eleven vision and language workloads reduces mean relative validation gap by 40.7% and worst-quarter mean gap by 44.3% against the grid representative of shared $\\beta=0.95$. The mean gap is also 32.3% lower than that of the best constant $\\beta$ chosen across all eleven workloads.",
+    "publishedAt": "2026-10-07",
+    "author": "Alberto Fern\\'andez-Hern\\'andez, Cristian P\\'erez-Corral, Jose I. Mestre, Manuel F. Dolz, Enrique S. Quintana-Ort\\'i",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
