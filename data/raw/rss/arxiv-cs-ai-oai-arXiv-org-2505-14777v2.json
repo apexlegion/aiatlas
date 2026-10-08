@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2505.14777v2",
-  "fetchedAt": "2026-10-07T08:29:57.035Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2505.14777v2",
     "title": "KO: Kinetics-inspired Neural Optimizer with PDE Simulation Approaches",
     "link": "https://arxiv.org/abs/2505.14777",
     "description": "arXiv:2505.14777v2 Announce Type: replace-cross Abstract: The design of effective optimization algorithms for neural networks remains a fundamental challenge, and most existing methods rely on heuristic extensions of gradient-based updates. We introduce KO (Kinetics-inspired Optimizer), a plug-and-play optimization module grounded in kinetic theory and partial differential equations. KO models parameter dynamics as a particle system, augmenting standard gradient updates with stochastic interactions induced by a discretization of the Boltzmann transport equation. This mechanism naturally promotes parameter diversity and mitigates weight condensation, the tendency of parameters to collapse into low-dimensional subspaces, a phenomenon closely associated with degraded generalization. We provide both a rigorous theoretical analysis and a physical interpretation, showing that KO provably increases parameter diversity while preserving convergence guarantees. Extensive experiments on image classification benchmarks (CIFAR-10/100, ImageNet) and large-scale language model pretraining demonstrate that KO consistently improves accuracy over competitive baselines with negligible additional computational cost.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Mingquan Feng, Yixin Huang, Yifan Fu, Shaobo Wang, Junchi Yan",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

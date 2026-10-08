@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.04820v2",
-  "fetchedAt": "2026-10-07T08:29:57.035Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.04820v2",
     "title": "Cost-Aware Hierarchical Multi-Agent Ransomware Detection and Family Attribution under Analysis Budgets",
     "link": "https://arxiv.org/abs/2609.04820",
     "description": "arXiv:2609.04820v2 Announce Type: replace-cross Abstract: Sandbox execution and memory forensics are among the most constrained resources in malware triage. Static analysis can scale to millions of files, whereas dynamic and memory analysis require minutes of analyst controlled infrastructure for each sample. Despite this difference, multimodal ransomware detectors often apply every modality to every sample, causing analysis cost and time to verdict to increase linearly with sample volume even when static evidence is already sufficient for a decision. We present a cost aware Hierarchical Multi-Agent System that formulates evidence acquisition as a budgeted sequential decision problem. Specialist agents generate schema validated risk signals for each modality, domain controllers aggregate these signals, and a Meta-Orchestrator begins with static evidence and escalates to dynamic and memory evidence only when confidence is insufficient or agents within a controller disagree. An optional, bounded, locally hosted large language model reviewer can adjust a verdict by at most one tier but cannot replace the deterministic pipeline. Each decision is recorded with a complete provenance trace. In multiple runs over 12439 samples from 16 ransomware families and benign samples, the deterministic HMAS achieves F1 0.93 and macro F1 0.97, resolving 57.95% of cases using static evidence alone, 35.83% after adding dynamic evidence, and only 6.21% through the full pipeline. The average internal analysis cost is 6.65 units, compared with 12 for exhaustive analysis, representing a 44.6% reduction. Standalone leave-one-family-out testing further shows that accuracy on families held out during tuning falls to 0.26 to 0.64 outside the Benign and high support classes. We report these results alongside a cost sensitivity analysis, a partial leave one component out ablation, and a full scale comparison with learned early and late fusion and cascade baselines.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Mubashar Iqbal, Asifullah Khan, Hifsa Asif, Saddam Hussain Khan, Umme Zahoora, Asifullah Khan",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

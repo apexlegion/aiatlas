@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.08161v1",
-  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.08161v1",
     "title": "Symphony for Text Generation: Benchmarking Clinical Note Generation",
     "link": "https://arxiv.org/abs/2610.08161",
     "description": "arXiv:2610.08161v1 Announce Type: cross Abstract: Ambient documentation systems are rapidly gaining adoption, yet their impact on clinical note quality remains poorly characterized. We introduce MedConv, a multilingual dataset of 300 clinical encounters in English, Danish, and German, and use it alongside the Ambient Clinical Intelligence benchmark (ACI-BENCH) to compare Corti, a clinical AI platform, with two leading, accessible ambient scribe software applications built on general-purpose AI. We present a controlled clinical evaluation framework that combines entailment metrics with LLM-judged pairwise comparisons across eight dimensions adopted from PDSQI-9. Results show that Corti's API-based text-generation infrastructure is on par with or outperforms leading commercial scribes. We further show that Corti's configurable API provides the flexibility necessary to fine-tune quality dimensions for specific documentation use cases. We present the evaluation methodology and release a dataset to support future reproducible comparison of ambient documentation systems.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Daniel Varab, Victor Petr\\'en Bach Hansen, Asbj{\\o}rn W. Helge, Kevin Pelgrims, Mathias Baltzersen, Adrian Young-San Roessler, Vanessa Klungtvedt, Maximilian Brand, Lasse Krogsb{\\o}ll, Henrik Cullen, Lars Maal{\\o}e",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

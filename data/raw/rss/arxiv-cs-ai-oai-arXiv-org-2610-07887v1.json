@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.07887v1",
-  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.07887v1",
     "title": "Visual Abstention in Unified Multimodal Models",
     "link": "https://arxiv.org/abs/2610.07887",
     "description": "arXiv:2610.07887v1 Announce Type: cross Abstract: Unified multimodal models (UMMs) integrate understanding and generation, yet their generative behavior is rarely governed by what they understand about the task. We formalize visual abstention: when a requested visual transformation is impossible under the task's rules, the model should recognize that no valid solution exists, state this, and decline to generate. We introduce Draw-or-Decline (DoD), a benchmark of 1,050 feasible-infeasible request pairs across 7 task categories that jointly measures editing success and the refusal of infeasible requests. Evaluating 8 UMMs, we find that editing ability and abstention are distinct capabilities: even the strongest editor, at 68.4% editing accuracy, refuses only 0.4% of infeasible requests under ordinary instructions. Their reasoning shows why: the models rarely notice the conflict, and instead plan the edit as if the request were possible, often describing objects that are not in the image, or quietly change the request into one they can complete. Explicitly prompting these UMMs to report infeasibility increases textual refusals but reduces editing accuracy. We propose VisTA (Visual Transformation and Abstention), a training method that pairs feasible and infeasible examples so that a model judges feasibility before deciding whether to generate. We train VisTA-BAGEL to perform feasible edits and decline infeasible requests. Without any reminder, it refuses 93.0% of infeasible requests, up from 0.4% for the strongest editor, while falsely refusing only 0.8% of feasible ones. Unlike a reminder, this does not cost editing accuracy: VisTA-BAGEL completes 74.3% of feasible edits, more than any of the 8 evaluated UMMs.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Chufan Shi, Cheng Yang, Tiannuo Yang, Isadora White, Yiwei Chen, Taylor Berg-Kirkpatrick, Xuezhe Ma",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

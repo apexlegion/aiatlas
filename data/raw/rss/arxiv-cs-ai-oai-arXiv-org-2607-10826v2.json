@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.10826v2",
-  "fetchedAt": "2026-10-07T08:29:57.035Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2607.10826v2",
     "title": "3D-DefectBench: A Controlled Factorial Study of Vision-Language Model Evaluation Pipelines for Fine-Grained 3D Generation Defects",
     "link": "https://arxiv.org/abs/2607.10826",
     "description": "arXiv:2607.10826v2 Announce Type: replace-cross Abstract: Automated evaluation is essential for scaling generative 3D systems, where exhaustive human review is costly and slow. Yet the reliability of an automated judge depends on the full evaluation pipeline, including the vision-language model (VLM), asset rendering, visual evidence, task specification, and human reference labels. We introduce 3D-DefectBench, a large-scale benchmark for rigorous evaluation-pipeline analysis. It complements holistic ratings and pairwise preferences with nine fine-grained binary defects spanning geometry, texture, and prompt adherence, with optional human severity annotations. Using a balanced factorial design, we vary the VLM, camera protocol, visual input, and prompt schema across 84 inference designs, and validate the resulting conclusions on a broader set of frontier models. Model choice is the dominant source of variation in agreement with human labels, while other pipeline factors also influence agreement, interact with the model, and can alter the best configuration. A compact six-view RGB protocol performs comparably to denser view sets and configurations augmented with depth or normal channels, making it a strong cost-effective default. Under this fixed design, the best of 12 VLMs still trail trained human labelers, and texture agreement drops sharply from expert-agreement to noisier silver labels. Severity annotations further show that binary judges recover most defects humans flag as severe. These results highlight the importance of evaluating automated judges as complete pipelines and calibrating them across human reference regimes.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Zhenyu Zhao, Nanshan Jia, Jihyeon Je, Yifu Tang, Alvin Chan, Michael Spedden, Michael V. Palleschi, Sui Huang, Jingshen Wang, Zeyu Zheng",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

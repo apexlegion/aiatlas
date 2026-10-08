@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2610-10411",
+  "name": "Training Parallel Speculative Draft Models by Directly Minimizing Expected Decoding Rounds",
+  "summary": "Speculative decoding accelerates large language model inference by using a low-cost draft model to propose tokens that the full-size target model verifies in parallel. Parallel and semi-autoregress...",
+  "description": "Speculative decoding accelerates large language model inference by using a low-cost draft model to propose tokens that the full-size target model verifies in parallel. Parallel and semi-autoregressive (semi- AR) drafters improve drafting efficiency by proposing an entire block in a single forward pass, but training them raises a new difficulty: the draft distribution for a given position depends on where the decoding round starts, and where rounds start depends on how many tokens earlier rounds accepted. Existing training objectives typically rely on block-local surrogates that ignore this...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.10411v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-07",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.10411v1"
+    }
+  ],
+  "authors": [
+    "Yunxiao Zhao",
+    "Changxiao Cai"
+  ],
+  "paperId": "2610.10411",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-07",
+  "abstract": "Speculative decoding accelerates large language model inference by using a low-cost draft model to propose tokens that the full-size target model verifies in parallel. Parallel and semi-autoregressive (semi- AR) drafters improve drafting efficiency by proposing an entire block in a single forward pass, but training them raises a new difficulty: the draft distribution for a given position depends on where the decoding round starts, and where rounds start depends on how many tokens earlier rounds accepted. Existing training objectives typically rely on block-local surrogates that ignore this..."
+}

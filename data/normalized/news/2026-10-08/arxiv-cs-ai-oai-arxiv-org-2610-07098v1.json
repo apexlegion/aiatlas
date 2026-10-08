@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-07098v1",
+  "name": "T-CCL: Resource Efficient and Performant Collective Communication using Tensor Memory Accelerator",
+  "summary": "arXiv:2610.07098v1 Announce Type: cross Abstract: Large transformer-based models increasingly depend on multi-GPU execution, which requires frequent collective communication among GPUs. Existing co...",
+  "description": "arXiv:2610.07098v1 Announce Type: cross Abstract: Large transformer-based models increasingly depend on multi-GPU execution, which requires frequent collective communication among GPUs. Existing communication libraries often rely on many GPU threads to achieve high bandwidth or low latency, resulting in a large streaming multiprocessor (SM)-side resource footprint. This footprint can limit the...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.07098"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-08",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.07098"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-08",
+  "expiryAt": "2026-11-07T00:00:00.000Z",
+  "author": "Keyvan Dadashzadeh, Yuehong Zhou, Minyu Cui, Miquel Pericas"
+}

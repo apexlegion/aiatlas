@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.07535v1",
-  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.07535v1",
     "title": "Disentangling Models from Personas in Heterogeneous LLM Simulations",
     "link": "https://arxiv.org/abs/2610.07535",
     "description": "arXiv:2610.07535v1 Announce Type: cross Abstract: Multi-agent simulations with large language models (LLMs) often operate networks of agents with a single base model. This overlooks the inter-model effects which may dominate engagement dynamics in real-world deployments. To show this, we simulate a heterogeneous social network powered by several different base models and show that the amount of engagement an agent receives depends more on its base model than on its assigned persona. The attraction or repulsion effects of a base model strengthen dramatically when more models are added in the mix, suggesting that networks dynamics may converge to base model effects at scale. To help explain this effect, we conduct a series of content-mediating analyses, showing the predictability of base models across contexts as well as the relationship between a model's lexical patterns and an engagement-maximizing style. In light of recent developments in mass multi-agent interaction, this work underscores the relevance of heterogeneous compositions in driving the outcomes of those networks",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Dani Roytburg, Daphne Ippolito",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

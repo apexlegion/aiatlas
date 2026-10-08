@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.07436v2",
-  "fetchedAt": "2026-10-07T08:29:57.035Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2608.07436v2",
     "title": "Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers",
     "link": "https://arxiv.org/abs/2608.07436",
     "description": "arXiv:2608.07436v2 Announce Type: replace Abstract: Muon-trained modular-arithmetic transformers can lose accuracy while retaining linearly decodable task information. Adjacent swaps localize five captured unnormalized failures to AdamW readout updates. Multiplying the actual readout displacement by the large feature mean produces a class-dependent logit offset shared across inputs that nearly reproduces each failure. Training-only decoders recover 98.20-100% held-out accuracy. Correcting cross-entropy derivative errors stabilizes five matched branches through step 100,000; four prospective accurate-CE RMS runs fail through embedding updates.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Ali Janati, Kaoutar El Maghraoui, Anass Belfatmi",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

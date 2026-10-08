@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.01559v2",
-  "fetchedAt": "2026-10-07T08:29:57.035Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.01559v2",
     "title": "Completion Aware Guidance for World Action Models",
     "link": "https://arxiv.org/abs/2610.01559",
     "description": "arXiv:2610.01559v2 Announce Type: replace-cross Abstract: World Action Models (WAMs) predict visual futures and robot actions, yet they remain susceptible to task-incomplete imagination, where plausible, action-consistent predictions omit the transition needed for task completion. In this paper, we show that this failure is not inherent to the world model backbone, but emerges when adapted for short-chunk control, which can repeatedly favor plausible local continuations over task-completing transitions. To address this, we introduce Completion Aware Guidance (CAG), a training-free sampling method that guides generation toward task completion. Across representative WAMs, CAG improves success from 64% to 70% on a RoboTwin 2.0 subset and from 69% to 75% in zero-shot simulation, while reducing task-incomplete imagination from 79% to 40%.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Seungyeon Kim, Junhoo Lee, Baekseung Kim, Minkyu Kim, Nojun Kwak",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

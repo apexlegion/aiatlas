@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.07663v1",
-  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.07663v1",
     "title": "Joint Workflow and Prompt Optimization for User Behavior Simulation",
     "link": "https://arxiv.org/abs/2610.07663",
     "description": "arXiv:2610.07663v1 Announce Type: cross Abstract: User behavior simulation is the computational modeling of user interactions within information systems through the use of simulated agents in place of live users. It supports system testing and evaluation, decision-making and forecasting, and user experience design. Existing simulators rely on hand-crafted rules or domain expertise that transfers poorly across tasks. SWORD (Simulation-driven Workflow and Prompt Optimization with Role-based Design) is introduced as a framework that jointly optimizes multi-agent workflow topology and natural-language prompts. It is guided solely by a scalar task metric, without domain initialization or task-specific engineering. The experimental results demonstrate that SWORD achieves statistically significant gains over prompt-only, workflow-only, and staged-optimization baselines under a controlled, identical-backbone comparison. Against the strongest published domain-specific baseline, SWORD further improves accuracy while using a smaller backbone model, substantially less training data, and a very reasonable API cost (\\$4--\\$6 for each dataset). Beyond predictive performance, SWORD autonomously discovers domain-relevant signals, review-sentiment mapping rules and epidemiological decay priors, purely from scalar error feedback, establishing textual gradients as a mechanism for unsupervised feature-importance discovery in user behavior modeling.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Nipun B Nair (Monash University), Tongtong Wu (Monash University), Hongzhi Yin (The University of Queensland), Hui Li (Xiamen University), Weiqing Wang (Monash University)",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

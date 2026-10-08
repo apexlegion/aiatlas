@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.20471v2",
-  "fetchedAt": "2026-10-07T08:29:57.035Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2607.20471v2",
     "title": "Benchmarking the Personalization Capabilities of Large Language Models",
     "link": "https://arxiv.org/abs/2607.20471",
     "description": "arXiv:2607.20471v2 Announce Type: replace Abstract: Personalization is classically a two-party problem: a sender chooses what to say, and a receiver with independent objectives decides whether to act. A salesperson pitching the same analytics product leads with HIPAA compliance for a hospital and real-time reporting for a retailer, expecting a different argument to work on each. Existing LLM personalization benchmarks measure a narrower, one-party property: whether output matches the preferences of the same user it serves-sender and receiver being the same, as when RLHF aligns an assistant to its own user. The two-party case is harder to study automatically, since it needs ground truth linking specific content to an observed receiver action. Sales outreach provides this: a message written for one prospect, recorded against whether it produced a reply, a call, or a closed deal. We introduce SDR-Arena, a framework for benchmarking two-party generative personalization at scale, and SDR-Bench, a public corpus of 50,000 customer success stories across 22 industries and 3500 enterprises. Given only pre-outcome information, an agent must reconstruct the arguments that won the deal, scored by a weighted nugget-recall metric (WCS). The best model, Claude Sonnet 4.6, reaches 55.8% WCS indicating it recovers only half the winning content-a plateau we observe across model families that costly deep-research pipelines do not close. An ablation shows the cause is retrieval, not reasoning: models improve substantially given the facts a human researcher would gather, but rarely find them through web search alone. Two studies with professional SDRs support the metric: only 48% of generated pitches were rated usable without editing, and WCS yields model rankings consistent with evaluation against expert strategies authored independently of any model output.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Ashutosh Srivastava, Siddharth Yedlapati, Vinay Aggarwal, Yaman Kumar Singla, Shashwat Dixit, Jitendra Ajmera, Balaji Krishnamurthy",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

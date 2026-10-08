@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.20571v3",
-  "fetchedAt": "2026-10-07T08:29:57.035Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2601.20571v3",
     "title": "Fast and Efficient Asynchronous Gossip Algorithm for Robust and Non-Smooth Convex Decentralized Learning",
     "link": "https://arxiv.org/abs/2601.20571",
     "description": "arXiv:2601.20571v3 Announce Type: replace-cross Abstract: Asynchronous primal-dual methods for decentralized non-smooth convex optimization often require each node to maintain $\\mathcal{O}(d)$ auxiliary variables, where $d$ is its degree. This dependence on degree increases memory requirements and can amplify the effects of stale information, especially in dense networks. Motivated by the challenge of frugal memory management in decentralized learning, we introduce Goal-PD, an asynchronous gossip-based primal-dual algorithm that maintains only two variables per node, regardless of the node's degree. We establish almost-sure convergence of Goal-PD to a minimizer of the underlying optimization problem, and prove linear convergence when the objective functions are piecewise linear-quadratic. For decentralized mean estimation, we show that pairwise averaging is a special case of Goal-PD, which establishes a direct link between the proposed primal-dual framework and classical gossip. Experiments on synthetic and real datasets over various network topologies, with non-smooth objectives including median estimation, show that Goal-PD converges faster than existing asynchronous baselines while requiring significantly less memory by design.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Anna van Elst, Olivier Fercoq, Igor Colin, Stephan Cl\\'emen\\c{c}on",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

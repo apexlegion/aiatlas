@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2508.14748v2",
-  "fetchedAt": "2026-10-07T08:29:57.035Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2508.14748v2",
     "title": "Cross-Modality Controlled Molecule Generation with Diffusion Language Model",
     "link": "https://arxiv.org/abs/2508.14748",
     "description": "arXiv:2508.14748v2 Announce Type: replace-cross Abstract: The increasing variety of molecular data creates a need for generative models that can flexibly incorporate heterogeneous constraints across modalities. However, existing SMILES-based diffusion models are typically designed for a fixed conditioning modality, and introducing new constraints often requires retraining the model. To address this limitation, we propose Cross-Modality Controlled Molecule Generation with Diffusion Language Model (CMCM-DLM), a modular framework that extends a pre-trained diffusion model to support heterogeneous molecular constraints without retraining the backbone. We demonstrate CMCM-DLM using two complementary modalities: molecular structure and chemical properties. Specifically, a Structure Control Module (SCM) guides early diffusion steps to establish the molecular scaffold, while a Property Control Module (PCM) subsequently steers generation toward target chemical properties. This staged design enables flexible integration of different molecular constraints within a unified generative framework. Experiments on multiple datasets demonstrate effective cross-modal controllability and strong adaptability, highlighting the potential of CMCM-DLM for heterogeneous molecular data modeling and data-driven drug discovery.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Yunzhe Zhang, Yifei Wang, Khanh Vinh Nguyen, Pengyu Hong",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

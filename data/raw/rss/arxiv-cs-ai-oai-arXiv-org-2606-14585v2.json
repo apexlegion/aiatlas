@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.14585v2",
-  "fetchedAt": "2026-10-07T08:29:57.035Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2606.14585v2",
     "title": "Sensitivity Shaping for Latent Modeling",
     "link": "https://arxiv.org/abs/2606.14585",
     "description": "arXiv:2606.14585v2 Announce Type: replace-cross Abstract: Generative dynamics models enable planning in challenging systems, but safe deployment requires detecting policy-induced out-of-distribution (OOD) transitions. Existing methods typically treat learned dynamics as fixed and rely on post hoc support surrogates for OOD detection. This overlooks a critical failure mode: learned dynamics that are insensitive to control changes can map unsupported controls to latent predictions resembling demonstrated transitions, suppressing OOD signals despite large prediction errors. We introduce support-conditioned control-sensitivity regularization to preserve control-induced variation by promoting local responsiveness in well-supported training regions. Experiments in vision-based obstacle avoidance, manipulation, and real-robot navigation demonstrate improved OOD detection and safer closed-loop planning.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Hongzhan Yu, Chenghao Li, Ruipeng Zhang, Henrik Christensen, Sicun Gao",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

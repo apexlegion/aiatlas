@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.09885v3",
-  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2604.09885v3",
     "title": "What do your logits know?",
     "link": "https://arxiv.org/abs/2604.09885",
     "description": "arXiv:2604.09885v3 Announce Type: replace Abstract: Recent work has shown that probing model internals can reveal a wealth of information not apparent from the model generations. This poses a risk of unintentional or malicious information leakage, where model users are able to learn information that the model owner assumed was inaccessible. Using vision-language models as a testbed, we present the first systematic comparison of information retained at different representational levels as it is compressed from the rich information encoded in the residual stream through two natural bottlenecks: low-dimensional projections of the residual stream obtained using tuned lens, and the final top-k logits most likely to impact model's answer. We show that even easily accessible bottlenecks defined by the model's top logit values can leak task-irrelevant information present in an image-based query, in some cases revealing as much information as direct projections of the full residual stream.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Masha Fedzechkina, Eleonora Gualdoni, Rita Ramos, Sinead Williamson",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

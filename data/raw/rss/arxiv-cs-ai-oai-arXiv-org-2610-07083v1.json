@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.07083v1",
-  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.07083v1",
     "title": "Graph-Based Recognition of Simulated Train-Driver States From Facial and Upper-Body Keypoints",
     "link": "https://arxiv.org/abs/2610.07083",
     "description": "arXiv:2610.07083v1 Announce Type: cross Abstract: Driver fatigue poses a significant challenge to railway safety, with traditional systems like the dead-man switch offering limited and basic alertness checks. This study presents a vision-based monitoring system that relies solely on a single front-facing RGB camera and a graph neural network to classify simulated train-driver states into alert, not-alert, and an emergency class comprising acted emergency-like behaviours. To optimize input representations for the model, an ablation study was performed, comparing three feature configurations: skeletal-only, facial-only, and a combination of both. Experimental results show that combining facial and skeletal features yields the highest accuracy (81%) for the three-class model under the light condition, outperforming models that use only facial or skeletal features. Furthermore, the combination of facial and skeletal features achieves 99% accuracy in the alert/not alert classification in light condition. Additionally, we introduced a controlled RGB video dataset containing alert, not alert, and acted emergency-like behaviours recorded under three illumination conditions. These contributions represent a step toward passive and non-contact train-driver state recognition based on facial and upper-body dynamics.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Olivia Nocentini, Marta Lagomarsino, Gokhan Solak, Younggeol Cho, Qiyi Tong, Sara Zeynalpour, Marta Lorenzini, Alessandro Ledda, Arash Ajoudani",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.02687v2",
-  "fetchedAt": "2026-10-07T08:29:57.035Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.02687v2",
     "title": "Decoupling Memory from Context: Structured Memory for Token-Efficient Test-Time Continual Learning",
     "link": "https://arxiv.org/abs/2610.02687",
     "description": "arXiv:2610.02687v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly deployed in enterprise, scientific, and medical applications, where agents must incorporate domain-specific knowledge and adapt from experience. Context engineering offers a practical alternative to weight updates by improving model behavior through instructions, strategies, and evidence supplied at inference time. However, adapting context online typically requires a costly trial-and-error process, while queries are often processed independently, preventing useful experience from carrying forward. Memory systems address this limitation by retaining information across interactions, but approaches that continually append information to a shared context face increasing token costs, context-window limits, and performance degradation as the context expands. We introduce a unified formulation of context optimization and show that an agent memory system update can be interpreted as an optimization update procedure over the model's context. This perspective attempts to provide a principled framework for studying memory design and its efficiency. We then propose GraphMemory, a lightweight graph-based memory that accumulates, refines, organizes, and connects reusable strategies. For each query, GraphMemory retrieves only the relevant subgraph, enabling online context adaptation without exposing the model to the entire memory. Under bounded retrieval, the amount of retrieved memory remains constant as the number of processed examples grows. Experiments show that GraphMemory achieves competitive downstream performance while using approximately 81-85% fewer memory-construction tokens than our baselines.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Yehya Farhat, Michael Desmond, Anastasios Kyrillidis",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

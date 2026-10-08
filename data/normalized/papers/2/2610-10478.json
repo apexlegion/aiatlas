@@ -1,0 +1,54 @@
+{
+  "type": "paper",
+  "slug": "2610-10478",
+  "name": "Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models",
+  "summary": "How can we predict which base checkpoint is worth an expensive round of agentic post-training? End-to-end pass@$K$ tests whether successful behavior already appears in a base model's distribution,...",
+  "description": "How can we predict which base checkpoint is worth an expensive round of agentic post-training? End-to-end pass@$K$ tests whether successful behavior already appears in a base model's distribution, but it is a poor fit for agentic coding: many base checkpoints cannot reliably produce the well-formed tool invocation required to complete a task end-to-end. Single-shot or short-horizon tasks avoid these tool-calling failures by collapsing a multi-step interaction into a fixed prompt and a single patch, but they sidestep the core capability we care about: maintaining coherent state over many too...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.10478v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-07",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.10478v1"
+    }
+  ],
+  "authors": [
+    "Tan Yu",
+    "Alexander Bukharin",
+    "Khushi Bhardwaj",
+    "Jennifer Williams",
+    "Zirui Liu",
+    "Jonathan Lingjie Li",
+    "Soumye Singhal",
+    "Joseph Jennings",
+    "Sanjeev Satheesh",
+    "Yash Jain",
+    "Ashish Vaswani",
+    "Venkat Krishna Srinivasan",
+    "Matthew Papakipos",
+    "Hyunwoo Kim",
+    "Jian Zhang",
+    "Oleksii Kuchaiev",
+    "Markus Kliegl",
+    "Mostofa Patwary",
+    "Mohammad Shoeybi",
+    "Bryan Catanzaro",
+    "Jonathan Cohen",
+    "Jiantao Jiao"
+  ],
+  "paperId": "2610.10478",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-07",
+  "abstract": "How can we predict which base checkpoint is worth an expensive round of agentic post-training? End-to-end pass@$K$ tests whether successful behavior already appears in a base model's distribution, but it is a poor fit for agentic coding: many base checkpoints cannot reliably produce the well-formed tool invocation required to complete a task end-to-end. Single-shot or short-horizon tasks avoid these tool-calling failures by collapsing a multi-step interaction into a fixed prompt and a single patch, but they sidestep the core capability we care about: maintaining coherent state over many too..."
+}

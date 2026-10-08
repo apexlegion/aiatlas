@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.08297v1",
-  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.08297v1",
     "title": "Mitigating Concept Drift in QoS Prediction for Teleoperation of Autonomous Vehicles Using Historic Data",
     "link": "https://arxiv.org/abs/2610.08297",
     "description": "arXiv:2610.08297v1 Announce Type: cross Abstract: Teleoperation serves as the fallback solution to autonomous driving but reliable functions of the teleoperation require a certain amount of mobile network resources, which cannot be guaranteed at all times. Therefore, predictive quality of service (pQoS) is introduced as a concept to increase the resilience of the teleoperation. In this paper, based on a data measurement campaign, we propose a prediction framework to prediction two important network KPIs of teleoperation: uplink data-rate and round-trip latency. Furthermore, we introduce a method to alleviate the performance degradation of machine-learning-based prediction models on previously unseen data due to concept drift by incorporating historic data into the prediction pipeline. Additionally, we introduce the metric of critical scenario detection to evaluate the prediction performance specifically for teleoperation.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Xiyan Su, Jianning Gao, Mahmoud Ashri, Frank Diermeyer",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.07389v1",
-  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.07389v1",
     "title": "Inference and learning in sparse autoencoders as natural gradient flow",
     "link": "https://arxiv.org/abs/2610.07389",
     "description": "arXiv:2610.07389v1 Announce Type: cross Abstract: Sparse autoencoders are widely used to uncover interpretable features in neural networks, yet reliable recovery remains difficult when features overlap or activate infrequently. These challenges involve both inferring which features explain an input and learning the dictionary that represents them. Here, we unify inference and dictionary learning as natural-gradient flows on a shared variational free energy. We instantiate this framework as BeFOND, an encoder-free sparse coding model with closed-form inference and learning dynamics. We show how recurrent explaining away reduces interference between overlapping features, while Fisher preconditioning can compensate for the slow learning of rare features. On synthetic data, BeFOND improves dictionary recovery and rare-feature detection, with a growing advantage over amortized baselines as superposition increases. On language-model activations, it improves single-feature concept detection and selective intervention, outperforming pretrained reference SAEs with substantially less training data. Its feature quality continues to improve with dictionary width, whereas the evaluated baselines largely plateau. Together, these results show how improving inference and learning within a unified probabilistic framework can make better use of data and dictionary capacity to interpret and intervene on neural representations.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Hadi Vafaii, Tejas Rao, David Chanin, Thomas Fel, Jacob L. Yates, Bruno Olshausen, David Klindt, Dileep George, Miguel L\\'azaro-Gredilla",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.07434v1",
-  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.07434v1",
     "title": "When Does AI Supervision Help? A Role-Aware Study of Network Fraud Decision Management with Blockchain Auditability",
     "link": "https://arxiv.org/abs/2610.07434",
     "description": "arXiv:2610.07434v1 Announce Type: new Abstract: When does a second artificial intelligence (AI) component improve a primary network-fraud decision rather than add operational burden? We study this question through a role-aware Decider-Supervisor (DS) framework with blockchain auditability, evaluating four directional configurations that combine centralised machine learning, a Federated Averaging (FedAvg)-trained federated meta-model, and Base or Quantized Low-Rank Adaptation (QLoRA) large language model variants. The analysis compares primary-only and supervised decisions using non-hard fraud performance, intervention burden, conditional calibration, traffic-mix and Review-capacity sensitivity, dependability tests, and blockchain lifecycle controls. The deterministic hard gate resolves 89.994% of fraudulent requests, leaving the non-hard population as the main AI decision setting. Conditional validation calibration does not produce a consistently transferable supervisory advantage on deployment replay. DS-3 QLoRA is the least disruptive supervised configuration, but it still underperforms its primary FedAvg stage in F1 and total errors. Across 36 reweighted traffic mixtures, supervision reduces total errors only for DS-4 Base in two extreme high-fraud scenarios. Blockchain tests support digest verification, tamper detection, authorisation, single-use review resolution, and post-finalisation integrity, while exposing a pre-finalisation single-write limitation. The results show that the value of AI supervision depends on role assignment, calibration, escalation policy, traffic composition, and lifecycle controls rather than on the presence of a second model alone.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Saviz Changizi, Nasibeh Mohammadzadeh, Mohammad Shojafar, Rahim Tafazolli",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

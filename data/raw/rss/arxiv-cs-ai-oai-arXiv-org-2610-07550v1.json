@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.07550v1",
-  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.07550v1",
     "title": "Foundation Model-Aided Multi-Agent Reinforcement Learning for Wireless Random Access Network Optimization",
     "link": "https://arxiv.org/abs/2610.07550",
     "description": "arXiv:2610.07550v1 Announce Type: cross Abstract: Random access (RA) is one of the most foundational medium access control (MAC) layer scheduling schemes for handling unpredictable data traffic from multiple terminals. While multi-agent reinforcement learning (MARL) has been explored to optimize RA-based wireless networks, its reliance on experience-driven, distributed policy learning incurs significant training overhead for each optimization task, limiting its feasibility in real-world applications. In this work, we propose to leverage a foundation model (FM) to improve MARL efficiency across diverse RA network optimization tasks. Specifically, we design an FM-aided actor-critic algorithm within a consensus-based decentralized MARL architecture and provide its convergence analysis under local reward exchanges and nonlinear value function approximations to show that our algorithm achieves the same convergence order as the conventional MARL with critic model exchanges and linear approximations. Our numerical results show that our FM-based approach significantly enhances MARL speed for RA network optimization.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Myeung Suk Oh, Zhiyao Zhang, Alvaro Velasquez, Nathaniel D. Bastian, Jia Liu",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

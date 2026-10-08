@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.06877v1",
-  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.06877v1",
     "title": "When Can World Models Recover Physical Laws?",
     "link": "https://arxiv.org/abs/2610.06877",
     "description": "arXiv:2610.06877v1 Announce Type: cross Abstract: Accurate prediction does not establish that a world model has recovered a physical law: distinct dynamics can generate identical records under the same observation protocol. We formulate law recovery on a fixed physical domain under an explicit catalog of experiments, sensor uncertainty, and an acquisition budget. A rate--distortion converse separates the information needed to describe a law from the information the apparatus can reveal. Its constructive counterpart gives a finite response codebook and an explicit decoding budget. On compact world classes, uniform recovery is possible exactly when every pair of different laws is experimentally distinguishable; equivalently, the apparatus can recover all the entropy of every finite law source. An inverse response modulus quantifies stability. For Lipschitz fields on a $d$-dimensional state--action domain, noisy full-state readouts after resets require minimax budget $\\Theta(\\varepsilon^{-(d+4)/2})$ for squared law error $\\varepsilon$, compared with $\\Theta(\\varepsilon^{-(d+2)/2})$ for direct field observations. Exact crossing-time symmetries establish the lower bound under adaptive experiment selection and arbitrary durations with constant inputs. Reproducible synthetic cases illustrate the separate roles of intervention, calibration, and repeated measurement. Together, the results identify which evidence supports a claim of physical-law recovery and the cost of acquiring it.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Ye Yuan, Jun Liu",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-07470v1",
+  "name": "Structure, Not Belief: Correlated Thompson Sampling from LLM-Derived Covariance in Combinatorial Semi-Bandits",
+  "summary": "arXiv:2610.07470v1 Announce Type: cross Abstract: Combinatorial Thompson sampling (CTS) draws independent posterior samples for every arm, so its exploration dynamics ignore any relation among arms...",
+  "description": "arXiv:2610.07470v1 Announce Type: cross Abstract: Combinatorial Thompson sampling (CTS) draws independent posterior samples for every arm, so its exploration dynamics ignore any relation among arms. We study a minimal change to those dynamics: an LLM is queried once for a partition of the arms, the partition becomes a positive-definite correlation matrix $\\Sigma$ through an RBF kernel on cluste...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.07470"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-08",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.07470"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-08",
+  "expiryAt": "2026-11-07T00:00:00.000Z",
+  "author": "Vikram Kakaria, Anish Kataria, Anany Kotawala"
+}

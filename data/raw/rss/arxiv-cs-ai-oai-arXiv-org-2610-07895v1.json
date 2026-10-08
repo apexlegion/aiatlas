@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.07895v1",
-  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.07895v1",
     "title": "Textual Environmental Context and Spatial Graphs for LLM-Based Regional SST Forecasting",
     "link": "https://arxiv.org/abs/2610.07895",
     "description": "arXiv:2610.07895v1 Announce Type: new Abstract: Sea surface temperature (SST) forecasting depends on local temporal persistence, regional spatial dependence, and environmental conditions that evolve with the forecast date. We study how these heterogeneous conditions can be presented to a large language model (LLM) for regional multi-step forecasting without serializing the full SST grid as text. We formulate forecasting as conditional numerical generation: historical SST and anomaly sequences, date-aligned environmental records, and static ocean knowledge form a textual context, while regional spatial state is supplied through continuous graph-derived prefixes. A static graph encodes persistent geographic--climatological relations, and a dynamic graph encodes recent SST correlations and localized tropical-cyclone influence. Two graph neural networks produce a target-node representation that is mapped by a spatial-prefix fusion and injected into the LLM input. On SST forecasting in the South China Sea, the complete configuration achieves the best MAE and $\\Rtwo$ among the compared methods over ten forecast steps. Alongside the numerical forecast, a rule-based module matches predicted trends and environmental-factor directions with knowledge entries to return source-linked, post-hoc contextual explanations.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Xiong Li, Xiaowei Zhou, Yanwei Yu, Qian Cui, Junyu Dong",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

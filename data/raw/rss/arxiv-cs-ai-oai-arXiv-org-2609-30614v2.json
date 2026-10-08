@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.30614v2",
-  "fetchedAt": "2026-10-07T08:29:57.035Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.30614v2",
     "title": "Subjects, Not Authors: The Authorship Hazard in Agentic Dataspaces",
     "link": "https://arxiv.org/abs/2609.30614",
     "description": "arXiv:2609.30614v2 Announce Type: replace-cross Abstract: Dataspace connectors decide whether a transfer may occur, not what the transferred value contains, tolerable for contracted applications, not for LLM agents that compose tool calls. Work on agents that generate governance artifacts evaluates output quality, not who may authorize an artifact for use. A published policy is what the decision point enforces, so publication is a governance event, and agents that are both policy subjects and policy authors write the norms that bind them. We name this the authorship hazard and state one principle: an agent is a subject of the governance plane, never an author of it. Its authorization channel to publication is closed by construction; its influence channel, drafting what humans approve, becomes an enforcement problem. Across 90 preregistered edits to the paper's running agreement, each evaluated on 344,512 requests, the six that only reclassify a field all change authorization and narrow a duty without touching policy text, and a policy-diff classifier passes all six. Read as worded, the privilege-delta conditions also pass 33 of 69 effective policy-text edits; read as covering any relaxation, none. Treating classification as authorship routes all six to review; the registry this requires is not yet built. At the execution boundary, protected fields reach the model in 105 of 105 cases under prompt-stated duties and in 0 of 105 under a compiled tool-call constraint, but values outside named fields are exposed in 7 of 7. At the review share measured, a central approval pool needs one approver per 20 to 138 participants.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Seungho Lee, Changbin Lee",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

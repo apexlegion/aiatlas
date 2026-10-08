@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2610-10437",
+  "name": "Q-Learning with Scalar Adjoint Matching",
+  "summary": "Flow policies capture rich and diverse action distributions, and fine-tuning them with off-policy RL to improve beyond the demonstrations has drawn growing interest. However, fine-tuning a flow pol...",
+  "description": "Flow policies capture rich and diverse action distributions, and fine-tuning them with off-policy RL to improve beyond the demonstrations has drawn growing interest. However, fine-tuning a flow policy against a learned value function is not trivial, because the policy generates its action over many flow steps. Adjoint matching offers a principled way to update the flow model itself by propagating value information from the final action back to each flow step, but it requires a vector--Jacobian product through the policy at every step, a cost that grows with the number of flow steps and the...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.10437v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-07",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.10437v1"
+    }
+  ],
+  "authors": [
+    "Yonghoon Dong",
+    "Minsung Yoon",
+    "Jaehyuk Kim",
+    "Jungwoo Park",
+    "Changyeon Kim",
+    "Jinwoo Shin"
+  ],
+  "paperId": "2610.10437",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-07",
+  "abstract": "Flow policies capture rich and diverse action distributions, and fine-tuning them with off-policy RL to improve beyond the demonstrations has drawn growing interest. However, fine-tuning a flow policy against a learned value function is not trivial, because the policy generates its action over many flow steps. Adjoint matching offers a principled way to update the flow model itself by propagating value information from the final action back to each flow step, but it requires a vector--Jacobian product through the policy at every step, a cost that grows with the number of flow steps and the..."
+}

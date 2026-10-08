@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.07093v1",
-  "fetchedAt": "2026-10-07T08:29:57.034Z",
+  "fetchedAt": "2026-10-08T08:46:27.666Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.07093v1",
     "title": "Small Language Models for Smart Data Model Classification at the Edge: A Cost-Aware Hybrid Approach",
     "link": "https://arxiv.org/abs/2610.07093",
     "description": "arXiv:2610.07093v1 Announce Type: new Abstract: The rapid proliferation of heterogeneous data sources within the Internet of Things (IoT) across domains such as smart cities, energy management, and environmental monitoring necessitates efficient and scalable data standardization methods. Effective classification of smart data models (SDMs) is essential for facilitating interoperability. However, existing approaches are often limited by high resource consumption and lack applicability in edge environments with constrained computational capabilities. Aiming to bridge this gap, the proposed study evaluates the performance of lightweight open-source language models (LMs) to resolve an input data entity against its corresponding best fitting SDM representation under resource-constrained conditions. It systematically benchmarks a diverse array of models, including general purpose (GP), reasoning-specialized (RS), and code-specialized (CS) architectures, across multiple domain-specific datasets. Addressing the current omission of lightweight, resource-efficient solutions in the literature, the investigation provides significant and valuable insights into model selection, task formulation, and deployment strategies that optimize accuracy and efficiency. A complementary experiment also compares the surveyed large language models (LLMs) against two near-zero-cost similarity baselines (Term Frequency-Inverse Document Frequency (TF-IDF) and a lightweight sentence encoder) on the same task, providing a strong reference point for interpreting the practical value of LLM-based classification on edge platforms.",
-    "publishedAt": "2026-10-07",
+    "publishedAt": "2026-10-08",
     "author": "Cristian Martella, Angelo Martella, Antonella Longo, Motaz Saad",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"
