@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.05315v2",
+  "fetchedAt": "2026-10-09T08:49:43.634Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.05315v2",
+    "title": "LoRi: Low-Rank Distillation for Implicit Reasoning",
+    "link": "https://arxiv.org/abs/2606.05315",
+    "description": "arXiv:2606.05315v2 Announce Type: replace-cross Abstract: Implicit chain-of-thought (iCoT) methods aim to internalize reasoning in large language models, but often underperform explicit CoT prompting. We empirically find that hidden-state reasoning trajectories exhibit low-rank structure. Motivated by this observation, we propose a low-rank distillation framework that transfers reasoning by aligning teacher and student trajectories in a shared low-rank tensor subspace using first- and second-order statistics. The resulting formulation captures the global structure of reasoning while supporting a compact latent reasoning process. We evaluate the method across multiple model families, including LLaMA and Qwen, at different scales on mathematical reasoning benchmarks. Our approach consistently improves performance, especially on challenging multi-step tasks, approaching explicit CoT accuracy and outperforming prior iCoT distillation methods.",
+    "publishedAt": "2026-10-09",
+    "author": "Ryan Solgi, Jiayi Tian, Zheng Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

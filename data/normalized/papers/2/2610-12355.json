@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2610-12355",
+  "name": "Distilling Routed 3D Privilege for Spatial Reasoning in Vision-Language Models",
+  "summary": "Spatial reasoning remains a persistent weakness of vision-language models (VLMs), because RGB inputs do not directly provide geometric evidence. Existing remedies either inject 3D into the model at...",
+  "description": "Spatial reasoning remains a persistent weakness of vision-language models (VLMs), because RGB inputs do not directly provide geometric evidence. Existing remedies either inject 3D into the model at inference, paying architecture and latency costs, or train with outcome rewards that supervise only the final answer. Spatial errors originate in perception: a misjudged depth or direction can be corrected only by the scene's true geometry, which the 3D-scanned sources of spatial training corpora already provide. We propose GPD (Geometry-Privileged Distillation), which makes geometric evidence th...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.12355v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-08",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.12355v1"
+    }
+  ],
+  "authors": [
+    "Hongxing Li",
+    "Yixin Li",
+    "Dingming Li",
+    "Zixuan Wang",
+    "Yuchen Yan",
+    "Wenqi Zhang",
+    "Weiming Lu",
+    "Yongliang Shen"
+  ],
+  "paperId": "2610.12355",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-08",
+  "abstract": "Spatial reasoning remains a persistent weakness of vision-language models (VLMs), because RGB inputs do not directly provide geometric evidence. Existing remedies either inject 3D into the model at inference, paying architecture and latency costs, or train with outcome rewards that supervise only the final answer. Spatial errors originate in perception: a misjudged depth or direction can be corrected only by the scene's true geometry, which the 3D-scanned sources of spatial training corpora already provide. We propose GPD (Geometry-Privileged Distillation), which makes geometric evidence th..."
+}

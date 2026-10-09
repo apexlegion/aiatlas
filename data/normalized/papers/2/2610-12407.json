@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2610-12407",
+  "name": "LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC",
+  "summary": "World action models (WAMs) predict actions and future observations, typically from a reconstruction-based representation that carries noisy, redundant information which can complicate downstream pr...",
+  "description": "World action models (WAMs) predict actions and future observations, typically from a reconstruction-based representation that carries noisy, redundant information which can complicate downstream predictions. We introduce LeWAM, a bidirectional transformer for forward, backward, inverse dynamics and policy prediction, on a decoder-free JEPA latent trained end-to-end through all four modes. We see the following benefits: 1) Alignment: linear probes read robot and object state from LeWAM's latent better than from a regular Le World Model (a forward-only JEPA world model), while the latent igno...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.12407v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-08",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2610.12407v1"
+    }
+  ],
+  "authors": [
+    "Shashank Hegde",
+    "Alexander Popov",
+    "Elie Aljalbout",
+    "Nikolai Smolyanskiy"
+  ],
+  "paperId": "2610.12407",
+  "category": "cs.RO",
+  "publishedAt": "2026-10-08",
+  "abstract": "World action models (WAMs) predict actions and future observations, typically from a reconstruction-based representation that carries noisy, redundant information which can complicate downstream predictions. We introduce LeWAM, a bidirectional transformer for forward, backward, inverse dynamics and policy prediction, on a decoder-free JEPA latent trained end-to-end through all four modes. We see the following benefits: 1) Alignment: linear probes read robot and object state from LeWAM's latent better than from a regular Le World Model (a forward-only JEPA world model), while the latent igno..."
+}

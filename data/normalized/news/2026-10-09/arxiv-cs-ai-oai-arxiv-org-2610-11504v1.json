@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-11504v1",
+  "name": "The Operator Mismatch Problem: Deploying BEV Perception with Portable GPU Compute",
+  "summary": "arXiv:2610.11504v1 Announce Type: new Abstract: Modern autonomous driving systems rely on bird's-eye-view (BEV) perception models that fuse camera and LiDAR inputs to detect objects in 3D space. Th...",
+  "description": "arXiv:2610.11504v1 Announce Type: new Abstract: Modern autonomous driving systems rely on bird's-eye-view (BEV) perception models that fuse camera and LiDAR inputs to detect objects in 3D space. These models are accurate, but they cannot be deployed through standard inference runtimes. The reason is an operator mismatch between dense convolutions (which runtimes handle well), sparse 3D convolut...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.11504"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-09",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.11504"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-09",
+  "expiryAt": "2026-11-08T00:00:00.000Z",
+  "author": "Rohit Verma, Anand V Bodas"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-11989v1",
+  "name": "MetaOPD: Meta-Learned Token Weighting for On-Policy Distillation",
+  "summary": "arXiv:2610.11989v1 Announce Type: new Abstract: On-policy distillation (OPD) trains a student on its own generated responses using token-level teacher supervision. However, uniform weighting overlo...",
+  "description": "arXiv:2610.11989v1 Announce Type: new Abstract: On-policy distillation (OPD) trains a student on its own generated responses using token-level teacher supervision. However, uniform weighting overlooks differences in token learning value, while existing weighting methods rely on predefined mappings from prediction signals to token weights. These mappings are not learned from the effectiveness of...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.11989"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-09",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.11989"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-09",
+  "expiryAt": "2026-11-08T00:00:00.000Z",
+  "author": "Zipeng Wang, Xinpeng Dong, Yuefan Wang, Pingchen Lu, Xian Wei, Kun Kuang, Fei Wu, Zhongxiang Dai, Min Zhang"
+}

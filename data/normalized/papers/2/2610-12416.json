@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2610-12416",
+  "name": "MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances",
+  "summary": "Generating realistic human-object interactions (HOI) in complex 3D scenes requires two complementary capabilities: reasoning about interaction feasibility in the environment and synthesizing realis...",
+  "description": "Generating realistic human-object interactions (HOI) in complex 3D scenes requires two complementary capabilities: reasoning about interaction feasibility in the environment and synthesizing realistic human-object motion. However, supervision for these capabilities is rarely available jointly at scale. Human-scene datasets provide rich information about environment-aware motion, while human-object datasets capture detailed interaction dynamics, yet paired human-object-scene data remain scarce. We present MAMHOI, an affordance-mediated factorization for scene-aware human-object interaction g...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.12416v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-08",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.12416v1"
+    }
+  ],
+  "authors": [
+    "Mingyuan Lei",
+    "Yoonchang Sung",
+    "Tat-Jen Cham"
+  ],
+  "paperId": "2610.12416",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-08",
+  "abstract": "Generating realistic human-object interactions (HOI) in complex 3D scenes requires two complementary capabilities: reasoning about interaction feasibility in the environment and synthesizing realistic human-object motion. However, supervision for these capabilities is rarely available jointly at scale. Human-scene datasets provide rich information about environment-aware motion, while human-object datasets capture detailed interaction dynamics, yet paired human-object-scene data remain scarce. We present MAMHOI, an affordance-mediated factorization for scene-aware human-object interaction g..."
+}

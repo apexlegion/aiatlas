@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-12250v1",
+  "name": "How Much Audio Is Left In An Embedding? An Inversion Audit Of Audio Encoders",
+  "summary": "arXiv:2610.12250v1 Announce Type: cross Abstract: Pretrained audio encoders are reused for downstream tasks that are often unknown when the encoder is trained, so their usefulness depends partly on...",
+  "description": "arXiv:2610.12250v1 Announce Type: cross Abstract: Pretrained audio encoders are reused for downstream tasks that are often unknown when the encoder is trained, so their usefulness depends partly on which signal properties survive the pretext objective. We study this retained information through paired source reconstruction. Using a shared Stable Audio Open latent diffusion decoder, we reconstru...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.12250"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-09",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.12250"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-09",
+  "expiryAt": "2026-11-08T00:00:00.000Z",
+  "author": "Marios Glytsos, Brian McFee"
+}

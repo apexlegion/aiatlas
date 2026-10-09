@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2604-21231v3",
+  "name": "SparKV: Overhead-Aware KV Cache Loading for Efficient On-Device LLM Inference",
+  "summary": "arXiv:2604.21231v3 Announce Type: replace-cross Abstract: Efficient inference for on-device Large Language Models (LLMs) remains challenging due to limited hardware resources and the high cost of t...",
+  "description": "arXiv:2604.21231v3 Announce Type: replace-cross Abstract: Efficient inference for on-device Large Language Models (LLMs) remains challenging due to limited hardware resources and the high cost of the prefill stage, which processes the full input context to construct Key-Value (KV) caches. We present SparKV, an adaptive KV loading framework that combines cloud-based KV streaming with on-device c...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2604.21231"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-09",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2604.21231"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-09",
+  "expiryAt": "2026-11-08T00:00:00.000Z",
+  "author": "Hongyao Liu, Liuqun Zhai, Junyi Wang, Zhengru Fang, Jingshu Chen, Jun Huang"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.19523v2",
+  "fetchedAt": "2026-10-09T08:49:43.634Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.19523v2",
+    "title": "EconSkills: Studying Skill Transfer and Retrieval for Web Agents on Live Economic Data",
+    "link": "https://arxiv.org/abs/2609.19523",
+    "description": "arXiv:2609.19523v2 Announce Type: replace Abstract: Web agents often revisit the same sites, yet most evaluations discard the procedures learned in earlier successful interactions. We introduce EconSkills, a skill library and evaluation framework that distills verified EconWebArena trajectories into parameterized standard operating procedures for retrieving live economic data. Each skill records its scope, navigation procedure, site-specific guidance, verification checks, and recovery steps while replacing source-instance values with placeholders. EconSkills separates two questions: whether a known relevant procedure transfers to a held-out task, and whether an agent can retain that benefit when selecting from a library. In controlled transfer, matched skills improve success over no-skill prompting and require fewer steps on paired successes. Under the evaluated prompt formats, the parameterized skill prompt substantially outperforms the corresponding raw-trajectory prompt. With the full 50-skill library, retrieval is competitive with the no-skill baseline overall and performs best on tasks with a direct family match; approximate matches on other tasks offset these gains. Browser trajectories further identify when procedural guidance shortens portal-specific navigation and when semantic verification remains necessary. These results establish that reusable economic web procedures can transfer across task instances and provide a concrete design target for match-aware selection and context delivery.",
+    "publishedAt": "2026-10-09",
+    "author": "Yinzhu Quan, Zefang Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

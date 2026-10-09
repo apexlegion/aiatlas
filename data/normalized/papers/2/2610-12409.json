@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2610-12409",
+  "name": "Searching for \"Harmful Refusal\": A Psychometric Audit of an AI Safety Benchmark",
+  "summary": "Safety benchmarks typically report one overall score for a suite of datasets, each of which may target one or more safety-related attributes, so models with similar overall scores can have very dif...",
+  "description": "Safety benchmarks typically report one overall score for a suite of datasets, each of which may target one or more safety-related attributes, so models with similar overall scores can have very different attribute profiles. Comparing models is more tractable at the level of individual attributes, yet it is often unclear whether even a single dataset's scores isolate any single attribute. One plausible candidate for such an attribute is harmful refusal, a model's tendency to refuse dangerous or policy-violating prompts. We examine whether it constitutes a single, measurable attribute in HELM...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.12409v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-08",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.12409v1"
+    }
+  ],
+  "authors": [
+    "Christopher M. Stewart",
+    "Preston Botter",
+    "Natalie Sarabosing",
+    "Muye Zhang",
+    "Rachel Phinnemore",
+    "Shalini Ghosh",
+    "Hong Shen",
+    "Hoda Heidari"
+  ],
+  "paperId": "2610.12409",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-08",
+  "abstract": "Safety benchmarks typically report one overall score for a suite of datasets, each of which may target one or more safety-related attributes, so models with similar overall scores can have very different attribute profiles. Comparing models is more tractable at the level of individual attributes, yet it is often unclear whether even a single dataset's scores isolate any single attribute. One plausible candidate for such an attribute is harmful refusal, a model's tendency to refuse dangerous or policy-violating prompts. We examine whether it constitutes a single, measurable attribute in HELM..."
+}

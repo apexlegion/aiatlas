@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2610-12399",
+  "name": "SpaceFlow: Locally Controllable 3D Generation",
+  "summary": "Current 3D generation methods lack explicit local control: geometric adherence is often defined by a global control strength, and appearance cannot be specified locally. We present SpaceFlow, a tra...",
+  "description": "Current 3D generation methods lack explicit local control: geometric adherence is often defined by a global control strength, and appearance cannot be specified locally. We present SpaceFlow, a training-free pipeline for locally controllable 3D generation from text descriptions and a collection of geometric primitives. Each primitive serves as a proxy for an object part and is assigned a local control level, enabling users to specify whether regions should strictly follow the input shape or allow generative completion. During structure generation, we enforce these spatial constraints within...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.12399v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-08",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.12399v1"
+    }
+  ],
+  "authors": [
+    "Neil De La Fuente",
+    "Joan Lafuente",
+    "Mukhammadali Sayfiddinov",
+    "Felicia Scharitzer",
+    "Marc Pollefeys",
+    "Ata Celen",
+    "Sayan Deb Sarkar",
+    "Elisabetta Fedele"
+  ],
+  "paperId": "2610.12399",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-08",
+  "abstract": "Current 3D generation methods lack explicit local control: geometric adherence is often defined by a global control strength, and appearance cannot be specified locally. We present SpaceFlow, a training-free pipeline for locally controllable 3D generation from text descriptions and a collection of geometric primitives. Each primitive serves as a proxy for an object part and is assigned a local control level, enabling users to specify whether regions should strictly follow the input shape or allow generative completion. During structure generation, we enforce these spatial constraints within..."
+}

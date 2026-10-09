@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2407-00079v5",
+  "name": "Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving",
+  "summary": "arXiv:2407.00079v5 Announce Type: replace-cross Abstract: Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. It features a KVCache-centric disaggregated archi...",
+  "description": "arXiv:2407.00079v5 Announce Type: replace-cross Abstract: Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI. It features a KVCache-centric disaggregated architecture that separates the prefill and decoding clusters. It also leverages the underutilized CPU, DRAM, and SSD resources of the GPU cluster to implement a disaggregated cache of KVCache. The core of...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2407.00079"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-09",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2407.00079"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-09",
+  "expiryAt": "2026-11-08T00:00:00.000Z",
+  "author": "Ruoyu Qin, Zheming Li, Weiran He, Mingxing Zhang, Yongwei Wu, Weimin Zheng, Xinran Xu"
+}

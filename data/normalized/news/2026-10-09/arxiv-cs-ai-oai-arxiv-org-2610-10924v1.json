@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-10924v1",
+  "name": "The Missing Fourth Term for the Emulation Tensor Memory Equilibrium (TME) Model: The Residue Deconstruction Cost",
+  "summary": "arXiv:2610.10924v1 Announce Type: cross Abstract: The Tensor-Memory Equilibrium (TME) model of \"FP8 is All You Need (Part 1)\" calculates the execution time of Ozaki Scheme II emulation of fp64 as t...",
+  "description": "arXiv:2610.10924v1 Announce Type: cross Abstract: The Tensor-Memory Equilibrium (TME) model of \"FP8 is All You Need (Part 1)\" calculates the execution time of Ozaki Scheme II emulation of fp64 as the maximum of a tensor-core term and a High-Bandwidth Memory (HBM) traffic term, plus a per-output reconstruction term. However, it omits the per-input deconstruction cost: every streamed fp64 operand...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.10924"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-09",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.10924"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-09",
+  "expiryAt": "2026-11-08T00:00:00.000Z",
+  "author": "Harun Bayraktar, John Gunnels, Peter Caday"
+}
