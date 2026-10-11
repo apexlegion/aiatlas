@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-10-10T08:22:01.083Z",
+  "fetchedAt": "2026-10-11T08:38:29.563Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 3791795,
-    "likes": 6587,
+    "downloads": 3736920,
+    "likes": 6589,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -350,13 +350,14 @@
       "mteb/leaderboard",
       "embedl/hfviewer",
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
-      "openai/whisper",
       "aquanode/gpu-vram-calculator",
+      "openai/whisper",
       "RyeAI/danish-asr-leaderboard",
       "Ganbatte/STT-whisper-large-v3",
       "Metric-AI/ArmBench-ASR",
       "ghhyhy/my-gaia-agent",
       "BuzzASR/buzzasr-persian",
+      "fastgpu/vram-and-gpu-cost-calculator",
       "hf-audio/whisper-large-v3",
       "artificialguybr/Video-Transcription-Smart-Summary",
       "artificialguybr/video-dubbing",
@@ -444,8 +445,7 @@
       "ganga4364/stt-tibetan",
       "ghourmetto/openai-whisper-large-v3",
       "Speedofmastery/orynxml-backend",
-      "Yash030/claude-code-proxy",
-      "ArtFix0/speech-to-speech-dashboard"
+      "Yash030/claude-code-proxy"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {

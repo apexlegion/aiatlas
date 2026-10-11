@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "mistralai/Mistral-7B-v0.1",
-  "fetchedAt": "2026-10-10T08:22:00.582Z",
+  "fetchedAt": "2026-10-11T08:38:29.059Z",
   "data": {
     "_id": "650aedb6238a644cb93a52c3",
     "id": "mistralai/Mistral-7B-v0.1",
@@ -23,7 +23,7 @@
       "text-generation-inference",
       "region:us"
     ],
-    "downloads": 451055,
+    "downloads": 377192,
     "likes": 4186,
     "modelId": "mistralai/Mistral-7B-v0.1",
     "author": "mistralai",
@@ -124,12 +124,13 @@
     "spaces": [
       "tardellirs/model-pulse",
       "embedl/hfviewer",
-      "Vokturz/can-it-run-llm",
       "aquanode/gpu-vram-calculator",
-      "AlexWortega/transformer-xray",
+      "Vokturz/can-it-run-llm",
       "overhead520/LLM-Settings-Guide",
       "bhaskartripathi/LLM_Quantization",
       "EuroEval/euroeval_leaderboard",
+      "AlexWortega/transformer-xray",
+      "fastgpu/vram-and-gpu-cost-calculator",
       "VIDraft/global-llm-leaderboard",
       "seawolf2357/LLM_Quantization",
       "eduagarcia/open_pt_llm_leaderboard",
@@ -220,8 +221,7 @@
       "Cherylin/clm_chincher",
       "Noveumai/NovaEval",
       "GrimsenClory/mfer-gguf",
-      "DRDELATV/gpt-local",
-      "duoemo/ai-agent-demo"
+      "DRDELATV/gpt-local"
     ],
     "createdAt": "2023-09-20T13:03:50.000Z",
     "safetensors": {
