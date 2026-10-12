@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2610-13735",
+  "name": "Orthros: Phase-Aware Heterogeneous Attention for Efficient Transformers",
+  "summary": "Efficient attention mechanisms, such as linear and sliding window attention, aim to reduce the computational complexity of Transformers from quadratic to linear. However, their degraded in-context...",
+  "description": "Efficient attention mechanisms, such as linear and sliding window attention, aim to reduce the computational complexity of Transformers from quadratic to linear. However, their degraded in-context recall often necessitates interleaving full attention layers, leaving the quadratic bottleneck unresolved in long-context processing. To address this, we introduce Orthros attention, which shifts the efficiency paradigm from structural allocation to phase-aware decoupling. As a unified module, it dynamically switches its computation pattern across different phases of sequence processing, enabling...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.13735v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-09",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.13735v1"
+    }
+  ],
+  "authors": [
+    "Yuhong Chou",
+    "Zehao Liu",
+    "Yuqi Pan",
+    "Qian Liu",
+    "Xianwei Chen",
+    "Zhongzhu Zhou",
+    "Jibin Wu"
+  ],
+  "paperId": "2610.13735",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-09",
+  "abstract": "Efficient attention mechanisms, such as linear and sliding window attention, aim to reduce the computational complexity of Transformers from quadratic to linear. However, their degraded in-context recall often necessitates interleaving full attention layers, leaving the quadratic bottleneck unresolved in long-context processing. To address this, we introduce Orthros attention, which shifts the efficiency paradigm from structural allocation to phase-aware decoupling. As a unified module, it dynamically switches its computation pattern across different phases of sequence processing, enabling..."
+}

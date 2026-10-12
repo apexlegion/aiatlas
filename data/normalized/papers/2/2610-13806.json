@@ -1,0 +1,42 @@
+{
+  "type": "paper",
+  "slug": "2610-13806",
+  "name": "FORTE: A Production Framework for Feature Evaluation and Deprecation in Industrial Recommender Systems",
+  "summary": "Production recommender systems have feature-lifecycle asymmetry: adding new features must produce gains on some metric, while feature removal must not regress any metric. In practice, feature depre...",
+  "description": "Production recommender systems have feature-lifecycle asymmetry: adding new features must produce gains on some metric, while feature removal must not regress any metric. In practice, feature deprecation is hard to prioritize as a feature can fail to be removed if it interacts with other features, its importance changes daily, it cannot be evaluated before production models change or data drift occurs, it is in contention for A/B test space with other launches, it causes regressions in an online A/B test, or it is consumed by multiple models that need to coordinate its deprecation. We prese...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.13806v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-09",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.13806v1"
+    }
+  ],
+  "authors": [
+    "Vishnu Arun",
+    "Adam Obeng",
+    "Tianyou Wang",
+    "Zilin Ren",
+    "Mukuntha Narayanan Sundararaman",
+    "Han Wang",
+    "Shivin Thukral",
+    "Zhixiang Wang",
+    "Saurabh Vishwas Joshi",
+    "Darren Reger"
+  ],
+  "paperId": "2610.13806",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-09",
+  "abstract": "Production recommender systems have feature-lifecycle asymmetry: adding new features must produce gains on some metric, while feature removal must not regress any metric. In practice, feature deprecation is hard to prioritize as a feature can fail to be removed if it interacts with other features, its importance changes daily, it cannot be evaluated before production models change or data drift occurs, it is in contention for A/B test space with other launches, it causes regressions in an online A/B test, or it is consumed by multiple models that need to coordinate its deprecation. We prese..."
+}

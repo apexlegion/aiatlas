@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.00221v2",
+  "fetchedAt": "2026-10-12T09:00:57.522Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.00221v2",
+    "title": "Useful to Whom? The Easy-versus-Coverage Boundary Moves with the Learner",
+    "link": "https://arxiv.org/abs/2610.00221",
+    "description": "arXiv:2610.00221v2 Announce Type: replace-cross Abstract: Is the same data equally useful to every learner? The question is whether the value of a training sample belongs to the sample or arises in its interaction with the learner. We test it with a selection experiment. Under a per-class budget, two kinds of samples compete for the slots: easy samples, which a short training run learns first, and coverage samples, which spread over the class in feature space. Easy samples win at small budgets and coverage samples at large ones, and the budget at which the winner flips, the crossover m0, can be measured. We ask whether m0 is set by the data or by the learner. To separate the two, we freeze the selected subsets and change only the learner that trains on them. On low-resolution ImageNet-100, doubling the width of a ResNet-18 moves the crossover from 57 to 85 samples per class on the same subsets. Enlarging the input grid from 32 to 64 pixels at fixed image information moves it from 85 to 57, and a single stride change reproduces or removes this shift. The grid shift shrinks as width grows. Under the native ImageNet-1k protocol, a 4x range of width moves the boundary by at most a few samples per class. On a Vision Transformer, coverage wins at every measured budget, even with easy subsets that work on the convolutional learner. The budget at which one kind of sample stops being the more useful kind therefore belongs to the learner, and the preferred regime of a selection strategy has to be read against the learner that will use the data.",
+    "publishedAt": "2026-10-12",
+    "author": "Yangze Liu, Xiao-Long Yin, Zhongyi Han",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

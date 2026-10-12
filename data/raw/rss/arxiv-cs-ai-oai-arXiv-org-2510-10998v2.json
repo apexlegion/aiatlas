@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2510.10998v2",
+  "fetchedAt": "2026-10-12T09:00:57.522Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2510.10998v2",
+    "title": "ABLEIST: Intersectional Disability Bias in LLM-Generated Hiring Scenarios",
+    "link": "https://arxiv.org/abs/2510.10998",
+    "description": "arXiv:2510.10998v2 Announce Type: replace-cross Abstract: Large language models (LLMs) are increasingly under scrutiny for perpetuating identity-based discrimination in high-stakes domains such as hiring, particularly against people with disabilities (PwD). However, existing research remains largely Western-centric, overlooking how intersecting forms of marginalization--such as gender and caste--shape experiences of PwD in the Global South. We conduct a comprehensive audit of six LLMs across 2,820 hiring scenarios spanning diverse disability, gender, nationality, and caste profiles. To capture subtle intersectional harms and biases, we introduce ABLEIST (Ableism, Inspiration, Superhumanization, and Tokenism), a set of five ableism-specific and three intersectional harm metrics grounded in disability studies literature. Our results reveal significant increases in ABLEIST harms towards disabled candidates--harms that many state-of-the-art models failed to detect. These harms were further amplified by sharp increases in intersectional harms (e.g., Tokenism) for gender and caste-marginalized disabled candidates, highlighting critical blind spots in current safety tools and the need for intersectional safety evaluations of frontier models in high-stakes domains like hiring.",
+    "publishedAt": "2026-10-12",
+    "author": "Mahika Phutane, Hayoung Jung, Matthew Kim, Tanushree Mitra, Aditya Vashistha",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.04419v5",
+  "fetchedAt": "2026-10-12T09:00:57.522Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.04419v5",
+    "title": "Agent Step Value: Auditing Evaluation-Channel Sensitivity in Black-Box Agent Traces",
+    "link": "https://arxiv.org/abs/2607.04419",
+    "description": "arXiv:2607.04419v5 Announce Type: replace Abstract: Reusing evaluator-derived step rewards across evaluation channels raises a measurement question: does the assigned direction remain stable? We define Agent Step Value (ASV) as a channel-indexed before/after target-margin gain and identify the state-by-channel interaction from a matched 2x2 design. Across frozen PubMed question-answering transitions, cross-channel gain signs disagree on 48.3% of comparisons, compared with 0.3% for same-channel retries. Transition interactions are nearly balanced in sign (median +0.014; 10% trimmed mean -0.033), but asymmetric negative magnitudes produce a positive direct mean and a negative generated-view mean under the empirical target mixture. Equal-target weighting preserves a negative mean interaction but not this strict mean reversal. Matched retrieval designs localize the negative component to the generated-view coordinate and retain its direction across three sign checks that vary readout and evaluator stack. In a matched 512-token source-contract follow-up, source-only generation restores the positive mean direction on artifact-bearing retrievals and removes parser-detected support claims from artifact-free before-state views. These results support an explanation in which generated support inflates the pre-retrieval baseline. The resulting audit can localize channel sensitivity and test an intervention before step rewards are reused.",
+    "publishedAt": "2026-10-12",
+    "author": "Andrew Zhang, Chengzhan Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2610-13909",
+  "name": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping",
+  "summary": "While deep learning models for tabular data have recently received significant research attention, the choice of objective functions for regression tasks remains an understudied degree of freedom....",
+  "description": "While deep learning models for tabular data have recently received significant research attention, the choice of objective functions for regression tasks remains an understudied degree of freedom. Several lines of research offer alternatives to the standard Mean Squared Error (MSE), but differences in datasets, backbones, and evaluation protocols make their practical benefits difficult to compare. In this work, we address this gap by performing a systematic re-evaluation of regression objectives across a broad collection of established tabular datasets and multiple neural backbones. Our com...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.13909v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-09",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.13909v1"
+    }
+  ],
+  "authors": [
+    "Danil Rudenko",
+    "Georgii Bulgakov",
+    "Nikolay Kartashev",
+    "Ivan Rubachev",
+    "Daniil Krasylnikov",
+    "Artem Babenko"
+  ],
+  "paperId": "2610.13909",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-09",
+  "abstract": "While deep learning models for tabular data have recently received significant research attention, the choice of objective functions for regression tasks remains an understudied degree of freedom. Several lines of research offer alternatives to the standard Mean Squared Error (MSE), but differences in datasets, backbones, and evaluation protocols make their practical benefits difficult to compare. In this work, we address this gap by performing a systematic re-evaluation of regression objectives across a broad collection of established tabular datasets and multiple neural backbones. Our com..."
+}

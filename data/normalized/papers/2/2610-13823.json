@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2610-13823",
+  "name": "Same Query, Different Answer: Run-to-Run Variance in Semantic Query Processing",
+  "summary": "Semantic query engines ask a large language model (LLM) to judge individual rows, and benchmarks compare these engines on the quality of a few executions at temperature 0. We measure how much anoth...",
+  "description": "Semantic query engines ask a large language model (LLM) to judge individual rows, and benchmarks compare these engines on the quality of a few executions at temperature 0. We measure how much another execution changes. We re-execute the text and tabular workloads of SemBench, LRO-Bench, and UDA-Bench through their own harnesses, log every one of 1.2 million model calls, and reanalyze SemBench's published executions. At temperature 0, between 0.07% and 10.2% of rows change their operator output over five executions, depending on the model, and up to 24.0% on one task. Plans amplify these cha...",
+  "tags": [
+    "arxiv",
+    "cs.DB"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.13823v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-09",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.DB.",
+      "href": "https://arxiv.org/abs/2610.13823v1"
+    }
+  ],
+  "authors": [
+    "Oktie Hassanzadeh",
+    "Dharmashankar Subramanian"
+  ],
+  "paperId": "2610.13823",
+  "category": "cs.DB",
+  "publishedAt": "2026-10-09",
+  "abstract": "Semantic query engines ask a large language model (LLM) to judge individual rows, and benchmarks compare these engines on the quality of a few executions at temperature 0. We measure how much another execution changes. We re-execute the text and tabular workloads of SemBench, LRO-Bench, and UDA-Bench through their own harnesses, log every one of 1.2 million model calls, and reanalyze SemBench's published executions. At temperature 0, between 0.07% and 10.2% of rows change their operator output over five executions, depending on the model, and up to 24.0% on one task. Plans amplify these cha..."
+}

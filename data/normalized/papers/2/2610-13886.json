@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2610-13886",
+  "name": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
+  "summary": "Personal agents increasingly connect to services across the web and applications by using tools. As the effects of their actions accumulate and interact across services, unintended or harmful outco...",
+  "description": "Personal agents increasingly connect to services across the web and applications by using tools. As the effects of their actions accumulate and interact across services, unintended or harmful outcomes can arise when agents fulfill benign user requests. Proactively identifying these compositional failures requires systematically exploring diverse cross-service paths. Existing red-teaming methods often simply prompt LLMs to identify potentially harmful paths from task and environment descriptions or decompose harmful objectives specified by humans or LLMs into seemingly benign action combinat...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.13886v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-09",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.13886v1"
+    }
+  ],
+  "authors": [
+    "Yeonsung Jung",
+    "Zhiyuan Wang",
+    "Zifan Wang",
+    "Vítor Albiero",
+    "Benjamin Newman",
+    "Edoardo Debenedetti",
+    "Ivan Evtimov",
+    "Ninareh Mehrabi"
+  ],
+  "paperId": "2610.13886",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-09",
+  "abstract": "Personal agents increasingly connect to services across the web and applications by using tools. As the effects of their actions accumulate and interact across services, unintended or harmful outcomes can arise when agents fulfill benign user requests. Proactively identifying these compositional failures requires systematically exploring diverse cross-service paths. Existing red-teaming methods often simply prompt LLMs to identify potentially harmful paths from task and environment descriptions or decompose harmful objectives specified by humans or LLMs into seemingly benign action combinat..."
+}
