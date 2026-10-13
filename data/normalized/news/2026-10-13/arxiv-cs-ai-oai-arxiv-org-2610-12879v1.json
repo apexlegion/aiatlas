@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-12879v1",
+  "name": "One-Step Text Generation by Seq-Drifting",
+  "summary": "arXiv:2610.12879v1 Announce Type: new Abstract: Diffusion language models generate tokens in parallel, but still require multiple sampling steps to produce high-quality text. In this paper, we inve...",
+  "description": "arXiv:2610.12879v1 Announce Type: new Abstract: Diffusion language models generate tokens in parallel, but still require multiple sampling steps to produce high-quality text. In this paper, we investigate whether a model can learn to generate an entire sequence in a single forward pass. We propose Seq-Drifting, a framework that applies drifting to sequences of continuous token representations a...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.12879"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-13",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.12879"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-13",
+  "expiryAt": "2026-11-12T00:00:00.000Z",
+  "author": "Jiayu Liu, Ruizhi Zhao, Tianyun Ji, Yee Whye Teh, Zhenya Huang, Ning Miao"
+}

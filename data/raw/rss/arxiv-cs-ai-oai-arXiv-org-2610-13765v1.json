@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.13765v1",
-  "fetchedAt": "2026-10-12T09:00:57.522Z",
+  "fetchedAt": "2026-10-13T09:15:32.429Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.13765v1",
     "title": "When Edge Independence Fails: Joint Graph Diffusion with Latent Sociability Priors",
     "link": "https://arxiv.org/abs/2610.13765",
     "description": "arXiv:2610.13765v1 Announce Type: cross Abstract: Discrete graph diffusion models corrupt graph structure through independent edge updates with a Markovian noise model. Combined with the exchangeability requirement on the output distribution, the terminal prior is necessarily an Erd\\H{o}s--R\\'enyi (E-R) random graph. This has a fundamental consequence for unconditional graph generation without node features: in the large graph limit, any GNN denoiser applied to an E-R graph approximately outputs an E-R graph, making effective denoising difficult. In practice, generated graphs fail to recover meaningful node heterogeneity and higher-order structure. Previous models introduced specialized node features to compensate, framing this as an expressivity problem, while the role of the prior remained unexamined. We instead address the root cause by introducing the Latent Sociability Prior (LSP) and a join} diffusion process that co-evolves latent node sociability variables and graph structure, removing edge independence while preserving exchangeability. Unlike existing latent graph diffusion methods, the sociability mechanism requires no complex encoder: its sole role is to guide edge updates and preserve node heterogeneity throughout the trajectory. We validate our approach on multiple graph generation datasets and show that the proposed framework more accurately captures graph distributions than baseline methods without node features.",
-    "publishedAt": "2026-10-12",
+    "publishedAt": "2026-10-13",
     "author": "Adarsh Jamadandi, Nicolas Keriven, Aline Roumy",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

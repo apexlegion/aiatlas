@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.13783v1",
-  "fetchedAt": "2026-10-12T09:00:57.522Z",
+  "fetchedAt": "2026-10-13T09:15:32.429Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.13783v1",
     "title": "UkrMeme: Multimodal Explainable Persuasion Detection in Ukrainian Memes",
     "link": "https://arxiv.org/abs/2610.13783",
     "description": "arXiv:2610.13783v1 Announce Type: new Abstract: Memes play a central role in modern online communication, especially in contexts of political conflict where visual and textual cues combine to convey persuasive messages. We study persuasive technique detection in Ukrainian memes using vision-language models (VLMs). We introduce UkrMeme, a dataset of 200 organically produced Ukrainian wartime memes annotated for persuasion techniques, and PTM-UA, a Ukrainian translation of a subset of the Propaganda 950 benchmark that preserves original visual content while translating meme text. We evaluate VLMs in a zero-shot prompting setup across image, text, and multimodal inputs using hierarchical F1 metrics. Finally, we compare Layer-wise Relevance Propagation (LRP) and model-generated token attributions and analyze the semantic categories of evidence emphasized by each explanation method.",
-    "publishedAt": "2026-10-12",
+    "publishedAt": "2026-10-13",
     "author": "Nazar Andrushko, Vera Schmitt, Veronika Solopova",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

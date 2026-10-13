@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.39304v2",
-  "fetchedAt": "2026-10-12T09:00:57.522Z",
+  "fetchedAt": "2026-10-13T09:15:32.429Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.39304v2",
     "title": "Scale and Selection: What Makes Automatic Harness Evolution Work for Visual-Interface Robot Agents",
     "link": "https://arxiv.org/abs/2609.39304",
     "description": "arXiv:2609.39304v2 Announce Type: replace-cross Abstract: When an off-the-shelf coding agent is used directly as a robot policy, observing a browser-based 3D interface through screenshots and acting by posing a virtual target gripper through a few tools, the agent's harness, its prompts, tools, and control rules, largely determines success, and until now it has been written by hand. We show that this harness can be improved automatically by another coding agent, the optimizer agent, and report two findings about what makes it work. First, the number of rollouts the optimizer agent sees per round governs whether the evolved harness generalizes: with rounds fixed, held-out success rises as the training batch grows from 5 to 100 rollouts, while small batches overfit the training tasks. Second, the optimizer agent must not be given free rein. Accepting every revision it proposes degrades the harness within a few rounds; a simple Champion-Challenger rule that promotes a revision only if it beats the incumbent on the same fixed cases turns the same loop into one that raises held-out success on LIBERO tasks from 51% to 67% over 30 rounds. Combining the evolved harness with a pretrained policy, through one tool that hands it control, reaches 71.2% on the RoboCasa365 leaderboard benchmark, 13.1 points above the best published entry. Automatic harness evolution for visual-interface robot agents is thus feasible, but its gains hinge on the rollout scale behind each decision and on how the optimizer agent's revisions are selected.",
-    "publishedAt": "2026-10-12",
+    "publishedAt": "2026-10-13",
     "author": "Zhijie Wei, Ferris Tan, Jinghui Wang",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

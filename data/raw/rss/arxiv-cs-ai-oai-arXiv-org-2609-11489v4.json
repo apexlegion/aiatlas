@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.11489v4",
-  "fetchedAt": "2026-10-12T09:00:57.522Z",
+  "fetchedAt": "2026-10-13T09:15:32.429Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.11489v4",
     "title": "The Convention Gap: Beyond Literal Content in Human-AI Cooperation",
     "link": "https://arxiv.org/abs/2609.11489",
     "description": "arXiv:2609.11489v4 Announce Type: replace Abstract: Cooperative AI agents are often evaluated against other AIs, yet human cooperation is thought to rely on implicit conventions: shared rules for reading meaning beyond the literal message. We propose the convention gap as a diagnostic of such implicit communication. In the card game Hanabi, where hints are the only messages about one's own hand, the convention gap is the failure probability predicted exactly from the literal content of the hints and the visible cards, minus the observed failure rate of the cards played. We prove that the population gap (the value the gap approaches over many games) is zero when the partner's choices convey nothing beyond their literal content, given a fair shuffle and a player who uses only what was said and seen. A nonzero population gap thus indicates that partner choices conveyed more; it does not measure how much. The gap was +26.2 percentage points (pp) in public human-human games (+46 pp on plays of cards that no hint had pointed to), +16.4 pp for human plays with AI partners, and -0.6 pp in AI-AI games we simulated among rule-based agents. With three AI agents of a published human-AI study, the literal failure probability of the cards humans played was similar across partners (38-41%), yet human failure ranged from 14.4% to 34.4% and the gap from +24.1 to +6.2 pp, and the contrast between partners persisted within participants. Across five levels of Off-Belief Learning agents, trained so that the first level reads past actions only for their literal content and each higher level interprets more, the gap rose monotonically from +1.6 to +21.7 pp. These results argue for reporting the convention gap on human-partnered play, not only AI-AI performance, when evaluating agents intended for human partners.",
-    "publishedAt": "2026-10-12",
+    "publishedAt": "2026-10-13",
     "author": "Makoto Fukushima, Hua-Dong Xiong, Ehsan Moradi Pari",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

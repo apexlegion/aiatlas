@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.37686v2",
-  "fetchedAt": "2026-10-12T09:00:57.522Z",
+  "fetchedAt": "2026-10-13T09:15:32.429Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.37686v2",
     "title": "EngiWorld: What Can Frontier Agents Deliver in Professional Engineering Environments?",
     "link": "https://arxiv.org/abs/2609.37686",
     "description": "arXiv:2609.37686v2 Announce Type: replace Abstract: Autonomous agents have made rapid progress in general-purpose computer use, yet reliable automation of professional industrial engineering remains out of reach. Engineering workflows require reasoning over geometric and physical constraints and keeping dependencies consistent across software and design stages. We present EngiWorld, a benchmark designed around the capabilities that real engineering projects require, from operating a single application to solving engineering problems end to end. It contains 1,301 expert-curated tasks spanning six engineering domains (CAD, CAE, CAM, BIM, EDA, and DCC) and 26 professional software applications, with both GUI and CLI interfaces. The tasks are organized into six types, corresponding to capabilities that real engineering projects require. We further introduce an artifact-centric evaluation methodology built on a unified suite of domain verifiers. The verifiers programmatically check whether final and intermediate artifacts are geometrically valid, physically feasible, and compliant with design rules. Beyond binary success, they also score how well optimized designs meet their specifications. Evaluation of seven frontier models reveals a substantial capability gap: the strongest model scores only 44.7/100, and just 3.6% of runs on tasks that require cross-software coordination succeed. EngiWorld provides a rigorous foundation for measuring progress toward agents that operate professional engineering software end to end.",
-    "publishedAt": "2026-10-12",
+    "publishedAt": "2026-10-13",
     "author": "Hongcheng Gao, Hailong Qu, Yu Lei, Henghui Sun, Haoyang Li, Yipeng Wei, Naihao Xue, Xiaohan Yu, Zhuo Tao, Yihe Zang, Yajiao Wang, Jingyi Tang, Yi Li, Jingjing Zhou, Jie Luo, Bohan Zeng, Chengyu Shen, Hao Jiang, Chong Chen, Bowen Qu, Olive Huang, Zeqiang Wang",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

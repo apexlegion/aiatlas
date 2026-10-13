@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.13626v1",
-  "fetchedAt": "2026-10-12T09:00:57.522Z",
+  "fetchedAt": "2026-10-13T09:15:32.429Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.13626v1",
     "title": "SWE-DeceptionBench: Benchmarking Deceptive Behaviors of LLMs Across the Software Development Lifecycle",
     "link": "https://arxiv.org/abs/2610.13626",
     "description": "arXiv:2610.13626v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly used throughout the software development lifecycle. This growing reliance on LLMs raises concerns about their trustworthiness, with deception posing a particularly important risk. Deceptive behavior takes the form of misleading responses or assistance in fabricating, concealing, or distorting information. To study this behavior, we introduce SWE-DeceptionBench, a benchmark for evaluating LLM deception in software engineering. The benchmark covers six lifecycle stages and two deception triggers: Active Deception, where models recognize infeasible or conflicting requirements but still present them as achievable, and Passive Deception, where models help fulfill explicit user requests to mislead others. We further introduce Neutral, Reward, and Pressure conditions to study the effect of external inducements, resulting in 720 test instances in Chinese and English. Evaluating seven mainstream LLMs, we find substantial deception even under the Neutral condition, with aggregate rates of 49.88% for Active Deception and 64.29% for Passive Deception. Deception rates vary across lifecycle stages, and external inducements affect Active and Passive Deception to different extents. We also evaluate lightweight defenses, finding that guard models miss many deceptive requests, and Self-Reminder reduces but does not eliminate deceptive responses. These findings highlight the need for more effective deception detection and mitigation methods to support trustworthy LLM-based software engineering.",
-    "publishedAt": "2026-10-12",
+    "publishedAt": "2026-10-13",
     "author": "Xiting Liu, Lin Yang, Yitong Zhang, Jia Li, Shi-Min Hu",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

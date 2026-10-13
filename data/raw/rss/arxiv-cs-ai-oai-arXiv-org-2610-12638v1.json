@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.12638v1",
-  "fetchedAt": "2026-10-12T09:00:57.522Z",
+  "fetchedAt": "2026-10-13T09:15:32.429Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.12638v1",
     "title": "Machine Learning and Time-Series Foundation Models for Day-Ahead Electricity Forecasting in a University Building",
     "link": "https://arxiv.org/abs/2610.12638",
     "description": "arXiv:2610.12638v1 Announce Type: cross Abstract: Day-ahead electricity forecasts can help building operators schedule heating, ventilation, and other services around anticipated demand. Choosing a forecasting model also requires balancing accuracy with its forecast-time inputs, local training, and computational requirements. We benchmark statistical, machine-learning, recurrent neural-network, and pretrained TimesFM models for a university building. We use chronological validation and evaluate all configurations on the same 57 test days, comparing accuracy across workdays, weekends, and holidays alongside local fitting and forecasting time. Weather covariates use retrospective observations. TimesFM 3.0 with covariates achieves the lowest overall errors, reducing mean absolute error by approximately 43\\% relative to weekly seasonal-naive forecasting. XGBoost remains competitive, although paired daily comparisons do not establish a clear mean-absolute-error advantage for TimesFM. TimesFM also performs strongly using only past electricity consumption. Adding covariates improves its holiday forecasts but slightly worsens workday and weekend forecasts, leaving overall mean absolute error almost unchanged. TimesFM requires no building-specific weight training, while XGBoost offers rapid local fitting and inference. The evaluated LSTM takes longer to fit without outperforming either approach. An exploratory historical evaluation reveals seasonal variation, while a separate weather-source comparison produces only small changes in the selected TimesFM configuration's accuracy. These results support pretrained TimesFM as a strong initial forecasting baseline for this building, with XGBoost as a competitive locally fitted alternative. Covariates are particularly useful when improved holiday forecasts justify the additional input preparation.",
-    "publishedAt": "2026-10-12",
+    "publishedAt": "2026-10-13",
     "author": "Amey Vasulkar, Samuel Kernan Freire, Arie-Willem de Leeuw, Tadeo-Baldiri Salcedo-Rahola",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

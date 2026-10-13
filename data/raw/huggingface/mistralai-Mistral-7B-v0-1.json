@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "mistralai/Mistral-7B-v0.1",
-  "fetchedAt": "2026-10-12T09:00:55.947Z",
+  "fetchedAt": "2026-10-13T09:15:30.018Z",
   "data": {
     "_id": "650aedb6238a644cb93a52c3",
     "id": "mistralai/Mistral-7B-v0.1",
@@ -23,8 +23,8 @@
       "text-generation-inference",
       "region:us"
     ],
-    "downloads": 369992,
-    "likes": 4189,
+    "downloads": 371144,
+    "likes": 4206,
     "modelId": "mistralai/Mistral-7B-v0.1",
     "author": "mistralai",
     "sha": "27d67f1b5f57dc0953326b2601d68371d40ea8da",
@@ -125,11 +125,12 @@
       "tardellirs/model-pulse",
       "embedl/hfviewer",
       "fastgpu/vram-and-gpu-cost-calculator",
-      "Vokturz/can-it-run-llm",
+      "EuroEval/euroeval_leaderboard",
       "aquanode/gpu-vram-calculator",
+      "emanforhelp/model-pulse",
+      "Vokturz/can-it-run-llm",
       "overhead520/LLM-Settings-Guide",
       "bhaskartripathi/LLM_Quantization",
-      "EuroEval/euroeval_leaderboard",
       "AlexWortega/transformer-xray",
       "seawolf2357/LLM_Quantization",
       "eduagarcia/open_pt_llm_leaderboard",
@@ -220,8 +221,7 @@
       "sinapeuf/Gradio",
       "Cherylin/clm_chincher",
       "Noveumai/NovaEval",
-      "GrimsenClory/mfer-gguf",
-      "DRDELATV/gpt-local"
+      "GrimsenClory/mfer-gguf"
     ],
     "createdAt": "2023-09-20T13:03:50.000Z",
     "safetensors": {
