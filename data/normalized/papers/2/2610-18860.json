@@ -1,0 +1,48 @@
+{
+  "type": "paper",
+  "slug": "2610-18860",
+  "name": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
+  "summary": "Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see ho...",
+  "description": "Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how their choices of layout and color come together on the canvas, often limiting spatial planning and aesthetic quality. Image generators excel at visual design but can misrender requested content, making their outputs unreliable targets for direct reproduction. We therefore introduce AesCode, which generates code grounded in the content prompt while using an image generated from the same prompt as...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.18860v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-13",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.18860v1"
+    }
+  ],
+  "authors": [
+    "Xin Gao",
+    "Yifan Yang",
+    "Xin Li",
+    "Pan Wang",
+    "Yan Li",
+    "Muzhao Tian",
+    "Mingxi Cheng",
+    "Bei Liu",
+    "Kai Qiu",
+    "Qi Dai",
+    "Dong Chen",
+    "Yue Dong",
+    "Leandros Tassiulas",
+    "Rex Ying",
+    "Ji Li",
+    "Chong Luo"
+  ],
+  "paperId": "2610.18860",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-13",
+  "abstract": "Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how their choices of layout and color come together on the canvas, often limiting spatial planning and aesthetic quality. Image generators excel at visual design but can misrender requested content, making their outputs unreliable targets for direct reproduction. We therefore introduce AesCode, which generates code grounded in the content prompt while using an image generated from the same prompt as..."
+}

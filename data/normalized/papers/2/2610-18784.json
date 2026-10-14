@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2610-18784",
+  "name": "Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents",
+  "summary": "Long-horizon agents accumulate progress in persistent task state, yet repeatedly process interaction histories describing how that progress was achieved. This raises a natural question: can long-ho...",
+  "description": "Long-horizon agents accumulate progress in persistent task state, yet repeatedly process interaction histories describing how that progress was achieved. This raises a natural question: can long-horizon context instead be organized around reusable progress rather than the history that produced it? In this paper, we introduce CarryOn, an object-oriented context runtime that organizes continuation around reusable task objects. Rather than treating compressed histories or reconstructed accounts of progress as the primary basis for continuation, CarryOn builds a context view from continuation c...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.18784v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-13",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.18784v1"
+    }
+  ],
+  "authors": [
+    "Yuchen Lu",
+    "Julian McAuley",
+    "Lei Zhang"
+  ],
+  "paperId": "2610.18784",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-13",
+  "abstract": "Long-horizon agents accumulate progress in persistent task state, yet repeatedly process interaction histories describing how that progress was achieved. This raises a natural question: can long-horizon context instead be organized around reusable progress rather than the history that produced it? In this paper, we introduce CarryOn, an object-oriented context runtime that organizes continuation around reusable task objects. Rather than treating compressed histories or reconstructed accounts of progress as the primary basis for continuation, CarryOn builds a context view from continuation c..."
+}

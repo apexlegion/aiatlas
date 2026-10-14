@@ -1,0 +1,54 @@
+{
+  "type": "paper",
+  "slug": "2610-18869",
+  "name": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+  "summary": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning acro...",
+  "description": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions and label granularities using 5,000 naturally suboptimal human demonstrations and 24 target tasks. Within each VLA, we match demonstrations and training budgets. Additional comparisons examine pretraining data size and the roles of quality tags during fine-tuning and inference. Across three VLAs, we find that approach-aware episode conditioning improves mean success over plai...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.18869v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-13",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2610.18869v1"
+    }
+  ],
+  "authors": [
+    "Mingxuan Yan",
+    "Litian Gong",
+    "Dihong Huang",
+    "Zhixu Li",
+    "Tianyu Zhang",
+    "Wenqian Zhang",
+    "Hefeifei Jiang",
+    "Peihao Li",
+    "Jian Zhang",
+    "Mengfei Zhao",
+    "Yikai Tang",
+    "Hai Zhai",
+    "Zehao Wang",
+    "Ruijian Liang",
+    "Yanjia Huang",
+    "Lin Shao",
+    "Changliu Liu",
+    "Kaiyu Hang",
+    "Zhiwen Fan",
+    "Masayoshi Tomizuka",
+    "Jianfei Yang",
+    "Jiachen Li"
+  ],
+  "paperId": "2610.18869",
+  "category": "cs.RO",
+  "publishedAt": "2026-10-13",
+  "abstract": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions and label granularities using 5,000 naturally suboptimal human demonstrations and 24 target tasks. Within each VLA, we match demonstrations and training budgets. Additional comparisons examine pretraining data size and the roles of quality tags during fine-tuning and inference. Across three VLAs, we find that approach-aware episode conditioning improves mean success over plai..."
+}

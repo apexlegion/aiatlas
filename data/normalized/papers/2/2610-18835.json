@@ -1,0 +1,44 @@
+{
+  "type": "paper",
+  "slug": "2610-18835",
+  "name": "RoboSimStudio: An Interactive Toolkit for Rapid Real2Sim of Robot Manipulation Tasks",
+  "summary": "It is difficult to accurately model the physics of the interaction between a robot and the objects it manipulates, including contact mechanics, coupled contact dynamics, deformations, stiffness and...",
+  "description": "It is difficult to accurately model the physics of the interaction between a robot and the objects it manipulates, including contact mechanics, coupled contact dynamics, deformations, stiffness and friction. We present RoboSimStudio (RSS), an interactive toolkit that makes choices of solver, contact model, and physical parameters explicit and editable, allowing both humans and coding agents to iteratively refine simulations based on observed physical behavior. We implement RSS with the open Newton physics simulation system and describe experiments with human-guided real2sim using (1) visual...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.18835v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-13",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2610.18835v1"
+    }
+  ],
+  "authors": [
+    "Kaiyuan Chen",
+    "Shuangyu Xie",
+    "Uksang Yoo",
+    "Xinyue Zhu",
+    "Cael Magner",
+    "Alvin Zhu",
+    "Daehwa Kim",
+    "Eric Heiden",
+    "Erwin Coumans",
+    "Miles Macklin",
+    "Spencer Huang",
+    "Ken Goldberg"
+  ],
+  "paperId": "2610.18835",
+  "category": "cs.RO",
+  "publishedAt": "2026-10-13",
+  "abstract": "It is difficult to accurately model the physics of the interaction between a robot and the objects it manipulates, including contact mechanics, coupled contact dynamics, deformations, stiffness and friction. We present RoboSimStudio (RSS), an interactive toolkit that makes choices of solver, contact model, and physical parameters explicit and editable, allowing both humans and coding agents to iteratively refine simulations based on observed physical behavior. We implement RSS with the open Newton physics simulation system and describe experiments with human-guided real2sim using (1) visual..."
+}

@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2610-18808",
+  "name": "Optimizing Team Behavior via Extremum-seeking Control in Multi-agent Reinforcement Learning",
+  "summary": "In cooperative Multi-Agent Reinforcement Learning (MARL), agents must learn to coordinate their actions to achieve shared objectives. A key indicator of effective coordination is behavioral diversi...",
+  "description": "In cooperative Multi-Agent Reinforcement Learning (MARL), agents must learn to coordinate their actions to achieve shared objectives. A key indicator of effective coordination is behavioral diversity, i.e., the agents' potential to enact distinct yet complementary control policies given the same set of observations. Although behavioral diversity can enable role specialization and richer joint behaviors, its appropriate level is highly context- and task-dependent and often costly to tune. We propose Adaptive Diversity Control (ADiCo), a two-timescale framework that adapts behavioral diversit...",
+  "tags": [
+    "arxiv",
+    "cs.MA"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.18808v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-13",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.MA.",
+      "href": "https://arxiv.org/abs/2610.18808v1"
+    }
+  ],
+  "authors": [
+    "Svar Rajankumar Patel",
+    "Kshitij Jerath"
+  ],
+  "paperId": "2610.18808",
+  "category": "cs.MA",
+  "publishedAt": "2026-10-13",
+  "abstract": "In cooperative Multi-Agent Reinforcement Learning (MARL), agents must learn to coordinate their actions to achieve shared objectives. A key indicator of effective coordination is behavioral diversity, i.e., the agents' potential to enact distinct yet complementary control policies given the same set of observations. Although behavioral diversity can enable role specialization and richer joint behaviors, its appropriate level is highly context- and task-dependent and often costly to tune. We propose Adaptive Diversity Control (ADiCo), a two-timescale framework that adapts behavioral diversit..."
+}
