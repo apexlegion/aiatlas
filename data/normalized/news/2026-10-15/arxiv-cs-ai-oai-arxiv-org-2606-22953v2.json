@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2606-22953v2",
+  "name": "Plans Fade Fast: Why Context Management Is Load-Bearing for LLM Agents",
+  "summary": "arXiv:2606.22953v2 Announce Type: replace Abstract: Context managers summarize or evict old messages so agents can operate beyond a finite window. This creates a reliability problem: removing histo...",
+  "description": "arXiv:2606.22953v2 Announce Type: replace Abstract: Context managers summarize or evict old messages so agents can operate beyond a finite window. This creates a reliability problem: removing history that still shapes the model's computation may change later actions, while retaining everything defeats compression. We study plans because agents create them early and are expected to use them late...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2606.22953"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2606.22953"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Aman Mehta, Anupam Datta"
+}

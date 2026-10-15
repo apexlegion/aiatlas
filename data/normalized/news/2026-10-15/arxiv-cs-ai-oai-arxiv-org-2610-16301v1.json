@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-16301v1",
+  "name": "FON: A Draft-Revise Dual-Organ Language Model without Sequence-Level Quadratic Attention",
+  "summary": "arXiv:2610.16301v1 Announce Type: new Abstract: Self-attention assigns two functions to one mechanism-where to read and how to mix-at the price of O(L^2) training, an O(T) decode state, and positio...",
+  "description": "arXiv:2610.16301v1 Announce Type: new Abstract: Self-attention assigns two functions to one mechanism-where to read and how to mix-at the price of O(L^2) training, an O(T) decode state, and position signals bound to the training length. Existing attention-free alternatives all optimize the single function of generation. We propose FON (Fusion-Organ Network), which differentiates one weight stac...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.16301"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.16301"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Helong Hu (Zhanjiang Campus, Guangdong Ocean University, Zhanjiang, Guangdong, China), Hongdan Pan (Maoming Administrative Service Center, Maoming, Guangdong, China), Shuiqing Hu (China Pacific Insurance)"
+}

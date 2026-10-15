@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.20803v3",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.20803v3",
+    "title": "Activation Steering with Jungian Cognitive Functions",
+    "link": "https://arxiv.org/abs/2607.20803",
+    "description": "arXiv:2607.20803v3 Announce Type: replace-cross Abstract: Controlling combinations of personality-related tendencies is important for adapting large language models to diverse interaction needs. But successful single-trait steering does not establish how to construct interventions for joint targets, or whether existing trait directions adequately represent them. We introduce a target-first framework that directly extracts steering directions from joint personality targets and then examines their decomposition into individual directions. To support this framework, we construct NarrationDB, linking character self-narrations to automatically evaluated joint scores across eight Jungian-inspired functions, a correspondence not directly available in existing Big Five- or MBTI-oriented resources. Experiments on three models demonstrate questionnaire-score controllability across the eight functions and coordinated changes in a tested two-function target. Directly extracted joint directions are better approximated by their corresponding individual directions than by unrelated pairings, but retain substantial residual components. Our work provides a method and resource for investigating joint personality control, with evidence that individual steering directions capture part, but not all, of the structure of joint targets.",
+    "publishedAt": "2026-10-15",
+    "author": "Liu Zai, Yumeng Wang, Junchen Fu, Suzan Verberne, Joemon M. Jose",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

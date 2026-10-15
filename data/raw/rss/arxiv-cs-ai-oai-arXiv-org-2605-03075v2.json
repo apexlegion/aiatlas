@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.03075v2",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.03075v2",
+    "title": "Refining Compositional Diffusion for Reliable Long-Horizon Planning",
+    "link": "https://arxiv.org/abs/2605.03075",
+    "description": "arXiv:2605.03075v2 Announce Type: replace-cross Abstract: Compositional diffusion planning generates long-horizon trajectories by stitching together overlapping short-horizon segments through score composition. However, when local plan distributions are multimodal, existing compositional methods suffer from mode-averaging, where averaging incompatible local modes leads to plans that are neither locally feasible nor globally coherent. We propose Refining Compositional Diffusion (RCD), a training-free guidance method that steers compositional sampling toward high-density, globally coherent plans. RCD leverages the self-reconstruction error of a pretrained diffusion model as a proxy for the log-density of composed plans, combined with an overlap consistency term that enforces consistency at segment boundaries. We show that the combined guidance concentrates sampling on high-density plans that mitigate mode-averaging. Experiments on challenging long-horizon tasks from OGBench, including locomotion, object manipulation, and pixel-based observations, demonstrate that RCD consistently outperforms existing methods.",
+    "publishedAt": "2026-10-15",
+    "author": "Kyowoon Lee, Yunhao Luo, Anh Tong, Jaesik Choi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

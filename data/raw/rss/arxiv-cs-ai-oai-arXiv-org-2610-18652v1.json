@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.18652v1",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.18652v1",
+    "title": "AMemOps: Evaluating Memory Updates in Long Audio Streams",
+    "link": "https://arxiv.org/abs/2610.18652",
+    "description": "arXiv:2610.18652v1 Announce Type: cross Abstract: Audio memory must recognise recurring sources across acoustic changes while keeping their attributes up to date. Overall accuracy does not reveal how these demands interact. We introduce Audio Memory Operations (AMemOps), a benchmark for latest-attribute retrieval, preservation of unchanged attributes and absent-source rejection in long audio streams. Paired controls vary recordings, training identities and earlier events to examine their effects on updating. Training on other recordings of the test instruments increases a reference delta-rule memory's update advantage over matched attention by 13.4 percentage points. At retrieval delays of 120\\,s, matched histories separate benefits of consistent repetition from costs of conflicting earlier values, while additive-memory controls identify benefits of erasure.",
+    "publishedAt": "2026-10-15",
+    "author": "Peiwei Chang, Li Zhang, Mark D. Plumbley, Philip J. B. Jackson, Wenwu Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

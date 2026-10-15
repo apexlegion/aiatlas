@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.13618v2",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.13618v2",
+    "title": "AI Model Design and Physician Liability",
+    "link": "https://arxiv.org/abs/2608.13618",
+    "description": "arXiv:2608.13618v2 Announce Type: replace Abstract: Clinical algorithms can perform differently across patient groups, a concern that grows as these algorithms increasingly take the form of artificial intelligence (AI) models. In the United States, a 2024 federal rule bars healthcare providers that receive federal funds from discriminating through their use of clinical algorithms, which exposes them to liability when such use disadvantages a protected patient group. We examine how such liability considerations reshape (i) an AI firm's model design decisions that drive group-specific accuracy and (ii) a physician's decisions to use AI in healthcare delivery. The firm designs an AI model for two patient groups, and improving accuracy for the disadvantaged group is more costly. The physician (who remains the accountable decision maker) then decides whether to consult AI, weighing the reduction in clinical uncertainty against expected liability exposure when AI errors disproportionately affect the disadvantaged group. We find that this liability can induce disparate use of AI: the physician may reduce AI use overall and, over an intermediate range of liability, rely on AI less for disadvantaged patients. The effect is non-monotone. As liability increases, the physician's use of AI for disadvantaged patients first declines, then rises as the firm reallocates investment toward reducing disparity or switches to an equal-accuracy design. Mandating equal algorithmic accuracy across patient groups can then inadvertently harm both groups, because a uniform accuracy requirement distorts the firm's investment incentives and the physician's equilibrium AI-use decisions.",
+    "publishedAt": "2026-10-15",
+    "author": "Shujie Luan, Shubhranshu Singh, Tinglong Dai",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

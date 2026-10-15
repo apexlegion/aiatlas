@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.08374v4",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.08374v4",
+    "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
+    "link": "https://arxiv.org/abs/2605.08374",
+    "description": "arXiv:2605.08374v4 Announce Type: replace Abstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable the creation of future memories. We introduce MemQ, which applies TD($\\lambda$) eligibility traces to memory Q-values, propagating credit backward through a provenance DAG that records which memories were retrieved when each new memory was created. Credit weight decays as $(\\gamma\\lambda)^d$ with DAG depth $d$, replacing temporal distance with structural proximity. We formalize this setting as an Exogenous-Context MDP, separating externally supplied tasks from the evolving memory store, and represent retrieval-set values by a first-order mean of per-memory values plus an explicit approximation residual. Across five interaction, code-generation, and agentic benchmarks, MemQ improves average held-out, final runtime, and cumulative success rates over the baseline with the highest average for each metric by 2.53, 4.23, and 2.13 percentage points, respectively. Ablations on LiveCodeBench, BFCL, and DSBench support the benefit of bootstrapping and multi-depth credit propagation. Analyses of Q-values and runtime learning show that learned memory values are associated with subsequent success and that MemQ retains more of its historical task coverage. We also explore the limits of MemQ's benefits using multiple-choice reasoning tasks, where limited interaction offers fewer opportunities to reuse procedural experience. Code is available at https://github.com/jwliao-ai/MemQ.",
+    "publishedAt": "2026-10-15",
+    "author": "Junwei Liao, Haoting Shi, Ruiwen Zhou, Jiaqian Wang, Shengtao Zhang, Wei Zhang, Ying Wen, Zhiyu Li, Feiyu Xiong, Bo Tang, Weinan Zhang, Muning Wen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2606-28438v2",
+  "name": "When AI Reviews Its Own Code: Recursive Self-Training Collapse in Code LLMs",
+  "summary": "arXiv:2606.28438v2 Announce Type: replace-cross Abstract: Recursive self-training can degrade neural generative models when generated data is reused without fresh human data or external quality con...",
+  "description": "arXiv:2606.28438v2 Announce Type: replace-cross Abstract: Recursive self-training can degrade neural generative models when generated data is reused without fresh human data or external quality control. We study this risk in code LLMs, where AI-generated code can enter real repositories, later become training data, and create a repository-scale self-training loop. While software development tra...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2606.28438"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2606.28438"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Xinyuan Song, Zekun Cai, Liang Zhao"
+}

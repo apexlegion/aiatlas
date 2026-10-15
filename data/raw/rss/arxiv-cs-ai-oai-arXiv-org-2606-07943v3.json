@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.07943v3",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.07943v3",
+    "title": "One Skill, Two Masters: Serving Users and Attackers through Skill Injection",
+    "link": "https://arxiv.org/abs/2606.07943",
+    "description": "arXiv:2606.07943v3 Announce Type: replace-cross Abstract: Large language model agents use skills that package reusable instructions, code, and resources. Existing skill-injection attacks exploit trust in these packages by adding malicious content. As agents become more capable, however, they can skip unnecessary steps, inspect code, and reject unrelated actions. We introduce PERSIST, which connects attacker-chosen actions to useful functions for recurring tasks while reducing source inspection and expressed suspicion. It builds these helpers from simulated executions without access to real evaluation tasks or feedback. Skill descriptions introduce the helpers, while usage instructions explain how to call them. The extra action resides in an imported module separate from the helper entry file. Executing the helper can then serve both the user's task and the attacker's objective. Experiments on SkillsBench and Skill-Inject show that frozen packages transfer across four agent--model configurations and generalize to multiple unseen tasks without revision. Harmful effects can occur alongside successful task completion. A separate matched comparison shows higher harmful-effect rates with less source inspection and expressed suspicion than two baselines. Paired case studies illustrate how PERSIST can evade rejection, while ablations confirm the contributions of documentation guidance and module separation. Code: https://github.com/liofoil/SkillSafety.",
+    "publishedAt": "2026-10-15",
+    "author": "Haochang Hao, Dehai Min, Zhifang Zhang, Yunbei Zhang, Miao Xu, Yingqiang Ge, Philip S. Yu, Lu Cheng",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

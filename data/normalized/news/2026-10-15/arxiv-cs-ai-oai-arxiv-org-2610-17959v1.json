@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-17959v1",
+  "name": "Virtual Head Attention",
+  "summary": "arXiv:2610.17959v1 Announce Type: cross Abstract: The design of attention mechanisms in long-context large language models faces an ``impossible triangle'' among KV cache size, training and prefill...",
+  "description": "arXiv:2610.17959v1 Announce Type: cross Abstract: The design of attention mechanisms in long-context large language models faces an ``impossible triangle'' among KV cache size, training and prefill FLOPs, and model quality. GQA achieves strong quality but incurs high KV cache overhead; alternative approaches such as MLA and MFA can compress the cache, but MLA suffers from quality loss while MFA...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.17959"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.17959"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Xibo Ding, Guoxia Wang, Jinle Zeng, Jiabin Yang, Sirui Tao, Chao Yang, Dianhai Yu"
+}

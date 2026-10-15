@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2507.05291v2",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2507.05291v2",
+    "title": "Physics-Informed Graph Neural Networks to Reconstruct Local Fields Considering Finite Strain Hyperelasticity",
+    "link": "https://arxiv.org/abs/2507.05291",
+    "description": "arXiv:2507.05291v2 Announce Type: replace-cross Abstract: We propose a physics-informed machine learning framework called P-DivGNN to reconstruct local stress fields at the micro-scale, in the context of multi-scale simulation given a periodic micro-structure mesh and mean, macro-scale, stress values. This method is based in representing a periodic micro-structure as a graph, combined with a message passing graph neural network. We are able to retrieve local stress field distributions, providing average stress values produced by a mean field reduced order model (ROM) or Finite Element (FE) simulation at the macro-scale. The prediction of local stress fields are of utmost importance considering fracture analysis or the definition of local fatigue criteria. Our model incorporates physical constraints during training to constraint local stress field equilibrium state and employs a periodic graph representation to enforce periodic boundary conditions. The benefits of the proposed physics-informed GNN are evaluated considering linear and non linear hyperelastic responses applied to varying geometries. In the non-linear hyperelastic case, the proposed method achieves significant computational speed-ups compared to FE simulation, making it particularly attractive for large-scale applications.",
+    "publishedAt": "2026-10-15",
+    "author": "Manuel Ricardo Guevara Garban, Yves Chemisky, \\'Etienne Pruli\\`ere, Micha\\\"el Cl\\'ement",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

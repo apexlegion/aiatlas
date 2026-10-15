@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.15453v1",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.15453v1",
+    "title": "BridgeCodec: Mamba Enhanced Neural Audio Codec with Schr\\\"odinger Bridge at Low Bitrate",
+    "link": "https://arxiv.org/abs/2610.15453",
+    "description": "arXiv:2610.15453v1 Announce Type: cross Abstract: Neural audio codecs achieve remarkable performance but operate as closed ecosystems with rigidly co-trained encoderdecoder pairs, severely hindering interoperability. To resolve this, we propose BridgeCodec, a versatile framework that decouples these pairs by translating latent representations between mismatched, frozen endpoints. We formulate this cross-codec translation as a Schr\\\"odinger Bridge optimal transport problem, enabling robust mapping between disparate distributions without predefined noise priors. To efficiently capture longrange speech temporal dependencies, we integrate a Mambaenhanced U-Net architecture. We validate BridgeCodec on an extreme deployment scenario: mapping a lightweight 8 kHz source encoder directly to a 48 kHz target decoder at an ultralow bitrate of 1 kbps. Experimental results demonstrate that BridgeCodec achieves superior wideband reconstruction and high perceptual quality, successfully bridging heavily bottlenecked, heterogeneous codecs.",
+    "publishedAt": "2026-10-15",
+    "author": "Zijian Lin, Jing Yang, Jinghao Luo, Zhuo Wang, Fan Fan, Zhiyong Wu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

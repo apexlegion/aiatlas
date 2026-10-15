@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-15258v1",
+  "name": "Sequent-Prover: Training Agents for Formal, Checkable SMT-based Reasoning",
+  "summary": "arXiv:2610.15258v1 Announce Type: cross Abstract: We introduce Sequent-Prover, a family of verifier-using language-model agents, and the post-training framework that produces them. Agents reason in...",
+  "description": "arXiv:2610.15258v1 Announce Type: cross Abstract: We introduce Sequent-Prover, a family of verifier-using language-model agents, and the post-training framework that produces them. Agents reason in an executable SMT-LIB scratchpad: they write complete SMT-LIB programs, query Z3 across turns, inspect solver feedback, repair formalizations, and terminate with an explicit answer. Our recipe, verif...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.15258"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.15258"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Debargha Ganguly, Weicong Chen, Mohsen Hariri, Vikash Singh, Sreehari Sankar, Shouren Wang, Wang Yang, Biyao Zhang, Chaoda Song, Alexander Nemecek, Kai Ye, Osama Zafar, Erman Ayday, Joe Stubbs, Srinivasan Iyengar, Vipin Chaudhary"
+}

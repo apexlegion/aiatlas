@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.22377v2",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.22377v2",
+    "title": "Forecasting Brain Tracer Distribution from Pre-Contrast MRI: A Comparison of Direct Regression and Flow Matching",
+    "link": "https://arxiv.org/abs/2609.22377",
+    "description": "arXiv:2609.22377v2 Announce Type: replace-cross Abstract: Intrathecal contrast-enhanced MRI shows how a tracer injected into the cerebrospinal fluid spreads through the brain, but requires repeated scans over 24--48\\,h. We therefore ask how much of the later tracer distribution can be predicted from the pre-contrast scan and elapsed time alone. Using 104 training patients (878 MRI volumes), we compared a direct image-to-image regression model with a more complex generative model based on conditional flow matching, and tested both on 23 held-out patients and on 51 patients from a separate cohort with idiopathic normal pressure hydrocephalus (INPH). The direct model reduced the error of simply copying the pre-contrast scan by about 60\\% in held-out patients and 25\\% in the INPH cohort, and its predicted change maps agreed with the observed tracer enhancement rather than only reproducing anatomy. The generative model was less accurate in both cohorts. A substantial part of the later tracer distribution is therefore predictable from the patient's brain anatomy as seen on pre-contrast MRI, and the added model complexity gave no benefit at this data scale. With prospective validation, such forecasts could be studied for patient stratification and treatment planning in intrathecal therapies.",
+    "publishedAt": "2026-10-15",
+    "author": "Qinghui Liu, Jon Andr\\'e Ottesen, Thu Nguyen, Geir Ringstad, Ingrid Mossige, Siri Fl{\\o}gstad Svensson, Atle Bj{\\o}rnerud, Per Kristian Eide, Kyrre Eeg Emblem",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

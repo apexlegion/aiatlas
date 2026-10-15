@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-14219v1",
+  "name": "Learnable Low-Rank Polynomial Sketch for Effective Linear Attention",
+  "summary": "arXiv:2610.14219v1 Announce Type: cross Abstract: Softmax attention in Transformers suffers from quadratic complexity in sequence length, making it impractical for long-context applications. Linear...",
+  "description": "arXiv:2610.14219v1 Announce Type: cross Abstract: Softmax attention in Transformers suffers from quadratic complexity in sequence length, making it impractical for long-context applications. Linear attention alleviates this issue by replacing the exponential kernel with alternative functions that enable linear-time computation. Among existing linear attention approaches, recent studies have sho...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.14219"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.14219"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Zongyue Qin, Haoran Deng, Jason Cong, Yizhou Sun"
+}

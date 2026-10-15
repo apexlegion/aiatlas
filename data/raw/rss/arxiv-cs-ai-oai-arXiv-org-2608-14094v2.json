@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.14094v2",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.14094v2",
+    "title": "P2Skill: Privacy Preserving Skill Distillation for Cloud-Local LLM Inference Systems",
+    "link": "https://arxiv.org/abs/2608.14094",
+    "description": "arXiv:2608.14094v2 Announce Type: replace-cross Abstract: Cloud-local LLM inference can use the reasoning capability of large cloud models, but cloud-bound requests must exclude personally identifiable information (PII). Existing privacy-preserving methods modify the prompt or the model, which may distort contextual semantics or require additional training. This paper proposes P2Skill, a prompt-based skill distillation method in which a local small language model (SLM) autonomously performs four skills. A cloud LLM iteratively refines the skills from execution failures to let the local SLM generalize beyond memorized PII patterns, and the final skills are selected at the lowest validation leakage within set bounds. P2Skill requires no privacy-specific fine-tuning or learned auxiliary detectors. On real user queries, P2Skill on the best of three local SLMs transmits fewer annotated identifiers than every existing privacy-preserving method that sends text to the cloud and preserves quality more often than the closest of them in leakage, although fully local answering preserves quality more often.",
+    "publishedAt": "2026-10-15",
+    "author": "Myunghoon Ryu, Geunpyo Park, Sungjoon Lee, XinYu Piao, Jong-Kook Kim",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

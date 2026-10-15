@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-17266v1",
+  "name": "RL Post-Training Diffusion Language Models Along Their Own Generation Paths",
+  "summary": "arXiv:2610.17266v1 Announce Type: new Abstract: Diffusion language models are a promising and more efficient alternative to autoregressive models. However, most RL post-training techniques are not...",
+  "description": "arXiv:2610.17266v1 Announce Type: new Abstract: Diffusion language models are a promising and more efficient alternative to autoregressive models. However, most RL post-training techniques are not easily adapted to these models. One issue is that diffusion language models generate answers through many intermediate states, deciding at each step which masked positions to reveal and which tokens t...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.17266"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.17266"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Vaibhav Singh, Eugene Belilovsky"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-16298v1",
+  "name": "Memory-Efficient Integer-Only Training of Deep Neural Networks",
+  "summary": "arXiv:2610.16298v1 Announce Type: new Abstract: Training neural networks in reduced precision can yield significant efficiency gains, yet all existing methods that scale to standard computer vision...",
+  "description": "arXiv:2610.16298v1 Announce Type: new Abstract: Training neural networks in reduced precision can yield significant efficiency gains, yet all existing methods that scale to standard computer vision benchmarks retain floating-point in at least one stage, typically the weight update or optimizer state. We present a training algorithm that scales to modern deep neural networks, in which every tens...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.16298"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.16298"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Hazem Hesham Yousef Shalby, Fabrizio Pittorino, Manuel Roveri"
+}

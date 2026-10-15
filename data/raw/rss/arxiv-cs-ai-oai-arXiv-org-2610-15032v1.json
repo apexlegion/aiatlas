@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.15032v1",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.15032v1",
+    "title": "InCLAD: A Continual Learning Benchmark for Industrial Visual Anomaly Detection",
+    "link": "https://arxiv.org/abs/2610.15032",
+    "description": "arXiv:2610.15032v1 Announce Type: cross Abstract: Industrial anomaly detection benchmarks have advanced rapidly, yet they remain largely static and therefore underrepresent deployment settings in which inspection systems must be extended from one industrial component to another over time. In our setting, continual industrial anomaly detection is framed as a task-incremental problem: each component defines a task, while the learning objective remains semi-supervised. The goal extends beyond conventional anomaly detection, since models should preserve their performance on all components as they are sequentially exposed to new components. This framing is especially relevant because many existing industrial pipelines either assume fully supervised defect labels or study only isolated datasets, leaving open the question of how semi-supervised anomaly detectors behave across a sequence of heterogeneous components. We address this gap by organizing the benchmark as a sequence of related component-level tasks and by defining multiple scenarios, including random, easy-to-hard, and hard-to-easy. In addition to single-dataset continual scenarios, we propose challenging scenarios spanning across multiple datasets. We further evaluate continual performance from two complementary perspectives: image-level anomaly detection and pixel-level anomaly localization. By recasting industrial anomaly detection as a continual benchmark rather than a static train/test problem, our work establishes a concrete path toward studying knowledge retention, adaptation, and generalization in evolving industrial environments.",
+    "publishedAt": "2026-10-15",
+    "author": "{\\L}ukasz Marcjan, Dorota Wilk-Ko{\\l}odziejczyk, Roberto Corizzo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-17588v1",
+  "name": "Taming Softmax at the Limits of Muon: A Unified Approach through Hilbert Geometry",
+  "summary": "arXiv:2610.17588v1 Announce Type: cross Abstract: Muon controls weight updates through the RMS movement of a linear layer's output. This implicitly treats the linear output as a proxy for the full...",
+  "description": "arXiv:2610.17588v1 Announce Type: cross Abstract: Muon controls weight updates through the RMS movement of a linear layer's output. This implicitly treats the linear output as a proxy for the full module, including the nonlinearity that follows. This proxy can be misleading for softmax, where the RMS shift in activations does not faithfully measure the change in the output distribution. We prop...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.17588"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.17588"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Aditya Somasundaram, Charles Guille-Escuret, Alexander Moreno, Zhengzhong Liu, Eric Xing"
+}

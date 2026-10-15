@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-10-14T07:25:47.703Z",
+  "fetchedAt": "2026-10-15T07:16:33.085Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -125,7 +125,7 @@
       "region:us"
     ],
     "downloads": 3694714,
-    "likes": 6638,
+    "likes": 6644,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -347,16 +347,15 @@
     ],
     "spaces": [
       "tardellirs/model-pulse",
-      "mteb/leaderboard",
       "embedl/hfviewer",
       "fastgpu/vram-and-gpu-cost-calculator",
+      "openai/whisper",
+      "emanforhelp/model-pulse",
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "mrfakename/kitten-tts-2",
-      "emanforhelp/model-pulse",
-      "openai/whisper",
       "hf-audio/whisper-large-v3",
       "alexnasa/HuMo_local",
-      "aquanode/gpu-vram-calculator",
+      "RyeAI/danish-asr-leaderboard",
       "Metric-AI/ArmBench-ASR",
       "Vyvo/mytts-tr2-test",
       "artificialguybr/Video-Transcription-Smart-Summary",
@@ -381,9 +380,7 @@
       "Illia56/transcribe-video-via-whisper-v3",
       "ylacombe/create-your-own-TTS-dataset",
       "phinam112/OmniVoice-Studio",
-      "RyeAI/danish-asr-leaderboard",
       "navidved/open_persian_asr_leaderboard",
-      "eduagarcia/multilingual-tokenizer-leaderboard",
       "mozilla-ai/transcribe",
       "mrm8488/whisper-large-v3",
       "msalhab96/open_universal_arabic_asr_leaderboard_all",
@@ -445,7 +442,10 @@
       "ganga4364/stt-tibetan",
       "ghourmetto/openai-whisper-large-v3",
       "Speedofmastery/orynxml-backend",
-      "Yash030/claude-code-proxy"
+      "Yash030/claude-code-proxy",
+      "ArtFix0/speech-to-speech-dashboard",
+      "ysharma/gr-workflow-microduck-lab",
+      "geraldadli/speech-emotion-recognition"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {
@@ -455,6 +455,6 @@
       "total": 1543490560
     },
     "inference": "warm",
-    "usedStorage": 31626663890
+    "usedStorage": 31658039844
   }
 }

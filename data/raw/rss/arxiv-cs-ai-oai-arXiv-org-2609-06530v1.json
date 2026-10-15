@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.06530v1",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.06530v1",
+    "title": "Selective Knowledge Control for Continual GUI Agent Learning over Application Streams",
+    "link": "https://arxiv.org/abs/2609.06530",
+    "description": "arXiv:2609.06530v1 Announce Type: cross Abstract: Continual learning is a crucial capability for Graphical User Interface (GUI) agents to adapt to evolving applications while retaining knowledge acquired from previous applications. Such application streams pose a challenging knowledge modeling problem: new applications often share underlying knowledge with past ones, yet also introduce specific knowledge that must not interfere with historical knowledge. In this paper, we propose activation-conditioned selective knowledge control, a lightweight method that achieves selective knowledge retention via neuron-level gradient manipulation. Our method maintains a compact historical knowledge state to protect highly activated MLP neurons that preserve previous knowledge. When a new application arrives, it performs real-time gradient surgery conditioned on forward activation. Concretely, the protected neurons are categorized into two types: unactivated neurons holding specific knowledge, whose gradients are truncated to prevent interference; and activated neurons holding shared knowledge, whose gradients are orthogonally projected to preserve stability while enabling adaptation. After each application stage, newly identified critical neurons are merged into the historical state for future learning. Empirical evaluations on multi-app sequential benchmark demonstrate that our method effectively mitigates catastrophic forgetting on prior applications while sustaining robust adaptation to new ones.",
+    "publishedAt": "2026-10-15",
+    "author": "Zirui Shang, Xin Shu, Yang Liu, Zhi Gao, Xinxiao Wu, Lifeng Fan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

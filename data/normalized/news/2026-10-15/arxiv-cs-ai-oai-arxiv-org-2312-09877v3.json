@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2312-09877v3",
+  "name": "Optimal Transport Aggregation for Distributed Mixture-of-Experts",
+  "summary": "arXiv:2312.09877v3 Announce Type: replace-cross Abstract: This paper considers the setting in which local Mixture-of-experts (MoE) models are fitted independently on distributed datasets and must b...",
+  "description": "arXiv:2312.09877v3 Announce Type: replace-cross Abstract: This paper considers the setting in which local Mixture-of-experts (MoE) models are fitted independently on distributed datasets and must be combined into a single global MoE model. Weighted averaging the local mixtures, whose experts are not aligned across machines, often yields a large mixture with many experts instead of $K$ and does...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2312.09877"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2312.09877"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Fa\\\"icel Chamroukhi, Nhat Thien Pham"
+}

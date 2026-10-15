@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.18204v1",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.18204v1",
+    "title": "Reset Early, Reset Often, Eliminate Models",
+    "link": "https://arxiv.org/abs/2610.18204",
+    "description": "arXiv:2610.18204v1 Announce Type: cross Abstract: Connection-tableau provers typically construct closed tableaux by backtracking search. This gives lightweight proof procedures, but their low-memory search state leaves little derived information to reuse after a failed attempt. SATCoP addresses this by retaining grounded tableau clauses in an incremental SAT solver, allowing the prover to refute the problem once the accumulated ground clauses become propositionally unsatisfiable. We introduce SATResetCoP, which relies more directly on this persistent SAT state by not backtracking on unproductive tableaux and instead starting new ones to generate further ground clauses for the SAT solver. On TPTP, SATResetCoP improves over our leanCoP-style baseline by 54% and our SATCoP-style baseline by 18%. On the bushy MPTP2078 benchmark, it solves 616 problems, a 49% improvement over our leanCoP-style baseline and a 12% improvement over our SATCoP-style baseline. These results suggest that changing tableau guidance to accumulate useful ground clauses faster improves the performance of the prover.",
+    "publishedAt": "2026-10-15",
+    "author": "Martin S. Fixman, Fredrik R{\\o}mming, Sean B. Holden",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

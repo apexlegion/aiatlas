@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2610-20516",
+  "name": "VASPO: Self-Distillation with Privileged Value Estimation",
+  "summary": "On-policy self-distillation provides dense supervision for reasoning models via a privileged self-teacher. However, this supervision reflects local token preferences rather than the expected return...",
+  "description": "On-policy self-distillation provides dense supervision for reasoning models via a privileged self-teacher. However, this supervision reflects local token preferences rather than the expected return of an unguided student continuation. Recent methods combine this signal with GRPO. They use GRPO for update directions and the teacher for signal scaling. However, we demonstrate a more effective integration within PPO. Specifically, we identify complementary positional dynamics: privileged information enhances a critic's value-prediction accuracy toward the response's end, whereas self-teacher g...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.20516v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-14",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2610.20516v1"
+    }
+  ],
+  "authors": [
+    "Fei Wu",
+    "Zhenrong Zhang",
+    "Jianshu Zhang",
+    "Jun Du"
+  ],
+  "paperId": "2610.20516",
+  "category": "cs.CL",
+  "publishedAt": "2026-10-14",
+  "abstract": "On-policy self-distillation provides dense supervision for reasoning models via a privileged self-teacher. However, this supervision reflects local token preferences rather than the expected return of an unguided student continuation. Recent methods combine this signal with GRPO. They use GRPO for update directions and the teacher for signal scaling. However, we demonstrate a more effective integration within PPO. Specifically, we identify complementary positional dynamics: privileged information enhances a critic's value-prediction accuracy toward the response's end, whereas self-teacher g..."
+}

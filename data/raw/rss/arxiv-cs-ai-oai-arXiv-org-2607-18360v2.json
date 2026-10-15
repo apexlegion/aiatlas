@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.18360v2",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.18360v2",
+    "title": "HALLMARK: How to Diagnose LLM Citation Verifiers and When to Deploy Them",
+    "link": "https://arxiv.org/abs/2607.18360",
+    "description": "arXiv:2607.18360v2 Announce Type: replace-cross Abstract: GPTZero found 53 NeurIPS 2025 accepted papers with hallucinated citations, and venues now screen submissions with automated reference checkers. Rule- and Large Language Model (LLM)-based verifiers are emerging, but many are released without a shared evaluation and each flags a different kind of error, so it is unclear which to trust or when to deploy them. We address this with HALLMARK (Hallucination benchmark): 2,526 BibTeX entries spanning 14 hallucination types, with per-type and diagnostic sub-test labels and further temporal, cross-domain, and real-world evaluation splits. We evaluate zero-shot and tool-augmented LLMs, a DOI-lookup baseline, and our own co-designed rule-based verifier, bibtex-updater. Verifiers can miss hallucinations and wrongly flag correct papers, so every flag still needs human review. The false positive rate (FPR) determines the review effort and thus limits deployment. The tested models exhibit an order-of-magnitude spread in FPR; agentic lookups buy recall but inflate FPR, and neither smaller models nor prompt optimization reach the frontier's operating point. A two-stage cascade with bibtex-updater avoids that inflation, providing an upper bound, given the co-design. These rankings, however, depend on what counts as a hallucination: re-scoring the types that describe a real work cited inaccurately changes which verifier ranks first, and venues have not agreed on a definition. We call for a community definition and release per-type labels and a re-scoring protocol so that any agreed definition can be scored against every verifier.",
+    "publishedAt": "2026-10-15",
+    "author": "Kayoon Kim, Wieland Brendel, Patrik Reizinger",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

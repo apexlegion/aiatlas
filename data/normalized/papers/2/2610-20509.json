@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2610-20509",
+  "name": "VascuSR: Iterative Anatomy-Aware Diffusion for CT Super-Resolution",
+  "summary": "Generative super-resolution (SR) can recover sharp detail in computed tomography (CT) images from severely downsampled observations, but the missing high-frequency content is not uniquely determine...",
+  "description": "Generative super-resolution (SR) can recover sharp detail in computed tomography (CT) images from severely downsampled observations, but the missing high-frequency content is not uniquely determined by the low-resolution input. Consequently, visually plausible reconstructions may contain anatomically unsupported vascular detail, such as missing, spurious, or incorrectly connected vessels. To overcome this challenge, we introduce VascuSR, an iterative anatomy-aware diffusion framework that combines image reconstruction with explicit 3D vascular guidance. First, to provide richer anatomical g...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.20509v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-14",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.20509v1"
+    }
+  ],
+  "authors": [
+    "Hairong Ni",
+    "Jiahe Huang",
+    "Minghao Guo",
+    "Wojciech Matusik",
+    "Rose Yu"
+  ],
+  "paperId": "2610.20509",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-14",
+  "abstract": "Generative super-resolution (SR) can recover sharp detail in computed tomography (CT) images from severely downsampled observations, but the missing high-frequency content is not uniquely determined by the low-resolution input. Consequently, visually plausible reconstructions may contain anatomically unsupported vascular detail, such as missing, spurious, or incorrectly connected vessels. To overcome this challenge, we introduce VascuSR, an iterative anatomy-aware diffusion framework that combines image reconstruction with explicit 3D vascular guidance. First, to provide richer anatomical g..."
+}

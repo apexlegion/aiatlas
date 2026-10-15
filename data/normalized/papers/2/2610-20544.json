@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2610-20544",
+  "name": "Detection of Potato Plant Leaf Diseases using Convolutional Neural Networks",
+  "summary": "Potato is an important food-security crop in Ethiopia, but its production is affected by foliar diseases, particularly early blight and late blight. This study develops a lightweight convolutional...",
+  "description": "Potato is an important food-security crop in Ethiopia, but its production is affected by foliar diseases, particularly early blight and late blight. This study develops a lightweight convolutional neural network (CNN) to classify potato leaves into three categories: healthy, early blight, and late blight. The proposed model was trained using 2,215 images from the PlantVillage dataset and evaluated on an independent field dataset containing 247 images collected from potato farms in Banja, Awi Zone, Ethiopia. On PlantVillage, the model achieved 99.04% training accuracy, 98.21% validation accu...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.20544v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-14",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.20544v1"
+    }
+  ],
+  "authors": [
+    "Haimanot Bitew Alemayehu",
+    "Simachew Melaku Ayalew",
+    "Chilotie Desalew Mengesha",
+    "Ayisheshim Almaw Bogale",
+    "Anteneh Birhan Yenew",
+    "Abrham Tegegne Bogale"
+  ],
+  "paperId": "2610.20544",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-14",
+  "abstract": "Potato is an important food-security crop in Ethiopia, but its production is affected by foliar diseases, particularly early blight and late blight. This study develops a lightweight convolutional neural network (CNN) to classify potato leaves into three categories: healthy, early blight, and late blight. The proposed model was trained using 2,215 images from the PlantVillage dataset and evaluated on an independent field dataset containing 247 images collected from potato farms in Banja, Awi Zone, Ethiopia. On PlantVillage, the model achieved 99.04% training accuracy, 98.21% validation accu..."
+}

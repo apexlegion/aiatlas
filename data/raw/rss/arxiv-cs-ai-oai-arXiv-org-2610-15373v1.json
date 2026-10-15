@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.15373v1",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.15373v1",
+    "title": "In-Place Indic Tokenizer Expansion and Continual Pretraining of Nemotron-3-Nano-30B-A3B",
+    "link": "https://arxiv.org/abs/2610.15373",
+    "description": "arXiv:2610.15373v1 Announce Type: cross Abstract: We adapted Nemotron-3-Nano-30B-A3B for eight Indian languages without changing its backbone architecture. We expanded the vocabulary in place from 131,072 to 163,072 entries using continued byte-pair encoding and AdaptMix rebalancing, reducing tokens per word by 38.6%. We initialized new input and output rows by averaging their original constituent rows, then trained them on 90% Indic and 10% English text before updating the backbone. Continual pretraining then progressed through broad training, high-quality annealing, and long-context training over approximately 1.27 trillion tokens. The annealed checkpoint gained 12.9 points on the Indic MILU benchmark but lost 3.4 on English MMLU. We also report practical negative results. Direct token addition underperformed continued byte-pair encoding. AdamW weight decay changed rows intended to stay fixed. Perplexity on an Indic-heavy holdout did not select the learning rate that best preserved English performance.",
+    "publishedAt": "2026-10-15",
+    "author": "Avinash Benki, Prasanjith Pasunuti, Sutanshu Saksena Raj, Parijat Chatterjee, Nayanjit Sarkar, Daksh Maan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

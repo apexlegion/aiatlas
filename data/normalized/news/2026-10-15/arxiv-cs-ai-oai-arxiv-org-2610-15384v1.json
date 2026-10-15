@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-15384v1",
+  "name": "E8 Lattice Key Quantization for Low-Bit KV-Cache Compression",
+  "summary": "arXiv:2610.15384v1 Announce Type: cross Abstract: Compressing the key-value (KV) cache is essential for serving long-context large language models (LLMs) under memory constraints. While current sca...",
+  "description": "arXiv:2610.15384v1 Announce Type: cross Abstract: Compressing the key-value (KV) cache is essential for serving long-context large language models (LLMs) under memory constraints. While current scalar quantization methods achieve significant compression, they typically face a quality-fidelity trade-off, either suffering from performance instability at 2-bit precision or necessitating 3-bit keys...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.15384"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.15384"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Sasho Nedelkoski, Alexander Acker, Soeren Becker, Dominik Scheinert, Odej Kao"
+}

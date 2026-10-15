@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.05141v2",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.05141v2",
+    "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
+    "link": "https://arxiv.org/abs/2608.05141",
+    "description": "arXiv:2608.05141v2 Announce Type: replace Abstract: Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. However, existing long-context corpora are dominated by books, academic articles, and code repositories, which are finite and often lack long-distance dependencies. In this work, we introduce OctoLong, a context-engineering pipeline that instruments an AST parser, a language server backend, and a package manager to recursively retrieve code references, enabling the curation of dependency-rich code contexts up to millions of tokens long. We then train OctoLong-Instruct, a suite of capable long-context open LMs, derived from base models ranging in size from 600M to 14B parameters, via context-extension mid-training on a approx 50B-token mixture containing approx 6.2B tokens of OctoLong code contexts, followed by approx 10B tokens of instruction tuning. Our ablations and experimental evaluations against 18 strong long-context open-weight LMs show that supplanting just 12% of conventional context-extension corpora with OctoLong data yields substantial gains in long-range retrieval, long-term state tracking, repository-level code understanding, and downstream agentic tasks, while also enhancing API usage in regular coding scenarios.",
+    "publishedAt": "2026-10-15",
+    "author": "Indraneil Paul, Falko Helm, Goran Glava\\v{s}, Iryna Gurevych",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

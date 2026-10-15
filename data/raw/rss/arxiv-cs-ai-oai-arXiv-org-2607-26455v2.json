@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.26455v2",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.26455v2",
+    "title": "ForgetBench: Benchmarking Forgetting Dynamics of Long-Term Parametric Memory in Language Models",
+    "link": "https://arxiv.org/abs/2607.26455",
+    "description": "arXiv:2607.26455v2 Announce Type: replace-cross Abstract: Large language models (LLMs) have demonstrated strong capabilities in knowledge acquisition and reasoning, yet their ability to retain previously acquired knowledge under repeated updates remains insufficiently understood. Existing evaluation paradigms primarily focus on single-step reasoning or static knowledge editing, which fail to capture the temporal dynamics of knowledge retention and degradation during continual model modification. In this work, we propose \\textbf{ForgetBench}, a benchmark for measuring forgetting dynamics in the long-term parametric memory of LLMs under continual knowledge editing. ForgetBench introduces two complementary evaluation paradigms, namely concept-based QA and scenario-based QA, to probe the retention of isolated facts and structured relational knowledge. Building upon a sequential editing framework, we construct temporally ordered knowledge streams and evaluate model behavior across multiple editing stages. To quantify these dynamics, we introduce a unified evaluation framework that indexes memory age by the number of subsequent edits and measures temporal decay, retention strength, and cross-instance stability. Extensive experiments across diverse models and editing methods reveal distinct forgetting trajectories and a recurring tension between long-term retention and generalization quality. Our findings highlight the need for more robust memory mechanisms that can effectively acquire, update, and preserve knowledge over time in future LLMs.",
+    "publishedAt": "2026-10-15",
+    "author": "Ruxi Gu, Zhenliang Zhang, Zilei Wang, Wei Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

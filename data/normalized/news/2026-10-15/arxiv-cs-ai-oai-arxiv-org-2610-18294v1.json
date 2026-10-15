@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-18294v1",
+  "name": "Which Optimizer Leaks Most? Optimizer Implicit Bias as a Training-Data Privacy Controller",
+  "summary": "arXiv:2610.18294v1 Announce Type: cross Abstract: Releasing a neural network checkpoint can leak information about its training data, and existing reconstruction results rely on gradient-descent tr...",
+  "description": "arXiv:2610.18294v1 Announce Type: cross Abstract: Releasing a neural network checkpoint can leak information about its training data, and existing reconstruction results rely on gradient-descent training. We ask whether the choice of optimizer affects the ability to recover the training data. Extending work connecting Karush--Kuhn--Tucker conditions to training-data reconstruction, we show that...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.18294"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.18294"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Sagi Habani, Yehonathan Refael, Ofir Lindenbaum"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2610-20588",
+  "name": "Your Transformer Is Secretly Elastic",
+  "summary": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B,...",
+  "description": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L), forcing users to commit to a model based on hardware and latency constraints. This rigidity is often suboptimal under varying query loads. We introduce a retraining-free method that elastifies pre-trained transformers into a single model that adapts on-the-fly across a continuum of computational budgets. Our key contribution is a differentiable relaxation of the functional unit-ranking problem...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.20588v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-14",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.20588v1"
+    }
+  ],
+  "authors": [
+    "Walter Simoncini",
+    "Dheeraj Varghese",
+    "Gertjan J. Burghouts",
+    "Cees G. M. Snoek"
+  ],
+  "paperId": "2610.20588",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-14",
+  "abstract": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L), forcing users to commit to a model based on hardware and latency constraints. This rigidity is often suboptimal under varying query loads. We introduce a retraining-free method that elastifies pre-trained transformers into a single model that adapts on-the-fly across a continuum of computational budgets. Our key contribution is a differentiable relaxation of the functional unit-ranking problem..."
+}

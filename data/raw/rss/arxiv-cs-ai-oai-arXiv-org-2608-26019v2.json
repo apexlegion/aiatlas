@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.26019v2",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.26019v2",
+    "title": "DualOPSD: Closing the Feedback Loop in On-Policy Self-Distillation",
+    "link": "https://arxiv.org/abs/2608.26019",
+    "description": "arXiv:2608.26019v2 Announce Type: replace-cross Abstract: On-policy self-distillation (OPSD) combines student generated trajectories with dense supervision from a privileged teacher of the same model. Its pointwise clipping protects the student from locally incompatible teacher directions, but the fixed teacher receives no feedback about the supervision the student rejects, which limits effective learning from the teacher. We introduce DualOPSD, which alternates updates in a coupled teacher-student system. The student retains OPSD's clipped forward KL objective. The privileged teacher adapts to the updated student after each student step. A residual target based on the frozen initial model preserves the effect of privileged context during teacher adaptation. Across Qwen3-8B/4B/1.7B and three math benchmarks, DualOPSD improves avg@12 accuracy over OPSD by 9.83 percentage points. Further diagnostic analyses show lower bidirectional KL, less persistent mismatch, and retained sensitivity to privileged reference. Together, these results demonstrate that DualOPSD can be a more effective form of privileged self-distillation. Code is available at: https://github.com/on1262/DualOPSD.",
+    "publishedAt": "2026-10-15",
+    "author": "Yutong Chen, Guangfu Guo, Zhichao Xu, Kunpeng Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

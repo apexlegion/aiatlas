@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.19618v3",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.19618v3",
+    "title": "The pretraining domain outweighs the training objective in setting the privacy-utility trade-off of differentially private medical image analysis",
+    "link": "https://arxiv.org/abs/2601.19618",
+    "description": "arXiv:2601.19618v3 Announce Type: replace-cross Abstract: Differential privacy limits how much each training image can influence a medical imaging model but lowers its diagnostic accuracy. Pretrained weights reduce this loss. It is unknown whether the pretraining objective or domain improves accuracy more. Here we train chest radiograph classifiers under differential privacy from five starting points on 591,884 radiographs from five datasets. We show that supervised pretraining on chest radiographs ranks first in 24 of 25 combinations of dataset and privacy setting. Measured by the area under the receiver operating characteristic curve, its lead over supervised pretraining on natural images is 2.6% without privacy and 15.3% at the strictest budget. From that starting point, changing the domain improves this area 2.2 to 3.7 times more than changing the objective. Private pretraining on chest radiographs lowers this area by about 5% under privacy but outperforms the three starting points without patient data at the strictest budget. Under privacy, supervised chest radiograph pretraining leads in the worst-performing demographic subgroup.",
+    "publishedAt": "2026-10-15",
+    "author": "Soroosh Tayebi Arasteh, Mina Farajiamiri, Mahshad Lotfinia, Behrus Hinrichs-Puladi, Jonas Bienzeisler, Mohamed Alhaskir, Mirabela Rusu, Christiane Kuhl, Sven Nebelung, Daniel Truhn",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

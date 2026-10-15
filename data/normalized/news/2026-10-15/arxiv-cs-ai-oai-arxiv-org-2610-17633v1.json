@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-17633v1",
+  "name": "Executable Prefix Values for Locating Agent Failures",
+  "summary": "arXiv:2610.17633v1 Announce Type: new Abstract: Work on debugging LLM agents treats the \"first mistake\" marked by a human or LLM judge as ground truth for where a trajectory failed. We ask whether...",
+  "description": "arXiv:2610.17633v1 Announce Type: new Abstract: Work on debugging LLM agents treats the \"first mistake\" marked by a human or LLM judge as ground truth for where a trajectory failed. We ask whether such labels point at causes or symptoms, and make the distinction executable: we restart the agent from reconstructed intermediate states of a failed trajectory and estimate its prefix value V(h_t), t...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.17633"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.17633"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Bingyu Shen, Jiaqi Tang, Lan Wei, Yi Sheng, J. Jenny Li, Boyang Li"
+}

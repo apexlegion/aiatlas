@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-17338v1",
+  "name": "Budgeted KV-Cache Repair for Evolving Contexts",
+  "summary": "arXiv:2610.17338v1 Announce Type: new Abstract: Language-model agents revise their working context as information becomes obsolete, but deleting text does not erase its influence on cached computat...",
+  "description": "arXiv:2610.17338v1 Announce Type: new Abstract: Language-model agents revise their working context as information becomes obsolete, but deleting text does not erase its influence on cached computation. Later key-value (KV) states remain conditioned on the deleted content, while recomputing the entire retained suffix can be costly. We introduce budgeted KV-cache repair: recovering task performan...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.17338"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.17338"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Han Yu, Wenhui Zhu, Jincheng Cao, Rui Cai, Yuanda Xu, Zhengze Zhou, Xiwen Chen, Hao Wang, Xuanzhao Dong, Han Shi, Menglin Zhou, Shayan Mohajer Hamidi, Lin Su, Mina Razghandi, Sayan Ghosh, Qing Lan, Rohit Jain, Alborz Geramifard"
+}

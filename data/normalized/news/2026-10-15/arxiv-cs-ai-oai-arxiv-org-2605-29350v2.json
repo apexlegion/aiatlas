@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2605-29350v2",
+  "name": "ConMoE: MoE Compression as Expert Selection and Functional Assignment",
+  "summary": "arXiv:2605.29350v2 Announce Type: replace Abstract: Sparse Mixture-of-Experts (MoE) models scale model capacity through sparse activation, but storing their full parameters remains costly in GPU me...",
+  "description": "arXiv:2605.29350v2 Announce Type: replace Abstract: Sparse Mixture-of-Experts (MoE) models scale model capacity through sparse activation, but storing their full parameters remains costly in GPU memory. Existing expert compression methods address this problem through pruning, merging, or substitution, typically coupling expert pool construction with the assignment of routed workloads. In this w...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2605.29350"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2605.29350"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Yilun Yao, Jiaming Pan, Elsie Dai, Peizhuang Cong, Chao-Hsuan Liu, Yaoming Li, Tong Yang"
+}

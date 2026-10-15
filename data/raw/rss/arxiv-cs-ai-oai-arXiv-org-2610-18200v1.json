@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.18200v1",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.18200v1",
+    "title": "A Few More Tokens Ahead: Reinforcing Parallelism in Diffusion LLMs",
+    "link": "https://arxiv.org/abs/2610.18200",
+    "description": "arXiv:2610.18200v1 Announce Type: cross Abstract: Parallel generation is widely regarded as an inherent advantage of diffusion large language models. Yet our fixed-quota evaluation of four representative models reveals severe degradation across mathematics and code, with all scores below 15% at 16 tokens per step. Token-level probes identify local predictive potential near the observed prefix, especially in mathematical text. We propose RePara, which reinforces short consecutive token blocks through group-relative policy optimization and reduces rollout and log-probability recomputation costs. On LLaDA and SDAR, \\ours improves GSM8K and MATH-500 accuracy over JustGRPO under reduced denoising budgets, with a 1.96x training-step speedup in our LLaDA/MATH setup.",
+    "publishedAt": "2026-10-15",
+    "author": "Jiahao Kuang, Yangfan Gao, Tao Gui, Yuanbin Wu, Qi Zhang, Xuanjing Huang, Tao Ji",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

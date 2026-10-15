@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2609-31937v2",
+  "name": "Verification as an Architectural Layer for LLM Agents: A V-Model Design, and a Pilot Study of Its Deterministic Core",
+  "summary": "arXiv:2609.31937v2 Announce Type: replace-cross Abstract: Large language model (LLM) agents built on the ReAct pattern concentrate four responsibilities in one model: selecting a strategy, choosing...",
+  "description": "arXiv:2609.31937v2 Announce Type: replace-cross Abstract: Large language model (LLM) agents built on the ReAct pattern concentrate four responsibilities in one model: selecting a strategy, choosing each action, formatting it, and judging whether the result is adequate. Nothing outside the generative loop can reject its output, so an agent that cannot make progress does not report failure; it ru...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2609.31937"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2609.31937"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Ali Afoud, Jie JW Wu"
+}

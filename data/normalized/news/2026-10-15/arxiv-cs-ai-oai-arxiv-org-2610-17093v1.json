@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-17093v1",
+  "name": "SFT Leaves a Reproducible Signature in Activation Geometry: Calibrating Post-Training Interpretability Against Run-to-Run Noise",
+  "summary": "arXiv:2610.17093v1 Announce Type: new Abstract: A model diff credits post-training with whatever separates a base checkpoint from one post-trained descendant, presuming a rerun would land close by....",
+  "description": "arXiv:2610.17093v1 Announce Type: new Abstract: A model diff credits post-training with whatever separates a base checkpoint from one post-trained descendant, presuming a rerun would land close by. On the sparse co-activation graph of Qwen3-1.7B it does not: two LoRA-SFT reruns sit over half as far apart as either sits from the base. We score each base-to-post contrast against the run-to-run ba...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.17093"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.17093"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Xupeng Chen, Chenqian Le, Jiayi Cheng, Runhao Li, Michael Yue"
+}

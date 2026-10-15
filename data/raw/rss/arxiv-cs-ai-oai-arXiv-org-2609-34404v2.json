@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.34404v2",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.34404v2",
+    "title": "Eval4DiRec: A Unified and Systematic Evaluation Framework for Diffusion-based Recommender Systems",
+    "link": "https://arxiv.org/abs/2609.34404",
+    "description": "arXiv:2609.34404v2 Announce Type: replace-cross Abstract: Leveraging the strong generative capabilities and stable training dynamics of diffusion models, diffusion-based recommender systems (RSs) have recently emerged as a novel recommendation paradigm, attracting increasing attention from both academia and industry. However, despite the rapid growth of diffusion-based RSs, a critical issue has emerged: the lack of a unified and systematic quantitative evaluation benchmark, which often results in irreproducible experimental results and unfair comparisons across studies due to inconsistent data processing, training configurations, inference procedures, and evaluation protocols. To address this challenge, we propose Eval4DiRec, the first unified and open-source evaluation framework specifically designed for diffusion-based RSs. Eval4DiRec supports 14 representative diffusion-based RS models across five different recommendation scenarios, providing consistent and reproducible experimental settings to systematically assess their performance. Built upon this framework, we conduct extensive empirical studies to benchmark these models under unified protocols. The results highlight the strong potential of diffusion models for recommendation while also revealing key factors and practical challenges that substantially affect their performance, thereby establishing a solid foundation to facilitate fair evaluation and guide future research in this promising field. Our code and data are available at: https://github.com/wangcong2001/Eval4DiRec.",
+    "publishedAt": "2026-10-15",
+    "author": "Cong Wang, Shoujin Wang, Yishuo Li, Qi Zhang, Liang Hu, Wenpeng Lu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

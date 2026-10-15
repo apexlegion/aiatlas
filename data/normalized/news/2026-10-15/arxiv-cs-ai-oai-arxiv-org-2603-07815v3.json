@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2603-07815v3",
+  "name": "HybridStitch: Token-Adaptive Model Stitching for Efficient Diffusion Generation",
+  "summary": "arXiv:2603.07815v3 Announce Type: replace-cross Abstract: Iterative diffusion generation requires different amounts of model capacity at different token positions. Prior model combinations allocate...",
+  "description": "arXiv:2603.07815v3 Announce Type: replace-cross Abstract: Iterative diffusion generation requires different amounts of model capacity at different token positions. Prior model combinations allocate capacity by denoising step or by drafting and verification role. We present HybridStitch, a training-free framework that uses token-level feedback to select the model supplying each adopted update. C...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2603.07815"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2603.07815"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-15",
+  "expiryAt": "2026-11-14T00:00:00.000Z",
+  "author": "Desen Sun, Jason Hon, Jintao Zhang, Sihang Liu"
+}

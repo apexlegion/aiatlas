@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.25451v2",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.25451v2",
+    "title": "Learning with a Single Rollout via Pass@k Policy Optimization",
+    "link": "https://arxiv.org/abs/2606.25451",
+    "description": "arXiv:2606.25451v2 Announce Type: replace-cross Abstract: Group Relative Policy Optimization (GRPO) typically requires multiple rollouts per prompt to estimate relative credit, incurring substantial sampling cost and exacerbating training asynchrony. This limitation is particularly severe for scientific reasoning agents, where each trajectory may involve long-horizon reasoning, multiple turns, and parallel sub-runs. We study single-rollout reinforcement learning, where only one rollout is collected per prompt, and find that naive training can stagnate or become severely unstable. We introduce Single-Rollout Pass@k Policy Optimization (SR-PPO), which combines Monte Carlo token-level advantage estimation with Pass@k gradient reweighting. An online critic without large-scale pretraining is used both as a prefix-dependent baseline for credit assignment and to estimate the Pass@k gradient weight. Using only one rollout per prompt, SR-PPO achieves stable learning and performance comparable to GRPO across reasoning and logic benchmarks, even under off-policy drift that degrades the performance of standard Pass@1 PPO. A key factor in this stability is Pass@k reweighting, which emphasizes harder prompts while downweighting high-success prompts, for which imperfect credit estimates tend to produce noisier policy updates. Through analyses of critic quality, gradient noise, and update behavior, we investigate how Pass@k reweighting stabilizes single-rollout learning and why residual critic errors may limit SR-PPO's ability to outperform GRPO.",
+    "publishedAt": "2026-10-15",
+    "author": "Fengdi Che, Yang Liu, Lei Yu, Meng Cao, Tong Che, Rupam Mahmood, Dale Schuurmans",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

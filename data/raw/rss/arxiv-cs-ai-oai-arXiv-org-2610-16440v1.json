@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.16440v1",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.16440v1",
+    "title": "ARMED: Adaptive Retrieval-Augmented Medication Recommendation",
+    "link": "https://arxiv.org/abs/2610.16440",
+    "description": "arXiv:2610.16440v1 Announce Type: cross Abstract: Medication recommendation requires jointly considering diagnoses, comorbidities, longitudinal patient history, and treatment interactions. Although recent retrieval-augmented generation approaches using language models have shown promise for clinical recommendation, most existing systems rely on fixed retrieval pipelines that cannot adapt to diverse clinical retrieval scenarios and may introduce noisy or irrelevant evidence. We propose ARMED, an adaptive clinical RAG framework that dynamically expands retrieval according to retrieval sufficiency and current-admission relevance. ARMED first observes the initial retrieval outcome and selectively performs supplementary or fallback multi-query retrieval when additional evidence is needed. The framework also incorporates a relevance gate that activates only clinically relevant same-patient history and organizes retrieved evidence into structured query-level clinical evidence. Experiments on MIMIC-IV demonstrate that ARMED consistently outperforms previous static retrieval baselines and improves overall medication recommendation quality. By combining locally runnable small language models with adaptive retrieval, ARMED supports medication recommendation without relying on external language model APIs or task-specific fine-tuning.",
+    "publishedAt": "2026-10-15",
+    "author": "Kyungkeon Chung, Se Un Park, Hyejin Lee, Junyoung Park",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

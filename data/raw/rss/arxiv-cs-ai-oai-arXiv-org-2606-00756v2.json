@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.00756v2",
+  "fetchedAt": "2026-10-15T07:16:37.040Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.00756v2",
+    "title": "CoMIC: Collaborative Memory and Insights Circulation for Long-Horizon LLM Agents in Web Cloud-Edge Systems",
+    "link": "https://arxiv.org/abs/2606.00756",
+    "description": "arXiv:2606.00756v2 Announce Type: replace Abstract: LLM-based Web agents are increasingly deployed on edge servers to carry out long-horizon tasks on behalf of users with low latency. However, the lightweight models that fit on edge servers often struggle with long-horizon tasks that require persistent memory, subgoal tracking, and reflection. Fine-tuning edge models after deployment is costly and difficult to scale across heterogeneous nodes, while purely local execution confines each agent to its own isolated experience. We propose \\textsc{CoMIC}, a parameter-update-free cloud-edge framework for Collaborative Memory and Insights Circulation. Following the paradigm of ``Act at the Edge, Reflect in the Cloud'', edge agents execute locally with subgoal-oriented hierarchical memory and selective re-expansion of relevant histories, while a cloud-side LLM critic asynchronously evaluates the trajectories uploaded through a Web gateway, admits reusable experience, and circulates cross-agent guidance indexed by semantic subgoal identifiers back to all edge agents. On five long-horizon benchmarks, \\textsc{CoMIC} enables weak edge agents to achieve non-zero success on tasks where a standard memory-based agent fails entirely, and improves their task progress over both the standard agent and purely local execution while reducing context consumption relative to the standard agent, all without updating model parameters. When stronger heterogeneous agents join the edge, the weak agents further improve in success, progress, and grounding with lower context consumption.",
+    "publishedAt": "2026-10-15",
+    "author": "Yannan Wang, Longli Yang, Zhen Liu, Abhishek Kumar, Carsten Maple",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
