@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-22139v1",
+  "name": "Are You Sure Your LLM Is Sure? Repairing and Auditing Confidence",
+  "summary": "arXiv:2610.22139v1 Announce Type: new Abstract: Confidence scores determine whether an LLM answer is accepted, reviewed, or regenerated, yet scalar recalibration can only correct errors visible thr...",
+  "description": "arXiv:2610.22139v1 Announce Type: new Abstract: Confidence scores determine whether an LLM answer is accepted, reviewed, or regenerated, yet scalar recalibration can only correct errors visible through the score itself. We introduce RADAR (Repair, Adopt, and Diagnose After Recalibration), a reliability framework that separates confidence repair from deciding whether to deploy the repair and aud...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.22139"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-16",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.22139"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-16",
+  "expiryAt": "2026-11-15T00:00:00.000Z",
+  "author": "Arijit Dey, Bhartendu Kumar, Ramya Hebbalaguppe, Khuushi Maheshwari"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2604-17104v3",
+  "name": "TensorDex: A Compact, Tensor-Centric Storage System for Modern AI Models",
+  "summary": "arXiv:2604.17104v3 Announce Type: replace-cross Abstract: Modern model hubs store hundreds of petabytes of large language models (LLMs), with fine-tuned variants dominating the storage footprint. T...",
+  "description": "arXiv:2604.17104v3 Announce Type: replace-cross Abstract: Modern model hubs store hundreds of petabytes of large language models (LLMs), with fine-tuned variants dominating the storage footprint. These variants contain substantial cross-model redundancy that delta compression can exploit by storing only the difference between a target and a reference model. However, compression effectiveness de...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2604.17104"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-16",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2604.17104"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-16",
+  "expiryAt": "2026-11-15T00:00:00.000Z",
+  "author": "Tingfeng Lan, Zirui Wang, Yunjia Zheng, Zhaoyuan Su, Juncheng Yang, Yue Cheng"
+}

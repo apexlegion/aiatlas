@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.20635v1",
+  "fetchedAt": "2026-10-16T06:59:46.992Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.20635v1",
+    "title": "Exploring the Design Space of Permutation Diffusion LLMs",
+    "link": "https://arxiv.org/abs/2610.20635",
+    "description": "arXiv:2610.20635v1 Announce Type: cross Abstract: Permutation generation with language models requires both text-conditioned ranking and a global one-to-one assignment between candidates and output positions. We study this problem through three diffusion-LLM parameterizations: hard-assignment prediction over shuffled candidate-index sequences, soft-assignment prediction over doubly stochastic matrices, and direct ordering-score prediction followed by sorting. The three families place permutation constraints at different stages of prediction and decoding and therefore support different training objectives and sampling procedures. We evaluate these designs on recommendation reranking across three Amazon domains with candidate sets of size 10 and 20. At one function evaluation, the hard- and soft-assignment variants achieve Recall@1 comparable to a constrained masked-diffusion baseline, whereas direct ordering-score prediction guarantees valid permutations without Hungarian assignment or Sinkhorn normalization. Additional function evaluations do not consistently improve ranking quality, and their effect depends strongly on the state representation and training objective. These results show that corruption, prediction parameterization, objective, and decoder should be designed jointly for permutation diffusion with language-model denoisers.",
+    "publishedAt": "2026-10-16",
+    "author": "Zhe Xu, Mingfu Liang, Kavosh Asadi, Jean-Pascal Billaud, Tianyi Chen, Yanhui Guo, Christina Huang, Baekjin Kim, Jimmy Kim, Yufei Li, Daqi Sun, Jiachen Sun, Dian Yu, Zaiwei Zhang, Kaushik Rangadurai, Frank Shyu, Sandeep Pandey, Xi Liu, Luke Simon",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

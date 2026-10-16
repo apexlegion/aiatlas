@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2606-17090v2",
+  "name": "ANEForge: Python for direct computation on the Apple Neural Engine",
+  "summary": "arXiv:2606.17090v2 Announce Type: replace-cross Abstract: ANEForge is a Python package that programs the Apple Neural Engine (ANE), the fixed-function neural accelerator on every recent Apple devic...",
+  "description": "arXiv:2606.17090v2 Announce Type: replace-cross Abstract: ANEForge is a Python package that programs the Apple Neural Engine (ANE), the fixed-function neural accelerator on every recent Apple device, directly and without CoreML. In production the engine is reachable only through CoreML, which treats it as a scheduling option: no configuration requires the ANE, and a model can silently run on th...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2606.17090"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-16",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2606.17090"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-16",
+  "expiryAt": "2026-11-15T00:00:00.000Z",
+  "author": "Spencer H. Bryngelson"
+}

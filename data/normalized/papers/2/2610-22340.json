@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2610-22340",
+  "name": "Dexterity from Supervised Play",
+  "summary": "How can robots autonomously collect the contact-rich experience needed to learn dexterous manipulation? We present DSP: Dexterity from supervised play, a framework in which a robot learns a play po...",
+  "description": "How can robots autonomously collect the contact-rich experience needed to learn dexterous manipulation? We present DSP: Dexterity from supervised play, a framework in which a robot learns a play policy from minutes of human play through behavior cloning, then deploys it autonomously to collect hours of interaction data to train a world model. During inference, the same play policy then guides model-predictive control (MPC) by proposing candidate action sequences for evaluation under the learned world model. To accelerate inference, we also introduce a method for distilling a closed-loop, go...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.22340v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2610.22340v1"
+    }
+  ],
+  "authors": [
+    "Botao He",
+    "Yiming Dou",
+    "Yiannis Aloimonos",
+    "Jitendra Malik",
+    "Akash Sharma",
+    "Ruoshi Liu"
+  ],
+  "paperId": "2610.22340",
+  "category": "cs.RO",
+  "publishedAt": "2026-10-15",
+  "abstract": "How can robots autonomously collect the contact-rich experience needed to learn dexterous manipulation? We present DSP: Dexterity from supervised play, a framework in which a robot learns a play policy from minutes of human play through behavior cloning, then deploys it autonomously to collect hours of interaction data to train a world model. During inference, the same play policy then guides model-predictive control (MPC) by proposing candidate action sequences for evaluation under the learned world model. To accelerate inference, we also introduce a method for distilling a closed-loop, go..."
+}

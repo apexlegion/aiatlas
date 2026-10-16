@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2508.16947v3",
+  "fetchedAt": "2026-10-16T06:59:46.993Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2508.16947v3",
+    "title": "Drive As You Like: Multi-Head Diffusion with Reinforcement Learning for Personalized Driving",
+    "link": "https://arxiv.org/abs/2508.16947",
+    "description": "arXiv:2508.16947v3 Announce Type: replace-cross Abstract: Personalized autonomous driving requires understanding the driving needs implicit in user requests. This is challenging when driving demonstrations lack style annotations and behavioral adaptation risks degrading planning quality. We propose M-Diffusion Planner with a dual-decoupling design: separating intent understanding from trajectory planning, and general planning capability learning from strategy alignment. A large language model infers driving needs and selects a strategy, which is executed by the corresponding head of a shared diffusion planner. Following imitation pretraining, strategy-specific rewards specialize individual heads without style annotations. We innovatively adapt Group Relative Policy Optimization using surrogate policy-ratio estimation and constrained head-specific updates to mitigate degradation of pretrained planning capabilities. Open-loop and closed-loop evaluations on nuPlan demonstrate distinct strategy-aligned behaviors and competitive planning performance. Further experiments assess intent-to-strategy mapping and collision risk, and analyze the effects of reward design and optimization on strategy alignment and planning quality.",
+    "publishedAt": "2026-10-16",
+    "author": "Ding Fan, Xuewen Luo, Hwa Hui Tew,  Susilawati, Vishnu Monn Baskaran, Fucai Ke",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

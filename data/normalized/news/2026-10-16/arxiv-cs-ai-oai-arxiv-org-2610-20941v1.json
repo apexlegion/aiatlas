@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-20941v1",
+  "name": "Screwtape: Adversarial Transcript Editing for Monitor Red-Teaming",
+  "summary": "arXiv:2610.20941v1 Announce Type: cross Abstract: We present Screwtape, a pipeline that converts real agent transcripts into attacks that evade action-only monitors. An LLM attacker edits a transcr...",
+  "description": "arXiv:2610.20941v1 Announce Type: cross Abstract: We present Screwtape, a pipeline that converts real agent transcripts into attacks that evade action-only monitors. An LLM attacker edits a transcript so that the agent causes a specified harm, such as leaking an API key or spawning an unmonitored agent. The edited actions are never executed, so we use an LLM verifier to reject attacks that are...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.20941"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-16",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.20941"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-16",
+  "expiryAt": "2026-11-15T00:00:00.000Z",
+  "author": "Gosha Kozhevnikov, Tyler Tracy"
+}

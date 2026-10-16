@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-21337v1",
+  "name": "Does On-Policy Distillation Need to Complete Every Rollout?",
+  "summary": "arXiv:2610.21337v1 Announce Type: cross Abstract: On-policy distillation (OPD) effectively transfers capabilities from a teacher to a student through feedback on student-generated rollouts. However...",
+  "description": "arXiv:2610.21337v1 Announce Type: cross Abstract: On-policy distillation (OPD) effectively transfers capabilities from a teacher to a student through feedback on student-generated rollouts. However, generating complete student rollouts and computing teacher feedback for every token make OPD computationally expensive. We introduce Stochastic Truncated On-Policy Distillation (STOPD), which accele...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.21337"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-16",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.21337"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-16",
+  "expiryAt": "2026-11-15T00:00:00.000Z",
+  "author": "Zhengxin Zhang, Maosen Tang, Ning Wang, Changhao Li, Jingren Zhou, Bo Dai, Sainyam Galhotra, Alex Townsend, Claire Cardie"
+}

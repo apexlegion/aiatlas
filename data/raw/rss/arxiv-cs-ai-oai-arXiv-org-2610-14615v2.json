@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.14615v2",
+  "fetchedAt": "2026-10-16T06:59:46.993Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.14615v2",
+    "title": "Limitations on Autoregressive Token Generation via Sequential Sampling",
+    "link": "https://arxiv.org/abs/2610.14615",
+    "description": "arXiv:2610.14615v2 Announce Type: replace-cross Abstract: We study autoregressive token generation through the notion of sequential samplers: A circuit that samples the next symbol only given the previous ones and possibly a small amount of state. We show that (1) a sequential sampler with $k$ bits of state can be simulated by a stateless one at a roughly $O(2^{k})$ size overhead; (2) efficient insertional sampling (Stern, Chan, Kiros, Uszkoreit, ICML 2019) is more powerful than efficient sequential sampling in any fixed order; (3) sequential samplers with small state cannot establish certain forms of covert cryptographic channels. Result (1), together with the pseudoentropy vs. sequential sampleability duality of Vadhan and Zheng (STOC 2012), characterizes efficient sequential sampleability with small state. Result (3) provides a potential safety mechanism against subliminal coordination among malicious LLM agents.",
+    "publishedAt": "2026-10-16",
+    "author": "Gal Arnon, Andrej Bogdanov, Paul Lou, Giulio Malavolta, Alon Rosen, Lorenzo Taschin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

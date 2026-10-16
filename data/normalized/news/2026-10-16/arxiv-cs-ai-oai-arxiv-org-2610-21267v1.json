@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-21267v1",
+  "name": "TRACER: Trajectory-Aware Tool Retrieval for LLM Agents",
+  "summary": "arXiv:2610.21267v1 Announce Type: cross Abstract: Modern agents select tools from registries, but exposing entire registries incurs high token costs and can impair selection as they grow. We presen...",
+  "description": "arXiv:2610.21267v1 Announce Type: cross Abstract: Modern agents select tools from registries, but exposing entire registries incurs high token costs and can impair selection as they grow. We present TRACER, a retrieval front-end that indexes observed tool-call sequences in a trie and ranks continuations using a learned blend of empirical and contextual priors. On a mixed retail-and-telecom $\\ta...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.21267"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-16",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.21267"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-16",
+  "expiryAt": "2026-11-15T00:00:00.000Z",
+  "author": "Tanish Kher, Sarvesh DK, Abedelkadir Asi, Sparsha Chennarayapatna Sundaresh, Dezhi Hong"
+}

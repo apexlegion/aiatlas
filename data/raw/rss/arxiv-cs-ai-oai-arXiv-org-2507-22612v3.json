@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2507.22612v3",
+  "fetchedAt": "2026-10-16T06:59:46.992Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2507.22612v3",
+    "title": "Adaptive Duration Model for Text Speech Alignment",
+    "link": "https://arxiv.org/abs/2507.22612",
+    "description": "arXiv:2507.22612v3 Announce Type: replace-cross Abstract: Speech-to-text alignment is a critical component of neural text to speech (TTS) models. Autoregressive TTS models typically use an attention mechanism to learn these alignments on-line, while non-autoregressive end to end TTS models rely on durations extracted from external sources. In this paper, we propose a novel duration prediction framework that can give promising phoneme-level duration distribution with given text. In our experiments, the proposed duration model has more precise prediction and adaptation ability to conditions, compared to previous baseline models. Specifically, it makes a considerable improvement on phoneme-level alignment accuracy and makes the performance of zero-shot TTS models more robust to the mismatch between prompt audio and input audio.",
+    "publishedAt": "2026-10-16",
+    "author": "Junjie Cao",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

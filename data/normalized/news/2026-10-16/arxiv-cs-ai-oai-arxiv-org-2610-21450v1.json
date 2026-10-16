@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-21450v1",
+  "name": "X-Fly: Learning to Reach and Stop in Full-Chunk Aerial Vision-Language Navigation",
+  "summary": "arXiv:2610.21450v1 Announce Type: cross Abstract: Aerial vision-language navigation (VLN) agents built on large vision-language models are expensive to query. Executing a complete predicted action...",
+  "description": "arXiv:2610.21450v1 Announce Type: cross Abstract: Aerial vision-language navigation (VLN) agents built on large vision-language models are expensive to query. Executing a complete predicted action chunk before replanning amortizes this cost, reducing model inference from 195 to 42 ms per executed waypoint for our policy. It also moves the states at which the policy is queried away from expert d...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.21450"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-16",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.21450"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-16",
+  "expiryAt": "2026-11-15T00:00:00.000Z",
+  "author": "Ruibin Ju, Ruifeng Cai, Min Xu, Lin Wang"
+}

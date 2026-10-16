@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-20999v1",
+  "name": "EigDiff: Eigensample Diffusion - or how to significantly reduce training dataset size with marginal performance variation?",
+  "summary": "arXiv:2610.20999v1 Announce Type: cross Abstract: Diffusion models are notoriously expensive to train, requiring large-scale datasets to learn how to gradually reverse the noise from images over mu...",
+  "description": "arXiv:2610.20999v1 Announce Type: cross Abstract: Diffusion models are notoriously expensive to train, requiring large-scale datasets to learn how to gradually reverse the noise from images over multiple small denoising steps. Current approaches focus on distilling the number of diffusion steps, neglecting potential redundancies of the training data. In this paper, we explore the potential of h...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.20999"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-16",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.20999"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-16",
+  "expiryAt": "2026-11-15T00:00:00.000Z",
+  "author": "Andrei Jarca, Vlad Hondru, Florinel-Alin Croitoru, Radu Tudor Ionescu"
+}

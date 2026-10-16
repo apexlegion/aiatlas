@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.06898v2",
+  "fetchedAt": "2026-10-16T06:59:46.992Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.06898v2",
+    "title": "Self-Programmed Execution for Language-Model Agents",
+    "link": "https://arxiv.org/abs/2605.06898",
+    "description": "arXiv:2605.06898v2 Announce Type: replace Abstract: At the heart of a language model agent is an orchestrator program which is responsible for the state transition between consecutive turns. In existing systems, this program is implemented in the harness. This paper introduces self-programmed execution (SPE), in which the model completion is itself the orchestrator program, and the harness evaluates this program but does not impose any fixed orchestration policy. Formally, an SPE state of an agentic machine is one from which a model completion can load any successor state up to an embedding, and an instance of an SPE state is one which executes the model completion as a program. In practice, the program requires a language with unusual features, as its source code doubles as the content of the model's context window. I therefore introduce Spell, a Lisp dialect in which programs can edit and re-evaluate themselves, and effectful expressions like model invocations are structured such that re-evaluating an edited program does not replay its side effects. Experiments with existing models, not trained for SPE or Spell, show that frontier models can learn Spell in-context and accomplish challenging agentic tasks. These results demonstrate how a LM can act as an agent without any fixed orchestration policy, and they raise the question of what self-orchestration strategies might be learned by a model trained for self-programmed execution. Code is available at https://github.com/lukejoconnor/spell.",
+    "publishedAt": "2026-10-16",
+    "author": "Luke J. O'Connor",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.18253v2",
+  "fetchedAt": "2026-10-16T06:59:46.992Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.18253v2",
+    "title": "Mind the Delay: Latency-aware Query Routing for Heterogeneous LLM pools",
+    "link": "https://arxiv.org/abs/2607.18253",
+    "description": "arXiv:2607.18253v2 Announce Type: replace Abstract: Large language model (LLM) query routers typically assign each query to a suitable model that balances response accuracy and monetary cost. Subsequently, separate system-level load balancers based on policies such as join-the-shortest-queue or round-robin distribute the queries across replicas of each model to reduce latency. However, decoupling accuracy-cost and latency considerations can lead to suboptimal routing decisions. We introduce the Batch Evolution Aware (BEA) estimator to provide a fine-grained estimate of the latency, that is, the time-to-first-token (TTFT) experienced by an arriving query. Unlike existing load balancers that rely on coarse signals such as queue lengths, per-model processing rates, or historical average latencies, BEA replays the serving framework's token-batch formation using a snapshot of an instance's current workload, stopping when the incoming query's first token is generated. Taking into account the compute and memory requirements of the prefill and decode phases of language queries as well as the contention between multiple queries that are served in the same batch, BEA predicts TTFT within an error of approximately 5%. Each prediction takes about 0.1 ms, which is fast enough to run on the critical routing path. We also design an analytical framework for a model instance under a limited processor-sharing scheme that calculates expected TTFT in closed form and captures the qualitative trend of latencies as the load increases. The TTFT estimates produced by BEA are then used in our latency-aware router, BEAR, which simultaneously balances accuracy, cost, and latency to select the best model instance from a heterogeneous pool of LLMs. Against seven baselines, BEAR improves the utility of responses delivered within their targets by 63% on average over existing latency-aware routers, and by 30.5% over the best baseline at each arrival rate.",
+    "publishedAt": "2026-10-16",
+    "author": "Shivam Patel, Akaash R. Parthasarathy, Akash Dhasade, Ankur Mallick, Gauri Joshi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

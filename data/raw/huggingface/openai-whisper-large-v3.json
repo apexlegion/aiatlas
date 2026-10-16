@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-10-15T07:16:33.085Z",
+  "fetchedAt": "2026-10-16T06:59:45.759Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 3694714,
-    "likes": 6644,
+    "downloads": 3714301,
+    "likes": 6652,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -350,13 +350,13 @@
       "embedl/hfviewer",
       "fastgpu/vram-and-gpu-cost-calculator",
       "openai/whisper",
+      "mrfakename/kitten-tts-2",
       "emanforhelp/model-pulse",
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
-      "mrfakename/kitten-tts-2",
       "hf-audio/whisper-large-v3",
       "alexnasa/HuMo_local",
       "RyeAI/danish-asr-leaderboard",
-      "Metric-AI/ArmBench-ASR",
+      "Quran-Lab/quranic-asr-leaderboard",
       "Vyvo/mytts-tr2-test",
       "artificialguybr/Video-Transcription-Smart-Summary",
       "artificialguybr/video-dubbing",
@@ -387,7 +387,6 @@
       "mfielding92/insanely-fast-whisper-webui-zero",
       "richardzheng/whisper-large-v3",
       "hfmlsoc/different-flops",
-      "Quran-Lab/quranic-asr-leaderboard",
       "xianbao/whisper-v3-zero",
       "ameerazam08/Voice-Mistral-Voice",
       "hynt/ZipVoice-Vietnamese-100h",
@@ -445,7 +444,8 @@
       "Yash030/claude-code-proxy",
       "ArtFix0/speech-to-speech-dashboard",
       "ysharma/gr-workflow-microduck-lab",
-      "geraldadli/speech-emotion-recognition"
+      "geraldadli/speech-emotion-recognition",
+      "Maximofn/subtify"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {

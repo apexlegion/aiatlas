@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.21789v1",
+  "fetchedAt": "2026-10-16T06:59:46.992Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.21789v1",
+    "title": "In the Guise of Correction: How Framing and Cultural Adaptation Erode LLM Safety on Real-World Criminal Cases",
+    "link": "https://arxiv.org/abs/2610.21789",
+    "description": "arXiv:2610.21789v1 Announce Type: cross Abstract: Existing safety benchmarks rely largely on synthetic prompts with loosely grounded taxonomies and offer little focused analysis of severe crime categories. We introduce GUISE, a benchmark of criminal-assistance scenarios sourced from real-world cases and organised under a taxonomy from the UNODC International Classification of Crime for Statistical Purposes (ICCS). Each scenario is rendered under three linguistic framings and evaluated across five distinct cultures. Using our proposed two-tier evaluation framework, which judges both harmfulness and operational uplift, we find that: (i) framing alone drives unsafe compliance, with the mean unsafe compliance rate rising from 28.9% under direct requests to 66.4% under correction seeking (peaking at 97.3%; p &lt; 0.05), as models correcting deliberately distorted details supply executable criminal steps; (ii) culturally adapted prompts elicit significantly more unsafe compliance than literal translations of the same requests in all four non-English languages (+7 to +18 points), a risk that translation-based benchmarks miss; and (iii) unsafe responses from the least-safe models carry strong Anglocentric registers, and the extent of this leakage increases monotonically with response harmfulness ($\\rho$ = 0.46 to 0.63 across languages, all p &lt; 0.001). GUISE offers a grounded resource and fine-grained diagnostics for strengthening refusal alignment across languages and cultures. We publish our code and data to facilitate future research.",
+    "publishedAt": "2026-10-16",
+    "author": "Mohsinul Kabir, Md. Tariquzzaman, Karam S. R. Elradie, Polydoros Giannouris, Yuechen Jiang, Shaoxiong Ji, Sophia Ananiadou",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

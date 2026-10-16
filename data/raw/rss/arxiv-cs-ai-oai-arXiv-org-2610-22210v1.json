@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.22210v1",
+  "fetchedAt": "2026-10-16T06:59:46.992Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.22210v1",
+    "title": "TRACE: Topology-Aware Reconnection via Prediction-Adaptive Connectivity Enforcement for Thin-Structure Segmentation",
+    "link": "https://arxiv.org/abs/2610.22210",
+    "description": "arXiv:2610.22210v1 Announce Type: cross Abstract: Thin, elongated structures are particularly sensitive to connectivity errors, as even a few local segmentation mistakes can disrupt otherwise continuous paths. Existing skeleton-based objectives typically supervise fixed centerline locations and do not account for alternative local routes that may restore connectivity. We propose TRACE, a topology-aware, prediction-adaptive objective that uses a target skeleton to define required local connections. For each connection, TRACE identifies the easiest valid reconnection under the current prediction and jointly supervises its bottleneck with the corresponding skeleton point. The supervision thus adapts to the evolving prediction rather than remaining fixed to the centerline. We further introduce a topology-aware skeleton carrier that preserves both foreground and class-specific topology, enabling reliable definition of these connections. Extensive experiments across six 2D and 3D benchmarks show that TRACE improves connectivity and topology while maintaining strong segmentation accuracy with low training overhead. Code will be released upon acceptance.",
+    "publishedAt": "2026-10-16",
+    "author": "Junho Moon, Ikbeom Jang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

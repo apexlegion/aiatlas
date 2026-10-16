@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.35149v3",
+  "fetchedAt": "2026-10-16T06:59:46.992Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.35149v3",
+    "title": "From Migration to Calibration: Aligning Agents with Deployment Requirements",
+    "link": "https://arxiv.org/abs/2609.35149",
+    "description": "arXiv:2609.35149v3 Announce Type: replace Abstract: Deploying, migrating, or scaling an agent changes its model, support system, application, and users. Calibration should align the agent with destination requirements without requiring source imitation or universal superiority. We propose three standard families: basic capability and operational reachability; technical and professional precision, including terminology, units, reporting periods, program fidelity, and report dependencies; and user context covering roles, use cases, authorized values, permissions, and budgets. A versioned mapping distinguishes requirements to preserve, transform, add, or retire. Four instruments---benchmarks, positive/negative examples, skills, and role-conditioned cost/utility---supply tunable reward channels within a fixed acceptance contract. Consultants annotate methods, branches, bounded loops, checkpoints, relative comparisons, and report refinement; a registry records applicable evidence. Adaptation revises configurations or trains a separate controller or skill while freezing the foundation executor. Independent hard gates govern qualification; RL and preference methods optimize candidates without supplying factual truth. Qualification and held-out improvement over the unchanged target are separate outcomes. Supplied intent labels permit a limited paired recount: small prompt/retry gains coexist with regressions and failed gates. FinQA supplements match prior summaries and retain provenance conflicts. These observations motivate destination-specific evaluation but do not establish calibration efficacy. We specify matched-budget tests, clean reload, complete-denominator reporting, and dependency revalidation. This is a methodological proposal with partially reconciled pilot evidence; confirmatory validation and the greater-than-80% zero-shot task-context acceptance target remain outstanding.",
+    "publishedAt": "2026-10-16",
+    "author": "Yaxiao Liu (PwC China AI Center), Pengbo Liu (PwC China AI Center), Yiwen Liu (PwC China AI Center), Yihua Guan (PwC China AI Center), Jiaxing Song (Tsinghua University), Xingjian Li (PwC China AI Center)",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
