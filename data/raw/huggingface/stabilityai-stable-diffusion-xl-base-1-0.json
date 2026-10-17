@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-10-16T06:59:45.505Z",
+  "fetchedAt": "2026-10-17T06:49:40.012Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,8 +25,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4276998,
-    "likes": 8344,
+    "downloads": 4252456,
+    "likes": 8350,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -226,18 +226,16 @@
       "emanforhelp/model-pulse",
       "hugging-apps/qwen-video-edit",
       "kandinskylab/Kandinsky-6.0-Pro-distill-5s",
-      "hugging-apps/t3-video-4k",
-      "frogleo/Image-to-3D",
       "hugging-apps/kandinsky-6-lite-distill-5s",
-      "InstantX/InstantID",
       "multimodalart/lora-ease",
+      "hugging-apps/t3-video-4k",
+      "InstantX/InstantID",
       "Nymbo/Serverless-ImgGen-Hub",
+      "frogleo/Image-to-3D",
       "VAST-AI/MV-Adapter-Text2Texture",
-      "haodongli/DVD",
       "rupeshs/fastsdcpu",
       "alxander84/ImageGen-32",
       "Gramlin/ImageGen",
-      "phrographica/DVD-grayscale",
       "Dekonstruktio/Fluxus",
       "shootstuff/flux-img2img-uncensored",
       "BoobyBoobs/Flux_Lustly_AI_Uncensored_NSFW_V1",
@@ -319,7 +317,9 @@
       "linoyts/scribble-sdxl",
       "multimodalart/Boogu-Image",
       "TIGER-Lab/AnyV2V",
-      "tight-inversion/tight-inversion"
+      "tight-inversion/tight-inversion",
+      "clinteroni/outpainting-with-differential-diffusion-demo",
+      "briaai/BRIA-Eraser-API"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {

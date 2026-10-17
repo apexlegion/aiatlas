@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-10-16T06:59:45.759Z",
+  "fetchedAt": "2026-10-17T06:49:40.259Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 3714301,
-    "likes": 6652,
+    "downloads": 3716209,
+    "likes": 6657,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -346,17 +346,17 @@
       }
     ],
     "spaces": [
-      "tardellirs/model-pulse",
       "embedl/hfviewer",
       "fastgpu/vram-and-gpu-cost-calculator",
       "openai/whisper",
       "mrfakename/kitten-tts-2",
       "emanforhelp/model-pulse",
-      "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "hf-audio/whisper-large-v3",
+      "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "alexnasa/HuMo_local",
       "RyeAI/danish-asr-leaderboard",
       "Quran-Lab/quranic-asr-leaderboard",
+      "krmkayabasi/Anka-TTS",
       "Vyvo/mytts-tr2-test",
       "artificialguybr/Video-Transcription-Smart-Summary",
       "artificialguybr/video-dubbing",
@@ -408,7 +408,6 @@
       "build-small-hackathon/afri_farm_ai",
       "BSC-LT/CATALAN-ASR-ARENA",
       "hugging-apps/ex-omni-talking-avatar",
-      "krmkayabasi/Anka-TTS",
       "micknikolic/speech-to-text",
       "sergioska/audio-lab",
       "TheMaisk/TheMaisk_whsiper_v3",
@@ -445,7 +444,8 @@
       "ArtFix0/speech-to-speech-dashboard",
       "ysharma/gr-workflow-microduck-lab",
       "geraldadli/speech-emotion-recognition",
-      "Maximofn/subtify"
+      "Maximofn/subtify",
+      "TogetherAI/whisper-large-v3"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {
