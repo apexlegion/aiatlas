@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-10-17T06:49:40.012Z",
+  "fetchedAt": "2026-10-18T07:09:31.316Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,8 +25,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4252456,
-    "likes": 8350,
+    "downloads": 4270566,
+    "likes": 8356,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -220,20 +220,19 @@
       }
     ],
     "spaces": [
-      "embedl/hfviewer",
       "fastgpu/vram-and-gpu-cost-calculator",
       "RioShiina/ImageGen",
-      "emanforhelp/model-pulse",
+      "embedl/hfviewer",
       "hugging-apps/qwen-video-edit",
-      "kandinskylab/Kandinsky-6.0-Pro-distill-5s",
-      "hugging-apps/kandinsky-6-lite-distill-5s",
+      "emanforhelp/model-pulse",
       "multimodalart/lora-ease",
-      "hugging-apps/t3-video-4k",
+      "kandinskylab/Kandinsky-6.0-Pro-distill-5s",
       "InstantX/InstantID",
+      "VAST-AI/TripoSG",
       "Nymbo/Serverless-ImgGen-Hub",
       "frogleo/Image-to-3D",
-      "VAST-AI/MV-Adapter-Text2Texture",
       "rupeshs/fastsdcpu",
+      "hugging-apps/kandinsky-6-lite-distill-5s",
       "alxander84/ImageGen-32",
       "Gramlin/ImageGen",
       "Dekonstruktio/Fluxus",
@@ -242,7 +241,6 @@
       "Mayara3167/NewNSFWSpaceMultiModelGen",
       "yisol/IDM-VTON",
       "yanze/PuLID-FLUX",
-      "VAST-AI/TripoSG",
       "lllyasviel/Omost",
       "radames/Real-Time-Latent-Consistency-Model",
       "YupengZhou/StoryDiffusion",
@@ -305,6 +303,7 @@
       "artificialguybr/JUGGERNAUT-XL-FREE-DEMO",
       "radames/real-time-pix2pix-turbo",
       "huanngzh/MV-Adapter-T2MV-Anime",
+      "VAST-AI/MV-Adapter-Text2Texture",
       "wangfuyun/Phased-Consistency-Model-PCM",
       "TencentARC/ColorFlow",
       "ginipick/AccDiffusion",
@@ -319,7 +318,8 @@
       "TIGER-Lab/AnyV2V",
       "tight-inversion/tight-inversion",
       "clinteroni/outpainting-with-differential-diffusion-demo",
-      "briaai/BRIA-Eraser-API"
+      "briaai/BRIA-Eraser-API",
+      "jeasinema/UltraEdit-SD3"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T06:49:58.970Z",
+  "generatedAt": "2026-10-18T07:09:34.826Z",
   "entries": {
     "automatic1111-stable-diffusion-webui": {
       "slug": "automatic1111-stable-diffusion-webui",
@@ -175,6 +175,237 @@
       "summary": "MiniCPM5: SOTA on-device LLMs, small yet powerful.",
       "tags": [
         "jupyter notebook"
+      ]
+    },
+    "2610-22300": {
+      "slug": "2610-22300",
+      "typedId": "paper/2610-22300",
+      "name": "Knowledge That Is Linear Before Fine-Tuning Generalizes After It",
+      "type": "paper",
+      "summary": "Not all facts a language model can recall support further learning equally well. We distinguish active facts, which support generalization beyond their own recall, from inert facts, which can be re...",
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ]
+    },
+    "2610-22316": {
+      "slug": "2610-22316",
+      "typedId": "paper/2610-22316",
+      "name": "Learning to Steer LLM Agents and Multi-Agent Systems",
+      "type": "paper",
+      "summary": "Large language model (LLM)-based agents and multi-agent systems increasingly tackle complex tasks through long-horizon tool use and inter-agent collaboration. However, these systems are prone to de...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2610-22319": {
+      "slug": "2610-22319",
+      "typedId": "paper/2610-22319",
+      "name": "A team of Gemini 4 Argon agents beats Minecraft",
+      "type": "paper",
+      "summary": "We placed four Gemini 4 Argon agents in a sandboxed Minecraft survival world and gave them one goal: defeat the Ender Dragon. Each agent controlled a player via an open-source library called Minefl...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-22321": {
+      "slug": "2610-22321",
+      "typedId": "paper/2610-22321",
+      "name": "AVC-Reward: Event-Centric Audio-Video Consistency Evaluation",
+      "type": "paper",
+      "summary": "As joint audio-video generation models become more capable, they can generate audio-visual scenes exhibiting three forms of complexity: multi-event composition, multi-layer audio mixture, and asymm...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2610-22322": {
+      "slug": "2610-22322",
+      "typedId": "paper/2610-22322",
+      "name": "Learning Self-Orchestration in Decentralized Agent Swarms",
+      "type": "paper",
+      "summary": "The capabilities of an agent swarm depend on both its individual members and how they coordinate. Yet existing multi-agent systems often train agents within fixed orchestration structures, separati...",
+      "tags": [
+        "arxiv",
+        "cs.MA"
+      ]
+    },
+    "2610-22327": {
+      "slug": "2610-22327",
+      "typedId": "paper/2610-22327",
+      "name": "Twice Upon a Time: Complementary Representations for Time-Series Reasoning",
+      "type": "paper",
+      "summary": "Time Series Language Models (TSLMs) enable language-based understanding and reasoning over temporal data, yet a fundamental question remains: what information should their time-series representatio...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2610-22328": {
+      "slug": "2610-22328",
+      "typedId": "paper/2610-22328",
+      "name": "ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning",
+      "type": "paper",
+      "summary": "Image editing models produce impressive results for individual edits, but their quality often deteriorates over multiple editing turns. Each editing turn introduces small distribution shifts that a...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2610-22330": {
+      "slug": "2610-22330",
+      "typedId": "paper/2610-22330",
+      "name": "Designing Transformers for Continuous Diffusion Language Models",
+      "type": "paper",
+      "summary": "Continuous diffusion language models (CDLMs) offer an alternative approach to parallel language generation; however, most existing studies directly use transformer architectures from either causal...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-22331": {
+      "slug": "2610-22331",
+      "typedId": "paper/2610-22331",
+      "name": "KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents",
+      "type": "paper",
+      "summary": "Deep search agents solve knowledge-intensive tasks through long-horizon, multi-turn interactions, where assigning credit to individual search decisions is fundamentally difficult. Outcome-based rei...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-22333": {
+      "slug": "2610-22333",
+      "typedId": "paper/2610-22333",
+      "name": "Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?",
+      "type": "paper",
+      "summary": "Large language models (LLMs) can often tell when they are being tested. This ability, known as evaluation awareness, can lead models to act more cautiously during safety evaluations than in real us...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-22340": {
+      "slug": "2610-22340",
+      "typedId": "paper/2610-22340",
+      "name": "Dexterity from Supervised Play",
+      "type": "paper",
+      "summary": "How can robots autonomously collect the contact-rich experience needed to learn dexterous manipulation? We present DSP: Dexterity from supervised play, a framework in which a robot learns a play po...",
+      "tags": [
+        "arxiv",
+        "cs.RO"
+      ]
+    },
+    "2610-22341": {
+      "slug": "2610-22341",
+      "typedId": "paper/2610-22341",
+      "name": "3DCodeVerse: Exploring 3D Worlds as Code",
+      "type": "paper",
+      "summary": "We introduce 3DCodeVerse, a research ecosystem that enables coding agents to create editable and verifiable 3D content at scale. 3DCodeVerse comprises large-scale, high-quality datasets of executab...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2610-22343": {
+      "slug": "2610-22343",
+      "typedId": "paper/2610-22343",
+      "name": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
+      "type": "paper",
+      "summary": "Recent 3D world models increasingly use features from geometry foundation models (GFMs) as predictive world states, benefiting from their rich geometric priors. However, the view dependence of thes...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2610-22344": {
+      "slug": "2610-22344",
+      "typedId": "paper/2610-22344",
+      "name": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+      "type": "paper",
+      "summary": "Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward re...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-22350": {
+      "slug": "2610-22350",
+      "typedId": "paper/2610-22350",
+      "name": "FDE-Gym: The Last Mile of AI Delivery",
+      "type": "paper",
+      "summary": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed en...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-22353": {
+      "slug": "2610-22353",
+      "typedId": "paper/2610-22353",
+      "name": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
+      "type": "paper",
+      "summary": "Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation an...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2610-22362": {
+      "slug": "2610-22362",
+      "typedId": "paper/2610-22362",
+      "name": "CoDA: Co-Evolution of Data Engines and Action Policies",
+      "type": "paper",
+      "summary": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address...",
+      "tags": [
+        "arxiv",
+        "cs.RO"
+      ]
+    },
+    "2610-22364": {
+      "slug": "2610-22364",
+      "typedId": "paper/2610-22364",
+      "name": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+      "type": "paper",
+      "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from...",
+      "tags": [
+        "arxiv",
+        "cs.RO"
+      ]
+    },
+    "2610-22367": {
+      "slug": "2610-22367",
+      "typedId": "paper/2610-22367",
+      "name": "Discovering state-of-the-art quantum circuits with large language models",
+      "type": "paper",
+      "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of eff...",
+      "tags": [
+        "arxiv",
+        "quant-ph"
+      ]
+    },
+    "2610-22372": {
+      "slug": "2610-22372",
+      "typedId": "paper/2610-22372",
+      "name": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+      "type": "paper",
+      "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, per...",
+      "tags": [
+        "arxiv",
+        "cs.RO"
+      ]
+    },
+    "mit-news-ai-https-news-mit-edu-2026-giving-ai-crystal-clear-view-of-materials-world-1018": {
+      "slug": "mit-news-ai-https-news-mit-edu-2026-giving-ai-crystal-clear-view-of-materials-world-1018",
+      "typedId": "news/mit-news-ai-https-news-mit-edu-2026-giving-ai-crystal-clear-view-of-materials-world-1018",
+      "name": "Giving AI a “crystal clear” view of the materials world",
+      "type": "news",
+      "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
+      "tags": [
+        "news",
+        "mit-news-ai"
       ]
     },
     "huggingface-blog-https-huggingface-co-blog-nvidia-scaling-indic-pretraining": {
@@ -1448,50 +1679,6 @@
       "name": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
       "type": "news",
       "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "tags": [
-        "news",
-        "openai-blog"
-      ]
-    },
-    "google-ai-blog-https-blog-google-innovation-and-ai-technology-ai-expanding-ai-economy-research-bench": {
-      "slug": "google-ai-blog-https-blog-google-innovation-and-ai-technology-ai-expanding-ai-economy-research-bench",
-      "typedId": "news/google-ai-blog-https-blog-google-innovation-and-ai-technology-ai-expanding-ai-economy-research-bench",
-      "name": "New experts join Google’s AI &amp; Economy team",
-      "type": "news",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp\"&gt;We are expanding our AI &amp; Economy team with world-class acade...",
-      "tags": [
-        "news",
-        "google-ai-blog"
-      ]
-    },
-    "google-ai-blog-https-blog-google-innovation-and-ai-technology-ai-google-flow-fashion-week": {
-      "slug": "google-ai-blog-https-blog-google-innovation-and-ai-technology-ai-google-flow-fashion-week",
-      "typedId": "news/google-ai-blog-https-blog-google-innovation-and-ai-technology-ai-google-flow-fashion-week",
-      "name": "Co-creating the future of fashion with Google",
-      "type": "news",
-      "summary": "&lt;img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp\"&gt;Google worked side-by-side with designers Jane Wade and Sergio Hudson to...",
-      "tags": [
-        "news",
-        "google-ai-blog"
-      ]
-    },
-    "mit-news-ai-https-news-mit-edu-2026-new-chapter-mit-reads-0918": {
-      "slug": "mit-news-ai-https-news-mit-edu-2026-new-chapter-mit-reads-0918",
-      "typedId": "news/mit-news-ai-https-news-mit-edu-2026-new-chapter-mit-reads-0918",
-      "name": "A new chapter for MIT Reads",
-      "type": "news",
-      "summary": "A new focus on fiction and memoir aims to help the MIT community celebrate the power of storytelling and strengthen social connection.",
-      "tags": [
-        "news",
-        "mit-news-ai"
-      ]
-    },
-    "openai-blog-https-openai-com-index-australian-youth-safety-blueprint": {
-      "slug": "openai-blog-https-openai-com-index-australian-youth-safety-blueprint",
-      "typedId": "news/openai-blog-https-openai-com-index-australian-youth-safety-blueprint",
-      "name": "Introducing the Australian Youth Safety Blueprint",
-      "type": "news",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
       "tags": [
         "news",
         "openai-blog"

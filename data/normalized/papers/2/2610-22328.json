@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2610-22328",
+  "name": "ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning",
+  "summary": "Image editing models produce impressive results for individual edits, but their quality often deteriorates over multiple editing turns. Each editing turn introduces small distribution shifts that a...",
+  "description": "Image editing models produce impressive results for individual edits, but their quality often deteriorates over multiple editing turns. Each editing turn introduces small distribution shifts that accumulate over successive edits, creating a gap between the input distributions encountered during the editor's original training and multi-turn inference. We introduce a training scheme that makes multi-turn image editing stable under this accumulating distribution shift. A key is to force the editor to operate on its own outputs from previous editing turns during training, bringing the principle...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.22328v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.22328v1"
+    }
+  ],
+  "authors": [
+    "Sara Dorfman",
+    "Nir Goren",
+    "Gal Barak",
+    "Daniel Cohen-Or",
+    "Or Patashnik"
+  ],
+  "paperId": "2610.22328",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-15",
+  "abstract": "Image editing models produce impressive results for individual edits, but their quality often deteriorates over multiple editing turns. Each editing turn introduces small distribution shifts that accumulate over successive edits, creating a gap between the input distributions encountered during the editor's original training and multi-turn inference. We introduce a training scheme that makes multi-turn image editing stable under this accumulating distribution shift. A key is to force the editor to operate on its own outputs from previous editing turns during training, bringing the principle..."
+}

@@ -1,0 +1,45 @@
+{
+  "type": "paper",
+  "slug": "2610-22331",
+  "name": "KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents",
+  "summary": "Deep search agents solve knowledge-intensive tasks through long-horizon, multi-turn interactions, where assigning credit to individual search decisions is fundamentally difficult. Outcome-based rei...",
+  "description": "Deep search agents solve knowledge-intensive tasks through long-horizon, multi-turn interactions, where assigning credit to individual search decisions is fundamentally difficult. Outcome-based reinforcement learning provides only a single terminal reward shared across an entire trajectory. Recent process-supervision methods aim to assign credit at finer granularity, but they typically anchor credit to either surface-level trajectory states or model-internal signals, both of which become unreliable in deep search where observations are heterogeneous and retrieved contexts are long and noisy...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.22331v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.22331v1"
+    }
+  ],
+  "authors": [
+    "Siqi Chen",
+    "Zhengxi Lu",
+    "Yuchen Yan",
+    "Xingyu Wu",
+    "Qipeng Chen",
+    "Xin Zhang",
+    "Aiting Liu",
+    "Chao Deng",
+    "Jie Liu",
+    "Jin Ma",
+    "Weiming Lu",
+    "Jun Xiao",
+    "Yongliang Shen"
+  ],
+  "paperId": "2610.22331",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-15",
+  "abstract": "Deep search agents solve knowledge-intensive tasks through long-horizon, multi-turn interactions, where assigning credit to individual search decisions is fundamentally difficult. Outcome-based reinforcement learning provides only a single terminal reward shared across an entire trajectory. Recent process-supervision methods aim to assign credit at finer granularity, but they typically anchor credit to either surface-level trajectory states or model-internal signals, both of which become unreliable in deep search where observations are heterogeneous and retrieved contexts are long and noisy..."
+}

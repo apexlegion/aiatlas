@@ -1,0 +1,44 @@
+{
+  "type": "paper",
+  "slug": "2610-22364",
+  "name": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+  "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from...",
+  "description": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules. We introduce T2-Z for test-time optimization of environment latents, which augments a robotic world model with a learnable environment latent to condition world predictions. This compact latent captures underlying environmental variation without supervision of what environmental factors exist or what values they t...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.22364v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2610.22364v1"
+    }
+  ],
+  "authors": [
+    "Chenyuan Zhou",
+    "Yining Hong",
+    "Huang Huang",
+    "Yunfan Jiang",
+    "Wenlong Huang",
+    "David Held",
+    "Vitor Campagnolo Guizilini",
+    "Yue Wang",
+    "Li Fei-Fei",
+    "Jiajun Wu",
+    "Leonidas Guibas",
+    "Yejin Choi"
+  ],
+  "paperId": "2610.22364",
+  "category": "cs.RO",
+  "publishedAt": "2026-10-15",
+  "abstract": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties such as friction and mass to human-defined environmental rules. We introduce T2-Z for test-time optimization of environment latents, which augments a robotic world model with a learnable environment latent to condition world predictions. This compact latent captures underlying environmental variation without supervision of what environmental factors exist or what values they t..."
+}

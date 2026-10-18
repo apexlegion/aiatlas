@@ -1,0 +1,51 @@
+{
+  "type": "paper",
+  "slug": "2610-22341",
+  "name": "3DCodeVerse: Exploring 3D Worlds as Code",
+  "summary": "We introduce 3DCodeVerse, a research ecosystem that enables coding agents to create editable and verifiable 3D content at scale. 3DCodeVerse comprises large-scale, high-quality datasets of executab...",
+  "description": "We introduce 3DCodeVerse, a research ecosystem that enables coding agents to create editable and verifiable 3D content at scale. 3DCodeVerse comprises large-scale, high-quality datasets of executable 3D code, a coding harness for spatial reasoning and automated verification, and practical guidance for 3D coding. First, we construct 3DCodeVerse-2M, a large-scale curated dataset of standalone 3D executable code. We build this corpus by collecting open-source data, converting specialized representations, and generating new programs with coding agents. Each program is packaged with the source f...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.22341v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-15",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.22341v1"
+    }
+  ],
+  "authors": [
+    "Yipeng Gao",
+    "Ziyao Zeng",
+    "Jinfa Huang",
+    "Yijiang Li",
+    "Haolin Xiong",
+    "Wang Qin",
+    "Xinlei Yu",
+    "Youheng Yao",
+    "Jie Zhang",
+    "Kun-Yu Lin",
+    "Rong Liu",
+    "Yinyuan Zhao",
+    "Yajie Zhao",
+    "Meiqi Guo",
+    "Jiebo Luo",
+    "Lei Shu",
+    "Yunhao Ge",
+    "Xinyu Hu",
+    "Laurent Itti"
+  ],
+  "paperId": "2610.22341",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-15",
+  "abstract": "We introduce 3DCodeVerse, a research ecosystem that enables coding agents to create editable and verifiable 3D content at scale. 3DCodeVerse comprises large-scale, high-quality datasets of executable 3D code, a coding harness for spatial reasoning and automated verification, and practical guidance for 3D coding. First, we construct 3DCodeVerse-2M, a large-scale curated dataset of standalone 3D executable code. We build this corpus by collecting open-source data, converting specialized representations, and generating new programs with coding agents. Each program is packaged with the source f..."
+}
