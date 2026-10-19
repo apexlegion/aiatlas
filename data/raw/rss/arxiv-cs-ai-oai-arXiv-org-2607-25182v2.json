@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.25182v2",
+  "fetchedAt": "2026-10-19T07:37:29.439Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.25182v2",
+    "title": "EKLAV: Elicited Key CoT Learning via Answer only superVision",
+    "link": "https://arxiv.org/abs/2607.25182",
+    "description": "arXiv:2607.25182v2 Announce Type: replace-cross Abstract: Reasoning distillation trains a student to reproduce both the teacher's chain-of-thought trace and its final answer. We ask whether the trace is better used as privileged training context than as an imitation target. EKLAV keeps the teacher's reasoning in the input sequence but supervises only the final task answer, applying a task-dependent placement that moves part or all of the trace into the prompt. On BRIGHT passage reranking, EKLAV improves average nDCG@10 at all four tested checkpoints across two model families, winning 41 of 48 model-domain comparisons while reducing training compute by up to 31.6% and inference time by up to 32.7%. On four held-out table-reranking benchmarks, it is the best of four conditions on three, exceeding full-trace distillation by 3.0 points and answer-only training without reasoning by 5.5 points on average. Analysis of generated traces reveals that EKLAV students defer their first verbalized verdict later (0.76 vs. 0.44 relative position), reverse fewer decisions (5% vs. 16%), and produce reasoning more predictive of their own rankings than STD-COT's, though less predictive than the base model's. The recipe reuses a fixed teacher corpus, requires no student rollouts or iterative teacher feedback, and applies to both pointwise and listwise formulations. Code and Data are at https://github.com/AdarshSingh7647/Eklavya",
+    "publishedAt": "2026-10-19",
+    "author": "Adarsh Singh, Aman Singh, Kushal Raj Bhandari, Soham Dan, Anoop Kumar, Vivek Gupta",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

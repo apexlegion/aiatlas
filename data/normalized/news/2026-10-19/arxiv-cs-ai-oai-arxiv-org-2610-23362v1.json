@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-23362v1",
+  "name": "Monitor-Validity Failures: LLM Safety Evidence Paths at Evolving Framework Boundaries",
+  "summary": "arXiv:2610.23362v1 Announce Type: new Abstract: Modern LLM applications rely on runtime monitors that inspect tool calls, traces, streams, detector outputs, and verifier inputs. This creates an int...",
+  "description": "arXiv:2610.23362v1 Announce Type: new Abstract: Modern LLM applications rely on runtime monitors that inspect tool calls, traces, streams, detector outputs, and verifier inputs. This creates an interface-reliability problem: a framework path may remain operational while policy-relevant evidence never reaches its decision point. In one representative case, a regex detector returned a positive ma...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.23362"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-19",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.23362"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-19",
+  "expiryAt": "2026-11-18T00:00:00.000Z",
+  "author": "Junchi Liao"
+}

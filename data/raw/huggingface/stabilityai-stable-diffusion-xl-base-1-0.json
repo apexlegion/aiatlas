@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-10-18T07:09:31.316Z",
+  "fetchedAt": "2026-10-19T07:37:28.082Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,8 +25,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4270566,
-    "likes": 8356,
+    "downloads": 4300663,
+    "likes": 8362,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -220,27 +220,24 @@
       }
     ],
     "spaces": [
-      "fastgpu/vram-and-gpu-cost-calculator",
       "RioShiina/ImageGen",
       "embedl/hfviewer",
+      "fastgpu/vram-and-gpu-cost-calculator",
       "hugging-apps/qwen-video-edit",
       "emanforhelp/model-pulse",
       "multimodalart/lora-ease",
       "kandinskylab/Kandinsky-6.0-Pro-distill-5s",
       "InstantX/InstantID",
+      "yisol/IDM-VTON",
+      "yanze/PuLID-FLUX",
       "VAST-AI/TripoSG",
       "Nymbo/Serverless-ImgGen-Hub",
       "frogleo/Image-to-3D",
       "rupeshs/fastsdcpu",
       "hugging-apps/kandinsky-6-lite-distill-5s",
-      "alxander84/ImageGen-32",
       "Gramlin/ImageGen",
-      "Dekonstruktio/Fluxus",
       "shootstuff/flux-img2img-uncensored",
       "BoobyBoobs/Flux_Lustly_AI_Uncensored_NSFW_V1",
-      "Mayara3167/NewNSFWSpaceMultiModelGen",
-      "yisol/IDM-VTON",
-      "yanze/PuLID-FLUX",
       "lllyasviel/Omost",
       "radames/Real-Time-Latent-Consistency-Model",
       "YupengZhou/StoryDiffusion",
@@ -319,7 +316,10 @@
       "tight-inversion/tight-inversion",
       "clinteroni/outpainting-with-differential-diffusion-demo",
       "briaai/BRIA-Eraser-API",
-      "jeasinema/UltraEdit-SD3"
+      "jeasinema/UltraEdit-SD3",
+      "tight-inversion/tight-inversion-pulid-demo",
+      "fffiloni/StyleAligned_Transfer",
+      "wcy1122/MGM"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {

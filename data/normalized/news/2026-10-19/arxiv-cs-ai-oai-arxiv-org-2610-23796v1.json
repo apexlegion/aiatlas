@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-23796v1",
+  "name": "FuTransformer: FP8 prefill and INT4 decode for Llama-style inference on Hopper",
+  "summary": "arXiv:2610.23796v1 Announce Type: new Abstract: Transformer prefill reuses weights across tokens and is dominated by matrix multiplication and activation data movement; single-token decode has limi...",
+  "description": "arXiv:2610.23796v1 Announce Type: new Abstract: Transformer prefill reuses weights across tokens and is dominated by matrix multiplication and activation data movement; single-token decode has limited reuse and is dominated by weight and KV-cache reads. We present FUTRANSFORMER, a CUDA implementation of a Llama-style Transformer block for NVIDIA Hopper GPUs. It applies CODA's GEMM-plus-epilogue...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.23796"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-19",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.23796"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-19",
+  "expiryAt": "2026-11-18T00:00:00.000Z",
+  "author": "Wei Wang"
+}

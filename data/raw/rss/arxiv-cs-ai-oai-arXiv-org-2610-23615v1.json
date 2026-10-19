@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.23615v1",
+  "fetchedAt": "2026-10-19T07:37:29.438Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.23615v1",
+    "title": "Beyond Action Prediction: Learning Search-Free Planning in Latent Space",
+    "link": "https://arxiv.org/abs/2610.23615",
+    "description": "arXiv:2610.23615v1 Announce Type: cross Abstract: Latent world models learn action-conditioned state transitions in a compact representation space, providing a predictive model for visual planning and control. However, planning with these models typically requires costly test-time optimization over action sequences. We propose to replace this online search with a goal-conditioned inverse model that directly predicts actions from current and goal observations. A key challenge is that action prediction alone neither ensures that goal representations encode action-relevant information nor that predicted actions are consistent with the learned latent prediction model. We introduce Hindsight Inverse JEPA Planning (HIJP), a search-free framework that addresses both aspects during training. HIJP relabels future observations along offline trajectories as goals, providing action supervision across multiple temporal horizons. By retaining gradients through the goal representations, this supervision directly shapes the visual representation. HIJP further feeds predicted actions into the latent predictor model and aligns the resulting next-state representations with encoded successor observations, enforcing action-transition consistency. At inference time, the inverse dynamics model and latent predictor models are applied alternately to generate multi-step action sequences without online search. Across four visual control tasks, HIJP achieves 86.8% overall success and a 1.9-16.5x planning speedup over search-based planning.",
+    "publishedAt": "2026-10-19",
+    "author": "Guanchen Du, Jinhao Du, Yanpeng Sun, Shan Zhang, Na Zhao, Zechao Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

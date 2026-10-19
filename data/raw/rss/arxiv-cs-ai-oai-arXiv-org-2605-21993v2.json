@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.21993v2",
+  "fetchedAt": "2026-10-19T07:37:29.438Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.21993v2",
+    "title": "ECPO: Evidence-Coupled Policy Optimization for Verifier-Audited Candidate Ranking",
+    "link": "https://arxiv.org/abs/2605.21993",
+    "description": "arXiv:2605.21993v2 Announce Type: replace Abstract: Ranking systems used for decision support should expose evidence that can be audited independently of the model's ranking scores. We study a closed-roster setting in which a policy jointly emits a Top-$K$ ranking and candidate-linked, span-grounded evidence bundles. Evidence-Coupled Policy Optimization (ECPO) combines listwise utility, certificate validity, and an evidence-cycle reward that removes answer-bearing fields before deterministic recovery. On MAVEN-ERE and RAMS, ECPO improves verifier-audited traceability, rank-blind recovery, and human comparative support relative to matched controls in the tested provenance settings. The gains persist under held-out evaluators, other 8B/14B backbones, and a HotpotQA answer-ranking interface. Ordinary NDCG and runtime remain explicit trade-offs.",
+    "publishedAt": "2026-10-19",
+    "author": "Miaobo Hu, Shuhao Hu, BoKun Wang, Yina Sa, Xin Wang, Xiaobo Guo, Daren Zha",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

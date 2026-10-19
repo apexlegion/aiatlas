@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-23290v1",
+  "name": "CoTA++: Understanding the Repeat Curse in dMLLMs from an Information Flow Perspective",
+  "summary": "arXiv:2610.23290v1 Announce Type: new Abstract: Diffusion-based multimodal large language models (dMLLMs) decode by iterative denoising with bidirectional attention, which precludes the standard au...",
+  "description": "arXiv:2610.23290v1 Announce Type: new Abstract: Diffusion-based multimodal large language models (dMLLMs) decode by iterative denoising with bidirectional attention, which precludes the standard autoregressive key--value cache. Practical deployments therefore rely on approximate caching that reuses intermediate states across denoising steps. Such caching, however, often makes a response repeat...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.23290"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-19",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.23290"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-19",
+  "expiryAt": "2026-11-18T00:00:00.000Z",
+  "author": "Qiyan Zhao, Xiaofeng Zhang, Xu-Yao Zhang, Shijie Han, Zhepeng Li, Shunzhi Zhu, Da-Han Wang"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2610-23854",
+  "name": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+  "summary": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vani...",
+  "description": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transformer can generate directly in pixel space by replacing the commonly used velocity prediction ($\\boldsymbol{u}$-prediction) with clean image prediction ($\\boldsymbol{x_0}$-prediction). In this work, we revisit this choice and introduce MFlow, an adaptive parameterization that learns to interpolate between $\\boldsymbol{x_0}$- and $\\boldsymbol{u}$-prediction across principal dire...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.23854v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-16",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.23854v1"
+    }
+  ],
+  "authors": [
+    "Soumik Mukhopadhyay",
+    "Long Mai",
+    "Abhinav Shrivastava",
+    "Aniruddha Mahapatra"
+  ],
+  "paperId": "2610.23854",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-16",
+  "abstract": "Pixel-space diffusion models have recently re-emerged as a compelling alternative to latent diffusion, avoiding the lossy latent bottleneck and separately trained autoencoder. JiT shows that a vanilla diffusion transformer can generate directly in pixel space by replacing the commonly used velocity prediction ($\\boldsymbol{u}$-prediction) with clean image prediction ($\\boldsymbol{x_0}$-prediction). In this work, we revisit this choice and introduce MFlow, an adaptive parameterization that learns to interpolate between $\\boldsymbol{x_0}$- and $\\boldsymbol{u}$-prediction across principal dire..."
+}

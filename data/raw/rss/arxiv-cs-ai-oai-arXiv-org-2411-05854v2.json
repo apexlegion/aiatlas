@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2411.05854v2",
+  "fetchedAt": "2026-10-19T07:37:29.439Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2411.05854v2",
+    "title": "Harmful YouTube Video Detection: A Taxonomy of Online Harm and MLLMs as Alternative Annotators",
+    "link": "https://arxiv.org/abs/2411.05854",
+    "description": "arXiv:2411.05854v2 Announce Type: replace-cross Abstract: Video platforms, used by billions globally, are criticized for exposing users to harmful content. Yet, detecting online harm remains challenging due to inconsistent approaches to what constitutes harm and limitations of human annotation. We address both challenges. Theoretically, we integrate and expand existing taxonomies and platform guidelines to multimodal contexts and develop a comprehensive taxonomy for online harm. We categorize online harm on video platforms into six content-based categories: Information, Hate and harassment, Addictive, Clickbait, Sexual, and Physical harms. Methodologically, we propose and systematically test multimodal large language models (MLLMs) as alternative annotators of harmful videos. We curate a dataset of 19,422 potentially harmful YouTube videos and annotate them using GPT-4-Turbo, non-trained crowdworkers, and trained annotators. We discuss the potential applications of MLLMs in platform content moderation and social science research, particularly in contexts where they perform comparably to human annotators in binary and multi-label classification tasks.",
+    "publishedAt": "2026-10-19",
+    "author": "Claire Wonjeong Jo, Miki Weso{\\l}owska, Magdalena Wojcieszak",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

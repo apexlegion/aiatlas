@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-23006v1",
+  "name": "Efficient CPU-GPU collaborative MoE inference via Adaptive Expert Assignment",
+  "summary": "arXiv:2610.23006v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) models reduce inference computation through sparse expert activation, but their large expert memory footprint often exceeds...",
+  "description": "arXiv:2610.23006v1 Announce Type: new Abstract: Mixture-of-Experts (MoE) models reduce inference computation through sparse expert activation, but their large expert memory footprint often exceeds GPU capacity, making expert offloading necessary for memory-constrained inference. However, existing systems typically handle GPU-missed experts by either transferring them to the GPU, incurring subst...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.23006"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-19",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.23006"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-19",
+  "expiryAt": "2026-11-18T00:00:00.000Z",
+  "author": "Wenhui Lv, Yunming Liao, Hongli Xu, Yang Xu, Junhao Cheng"
+}

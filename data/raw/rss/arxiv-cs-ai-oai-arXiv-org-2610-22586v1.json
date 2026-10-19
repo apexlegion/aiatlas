@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.22586v1",
+  "fetchedAt": "2026-10-19T07:37:29.438Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.22586v1",
+    "title": "Mitigating Demographic Disparities in Explanation-Human Alignment via Rationale Regularization",
+    "link": "https://arxiv.org/abs/2610.22586",
+    "description": "arXiv:2610.22586v1 Announce Type: cross Abstract: We study explanation fairness in hate speech detection. High classification performance does not always mean that a model produces equally plausible explanations for different demographic groups. Using the HateXplain dataset, we introduce Plausibility-EFG, a metric that measures the largest difference in explanation plausibility across demographic groups by comparing model-generated token attributions with human-annotated rationales. We evaluate BERT, RoBERTa, and ADV-RoBERTa, an adversarially trained model, using Integrated Gradients and SHAP. Our results show that ADV-RoBERTa improves classification performance and alignment between explanations and human rationales while reducing explanation disparities across demographic groups. These improvements are observed with both attribution methods and remain consistent across training, validation, and test splits. We also show that reducing prediction-level bias alone does not eliminate disparities in explanations, suggesting that predictive fairness and explanation fairness are related but distinct objectives. Finally, our fairness-performance analysis shows that stronger adversarial regularization can further reduce Plausibility-EFG, although it may cause a small decrease in macro-F1. Overall, this work presents explanation fairness as an important objective in hate speech moderation and introduces Fair-REF, a framework designed to reduce disparities in model explanations across demographic groups.",
+    "publishedAt": "2026-10-19",
+    "author": "Suryansh Talukdar (Purdue University Fort Wayne), Taha Sarwat (Purdue University Fort Wayne), Jonathan Rusert (Purdue University Fort Wayne)",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.23716v1",
+  "fetchedAt": "2026-10-19T07:37:29.438Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.23716v1",
+    "title": "Neural Expansion: A Unified Mechanism for How Deep Neural Networks Generalize",
+    "link": "https://arxiv.org/abs/2610.23716",
+    "description": "arXiv:2610.23716v1 Announce Type: cross Abstract: Deep neural networks demonstrate remarkable generalization despite being highly over-parameterized, challenging traditional statistical learning theories. While several theoretical paradigms such as margin-based bounds, PAC-Bayesian analyses, and neural tangent kernels provide global explanations, they often lack mechanistic insight into how generalization emerges from training dynamics. We introduce Neural Expansion, a unified geometric framework that characterizes generalization through the expansion of directionally-selective ray coverage in the input space. Using Generalization Intervals (GIs), we quantify direction-specific regions around training samples where the model's predictions remain stable. Our extensive empirical studies across diverse architectures and datasets reveal that training leads to progressive expansion of ray coverage, particularly along directions with low Jacobian singular values. This mechanism helps explain a large fraction of correctly classified test inputs, adversarial examples, and even mislabeled or out-of-distribution samples through the geometry of ray coverage rather than instance-level memorization. By connecting input-space curvature to predictive behavior, our framework provides a mechanistic foundation that complements existing global theories of deep learning.",
+    "publishedAt": "2026-10-19",
+    "author": "Chashi Mahiul Islam, Samuel Jacob Chacko, Mao Nishino, Canlin Zhang, Xiuwen Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

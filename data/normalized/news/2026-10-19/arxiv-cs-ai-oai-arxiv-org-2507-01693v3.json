@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2507-01693v3",
+  "name": "GPT, But Backwards: Exactly Inverting Language Model Outputs",
+  "summary": "arXiv:2507.01693v3 Announce Type: replace-cross Abstract: Recent work shows that distinct inputs produce distinct hidden representations in LLMs, so the input can in principle be recovered from the...",
+  "description": "arXiv:2507.01693v3 Announce Type: replace-cross Abstract: Recent work shows that distinct inputs produce distinct hidden representations in LLMs, so the input can in principle be recovered from them. Yet, no existing method can reliably do so from the model's output text or logits alone. We introduce Sparse One-hot Discrete Adam (SODA), a white-box search-based algorithm that reconstructs textu...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2507.01693"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-19",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2507.01693"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-19",
+  "expiryAt": "2026-11-18T00:00:00.000Z",
+  "author": "Adrians Skapars, Edoardo Manino, Youcheng Sun, Lucas C. Cordeiro"
+}

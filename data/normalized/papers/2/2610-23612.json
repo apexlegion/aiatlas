@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2610-23612",
+  "name": "SIT-Eval: Situation-Based Interactive Turn-by-Turn Evaluation of Conversational Agents",
+  "summary": "The rapid proliferation of conversational AI agents necessitates evaluation methods that assess performance across diverse dialogue scenarios, utilizing multiple situational criteria, as appropriat...",
+  "description": "The rapid proliferation of conversational AI agents necessitates evaluation methods that assess performance across diverse dialogue scenarios, utilizing multiple situational criteria, as appropriate behavior depends on context and encompasses various aspects. Existing dialogue benchmarks typically use static natural conversations, which underrepresent rare situations---a critical safety gap, as low-probability events become frequent failures at production scale. However, limited sample sizes force a choice: either maintain natural dialogues for realism or turn to adaptive situation sampling...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.23612v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-16",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2610.23612v1"
+    }
+  ],
+  "authors": [
+    "Ravil Mussabayev",
+    "Saveliy Zavertyaev",
+    "Dmitriy Parpulov",
+    "Andrey Savchenko"
+  ],
+  "paperId": "2610.23612",
+  "category": "cs.CL",
+  "publishedAt": "2026-10-16",
+  "abstract": "The rapid proliferation of conversational AI agents necessitates evaluation methods that assess performance across diverse dialogue scenarios, utilizing multiple situational criteria, as appropriate behavior depends on context and encompasses various aspects. Existing dialogue benchmarks typically use static natural conversations, which underrepresent rare situations---a critical safety gap, as low-probability events become frequent failures at production scale. However, limited sample sizes force a choice: either maintain natural dialogues for realism or turn to adaptive situation sampling..."
+}

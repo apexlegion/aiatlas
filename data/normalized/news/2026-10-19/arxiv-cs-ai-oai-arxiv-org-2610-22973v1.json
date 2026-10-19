@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-22973v1",
+  "name": "DiffusionRVGE: Reinforcement Learning via Regression-Based Value Gradient Estimation",
+  "summary": "arXiv:2610.22973v1 Announce Type: new Abstract: Reinforcement learning improves diffusion models using rewards on generated images, but repeated denoising and gradient estimation make training expe...",
+  "description": "arXiv:2610.22973v1 Announce Type: new Abstract: Reinforcement learning improves diffusion models using rewards on generated images, but repeated denoising and gradient estimation make training expensive. We introduce \\method, an efficient method that constructs useful update directions by regressing centered rewards on centered final denoised images. It requires neither reward derivatives nor a...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.22973"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-19",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.22973"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-19",
+  "expiryAt": "2026-11-18T00:00:00.000Z",
+  "author": "Jiayuan Wang, Tongyao Pang"
+}
