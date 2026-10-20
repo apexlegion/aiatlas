@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2610-26856",
+  "name": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+  "summary": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-dist...",
+  "description": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teacher equipped with an evidence-centered visual view. However, the resulting corrections may conflate visual evidence with non-visual shifts induced by linguistic priors, response style, or the privileged view itself. We formalize this phenomenon as privileged-correction contamination: a token-level...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.26856v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-19",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.26856v1"
+    }
+  ],
+  "authors": [
+    "Shiao Xie",
+    "Siyu Chen",
+    "Jianwei Lv",
+    "Xiandong Li",
+    "Yujin Wang"
+  ],
+  "paperId": "2610.26856",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-19",
+  "abstract": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distillation (OPSD) complements this supervision with dense token-level corrections from a privileged teacher equipped with an evidence-centered visual view. However, the resulting corrections may conflate visual evidence with non-visual shifts induced by linguistic priors, response style, or the privileged view itself. We formalize this phenomenon as privileged-correction contamination: a token-level..."
+}

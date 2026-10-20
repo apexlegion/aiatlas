@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2610-26817",
+  "name": "Next Best Action: Causal Constrained Offline RL for Business Action Targeting",
+  "summary": "Next Best Action (NBA) systems must select among customer interventions (e.g., discounts, promotions, and lifecycle actions), maximize long-term economic value, satisfy complex operational constrai...",
+  "description": "Next Best Action (NBA) systems must select among customer interventions (e.g., discounts, promotions, and lifecycle actions), maximize long-term economic value, satisfy complex operational constraints, and remain causally grounded. Existing approaches lack a rigorous framework for meeting these requirements jointly. We address this gap by formulating NBA as a Constrained Markov Decision Process (CMDP). We then integrate off-policy causal correction of the estimated customer dynamics directly into the Linear Programming (LP) formulation of the CMDP. The resulting policy selects actions based...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.26817v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-19",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.26817v1"
+    }
+  ],
+  "authors": [
+    "Surya Ramachandiran",
+    "Yiming Li",
+    "Juan Mancilla-Caceres",
+    "Tao Ye",
+    "Jun Liu"
+  ],
+  "paperId": "2610.26817",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-19",
+  "abstract": "Next Best Action (NBA) systems must select among customer interventions (e.g., discounts, promotions, and lifecycle actions), maximize long-term economic value, satisfy complex operational constraints, and remain causally grounded. Existing approaches lack a rigorous framework for meeting these requirements jointly. We address this gap by formulating NBA as a Constrained Markov Decision Process (CMDP). We then integrate off-policy causal correction of the estimated customer dynamics directly into the Linear Programming (LP) formulation of the CMDP. The resulting policy selects actions based..."
+}

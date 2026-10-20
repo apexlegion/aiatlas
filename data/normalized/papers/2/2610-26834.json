@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2610-26834",
+  "name": "Kronecker Delta Rule for Long Context Linear Attention",
+  "summary": "We propose KronLSTM, a linear attention architecture based on the Kronecker Delta Rule, a novel update rule for associative matrix memories. KronLSTM extends the xLSTM family with a memory-revision...",
+  "description": "We propose KronLSTM, a linear attention architecture based on the Kronecker Delta Rule, a novel update rule for associative matrix memories. KronLSTM extends the xLSTM family with a memory-revision mechanism that corrects targeted associations while modifying the memory only along a single direction in matrix space. This minimally invasive memory revision reduces interference with previously stored information compared with delta-rule updates, making it particularly well suited for long-context language modeling. The resulting memory dynamics can be mathematically described as a Markov chai...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.26834v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-19",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.26834v1"
+    }
+  ],
+  "authors": [
+    "Anamaria-Roberta Hartl",
+    "Levente Zólyomi",
+    "Michael List",
+    "Günter Klambauer",
+    "Sebastian Böck",
+    "Sepp Hochreiter"
+  ],
+  "paperId": "2610.26834",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-19",
+  "abstract": "We propose KronLSTM, a linear attention architecture based on the Kronecker Delta Rule, a novel update rule for associative matrix memories. KronLSTM extends the xLSTM family with a memory-revision mechanism that corrects targeted associations while modifying the memory only along a single direction in matrix space. This minimally invasive memory revision reduces interference with previously stored information compared with delta-rule updates, making it particularly well suited for long-context language modeling. The resulting memory dynamics can be mathematically described as a Markov chai..."
+}

@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-10-19T07:37:28.082Z",
+  "fetchedAt": "2026-10-20T07:24:01.823Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,7 +25,7 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4300663,
+    "downloads": 4288373,
     "likes": 8362,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
@@ -222,22 +222,22 @@
     "spaces": [
       "RioShiina/ImageGen",
       "embedl/hfviewer",
-      "fastgpu/vram-and-gpu-cost-calculator",
       "hugging-apps/qwen-video-edit",
-      "emanforhelp/model-pulse",
+      "fastgpu/vram-and-gpu-cost-calculator",
       "multimodalart/lora-ease",
-      "kandinskylab/Kandinsky-6.0-Pro-distill-5s",
+      "emanforhelp/model-pulse",
       "InstantX/InstantID",
       "yisol/IDM-VTON",
       "yanze/PuLID-FLUX",
+      "kandinskylab/Kandinsky-6.0-Pro-distill-5s",
       "VAST-AI/TripoSG",
       "Nymbo/Serverless-ImgGen-Hub",
       "frogleo/Image-to-3D",
       "rupeshs/fastsdcpu",
       "hugging-apps/kandinsky-6-lite-distill-5s",
       "Gramlin/ImageGen",
+      "Gramlin/ImageGennew",
       "shootstuff/flux-img2img-uncensored",
-      "BoobyBoobs/Flux_Lustly_AI_Uncensored_NSFW_V1",
       "lllyasviel/Omost",
       "radames/Real-Time-Latent-Consistency-Model",
       "YupengZhou/StoryDiffusion",
@@ -263,6 +263,7 @@
       "latentexplorers/latentnavigation-flux",
       "songweig/rich-text-to-image",
       "fffiloni/Music-To-Image",
+      "BoobyBoobs/Flux_Lustly_AI_Uncensored_NSFW_V1",
       "stepfun-ai/Step1X-3D",
       "ByteDance/Hyper-SDXL-1Step-T2I",
       "TencentARC/T2I-Adapter-SDXL-Sketch",
@@ -318,8 +319,7 @@
       "briaai/BRIA-Eraser-API",
       "jeasinema/UltraEdit-SD3",
       "tight-inversion/tight-inversion-pulid-demo",
-      "fffiloni/StyleAligned_Transfer",
-      "wcy1122/MGM"
+      "fffiloni/StyleAligned_Transfer"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {

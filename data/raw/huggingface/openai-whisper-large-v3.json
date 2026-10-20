@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-10-19T07:37:28.395Z",
+  "fetchedAt": "2026-10-20T07:24:02.072Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,7 +124,7 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 3755126,
+    "downloads": 3801209,
     "likes": 6667,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
@@ -348,20 +348,19 @@
     "spaces": [
       "tardellirs/model-pulse",
       "embedl/hfviewer",
-      "fastgpu/vram-and-gpu-cost-calculator",
       "openai/whisper",
+      "fastgpu/vram-and-gpu-cost-calculator",
       "emanforhelp/model-pulse",
-      "mrfakename/kitten-tts-2",
-      "hf-audio/whisper-large-v3",
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "Quran-Lab/quranic-asr-leaderboard",
+      "mrfakename/kitten-tts-2",
+      "hf-audio/whisper-large-v3",
+      "artificialguybr/Video-Transcription-Smart-Summary",
       "OpenSound/CapSpeech-TTS",
       "alexnasa/HuMo_local",
       "phinam112/OmniVoice-Studio",
       "RyeAI/danish-asr-leaderboard",
       "krmkayabasi/Anka-TTS",
-      "Vyvo/mytts-tr2-test",
-      "artificialguybr/Video-Transcription-Smart-Summary",
       "artificialguybr/video-dubbing",
       "sanchit-gandhi/whisper-jax-spaces",
       "nari-labs/Dia2-2B",
@@ -445,7 +444,8 @@
       "ArtFix0/speech-to-speech-dashboard",
       "ysharma/gr-workflow-microduck-lab",
       "geraldadli/speech-emotion-recognition",
-      "Maximofn/subtify"
+      "Maximofn/subtify",
+      "TogetherAI/whisper-large-v3"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {

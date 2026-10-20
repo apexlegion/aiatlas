@@ -1,0 +1,44 @@
+{
+  "type": "paper",
+  "slug": "2610-26845",
+  "name": "Train An Imaginative Agent",
+  "summary": "A seemingly reasonable push in Sokoban can make the puzzle unsolvable. To avoid such mistakes, an agent has to anticipate the consequences of its actions before execution, especially when feedback...",
+  "description": "A seemingly reasonable push in Sokoban can make the puzzle unsolvable. To avoid such mistakes, an agent has to anticipate the consequences of its actions before execution, especially when feedback from the real environment is sparse or actions are irreversible. We introduce Agentic Imagination (Agima), a training framework that trains an agent to imagine before acting, i.e. to be imaginative. Agima trains a single omni model to propose actions, generate images of their outcomes, and then reason over these imagined futures to decide what to execute in the real environment. Rather than commit...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.26845v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-19",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.26845v1"
+    }
+  ],
+  "authors": [
+    "Jiaxin Ge",
+    "Junyi Zhang",
+    "Tianning Chai",
+    "Hanjun Yoo",
+    "Chenyang Wang",
+    "Xiuyu Li",
+    "Weijia Shi",
+    "XuDong Wang",
+    "Sewon Min",
+    "Luke Zettlemoyer",
+    "Trevor Darrell",
+    "Haiwen Feng"
+  ],
+  "paperId": "2610.26845",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-19",
+  "abstract": "A seemingly reasonable push in Sokoban can make the puzzle unsolvable. To avoid such mistakes, an agent has to anticipate the consequences of its actions before execution, especially when feedback from the real environment is sparse or actions are irreversible. We introduce Agentic Imagination (Agima), a training framework that trains an agent to imagine before acting, i.e. to be imaginative. Agima trains a single omni model to propose actions, generate images of their outcomes, and then reason over these imagined futures to decide what to execute in the real environment. Rather than commit..."
+}

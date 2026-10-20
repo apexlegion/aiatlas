@@ -1,0 +1,43 @@
+{
+  "type": "paper",
+  "slug": "2610-26848",
+  "name": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy",
+  "summary": "In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through...",
+  "description": "In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a five-axis metric: First-Attempt Performance, Efficiency, Success, Budget and Improvement from failure. Different VLMs are evaluated on 18 manipulation tasks under a fixed interaction budget. The analysis of experimental results motivates the Physical Barrel Hypothesis: different capabilities may constrain different parts of improvement. The five-axis metrics also distinguish systems with close p...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.26848v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-19",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2610.26848v1"
+    }
+  ],
+  "authors": [
+    "Zekai Li",
+    "Jiayi Yu",
+    "Jinlu Zhang",
+    "Luyang Niu",
+    "Zekun Qi",
+    "Jun Zheng",
+    "Xuchuan Chen",
+    "Dairu Liu",
+    "Yintianrun Zhang",
+    "He Wang",
+    "Li Yi"
+  ],
+  "paperId": "2610.26848",
+  "category": "cs.RO",
+  "publishedAt": "2026-10-19",
+  "abstract": "In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a five-axis metric: First-Attempt Performance, Efficiency, Success, Budget and Improvement from failure. Different VLMs are evaluated on 18 manipulation tasks under a fixed interaction budget. The analysis of experimental results motivates the Physical Barrel Hypothesis: different capabilities may constrain different parts of improvement. The five-axis metrics also distinguish systems with close p..."
+}
