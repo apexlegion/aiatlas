@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2610-28632",
+  "name": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+  "summary": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene....",
+  "description": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it cannot return that jump as replayable 3D motion placed in the 3D scene. Here we present a model that directly co-generates the video and 3D motion for any supplied rig, along with a camera that registers this motion to the scene. Prior video-motion models either handle only human skeletons, often adding billions of param...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.28632v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-20",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.28632v1"
+    }
+  ],
+  "authors": [
+    "Noam Rotstein",
+    "Yoad Tewel",
+    "Chen Tessler",
+    "Haggai Maron",
+    "Gal Chechik",
+    "Or Litany",
+    "Yoni Kasten",
+    "Yuval Atzmon"
+  ],
+  "paperId": "2610.28632",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-20",
+  "abstract": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For instance, a video model can show a monkey jumping over a crossbar, but it cannot return that jump as replayable 3D motion placed in the 3D scene. Here we present a model that directly co-generates the video and 3D motion for any supplied rig, along with a camera that registers this motion to the scene. Prior video-motion models either handle only human skeletons, often adding billions of param..."
+}

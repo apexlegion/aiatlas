@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.24306v2",
+  "fetchedAt": "2026-10-21T07:25:19.482Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.24306v2",
+    "title": "Learning Administrative Boundary-Aware Location Encoders via Reverse Geocoding",
+    "link": "https://arxiv.org/abs/2610.24306",
+    "description": "arXiv:2610.24306v2 Announce Type: replace-cross Abstract: Location encoders learn compact representations of latitude--longitude coordinates for downstream geospatial prediction tasks. Existing approaches are pretrained using continuous or naturally occurring supervision, such as imagery, climate variables, or species distributions, and therefore do not explicitly capture administrative boundaries or place names, despite their strong influence on many real-world geospatial phenomena. We introduce, to our knowledge, the first method for learning administrative boundary-aware location encoders, using reverse-geocoded text as a self-supervised training signal. Our approach can be applied to existing location encoder architectures and consistently improves their downstream performance. We further introduce RevGeoRQ, a custom architecture tailored to reverse-geocoding supervision, which yields additional gains and exceeds contemporary location encoders on several downstream tasks. Finally, the use of human-interpretable reverse-geocoded strings and residual-quantized semantic IDs provides a more interpretable representation of geographic location than existing approaches. Code and model weights to be released soon.",
+    "publishedAt": "2026-10-21",
+    "author": "Lakshay Sharma, Alex Marin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

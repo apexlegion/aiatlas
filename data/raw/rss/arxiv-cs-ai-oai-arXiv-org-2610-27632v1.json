@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.27632v1",
+  "fetchedAt": "2026-10-21T07:25:19.482Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.27632v1",
+    "title": "When Does Feedback Help? Auditing Learned Voltage-Clamp Experimental Design",
+    "link": "https://arxiv.org/abs/2610.27632",
+    "description": "arXiv:2610.27632v1 Announce Type: new Abstract: A learned scientific controller can outperform a misspecified planner without benefiting from feedback. We audit two synthetic voltage-clamp tasks with a training-selected fixed protocol, current masking, a Bayesian reference, and an excluded target. Five recurrent policies repeat one fixed protocol in all 1,200 off-grid rollouts; masking current changes no decision. In a crossed four-hypothesis task, a fixed diagnostic pulse is followed by one learned choice. Policies then use the first current, but tie a correctly specified Bayesian controller, and a fitted threshold reproduces the learned actions without being that controller. The excluded-target prediction gain is $4.6991\\times10^{-6}$ nats per sample. Feedback use and protocol quality are separate tests. These cases establish neither biological discovery nor general RL superiority.",
+    "publishedAt": "2026-10-21",
+    "author": "Rayan Nyaupane, Abhiram Bhupatiraju",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

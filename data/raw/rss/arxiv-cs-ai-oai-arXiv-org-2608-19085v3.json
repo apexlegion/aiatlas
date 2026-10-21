@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.19085v3",
+  "fetchedAt": "2026-10-21T07:25:19.482Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.19085v3",
+    "title": "DA-WAM: Decision-Aligned Future Latents for Driving World Models",
+    "link": "https://arxiv.org/abs/2608.19085",
+    "description": "arXiv:2608.19085v3 Announce Type: replace-cross Abstract: World models for autonomous driving should anticipate the consequences that matter for driving decisions rather than reconstruct every detail of future scenes. However, predictive representations alone are not guaranteed to distinguish candidate actions that lead to different planning outcomes.We propose DA-WAM, a decision-aligned world action model that couples a Joint-Embedding Predictive Architecture (JEPA) with candidate-level trajectory scoring. During joint training, the JEPA objective grounds future representations in observed scene dynamics, while the planning objectives encourage these representations to capture distinctions relevant to safety and utility. An action-conditioned predictor generates a distinct future latent for each candidate trajectory, and a multi-head trajectory scorer uses the corresponding latent to estimate planning factors and overall utility. In addition, safety-critical post-training with hard negatives further improves discrimination between geometrically similar trajectories with different safety outcomes. DA-WAM achieves state-of-the-art performance among learned camera-based planners on NAVSIM-v1, NAVSIM-v2, and Bench2Drive. Ablation studies demonstrate the effectiveness of each component in driving decision-making.",
+    "publishedAt": "2026-10-21",
+    "author": "Ruiguo Zhong, Xiaolong Chen, Benshan Ma, Lang Zhang, Mingyue Feng, Yaonong Wang, Pei Liu, Jun Ma",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

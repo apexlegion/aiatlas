@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2610-28585",
+  "name": "SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images",
+  "summary": "Simulation is a powerful tool for robotics, but building diverse, simulation-ready scenes at scale remains difficult. Reconstructing scenes from single images is a promising alternative, but visual...",
+  "description": "Simulation is a powerful tool for robotics, but building diverse, simulation-ready scenes at scale remains difficult. Reconstructing scenes from single images is a promising alternative, but visual similarity alone is insufficient: objects must also be recovered, accurately placed, and physically grounded. Existing methods that rely on post-hoc physics settling often misplace objects, producing scenes that look correct but behave poorly under manipulation. We present SceneRig, an agentic system that turns a single image into an editable, simulation-ready scene. SceneRig combines geometric,...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.28585v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-20",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2610.28585v1"
+    }
+  ],
+  "authors": [
+    "Rundong Luo",
+    "Yunong Liu",
+    "Di Cao",
+    "Matthew Tancik",
+    "Shyamal Buch",
+    "Colton Stearns",
+    "Wenqi Xian"
+  ],
+  "paperId": "2610.28585",
+  "category": "cs.RO",
+  "publishedAt": "2026-10-20",
+  "abstract": "Simulation is a powerful tool for robotics, but building diverse, simulation-ready scenes at scale remains difficult. Reconstructing scenes from single images is a promising alternative, but visual similarity alone is insufficient: objects must also be recovered, accurately placed, and physically grounded. Existing methods that rely on post-hoc physics settling often misplace objects, producing scenes that look correct but behave poorly under manipulation. We present SceneRig, an agentic system that turns a single image into an editable, simulation-ready scene. SceneRig combines geometric,..."
+}

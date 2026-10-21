@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-03929v2",
+  "name": "Probe, Don't Prompt: A Hidden-State Probe for Metadata Filtering in Multi-Meta-RAG",
+  "summary": "arXiv:2607.03929v2 Announce Type: replace-cross Abstract: Multi-Meta-RAG improves retrieval for multi-hop question answering by filtering a vector store on metadata, specifically the news source an...",
+  "description": "arXiv:2607.03929v2 Announce Type: replace-cross Abstract: Multi-Meta-RAG improves retrieval for multi-hop question answering by filtering a vector store on metadata, specifically the news source and the publication date, which it extracts from each query using GPT-3.5. This extractor requires a proprietary API call for every query, and its output is not restricted to the allowed sources: even t...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.03929"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-21",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.03929"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-21",
+  "expiryAt": "2026-11-20T00:00:00.000Z",
+  "author": "Mykhailo Poliakov, Nadiya Shvai"
+}

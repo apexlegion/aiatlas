@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-27406v1",
+  "name": "More Memory, Worse Agents: Error Reproduction and Anti-Persistence in LLM Agents",
+  "summary": "arXiv:2610.27406v1 Announce Type: new Abstract: LLM agents can improve across tasks without updating model parameters by storing experience from their own executions in external memory and reusing...",
+  "description": "arXiv:2610.27406v1 Announce Type: new Abstract: LLM agents can improve across tasks without updating model parameters by storing experience from their own executions in external memory and reusing it to guide later decisions. A central design question is whether to retain only observed trajectories and outcomes or also the rules, summaries, and skills inferred from them. Retaining these abstrac...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.27406"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-21",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.27406"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-21",
+  "expiryAt": "2026-11-20T00:00:00.000Z",
+  "author": "Ruhan Wang, Kishan Panaganti, Dongruo Zhou"
+}

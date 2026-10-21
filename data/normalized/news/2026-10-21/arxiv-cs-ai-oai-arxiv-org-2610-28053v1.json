@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-28053v1",
+  "name": "Slots Are Not Speakers: Training-Free Speaker Linking for Frozen Streaming Diarizers",
+  "summary": "arXiv:2610.28053v1 Announce Type: cross Abstract: This paper presents a causal, training-free linker that allows a frozen streaming diarizer to track more speakers than it has output slots. Streami...",
+  "description": "arXiv:2610.28053v1 Announce Type: cross Abstract: This paper presents a causal, training-free linker that allows a frozen streaming diarizer to track more speakers than it has output slots. Streaming end-to-end diarizers such as Streaming Sortformer emit a fixed number N of concurrent speaker slots. Above N speakers, they keep detecting speech but reuse slots across people, because N bounds how...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.28053"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-21",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.28053"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-21",
+  "expiryAt": "2026-11-20T00:00:00.000Z",
+  "author": "Aditya Srinivas Menon, Kumarmanas Nethil, Kavya Manohar"
+}

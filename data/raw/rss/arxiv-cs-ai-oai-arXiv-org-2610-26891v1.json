@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.26891v1",
+  "fetchedAt": "2026-10-21T07:25:19.482Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.26891v1",
+    "title": "PW-Pruning: Phase-Aware Expert Selection for Speech-Centric Omni-Modal Models",
+    "link": "https://arxiv.org/abs/2610.26891",
+    "description": "arXiv:2610.26891v1 Announce Type: cross Abstract: Sparse routing reduces per-token computation but leaves the full expert bank resident in memory. We study expert pruning for speech-centric omni-modal models, where pooling calibration statistics can obscure the different expert demands of acoustic-input processing and text-answer generation. We propose PW-Pruning, a phase-aware extension of DO-ACP that constructs separate importance-weighted kernels for acoustic-prefill and teacher-forced answer tokens, then combines phase-weighted log-determinant marginal gains to select one static expert bank. On Qwen3-Omni, retaining 32 of 128 experts per layer improves MMAU-mini and MMSU accuracy over matched pooled selection by 3.20 and 4.38 percentage points, respectively, after supervised fine-tuning, averaged over three runs. Single-phase and shuffled-label controls on this public backbone suggest that semantic phase information contributes to these gains. Experiments on a non-public Qwen3.5-Omni backbone and English-only zero-shot evaluation of Nemotron provide complementary evidence. Across the tested Qwen budgets, AU gains are larger under stronger pruning, without inference-time mask switching.",
+    "publishedAt": "2026-10-21",
+    "author": "Junjie Cao, Fengping Tian, Wenjie Zhou, Xuanfan Ni, Chenyang Lyu, Siyou Liu, Longyue Wang, Weihua Luo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

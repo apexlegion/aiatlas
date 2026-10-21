@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2610-28601",
+  "name": "Evolving Agent Interfaces",
+  "summary": "Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file throu...",
+  "description": "Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file through a shell to find one function. Both the interfaces and the knowledge of when to use each are built by hand, which cannot keep pace with new applications, workflows, and models. We argue that interface design should itself be an agent capability. We introduce Agent S4, an autonomous computer-use scientist that builds Evolving Agent Interfaces from task experience. A meta-agent examines task agent...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.28601v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-20",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.28601v1"
+    }
+  ],
+  "authors": [
+    "Saaket Agashe",
+    "Yuzhe Yang",
+    "Gonzalo Gonzalez-Pumariega",
+    "Bhuvan Chandra Koduru",
+    "Chih-Lun Li",
+    "Jiachen Yang",
+    "Ang Li",
+    "Xin Eric Wang"
+  ],
+  "paperId": "2610.28601",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-20",
+  "abstract": "Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file through a shell to find one function. Both the interfaces and the knowledge of when to use each are built by hand, which cannot keep pace with new applications, workflows, and models. We argue that interface design should itself be an agent capability. We introduce Agent S4, an autonomous computer-use scientist that builds Evolving Agent Interfaces from task experience. A meta-agent examines task agent..."
+}

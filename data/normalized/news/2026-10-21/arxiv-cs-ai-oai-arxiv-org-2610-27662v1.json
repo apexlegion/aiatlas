@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-27662v1",
+  "name": "When Can LLM Reasoning Reliably Reuse Intermediate Results?",
+  "summary": "arXiv:2610.27662v1 Announce Type: new Abstract: Sampling complete solutions gives large language models more chances to solve a problem, but each attempt starts again. For tasks with several subpro...",
+  "description": "arXiv:2610.27662v1 Announce Type: new Abstract: Sampling complete solutions gives large language models more chances to solve a problem, but each attempt starts again. For tasks with several subproblems, all required answers must be correct in the same attempt. Retaining intermediate results can avoid repeating correct work, but errors in those results may affect later attempts. We study when t...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.27662"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-21",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.27662"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-21",
+  "expiryAt": "2026-11-20T00:00:00.000Z",
+  "author": "Deyuan Liu, Zecheng Wang, Xuanyi Liu, Jungang Li, Yihao Hu, Mingjie Tang, Bryan Dai, Jie Fu"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-25043v2",
+  "name": "VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse",
+  "summary": "arXiv:2610.25043v2 Announce Type: replace Abstract: Flow-matching vision-language-action (VLA) models generate an action chunk by iteratively denoising Gaussian noise, but typically execute only a...",
+  "description": "arXiv:2610.25043v2 Announce Type: replace Abstract: Flow-matching vision-language-action (VLA) models generate an action chunk by iteratively denoising Gaussian noise, but typically execute only a short prefix before replanning with updated observations. Under this receding-horizon paradigm, the unexecuted remainder---the action tail---is discarded, and the next chunk is regenerated from fresh...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.25043"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-21",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.25043"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-21",
+  "expiryAt": "2026-11-20T00:00:00.000Z",
+  "author": "Sicheng He, Yi Pan, Qiuting Yu, Jiaming Huang, Qi Lu, Shuyan Wu, Hongyan Feng, Xuanyu Liu, Jun Zhang, Jie Zhang, Wenqi Zhang, Xuhong Zhang, Jianwei Yin"
+}

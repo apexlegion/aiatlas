@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.27309v4",
+  "fetchedAt": "2026-10-21T07:25:19.482Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.27309v4",
+    "title": "Difference-in-Differences on a Censored Rating Scale Can Manufacture an Effect: Evidence from a Pre-Registered LLM-Judge Audit",
+    "link": "https://arxiv.org/abs/2608.27309",
+    "description": "arXiv:2608.27309v4 Announce Type: replace-cross Abstract: LLM-judge audits assess bias by comparing ratings across matched conditions. Difference-in-differences designs compare two candidate responses within each item and then compare that contrast across a manipulated attribute, with an endpoint read off a bounded rating scale. Building on prior work on nonlinear difference-in-differences, we show in closed form that when ratings are bounded, a severity shift common to both responses produces an observed interaction whenever the scale bounds attenuate it unequally. We examine this problem in a pre-registered audit comprising 990 calls to a frozen pedagogy judge. The registered primary analysis did not detect an effect of a stated novice or advanced profile on scaffolding preference. The only nominally significant secondary interaction concerned the productive-struggle sub-score ($+0.378$ points; $p = 0.002$). A post-hoc construction with zero differential preference reproduced 79 to 85% of this interaction using the observed severity shift and the scale floor alone. The observed interaction therefore does not identify differential preference on the latent scale.",
+    "publishedAt": "2026-10-21",
+    "author": "Shuyi Fan, Boyuan Deng, Mengyu Xu, Xinhong Xie, Chenyang Li, Hongyang Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
