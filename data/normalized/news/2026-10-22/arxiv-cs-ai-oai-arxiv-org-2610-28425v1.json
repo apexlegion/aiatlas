@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-28425v1",
+  "name": "After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents",
+  "summary": "arXiv:2610.28425v1 Announce Type: cross Abstract: Modern LLM agents persist state across sessions via two channels: long-lived memory files silently prepended to the system prompt, and scheduled ta...",
+  "description": "arXiv:2610.28425v1 Announce Type: cross Abstract: Modern LLM agents persist state across sessions via two channels: long-lived memory files silently prepended to the system prompt, and scheduled tasks waking the agent without user input. A one-time indirect prompt injection committed to either channel can re-fire across sessions long after the attacker leaves, threats we term carryover attacks....",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.28425"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-22",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.28425"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-22",
+  "expiryAt": "2026-11-21T00:00:00.000Z",
+  "author": "Zhiyue Xu, Xukai Wang, Zhiyuan Huang, Mingjie Zhan, Jian Zhao, Xu-Yao Zhang"
+}

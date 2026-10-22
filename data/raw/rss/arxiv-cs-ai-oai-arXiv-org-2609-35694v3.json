@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.35694v3",
-  "fetchedAt": "2026-10-21T07:25:19.482Z",
+  "fetchedAt": "2026-10-22T07:25:29.384Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.35694v3",
     "title": "Reasoning with Continuous Latent Diffusion",
     "link": "https://arxiv.org/abs/2609.35694",
     "description": "arXiv:2609.35694v3 Announce Type: replace Abstract: We introduce the Continuous Embedding Diffusion Reasoner (CEDR), a training and inference pipeline for continuous latent diffusion models that achieves strong performance on mathematical reasoning and code generation. We learn compact answer representations from three hidden layers of the autoregressive Qwen3-4B model. A staged curriculum first trains the ELF-based diffusion backbone with teacher prompt conditioning, then initializes a compact prompt encoder through imitation and jointly adapts both networks. This replaces the large teacher contextual prompt encoder at inference with a compact learned Transformer. The multilayer answer representation also enables asynchronous inference, with different components denoised under separate clocks. We further adapt DiffusionNFT to learned self-conditioning guidance, enabling reinforcement learning with verifiable rewards. Controlled ablations evaluate the effects of representation design, prompt training, and denoising schedules. CEDR outperforms recent continuous-diffusion baselines at comparable backbone scales, including before reinforcement learning. With a 638M-parameter denoising backbone and DMD2-style stochastic sampling, post-NFT CEDR-L achieves {pass@1, pass@8} accuracies of {68.97%, 80.82%} on GSM8K and {32.40%, 53.80%} on MATH500 at 64 denoising steps per sample, and {37.56%, 51.00%} on HumanEval+ and {26.96%, 39.92%} on MBPP+ at 128 steps per sample. Code and model weights are available at https://github.com/chengxiang/CEDR and https://huggingface.co/xc91/CEDR, respectively.",
-    "publishedAt": "2026-10-21",
+    "publishedAt": "2026-10-22",
     "author": "Xiang Cheng",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

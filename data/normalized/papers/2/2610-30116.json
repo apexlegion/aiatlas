@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2610-30116",
+  "name": "Environment Duels: A Microcosm of LLM Co-Evolution",
+  "summary": "Through a tangle of real-world interactions, from synthetic training pipelines to data shared on the open web, frontier LLMs absorb what their predecessors and competitors create. How well does eac...",
+  "description": "Through a tangle of real-world interactions, from synthetic training pipelines to data shared on the open web, frontier LLMs absorb what their predecessors and competitors create. How well does each model play its role in this ecosystem, as a creator and as a solver? We introduce Environment Duels, a dynamic agentic benchmark that evaluates both capabilities on interactive environments. Each model writes environments, each with a privileged hint, aiming for tasks that capable solvers fail without the hint and pass with it. Across nine frontier LLMs, solving and authoring prove to be distinc...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.30116v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-21",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2610.30116v1"
+    }
+  ],
+  "authors": [
+    "Shibo Jin",
+    "Zhiqiu Xu",
+    "Yiling Zou",
+    "Shangyu Gong",
+    "Mayur Naik"
+  ],
+  "paperId": "2610.30116",
+  "category": "cs.CL",
+  "publishedAt": "2026-10-21",
+  "abstract": "Through a tangle of real-world interactions, from synthetic training pipelines to data shared on the open web, frontier LLMs absorb what their predecessors and competitors create. How well does each model play its role in this ecosystem, as a creator and as a solver? We introduce Environment Duels, a dynamic agentic benchmark that evaluates both capabilities on interactive environments. Each model writes environments, each with a privileged hint, aiming for tasks that capable solvers fail without the hint and pass with it. Across nine frontier LLMs, solving and authoring prove to be distinc..."
+}

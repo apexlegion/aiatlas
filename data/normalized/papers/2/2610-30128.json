@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2610-30128",
+  "name": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+  "summary": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We chall...",
+  "description": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computational need: items within the same sequence vary drastically in how much computation they require. Most converge after shallow processing while a critical minority only stabilizes at full depth. (2) Suboptimality of fixed allocation: given oracle access to the target item, a non-uniform depth assignment consistently out...",
+  "tags": [
+    "arxiv",
+    "cs.IR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.30128v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-21",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.IR.",
+      "href": "https://arxiv.org/abs/2610.30128v1"
+    }
+  ],
+  "authors": [
+    "Zhanshuo Cao",
+    "Jiakai Tang",
+    "Yuqi Zhou",
+    "Sunhao Dai",
+    "Jun Xu"
+  ],
+  "paperId": "2610.30128",
+  "category": "cs.IR",
+  "publishedAt": "2026-10-21",
+  "abstract": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computational need: items within the same sequence vary drastically in how much computation they require. Most converge after shallow processing while a critical minority only stabilizes at full depth. (2) Suboptimality of fixed allocation: given oracle access to the target item, a non-uniform depth assignment consistently out..."
+}

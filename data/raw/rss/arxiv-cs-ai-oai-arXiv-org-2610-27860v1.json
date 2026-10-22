@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.27860v1",
-  "fetchedAt": "2026-10-21T07:25:19.482Z",
+  "fetchedAt": "2026-10-22T07:25:29.383Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.27860v1",
     "title": "Physical Operating-Condition-Guided Vision-Language Matching for Cavitation Diagnosis in Industrial Pipeline Systems",
     "link": "https://arxiv.org/abs/2610.27860",
     "description": "arXiv:2610.27860v1 Announce Type: new Abstract: Cavitation diagnosis in industrial pipeline systems is challenging because acoustic responses vary substantially with operating conditions, while similar time-frequency patterns may correspond to different cavitation states. To address this issue, we propose a physical operating-condition-guided vision-language matching (POC-VLM) for cavitation diagnosis. POC-VLM first constructs physical operating-condition-aware semantic descriptions by explicitly incorporating sample-specific operating variables into candidate cavitation texts. A time-frequency-conditioned text adaptation module then dynamically aligns these physical semantics with the observed acoustic response, followed by global-local vision-language matching to capture both holistic and localized discriminative patterns. In parallel, a K-nearest neighbours-based non-parametric physical operating-condition prior estimates the physical plausibility of each candidate state and is fused with the vision-language semantic evidence at the decision level. Experiments on three real-world cavitation datasets show that POC-VLM consistently outperforms representative data-driven, multimodal and domain-specific diagnostic methods. Further analyses verify the complementary roles of vision-language semantic matching and physical operating-condition priors, while demonstrating robust performance under varying sampling rates, noise levels and observation durations.",
-    "publishedAt": "2026-10-21",
+    "publishedAt": "2026-10-22",
     "author": "Yu Sha, Junqi Tao, Deyu Wang, Horst Stoecker, Domagoj Vnucec, Andreas Widlf, Kai Zhou",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

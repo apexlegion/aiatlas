@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.27565v1",
-  "fetchedAt": "2026-10-21T07:25:19.482Z",
+  "fetchedAt": "2026-10-22T07:25:29.384Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.27565v1",
     "title": "AnomalyJev: Towards Evaluating Image Anomaly Explanations via Claim-Level Verification",
     "link": "https://arxiv.org/abs/2610.27565",
     "description": "arXiv:2610.27565v1 Announce Type: cross Abstract: Recent multimodal LLM (MLLM)-based anomaly detection (AD) methods can generate textual explanations that help interpret their predictions. However, reliably and efficiently evaluating these explanations remains challenging. While LLM judges can assess explanations through structured rubrics, they often require substantial token generation, making evaluation costly and difficult to scale. We instead propose to anchor evaluation in the available ground truth by extracting verifiable claims from each explanation and verifying them against the corresponding annotations. We instantiate this idea as AnomalyJev, a lightweight framework that extracts verifiable claims from contextualised representations using ground-truth-defined queries and pointer based heads, without token generation. The claims are then verified against the ground truth to score faithfulness and completeness. For evaluation, we construct a human-annotated set of 640 explanations with over 1,600 expert ratings across in-domain and cross-dataset settings. Despite its compact design, AnomalyJev achieves stronger agreement with human annotators than most open MLLM judges and approaches that of flagship MLLM judges, at a fraction of their runtime and resources.",
-    "publishedAt": "2026-10-21",
+    "publishedAt": "2026-10-22",
     "author": "Qizhou Wang, Jiawen Zhu, Guansong Pang, Christopher Leckie",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

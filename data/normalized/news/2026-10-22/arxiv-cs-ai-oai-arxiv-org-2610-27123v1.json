@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-27123v1",
+  "name": "Reconstruction-Optimized Expert Pruning for Mixture-of-Experts Language Models",
+  "summary": "arXiv:2610.27123v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) models reduce computation through sparse expert activation, but deployment still requires storing a large number of expert...",
+  "description": "arXiv:2610.27123v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) models reduce computation through sparse expert activation, but deployment still requires storing a large number of expert parameters. We study post-training expert pruning using task-domain calibration data as a subset-selection problem: given a pretrained MoE layer, select a fixed number of experts that best reconstruc...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.27123"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-22",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.27123"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-22",
+  "expiryAt": "2026-11-21T00:00:00.000Z",
+  "author": "Jelena Markovic-Voronov, Petros Prastakos, Kayhan Behdin, Jincheng Cao, Zhipeng Wang, Shayan Mohajer Hamidi, Yuanda Xu, Zhengze Zhou, Wenhui Zhu, Rahul Mazumder"
+}

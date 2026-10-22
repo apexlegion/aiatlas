@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-27817v1",
+  "name": "Privacy-preserving inference on hosted models: a learned input-embedding transform for frozen Qwen3.8-27B",
+  "summary": "arXiv:2610.27817v1 Announce Type: new Abstract: Every prompt sent to a hosted language model is readable by whoever runs it. We study whether the prompt can remain on the client while the host rece...",
+  "description": "arXiv:2610.27817v1 Announce Type: new Abstract: Every prompt sent to a hosted language model is readable by whoever runs it. We study whether the prompt can remain on the client while the host receives transformed vectors that stand in for it. A language model converts text to vectors exactly once, with a public lookup table; we perform that step locally and pass the vectors through a small tra...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.27817"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-22",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.27817"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-22",
+  "expiryAt": "2026-11-21T00:00:00.000Z",
+  "author": "Mahendra Roopa, Srikanth Roopa"
+}

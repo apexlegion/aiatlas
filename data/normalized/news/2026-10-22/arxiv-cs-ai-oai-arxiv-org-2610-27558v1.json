@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-27558v1",
+  "name": "AnchorRM: Parallel Intra-Batch State Reconstruction with Anchor-Based Residual Memory for Temporal Graph Neural Networks",
+  "summary": "arXiv:2610.27558v1 Announce Type: cross Abstract: Memory-based temporal graph neural networks (TGN) rely on recurrent node memories to capture evolving interaction histories. However, temporal mini...",
+  "description": "arXiv:2610.27558v1 Announce Type: cross Abstract: Memory-based temporal graph neural networks (TGN) rely on recurrent node memories to capture evolving interaction histories. However, temporal mini-batching introduces a trade-off between computational efficiency and temporal fidelity: when a node appears multiple times within the same batch, later interactions are evaluated using stale pre-batc...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.27558"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-22",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.27558"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-22",
+  "expiryAt": "2026-11-21T00:00:00.000Z",
+  "author": "Haroon Gharwi, Kai Shu, Yue Dai"
+}

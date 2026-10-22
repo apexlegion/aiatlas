@@ -1,0 +1,42 @@
+{
+  "type": "paper",
+  "slug": "2610-30097",
+  "name": "AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation",
+  "summary": "Vision-language-action (VLA) models have shown promise in robotic manipulation, but imitation learning (IL) alone often struggles to master complex long-horizon skills. Reinforcement learning (RL)...",
+  "description": "Vision-language-action (VLA) models have shown promise in robotic manipulation, but imitation learning (IL) alone often struggles to master complex long-horizon skills. Reinforcement learning (RL) offers an effective avenue for further improving VLA policies. However, existing VLA-RL methods typically suffer from delayed and biased credit assignment due to trajectory-level sparse rewards, while imbalanced subtask mastery creates bottlenecks that limit overall performance. To address these challenges, we propose AtomicRL, an RL post-training framework that leverages atomic task structures fo...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.30097v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-21",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2610.30097v1"
+    }
+  ],
+  "authors": [
+    "Likui Zhang",
+    "Zhe Zhu",
+    "Zhihao Zhan",
+    "Yibo Bai",
+    "Hanlin Wang",
+    "Dongwei Li",
+    "Bin Wang",
+    "Tianle Zhang",
+    "Xiaodan Liang",
+    "Liang Lin"
+  ],
+  "paperId": "2610.30097",
+  "category": "cs.RO",
+  "publishedAt": "2026-10-21",
+  "abstract": "Vision-language-action (VLA) models have shown promise in robotic manipulation, but imitation learning (IL) alone often struggles to master complex long-horizon skills. Reinforcement learning (RL) offers an effective avenue for further improving VLA policies. However, existing VLA-RL methods typically suffer from delayed and biased credit assignment due to trajectory-level sparse rewards, while imbalanced subtask mastery creates bottlenecks that limit overall performance. To address these challenges, we propose AtomicRL, an RL post-training framework that leverages atomic task structures fo..."
+}

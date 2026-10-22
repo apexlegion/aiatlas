@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-10-21T07:25:08.264Z",
+  "fetchedAt": "2026-10-22T07:25:28.054Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 3731286,
-    "likes": 6674,
+    "downloads": 3631798,
+    "likes": 6677,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -346,19 +346,19 @@
       }
     ],
     "spaces": [
-      "openai/whisper",
       "embedl/hfviewer",
+      "openai/whisper",
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
+      "msalhab96/open_universal_arabic_asr_leaderboard_all",
       "fastgpu/vram-and-gpu-cost-calculator",
       "Quran-Lab/quranic-asr-leaderboard",
+      "mrfakename/kitten-tts-2",
       "hf-audio/whisper-large-v3",
       "artificialguybr/Video-Transcription-Smart-Summary",
       "OpenSound/CapSpeech-TTS",
       "phinam112/OmniVoice-Studio",
-      "RyeAI/danish-asr-leaderboard",
       "krmkayabasi/Anka-TTS",
-      "mrfakename/kitten-tts-2",
-      "emanforhelp/model-pulse",
+      "kadirnar/arabic-asr-leaderboard",
       "artificialguybr/video-dubbing",
       "sanchit-gandhi/whisper-jax-spaces",
       "nari-labs/Dia2-2B",
@@ -379,10 +379,10 @@
       "AudioLLMs/AudioBench-Leaderboard-Extend",
       "Illia56/transcribe-video-via-whisper-v3",
       "ylacombe/create-your-own-TTS-dataset",
+      "RyeAI/danish-asr-leaderboard",
       "navidved/open_persian_asr_leaderboard",
       "mozilla-ai/transcribe",
       "mrm8488/whisper-large-v3",
-      "msalhab96/open_universal_arabic_asr_leaderboard_all",
       "mfielding92/insanely-fast-whisper-webui-zero",
       "richardzheng/whisper-large-v3",
       "hfmlsoc/different-flops",
@@ -407,6 +407,7 @@
       "build-small-hackathon/afri_farm_ai",
       "BSC-LT/CATALAN-ASR-ARENA",
       "hugging-apps/ex-omni-talking-avatar",
+      "emanforhelp/model-pulse",
       "micknikolic/speech-to-text",
       "sergioska/audio-lab",
       "TheMaisk/TheMaisk_whsiper_v3",
@@ -444,8 +445,7 @@
       "ysharma/gr-workflow-microduck-lab",
       "geraldadli/speech-emotion-recognition",
       "Maximofn/subtify",
-      "TogetherAI/whisper-large-v3",
-      "pythonitalia/realtime-transcription"
+      "TogetherAI/whisper-large-v3"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {

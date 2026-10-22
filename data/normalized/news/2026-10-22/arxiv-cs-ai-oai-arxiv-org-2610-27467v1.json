@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-27467v1",
+  "name": "Projected Distillation: On Learning to Solve Hard Problems from Close, Correct Targets",
+  "summary": "arXiv:2610.27467v1 Announce Type: cross Abstract: On-policy learning is central to post-training: training on a model's own generations limits distribution shift and helps preserve existing capabil...",
+  "description": "arXiv:2610.27467v1 Announce Type: cross Abstract: On-policy learning is central to post-training: training on a model's own generations limits distribution shift and helps preserve existing capabilities. On hard problems, however, on-policy RL provides no reward-based learning signal when all attempts fail. On-policy distillation provides next-token supervision from a teacher, but on hard probl...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.27467"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-22",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.27467"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-22",
+  "expiryAt": "2026-11-21T00:00:00.000Z",
+  "author": "Shripad V. Deshmukh, Christian Bock, Kangrui Ruan, Abhijeet Awasthi, Vijay Lingam, Rein Houthooft, Manish Prajapat"
+}

@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.27614v1",
-  "fetchedAt": "2026-10-21T07:25:19.482Z",
+  "fetchedAt": "2026-10-22T07:25:29.384Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2610.27614v1",
     "title": "Learning Inter-Graph Interactions Between Heterogeneous Substructures of Chemical Systems",
     "link": "https://arxiv.org/abs/2610.27614",
     "description": "arXiv:2610.27614v1 Announce Type: cross Abstract: Complex chemical systems containing heterogeneous substructures are common in real-world applications. Various physical phenomena of the complex chemical systems are derived from the interactions between the heterogeneous substructures. However, existing graph representation learning methods for inter-graph interactions assumed graph-level interactions between homogeneous structures, such as organic molecules and inorganic crystalline materials. We propose a data descriptor of the complex chemical systems and a graph neural network for learning inter-graph interactions between organic and inorganic compounds. We applied the proposed method to predict the physical properties of hybrid solar cell materials containing heterogeneous substructures, which have received significant attention for sustainable energy resources. By learning heterogeneous inter-graph interactions, the proposed method achieved state-of-the-art accuracy in predicting band gaps of 1,682 hybrid solar cell materials.",
-    "publishedAt": "2026-10-21",
+    "publishedAt": "2026-10-22",
     "author": "Gyoung S. Na",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

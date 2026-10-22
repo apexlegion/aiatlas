@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2610-30074",
+  "name": "Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization",
+  "summary": "Parallel AI agents can produce useful local edits yet degrade a shared solution when their edits are combined. We model this coordination problem as discrete block optimization with an exactly eval...",
+  "description": "Parallel AI agents can produce useful local edits yet degrade a shared solution when their edits are combined. We model this coordination problem as discrete block optimization with an exactly evaluable objective and a known dependency graph. Independent sets certify compatible edits whose verified gains, measured against the same current solution, add exactly. A coordinator constructs a safe compatible candidate and can also evaluate interacting edits to capture favorable interactions. We prove that an optimal fractional coloring yields a merger that preserves a $1/χ_f(G)$ fraction of the...",
+  "tags": [
+    "arxiv",
+    "cs.MA"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.30074v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-21",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.MA.",
+      "href": "https://arxiv.org/abs/2610.30074v1"
+    }
+  ],
+  "authors": [
+    "Hanmin Li",
+    "Yury Demidovich",
+    "Peter Richtárik"
+  ],
+  "paperId": "2610.30074",
+  "category": "cs.MA",
+  "publishedAt": "2026-10-21",
+  "abstract": "Parallel AI agents can produce useful local edits yet degrade a shared solution when their edits are combined. We model this coordination problem as discrete block optimization with an exactly evaluable objective and a known dependency graph. Independent sets certify compatible edits whose verified gains, measured against the same current solution, add exactly. A coordinator constructs a safe compatible candidate and can also evaluate interacting edits to capture favorable interactions. We prove that an optimal fractional coloring yields a merger that preserves a $1/χ_f(G)$ fraction of the..."
+}
