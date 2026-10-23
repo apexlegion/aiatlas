@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.21889v4",
+  "fetchedAt": "2026-10-23T07:19:29.490Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.21889v4",
+    "title": "2-Step Agent: How a Bayesian Decision Maker Learns from AI-Decision Support",
+    "link": "https://arxiv.org/abs/2602.21889",
+    "description": "arXiv:2602.21889v4 Announce Type: replace Abstract: Prognostic predictions from ML models support human decision making in several fields, including high-stakes ones such as healthcare and the judiciary. Yet, we still lack a clear understanding of how decision makers learn from ML-based decision support (ML-DS). In this paper, we introduce a general computational framework, the 2-Step Agent, to capture how a prediction from an ML model can also be used as a source of useful information about the training data and the causal mechanism that generated it. Our framework models (i) how a prediction from an ML model affects the beliefs of a rational Bayesian agent, and (ii) how this change in beliefs affects the estimation of the causal effect, the downstream decision for a new observation, and the subsequent outcome. In addition to the framework itself, we make three contributions. First, for the multivariate linear-Gaussian setting, we derive a tractable solution for the Bayesian inference problem introduced, i.e. one in which the agent infers information about a population from an ML prediction. Second, we experimentally identify conditions under which ML-DS is beneficial compared to unassisted decision making. Third, we show that a single misaligned prior belief of the user can be sufficient for ML-DS to lead to worse downstream outcomes compared to no decision support even when the prognostic model is well-specified and the agent is perfectly rational. Hence, even under ideal conditions, ML-DS can do more harm than good.",
+    "publishedAt": "2026-10-23",
+    "author": "Otto Nyberg, Davide Tugnoli, Fausto Carcassi, Giovanni Cin\\`a",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

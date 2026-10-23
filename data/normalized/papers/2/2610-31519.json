@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2610-31519",
+  "name": "From Prompt Rules to Golden Data Model: Production-Scale Generation of Personalized, Compliant Pharmaceutical Claims",
+  "summary": "Large language models (LLMs) are increasingly used to generate domain-specific commercial &amp; medical content (e.g., claims, statements, and promotional phrases) in regulated industries such as p...",
+  "description": "Large language models (LLMs) are increasingly used to generate domain-specific commercial &amp; medical content (e.g., claims, statements, and promotional phrases) in regulated industries such as pharmaceuticals. However, ensuring its regulatory compliance, factual accuracy, and audience-specific personalization remains a major challenge. We report a production case study asking whether moving compliance and personalization signal from prompt-level rules into retrieval time structured context improves pharmaceutical claims generation, using Composer, a deployed internal tool built on a Gold...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.31519v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-22",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.31519v1"
+    }
+  ],
+  "authors": [
+    "Suyash Mishra",
+    "Qiang Li",
+    "Subhabrata Adak",
+    "Upender Phogat",
+    "Srikanth Patil",
+    "Satyanarayan Pati"
+  ],
+  "paperId": "2610.31519",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-22",
+  "abstract": "Large language models (LLMs) are increasingly used to generate domain-specific commercial &amp; medical content (e.g., claims, statements, and promotional phrases) in regulated industries such as pharmaceuticals. However, ensuring its regulatory compliance, factual accuracy, and audience-specific personalization remains a major challenge. We report a production case study asking whether moving compliance and personalization signal from prompt-level rules into retrieval time structured context improves pharmaceutical claims generation, using Composer, a deployed internal tool built on a Gold..."
+}

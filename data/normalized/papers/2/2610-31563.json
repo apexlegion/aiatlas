@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2610-31563",
+  "name": "When to Follow the Teacher: Advantage-Based On-Policy Distillation",
+  "summary": "Online Policy Distillation (OPD) often outperforms offline methods such as Supervised Fine-Tuning (SFT) by training on trajectories sampled directly from the student. However, standard OPD trains t...",
+  "description": "Online Policy Distillation (OPD) often outperforms offline methods such as Supervised Fine-Tuning (SFT) by training on trajectories sampled directly from the student. However, standard OPD trains the student to follow the teacher at every state of the trajectory, assuming that teacher guidance is always beneficial. We instead distinguish between what the teacher prefers and what actually helps the current student succeed. We introduce Advantage-Based On-Policy Distillation (AOPD), which weights teacher actions by their counterfactual advantage under the student. Teacher actions that improve...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.31563v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-22",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.31563v1"
+    }
+  ],
+  "authors": [
+    "Mahdi Sabbaghi",
+    "George Pappas",
+    "Hamed Hassani",
+    "Adel Javanmard"
+  ],
+  "paperId": "2610.31563",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-22",
+  "abstract": "Online Policy Distillation (OPD) often outperforms offline methods such as Supervised Fine-Tuning (SFT) by training on trajectories sampled directly from the student. However, standard OPD trains the student to follow the teacher at every state of the trajectory, assuming that teacher guidance is always beneficial. We instead distinguish between what the teacher prefers and what actually helps the current student succeed. We introduce Advantage-Based On-Policy Distillation (AOPD), which weights teacher actions by their counterfactual advantage under the student. Teacher actions that improve..."
+}

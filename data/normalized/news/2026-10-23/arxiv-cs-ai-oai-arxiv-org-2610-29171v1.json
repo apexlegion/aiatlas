@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-29171v1",
+  "name": "TrainBridge: Agentic NPU Training Optimization Guided by GPU Compilation Evidence",
+  "summary": "arXiv:2610.29171v1 Announce Type: cross Abstract: We study how to improve training efficiency on Ascend NPUs. In the NPU training programs we study, framework-level compilation optimizations such a...",
+  "description": "arXiv:2610.29171v1 Announce Type: cross Abstract: We study how to improve training efficiency on Ascend NPUs. In the NPU training programs we study, framework-level compilation optimizations such as operator fusion are only partially applied, leaving fragmented computation and avoidable execution overheads. Profiling-guided tuning can address these inefficiencies, but it often requires costly t...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.29171"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-23",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.29171"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-23",
+  "expiryAt": "2026-11-22T00:00:00.000Z",
+  "author": "Yupeng Chen, Kunxiang Zhao, Xingjian Wang, Yue Zhao, Yijing Wu, Ye Liu, Kai Li, Congliang Chen, Ruoyu Sun"
+}

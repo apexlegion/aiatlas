@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2610-31586",
+  "name": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
+  "summary": "Accuracy on medical examinations is common evidence offered for the clinical use of language models, yet a health system that intends to run an open model on its own hardware needs to know consider...",
+  "description": "Accuracy on medical examinations is common evidence offered for the clinical use of language models, yet a health system that intends to run an open model on its own hardware needs to know considerably more: whether the model recognizes when it is likely to be wrong, whether medical fine-tuning improves this ability, whether its correct answers rest on sound clinical reasoning, or whether it actually uses the images it is given. We examine these questions for four open models of 8 to 27 billion parameters on the Spanish MIR residency examination, scoring 1,552 questions from eight editions...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.31586v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-22",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2610.31586v1"
+    }
+  ],
+  "authors": [
+    "Miguel Fernandez-de-Retana",
+    "Unai Zulaika",
+    "Ruben Sanchez-Corcuera",
+    "Aritz Bilbao-Jayo",
+    "Aitor Almeida"
+  ],
+  "paperId": "2610.31586",
+  "category": "cs.CL",
+  "publishedAt": "2026-10-22",
+  "abstract": "Accuracy on medical examinations is common evidence offered for the clinical use of language models, yet a health system that intends to run an open model on its own hardware needs to know considerably more: whether the model recognizes when it is likely to be wrong, whether medical fine-tuning improves this ability, whether its correct answers rest on sound clinical reasoning, or whether it actually uses the images it is given. We examine these questions for four open models of 8 to 27 billion parameters on the Spanish MIR residency examination, scoring 1,552 questions from eight editions..."
+}

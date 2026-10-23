@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.16567v3",
+  "fetchedAt": "2026-10-23T07:19:29.490Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.16567v3",
+    "title": "TNODEV: Toolbox for Neural ODE Verification",
+    "link": "https://arxiv.org/abs/2606.16567",
+    "description": "arXiv:2606.16567v3 Announce Type: replace Abstract: Neural ordinary differential equations (neural ODE) gained attention in safety critical settings such as continuous-time controllers for cyber-physical systems and classifiers integrated into automated decision pipelines, raising the question whether their behavior can be formally verified. Existing tools dedicated to neural ODE provide only a single reachability call without iterative input-set refinement, limiting the precision of their verdicts to whatever one reachability call can deliver. We present TNODEV, the first formal verifier for neural ODE that integrates a falsification checker, a fast interval-based reachability backend based on continuous-time mixed monotonicity, a verification and refinement loop with three input-set splitting heuristics, and a parallel scheduler in a single end-to-end pipeline. TNODEV supports safe-set inclusion verification on pure neural ODE, neural ODE in closed loop with a neural network controller and general neural ODE (GNODE), with the safe set specified either as an interval or as the half-space intersection induced by a target classification label. We evaluate TNODEV on a range of benchmarks across safe-set inclusion and classification-robustness properties, including a direct reachability comparison against NNV 2.0 and CORA and a verification comparison against NNV 2.0 on MNIST general neural ODE classifiers.",
+    "publishedAt": "2026-10-23",
+    "author": "Abdelrahman Sayed Sayed, Pierre-Jean Meyer, Mohamed Ghazel",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

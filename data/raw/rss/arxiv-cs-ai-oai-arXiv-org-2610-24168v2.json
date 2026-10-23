@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.24168v2",
+  "fetchedAt": "2026-10-23T07:19:29.490Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.24168v2",
+    "title": "Model Capacity Frontier: A Development Framework for LLM-Supported Social Simulation",
+    "link": "https://arxiv.org/abs/2610.24168",
+    "description": "arXiv:2610.24168v2 Announce Type: replace-cross Abstract: Large language model (LLM) agents are increasingly incorporated into agent-based models (ABMs) on the premise that richer, context-sensitive human behavior can improve empirical fidelity. However, LLM-supported ABMs introduce an open-ended design space in which subtle modeling and configuration choices, such as prompt design and environment coupling, can substantially alter outcomes. Developing LLM-supported ABMs to simulate human collective behavior therefore requires navigating configuration sensitivity while identifying the limitations of the current model architecture. In this paper, we introduce the Model Capacity Frontier (MCF), a framework that characterizes the empirical performance attainable by a specified architecture across its admissible configurations. In multi-objective settings, this capacity is represented by an estimated Pareto frontier obtained through systematic configuration exploration. We demonstrate MCF in crowd simulation of university commencement events with approximately 12,000 agents, using empirical movement data on temporal occupancy, spatial distribution, and flow direction. We first characterize the capacity of a conventional crowd model and then evaluate successive LLM-supported architectural extensions. In the process, MCF reveals which dimensions of attainable performance expand and which remain limited, providing empirical targets for refinement and re-evaluation. Initial LLM integration improves flow direction but degrades temporal occupancy and spatial distribution; subsequent architectural refinement of the LLM layer improves temporal occupancy and recovers spatial performance, while retaining much of the earlier gain in flow direction. Our case study shows how MCF guides the systematic architectural development of LLM-supported ABMs in configuration-sensitive, open-ended design spaces.",
+    "publishedAt": "2026-10-23",
+    "author": "Patrick Zhao, Yuxuan Li, Hirokazu Shirado",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2610-31639",
+  "name": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
+  "summary": "Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoreg...",
+  "description": "Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoregressive generation, dense attention allows each reasoning step to attend to the full context, enabling the model to derive answers through direct lookup while generating plausible-sounding but post-hoc justifications. We introduce CausalCoT, an inference framework that enforces causal transparency by decomposing problems into a directed acyclic graph of atomic sub-questions, evaluating each node i...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.31639v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-22",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.31639v1"
+    }
+  ],
+  "authors": [
+    "Gabriele Dominici",
+    "Teague McMillan",
+    "Fazl Barez",
+    "Marc Langheinrich",
+    "Martin Gjoreski"
+  ],
+  "paperId": "2610.31639",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-22",
+  "abstract": "Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoregressive generation, dense attention allows each reasoning step to attend to the full context, enabling the model to derive answers through direct lookup while generating plausible-sounding but post-hoc justifications. We introduce CausalCoT, an inference framework that enforces causal transparency by decomposing problems into a directed acyclic graph of atomic sub-questions, evaluating each node i..."
+}

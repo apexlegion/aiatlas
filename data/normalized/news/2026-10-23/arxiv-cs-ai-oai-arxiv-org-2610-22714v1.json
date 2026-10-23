@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-22714v1",
+  "name": "First Passage Attention",
+  "summary": "arXiv:2610.22714v1 Announce Type: cross Abstract: Augmenting softmax attention with forget gates typically relies on summing decay contributions along the key--query path. Because such accumulation...",
+  "description": "arXiv:2610.22714v1 Announce Type: cross Abstract: Augmenting softmax attention with forget gates typically relies on summing decay contributions along the key--query path. Because such accumulation is monotonic, these mechanisms cannot selectively erase intermediate context while preserving older, structurally relevant tokens. We propose First Passage Attention (FPA), which shifts from path sum...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.22714"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-23",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.22714"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-23",
+  "expiryAt": "2026-11-22T00:00:00.000Z",
+  "author": "Yuxuan Liu"
+}

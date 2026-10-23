@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.12002v2",
+  "fetchedAt": "2026-10-23T07:19:29.490Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.12002v2",
+    "title": "CTBench: Evaluating Troubleshooting Capabilities of AI Agents in Realistic Telecom Network Operations",
+    "link": "https://arxiv.org/abs/2608.12002",
+    "description": "arXiv:2608.12002v2 Announce Type: replace Abstract: While autonomous agents show promise for network operations, existing telecom troubleshooting evaluations fail to capture the partial observability and heterogeneity of real-world telecom environments. We introduce CTBench, a public benchmark evaluating agent troubleshooting capabilities in root cause analysis (RCA) and path restoration. Constructed by domain experts, CTBench features rich metadata and golden evidence trajectories, utilizing metrics that assess both final accuracy and diagnostic reasoning. Our evaluation of state-of-the-art agents reveals that while they excel at path endpoint identification, they severely underperform in RCA. Crucially, even when agents produce correct answers, they frequently fail to gather the requisite diagnostic evidence demanded in operational practice. Finally, we demonstrate that increased computational expenditure does not guarantee improved diagnostic competence, highlighting critical gaps in current agent capabilities.",
+    "publishedAt": "2026-10-23",
+    "author": "Xingyu Yan, Tingting Dai, Antonio De Domenico, Mohamed Sana, Nicola Piovesan, Changchang Li, Bowen Liu, Kun Jiang, Mengjie Zhang, Dingcheng Shan, Jing-Cheng Pang, Chenwei Wu, Sijie Wu, Lianying Chao, Haoran Cai, Jiantao Ye, Xubin Li, Simon Mark Lucas, Xin Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

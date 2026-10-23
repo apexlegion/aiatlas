@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.00272v2",
+  "fetchedAt": "2026-10-23T07:19:29.490Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.00272v2",
+    "title": "ASPIRE: Agentic /Skills Discovery for Robotics",
+    "link": "https://arxiv.org/abs/2607.00272",
+    "description": "arXiv:2607.00272v2 Announce Type: replace-cross Abstract: Traditional robot programming is notoriously challenging: it requires orchestrating multimodal perception, managing physical contact dynamics, and handling diverse environment configurations and execution failures. We introduce ASPIRE (Agentic Skill Programming through Iterative Robot Exploration), a continual learning system that autonomously writes and refines robot control programs in a code-as-policy paradigm while compounding experience into a reusable skill library. ASPIRE operates in an open-ended learning loop, consisting of three components: (1) a closed-loop robot execution engine that exposes fine-grained multimodal traces, enabling the agent to autonomously diagnose failures, synthesize repairs, and validate outcomes; (2) a continually expanding skill library that distills validated fixes into reusable, transferable robotic knowledge; and (3) an evolutionary search procedure that generates diverse programs, systematically debugging them to explore beyond single-trajectory refinement. ASPIRE surpasses prior methods by up to 77% on manipulation tasks under perturbation, 72% on Robosuite's bimanual handover task, and up to 32% on long-horizon household tasks. The accumulated skill library further enables zero-shot generalization: on representative unseen long-horizon tasks, ASPIRE achieves 31% success, outperforming the 4% success rate of prior methods. Performance scales with the capabilities of frontier models. With Claude Opus 5.5, ASPIRE nearly saturates these benchmarks, achieving 99% average success across all 80 LIBERO-Pro tasks and 100% success on representative Robosuite and BEHAVIOR-1K tasks. Beyond simulation, skills discovered in simulation reduce real-world robot programming effort across embodiments and robot APIs, while skills acquired through online interaction with physical robots enable ASPIRE to solve a Rubik's Cube with progressively improving efficiency.",
+    "publishedAt": "2026-10-23",
+    "author": "Runyu Lu, Yubo Wu, Ethan Kou, Haotian Lin, Letian Fu, Wenli Xiao, Ajay Mandlekar, Yinzhen Xu, Guanya Shi, Ken Goldberg, Ang Chen, Mosharaf Chowdhury, Jan Kautz, Yuke Zhu, Linxi \"Jim\" Fan, Guanzhi Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

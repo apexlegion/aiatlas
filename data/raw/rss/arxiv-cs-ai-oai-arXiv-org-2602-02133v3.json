@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.02133v3",
+  "fetchedAt": "2026-10-23T07:19:29.490Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.02133v3",
+    "title": "A Theoretical Analysis of Why Masked Diffusion Models Mitigate the Reversal Curse",
+    "link": "https://arxiv.org/abs/2602.02133",
+    "description": "arXiv:2602.02133v3 Announce Type: replace Abstract: Autoregressive language models (ARMs) suffer from the reversal curse: after learning ''$A$ is $B$,'' they often fail on the reverse query ''$B$ is $A$.'' Masked diffusion language models (MDMs) exhibit this failure in a much weaker form, but the underlying reason has remained unclear. A common explanation attributes this mitigation to their any-order masked training objective. However, observing ''$[\\mathbf{M}]$ is $B$'' during training teaches recovery of $A$ from $B$ in one positional configuration, and does not by itself explain why the learned evidence should transfer to the reverse prompt ''$B$ is $[\\mathbf{M}]$.'' We provide a theoretical analysis showing that this transfer arises from a parameter-level coupling between forward and reverse positional conditionals: shared Transformer parameters store token-pair evidence, while relative positional encodings route attention through queries and keys without changing the value-side evidence being retrieved. In a one-layer MDM, we prove that forward masked training strengthens evidence that is reusable in reverse queries, induces correlated forward--reverse attention routes, and yields a positively aligned shared-storage gradient component that decreases the reverse loss to first order. Controlled one-layer experiments and large-scale LLaDA/Dream experiments verify these signatures and show that they translate into improved reverse prediction.",
+    "publishedAt": "2026-10-23",
+    "author": "Moongyu Jeon, Sangwoo Shin, BumJun Kim, Kyelim Lee, Albert No",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

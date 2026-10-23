@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.16067v2",
+  "fetchedAt": "2026-10-23T07:19:29.490Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.16067v2",
+    "title": "When Agent Evaluation Becomes Unreliable: An Empirical Study of Oracle Failures and Configuration-Dependent Measurement in an LLM Agent Benchmark",
+    "link": "https://arxiv.org/abs/2610.16067",
+    "description": "arXiv:2610.16067v2 Announce Type: replace-cross Abstract: Agent evaluation harnesses are software: they run a test suite, drive a test input generator, and decide outcomes with a test oracle. We audit them for defects a score table cannot show. First, a systematic oracle-integrity auditing approach - five state-integrity invariants and three known-answer controls - is measured by injecting seven oracle defect classes across two task domains and a synthetic domain. Every class is detected, and on the 57 separable variant-target combinations it detects 54; the repaired oracle yields no false positive. On a widely used agent benchmark, it exposes a reward function that resets the database to build a ground-truth hash and never restores it, so a harness scoring afterwards reads the reference solution's state: recorded labels report 4,194 database passes over 4,320 episodes, replay gives 2,883, and success falls from 94.3% to 65.5%. The correction is not a uniform offset; it removes 24 to 34 points from each agent and changes which agent this matrix measures as strongest. Second, more weakly, localising the apparatus is a property of the measurement: a 3,240-episode ablation associates the three documents with lower collapse in the tested configuration, without ordering them, and a second task domain reverses the language effect. Third, the method did not transfer to a second, independently implemented benchmark; we name the contract required. A replication package recomputes every analysis offline with no model calls.",
+    "publishedAt": "2026-10-23",
+    "author": "Junjie Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

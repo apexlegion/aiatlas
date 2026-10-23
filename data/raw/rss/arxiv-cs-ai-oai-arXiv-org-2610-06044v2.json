@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.06044v2",
+  "fetchedAt": "2026-10-23T07:19:29.490Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.06044v2",
+    "title": "RocketAgent: A Long-Horizon Engineering Agent for Multidisciplinary Design of Liquid-Rocket Thrust Chambers",
+    "link": "https://arxiv.org/abs/2610.06044",
+    "description": "arXiv:2610.06044v2 Announce Type: replace Abstract: Liquid-rocket thrust-chamber design involves interdependent analyses in which downstream constraints can require earlier design decisions to be revisited. Managing these dependencies across heterogeneous tools requires consistent design information and coordinated updates throughout the workflow. We present RocketAgent, a long-horizon engineering agent for multidisciplinary preliminary design of liquid-rocket thrust chambers. A single plan-owning Coding Agent coordinates engineering skills for performance sizing, subsystem optimization, geometry generation, and multiphysics assessment. A provenance-aware knowledge graph supports method selection, while a typed Design Intermediate Representation maintains shared parameters, artifacts, and decisions. Revision-aware checks invalidate affected results and block superseded inputs, with consequential changes subject to engineering approval. In a representative simulation-based design, RocketAgent continued from an infeasible cooling search through an engineer-authorized operating-point revision, identified feasible subsystem designs, and coordinated subsequent geometry generation and multiphysics assessment to support final configuration selection. Separate module tests assessed surrogate predictions and nozzle adaptation. A two-configuration comparison across three controlled scenarios verified the expected dependency invalidations and superseded-input blocking before solver execution. The representative case demonstrates sustained coordination across a multidisciplinary design workflow, while the controlled tests establish the behavior of the revision mechanisms supporting that execution.",
+    "publishedAt": "2026-10-23",
+    "author": "Junxiang He, Runze Mao, Kun He, Teng Zhang, Liming Zheng, Ke Xiao, Zhi X. Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

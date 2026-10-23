@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2605-26175v2",
+  "name": "InfoQuant: Shaping Activation Distributions for Low-Bit LLM Quantization",
+  "summary": "arXiv:2605.26175v2 Announce Type: replace-cross Abstract: Low-bit activation quantization remains a major bottleneck in efficient large language model (LLM) deployment. The difficulty is not only t...",
+  "description": "arXiv:2605.26175v2 Announce Type: replace-cross Abstract: Low-bit activation quantization remains a major bottleneck in efficient large language model (LLM) deployment. The difficulty is not only that activations contain outliers, but that their distributions are often poorly matched to a low-bit uniform quantizer. Existing post-training quantization (PTQ) methods suppress peaks, balance channe...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2605.26175"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-23",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2605.26175"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-23",
+  "expiryAt": "2026-11-22T00:00:00.000Z",
+  "author": "Ke Li, Dong An, Xiaoling Zang, Can Ye, Liang Xie, Qibo Qiu, Chen Shen, Xiaofei He, Wenxiao Wang"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2506.16590v2",
+  "fetchedAt": "2026-10-23T07:19:29.490Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2506.16590v2",
+    "title": "Energy-Based Transfer for Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2506.16590",
+    "description": "arXiv:2506.16590v2 Announce Type: replace-cross Abstract: Reinforcement learning remains sample inefficient, particularly when agents must adapt over time to related but distinct tasks, as in continual learning settings. Efficiency can be improved by transferring knowledge from a pretrained teacher policy to guide exploration in new but related tasks. However, if the new task sufficiently differs from the teacher's training task, the transferred guidance may be sub-optimal and bias exploration toward low-reward behaviors. We propose an energy-based transfer learning method that uses out-of-distribution detection to selectively issue guidance, enabling the teacher to intervene only in states within its training distribution. We theoretically link energy scores to state-visitation patterns under on-policy reinforcement learning. Empirically, our method improves sample efficiency and performance across both single-task and multi-task settings.",
+    "publishedAt": "2026-10-23",
+    "author": "Zeyun Deng, Jasorsi Ghosh, Fiona Xie, Kai Cheng, Yuzhe Lu, Katia Sycara, Joseph Campbell",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

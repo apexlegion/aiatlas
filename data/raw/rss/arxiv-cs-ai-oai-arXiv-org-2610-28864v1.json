@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.28864v1",
+  "fetchedAt": "2026-10-23T07:19:29.490Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.28864v1",
+    "title": "A General Topological Symmetry Index for Critical Orbits In Neural Network Loss Landscapes",
+    "link": "https://arxiv.org/abs/2610.28864",
+    "description": "arXiv:2610.28864v1 Announce Type: cross Abstract: A systematic understanding of the global structure of neural-network loss landscapes remains challenging due to their high dimensionality. Symmetries arising from network architectures and learning objectives provide a way to investigate aspects of this structure. Although a growing number of studies have drawn attention to these symmetries, a systematic characterization of them, as well as of the critical orbits they give rise to, remains incomplete. To address this gap, in this work we establish a topological symmetry index, based on the methodologies from the family of equivariant degree theories, to decode these symmetries. The frameworks apply to arbitrary network architectures and include methods applicable to degenerate critical orbits. The index detects the isotropy of the critical points and quantifies the corresponding net topological contributions. Several examples, including softplus MLPs, Transformers, and equivariant neural networks, are presented to illustrate the computations.",
+    "publishedAt": "2026-10-23",
+    "author": "Jingzhou Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

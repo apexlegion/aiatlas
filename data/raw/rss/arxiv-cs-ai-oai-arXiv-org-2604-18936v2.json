@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.18936v2",
+  "fetchedAt": "2026-10-23T07:19:29.490Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.18936v2",
+    "title": "Fine-Tuning Small Reasoning Models for Quantum Field Theory",
+    "link": "https://arxiv.org/abs/2604.18936",
+    "description": "arXiv:2604.18936v2 Announce Type: replace-cross Abstract: Despite the growing application of large language models (LLMs) to theoretical physics, there has been little academic exploration of how domain-specific physics reasoning ability develops during training. To investigate this, we perform the first academic comparison of reinforcement learning and supervised fine-tuning for LLMs on verifiable problem-solving tasks in theoretical physics. Because the open-source verifiable training data required to develop such capabilities is scarce, we built a robust data generation pipeline that can both create synthetic problems and make existing human-authored problems suitable for model training. Selecting quantum field theory (QFT) as our primary domain, we generated over 2,500 synthetic problems alongside a curated collection of human-adapted problems sourced from arXiv and standard pedagogical resources. We conduct both reinforcement learning (RL) and supervised fine-tuning (SFT) experiments, benchmarking performance gains as well as generalization to other physics domains. Although both methods improve over the base model on every dataset, SFT gains are concentrated on in-distribution synthetic tasks, while RL generalizes better, outperforming SFT on the human-adapted datasets and TPBench. We perform an extensive analysis of model chain-of-thought (CoT) reasoning before and after fine-tuning to understand how reasoning errors evolve during RL and SFT. Finally, we publicly release our data pipeline, verifiable QFT training data, and ~200M tokens of QFT reasoning traces.",
+    "publishedAt": "2026-10-23",
+    "author": "Nathaniel S. Woodward, Zhiqi Gao, Yurii Kvasiuk, Kendrick M. Smith, Frederic Sala, Moritz M\\\"unchmeyer",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

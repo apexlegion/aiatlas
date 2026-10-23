@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2510.16511v2",
+  "fetchedAt": "2026-10-23T07:19:29.490Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2510.16511v2",
+    "title": "Structured Temporal Causality for Interpretable Multivariate Time Series Anomaly Detection",
+    "link": "https://arxiv.org/abs/2510.16511",
+    "description": "arXiv:2510.16511v2 Announce Type: replace-cross Abstract: Real-world multivariate time series anomalies are rare and often unlabeled. Additionally, prevailing methods rely on increasingly complex architectures tuned to benchmarks, detecting only fragments of anomalous segments and overstating performance. In this paper, we introduce OracleAD, a simple and interpretable unsupervised framework for multivariate time series anomaly detection. OracleAD encodes each variable's past sequence into a single causal embedding to jointly predict the present time point and reconstruct the input window, effectively modeling temporal dynamics. These embeddings then undergo a self-attention mechanism to project them into a shared latent space and capture spatial relationships. These relationships are not static, since they are modeled by a property that emerges from each variable's temporal dynamics. The projected embeddings are aligned to a Stable Latent Structure (SLS) representing normal-state relationships. Anomalies are identified using a dual scoring mechanism based on prediction error and deviation from the SLS, enabling fine-grained anomaly diagnosis at each time point and across individual variables. Since any noticeable SLS deviation originates from embeddings that violate the learned temporal causality of normal data, OracleAD directly pinpoints the root-cause variables at the embedding level. OracleAD achieves state-of-the-art results across multiple real-world datasets and evaluation protocols, while remaining interpretable through SLS.",
+    "publishedAt": "2026-10-23",
+    "author": "Dongchan Cho, Jiho Han, Keumyeong Kang, Minsang Kim, Honggyu Ryu, Namsoon Jung",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

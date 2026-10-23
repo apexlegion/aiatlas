@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.28658v1",
+  "fetchedAt": "2026-10-23T07:19:29.490Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.28658v1",
+    "title": "CompLit: Scientific Literature Search Benchmarks Must Cover Implicit, Cumulative, and Unmet Needs",
+    "link": "https://arxiv.org/abs/2610.28658",
+    "description": "arXiv:2610.28658v1 Announce Type: cross Abstract: How much can we trust an agent to find the paper we need? As researchers, we search the literature from what we have read toward what we have not. We thus describe what we want in our own terms, which a paper may show only implicitly; our requirements grow as we read; and what we seek may lie in an empty region no paper yet covers. We introduce CompLit, a literature search benchmark spanning all eight arXiv domains, with one diagnostic setting for each of these needs. The strongest agents, Codex (GPT-5.6-Sol) and Claude Code (Opus 4.8), answer 86-87% of Standard queries, yet fall to 66-68% when requirements are implicit (implicit), lose another 6 and 15pp, respectively, as they accumulate (cumulative), and abstain on at most 53% of the queries no paper satisfies (unmet). No agent leads in every domain, and all are less accurate on papers from before 2019 or after 2023. Tracing their search, we find that agents often reach the right paper, or the closest one, yet misjudge it. Doing well on CompLit is a step toward agents that we can trust to find the paper we need, or to tell us that none exists.",
+    "publishedAt": "2026-10-23",
+    "author": "Dayoon Ko, Jihyuk Kim, Soyeong Jeong, Young-jun Lee, Dahyun Lee, Juyeon Kim, Gunhee Kim, Moontae Lee, Kyungjae Lee",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

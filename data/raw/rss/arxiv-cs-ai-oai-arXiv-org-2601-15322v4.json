@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.15322v4",
+  "fetchedAt": "2026-10-23T07:19:29.490Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.15322v4",
+    "title": "Replayable Financial Agents: A Determinism-Faithfulness Assurance Harness for Tool-Using LLM Agents",
+    "link": "https://arxiv.org/abs/2601.15322",
+    "description": "arXiv:2601.15322v4 Announce Type: replace Abstract: Replaying a financial agent requires specifying the conditions of a rerun, preserving its execution record, and deciding which parts of its behavior to compare. We introduce the Determinism-Faithfulness Assurance Harness (DFAH), a framework and practical protocol for organizing these choices. The framework distinguishes comparisons of final decisions, tool-name sets, and ordered tool names, while treating support from available evidence as a separate evaluation target. We illustrate the framework using 2,957 recorded executions in synthetic compliance-triage and data-operations tasks. One data-operations configuration repeated its recorded decision across all trials on 84% of cases, while its ordered tool-name sequence repeated on 26%. Conversely, some compliance cases retained the same tool sequence while recorded decisions changed. A case-level example shows how repeated labels accompanied different lookups and escalation calls. These observations demonstrate how the comparison level changes the description of repeated behavior. The resulting protocol connects configuration control, preservation of each attempt, comparison of records, and inspection of changed cases. DFAH provides a practical foundation for designing replay experiments and locating execution differences during the development and evaluation of financial agents.",
+    "publishedAt": "2026-10-23",
+    "author": "Raffi Khatchadourian",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
