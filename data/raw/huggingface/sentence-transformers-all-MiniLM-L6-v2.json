@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "sentence-transformers/all-MiniLM-L6-v2",
-  "fetchedAt": "2026-10-23T07:19:28.346Z",
+  "fetchedAt": "2026-10-24T07:07:58.373Z",
   "data": {
     "_id": "621ffdc136468d709f180294",
     "id": "sentence-transformers/all-MiniLM-L6-v2",
@@ -57,8 +57,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 193424443,
-    "likes": 6003,
+    "downloads": 193924911,
+    "likes": 6008,
     "modelId": "sentence-transformers/all-MiniLM-L6-v2",
     "author": "sentence-transformers",
     "sha": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
@@ -230,12 +230,14 @@
       "embedl/hfviewer",
       "hakari-bench/leaderboard",
       "MTEB-BR/leaderboard",
+      "nickmuchi/semantic-search-with-retrieve-and-rerank",
+      "Arbazkhan-cs/Retrieval-Augmented-Generation",
       "alperiox/prosodia",
       "prajwalpujari16/menmo-backend",
       "gianlucamazza/emotional-memory-demo",
       "VADITYA307/vertex-engine",
-      "Yashodeep2006/finewavetech-api",
-      "mrfakename/steer-tts",
+      "Karthikp1703/VeriDoc-AI",
+      "teja0566/Ai_health_assisstant",
       "Nituhimani/gfz",
       "trigent09/ai-backend",
       "cvachet/pdf-chatbot",
@@ -244,7 +246,6 @@
       "mteb/arena",
       "build-small-hackathon/FamilyLegacy",
       "Illia56/Ask-AI-Youtube",
-      "nickmuchi/semantic-search-with-retrieve-and-rerank",
       "Gradio-Blocks/Ask_Questions_To_YouTube_Videos",
       "Agents-MCP-Hackathon/ScouterAI",
       "nickmuchi/article-text-summarizer",
@@ -324,8 +325,7 @@
       "KrishnaKumar23/documentQABot",
       "ABBNikit/Nikit_PDF_Chatbot",
       "CyranoB/search_agent",
-      "sickcell/AskCTI",
-      "Shashikiran42/Banking_Regulations_Compliance_ChatBOT"
+      "sickcell/AskCTI"
     ],
     "createdAt": "2022-03-02T23:29:05.000Z",
     "safetensors": {
