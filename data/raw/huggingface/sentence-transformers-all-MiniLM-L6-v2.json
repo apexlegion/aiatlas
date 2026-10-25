@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "sentence-transformers/all-MiniLM-L6-v2",
-  "fetchedAt": "2026-10-24T07:07:58.373Z",
+  "fetchedAt": "2026-10-25T07:30:34.804Z",
   "data": {
     "_id": "621ffdc136468d709f180294",
     "id": "sentence-transformers/all-MiniLM-L6-v2",
@@ -57,8 +57,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 193924911,
-    "likes": 6008,
+    "downloads": 191688814,
+    "likes": 6013,
     "modelId": "sentence-transformers/all-MiniLM-L6-v2",
     "author": "sentence-transformers",
     "sha": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
@@ -226,20 +226,23 @@
       }
     ],
     "spaces": [
-      "tardellirs/model-pulse",
       "embedl/hfviewer",
       "hakari-bench/leaderboard",
       "MTEB-BR/leaderboard",
       "nickmuchi/semantic-search-with-retrieve-and-rerank",
+      "aseifert/ExplaiNER",
       "Arbazkhan-cs/Retrieval-Augmented-Generation",
       "alperiox/prosodia",
+      "AjayChaki/chatbot-haaka",
       "prajwalpujari16/menmo-backend",
       "gianlucamazza/emotional-memory-demo",
       "VADITYA307/vertex-engine",
       "Karthikp1703/VeriDoc-AI",
       "teja0566/Ai_health_assisstant",
+      "BIGJUTT/model-pulse",
       "Nituhimani/gfz",
       "trigent09/ai-backend",
+      "Jerrytrade/PredictIN_Server",
       "cvachet/pdf-chatbot",
       "marcosv/InstructIR",
       "JournalistsonHF/ai-scraper",
@@ -293,7 +296,6 @@
       "Pulastya0/Data-Science-Agent",
       "UII-AI/MedVidBench-Leaderboard",
       "pritamdeka/pubmed-abstract-retriever",
-      "aseifert/ExplaiNER",
       "Aabbhishekk/ChatPdf",
       "DiffusionAgent/DiffusionAgent",
       "Shreyas094/GPT-Researcher",
@@ -323,9 +325,7 @@
       "JDWebProgrammer/chatbot",
       "Gololias/MetroCuadrado",
       "KrishnaKumar23/documentQABot",
-      "ABBNikit/Nikit_PDF_Chatbot",
-      "CyranoB/search_agent",
-      "sickcell/AskCTI"
+      "ABBNikit/Nikit_PDF_Chatbot"
     ],
     "createdAt": "2022-03-02T23:29:05.000Z",
     "safetensors": {

@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-10-24T07:07:58.118Z",
+  "fetchedAt": "2026-10-25T07:30:34.547Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 3557848,
-    "likes": 6686,
+    "downloads": 3499023,
+    "likes": 6689,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -346,20 +346,20 @@
       }
     ],
     "spaces": [
-      "openai/whisper",
       "embedl/hfviewer",
+      "openai/whisper",
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "mrfakename/kitten-tts-2",
       "msalhab96/open_universal_arabic_asr_leaderboard_all",
       "fastgpu/vram-and-gpu-cost-calculator",
       "Quran-Lab/quranic-asr-leaderboard",
-      "hf-audio/whisper-large-v3",
       "artificialguybr/Video-Transcription-Smart-Summary",
       "OpenSound/CapSpeech-TTS",
       "treble-technologies/ffasr",
-      "phinam112/OmniVoice-Studio",
       "tvosch/Dutch-ASR-Leaderboard",
       "kadirnar/arabic-asr-leaderboard",
+      "Steveeeeeeen/smallest-s2s",
+      "hf-audio/whisper-large-v3",
       "artificialguybr/video-dubbing",
       "sanchit-gandhi/whisper-jax-spaces",
       "nari-labs/Dia2-2B",
@@ -379,6 +379,7 @@
       "AudioLLMs/AudioBench-Leaderboard-Extend",
       "Illia56/transcribe-video-via-whisper-v3",
       "ylacombe/create-your-own-TTS-dataset",
+      "phinam112/OmniVoice-Studio",
       "RyeAI/danish-asr-leaderboard",
       "navidved/open_persian_asr_leaderboard",
       "mozilla-ai/transcribe",
@@ -444,8 +445,7 @@
       "ArtFix0/speech-to-speech-dashboard",
       "ysharma/gr-workflow-microduck-lab",
       "geraldadli/speech-emotion-recognition",
-      "Maximofn/subtify",
-      "TogetherAI/whisper-large-v3"
+      "Maximofn/subtify"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {
