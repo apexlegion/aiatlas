@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.27746v4",
+  "fetchedAt": "2026-10-26T07:41:05.581Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.27746v4",
+    "title": "S$^2$-MAS: A Society-Scale Multi-Agent Simulation Framework with 500 Million Household Persona Agents",
+    "link": "https://arxiv.org/abs/2610.27746",
+    "description": "arXiv:2610.27746v4 Announce Type: replace-cross Abstract: Simulating economic responses at society scale requires agents whose decisions reflect household circumstances. We introduce S$^2$-MAS, a society-scale multi-agent simulation framework built on 500 million synthetic household personas grounded in real-survey data. Its Genese engine separates decisions from state updates, while reusable financial scenarios and application ledgers track consumption, cash, debt and payments. Trained with SFT + RLCD on 2.93 million examples, sharp-421m-mlx achieves 74.55% accuracy and 38.37% question-macro F1 on one-shot consumer financial-choice tasks derived from held-out survey responses. Its accuracy exceeds GLM-5.3-Flash, Jev 1.13, DeepSeek-V4.1-Flash, GPT-6-Luna and GPT-6-Astra in the common benchmark (full test for the first four; matched 500-group sample for Astra). We evaluate eight financial task families and simulate 12 million distinct household agents in paired purchase-funding conditions. Jointly raising purchase goals and approved credit limits increases consumption, with responses differing across age and income groups. Education, employment and household-size differences persist after age-income standardization and mainly reflect transitions from deferral to purchase. Asset and debt groups differ in cash drawdown, repayment and closing debt. S$^2$-MAS links heterogeneous household decisions to evolving consumption, cash and repayment paths, supporting economic experiments across household groups and population scales.",
+    "publishedAt": "2026-10-26",
+    "author": "Yang Li, Yike Wang, Di Wan, Chujun He, Zongsi Xu, Yitao Yu, Quanfeng Lu, Xiyu Chen, Sheng Zhong, Deng Binjie, Yichen Guo, Zhenwei Guo, Hou Jun, Kunhan Guo, Weihao Lin, Tuo Zhou, Hai Liu, Chenwei Wu, Jianyuan Zhong, Xilin Dai, Ye Luo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

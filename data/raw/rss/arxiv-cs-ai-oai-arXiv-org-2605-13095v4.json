@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.13095v4",
+  "fetchedAt": "2026-10-26T07:41:05.581Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.13095v4",
+    "title": "Watermarking Should Be Treated as a Monitoring Primitive",
+    "link": "https://arxiv.org/abs/2605.13095",
+    "description": "arXiv:2605.13095v4 Announce Type: replace-cross Abstract: Watermarking is a primary means for providers of generative models to meet legal requirements to mark synthetic content. A watermark embeds a hidden signal into generated content that a detector holding a secret key can later recover. Its security is evaluated primarily against adversaries who remove or forge this signal in individual outputs. We argue that watermarking should also be evaluated and governed as a \\emph{monitoring primitive}, because the same signal can link outputs to the entity that generated them. We show that (i) internal observers with detector access attribute outputs to individual entities even under zero-bit watermarks, which encode no identity, when each entity holds its own key, and (ii) external observers without keys or detectors identify the source of unseen text and image outputs in the configurations we test. Both depend on deployment choices that evaluations do not report, namely how fine-grained and persistent the bindings between keys and entities are and who may query the detector. We call for evaluations to report attribution and identification accuracy alongside robustness, and for governance to limit these bindings and detector access.",
+    "publishedAt": "2026-10-26",
+    "author": "Toluwani Aremu, Jie Zhang, Nils Lukas",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

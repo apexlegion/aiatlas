@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.05279v2",
+  "fetchedAt": "2026-10-26T07:41:05.581Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.05279v2",
+    "title": "Interchangeable in Role, Not in History: Replacing Members of Formed LLM Teams",
+    "link": "https://arxiv.org/abs/2609.05279",
+    "description": "arXiv:2609.05279v2 Announce Type: replace Abstract: Multiagent LLM systems often treat a role as a slot: when a member is replaced, any agent competent at the role is expected to fill it. We test this view on teams whose members keep short written notebooks. A one-seat swap replays a formed, frozen team with its own member, with a same-role newcomer carrying another team's notebook for that role, or with a newcomer carrying none. In cooperative cooking, wildfire response and medical question answering, the experienced newcomer, averaged over seats, outscores the one without a notebook in every setting, so the usual comparison would approve it. Against the original team, the same replacement falls short in every setting, and the team spends more messages per unit of progress. On the hardest cooking level, the shortfall appears only after the team has worked together, persists across model families and decoding temperatures, and narrows by two thirds with added planning-only members. Because the team's history is written down, we can take it apart. In the default configuration on that level, notebooks from the same donor teams leave a newcomer that leads, holding the recipe, worse off than no notebook and one that follows better off. The notebook lines about the partner reproduce this whole difference between the seats. Whether an agent can replace a teammate depends on the seat and the team it enters.",
+    "publishedAt": "2026-10-26",
+    "author": "Jianxin Gao, Runze Li, Tianyi Yu, Liangwei Ren, Bohan Chen, Zining Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

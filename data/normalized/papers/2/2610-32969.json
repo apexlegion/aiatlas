@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2610-32969",
+  "name": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+  "summary": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and p...",
+  "description": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coordinating many finger joints on the operator. Human demonstrations are easier to collect, but their motions must be estimated and retargeted to the robot, and they do not directly provide robot actions. In this paper, we introduce DexPort, a portable data-collection interface for high-DoF robot hands. It uses the same hand hardware for collection and deployment, avoiding a h...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.32969v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-23",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2610.32969v1"
+    }
+  ],
+  "authors": [
+    "Amber Xie",
+    "Jiawei Fu",
+    "Xiaofeng Guo",
+    "Carmelo Sferrazza",
+    "Guanya Shi",
+    "Haozhi Qi"
+  ],
+  "paperId": "2610.32969",
+  "category": "cs.RO",
+  "publishedAt": "2026-10-23",
+  "abstract": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and places the burden of coordinating many finger joints on the operator. Human demonstrations are easier to collect, but their motions must be estimated and retargeted to the robot, and they do not directly provide robot actions. In this paper, we introduce DexPort, a portable data-collection interface for high-DoF robot hands. It uses the same hand hardware for collection and deployment, avoiding a h..."
+}

@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2610-32919",
+  "name": "SemantEq: Faithful Bidirectional Equivalence of Formal Statements",
+  "summary": "Statement autoformalization translates mathematics from natural language into a proof assistant such as Lean 4, and models now do it at scale. As provers get stronger, the burden of correctness shi...",
+  "description": "Statement autoformalization translates mathematics from natural language into a proof assistant such as Lean 4, and models now do it at scale. As provers get stronger, the burden of correctness shifts from the proof to the statement, that is, to whether the formal statement faithfully translates its source. Given a trusted reference formalization, the natural test is logical equivalence, and it proves too much. $P \\leftrightarrow Q$ holds trivially for any two statements $P$ and $Q$ that the library proves, because a prover can prove each separately and pass through $P \\leftrightarrow \\math...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.32919v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-23",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.32919v1"
+    }
+  ],
+  "authors": [
+    "Xinrui Li",
+    "Pawan Sasanka Ammanamanchi",
+    "Siddharth Bhat",
+    "Rianna Jamdar",
+    "Yongxi Lin",
+    "Stella Biderman"
+  ],
+  "paperId": "2610.32919",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-23",
+  "abstract": "Statement autoformalization translates mathematics from natural language into a proof assistant such as Lean 4, and models now do it at scale. As provers get stronger, the burden of correctness shifts from the proof to the statement, that is, to whether the formal statement faithfully translates its source. Given a trusted reference formalization, the natural test is logical equivalence, and it proves too much. $P \\leftrightarrow Q$ holds trivially for any two statements $P$ and $Q$ that the library proves, because a prover can prove each separately and pass through $P \\leftrightarrow \\math..."
+}

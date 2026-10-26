@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.02150v3",
+  "fetchedAt": "2026-10-26T07:41:05.581Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.02150v3",
+    "title": "CrimeNER: Curated Dataset and Methods for Research and Investigation in Language Intelligence",
+    "link": "https://arxiv.org/abs/2603.02150",
+    "description": "arXiv:2603.02150v3 Announce Type: replace-cross Abstract: The extraction of critical information from crime-related documents is a crucial task for law enforcement agencies. The extraction of this information can be interpreted as a Named-Entity Recognition (NER) task. However, there is a considerable lack of adequately annotated data on general real-world crime scenarios. To address this issue, we present CrimeNER, a case study of crime-related NER, and a general crime-related Named-Entity Recognition database (CrimeNER-db), consisting of more than 1.5K annotated documents extracted from public reports of terrorist attacks and the US Department of Justice's press notes. We define 4 coarse types of crime entity and 21 fine-grained entity types. We address the quality of the presented database with fully supervised experiments using flat and nested NER architectures and zero- and few-shot experiments using Large Language Models (LLMs). The database is available on GitHub.",
+    "publishedAt": "2026-10-26",
+    "author": "Miguel Lopez-Duran, Julian Fierrez, Aythami Morales, Ruben Tolosana, Daniel DeAlcala, Gonzalo Mancera, Javier Irigoyen, Oscar Delgado, Francisco Jurado, Alvaro Ortigosa",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-32431v1",
+  "name": "When to Stop Penalizing Actions? Martingale GRPO for VLA Reinforcement Learning",
+  "summary": "arXiv:2610.32431v1 Announce Type: new Abstract: A failed vision-language-action (VLA) rollout does not imply that every action contributed to failure. Yet in group-relative policy optimization (GRP...",
+  "description": "arXiv:2610.32431v1 Announce Type: new Abstract: A failed vision-language-action (VLA) rollout does not imply that every action contributed to failure. Yet in group-relative policy optimization (GRPO), a single trajectory-level advantage is assigned to all actions in a rollout. Potentially useful recovery attempts can thus be penalized alongside the errors they aim to correct. Ideal stopping con...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.32431"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-26",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.32431"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-26",
+  "expiryAt": "2026-11-25T00:00:00.000Z",
+  "author": "Zongyao Zhao, Cheng-Jie Zhao, Ruihang Jiang, Bing Zheng, Zhaolin Wang, Yuanwei Liu"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.32260v1",
+  "fetchedAt": "2026-10-26T07:41:05.581Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.32260v1",
+    "title": "Heterogeneous Space Data Centers: A Key Paradigm for Future Non-Terrestrial and In-Orbit Services",
+    "link": "https://arxiv.org/abs/2610.32260",
+    "description": "arXiv:2610.32260v1 Announce Type: cross Abstract: Lower space-launch cost and advances in AI are driving space-based data centers (SDCs) that provide AI-centric computing and communication services to in-orbit and non-terrestrial assets. However, architectural principles, service models, and energy provisioning for such SDCs, particularly in low-Earth orbit (LEO), remain largely unexplored. We introduce heterogeneous SDCs composed of large and small nodes, differentiated by computing capability, size, and power budget, to support applications spanning ground, aerial, and in-orbit users. We define use cases, node sizing and placement strategies, and interconnection topologies integrating space-to-space and space-to-ground links. Focusing on dawn-dusk LEO configurations, we analyze solar power availability, visibility windows, and latency-aware coverage. Using baseline workloads for typical scenarios, we evaluate latency and service reliability. We quantify energy requirements of different SDC roles and deployment scales, highlighting trade-offs among node size, orbit selection, and service portfolio, and provide design guidance and future research directions for AI infrastructure in space.",
+    "publishedAt": "2026-10-26",
+    "author": "Peng Hu, Mustafa Alhassan, Amjad Iqbal",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

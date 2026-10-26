@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.29218v2",
+  "fetchedAt": "2026-10-26T07:41:05.581Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.29218v2",
+    "title": "MirrorCraft: Paired Evaluation under Hidden Rule Changes in Minecraft",
+    "link": "https://arxiv.org/abs/2607.29218",
+    "description": "arXiv:2607.29218v2 Announce Type: replace Abstract: With the rapid progress of large language models (LLMs), an interesting question has emerged: how do LLM-based agents perform in Minecraft? To date, most Minecraft benchmarks evaluate them under fixed game mechanics, which are extensively documented online. High performance in these settings does not show whether an agent can continue making progress when familiar recipes, drops, and other rules change. In this paper, we introduce MirrorCraft, a paired benchmark for evaluating agents under hidden rule changes in Minecraft. Each Mirror world is a copy of its paired Vanilla world, with selected server-side rules silently modified by the datapack of one rule suite. Terrain, spawn, resource placement, task, interface, and action budget remain matched within every Vanilla-Mirror pair. MirrorCraft includes 10 Vanilla worlds in five controlled biomes, six rule suites, and three progression tasks, and we evaluate two LLMs and six agent configurations under a shared Mineflayer interface. We measure progress with server-verified advancement milestones and completion with success rate, and define the Rule Intervention Effect (RIE) as the performance change between paired Vanilla and Mirror worlds. Experiments with 8,640 episodes show that hidden rule changes have sharply different effects across suites. Among the configurations evaluated without rule descriptions, ReAct, Reflexion, and Voyager achieve the highest pooled Mirror Scores, but ReAct loses the most under compressed resource drops. Providing ReAct with the exact rules yields modest gains in average progress and completion across all three tasks, yet most of the difference between suites remains once the rules are known. MirrorCraft extends Minecraft evaluation beyond fixed mechanics and provides a controlled setting for studying how agents use gameplay outcomes when the rules of the current world differ from familiar ones.",
+    "publishedAt": "2026-10-26",
+    "author": "Jianxin Gao, Beini Hu, Runze Li, Hongjian Fang, Wanli Peng",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

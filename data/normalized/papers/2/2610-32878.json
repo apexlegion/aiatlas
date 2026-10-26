@@ -1,0 +1,43 @@
+{
+  "type": "paper",
+  "slug": "2610-32878",
+  "name": "Advancing SVD-based LLM Compression via Layer-Wise Error Model Search",
+  "summary": "Low-rank SVD-based compression offers a powerful strategy to reduce the computational costs of LLMs. However, existing methods face two key limitations: (i) global rank allocation, where uncalibrat...",
+  "description": "Low-rank SVD-based compression offers a powerful strategy to reduce the computational costs of LLMs. However, existing methods face two key limitations: (i) global rank allocation, where uncalibrated error proxies fail to capture complex error propagation, and (ii) decomposition quality, where Fisher-based estimators suffer from severe rank collapse. In this work, we address these limitations by introducing Layer-wise Error Modeling Search (LEMS) and KFAC-SVD. LEMS advances rank allocation by introducing a layer-wise error surrogate that integrates local and global layer importance alongsid...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.32878v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-23",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.32878v1"
+    }
+  ],
+  "authors": [
+    "Moritz Thoma",
+    "Maximilian Groezinger",
+    "Maximilian Forstenhäusler",
+    "Emad Aghajanzadeh",
+    "Manoj Rohit Vemparala",
+    "Christos Anagnostopoulos",
+    "Pierpaolo Mori",
+    "Nael Fasfous",
+    "Alexander Frickenstein",
+    "Daniel Mueller-Gritschneder",
+    "Ulf Schlichtmann"
+  ],
+  "paperId": "2610.32878",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-23",
+  "abstract": "Low-rank SVD-based compression offers a powerful strategy to reduce the computational costs of LLMs. However, existing methods face two key limitations: (i) global rank allocation, where uncalibrated error proxies fail to capture complex error propagation, and (ii) decomposition quality, where Fisher-based estimators suffer from severe rank collapse. In this work, we address these limitations by introducing Layer-wise Error Modeling Search (LEMS) and KFAC-SVD. LEMS advances rank allocation by introducing a layer-wise error surrogate that integrates local and global layer importance alongsid..."
+}

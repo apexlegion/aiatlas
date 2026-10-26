@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.05003v2",
+  "fetchedAt": "2026-10-26T07:41:05.581Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.05003v2",
+    "title": "Better Reward Models Are Not Always Less Biased: Social Alignment Beyond Standard Reward Benchmarks",
+    "link": "https://arxiv.org/abs/2605.05003",
+    "description": "arXiv:2605.05003v2 Announce Type: replace-cross Abstract: Reward models are central to LLM alignment, yet current benchmarks reveal little about how they represent diverse and sometimes competing social preferences. We extend reward model evaluation to four socially consequential domains: bias, safety, morality, and ethical reasoning. Our analysis shows that strong benchmark performance can obscure important differences in social behavior. Models may avoid some stereotypes while reinforcing others, and aggregate bias scores can hide these opposing tendencies. We also find that stronger stereotype avoidance can come at the expense of contextual faithfulness, revealing a trade-off between social bias mitigation and sensitivity to context. Across a broad set of reward models, standard benchmark performance is only inconsistently related to socially aligned behavior. These results show that stronger reward models are not uniformly better at navigating pluralistic social expectations and motivate more direct evaluation of the social preferences encoded in reward models.",
+    "publishedAt": "2026-10-26",
+    "author": "Gayane Ghazaryan, Esra D\\\"onmez",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

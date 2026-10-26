@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2610-32866",
+  "name": "Interpretable sparse fine-tuning with TopKLoRA enables faithful circuit discovery",
+  "summary": "Fine-tuning on datasets of unknown origin can create a backdoor in the trained model when the data includes poisoned examples. Difficult to localise and remove, backdoors can persist through safety...",
+  "description": "Fine-tuning on datasets of unknown origin can create a backdoor in the trained model when the data includes poisoned examples. Difficult to localise and remove, backdoors can persist through safety training. While parameter-efficient fine-tuning methods capture the full parameter changes introduced during training, they are not easily interpretable. We present the full method of TopKLoRA, extending the preliminary proposal of Masiak et al. (2025), an interpretable-by-design LoRA variant in which only the $k$ largest adapter latents are active at each token. Unlike SAEs, TopKLoRA is trained...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.32866v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-23",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.32866v1"
+    }
+  ],
+  "authors": [
+    "Marek Masiak",
+    "Andrzej Szablewski",
+    "Nicola Cancedda",
+    "Constantin Venhoff"
+  ],
+  "paperId": "2610.32866",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-23",
+  "abstract": "Fine-tuning on datasets of unknown origin can create a backdoor in the trained model when the data includes poisoned examples. Difficult to localise and remove, backdoors can persist through safety training. While parameter-efficient fine-tuning methods capture the full parameter changes introduced during training, they are not easily interpretable. We present the full method of TopKLoRA, extending the preliminary proposal of Masiak et al. (2025), an interpretable-by-design LoRA variant in which only the $k$ largest adapter latents are active at each token. Unlike SAEs, TopKLoRA is trained..."
+}

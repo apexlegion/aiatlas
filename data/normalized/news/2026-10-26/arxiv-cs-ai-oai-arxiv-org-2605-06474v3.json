@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2605-06474v3",
+  "name": "Q-MMR: Off-Policy Evaluation via Recursive Reweighting and Moment Matching",
+  "summary": "arXiv:2605.06474v3 Announce Type: replace-cross Abstract: We present a novel theoretical framework, Q-MMR, for off-policy evaluation in finite-horizon MDPs. Q-MMR learns a set of scalar weights, on...",
+  "description": "arXiv:2605.06474v3 Announce Type: replace-cross Abstract: We present a novel theoretical framework, Q-MMR, for off-policy evaluation in finite-horizon MDPs. Q-MMR learns a set of scalar weights, one for each data point, such that the reweighted rewards approximate the expected return under the target policy. The weights are learned inductively in a top-down manner via a moment matching objectiv...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2605.06474"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-26",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2605.06474"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-26",
+  "expiryAt": "2026-11-25T00:00:00.000Z",
+  "author": "Xiang Li, Nan Jiang"
+}
