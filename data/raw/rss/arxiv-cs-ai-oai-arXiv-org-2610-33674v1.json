@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.33674v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.33674v1",
+    "title": "Meta-CLIP: Metadata-Conditioned Contrastive Learning for Zero-Shot Disease Inference",
+    "link": "https://arxiv.org/abs/2610.33674",
+    "description": "arXiv:2610.33674v1 Announce Type: new Abstract: Medical vision--language pretraining learns transferable representations from paired images and radiology reports, yet differences in scanners and acquisition protocols can impair transfer. Existing approaches primarily enrich clinical semantics, leaving structured acquisition information in DICOM headers underused. We introduce Meta-CLIP, a metadata-conditioned contrastive framework that uses acquisition similarity to reweight cross-modal negatives during pretraining. A kernel over numerical and categorical DICOM fields defines a bounded pairwise margin. This margin increases the contribution of acquisition-similar negatives, emphasizing distinctions among studies that share imaging conditions. The kernel remains fixed during image--text optimization, and inference follows the standard dual-encoder architecture without requiring metadata. We evaluate Meta-CLIP on chest radiography and volumetric chest CT through zero-shot classification, appearance perturbations, grounding, and representation analyses. On CT-RATE, Meta-CLIP improves macro-AUROC over CT-CLIP by 1.41 points, with a 95\\% paired bootstrap confidence interval of 0.96--1.85 points. It also achieves the highest macro-AUROC on four of five CXR benchmarks. An exploratory BrgSA evaluation extends the analysis to another CT backbone. These findings support acquisition metadata as a practical training-time prior for medical vision--language learning. Code will be made publicly available upon publication.",
+    "publishedAt": "2026-10-27",
+    "author": "Haozhe Luo, Nirosh Sivanesan, Shelley Zixin Shu, Francesco Nitti, Mauricio Reyes",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

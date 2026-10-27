@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-34763v1",
+  "name": "The Physical Cost of Context: Quality-Constrained Resource Accounting for Coding Agents",
+  "summary": "arXiv:2610.34763v1 Announce Type: cross Abstract: Coding agents resend a growing context on every model call, and context policies are usually judged by the prompt tokens they save. Executed work a...",
+  "description": "arXiv:2610.34763v1 Announce Type: cross Abstract: Coding agents resend a growing context on every model call, and context policies are usually judged by the prompt tokens they save. Executed work also depends on call count and prefix reuse: a caching runtime prefills only the tokens after the longest cached prefix. A shorter prompt can therefore cost more if it rewrites cached history. Our qual...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.34763"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-27",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.34763"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-27",
+  "expiryAt": "2026-11-26T00:00:00.000Z",
+  "author": "Zhongming Yu, Yitong Ma, Hengjia Yu, Boqin Yuan, Xiangye Lin, Hejia Zhang, Jishen Zhao"
+}

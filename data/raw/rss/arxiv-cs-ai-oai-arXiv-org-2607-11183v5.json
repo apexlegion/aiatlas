@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.11183v5",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.11183v5",
+    "title": "Amplitude-Only FFN Intervention for Tool-Structured LLM Inference: Method, Gated Evaluation Protocol, and Cross-Model Empirical Results",
+    "link": "https://arxiv.org/abs/2607.11183",
+    "description": "arXiv:2607.11183v5 Announce Type: replace-cross Abstract: We study amplitude-only rescaling of feed-forward network (FFN) activations to repair tool calls and other structured outputs, using multiplicative coordinate masks rather than additive steering vectors. Amplitude Gating (AG) keeps pretrained weights fixed and applies magnitude/entropy-based masks at six SwiGLU sites, with a Newton-Schulz windowed ranking variant. Across three Qwen checkpoints and six text/tool endpoints, effects are task dependent. Under frozen local scorers, Qwen3.5-9B non-NS configurations improve two function-call endpoints by +2.61/+2.67 percentage points (pp) and static ToolBench in/out-domain by +1.64/+2.82 pp; JSON gains are small. These gains survive comparing the weaker of two observed AG runs with the stronger baseline, supporting observed-run robustness rather than population significance. Scores measure lexical or answer/action-name agreement, not executed-tool success. Under the current experimental conditions, the six-task random-forest refit improves native score by +0.46 pp with a positive conditional paired interval; transfer to other settings requires further evaluation. The results support task-specific interventions; causal mechanisms, equal-budget advantages, repeated-run uncertainty, and serving cost require further evaluation. Code and experimental data: https://doi.org/10.5281/zenodo.23654706.",
+    "publishedAt": "2026-10-27",
+    "author": "Sheng Xu, Zhen Chen, Junhua Wang, Boyuan Huang, Ke Jia, Jiadun Zhu, Yiming Xu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

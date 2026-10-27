@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.34956v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.34956v1",
+    "title": "Decision Model Factory: Building Specialized Sovereign Decision Models",
+    "link": "https://arxiv.org/abs/2610.34956",
+    "description": "arXiv:2610.34956v1 Announce Type: new Abstract: Decision needs vary with each application, language, and deployment environment. The Decision Model Factory turns those needs into specialized, sovereign models on demand. A brief recipe guides the training, calibration, verification, and evaluation of a selected backbone, delivering a deployable decision model under the operator's control. The same workflow creates a new specialist whenever the requirements change. Across Japanese decision tasks, compact deployment, and long-context passage ranking, five factory-built models improve upon their backbones; three surpass the strongest results in a fixed public Japanese benchmark comparison. A dedicated runner computes only permitted-answer probabilities and reuses shared context, more than doubling serving speed on matched multi-question workloads with essentially unchanged decision scores. Together, the factory and runner make fast, task-specific decision models practical to build and deploy whenever needed.",
+    "publishedAt": "2026-10-27",
+    "author": "Yuma Ichikawa",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

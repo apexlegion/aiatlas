@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.12122v3",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.12122v3",
+    "title": "Disentangled Sparse Representations for Concept-Separated Diffusion Unlearning",
+    "link": "https://arxiv.org/abs/2605.12122",
+    "description": "arXiv:2605.12122v3 Announce Type: replace-cross Abstract: Unlearning specific concepts in text-to-image diffusion models has become increasingly important for preventing undesirable content generation. Among prior approaches, sparse autoencoder (SAE)-based methods have attracted attention due to their ability to suppress target concepts through lightweight manipulation of latent features, without modifying model parameters. However, SAEs trained primarily for sparse reconstruction do not explicitly enforce concept-wise separation, allowing semantically related concepts to share latent features. To address this, we propose SAEParate, which explicitly separates semantically overlapping concepts in the SAE latent space through concept-aware contrastive learning, supported by cross-attention-guided spatial aggregation that emphasizes concept-relevant regions. In addition, we enhance the encoder with a nonlinear transformation to increase its expressive capacity under this separation objective, enabling more concept-discriminative latent representations. Experiments on UnlearnCanvas demonstrate state-of-the-art performance, with particularly strong gains in joint style-object unlearning, a challenging setting where existing methods suffer from severe interference between target and non-target concepts.",
+    "publishedAt": "2026-10-27",
+    "author": "Hyeonjin Kim, Hangyeol Jung, Heechan Yun, Sungjun Yun, Dong-Jun Han",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

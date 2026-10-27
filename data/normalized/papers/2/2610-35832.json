@@ -1,0 +1,47 @@
+{
+  "type": "paper",
+  "slug": "2610-35832",
+  "name": "Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy",
+  "summary": "Frontier multimodal large language models (MLLMs) can control robots without robot-specific training, but how their capabilities compare and interact with post-trained vision-language-action (VLA)...",
+  "description": "Frontier multimodal large language models (MLLMs) can control robots without robot-specific training, but how their capabilities compare and interact with post-trained vision-language-action (VLA) and world action model (WAM) policies across manipulation demands remains to be thoroughly evaluated. In this report, we evaluate GPT-6-Astra on EBench as the core of an agent that controls a robot through an agent harness under the same visual and proprioceptive observation protocol as post-trained policies. We study two agent configurations: direct control, in which the agent generates waypoint...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.35832v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-26",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2610.35832v1"
+    }
+  ],
+  "authors": [
+    "Yifei Yao",
+    "Yude Zou",
+    "Guanbo Jiao",
+    "Xing Gao",
+    "Ning Gao",
+    "Yukai Wang",
+    "Jiantong Chen",
+    "Zihou Zhu",
+    "Xinyu Li",
+    "Ningyu Yan",
+    "Shuai Wang",
+    "Jianming Ma",
+    "Haoyu Guo",
+    "Weinan Zhang",
+    "Chunhua Shen"
+  ],
+  "paperId": "2610.35832",
+  "category": "cs.RO",
+  "publishedAt": "2026-10-26",
+  "abstract": "Frontier multimodal large language models (MLLMs) can control robots without robot-specific training, but how their capabilities compare and interact with post-trained vision-language-action (VLA) and world action model (WAM) policies across manipulation demands remains to be thoroughly evaluated. In this report, we evaluate GPT-6-Astra on EBench as the core of an agent that controls a robot through an agent harness under the same visual and proprioceptive observation protocol as post-trained policies. We study two agent configurations: direct control, in which the agent generates waypoint..."
+}

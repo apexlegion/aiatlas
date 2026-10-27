@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2610-35829",
+  "name": "Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Language Models",
+  "summary": "A vulnerability costs more to fix the later it is discovered. As coding agents generate code faster than developers can review it, software needs a first line of defense screening each new function...",
+  "description": "A vulnerability costs more to fix the later it is discovered. As coding agents generate code faster than developers can review it, software needs a first line of defense screening each new function in real time. LLM agents have recently become capable of finding real-world vulnerabilities by working as a security expert would: they run analysis tools, explore the surrounding code, test hypotheses and weigh the evidence before forming their own judgement. This reasoning, however, spans many model calls, so that each verdict takes minutes of compute, far too long for real-time screening. Fast...",
+  "tags": [
+    "arxiv",
+    "cs.CR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.35829v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-26",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CR.",
+      "href": "https://arxiv.org/abs/2610.35829v1"
+    }
+  ],
+  "authors": [
+    "Amine Lbath",
+    "Massih-Reza Amini"
+  ],
+  "paperId": "2610.35829",
+  "category": "cs.CR",
+  "publishedAt": "2026-10-26",
+  "abstract": "A vulnerability costs more to fix the later it is discovered. As coding agents generate code faster than developers can review it, software needs a first line of defense screening each new function in real time. LLM agents have recently become capable of finding real-world vulnerabilities by working as a security expert would: they run analysis tools, explore the surrounding code, test hypotheses and weigh the evidence before forming their own judgement. This reasoning, however, spans many model calls, so that each verdict takes minutes of compute, far too long for real-time screening. Fast..."
+}

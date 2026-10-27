@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2508.12045v3",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2508.12045v3",
+    "title": "Integrating Large Language Models with Human Data to Design Personalized Decoy Nudges",
+    "link": "https://arxiv.org/abs/2508.12045",
+    "description": "arXiv:2508.12045v3 Announce Type: replace-cross Abstract: Although nudge strategies can influence behavior, their effectiveness varies across individuals, highlighting the need for personalized nudge design. We hypothesize that large language models (LLMs) can facilitate the development of individual-specific nudges while reducing the financial and time costs associated with human data collection by augmenting small human samples or by replacing human participants. Using the decoy effect as a test case, we evaluate these hypotheses in a preregistered field experiment involving 3,495 participants across five countries. We show that decoy parameters identified by LLMs as optimal for a given country generate stronger nudging effects than non-optimal parameters in the United States and, marginally, in Germany, but not in China, India, or Singapore. We find no evidence that LLM-informed personalized decoys produce a stronger nudging effect than country-level optimal decoys. Finally, we demonstrate that LLM-generated data can serve as informative priors for Bayesian choice models, improving predictive performance and parameter estimation with smaller human samples. At matched predictive performance, this approach yields estimated reductions of 37-75$\\%$ in human sample size. Overall, our findings suggest that LLMs hold considerable promise as low-cost tools for piloting and optimizing personalized nudge strategies, particularly when complemented with a small sample of human participants.",
+    "publishedAt": "2026-10-27",
+    "author": "Vladimir Maksimenko, Leonard Lee, Prateek Bansal",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

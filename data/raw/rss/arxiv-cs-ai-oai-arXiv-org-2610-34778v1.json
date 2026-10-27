@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.34778v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.34778v1",
+    "title": "Arya Forge: Auditing Validation and Release Approval for Financial Instruction Data",
+    "link": "https://arxiv.org/abs/2610.34778",
+    "description": "arXiv:2610.34778v1 Announce Type: new Abstract: Financial instruction-data pipelines must distinguish content validity from permission to release a particular dataset. Arya Forge combines typed records, current-content checks, and approval coverage bound to a dataset manifest. We evaluate its release boundaries in a financial-data systems case study. An integrity audit covers 100,000 synthetic instruction records; a separate arithmetic implementation agrees with all 15,000 numeric records across twelve formula families. In 240 scenarios with 2,400 treatment rows, adding financial and release-record checks to a short-instruction filtering recipe rejects all injected numeric faults and policy holds while retaining 220 of 240 clean controls. The twenty lost controls comprise every tested cash-conversion-cycle example. Nineteen persisted-release cases show that eleven selected negative cases are blocked, four equivalent representations are rejected, and changes to external evidence after binding are outside ordinary Gold promotion's checks. Local processing measurements and controlled checkpoint resumptions characterize cost and recovery through 100,000 input rows. The results expose a tradeoff between strict producer-contract enforcement and useful-representation retention, and identify the protected inputs required for manifest-bound approval. These findings apply to the tested implementation and workloads; they do not establish general financial correctness, authenticated approval, expert-validated quality, or downstream model improvement.",
+    "publishedAt": "2026-10-27",
+    "author": "Kushagra Bhatnagar, Deekshith Marla",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

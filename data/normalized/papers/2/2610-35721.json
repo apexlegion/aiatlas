@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2610-35721",
+  "name": "Can JEV Support Clinical Trial Criteria Assessment?",
+  "summary": "Clinical trial prescreening requires distinguishing unmet conditions from insufficient evidence in patient records. Given patient records, criterion questions, and predefined answer options, we ret...",
+  "description": "Clinical trial prescreening requires distinguishing unmet conditions from insufficient evidence in patient records. Given patient records, criterion questions, and predefined answer options, we retrospectively compared JEV, a non-generative decision model returning native option probabilities, with schema-constrained Qwen Flash across 2,048 test patient-condition pairs from TrialGPT and question-answer datasets derived from MIMIC-III and MIMIC-IV, all evaluated under strict Zero Data Retention (ZDR) policies to ensure clinical data privacy. Both models assessed conditions individually or in...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.35721v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-26",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.35721v1"
+    }
+  ],
+  "authors": [
+    "Mengxian He",
+    "Ziyue Gao",
+    "Chun Li",
+    "Shunyi Zhang",
+    "Hao Wei",
+    "Minqing Zhang",
+    "Wu Yuan"
+  ],
+  "paperId": "2610.35721",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-26",
+  "abstract": "Clinical trial prescreening requires distinguishing unmet conditions from insufficient evidence in patient records. Given patient records, criterion questions, and predefined answer options, we retrospectively compared JEV, a non-generative decision model returning native option probabilities, with schema-constrained Qwen Flash across 2,048 test patient-condition pairs from TrialGPT and question-answer datasets derived from MIMIC-III and MIMIC-IV, all evaluated under strict Zero Data Retention (ZDR) policies to ensure clinical data privacy. Both models assessed conditions individually or in..."
+}

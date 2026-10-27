@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.33056v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.33056v1",
+    "title": "Aerial-R1: Reinforcing Aerial Reasoning and Segmentation in MLLMs",
+    "link": "https://arxiv.org/abs/2610.33056",
+    "description": "arXiv:2610.33056v1 Announce Type: cross Abstract: While Multimodal Large Language Models (MLLMs) have revolutionized general visual perception, existing methods suffer from severe hallucination in the aerial domain, where extreme scale variations and visual ambiguity abound. Existing Supervised Fine-Tuning (SFT) paradigms force models to mimic ground truth without modeling uncertainty, often resulting in blind guessing on tiny or unrecognizable objects in aerial scenes. In this paper, we present Aerial-R1, the first aerial MLLM framework to reinforce visual reasoning capabilities for aerial reasoning and segmentation. Drawing inspiration from the reasoning-incentivizing mechanisms of DeepSeek-R1, we find that trustworthy perception stems from consistency across views, establishing a visual parallel to the Chain-of-Thought in logic. To effectively adapt policy optimization for non-autoregressive mask generation, we introduce Hybrid-View Group Advantage-Weighted Regression (H-GAWR). This strategy constructs dynamic groups of high-resolution and low-resolution views, seamlessly bridging group-relative advantage estimation with advantage-weighted policy extraction. By enforcing consensus on clear inputs and strictly penalizing hallucinations on ambiguous ones, Aerial-R1 develops an explicitly incentivized refusal mechanism. Extensive experiments on VSAI-Ref, the first aerial MLLM benchmark dedicated to jointly evaluating dense reasoning and hallucination robustness, demonstrate that Aerial-R1 significantly outperforms SFT baselines in segmentation precision while substantially mitigating fatal hallucinations in low-information scenarios, paving the way for more reliable and trustworthy aerial agents. Codes are available on https://github.com/phy709/Aerial-R1.",
+    "publishedAt": "2026-10-27",
+    "author": "Jisheng Dang, Huaiyuan Peng, Yixuan Wang, Kun Wang, Zhang Li, Tat-Seng Chua",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

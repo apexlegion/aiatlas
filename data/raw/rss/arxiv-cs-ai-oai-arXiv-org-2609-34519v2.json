@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.34519v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.34519v2",
+    "title": "EOPSA: Efficient On-Policy Self-Distilled Safety Alignment",
+    "link": "https://arxiv.org/abs/2609.34519",
+    "description": "arXiv:2609.34519v2 Announce Type: replace Abstract: On-Policy Self-Distillation (OPSD) has emerged as a promising paradigm for safety alignment, delivering dense, token-level supervision by distilling from a teacher conditioned on refusal-oriented privileged prompts. However, we reveal that this paradigm suffers from critical inefficiencies that degrade both training efficiency and general reasoning capabilities. Specifically, we diagnose two fundamental bottlenecks: (1) supervisory collapse over extended rollouts, where the teacher's corrective efficacy degrades precipitously as the student's generation prefix lengthens, injecting noisy gradients into late-stage tokens; and (2) gradient dilution from stylistic shifts, where the distillation objective is dominated by safety-irrelevant stylistic discrepancies induced by privileged prompting, washing out genuine safety signals and impairing base reasoning. To resolve these issues, we propose Efficient On-Policy Self-Distilled Safety Alignment (EOPSA), which concentrates computational and gradient budgets exclusively on reliably supervised, safety-critical tokens. EOPSA incorporates two coordinated mechanisms: (i) Adaptive Rollout Scheduling, which dynamically bounds the generation horizon guided by a novel Teacher Rescue Rate (TRR) metric to operate strictly within reliable supervision regimes; and (ii) Selective Distillation, which filters out safety-neutral tokens to restrict gradient updates exclusively to safety-pivotal transitions. Extensive evaluations across reasoning models up to 32B parameters demonstrate that EOPSA slashes rollout computation by $\\sim$50% and backpropagates through merely $\\sim$2% of tokens, consistently outperforming full-token distillation baselines in both safety compliance and reasoning retention.",
+    "publishedAt": "2026-10-27",
+    "author": "Qirui Liu, Yichen Sun, Yan Wang, Yu Mi, Wei Cao, Yue Shen, Zhixuan Chu, Kui Ren",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

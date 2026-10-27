@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-34005v1",
+  "name": "Steering the Teacher: Improving On-Policy Self-Distillation for Thinking Models",
+  "summary": "arXiv:2610.34005v1 Announce Type: cross Abstract: On-policy self-distillation (OPSD) trains a student on its own reasoning trajectories using token-level supervision from a reference-conditioned te...",
+  "description": "arXiv:2610.34005v1 Announce Type: cross Abstract: On-policy self-distillation (OPSD) trains a student on its own reasoning trajectories using token-level supervision from a reference-conditioned teacher initialized from the same model. However, access to the reference can induce teacher behaviors that undermine independent reasoning in thinking models, leading to reference hallucinations, where...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.34005"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-27",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.34005"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-27",
+  "expiryAt": "2026-11-26T00:00:00.000Z",
+  "author": "Tiejin Chen, Xiaoou Liu, Hanyang Chen, Hua Wei"
+}

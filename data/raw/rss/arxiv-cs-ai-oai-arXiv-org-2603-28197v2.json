@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.28197v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.28197v2",
+    "title": "EpiPersona: Persona Projection and Episode Coupling for Pluralistic Preference Modeling",
+    "link": "https://arxiv.org/abs/2603.28197",
+    "description": "arXiv:2603.28197v2 Announce Type: replace Abstract: Pluralistic alignment is essential for adapting large language models (LLMs) to the diverse preferences of individuals and minority groups. However, existing personalized reward models often mix stable personal traits with episode-specific factors, limiting their ability to generalize across episodes. To address this challenge, we propose EpiPersona, a framework for explicit persona-episode coupling. EpiPersona first projects noisy preference feedback into a low-dimensional persona space, where similar personas are aggregated into shared discrete codewords. This process separates enduring personal characteristics from situational signals without relying on predefined preference dimensions. The inferred persona representation is then coupled with the current episode, enabling episode-aware preference prediction. Extensive experiments show that EpiPersona outperforms the baselines. It achieves notable performance gains in hard episodic-shift scenarios, while remaining effective with sparse preference data.",
+    "publishedAt": "2026-10-27",
+    "author": "Yujie Zhang, Weikang Yuan, Zhuoren Jiang, Pengwei Yan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

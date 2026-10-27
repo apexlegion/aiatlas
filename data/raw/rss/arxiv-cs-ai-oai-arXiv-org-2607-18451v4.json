@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.18451v4",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.18451v4",
+    "title": "CANDOR: Chance-Calibrated Neighborhood Discordance in Frozen Encoders for Medical Imaging",
+    "link": "https://arxiv.org/abs/2607.18451",
+    "description": "arXiv:2607.18451v4 Announce Type: replace-cross Abstract: In medical imaging, one frozen foundation encoder is often reused for many tasks. The encoder is usually chosen by the area under the receiver operating characteristic curve (AUROC) of a head trained on its features. The AUROC does not measure whether the encoder separates positive from negative images in its feature space. Chance-calibrated neighborhood discordance (CANDOR) measures this separation without training a head. Among images acquired the same way, a positive image is discordant when its k nearest negatives are more similar to it on average than its k nearest positives are. The discordance rate D is the share of discordant positives. When the neighbors come from positive and negative candidate sets of equal size, D has the chance level 1/2 for features without information about the label. With unequal candidate sets, all 11 chest encoders have rates above 1/2 (0.732 to 0.927) on the 12 chest findings of MIMIC-CXR and CheXpert. These rates increase as the finding becomes rarer. With equal sets, the same encoders have rates below 1/2 (0.277 to 0.463). On the chest test split, linear heads miss 0.301 of the discordant positives and 0.165 of the other positives. Across 22 encoders, 605,443 images, and 8 tasks in 7 domains, the best encoder of every task has a rate below 1/2. Because computing D takes one forward pass per image, a hospital can compare candidate encoders before it trains any head.",
+    "publishedAt": "2026-10-27",
+    "author": "Soroosh Tayebi Arasteh, Sven Nebelung, Daniel Truhn",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

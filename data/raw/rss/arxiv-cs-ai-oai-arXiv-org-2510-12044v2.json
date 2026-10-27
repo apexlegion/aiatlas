@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2510.12044v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2510.12044v2",
+    "title": "Hierarchical Alignment: Block-Level LoRA-DPO for Preference Tuning in Large Language Models",
+    "link": "https://arxiv.org/abs/2510.12044",
+    "description": "arXiv:2510.12044v2 Announce Type: replace-cross Abstract: Preference tuning typically distributes adapter updates across every Transformer layer. We study how the placement of a fixed LoRA budget affects Direct Preference Optimization (DPO). Hierarchical Alignment partitions decoder depth into Local, Intermediate, and Global regions and restricts LoRA updates to a chosen contiguous block. Across Qwen and Llama models, three-seed sliding-window sweeps reveal broad low-loss basins around intermediate depth. Under exact trainableparameter matching, Middle achieves lower held-out DPO loss than an all-depth allocation on Qwen2.5-7B and Llama-3.1-8B. Generationlevel evidence is more variable. LLM judges and a blinded human study leave Selected versus All unresolved on Qwen; on Llama, two pairwise judges favor All while the human interval includes zero. Trained-adapter interventions show that learned depth components affect the optimization objective; removing the Llama Selected window also lowers generation quality. Across Qwen2.5 at 3B, 7B, and 14B, Middle versus All remains unresolved under Qwen3-Max; at 3B and 14B, both improve over Base. In our implementation, Middle also uses less peak memory and takes shorter steps than a parameter-matched all-depth allocation. Together, the results support intermediate depth as a practical starting point for fixed-budget preference tuning, though the best window and its behavioral value still need per-setting validation.",
+    "publishedAt": "2026-10-27",
+    "author": "Yishen Chen, Qi Dong, Yukun Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.02525v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.02525v2",
+    "title": "A Semantic Autonomy Framework for VLM-Integrated Indoor Mobile Robots: Hybrid Deterministic Reasoning and Cross-Robot Adaptive Memory",
+    "link": "https://arxiv.org/abs/2605.02525",
+    "description": "arXiv:2605.02525v2 Announce Type: replace-cross Abstract: Semantic indoor navigation requires robots to connect human instructions with spatial destinations, execute missions and retain useful operational experience. This paper presents the Semantic Autonomy Stack (SAS), a six-layer integration framework, and develops its semantic-reasoning, mission-interface and operational-memory layers over a previously validated ROS 2/Nav2 foundation. A deterministic-first cascade combines the route graph, semantic objects, robot state and stored instruction-destination associations, escalating unresolved or guarded cases to a pretrained Vision-Language Model (VLM). Recurrent model-mediated associations can pass a frequency-and-consistency gate and be compiled for deterministic M3 reuse; this gate measures sampled-output stability rather than semantic truth. The frozen v4.8-review implementation was evaluated on two physical robot configurations in one indoor environment, with onboard navigation and perception and shared-workstation reasoning and memory. Of 216 decision cycles outside the start gate, 112 resolved deterministically at sub-millisecond resolver-compute latency. A sealed 28-instruction challenge yielded 17 acceptable outcomes; five fast-path decisions included one incorrect selection. One promoted association was reused on the second platform through deliberate shared-digest installation. A controlled 594-observation offline comparison showed greater agreement with the stored associations and lower decision latency from M3 reuse in five familiar cases. The M3-disabled cascade reduced VLM calls but matched direct-VLM decision quality in standardized context. Large latency savings were concentrated in paths avoiding VLM inference. Together, the results establish a working integration of selective hybrid reasoning and reusable operational memory, while identifying implementation and evaluation boundaries for further development within SAS.",
+    "publishedAt": "2026-10-27",
+    "author": "Bogdan Felician Abaza, Andrei-Alexandru Staicu, Cristian Vasile Doicin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

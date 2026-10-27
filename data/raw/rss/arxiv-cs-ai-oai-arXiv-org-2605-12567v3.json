@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.12567v3",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.12567v3",
+    "title": "Coherence-Guided Pyramid Self-Contrastive Disentanglement for Ultrasound Imaging via Single-Shot Test-Time Training",
+    "link": "https://arxiv.org/abs/2605.12567",
+    "description": "arXiv:2605.12567v3 Announce Type: replace-cross Abstract: The inherent electronic noise, side lobes, and speckle noise complicate clinical interpretation of ultrasound images. Conventional denoising methods rely on explicit noise assumptions that may underperform in composite noise conditions. Learning-based methods are usually pretrained in a limited image domain and face inevitable domain shift in complex \\textit{in vivo} environments. This study proposes a computational ultrasound imaging pipeline with a Pyramid Self-Contrastive Disentanglement (PSCD) model. We generalize the explicit IQ signal coherence to a learnable latent space and formulate it as a contrastive critic to implicitly disentangle the received IQ signals into a coherent anatomy space and an incoherent noise space. Clean IQ signals for B-mode image formation are estimated from the anatomy space exclusively. We first apply PSCD to synthetic aperture ultrasound, where an Aperture-to-Aperture proxy task constrains the selective reconstruction in dual domains. This framework can be trained at test time using single-shot imaging data. Simulation experiments, including noise levels from 0 to 30 dB with simple to complex geometries, demonstrated improvements of 69.3$\\%$ in SNR and 34.4$\\%$ in CNR. The \\textit{in vivo} experiments, including human hearts in six echocardiographic views and other abdominal organs, showed 84.8$\\%$ SNR and 25.7$\\%$ CNR gains using only two apertures. Our PSCD also achieved higher image resolution and boundary sharpness, while preserving the high-frequency details. It can naturally generalize to other ultrasound imaging pipelines involving multiple transmit-receive events, enabling precise anatomical visualization without domain shift and pretraining costs.",
+    "publishedAt": "2026-10-27",
+    "author": "Jiajing Zhang, Bingze Dai, Xi Zhang, Yue Xu, Wei-Ning Lee",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

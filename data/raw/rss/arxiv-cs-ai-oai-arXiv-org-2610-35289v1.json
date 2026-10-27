@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.35289v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.35289v1",
+    "title": "Reward-Guided RRT* for Budgeted Task and Motion Planning",
+    "link": "https://arxiv.org/abs/2610.35289",
+    "description": "arXiv:2610.35289v1 Announce Type: cross Abstract: Robotic missions involving spatially distributed tasks often require jointly selecting rewarding locations and planning feasible motions under limited travel budgets. This paper proposes Reward-Guided RRT*, a new sampling-based framework that constructs a budget-feasible mission through a sequence of locally joint task-selection-and-motion-planning stages, evaluated directly in the continuous state space, without requiring a precomputed task-transition graph. The method incrementally builds a mission using reward-guided RRT* searches, while a return-feasibility procedure ensures that each selected task can be visited without violating the mission budget. Experiments with increasing obstacle complexity and number of tasks show solutions comparable to VNS-PRM* while requiring substantially fewer sampled states. We also extend the framework to Dubins steering and evaluate it in CoppeliaSim with a scaled car-like robotic platform, demonstrating its ability to incorporate vehicle kinematic constraints.",
+    "publishedAt": "2026-10-27",
+    "author": "Vin\\'icius Ara\\'ujo de Oliveira, Gabriel Ferreira Mendes Louren\\c{c}o, Paulo L. J. Drews-Jr, Armando Alves Neto, Douglas G. Macharet",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

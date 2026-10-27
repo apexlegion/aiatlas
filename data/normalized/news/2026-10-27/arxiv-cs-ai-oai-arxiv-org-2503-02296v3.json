@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2503-02296v3",
+  "name": "Evaluating Harmful Memorization in LLM Code Generation",
+  "summary": "arXiv:2503.02296v3 Announce Type: replace Abstract: Assessing memorization in LLM code generation is challenging because code reuse is not inherently harmful. Correct programs often share APIs, tem...",
+  "description": "arXiv:2503.02296v3 Announce Type: replace Abstract: Assessing memorization in LLM code generation is challenging because code reuse is not inherently harmful. Correct programs often share APIs, templates, and algorithmic idioms, so code similarity alone may reflect benign reuse rather than problematic memorization. We focus on the harmful case: a model fails to adapt when task semantics change...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2503.02296"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-27",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2503.02296"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-27",
+  "expiryAt": "2026-11-26T00:00:00.000Z",
+  "author": "Lizhe Zhang, Wentao Chen, Li Zhong, Letian Peng, Zilong Wang, Jingbo Shang"
+}

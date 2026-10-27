@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.33158v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.33158v2",
+    "title": "FOCUS: Benchmarking Retinal Model Generalization from Foundation Vision Encoders to Multimodal LLMs",
+    "link": "https://arxiv.org/abs/2609.33158",
+    "description": "arXiv:2609.33158v2 Announce Type: replace-cross Abstract: Progress in AI-based retinal image analysis has accelerated with the adoption of foundation models, yet evaluating their real-world reliability remains challenging. Performance reported on a single dataset does not capture how models behave under dataset shift, across clinical definitions, or for different patient subgroups. This limitation is particularly critical in medical imaging, where robustness, calibration, and fairness are essential for safe deployment. We introduce FOCUS (Foundation Ophthalmic Cross-Dataset Understanding under Shift), a cross-dataset benchmark evaluating retinal fundus models across vision-only encoder models (VM), vision-language dual-encoder models (VLM), and multimodal large language models (MLLM). FOCUS harmonizes binary diabetic retinopathy, referable diabetic retinopathy, and glaucomatous optic neuropathy tasks across ten public datasets spanning diverse geographies, acquisition conditions, and label protocols. The benchmark evaluates models through a unified analysis layer that measures ranking performance, calibration, subgroup disparities, and image-quality robustness. We present a large-scale evaluation covering 532 base configurations and 228 MLLM configurations adapted via LoRA fine-tuning. Results show no model family consistently dominates across tasks and datasets: general VM encoders achieve the strongest average ranking performance, medical MLLMs are competitive but variable, and dual-encoder VLMs benefit substantially from lightweight adaptation. Fine-tuning improves in-domain performance but exhibits heterogeneous transfer to external datasets, particularly in calibration. FOCUS provides a practical framework and public benchmark to assess generalization, reliability, and robustness beyond single-dataset leaderboards.",
+    "publishedAt": "2026-10-27",
+    "author": "David Restrepo, Chenwei Wu, Luis Filipe Nakayama, Miguel L. Martins, Stergios Christodoulidis, Maria Vakalopoulou, Enzo Ferrante",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

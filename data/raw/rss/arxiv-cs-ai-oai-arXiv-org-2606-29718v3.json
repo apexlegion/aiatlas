@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.29718v3",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.29718v3",
+    "title": "Diagnosing and Mitigating Context Rot in Long-horizon Search",
+    "link": "https://arxiv.org/abs/2606.29718",
+    "description": "arXiv:2606.29718v3 Announce Type: replace-cross Abstract: Extensive context has become the norm as Large Language Models (LLMs) are increasingly deployed in long-horizon search tasks. The concern that increasing context length degrades model capabilities, known as context rot, has become a widely recognized issue for these applications. However, in deep search scenarios, it remains unclear how models actually fail under extensive context, and to what extent existing methods can mitigate such failures. Through a systematic study of four flagship models across three benchmarks, we identify a previously overlooked phenomenon: under extensive context, models give up or provide uncertain incorrect answers long before exhausting the context window. We refer to these two failure modes as inconclusive search failures. We show that these are common failure modes even for easy and moderately difficult queries, suggesting premature termination on queries that the model is capable of solving. Based on these findings, we revisit methods to mitigate context rot, including context management and parallel sampling. For context management, we analyze seven methods across three categories and show that they are inherently test-time scaling strategies that redirect models from inconclusive search failures toward further exploration by decreasing the peak context length. We also provide model-dependent principles for method selection. For parallel sampling, we develop a behavior-aware filtering strategy and observe a performance gain of 2.6% to 4.9% across three aggregation methods.",
+    "publishedAt": "2026-10-27",
+    "author": "Shijie Xia, Yikun Wang, Zhen Huang, Pengfei Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

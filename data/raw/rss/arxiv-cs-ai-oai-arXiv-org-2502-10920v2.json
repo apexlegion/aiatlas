@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2502.10920v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2502.10920v2",
+    "title": "Do Deepfake Detectors Work in Reality?",
+    "link": "https://arxiv.org/abs/2502.10920",
+    "description": "arXiv:2502.10920v2 Announce Type: replace-cross Abstract: Deepfakes, particularly those involving faceswap-based manipulations, have sparked significant societal concern due to their increasing realism and potential for misuse. Despite rapid advancements in generative models, detection methods have not kept pace, creating a critical gap in defense strategies. This disparity is further amplified by the disconnect between academic research and real-world applications, which often prioritize different objectives and evaluation criteria. In this study, we take a pivotal step toward bridging this gap by presenting a novel observation: the post-processing step of super-resolution, commonly employed in real-world scenarios, substantially undermines the effectiveness of existing deepfake detection methods. To substantiate this claim, we introduce and publish the first real-world faceswap dataset, collected from popular online faceswap platforms. We then qualitatively evaluate the performance of state-of-the-art deepfake detectors on real-world deepfakes, revealing that their accuracy approaches the level of random guessing. Furthermore, we quantitatively demonstrate the significant performance degradation caused by common post-processing techniques. By addressing this overlooked challenge, our study underscores a critical avenue for enhancing the robustness and practical applicability of deepfake detection methods in real-world settings.",
+    "publishedAt": "2026-10-27",
+    "author": "Simiao Ren, Hengwei Xu, Tsang Ng, Kidus Zewde, Shengkai Jiang, Ramini Desai, Disha Patil, Ning-Yau Cheng, Yining Zhou, Ragavi Muthukrishnan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.03112v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.03112v2",
+    "title": "Content-Aware Adaptive Token Pruning for Video-Language Models",
+    "link": "https://arxiv.org/abs/2608.03112",
+    "description": "arXiv:2608.03112v2 Announce Type: replace-cross Abstract: Vision-language models excel at image and video understanding but suffer from high inference latency due to the need to process thousands of tokens per image, limiting their deployment on resource-constrained edge devices and in real-time surveillance applications. This challenge is further amplified in video processing, where multiple frames must be analyzed simultaneously. Existing token reduction techniques generally rely on a fixed, uniform pruning ratio applied across all inputs, which is suboptimal because the degree of redundancy can vary significantly between different videos, necessitating content-dependent pruning levels to preserve critical information. To address these limitations, we propose an adaptive token pruning strategy specifically designed for video processing. Crucially, the pruning ratio is determined adaptively based on the content of each video. This is achieved by analyzing the correlation structure of token embeddings to quantify redundancy, enabling dynamic token allocation that retains more tokens for dynamic scenes while aggressively pruning repetitive or static content. Importantly, our method is entirely post-hoc and requires no additional training or fine-tuning, while achieving strong empirical gains; notably, it improves accuracy by +7\\% on a video captioning benchmark at 10\\% token retention, while reducing computation TFLOPs by 95\\%.",
+    "publishedAt": "2026-10-27",
+    "author": "Paribesh Regmi, Qingshuang Chen, Chi Zhang, Heba Aly, Yelin Kim, Hongda Mao",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

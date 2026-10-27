@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2509.06984v4",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2509.06984v4",
+    "title": "FediLoRA: Practical Federated Fine-Tuning of Foundation Models Under Missing-Modality Constraints",
+    "link": "https://arxiv.org/abs/2509.06984",
+    "description": "arXiv:2509.06984v4 Announce Type: replace-cross Abstract: Federated Learning with LoRA fine-tuning offers an efficient and privacy-aware solution for institutions to collaboratively leverage their large datasets to train VLLMs. However, participating institutions often possess heterogeneous computational resources, resulting in imbalanced LoRA ranks, which pose a major challenge for effective collaboration. In addition, real-world applications in domains such as healthcare and transportation frequently suffer from missing modalities due to user mistakes or device failures, which significantly degrade global model performance in federated settings. To the best of our knowledge, no prior work has addressed these two challenges simultaneously in federated VLLMs. To tackle these issues, we propose FediLoRA, a lightweight federated LoRA aggregation framework that effectively mitigates the impact of missing modalities in heterogeneous environment. FediLoRA is explicitly motivated by the observation that simple averaging and structured editing can jointly benefit both global and personalized models. Our approach achieves strong performance across multiple general-domain and medical-domain benchmark datasets. Additional experiments on healthcare data further demonstrate that FediLoRA is well-suited for practical, real-world deployment scenarios. Our code is released at https://github.com/gotobcn8/FediLoRA.",
+    "publishedAt": "2026-10-27",
+    "author": "Lishan Yang, Wei Emma Zhang, Nam Kha Nguygen, Po Hu, Yanjun Shu, Weitong Chen, Mong Yuan Sim",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

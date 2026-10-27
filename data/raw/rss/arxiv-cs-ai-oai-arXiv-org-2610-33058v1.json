@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.33058v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.33058v1",
+    "title": "KDHNet: A Knowledge-Driven Hybrid Network for Limited-Calibration SSVEP Decoding",
+    "link": "https://arxiv.org/abs/2610.33058",
+    "description": "arXiv:2610.33058v1 Announce Type: cross Abstract: Steady-state visual evoked potential (SSVEP)-based brain-computer interfaces (BCIs) achieve high information transfer rates but often require sufficient subject-specific calibration data for reliable decoding. Analytical spatial filters are effective with limited data, but their linear formulations constrain representation capacity. Deep models learn more flexible representations but are prone to overfitting when calibration data are scarce. We propose KDHNet, which combines knowledge-driven analytical processing with data-driven representation learning. After filter-bank preprocessing, cascaded task-discriminant component analysis (TDCA) and task-related component analysis (TRCA) extract discriminative and trial-reproducible components. Learnable sub-band weighting then fuses spectral information, and an SSVEPformer decoder learns temporal and spectral representations for classification. For inter-subject decoding, a target-guided least-squares transformation aligns source trials using one labeled target trial per class. Extensive experiments were performed on three public datasets, covering intra- and inter-subject protocols, five analysis windows, and multiple calibration ratios. In intra-subject evaluation, KDHNet achieved the highest mean accuracy and information transfer rate in 14 of 15 window settings and all ten calibration-ratio settings. In inter-subject evaluation, KDHNet obtained the best or second-best performance, and the gains were generally larger with less calibration data. Ablation studies indicated that the estimated TDCA projection performed better when fixed than when optimized from analytical or random initialization. Combining fixed knowledge priors with trainable neural modules is effective for low-calibration SSVEP decoding. This framework supports more practical, robust, and plug-and-play BCIs. Code is available at https://github.com/2665023991/KDHNet.",
+    "publishedAt": "2026-10-27",
+    "author": "Zhentao He, Ziwei Wang, Dongrui Wu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

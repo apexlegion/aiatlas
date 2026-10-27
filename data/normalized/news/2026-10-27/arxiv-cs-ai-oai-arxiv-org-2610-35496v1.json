@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-35496v1",
+  "name": "The Hidden Costs of Forgetting: A Study of Trajectory Deletion in Software Engineering Agents",
+  "summary": "arXiv:2610.35496v1 Announce Type: cross Abstract: Software engineering agents resend their entire trajectory to an LLM at every turn, motivating online trajectory reduction. Prior work shows that r...",
+  "description": "arXiv:2610.35496v1 Announce Type: cross Abstract: Software engineering agents resend their entire trajectory to an LLM at every turn, motivating online trajectory reduction. Prior work shows that randomly deleting 75% of tokens in old turns may preserve agent effectiveness, but it remains unclear why, how agents compensate for missing content, and whether it actually reduces costs. This paper p...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.35496"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-27",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.35496"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-27",
+  "expiryAt": "2026-11-26T00:00:00.000Z",
+  "author": "Fernando Vallecillos-Ruiz, Islem Bouzenia, Michael Pradel, Leon Moonen"
+}

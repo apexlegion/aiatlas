@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-34971v1",
+  "name": "SVD-Attention: Efficiently Analyzing Attention Blocks in Transformers",
+  "summary": "arXiv:2610.34971v1 Announce Type: cross Abstract: Pretrained transformers spend a large share of their inference compute inside self-attention, yet the per-head query-key interaction is structurall...",
+  "description": "arXiv:2610.34971v1 Announce Type: cross Abstract: Pretrained transformers spend a large share of their inference compute inside self-attention, yet the per-head query-key interaction is structurally low-rank by construction. We ask a diagnostic question: across layers and architectures, which heads actually use the full rank budget on real data, and which do not? We propose SVD-Attention, a pos...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.34971"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-27",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.34971"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-27",
+  "expiryAt": "2026-11-26T00:00:00.000Z",
+  "author": "Debopam Sanyal, Hongjie Chen, Riya Elizabeth Kuriyan, Arth Tak, Divya Kothandaraman, Akshay Mehra, Joshua Kimball, Alexey Tumanov"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2512.04231v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2512.04231v2",
+    "title": "CRAFT-E: An Interpretable and Editable Neuro-Symbolic Framework for Affordance-Grounded Active Object Retrieval",
+    "link": "https://arxiv.org/abs/2512.04231",
+    "description": "arXiv:2512.04231v2 Announce Type: replace-cross Abstract: Assistive robots operating in unstructured environments must reason not only about what objects are, but how they can be used, including non-canonical and improvised uses. This requires grounding language-based action queries to objects that afford the requested function, are visually present, and can be physically retrieved. Existing approaches often rely on black-box models, fixed affordance labels, or direct object predictions, limiting transparency and controllability. We introduce CRAFT-E, a modular neuro-symbolic framework that composes an LLM-derived verb-property-object knowledge graph with CLIP-based visual alignment and energy-based grasp reasoning. The system exposes interpretable grounding paths, incorporates grasp feasibility into affordance inference, and supports targeted graph edits without retraining. We also construct a benchmark dataset with unified annotations for verb-object compatibility, segmentation, and grasp candidates, and deploy the full pipeline on a physical robot. Across static scenes, real-world trials involving 20 verbs and 39 objects, ImageNet-based functional retrieval, and COCO-Tasks transfer, CRAFT-E provides a competitive training-free prior for affordance-grounded retrieval while exposing component-level diagnostics and graph-level interventions. Under staged and full-pipeline perception, CRAFT-E matches strong flat LLM priors in several settings while adding failure attribution and editable reasoning paths. By coupling symbolic reasoning with embodied perception, CRAFT-E offers an inspectable and customizable framework for affordance-grounded object retrieval.",
+    "publishedAt": "2026-10-27",
+    "author": "Zhou Chen, Joe Lin, Carson Bulgin, Sathyanarayanan N. Aakur",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

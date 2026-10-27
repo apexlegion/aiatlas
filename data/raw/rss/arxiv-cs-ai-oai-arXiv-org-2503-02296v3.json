@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2503.02296v3",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2503.02296v3",
+    "title": "Evaluating Harmful Memorization in LLM Code Generation",
+    "link": "https://arxiv.org/abs/2503.02296",
+    "description": "arXiv:2503.02296v3 Announce Type: replace Abstract: Assessing memorization in LLM code generation is challenging because code reuse is not inherently harmful. Correct programs often share APIs, templates, and algorithmic idioms, so code similarity alone may reflect benign reuse rather than problematic memorization. We focus on the harmful case: a model fails to adapt when task semantics change and instead produces code that remains highly similar to the original solution. We propose \\emph{code rewriting}, an automated semantic perturbation pipeline that constructs superficially similar but semantically different variants of existing coding tasks by modifying a core logic element of the reference solution and regenerating the corresponding prompt. To summarize this behavior, we introduce the \\emph{Harmful Memorization Index} (HMI), an operational diagnostic that combines similarity to the original solution with performance degradation on rewritten tasks. We use harmful memorization as an operational behavioral term for this specific failure mode; HMI does not establish whether an original task or solution appeared in a model's training data. HMI is intended to complement standard accuracy metrics by capturing brittleness under small semantic changes. Across MBPP+ and BigCodeBench, we find that: (1) HMI does not monotonically increase with model scale and often decreases on simpler tasks; (2) high-HMI failures are concentrated in specific logic-edit types, especially constraint changes and data transformations; (3) supervised fine-tuning improves original-task accuracy but can substantially increase HMI on held-out tasks; and (4) across the evaluated post-training settings, PPO yields a more favorable accuracy--HMI trade-off than SFT.",
+    "publishedAt": "2026-10-27",
+    "author": "Lizhe Zhang, Wentao Chen, Li Zhong, Letian Peng, Zilong Wang, Jingbo Shang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

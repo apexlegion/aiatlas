@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.33072v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.33072v1",
+    "title": "VLMProbe: An Open-source Library for VLM Probing and Interpretation",
+    "link": "https://arxiv.org/abs/2610.33072",
+    "description": "arXiv:2610.33072v1 Announce Type: cross Abstract: Understanding how vision-language models use visual information requires connecting internal representations to model behavior. We present vlmprobe, an open-source library that integrates lens readouts, attention attribution, causal interventions, and sparse autoencoder (SAE) analysis within a common model interface. Shared adapters, calibration and checkpoint utilities, evaluation pipelines, and visualizations support systematic analysis across architectures. Using this framework, we compare methods across vision-language, language, and vision models through matched case studies and controlled evaluations of pretrained sparse dictionaries. The comparisons show that representation readouts and spatial explanations depend on the analysis objective and observation site, and that local attribution estimates can disagree with measured intervention effects. SAE evaluations further expose distinct trade-offs in reconstruction fidelity, concept readout, and spatial localization. Together, these results support combining multiple forms of evidence to evaluate an interpretation. vlmprobe provides a reusable basis for selecting methods, comparing their conclusions, and testing hypotheses about model behavior. The code is available on github.com/ubc-tea/vlm-probe",
+    "publishedAt": "2026-10-27",
+    "author": "Gexin Huang, Haisheng Fu, Yanting Yang, Chen Zhao, Ruinan Jin, Jiaqi Liu, Xiaoxiao Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

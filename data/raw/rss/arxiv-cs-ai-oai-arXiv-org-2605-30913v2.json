@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.30913v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.30913v2",
+    "title": "Prompt PerturbAItions: Mechanisms of LLM Response Inconsistencies",
+    "link": "https://arxiv.org/abs/2605.30913",
+    "description": "arXiv:2605.30913v2 Announce Type: replace-cross Abstract: Large language models (LLMs) are increasingly deployed in conversational settings where user phrasing ranges from polite to casual to toxic, yet less is known about whether such lexical variation in otherwise semantically equivalent prompts can degrade factual reliability. We study how lexical and tone-based prompt perturbations affect the factual reliability of LLMs. Using controlled prompt variations spanning polite, random, and increasingly toxic levels, we evaluate seven LLMs on ARC-Easy, GSM8K, and MMLU. We find that lexical perturbations reduce factual accuracy and increase predictive uncertainty in most models. Interestingly, increasing toxicity results in decreasing accuracy. To examine whether these answer inconsistencies correspond to internal changes, we conduct attribution-graph analyses of model activations and influences. We find that perturbations amplify perturbation-sensitive variant nodes relative to core reasoning nodes. We also observed a monotonic trend with increasing toxicity score and increasing activation and influence in Variant nodes. These findings position prompt wording and tone as a critical dimension of LLM reliability and provide behavioral and mechanistic evidence that surface-level lexical variation can alter factual outputs and internal computation.",
+    "publishedAt": "2026-10-27",
+    "author": "Soorya Ram Shimgekar, Agam Goyal, Amruta Parulekar, Joshua Chen, Yian Wang, Navin Kumar, Hari Sundaram, Eshwar Chandrasekharan, Koustuv Saha",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

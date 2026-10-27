@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.11619v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.11619v2",
+    "title": "NoiseFormer -- Noise Diffused Symmetric Attention Transformer",
+    "link": "https://arxiv.org/abs/2601.11619",
+    "description": "arXiv:2601.11619v2 Announce Type: replace-cross Abstract: Transformer architecture has been very successful long runner in the field of Deep Learning (DL) and Large Language Models (LLM) because of its powerful attention-based learning and parallel-natured architecture. As the models grow gigantic in terms of memory footprint, difficulties in fitting the model on a device like a GPU or an AI accelerator give rise to the need for multiple computing devices thereby escalating the computing cost. This increased training/inference cost paved the way for optimizing the memory footprint of the models in terms of activation memory as well as model size reduction. In this paper, we start analyzing one of the Attention architectures aimed at model-size reduction called Symmetric Dot-Product Attention (referred to as Symmetric Attention) and propose a novel unified model architecture called Noise Diffused Symmetric Attention Transformer to enhance the model's performance. While maintaining the memory gains of Symmetric Attention, with minute overhead in terms of model parameters and compute in the form of noise diffused attention, the proposed model recovers the loss in performance due to Symmetric Attention compared to conventional attention as depicted through the inference-time sampling and GLUE scores on downstream tasks.",
+    "publishedAt": "2026-10-27",
+    "author": "Phani Kumar,  Nyshadham, Jyothendra Varma, Polisetty V R K",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

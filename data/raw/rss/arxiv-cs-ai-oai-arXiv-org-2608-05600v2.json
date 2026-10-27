@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.05600v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.05600v2",
+    "title": "LC-GRPO: Bridging Train-Inference Gap for Flow-Based GRPO with Langevin Correction",
+    "link": "https://arxiv.org/abs/2608.05600",
+    "description": "arXiv:2608.05600v2 Announce Type: replace-cross Abstract: Flow-based generative models are typically sampled by solving a deterministic ordinary differential equation (ODE), whereas reinforcement learning (RL) requires stochastic rollouts for exploration and optimization. Existing online RL methods for flow models therefore replace the inference-time ODE with a stochastic differential equation (SDE) during training. Although the ODE and SDE share the same marginal distribution in continuous time, they can behave differently after finite-step discretization. In particular, SDE rollouts often become blurry as exploration noise increases, creating a mismatch between training rollouts and inference-time ODE samples. We introduce LC-GRPO, a flow-based GRPO framework with Langevin correction. Each rollout transition takes an inference-aligned ODE Euler step followed by a stochastic Langevin correction targeting the marginal at the resulting timestep. The required score is recovered directly from the flow velocity, requiring no additional score model, while the transition remains an isotropic Gaussian with tractable likelihood. We theoretically show that, under suitable conditions, a single Langevin correction step reduces the error of an imperfect ODE Euler step and, under matched randomness, yields a more accurate transition than standard Euler--Maruyama discretization of the reverse SDE. Additionally, experiments on SD3.5-Medium, FLUX.1-Dev, and HunyuanVideo show that LC-GRPO consistently improves reward optimization across text-to-image and text-to-video tasks, preserves generation quality, and substantially narrows the gap between stochastic training rollouts and deterministic ODE inference.",
+    "publishedAt": "2026-10-27",
+    "author": "Yingqing Guo, Hui Yuan, Zijian He, Mengdi Wang, Zheng Ding",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

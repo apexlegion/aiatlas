@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.34182v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.34182v1",
+    "title": "Entropic Control for Homeostatic Optimization: Pre-empting Catastrophic Forgetting via Dynamic Feedback",
+    "link": "https://arxiv.org/abs/2610.34182",
+    "description": "arXiv:2610.34182v1 Announce Type: cross Abstract: Supervised Fine-Tuning (SFT) of LLMs suffers from catastrophic forgetting, and prevailing mitigation strategies struggle to reconcile the plasticity-stability dilemma. To address this, we propose Entropic Control for Homeostatic Optimization (ECHO), a closed-loop control framework. By decomposing the KL divergence, we identify output entropy as a dominant observable component of KL variation. This enables us to leverage entropy as a computationally efficient online proxy to monitor forgetting risks in real-time, bypassing expensive reference-model inference. Consequently, ECHO employs an elastic controller that dynamically modulates the gradient weight of replay data via a proportional control law, using deviations from the pre-trained entropic equilibrium as an error signal. Empirical evaluations across 0.6B to 9B parameter architectures demonstrate that ECHO lies on, and in several comparisons extends, the observed plasticity-stability frontier and maintains high operational robustness against varying data mixing ratios.",
+    "publishedAt": "2026-10-27",
+    "author": "Shangxi Wu, Xiaorong Yan, Xiaojun Meng, Yuxiang Zhang, Jiansheng Wei",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

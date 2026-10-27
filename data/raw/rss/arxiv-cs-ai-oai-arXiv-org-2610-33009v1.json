@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.33009v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.33009v1",
+    "title": "RADAgent: Automating RADseq Pipelines with Private Open-Source LLMs",
+    "link": "https://arxiv.org/abs/2610.33009",
+    "description": "arXiv:2610.33009v1 Announce Type: cross Abstract: Restriction site-associated DNA sequencing (RADseq) is a family of reduced-representation sequencing methods. It uses restriction enzymes to sample subsets of the genome, therefore allowing multiple individuals to be sequenced and genotyped together at low cost. RADseq is widely used for population genomics, evolutionary biology, marker discovery, and the development of SNP panels, but complete analysis still requires expert coordination across multiple tools and processing stages. Traditional RADseq analysis requires expert coordination of heterogeneous bioinformatics tools, intermediate artifacts, quality-control checks, and parameter-dependent decisions across multiple stages. Although individual steps can be scripted, executing the complete workflow still requires human oversight for state tracking, result validation, and failure handling. To automate this expert-driven coordination, we present RADAgent, which introduces a modular agentic method for reliable RADseq workflow execution with an open-weight LLM. RADAgent maps the natural boundaries of the RADseq workflow into 16 independently executable and verifiable agent modules and uses a model-independent runtime for bounded tool execution, on-disk verification, and failure recovery. We evaluate RADAgent on a real population-genomics dataset containing 476 samples from 19 populations. The results demonstrate that RADAgent reliably automates the complete RADseq workflow with an open-weight LLM while keeping genomic data and model execution within the local computing environment. The code is publicly available at https://github.com/wenlu-lab/RADAgent.",
+    "publishedAt": "2026-10-27",
+    "author": "Qiming Guo, Malaka Sudhakara Bava Sukruth Reddy, Honggang Zhao, Ye Wang, Chen Pan, Wenlu Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

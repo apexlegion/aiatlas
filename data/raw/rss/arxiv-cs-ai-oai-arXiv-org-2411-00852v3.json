@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2411.00852v3",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2411.00852v3",
+    "title": "EF-LLM: A Continual Learning-Based Framework for AI-Assisted Automation, Enhanced Sparse Prediction, and Hallucination Detection",
+    "link": "https://arxiv.org/abs/2411.00852",
+    "description": "arXiv:2411.00852v3 Announce Type: replace-cross Abstract: Accurate prediction helps achieve supply-demand balance in energy systems,thereby supporting operational decision-making and scheduling.Traditional models,which lack AI-assisted automation,often rely heavily on expert knowledge,incur high labor costs,and perform poorly under sparse-data conditions.To address these challenges,this work proposes an Energy Forecasting Large Language Model (EF-LLM),which integrates domain knowledge and temporal data for time-series forecasting while supporting both pre-forecast operations and post-forecast decision-making.EF-LLM's human-artificial intelligence (AI) interaction capabilities further lower the entry barrier for forecasting tasks and reduce the need for additional expert involvement.To support these functions, a continual learning framework with updatable Low-Rank Adaptation (LoRA) and a multi-channel architecture is developed to align heterogeneous multimodal data, enabling EF-LLM to continuously acquire and adapt multimodal knowledge.In addition,EF-LLM improves prediction accuracy under sparse-data conditions by leveraging its ability to process and fuse multimodal information.A Fusion Parameter-Efficient Fine-Tuning (F-PEFT) method is further introduced to effectively exploit both time-series data and textual information.EF-LLM is also the first energy-specific LLM to detect hallucinations and quantify their occurrence rate, achieved via multi-task learning and semantic similarity analysis.This work has achieved success in energy prediction scenarios for load, PV, and wind power forecast.",
+    "publishedAt": "2026-10-27",
+    "author": "Zihang Qiu, Jayashri Ravishankar, Anam Malik, Zhongju Wang, Renyou Xie",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

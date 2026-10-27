@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2610-35765",
+  "name": "Do Similarity Measures Measure Similarity? How User Activity Creates Phantom Correlation in Recommender Systems",
+  "summary": "Item-item similarity is one of the oldest and most foundational signals in recommender systems: two items are assumed to be similar when the same users consume them. Despite the sparsity and scale...",
+  "description": "Item-item similarity is one of the oldest and most foundational signals in recommender systems: two items are assumed to be similar when the same users consume them. Despite the sparsity and scale of interaction data, the implicit assumption across the field is that item co-occurrence reflects genuine shared preference, capturing what users like together. In this paper, we demonstrate that a substantial fraction of observed item-item similarity is an artifact of variance in user activity rather than shared taste. Even if every user consumed items completely independently, differing only in...",
+  "tags": [
+    "arxiv",
+    "cs.IR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.35765v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-26",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.IR.",
+      "href": "https://arxiv.org/abs/2610.35765v1"
+    }
+  ],
+  "authors": [
+    "Marco Favier",
+    "Noah Daniëls",
+    "Jens Leysen",
+    "Sander Marinus",
+    "Bart Goethals"
+  ],
+  "paperId": "2610.35765",
+  "category": "cs.IR",
+  "publishedAt": "2026-10-26",
+  "abstract": "Item-item similarity is one of the oldest and most foundational signals in recommender systems: two items are assumed to be similar when the same users consume them. Despite the sparsity and scale of interaction data, the implicit assumption across the field is that item co-occurrence reflects genuine shared preference, capturing what users like together. In this paper, we demonstrate that a substantial fraction of observed item-item similarity is an artifact of variance in user activity rather than shared taste. Even if every user consumed items completely independently, differing only in..."
+}

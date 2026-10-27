@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.34343v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.34343v1",
+    "title": "Xing USP: A Cross-Family Semantic Contract for Information Extraction and Intent-Slot Parsing",
+    "link": "https://arxiv.org/abs/2610.34343",
+    "description": "arXiv:2610.34343v1 Announce Type: cross Abstract: Structured semantic parsing is typically judged by whether the correct category is assigned, which leaves value recovery and instance-level associations unexamined: a system may recognize an event yet bind an argument to the wrong instance, or identify an intent yet supply an incorrect slot value. We present USP, a cross-family semantic contract that represents categories, fields, values, and instance associations through a common interface for named-entity recognition, relation extraction, event extraction, and intent-slot parsing. The contract is paired with five diagnostic matching views---category agreement, field recognition, field-value pairing, instance-bound assignment, and complete-instance recovery---that ask distinct questions about the same output. Using this contract, we normalize 61 datasets into a unified corpus with shared schemas, prompts, and matching rules, and compare six models on a fixed test subset. Our fine-tuned Xing4.0-29B-Intent attains 57.70 task-balanced Field-Value Micro-F1 (equally weighted across the four task families) and ranks first in every family and on all five views; its margin over the strongest alternative widens from 2.93 points for category matching to 20.73 points for complete-instance matching. This widening gap shows that category agreement alone understates structural deficits. USP thus offers the community a shared representation, a normalized 61-dataset corpus, and a diagnostic evaluation protocol that make structural agreement measurable and comparable across extraction and intent-slot tasks.",
+    "publishedAt": "2026-10-27",
+    "author": "Zhongqiu Li, Boyang Wang, Ruiyu Fang, Shiquan Wang, Di Wu, Jiayi Liang, Feilong Zhang, Hongfeng Du, Xiaomeng Huang, Mengjiao Bao, Luwen Pu, Xuewei He, Yu Zhao, Chao Wang, Kaidong Yu, Bingkai Yang, Qingjun Zhu, Shaoyi Du, Shuangyong Song, Yongxiang Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

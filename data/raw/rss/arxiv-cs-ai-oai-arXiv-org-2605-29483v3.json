@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.29483v3",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.29483v3",
+    "title": "VitalAgent: A Tool-Augmented Agent for Reactive and Proactive Physiological Monitoring over Wearable Health Data",
+    "link": "https://arxiv.org/abs/2605.29483",
+    "description": "arXiv:2605.29483v3 Announce Type: replace Abstract: Wearable devices provide continuous access to physiological signals such as ECG and PPG, offering a path to answering users' questions about their own physiological state and to early detection of cardiac and physiological abnormalities. Yet existing mobile health (mHealth) systems are largely limited to task-specific prediction pipelines or reactive question answering over static summaries. They lack the temporal reasoning, persistent physiological context, and proactive monitoring required for long-term signal streams. To advance this setting, we introduce VitalBench, a longitudinal physiological monitoring benchmark comprising 1,862 QA pairs for reactive question answering and 90.2 hours of continuous ECG/PPG recordings for proactive monitoring, covering cardiac, physical activity, and stress-related tasks. Building on this resource, we propose VitalAgent, a tool-augmented agentic framework for ECG/PPG-based mHealth that supports both reactive question answering and proactive monitoring. VitalAgent is built on a longitudinal physiological memory and a tool-augmented reasoning interface that enables dynamic computation over raw signals. Experiments demonstrate that VitalAgent achieves over 25 points absolute improvement over prompt-based and agentic baselines in reactive evaluation and enables proactive alert monitoring over long-term physiological signals, pointing toward mHealth systems that can both answer questions about and continuously monitor a person's physiological state beyond the clinic.",
+    "publishedAt": "2026-10-27",
+    "author": "Di Zhu, Yu Yvonne Wu, Hong Jia, Aaqib Saeed, Vassilis Kostakos, Ting Dang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

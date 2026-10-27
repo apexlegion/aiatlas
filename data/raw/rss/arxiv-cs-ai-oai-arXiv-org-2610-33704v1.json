@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.33704v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.33704v1",
+    "title": "E3tereo: Improving Stereo Matching at Depth Boundaries with Learned Geometric Edges",
+    "link": "https://arxiv.org/abs/2610.33704",
+    "description": "arXiv:2610.33704v1 Announce Type: cross Abstract: Depth boundaries remain a major source of error in stereo matching. For IGEV on Scene Flow, geometric edge pixels account for only 6% of evaluated pixels but about half of the total absolute disparity error. Photometric edges can respond to texture changes without corresponding depth discontinuities, making them unreliable cues for boundary refinement. We propose E3Stereo, which learns geometric edges from disparity supervision and combines these boundary cues with the backbone disparity and image details to predict full-resolution disparity corrections. The same edge map also emphasizes boundary errors during training, while joint optimization allows the edge predictor to adapt to disparity refinement. On the Scene Flow dataset, E3Stereo reduces end-point error (EPE) at depth boundaries by 9.5%-14.3% across RAFT-Stereo, IGEV, and MonSter, while also reducing overall EPE. After fine-tuning, our IGEV-based model improves upon IGEV on all eleven reported metrics across ETH3D, KITTI 2012, and KITTI 2015. The source code will be made publicly available upon acceptance.",
+    "publishedAt": "2026-10-27",
+    "author": "Qi Xiong, Qinghua Zhao, Yongqiang Xi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

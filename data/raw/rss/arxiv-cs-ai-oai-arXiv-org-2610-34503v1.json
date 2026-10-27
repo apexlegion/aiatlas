@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.34503v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.34503v1",
+    "title": "Multimodal Requirements Traceability Link Recovery in Industrial Settings",
+    "link": "https://arxiv.org/abs/2610.34503",
+    "description": "arXiv:2610.34503v1 Announce Type: cross Abstract: Requirements traceability links support activities such as change-impact analysis, coverage checking, and validation. Industrial requirements can include traceable images, which text-only approaches cannot process directly. For a fixed classifier configuration, binary decisions alone offer no direct way to adjust the balance between missed and incorrect links. We extend a retrieval-augmented generation (RAG) approach for inter-requirements traceability link recovery (TLR). Our extension retrieves text and image candidates separately, classifies each retrieved pair with a vision-language model, and filters the predicted links by verbalized confidence. We evaluate our approach on three non-overlapping industrial requirement sets and six public text-only datasets. On the industrial test sets, our approach achieves an F1 score of 0.310, compared with 0.114 for our replication of the baseline approach by Hey et al. Our approach recovers links in all four modality combinations while improving text-only F1 on the industrial data and maintaining similar performance on the public datasets, but recovery remains limited by failures to retrieve related text requirements for image queries. Confidence filtering produces link sets with different precision and recall, removing false positives and some correctly recovered links from the unfiltered link set. This study provides industrial evidence on the potential and limitations of a current RAG-based TLR approach for multimodal requirements and identifies cross-modal retrieval as the component to prioritize in further optimization.",
+    "publishedAt": "2026-10-27",
+    "author": "Haoming Huang, Shinpei Hayashi, Kazuya Kohata, Myeongki Kim, Yuki Kurihara",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

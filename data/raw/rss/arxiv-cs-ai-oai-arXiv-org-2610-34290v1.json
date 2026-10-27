@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.34290v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.34290v1",
+    "title": "Repairing Broken Access Control in Web Applications with LLMs: An Empirical Benchmark Study",
+    "link": "https://arxiv.org/abs/2610.34290",
+    "description": "arXiv:2610.34290v1 Announce Type: cross Abstract: Broken access control (BAC) ranks among the most severe web-application vulnerability classes, yet its automated repair remains largely unexplored. Unlike memory-safety vulnerabilities, BAC is a logic vulnerability whose repair demands a deep understanding of an application's access-control model and business semantics, which traditional automated vulnerability repair techniques handle poorly. Large language models (LLMs) open a promising avenue for this problem, but no standard benchmark exists for studying how well they repair BAC vulnerabilities. We construct BAC-Bench, the first benchmark for BAC repair, consisting of 46 real-world BAC vulnerabilities drawn from six widely used web applications spanning four programming languages. Each vulnerability is equipped with a sandboxed runtime environment, a PoC validation program and a functional test program. We further propose a BAC repair-strategy framework that characterizes any BAC patch along four dimensions, Position, Coverage, Mechanism, and Content. Evaluating eight base LLMs and two commercial LLM agents on BAC-Bench, we find that single-turn base LLMs repair 37.68% of the vulnerabilities on average, while two minimal scaffolds, Apply-Feedback and Navigate-and-Locate, raise this average to 66.03%, with the best base LLM reaching 75.36%, close to the 78.99% of the best agent. Notably, some LLM-generated patches surpass the official patches, and one incidentally closed a zero-day vulnerability that had lain dormant for three years. Our findings delineate the current capability boundary of LLM-based BAC repair and offer guidance toward its practical adoption.",
+    "publishedAt": "2026-10-27",
+    "author": "Mingrui Liu, Liang He, Xinchu Wang, Yeting Li, Dongxu Han, Yunpeng Li, Yuling Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

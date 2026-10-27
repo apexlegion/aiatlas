@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.07814v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.07814v2",
+    "title": "How well are open sourced AI-generated image detection models out-of-the-box: A comprehensive benchmark study",
+    "link": "https://arxiv.org/abs/2602.07814",
+    "description": "arXiv:2602.07814v2 Announce Type: replace-cross Abstract: As AI-generated images proliferate across digital platforms, reliable detection methods have become critical for combating misinformation and maintaining content authenticity. While numerous deepfake detection methods have been proposed, existing benchmarks predominantly evaluate fine-tuned models, leaving a critical gap in understanding out-of-the-box performance -- the most common deployment scenario for practitioners. We present the first comprehensive zero-shot evaluation of 16 state-of-the-art detection methods, comprising 23 pretrained detector variants (due to multiple released versions of certain detectors), across 12 diverse datasets, comprising 2.6~million image samples spanning 291 unique generators including modern diffusion models. Our systematic analysis reveals striking findings: (1)~no universal winner exists, with detector rankings exhibiting substantial instability (Spearman~$\\rho$: 0.01 -- 0.87 across dataset pairs); (2)~a 37~percentage-point performance gap separates the best detector (75.0\\% mean accuracy) from the worst (37.5\\%); (3)~training data alignment critically impacts generalization, causing up to 20--60\\% performance variance within architecturally identical detector families; (4)~modern commercial generators (Flux~Dev, Firefly~v4, Midjourney~v7) defeat most detectors, achieving only 18--30\\% average accuracy; and (5)~we identify three systematic failure patterns affecting cross-dataset generalization. Statistical analysis confirms significant performance differences between detectors (Friedman test: $\\chi^2$=121.01, $p&lt;10^{-16}$, Kendall~$W$=0.524). Our findings challenge the ``one-size-fits-all'' detector paradigm and provide actionable deployment guidelines, demonstrating that practitioners must carefully select detectors based on their specific threat landscape rather than relying on published benchmark performance.",
+    "publishedAt": "2026-10-27",
+    "author": "Simiao Ren (Neo), Yuchen Zhou (Neo), Xingyu Shen (Neo), Kidus Zewde (Neo), Tommy Duong (Neo), George Huang (Neo),  Hatsanai (Neo),  Tiangratanakul (Dennis),  Tsang (Dennis),  Ng (Dennis), En Wei, Jiayu Xue",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

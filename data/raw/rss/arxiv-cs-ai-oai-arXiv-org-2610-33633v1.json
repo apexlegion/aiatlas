@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.33633v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.33633v1",
+    "title": "ProbeID: Verifying MCP Tool Identity for LLM Agents under Registry Drift",
+    "link": "https://arxiv.org/abs/2610.33633",
+    "description": "arXiv:2610.33633v1 Announce Type: cross Abstract: Agents select tools by copyable descriptions, which cannot establish which implementation runs. ProbeID compares canonicalized responses to schema-valid probes with a trusted admission reference and abstains on ambiguity, so a squatter must copy probe-observable behavior. With the gold present, independent probes and a fixed margin, standard concentration arguments give a shared probe budget logarithmic in the candidate count and bound the joint probability of a wrong decision. On cached MCP-IdentityDrift cases, strict choice reaches \\(0.956\\) hit@1 while description routers fall near chance, but simpler exact comparisons tie it, MMD better tolerates heavy value noise, and a 32B behavioral judge is similarly accurate at higher cost. Random probes from agent banks and a prospective held-out study of 38 tools test theory-set thresholds. On the agent banks, equality refuses every reachable replacement from 64 probes and the bounded distance from 512, and sharper post hoc gates halve both. Two tools whose drift no bank probe reaches always pass. In an MCP-Bench agent, verification cuts tainted tasks from 15 to 9 of 16 at unchanged task success. Over eleven weeks, 7 of 59 real tools changed responses despite version pins. Verification depends on reference integrity, probe coverage, and response noise.",
+    "publishedAt": "2026-10-27",
+    "author": "Guanxing Chen, Sining Zhang, Haohuai He, Qiujie Lv, Yu-An Huang, Zhi-An Huang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

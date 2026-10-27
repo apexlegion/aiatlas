@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.33483v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.33483v1",
+    "title": "Error-Subspace Calibration for Multi-Task Model Merging",
+    "link": "https://arxiv.org/abs/2610.33483",
+    "description": "arXiv:2610.33483v1 Announce Type: cross Abstract: Model merging combines task-specific expert models into a single model without joint training on their original datasets, but often incurs a performance gap relative to the individual experts. Post-merging calibration can reduce this gap through task-specific representation alignment, but the alignment objective alone does not specify which feature directions to correct. We propose Error-Subspace Calibration (ESCal), a post-merging calibration framework that identifies low-dimensional error subspaces from weight differences between expert and merged models. At each intermediate block boundary, a bridge module projects the merged representation onto the next block's input-projection error subspace and maps these coordinates to an additive correction in the current block's output-projection error subspace. The subspace bases remain fixed, so calibration learns only these linear maps, yielding a parameter-efficient mechanism for feature correction. We find that ESCal brings the merged model closer to the experts in both representations and predictions, indicating more faithful recovery of task-specific behavior. Experiments on vision and natural language understanding benchmarks show that ESCal improves merged-model performance across diverse architectures and merging methods using a small calibration set for each task.",
+    "publishedAt": "2026-10-27",
+    "author": "Yeseul Cho, Hanseul Cho, Chulhee Yun",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

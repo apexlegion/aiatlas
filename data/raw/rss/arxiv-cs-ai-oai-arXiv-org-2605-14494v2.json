@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.14494v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.14494v2",
+    "title": "Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty",
+    "link": "https://arxiv.org/abs/2605.14494",
+    "description": "arXiv:2605.14494v2 Announce Type: replace Abstract: Two-Stage Robust Optimization (2RO) with discrete uncertainty is challenging, often rendering exact solutions prohibitive. Scenario reduction alleviates this issue by selecting a small, representative subset of scenarios to enable tractable computation. However, existing methods are largely problem-agnostic, operating solely on the uncertainty set without consulting the feasible region or recourse structure. In this paper, we introduce PRISE, a problem-driven sequential lookahead heuristic that constructs reduced scenario sets by evaluating the marginal impact of each scenario. While PRISE yields high-quality scenario subsets, each selection step requires solving multiple subproblems, making it computationally expensive at scale. To address this, we propose NeurPRISE, a neural surrogate model built on a GNN-Transformer backbone that encodes the per-scenario structure via graph convolution and captures cross-scenario interactions through attention. NeurPRISE is trained via imitation learning with a gain-aware ranking objective, which distills marginal gain information from PRISE into a learned scoring function for scenario ranking and selection. Extensive results on three 2RO problems show that NeurPRISE consistently achieves competitive regret relative to comprehensive methods, maintains strong calability with varying numbers of scenarios, and delivers 17-200x speedup over PRISE. NeurPRISE also exhibits strong zero-shot generalization, effectively handling instances with larger problem scales (up to 5x), more scenarios (up to 4x), and distribution shifts.",
+    "publishedAt": "2026-10-27",
+    "author": "Tianjue Lin, Jianan Zhou, Jieyi Bi, Yaoxin Wu, Wen Song, Zhiguang Cao, Jie Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

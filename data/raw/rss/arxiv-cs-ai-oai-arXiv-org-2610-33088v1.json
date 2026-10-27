@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.33088v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.33088v1",
+    "title": "AnalogPortBench: Benchmarking LLMs on Analog Circuit Porting",
+    "link": "https://arxiv.org/abs/2610.33088",
+    "description": "arXiv:2610.33088v1 Announce Type: cross Abstract: Analog circuit design still relies heavily on expert knowledge, and porting proven designs to new process nodes is a recurring bottleneck. As a lower supply reduces available voltage headroom, a working topology may require redesign or fail to meet specifications. While large language models (LLMs) have begun to generate and optimize analog circuits, existing benchmarks focus on one process node and assume feasible specifications. To bridge this gap, we introduce AnalogPortBench, a benchmark of 54 tasks for porting ten circuits, from current mirrors to telescopic amplifiers, from a 0.18 $\\mu$m process to the open-source SKY130 PDK. Tasks range from a direct port through a reduced supply and harder specifications to infeasible ones, and every feasible task has a reference design verified at five process corners. Evaluating six frontier LLMs at two reasoning levels, with and without simulation feedback, we find that models port simple circuits but rarely re-design headroom-sensitive amplifiers, seldom recognize infeasible specifications, and gain more from simulation feedback than from more samples or reasoning. Code and data are available at https://github.com/saeidrajabii/AnalogPortBench.",
+    "publishedAt": "2026-10-27",
+    "author": "Saeid Rajabi, Aly Moussa, Vishal Saxena, Chengmo Yang, Satwik Patnaik",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

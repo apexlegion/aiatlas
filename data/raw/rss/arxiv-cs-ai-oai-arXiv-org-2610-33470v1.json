@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.33470v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.33470v1",
+    "title": "The Future Is Finer: Multivariate Time Series Super-Resolution Forecasting",
+    "link": "https://arxiv.org/abs/2610.33470",
+    "description": "arXiv:2610.33470v1 Announce Type: new Abstract: Web platforms run on multivariate time series, from service telemetry and Web traffic logs to sensor streams served through Web APIs. Yet, retention policies often archive them at coarse granularity to save storage and bandwidth. Decisions such as autoscaling, alerting, and billing operate at finer granularity than existing forecasters reach, since these models predict at the resolution of their input. We therefore introduce Multivariate Time Series Super-Resolution Forecasting (MTS-SRF), which forecasts fine-grained futures from coarse histories, and propose TimeMagnifier to address its three challenges. Fourier Anchor counters data sparsity by fitting each input window to a trend-Fourier structure with sparse cross-variable gating; De-noise Only constrains fine-grained ambiguity by refining along the resolution axis rather than the noise axis, lengthening the grid level by level; and banded DTW Alignment corrects cross-resolution misalignment against the coarse forecast. On the first MTS-SRF benchmark, with ten datasets from five domains, real archived cross-resolution pairs, strengthened baseline adaptations, and five-seed significance tests, TimeMagnifier is best on every dataset, resolution coefficient, and metric against 15 baselines and cuts MSE by 12.3% on average. Its De-noise Only and DTW stages also transfer as a plug-in that lowers the MSE of existing forecasters by 5.1% to 9.0%. Code will be made publicly available.",
+    "publishedAt": "2026-10-27",
+    "author": "Shuhao Li, Weidong Yang, Yue Cui, Fan Zhang, Lu Qin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

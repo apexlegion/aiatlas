@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.24589v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.24589v2",
+    "title": "A systematic evaluation of vision-language models for observational astronomical reasoning tasks",
+    "link": "https://arxiv.org/abs/2604.24589",
+    "description": "arXiv:2604.24589v2 Announce Type: replace Abstract: Vision-language models (VLMs) are increasingly proposed as general-purpose tools for scientific data interpretation, yet their reliability on real astronomical observations across diverse modalities remains untested. We present AstroVLBench, a benchmark of over 4,100 expert-verified instances across five tasks spanning optical imaging, radio interferometry, multi-wavelength photometry, time-domain light curves, and optical spectroscopy. We systematically evaluate six state-of-the-art frontier models and find that performance is strongly modality-dependent and uncorrelated with general benchmark rankings. Mechanistic cross-model ablations reveal three concrete bottlenecks. First, prompt grounding exhibits marked model and task dependence: physical guidance yields more balanced classifications on optical imaging, whereas phenomenological prompts better navigate undersampled time-domain data. Second, presenting one-dimensional measurements as numerical tables rather than rendered plots consistently improves light-curve classification across all models by up to 23 percentage points, demonstrating that plot rendering can obscure physically relevant signal. Third, an expert audit of optical spectroscopy reveals a notable \"right-answer-wrong-reason\" phenomenon: across evaluated models, an average of 26% of correct predictions are accompanied by physically inconsistent or invalid reasoning chains, showing that accuracy alone is insufficient for trustworthy scientific deployment. AstroVLBench provides the first systematic, multi-modal baselines for VLMs in observational astronomy and identifies the representation, grounding, and reasoning bottlenecks that must be addressed before VLMs can be trusted as autonomous scientific interpreters.",
+    "publishedAt": "2026-10-27",
+    "author": "Wenke Ren, Hengxiao Guo, Wenwen Zuo, Xiaoman Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

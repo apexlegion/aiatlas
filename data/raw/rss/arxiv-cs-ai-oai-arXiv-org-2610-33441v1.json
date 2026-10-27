@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.33441v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.33441v1",
+    "title": "Quantifying Meaning with SCAPE-T: Semantic Complexity from Encoder-Only Transformer Attention",
+    "link": "https://arxiv.org/abs/2610.33441",
+    "description": "arXiv:2610.33441v1 Announce Type: cross Abstract: Automated semantic complexity estimation remains underexplored in NLP, despite important applications in linguistics and interpretability. This paper defines semantic complexity as the code length required to uniquely specify a text's semantic meaning, and operationalises it via SCAPE-T, an attention-derived metric based on encoder-only transformers. Existing measures either model reader effort (readability, lexical difficulty), which correlates with surface features (word length, syntax), or quantify surface features directly (type-token ratio, word frequency). SCAPE-T targets semantic integration directly by combining three submetrics: (i) inverse-weighted self-focus (token-to-self), (ii) CLS focus (token-to-CLS), and (iii) inter-head redundancy (cosine similarity across heads), using layer-weighted aggregation; data-driven learning is confined to hyperparameter tuning for calibration. Development uses philosophical prose vs. MCTest stories; evaluation is on children's stories vs. technical Wikipedia articles, with pairwise accuracy on contrasts as the primary criterion. Baselines include readability, syntactic/lexical, and LLM-derived measures. SCAPE-T substantially outperforms all tested baselines under word-length control, with a pairwise accuracy of 78.5% (95% bootstrap CI: 76.1-80.4, N=10k pairwise comparisons; +12.7 percentage points over the strongest baseline); without that control, readability heuristics overtake, consistent with their reliance on surface features. On a short-terms abstractness dataset, SCAPE-T also leads. Ablations show each submetric contributes materially. Overall, the results show SCAPE-T isolates conceptual structure from lexical/syntactic confounds better than existing methods, and generalises across two held-out domains.",
+    "publishedAt": "2026-10-27",
+    "author": "Maxim Khovansky, Lev Mukhanov",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

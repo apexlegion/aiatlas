@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.01043v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.01043v2",
+    "title": "From Truncation to Commitment: Persistent Context in Uniform Discrete Diffusion",
+    "link": "https://arxiv.org/abs/2609.01043",
+    "description": "arXiv:2609.01043v2 Announce Type: replace-cross Abstract: Uniform-state discrete diffusion models update all tokens in parallel while keeping every position revisable. Even when the commonly used top-$p$ rule leaves only one candidate at a position, that choice affects only the current reverse step and can be revised at the next sampling step. We ask what changes when selected hypotheses instead become persistent context for later predictions. We therefore propose committed reveal sampling (CRS), a training-free sampler that stores selected argmax tokens and inserts them into subsequent model inputs. Our analysis separates persistent context from truncation. Within one reverse step, adaptive top-$p$, randomized or not, reproduces the update induced by a visible token only when a likelihood-ratio ordering holds, while in a simple latent-mode model, keeping the selected token visible helps later parallel predictions agree on the same sequence-level choice. Empirically, paired experiments on Duo-distilled then separate this persistent effect from single-step top-$p$ restriction and scalar temperature scaling. Under the same finalization rule, CRS without top-$p$ truncation reaches lower generative perplexity (GenPPL) than fixed $p=0.95$ and $p=0.9$ baselines across budgets of 8--64 function evaluations (NFE). At 64 NFE, the comparison at matched unigram entropy also gives lower GenPPL for CRS, shifting the GenPPL--entropy tradeoff under this metric. Base Duo shows the same direction in a descriptive comparison, while other diversity and continuation metrics can rank these operating points differently. A distributional distance to held-out text (SOL) under a fixed GPT-2-Large representation also decreases with persistent context at the same late top-$p$ threshold. These results identify support restriction and persistent context as distinct controls of that tradeoff.",
+    "publishedAt": "2026-10-27",
+    "author": "Satoshi Hayakawa",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

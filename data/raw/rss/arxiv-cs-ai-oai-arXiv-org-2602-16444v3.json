@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.16444v3",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.16444v3",
+    "title": "RoboGene: Diversity-Driven Agentic Task Generation Framework for VLA Pre-training",
+    "link": "https://arxiv.org/abs/2602.16444",
+    "description": "arXiv:2602.16444v3 Announce Type: replace-cross Abstract: The pursuit of general-purpose robotic manipulation is hindered by the scarcity of diverse, real-world interaction data. Unlike large-scale web vision-language data, robotic data collection incurs prohibitive physical costs. The key challenge is thus not merely to collect more robot data, but to obtain informative training data that broadens behavioral coverage across objects, scenes, and skills. Yet automatically curating task proposals to maximize the utility of collected data remains under-explored. We introduce RoboGene, an agentic framework for generating diverse, informative manipulation tasks across single-arm, dual-arm, and mobile robots. RoboGene combines (1) diversity-driven sampling for broad task coverage, (2) agentic self-reflection for task-quality assessment, and (3) human-verified feedback memory for execution-grounded validation and continual refinement. Through quantitative analysis and large-scale real-world experiments, we collect 18k trajectories and introduce metrics for task feasibility and diversity. RoboGene significantly outperforms frontier foundation models, including GPT-4o and Gemini 2.5 Pro. VLA models trained on RoboGene-generated data achieve higher success rates and stronger generalization, highlighting the value of high-quality task generation. Project page: https://robogene-boost-vla.github.io/. Datasets: Hugging Face (https://huggingface.co/datasets/X-Humanoid/RoboGene) and ModelScope (https://modelscope.cn/datasets/X-Humanoid/RoboGene_tasks).",
+    "publishedAt": "2026-10-27",
+    "author": "Yixue Zhang, Kun Wu, Zhi Gao, Zhen Zhao, Pei Ren, Zhiyuan Xu, Fei Liao, Xinhua Wang, Shichao Fan, Di Wu, Qiuxuan Feng, Meng Li, Zhengping Che, Chang Liu, Jian Tang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.04867v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.04867v2",
+    "title": "Greedy Local Learning for Language Model Pretraining: Gaps and Objective Design",
+    "link": "https://arxiv.org/abs/2610.04867",
+    "description": "arXiv:2610.04867v2 Announce Type: replace-cross Abstract: Greedy block-wise local learning splits a network into gradient-isolated blocks trained by local auxiliary losses, deleting the backward pass between blocks: inter-stage communication becomes forward-only and every block can step its optimizer independently, properties directly relevant to decentralized model-parallel training. Local learning is competitive with end-to-end backpropagation on image classification, and on small Transformers it is known to trade a worse best loss for parallel speedup. How this loss gap behaves in autoregressive language model (LM) pretraining at larger scale, and which auxiliary designs reduce it, has not been measured. We present a token-budget-matched empirical study at 125M and 400M parameters with $K \\in \\{1,2,4\\}$ blocks at Chinchilla-optimal budgets, factorizing the auxiliary design into network architecture and training objective. We observe: (i) the gap to end-to-end training more than doubles from $K=2$ to $K=4$, but at $K=4$ shrinks from 125M to 400M; (ii) replacing an MLP auxiliary with a Transformer-based one is a strong network-side intervention, recovering 22-41% of the gap; (iii) a multi-token-prediction (MTP) auxiliary objective helps at the first block boundary, whereas adding it at deeper boundaries hurts, and restricting it to the first block yields the best $K=4$ configuration ($+0.062$ vs. $+0.075$ nats at 400M); and (iv) deployment-style per-block execution reduces activation memory by up to $2.2\\times$. We frame these results as an empirically grounded method direction rather than a finalized method: local objectives should apply future-predictive pressure selectively across boundaries while resisting shortcuts that bypass predictive content.",
+    "publishedAt": "2026-10-27",
+    "author": "Jihwan Moon, Sheir A. Zaheer, Jinmyoung Lee, Gunhee Kim, Chan Y. Park",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

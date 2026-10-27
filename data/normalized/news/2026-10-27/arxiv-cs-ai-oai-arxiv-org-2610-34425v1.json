@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-34425v1",
+  "name": "CTXAgent - Self-Controlled Context Management of LLM Agents",
+  "summary": "arXiv:2610.34425v1 Announce Type: new Abstract: Agent harnesses keep long sessions inside the context window by compacting the history when a token threshold is crossed. We study an alternative in...",
+  "description": "arXiv:2610.34425v1 Announce Type: new Abstract: Agent harnesses keep long sessions inside the context window by compacting the history when a token threshold is crossed. We study an alternative in which the model manages its own context: it decides when to compact, what to keep and what to write as the hand-off, given two tools and one paragraph of guidance. Since earlier work found that open-w...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.34425"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-27",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.34425"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-27",
+  "expiryAt": "2026-11-26T00:00:00.000Z",
+  "author": "Matthias Busch, Marius Tacke, Roland C. Aydin, Christian Feiler, Christian J. Cyron"
+}

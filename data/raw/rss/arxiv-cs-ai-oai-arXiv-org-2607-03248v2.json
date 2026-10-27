@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.03248v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.03248v2",
+    "title": "Unbiased Alignment for Large Language Models with Noisy Preferences",
+    "link": "https://arxiv.org/abs/2607.03248",
+    "description": "arXiv:2607.03248v2 Announce Type: replace-cross Abstract: The alignment of large language models with human preferences is commonly achieved through Reinforcement Learning from Human Feedback or Direct Preference Optimization. However, these methods are vulnerable to the significant noise prevalent in real-world preference datasets. To address this critical issue, we present a theoretical framework for unbiased alignment, introducing the Unbiased Reward Model (URM) loss and the Unbiased Direct Preference Optimization (UDPO) loss. By mathematically correcting the distortion induced by preference noise, our novel objectives enable unbiased model training directly from noisy datasets, without requiring clean ground-truth supervision. We provide rigorous theoretical analyses demonstrating that our methods are noise-tolerant, parameter downward compatible, and classification-calibrated. Comprehensive experiments across diverse datasets demonstrate that our approaches outperform state-of-the-art baselines. Code available at: https://github.com/cswjl/unbiased-alignment.",
+    "publishedAt": "2026-10-27",
+    "author": "Jialiang Wang, Xianming Liu, Xiong Zhou, Hui Liu, Haoliang Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

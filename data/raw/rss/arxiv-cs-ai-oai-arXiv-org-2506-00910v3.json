@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2506.00910v3",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2506.00910v3",
+    "title": "PCoreSet: Effective Active Learning through Knowledge Distillation from Vision-Language Models",
+    "link": "https://arxiv.org/abs/2506.00910",
+    "description": "arXiv:2506.00910v3 Announce Type: replace-cross Abstract: Knowledge distillation (KD) is a widely used framework for training compact, task-specific models by transferring the knowledge from teacher models. However, its application to active learning (AL), which aims to minimize annotation costs through iterative sample selection, remains underexplored. This gap stems from the fact that KD typically assumes access to sufficient labeled data, whereas AL operates in data-scarce scenarios where task-specific teacher models are often unavailable. In this paper, we first introduce ActiveKD, a framework that integrates AL with KD by leveraging the zero- and few-shot capabilities of large vision-language models (VLMs). A key aspect of ActiveKD is the structured prediction bias of VLMs--i.e., their predictions form clusters in the probability space. We regard this structure as an inductive bias of the teacher model, capturing generalizable output patterns beneficial to student learning. To exploit this bias, we propose Probabilistic CoreSet (PCoreSet), a selection strategy that maximizes coverage in the probability space rather than the feature space. PCoreSet strategically selects probabilistically diverse unlabeled samples, facilitating more efficient transfer of teacher knowledge under limited annotation budgets. Extensive evaluations on 11 datasets show that ActiveKD consistently improves every selection method over the no-distillation baseline (e.g., +29.07% on ImageNet, averaged over methods). Under ActiveKD, several widely-used AL selectors underperform Random and none consistently beats it; in contrast, PCoreSet is the only selector that consistently outperforms Random across 5 students and 3 teachers, always achieving the best performance except for the first 2 AL rounds. Our code is available at https://github.com/erjui/PCoreSet.",
+    "publishedAt": "2026-10-27",
+    "author": "Seongjae Kang, Dong Bok Lee, Hyungjoon Jang, Dongseop Kim, Sung Ju Hwang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

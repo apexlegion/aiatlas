@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.28639v3",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.28639v3",
+    "title": "What the Abstention Option Measures: Refusal Loss, Sampling Churn, and Option Capture in Distilled Small Language Models",
+    "link": "https://arxiv.org/abs/2607.28639",
+    "description": "arXiv:2607.28639v3 Announce Type: replace-cross Abstract: Small instruction-tuned language models reach phones, cars, and offline assistants through knowledge distillation, and whether a distilled model is fair enough to ship is often decided by a multiple-choice bias score on a benchmark that offers an abstention option. Three mechanisms move behavior around the abstention option: refusal loss, where the student stops declining on items its pre-distillation reference declined; sampling churn, the same change observed between two runs of the reference itself; and option capture, where the student takes an abstention option whenever one is offered. Injecting each mechanism into a reference's own records shows that aggregate scores see only outright loss, per-item scores see churn and remapping, and only conditioning on committed answers stops moved refusal mass from reading as fairness. Resampling a reference across inference seeds already turns 10% to 27% of its refusals into stereotype answers, so a per-item refusal metric reported without that floor overstates damage. Option capture is what corpus repair teaches: students trained with refusal exemplars take an offered abstention option on up to 95% of science questions where abstention is never correct, and the habit carries to three further benchmarks. Free-form evaluation shows that the refusals multiple choice loses are not where free-form stereotyping occurs. We distill these findings into a per-condition report anchored to the reference, with measured floors and ceilings, and apply it to four student families against a fine-tuning control: distillation keeps fewer of the reference's refusals than fine-tuning on the same prompts where the reference's refusals are reliable, by a few points, while the common metrics report improvements whenever refusal mass moves. A bias score quoted for a distilled model should say which of these it reports.",
+    "publishedAt": "2026-10-27",
+    "author": "Plawan Kumar Rath",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

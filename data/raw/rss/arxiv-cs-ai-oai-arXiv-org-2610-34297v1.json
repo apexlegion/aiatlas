@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.34297v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.34297v1",
+    "title": "Automated, auditable dating of the Babylonian Astronomical Diaries with language models and astronomical tools",
+    "link": "https://arxiv.org/abs/2610.34297",
+    "description": "arXiv:2610.34297v1 Announce Type: cross Abstract: The Babylonian Astronomical Diaries record the sky over nearly six centuries. Many tablets are broken and have lost their date formula. Experts dated many of them one tablet at a time in the standard edition, Astronomical Diaries and Related Texts from Babylonia (ADART). They used the recorded sky and other evidence, such as year formulas and royal names. Our system automates the astronomical part for all tablets with the same rules. A rule-based parser turns the recorded observations into clauses, short statements with fixed fields. A language model checks them against the text and adds observations that the parser missed. Astronomical tools test the clauses in all 701 years from 626 BCE to AD 75. The system ranks the years by how well they agree with the clauses. The system withholds published dates until its results are final, and the output lists the passages and computed positions behind each candidate year. On 120 dated tablets, the years tied at the top of the ranking include the published year in 96% of cases. For 86 of them, this top group is a single year, the published year in 84. In 119 of the 120, the reported candidate set contains it. For 56 undated entries of ADART IV, the system gives ranked candidate years. For each tablet, the results show how far astronomy alone narrows the year. An interactive page at https://tingyuansen.github.io/Babylonian_Dating/ follows each tablet and links the code, protocol and results.",
+    "publishedAt": "2026-10-27",
+    "author": "Lucas Carrit Delgado Pinheiro, Yuan-Sen Ting, Jon Clindaniel, Lu Li, Yingbin Liang, Ness Shroff",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

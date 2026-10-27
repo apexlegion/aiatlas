@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.01478v3",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.01478v3",
+    "title": "Crazyflow: An Accurate, GPU-Accelerated, Differentiable Drone Simulator in JAX",
+    "link": "https://arxiv.org/abs/2606.01478",
+    "description": "arXiv:2606.01478v3 Announce Type: replace-cross Abstract: High-quality, large-scale synthetic data from simulations is becoming a cornerstone for pushing robots' capabilities. While aerial robotics simulators have evolved to support specialized needs such as fidelity, differentiability, and swarms independently, a unified platform that synthesizes data across all these domains is missing. In this work, we propose Crazyflow, a simulator designed to push the frontier of aerial robotics algorithm development, supporting model-based and data-driven methods, gradient-based and sampling-based approaches, single- and multi-agent systems, and state- and vision-based policy learning. Crazyflow combines high-fidelity dynamics with JAX for speed and differentiability, scaling to millions of environments or thousands of swarms with thousands of drones on single CPUs and GPUs, and beyond on clusters. Real-world experiments show Crazyflow supports both analytical-gradient-based policy learning, achieving high-accuracy tracking without domain randomization, and sampling-based obstacle avoidance at speeds exceeding half a billion steps per second. Breaking the traditional train-then-deploy paradigm, Crazyflow's performance enables in-flight reinforcement learning; we demonstrate this by throwing a physical drone into the air and training a recovery policy from scratch in 0.37 seconds, catching it before it hits the ground. By pushing accuracy, speed, and differentiability simultaneously, Crazyflow serves as an open-source resource for synthetic data generation, with emerging capabilities for large-scale parallelization for online, in-execution learning and optimization, opening the door to novel algorithm development.",
+    "publishedAt": "2026-10-27",
+    "author": "Martin Schuck, Marcel P. Rath, Yufei Hua, Abhishek Goudar, SiQi Zhou, Angela P. Schoellig",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

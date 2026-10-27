@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.05533v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.05533v2",
+    "title": "What Does a Harness Repair? A Preregistered Study of Visibility, Baseline Adequacy and Evaluation Defects",
+    "link": "https://arxiv.org/abs/2610.05533",
+    "description": "arXiv:2610.05533v2 Announce Type: replace-cross Abstract: Harness search keeps a change to the prompts, token budgets or parsers around a frozen model if the change raises a score. Such a gain can come from answers the parser could not read before, a weak comparison or an evaluation defect. We preregistered two studies of where these gains come from, with three models of 1.7B to 8B parameters and with Qwen3-14B, and report all 65 primary endpoints. Turning thinking off raised accuracy over a capped thinking setting in 7 of 12 model-benchmark cells, each time mostly through questions the capped setting left without a readable answer. For the small models, the thinking-off setting was not meaningfully worse than a rescue configuration in 7 of 9 cells, nor, for the 1.7B model, than four GEPA-selected harnesses. At 14B, two GEPA harnesses beat it by 30 to 34 points on the LongevityBench letter tasks; in descriptive analyses they were not detectably above the strongest constant-label baseline and answered \"Yes\" in 95% to 99% of their parsed mortality answers. From a start capped at 64 tokens, GEPA repaired the 1.7B model's harness, but at 14B no proposal of either search scored above zero. Replication through the same pipeline reproduced a defect's distortion in 9 of 20 evaluable cases, 7 of them cases in which the distortion is fixed by an identity of the design. Descriptively, relative to its base model, longevity fine-tuning raised a 1.7B model's letter accuracy by 41 points and cut its MMLU-Pro and GSM8K accuracy by 16 and 63 points; on a second GPU, 58% of its zero-temperature token sequences changed and none of the nine grid verdicts we rechecked did.",
+    "publishedAt": "2026-10-27",
+    "author": "Bowen Xu, Boyu Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

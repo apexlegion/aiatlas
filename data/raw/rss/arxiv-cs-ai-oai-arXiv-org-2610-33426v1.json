@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.33426v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.33426v1",
+    "title": "Exact Unlearning After Data Curation",
+    "link": "https://arxiv.org/abs/2610.33426",
+    "description": "arXiv:2610.33426v1 Announce Type: cross Abstract: Training pipelines often remove similar examples before fitting a model. Deleting a raw record can change that selection and admit an example that was excluded before. What must a service retain to reproduce training after such requests? We answer this question for a fixed rule in which earlier similar records block later ones. A limit on the total number of future deletions identifies exactly which records can still enter training. We use this boundary to build a summary of training statistics that can be repaired exactly after repeated deletions. The repaired summary is the same as rebuilding it on the surviving data with the remaining budget. We also construct finite-precision features for ridge regression, a linear learner with a penalty on coefficient size. With exact rational outputs, allowing one more deletion changes the required private information. It rises from zero to every private feature sign in the excluded candidates. An encoding attains this conditional private-information minimum on the constructed family throughout a sequence of requests. On 1,001 AskUbuntu development records, deleting an initially excluded record admits another record at 13 of 51 fixed similarity cutoffs. Exact membership repair passes 13,056 deletion-step checks. Two model-based semantic calibrations fail their fixed criteria, so the downstream task study is not run. The central result is a retention contract: the future deletions a service promises to support determine which excluded data can still be needed.",
+    "publishedAt": "2026-10-27",
+    "author": "Priyank Jayraj, Devanshu sahoo, Uday Mittal",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

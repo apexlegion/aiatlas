@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.08614v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.08614v2",
+    "title": "DiagnosticIQ: A Benchmark for LLM-Based Industrial Maintenance Action Recommendation from Symbolic Rules",
+    "link": "https://arxiv.org/abs/2605.08614",
+    "description": "arXiv:2605.08614v2 Announce Type: replace Abstract: Monitoring complex industrial assets relies on engineer-authored symbolic rules that trigger on sensor conditions and prompt technicians to perform corrective actions. The bottleneck is not detection but response: translating rules into maintenance steps requires asset-specific knowledge gained through years of practice. We investigate whether LLMs can serve as decision support for this rule-to-action step and introduce \\ours{}, a benchmark of 6{,}690 multiple-choice questions generated from 118 expert-authored rule-action pairs across 16 asset types, with experts reviewing the generated prompts for layout and conversational flow. We contribute (i) a symbolic-to-MCQA pipeline normalizing rules to Disjunctive Normal Form with embedding-based distractor sampling, (ii) five variants probing distinct failure modes (Pro, Pert, Verbose, Aug, Rationale), and (iii) a benchmark of 29 LLMs and 4 embedding baselines. A human evaluation (9 practitioners, mean 45.0\\%) confirms \\ours{} requires specialist knowledge beyond operational experience. Three findings stand out: the frontier has closed, with the top three LLMs within one Macro point and inseparable under rule-level tests. Yet \\ours{}\\,Pro exposes brittleness, with the leader losing 13.8 Macro points and smaller models losing over 60\\% of their accuracy under distractor expansion. \\ours{}\\,Aug exposes pattern-matching: under condition inversion, the leading model still selects the original answer 63\\% of the time. Frontier models handle template-style fault detection but break under structural perturbation.",
+    "publishedAt": "2026-10-27",
+    "author": "Devin Yasith De Silva, Dhaval Patel, Christodoulos Constantinides, Shuxin Lin, Nianjun Zhou, Dharmashankar Subramanian, Paul J Adams, Sal Rosato, Nicolas Constantinides, Deborah L. McGuinness, Jayant Kalagnanam",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

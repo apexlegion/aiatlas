@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.34812v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.34812v1",
+    "title": "Precedence-Aware Resource Allocation: Extending the AUTOC Framework to Multi-Level Treatments",
+    "link": "https://arxiv.org/abs/2610.34812",
+    "description": "arXiv:2610.34812v1 Announce Type: cross Abstract: Many real-world decision problems require allocating limited resources across individuals to maximize total benefit often through interventions that vary in intensity rather than binary treat-or-not decisions. In these settings, higher levels treatments require first applying lower levels of treatment, inducing a precedence constraint that complicates allocation under a fixed budget. While the causal inference literature has largely emphasized accurate estimation of conditional average treatment effects (CATE), recent work has shown that estimation accuracy alone does not guarantee effective resource allocation, motivating ranking-based evaluation frameworks. The Area Under the Targeting Operating Characteristic (AUTOC) provides an effective way to evaluate prioritization rules across budget levels, but existing formulations are limited to binary treatments. We introduce Multi-Level AUTOC (ML-AUTOC), which is a generalization for AUTOC designed for multi-level treatment settings with precedence. We also propose precedence-aware policies for mapping true marginal treatment effects to feasible treatment assignments under fixed budget constraints. Our results show that in the setting of multi-level treatments, maximizing realized treatment effects may require re-allocation of treatments across individuals.",
+    "publishedAt": "2026-10-27",
+    "author": "Olin E. Gilster, Shengpu Tang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

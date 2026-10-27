@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2610-35835",
+  "name": "I-HITL: Inalienable Human-in-the-Loop",
+  "summary": "Human oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardrails,...",
+  "description": "Human oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardrails, though, raises the question of how to enforce HITL robustly. We introduce the concept of inalienable human-in-the-loop (I-HITL). An I-HITL protocol ensures that an agent can initiate an action only with explicit human approval, even when the human interacts with a system (e.g., a local agentic harness) compromised by the agent. A strong I-HITL protocol additionally ensures such approval even when...",
+  "tags": [
+    "arxiv",
+    "cs.CR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.35835v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-26",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CR.",
+      "href": "https://arxiv.org/abs/2610.35835v1"
+    }
+  ],
+  "authors": [
+    "Samuel Breckenridge",
+    "Dani Vilardell",
+    "Wenhao Wang",
+    "Fan Zhang",
+    "Ari Juels"
+  ],
+  "paperId": "2610.35835",
+  "category": "cs.CR",
+  "publishedAt": "2026-10-26",
+  "abstract": "Human oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardrails, though, raises the question of how to enforce HITL robustly. We introduce the concept of inalienable human-in-the-loop (I-HITL). An I-HITL protocol ensures that an agent can initiate an action only with explicit human approval, even when the human interacts with a system (e.g., a local agentic harness) compromised by the agent. A strong I-HITL protocol additionally ensures such approval even when..."
+}

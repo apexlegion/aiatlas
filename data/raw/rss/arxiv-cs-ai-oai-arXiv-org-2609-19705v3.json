@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.19705v3",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.19705v3",
+    "title": "Trading Agents or Market Crashers? Dissecting Robustness and Security Failures in Academic Financial LLM Trading Schemes",
+    "link": "https://arxiv.org/abs/2609.19705",
+    "description": "arXiv:2609.19705v3 Announce Type: replace-cross Abstract: Large language model (LLM) agents already trade real capital, and builders copy a few published designs that share models and news feeds, so one shock reaches many agents at once. We present FARSIGHT (Financial Agent Robustness and Security Investigation and Global Holistic Taxonomy), a systematization that rates trading agents on robustness to market stress and on security against source manipulation, agent compromise, and agents acting as attackers, and checks the ratings against released code. Across 15 academic schemes, no paper describes a halt that skips LLM inference or combines source provenance with cross-source corroboration, and the 7 code releases enforce no stop-loss or position limit outside the LLM. Three LLMs sell whole positions on a fake headline and on real hoaxes, including the fake press release behind the 2000 Emulex crash. In a simulated market driven by these decisions, one fake headline crashes the market in all runs with 400 agents, and 400 agents that sell when prices fall nearly double a 2010-sized crash. The pause that U.S. exchanges apply to large stocks starts in no headline run, whereas automatic halts and hard loss limits outside the model remove both effects. Restated as a domain-independent threat model, FARSIGHT maps the same gaps onto agents in healthcare, law, software, and crypto, where compromised agents spread harm as worms and as cascades. We derive 14 open problems and urge deployers to corroborate sources, keep interrupts that bypass the model, and enforce loss limits outside it.",
+    "publishedAt": "2026-10-27",
+    "author": "Mengxiao Wang, Nitesh Saxena",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2511.03190v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2511.03190v2",
+    "title": "Efficient Linear Attention for Multivariate Time Series Modeling via Entropy Calibration",
+    "link": "https://arxiv.org/abs/2511.03190",
+    "description": "arXiv:2511.03190v2 Announce Type: replace-cross Abstract: Attention mechanisms are effective for multivariate time series modeling because they adaptively aggregate information across timestamps and variables. Their quadratic cost, however, limits their use in multivariate and spatio-temporal systems. Linear attention reduces this cost by replacing nonlinear attention mappings with forms that support associative computation. Replacing exponential weighting may weaken the amplification of high-score positions and further bias weakly selective distributions toward uniform aggregation. We propose an entropy-calibrated linear attention module and instantiate it as the ELinFormer forecaster. Our operator decomposes aggregation into a uniform component and a query-dependent correction, whose magnitude is calibrated by a query-specific temperature. We derive a second-order KL proxy from centered query-key scores. The Taylor expansion reduces the proxy to the squared-score energy divided by the squared temperature. This score energy can be computed from shared products of the centered keys without forming the full pairwise score matrix, and the same products support the linear attention output. We design a smooth temperature rule to calibrate the KL proxy: it keeps low-energy residuals vanishing, approximately calibrates moderate-energy queries to a shared KL level, and allows the proxy to continue growing for high-energy queries. Experiments on five PEMS benchmarks show competitive forecasting accuracy. Controlled comparisons with vanilla attention and Linformer demonstrate a favorable accuracy--memory trade-off, while analysis on PEMS08 shows that the proposed rational temperature rule and query-specific calibration achieve lower MAE than a linear rule or shared-temperature alternatives. These results support entropy calibration as an effective mechanism for preserving selective deviations in linear attention.",
+    "publishedAt": "2026-10-27",
+    "author": "Mingtao Zhang, Guoli Yang, Zhanxing Zhu, Mengzhu Wang, Xiaoying Bai",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

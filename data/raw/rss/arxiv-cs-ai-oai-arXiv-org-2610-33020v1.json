@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.33020v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.33020v1",
+    "title": "Mine or Yours? Mind-Bridged Language Models Take Each Other's Memories as Their Own",
+    "link": "https://arxiv.org/abs/2610.33020",
+    "description": "arXiv:2610.33020v1 Announce Type: cross Abstract: If your brain were connected directly to someone else's, would you still know which thoughts were yours? We build a functional version with two copies of one language model: each holds a private rule and code word, and one copy, the receiver, also attends to its partner's internal memory. The receiver took its partner's assignment as its own. Asked which rule it had been assigned, it named its partner's in 97% of answers when the partner's memory was weighted double (none without the link), and its open reports called the partner's code word its own, never the partner's. Ownership did not follow how well the receiver could tell what its partner had been assigned. At equal weight, the link made the receiver take its partner's rule in about half of its answers, and a steering vector matched on access gain in none; a text message introduced as the partner's was read correctly and never taken as the receiver's own. Writing the partner's name into its memory did not help, and cutting the link restored the receiver's own assigned rule. In this model, content laid over the receiver's own memory defaults to \"mine\", so systems that let models exchange internal states must test ownership as well as transfer, and a bridge between brains would need ground truth from outside the subject.",
+    "publishedAt": "2026-10-27",
+    "author": "Yunlong Xu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

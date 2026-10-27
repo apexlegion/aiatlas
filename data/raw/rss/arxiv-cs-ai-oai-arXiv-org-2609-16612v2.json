@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.16612v2",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.16612v2",
+    "title": "Structure Across Voices: Comparing acoustic-event type accumulation and sequence dependence across four vocal corpora using frozen audio encoders",
+    "link": "https://arxiv.org/abs/2609.16612",
+    "description": "arXiv:2609.16612v2 Announce Type: replace-cross Abstract: Comparing acoustic structure across very different vocal corpora is difficult because the recordings use different native event units, contain different amounts of sequence, and were collected under different conditions. We develop a matched procedure for comparing such corpora without forcing them into the same event definition. Frozen audio encoders provide a common acoustic representation for recorded events, while matched sampling gives each corpus the same amount of evidence for acoustic and sequence analysis. We apply this procedure to sperm-whale codas, human speech phones, Bengalese-finch syllables, and common-marmoset calls. The comparison reveals different patterns across the four corpora. Sperm-whale recordings stand out broadly: new acoustic forms continue to appear, while their sequences also show strong organization and repetition. Finch recordings show the strongest organization of sounds over time, especially in how neighboring sounds and repeated patterns are arranged. Direct temporal and spectral measurements show that these differences are also present in the recorded sounds themselves. The comparison provides a practical way to measure acoustic diversity and temporal organization across very different vocal corpora by combining a common acoustic representation with matched observation opportunity, without treating their native sounds as equivalent.",
+    "publishedAt": "2026-10-27",
+    "author": "Mudit Sinha, Sanika Chavan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

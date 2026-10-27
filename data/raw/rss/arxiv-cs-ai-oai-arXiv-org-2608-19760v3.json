@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.19760v3",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.19760v3",
+    "title": "Credit Without Ground Truth: Claim-Matched Evaluation of Step-Level Credit with Finite Executed Replay",
+    "link": "https://arxiv.org/abs/2608.19760",
+    "description": "arXiv:2608.19760v3 Announce Type: replace-cross Abstract: Step-level credit evaluation can conflate numerical association with ordering and branch recovery with position-selection value. We test these distinctions in ALFWorld with two independently seeded replay banks: 27,520 continuations over 172 fixed turns. At 16 continuations per arm per bank, cross-bank replay-contrast associations are Pearson 0.736 and pooled Spearman 0.330. On 30 historical failures, A-count-selected branches at confidence-/implicit-selected positions gain 8.54 percentage points over same-position factual reruns, but their 3.33-point advantage over frozen-random positions under the same alternative-selection rule remains unresolved. Numerical association alone does not establish reliable pooled ordering; branch recovery alone does not establish better score-informed position selection. Historical judge alignment is modestly positive with an unresolved archived-control increment. Same-cohort C/D information-source comparisons and a short, sparse-exposure training pilot provide scope checks; incremental hindsight training utility remains unestablished. Findings are conditional on the tested policies, intervention support and finite budgets.",
+    "publishedAt": "2026-10-27",
+    "author": "Haiyue Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

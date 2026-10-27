@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.33525v1",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.33525v1",
+    "title": "Pacifo: An Efficient Fully Homomorphic Encryption-based Lightweight ResNet for Trustworthy Machine Learning as a Service",
+    "link": "https://arxiv.org/abs/2610.33525",
+    "description": "arXiv:2610.33525v1 Announce Type: cross Abstract: Machine Learning as a Service (MLaaS) has become a popular paradigm for deploying AI applications. However, it raises significant privacy concerns that the raw client data needs to be uploaded to the server for inference services. Private inference using Fully Homomorphic Encryption (FHE) offers a solution by allowing computations directly on encrypted data, with only the final results decrypted on a client side. However, current practical implementations still suffer from large computational overhead and high latency due to the cost of FHE operations. In this paper, we propose Pacifo, a framework that adapts customized fine-tuning strategies to efficiently evaluate the ResNet20 model in the context of FHE. Specifically, Pacifo introduces a public-private layer partitioning scheme and an efficient ReLU approximation, significantly reducing the number of private layers and costly FHE operations during inference. It also offers flexible security configurations to accommodate varying client privacy requirements. Compared to state-of-the-art FHE implementations of ResNet20, Pacifo achieves a speedup of $3.7-21.7\\times$ in runtime while effectively preserving $95\\%-99\\%$ of the original plaintext model accuracy across downstream tasks. Pacifo is open-sourced at https://github.com/BryceYangLi/Pacifo.",
+    "publishedAt": "2026-10-27",
+    "author": "Yang Li, Gang He, Ruichen Zhang, Guangyuan Liu, Yinqiu Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

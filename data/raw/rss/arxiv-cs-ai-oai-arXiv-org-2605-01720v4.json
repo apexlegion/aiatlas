@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.01720v4",
+  "fetchedAt": "2026-10-27T07:38:34.617Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.01720v4",
+    "title": "SignVerse-2M: A Two-Million-Clip Pose-Native Universe of 55+ Sign Languages",
+    "link": "https://arxiv.org/abs/2605.01720",
+    "description": "arXiv:2605.01720v4 Announce Type: replace-cross Abstract: Large-scale sign language resources usually pair RGB videos with text and support recognition, translation, and generation. However, RGB frames contain backgrounds, clothing, and other appearance information unrelated to signing motion. Representing the videos as whole-body keypoints such as DWPose removes much of this variation, produces a compact description of body, hand, and facial movement, and matches the input used by recent pose-guided video models. Existing datasets do not provide this representation at scale for in-the-wild sign language videos. We present SignVerse-2M, a multilingual dataset containing approximately two million pose clips from more than 55 sign languages. We process publicly available sign language videos with a shared DWPose pipeline, representing body, hand, and facial motion in the same keypoint format across all clips. The source videos include diverse signers, viewpoints, and recording environments. We also release the processing pipeline, task definitions, and SignDW Transformer baselines. Experiments show that the data supports multilingual text-to-pose modeling and that the generated poses can directly drive several recent pose-conditioned rendering systems.",
+    "publishedAt": "2026-10-27",
+    "author": "Sen Fang, Hongbin Zhong, Yanxin Zhang, Liwei Che, Dimitris N. Metaxas",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
