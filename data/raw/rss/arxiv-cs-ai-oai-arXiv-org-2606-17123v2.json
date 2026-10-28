@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.17123v2",
+  "fetchedAt": "2026-10-28T08:14:27.059Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.17123v2",
+    "title": "LineageMark: Multi-user White-box Watermarking for Contribution Tracing in Model Derivation Chains",
+    "link": "https://arxiv.org/abs/2606.17123",
+    "description": "arXiv:2606.17123v2 Announce Type: replace-cross Abstract: In open large language model (LLM) ecosystems, models are frequently adapted across multiple domains and applications, forming multi-stage derivation chains. Consequently, tracking and verifying historical contributions is essential for model provenance and intellectual property protection. However, existing watermarking methods are mainly designed for single-user, one-time embeddings, often fail under repeated model derivation and incremental updates. To address this problem, we propose LineageMark, a multi-user white-box watermarking framework for model derivation chains. The framework encodes watermarks in model parameters using a projection-based approach. Stable carriers are first selected to reduce sensitivity to model changes, each watermark bit is then represented as a projection statistic over these carriers. Additional watermark insertions introduce only bounded perturbations in the projection space, and margin constraints are used to maintain signal integrity. We evaluate the effectiveness of LineageMark in multi-stage model derivation chains. Experimental results show that LineageMark preserves contributor watermarks across multi-stage derivation and supports incremental multi-user watermark insertion. Furthermore, it exhibits robustness against perturbations such as re-watermarking, fine-tuning, quantization, and pruning.",
+    "publishedAt": "2026-10-28",
+    "author": "Bingxue Zhang, Xiaofeng Xu, Feida Zhu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

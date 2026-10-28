@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.20273v2",
+  "fetchedAt": "2026-10-28T08:14:27.059Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.20273v2",
+    "title": "A Computationally Efficient Multi-Section Whole Slide Image Analysis for Capturing Prostate Cancer Multifocality in Biochemical Recurrence Prediction",
+    "link": "https://arxiv.org/abs/2603.20273",
+    "description": "arXiv:2603.20273v2 Announce Type: replace-cross Abstract: Prostate cancer is among the most frequently diagnosed malignancies in men worldwide. However, precise prediction of biochemical recurrence (BCR) after radical prostatectomy remains challenging. Here, we propose a computationally efficient multi section whole slide image analysis framework designed to capture the whole gland tumor landscape. We curated a large scale dataset comprising 23,451 slides from 789 patients and systematically optimized patch and slide sub sampling to substantially reduce the computational cost of training and inference. Under this efficient configuration, the framework achieved strong predictive performance for 1- and 2-year BCR, with discrimination and clinical net benefit comparable to or exceeding those of established clinical benchmarks. In multivariable Cox proportional hazards analysis, the AI derived risk score remained an independent prognostic factor among the covariates examined, and its integration with clinical variables further improved prognostic performance. External validation in an independent cohort provided preliminary evidence of transferability. Finally, attention-dispersion analysis showed that the model drew prognostic information from multiple sections, consistent with the multifocal nature of prostate cancer. Collectively, these findings support the potential of multi section slide analysis as a scalable approach for postoperative BCR risk assessment in prostate cancer.",
+    "publishedAt": "2026-10-28",
+    "author": "Yesung Cho, Dongmyung Shin, Sujeong Hong, Jooyeon Lee, Seongmin Park, Geongyu Lee, Won Young Park, Bongjin Park, Jongbae Park, Hong Koo Ha",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

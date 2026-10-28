@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.06621v5",
+  "fetchedAt": "2026-10-28T08:14:27.059Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.06621v5",
+    "title": "NxN E-valuation: Hypothesis Certification via a Conformal CRT Null",
+    "link": "https://arxiv.org/abs/2608.06621",
+    "description": "arXiv:2608.06621v5 Announce Type: replace Abstract: Language models now propose hypotheses faster than anyone can check them, so the step that certifies them must need nothing from the proposer but the hypothesis. We state three requirements for such a step -- per-hypothesis automatable, attributable and diagnostic -- and introduce NxN e-valuation, which meets them. A hypothesis names a scope, the units it is about, and gives each of them a restriction that scores its outcome. The units of one scope serve as nulls for one another, so no resampling model is written per hypothesis; the algorithm certifies a stable, scope-level association and reports whether the scope, the restriction, or which unit receives which restriction carries the prediction. For independently drawn units, betting e-values bound the chance of a false certificate for each hypothesis in finite samples, under stated nulls. A betting lower bound on the share of units that carry the association gates every certificate, and an asymptotically valid equivalence test calls the restrictions shared only when it rejects differences between them above a declared noise ceiling. We test it on planted data, on randomized intervention data, and on real purchase data with 285 hypotheses that language models wrote without knowing our method or our classes, labeled by human experts. Meeting all three requirements costs no accuracy: NxN makes 692 correct decisions in 693 with one false certificate, against 659 with four for a composite of CRT tests that returns our verdicts but needs a resampling model per hypothesis, and 224 with 468 for held-out validation. Removing any of our statistics merges a verdict that certifies with one that rejects. The certificates concern predictive association, not causality.",
+    "publishedAt": "2026-10-28",
+    "author": "Bin Wang, Yan Zhong, Zhengyu Zhang, Liang Luo, Buyun Zhang, Ellie Wen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

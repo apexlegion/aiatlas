@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.22688v3",
+  "fetchedAt": "2026-10-28T08:14:27.059Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.22688v3",
+    "title": "DIP-CAD: A Design-Intent-Preserving Agent Harness for Parametric CAD Modeling",
+    "link": "https://arxiv.org/abs/2609.22688",
+    "description": "arXiv:2609.22688v3 Announce Type: replace-cross Abstract: Parametric CAD modeling requires not only matching the target shape, but also preserving design intent under parameter edits. However, most existing methods focus on improving static shape generation accuracy, while the dependencies that govern later edits are often overlooked. To tackle this issue, we present DIP-CAD, a design-intent-preserving agent harness for generating parametric CAD models from images. DIP-CAD combines vision-language model reasoning with CAD kernel operations to establish dependencies that encode the design intent. In parametric CAD, these dependencies are mainly established through geometry references in modeling commands and constraints in parametric sketches. At the command level, ID-based explicit geometry reference binds modeling commands to selected faces, edges, or vertices. At the sketch level, a local-coordinate bridge ensures accurate sketch placement, providing the basis for correctly establishing sketch constraints. Constraints among sketch primitives and constraints to external projected geometry further preserve both internal sketch relationships and dependencies on existing geometry. To provide a more comprehensive data foundation for parametric CAD modeling tasks, we introduce the Geometry Explicit Reference Dataset (GERD), whose structured data format links stepwise modeling commands to intermediate CAD models through explicit geometry references. On GERD-EVL and a DeepCAD test subset, DIP-CAD improves mIoU for static model generation by 11.1% and 5.6%, respectively. In parameter-editing evaluations, the corresponding mIoU improvements are 7.0% and 4.2%. Case studies further demonstrate how parameter edits drive shape updates while preserving design intent.",
+    "publishedAt": "2026-10-28",
+    "author": "Xi Cheng, Chenxi Zhai, Hang Cheng, Mingyu Fan, Pingfa Feng, Long Zeng",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-36108v1",
+  "name": "Log-To-Leak: Prompt Injection Attacks on Tool-Using LLM Agents via the Model Context Protocol",
+  "summary": "arXiv:2610.36108v1 Announce Type: cross Abstract: LLM agents increasingly access external tools through the Model Context Protocol (MCP), but the natural-language metadata used to describe those to...",
+  "description": "arXiv:2610.36108v1 Announce Type: cross Abstract: LLM agents increasingly access external tools through the Model Context Protocol (MCP), but the natural-language metadata used to describe those tools creates a prompt-injection surface. Within this established tool-poisoning surface, we study Log-To-Leak, an additive post-hoc logging attack that induces a separate attacker-controlled call after...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.36108"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-28",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.36108"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-28",
+  "expiryAt": "2026-11-27T00:00:00.000Z",
+  "author": "Yuepeng Hu, Chongyu Fan, Sirat Samyoun, Jian Du"
+}

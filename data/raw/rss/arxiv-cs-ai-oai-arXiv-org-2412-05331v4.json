@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2412.05331v4",
+  "fetchedAt": "2026-10-28T08:14:27.059Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2412.05331v4",
+    "title": "Smart Surveillance: Deep Learning and Hybrid Approaches for Dynamic Scene Analysis, Object Detection and Motion Tracking",
+    "link": "https://arxiv.org/abs/2412.05331",
+    "description": "arXiv:2412.05331v4 Announce Type: replace-cross Abstract: Event-triggered recording reduces the footage a surveillance camera must store, but the trigger decides how much idle video is kept, how many events are missed, and how much computation is spent. We compare six motion triggers (frame differencing, dense optical flow, MOG2, KNN, CNT, GSOC), a CNN detector, strided detection, and three motion-gated hybrids under one recording policy, on a benchmark of seven static-camera scenes (5,800 frames, 27 annotated events) with thresholds transferred to unseen scenes by leave-one-video-out. Detector-based triggers stored 19-28% of idle frames, against 36-89% for motion triggers. Under simulated camera jitter, frame differencing, optical flow, MOG2 and KNN stored 97-100% of idle frames, while detector triggers stayed below 29%. Running the detector on every 8th frame kept 99.7% of event frames at 9.8 ms of CPU per frame, cheaper and more robust than gating it with background subtraction. On VisDrone, raising YOLO11n's input from 640 to 1280 px raised AP from 15.5 to 26.8, more than a larger model, and INT8 quantization cut latency by 17% for 0.3 AP. In tracking, longer track memory raised IDF1 from 70.5 to 76.7, but every tracker recovered only 39-44% of overlapped people, because detection rather than association failed.",
+    "publishedAt": "2026-10-28",
+    "author": "Shahran Rahman Alve",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

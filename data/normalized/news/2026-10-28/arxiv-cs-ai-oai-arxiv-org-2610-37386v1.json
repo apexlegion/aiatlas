@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-37386v1",
+  "name": "Channel Selection for Mixture-of-Experts Decoding Needs No Calibration Data",
+  "summary": "arXiv:2610.37386v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) models are bottlenecked by loading routed-expert weights from memory during interactive decoding at small batch sizes. Bec...",
+  "description": "arXiv:2610.37386v1 Announce Type: cross Abstract: Mixture-of-Experts (MoE) models are bottlenecked by loading routed-expert weights from memory during interactive decoding at small batch sizes. Because most intermediate channels in a routed expert contribute little to any single token, channel selectors predict which channels matter and read only their weights, typically keeping channels above...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.37386"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-28",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.37386"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-28",
+  "expiryAt": "2026-11-27T00:00:00.000Z",
+  "author": "Geunhyoung Kim, Sung Ju Hwang"
+}

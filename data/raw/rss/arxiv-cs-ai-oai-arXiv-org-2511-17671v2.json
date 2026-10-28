@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2511.17671v2",
+  "fetchedAt": "2026-10-28T08:14:27.059Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2511.17671v2",
+    "title": "Cross-User Poisoning: User-Task Boundary Failures in Multi-User Collaborative Language Agents",
+    "link": "https://arxiv.org/abs/2511.17671",
+    "description": "arXiv:2511.17671v2 Announce Type: replace-cross Abstract: Language agents are moving from single-user assistants to shared collaborators in workspaces, forums, and group chats. A shared agent observes interleaved messages from multiple users, maintains persistent context, and executes tool actions, creating a boundary problem absent from standard single-user agents: the agent must decide not only whether an instruction is safe, but which user or task it is allowed to govern. We identify cross-user poisoning (CUP), where an adversary injects a message into shared context that is later applied while the agent serves a benign user, causing unauthorized actions or responses outside the instruction's intended scope. We validate CUP on two deployed multi-user agents, Continua and ElizaOS, and introduce MURMUR, a framework for evaluating shared-context agents under concurrent multi-user interactions. Across Slack, Workspace, and Airline domains, CUP achieves high attack success, persists across later interactions, and remains substantially more effective than matched prompt-injection attacks. We evaluate boundary-scoping defenses and find that context summarization alone is insufficient, while task clustering and provenance prompting substantially reduce non-adaptive propagation. These results show that robust multi-user agents require explicit user/task scoping rather than generic input filtering or context compression.",
+    "publishedAt": "2026-10-28",
+    "author": "Atharv Singh Patlan, Peiyao Sheng, S. Ashwin Hebbar, Prateek Mittal, Pramod Viswanath",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

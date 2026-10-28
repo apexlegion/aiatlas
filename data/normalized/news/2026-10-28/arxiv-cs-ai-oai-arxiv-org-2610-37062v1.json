@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-37062v1",
+  "name": "EnergyCal: Taming Loss Spikes in Muon-Family Optimizers for Sparse MoE Training",
+  "summary": "arXiv:2610.37062v1 Announce Type: cross Abstract: Sparse mixture-of-experts (MoE) language-model training can exhibit large loss spikes with Muon-family optimizers. We introduce EnergyCal, a lightw...",
+  "description": "arXiv:2610.37062v1 Announce Type: cross Abstract: Sparse mixture-of-experts (MoE) language-model training can exhibit large loss spikes with Muon-family optimizers. We introduce EnergyCal, a lightweight rule that attenuates routed-expert updates according to the normalized squared Frobenius norm of their finite-step Newton-Schulz directions. EnergyCal leaves the spectral transform unchanged and...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.37062"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-28",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.37062"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-28",
+  "expiryAt": "2026-11-27T00:00:00.000Z",
+  "author": "Masato Fujitake"
+}

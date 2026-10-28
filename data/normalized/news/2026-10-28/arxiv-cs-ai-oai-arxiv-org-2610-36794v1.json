@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-36794v1",
+  "name": "Select-TTT: Query-Conditioned Selective Fast Weight Updates for In-Place Test-Time Training",
+  "summary": "arXiv:2610.36794v1 Announce Type: cross Abstract: Test-time training (TTT) enables a deployed language model to internalize incoming context on-the-fly into a small set of fast-weight parameters, r...",
+  "description": "arXiv:2610.36794v1 Announce Type: cross Abstract: Test-time training (TTT) enables a deployed language model to internalize incoming context on-the-fly into a small set of fast-weight parameters, rather than merely treating it as transient context for attention. In-Place TTT recently made this idea practical for large language models by repurposing the down-projection of standard MLP blocks as...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.36794"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-28",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.36794"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-28",
+  "expiryAt": "2026-11-27T00:00:00.000Z",
+  "author": "Yue Wu, Yang Zhang, Weinan Gan, Chongming Gao, Xinsen Guo, Xiaoyuan Li, Fuli Feng"
+}

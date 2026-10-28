@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2610-37547",
+  "name": "When, Where, and What to Correct: Human-Guided Adaptive Residual Correction for Robot Policies",
+  "summary": "Imitation policies that reliably execute most of a manipulation trajectory can still fail in localized regions requiring last-mile precision. Updating the full policy or exploring residual actions...",
+  "description": "Imitation policies that reliably execute most of a manipulation trajectory can still fail in localized regions requiring last-mile precision. Updating the full policy or exploring residual actions everywhere treats this local failure as a global learning problem. We introduce Adaptive Residual Correction (ARC), a lightweight post-training module that uses reinforcement learning (RL) to learn a residual correction on top of a frozen policy while using sparse human corrections to structure autonomous exploration. Rather than treating human corrections as imitation targets, ARC uses pre-interv...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.37547v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-27",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2610.37547v1"
+    }
+  ],
+  "authors": [
+    "Anukriti Singh",
+    "Maxime Caniot",
+    "Pratap Tokekar",
+    "Firas Abi-Farraj"
+  ],
+  "paperId": "2610.37547",
+  "category": "cs.RO",
+  "publishedAt": "2026-10-27",
+  "abstract": "Imitation policies that reliably execute most of a manipulation trajectory can still fail in localized regions requiring last-mile precision. Updating the full policy or exploring residual actions everywhere treats this local failure as a global learning problem. We introduce Adaptive Residual Correction (ARC), a lightweight post-training module that uses reinforcement learning (RL) to learn a residual correction on top of a frozen policy while using sparse human corrections to structure autonomous exploration. Rather than treating human corrections as imitation targets, ARC uses pre-interv..."
+}

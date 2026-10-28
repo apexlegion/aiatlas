@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.36580v1",
+  "fetchedAt": "2026-10-28T08:14:27.059Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.36580v1",
+    "title": "Follow the Herd: A Data-Driven Approach for Actionable Recourse",
+    "link": "https://arxiv.org/abs/2610.36580",
+    "description": "arXiv:2610.36580v1 Announce Type: new Abstract: As machine learning systems make increasingly greater decisions about people's lives, it is critical to provide users with actionable recourse about how they can achieve their desired outcomes. This problem is currently tackled by relying on expensive human supervision which involves hand-designing a cost function before searching for low-cost actions that achieve the desired outcome. In this paper, we propose \\textit{``Data-Driven Action Recourse\"} (DDAR), the first approach for providing action recourse without requiring costly supervision from humans about action costs. We build upon the notion that highly likely trajectories in the historical user data should be associated with lower costs. With this, DDAR first builds a dynamics model of historical user trajectories. Under this model, it then searches for trajectories that achieve the desired outcome. In experiments, we find that this simple approach recommends plausible action recourse without requiring human supervision, achieving lower action costs than the existing approaches.",
+    "publishedAt": "2026-10-28",
+    "author": "Nishtha Madaan, Srikanta Bedathur",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

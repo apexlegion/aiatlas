@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.32499v2",
+  "fetchedAt": "2026-10-28T08:14:27.059Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.32499v2",
+    "title": "Learning an Anchored Prompt Space for Continual Adaptation of Large Language Models",
+    "link": "https://arxiv.org/abs/2609.32499",
+    "description": "arXiv:2609.32499v2 Announce Type: replace-cross Abstract: Continually adapting large language models requires acquiring new knowledge while preserving previously learned capabilities. Although jointly adapting model parameters and task-specific soft prompts is promising, it has two key limitations: previously learned prompts may lose effectiveness as the model evolves, and relationships among prompts that could support cross-task transfer are not explicitly learned. We propose Learning an Anchored Prompt Space (LAPS), which preserves historical prompt effectiveness and learns relationships among task-specific soft prompts to facilitate positive transfer. Historical prompts are first aligned with the updated model through self-distillation. LAPS then constructs an anchored prompt space whose vertices correspond to learned task-specific soft prompts and whose intermediate geometry is shaped by learnable B\\'ezier control prompts. Once this space is learned, LAPS identifies the best-performing prompt for each task on its validation set, allowing the selected prompt to draw on knowledge acquired from related tasks. Experiments on the TRACE benchmark across three Qwen3 model scales show that LAPS consistently outperforms existing distillation-based, prompt-based, and joint prompt-parameter adaptation methods, improving overall task performance while reducing forgetting.",
+    "publishedAt": "2026-10-28",
+    "author": "Rongguang Ye, Zhan Zhuang, Yichen Wu, Ming Tang, Kede Ma",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

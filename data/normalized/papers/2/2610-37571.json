@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2610-37571",
+  "name": "TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information",
+  "summary": "Many real-world decisions require teams to integrate information distributed across participants. Yet AI agents are still primarily trained and benchmarked in isolation. We introduce TeamGym, an en...",
+  "description": "Many real-world decisions require teams to integrate information distributed across participants. Yet AI agents are still primarily trained and benchmarked in isolation. We introduce TeamGym, an environment for evaluating and training language model-based agents on team decision-making problems constructed from real-world legal, finance, medical, and software engineering corpora. TeamGym introduces a method to identify a minimal set of facts, each element of which is necessary and all of which are collectively sufficient for a correct final decision, which we call pivotal information. This...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.37571v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-27",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.37571v1"
+    }
+  ],
+  "authors": [
+    "Chanwoo Park",
+    "Jaywoong Jeong",
+    "Zachary Wojtowicz",
+    "Yubin Kim",
+    "Taekyun Lee",
+    "Kaiqing Zhang",
+    "Asuman Ozdaglar"
+  ],
+  "paperId": "2610.37571",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-27",
+  "abstract": "Many real-world decisions require teams to integrate information distributed across participants. Yet AI agents are still primarily trained and benchmarked in isolation. We introduce TeamGym, an environment for evaluating and training language model-based agents on team decision-making problems constructed from real-world legal, finance, medical, and software engineering corpora. TeamGym introduces a method to identify a minimal set of facts, each element of which is necessary and all of which are collectively sufficient for a correct final decision, which we call pivotal information. This..."
+}

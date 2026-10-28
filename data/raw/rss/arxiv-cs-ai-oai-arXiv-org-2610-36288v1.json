@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.36288v1",
+  "fetchedAt": "2026-10-28T08:14:27.059Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.36288v1",
+    "title": "BUSTA: Teaching Small Language Models to Reason About Binary Execution",
+    "link": "https://arxiv.org/abs/2610.36288",
+    "description": "arXiv:2610.36288v1 Announce Type: cross Abstract: Large Language Models (LLM) are increasingly applied to Reverse Engineering (RE) workflows. RE, however, differs from common LLM coding tasks as it requires models to reason about low-level program behavior. Furthermore, the deployment of tooling in resource-constrained sandboxed RE environments limits the ability to use frontier-scale solutions. We examine whether a targeted LLM training approach can transfer distinct RE skills to open models via inverse basic-block execution: given an x86-64 basic block and a desired output register state, the model predicts the input register values that produce it. Fine-tuning \\texttt{Qwen3-1.7B} and \\texttt{Nemotron-3-Nano} with Group Relative Policy Optimization (GRPO) raises knowable-register prediction accuracy from 73.2\\% to 85.3\\% and from 63.3\\% to 95.2\\%, respectively. Frontier models still score highest (up to 99.2\\%), but our fine-tuned \\texttt{Nemotron-3-Nano} comes within four points at a fraction of the parameter count. We release both fine-tuned models and the training dataset.",
+    "publishedAt": "2026-10-28",
+    "author": "Ritika Poddar, Aidan Fennelly, Deirdre Murphy, Eric Wolos, Corre L. Steele, Michael Doyle",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.13884v3",
+  "fetchedAt": "2026-10-28T08:14:27.059Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.13884v3",
+    "title": "Experience Memory Graph: Extracting Reusable Correction Knowledge from Agent Trajectories",
+    "link": "https://arxiv.org/abs/2607.13884",
+    "description": "arXiv:2607.13884v3 Announce Type: replace Abstract: Large Language Model (LLM) agents have shown remarkable capabilities in autonomous decision-making by generating sequential trajectories of states, actions, and observations. However, in complex, long-horizon tasks, these agents frequently suffer from compounding errors and struggle to recover from failures. Despite advances in experience memory, extracting reliable and transferable correction knowledge from historical trajectories remains challenging. Existing methods, whether based on test-time reflection or offline memory construction, largely rely on LLMs to diagnose failures and formulate corrective strategies, which can produce brittle or task-specific insights that are difficult to generalize. To address this challenge, we propose Experience Memory Graph (EMG), a framework that reformulates agent failure recovery as a graph matching problem. During offline construction on the training set, we convert both failed exploration trajectories and successful expert trajectories into directed action decision graphs. By matching these graphs, we extract common subgraphs and graph edit paths that explicitly indicate how to correct failures, and store them in a memory graph with intra-task nodes and cross-task edges. At test time, EMG retrieves relevant insights and guides the agent in a single test-time attempt without additional reflection-and-replay rounds. Experiments on ALFWorld and ScienceWorld demonstrate consistent improvements over the evaluated memory construction and competitive baselines across seen and unseen splits.",
+    "publishedAt": "2026-10-28",
+    "author": "Wenjun Wang, Yuchen Fang, Fengrui Liu, Zibo Liang, Kai Zheng",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

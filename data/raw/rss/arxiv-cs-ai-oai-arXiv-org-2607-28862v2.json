@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.28862v2",
+  "fetchedAt": "2026-10-28T08:14:27.059Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.28862v2",
+    "title": "TextCloak: Safeguarding Data from Unauthorized LLM Fine-Tuning via RL-Driven Unlearnable Examples",
+    "link": "https://arxiv.org/abs/2607.28862",
+    "description": "arXiv:2607.28862v2 Announce Type: replace-cross Abstract: The development of Large Language Models (LLMs) has led to significant advances across a wide range of language tasks, while simultaneously raising growing concerns about unauthorized online data exploitation and privacy leakage. Unlearnable examples (UEs) emerge as a promising defense by injecting crafted perturbations into data such that models trained on them exhibit degraded utility. However, existing methods for text protection are primarily designed for classification tasks and discriminative language models, which limits their broad applicability (e.g., instruction following or reasoning) in LLMs. In this work, we propose **TextCloak**, an RL-driven data synthesis framework that safeguards textual data against unauthorized LLM fine-tuning. TextCloak employs a *UE generative policy* that transforms clean text into unlearnable examples while preserving semantic fidelity and linguistic naturalness. To optimize the policy, we introduce **GRPO-UE**, which simulates the attacker's LLM fine-tuning and rewards downstream degradation via group-relative policy optimization. This overall formulates a bi-level optimization loop, allowing the generator to discover effective protective patterns. Comprehensive experiments on six publicly available datasets and nine state-of-the-art LLMs demonstrate that TextCloak consistently impairs unauthorized LLM fine-tuning while maintaining text utility for legitimate use. Further analyses confirm its transferability and robustness across model architectures, training configurations, and adaptive attacks, highlighting its broad applicability as a practical defense for online content.",
+    "publishedAt": "2026-10-28",
+    "author": "Chengshuai Zhao, Pingchuan Ma, Dawei Li, Bohan Jiang, Zhiyuan Yu, Zhen Tan, Huan Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

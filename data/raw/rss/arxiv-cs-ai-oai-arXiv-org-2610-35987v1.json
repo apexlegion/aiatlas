@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.35987v1",
+  "fetchedAt": "2026-10-28T08:14:27.059Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.35987v1",
+    "title": "PROBE: Frontier Coding Agents Find Different Bugs Than Maintainers Fix",
+    "link": "https://arxiv.org/abs/2610.35987",
+    "description": "arXiv:2610.35987v1 Announce Type: cross Abstract: Proactive bug discovery is an important software-engineering problem. Even though coding agents are already widely deployed in this domain, their capabilities remain understudied. In particular, the challenging task of finding all bugs that human maintainers would repair across an entire repository has not been studied yet. To close this gap, we introduce PROBE, a benchmark consisting of all 2,457 bugs fixed over the course of 18 months across 20 diverse GitHub repositories, together with a method for matching candidate findings to this partial reference set. We evaluate coding agents across frontier models and find they all achieve a recall of below $21\\%$ and a precision of less than $9\\%$ with respect to the reference set. While stronger models increase recall substantially from $8\\%$ to $17\\%$, they do not improve precision. Surprisingly, despite the low precision, LLM and human evaluators still judge $85\\%$ of findings valid. Crucially, we find that found bug distributions are similar across agents but differ substantially from those of bugs fixed by maintainers. The practical relevance of bug discovery and the low recall of frontier models make this benchmark a valuable resource for both model users and developers.",
+    "publishedAt": "2026-10-28",
+    "author": "Marco Paina, Mark Niklas M\\\"uller, Niels M\\\"undler-Sasahara, Martin Vechev",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

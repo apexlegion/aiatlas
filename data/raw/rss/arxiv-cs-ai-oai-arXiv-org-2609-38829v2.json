@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.38829v2",
+  "fetchedAt": "2026-10-28T08:14:27.059Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.38829v2",
+    "title": "Diversity Combining for Multi-Path LLM Reasoning",
+    "link": "https://arxiv.org/abs/2609.38829",
+    "description": "arXiv:2609.38829v2 Announce Type: replace Abstract: Multi-path reasoning methods such as self-consistency (SC) sample $K$ reasoning paths and choose the most frequent answer. However, their gains quickly plateau as $K$ increases, and locating this saturation point currently requires fitting a scaling model to accuracies measured at several values of $K$ or stopping online per query. We formalize multi-path LLM reasoning as a diversity combining problem from wireless communications: each path is a noisy channel observation, and the pairwise correlation of path correctness caps the design-effect effective sample size of the vote at a finite ceiling. Generalized least squares (GLS) analysis shows that, for paths with equal gains, the optimal linear combiner of latent embeddings is uniform exactly when every row of the path covariance has the same sum, as under exchangeability, supporting majority vote as the natural default in standard SC while leaving room for weighting or pruning under heterogeneous prompt-template branches. Across 5 models and 12 benchmarks, prompt-template diversity reduces path correlation in $55$ of $60$ model-benchmark cells, with a mean relative reduction of $16\\%$ and reductions in every task domain. We derive an Adaptive-K rule that uses a four-path pilot to select $K^*$, retaining $96$--$103\\%$ of MV@$K{=}32$ accuracy across Math, QA, and NLU.",
+    "publishedAt": "2026-10-28",
+    "author": "Guangsheng Yu, Litianyi Zhang, Qin Wang, Xu Wang, Mingyuan Li, Shaoxiong Ji, Ren Ping Liu, Massimo Piccardi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

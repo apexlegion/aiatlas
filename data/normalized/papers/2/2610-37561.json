@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2610-37561",
+  "name": "When uncertainty quantification fails: structural vulnerabilities and corrections for selective prediction under clinical class imbalance",
+  "summary": "Background. Selective prediction systems improve the safety of clinical artificial intelligence by deferring ambiguous cases to human experts while automating high-confidence decisions. However, th...",
+  "description": "Background. Selective prediction systems improve the safety of clinical artificial intelligence by deferring ambiguous cases to human experts while automating high-confidence decisions. However, this safety mechanism relies entirely on the premise that uncertainty scores accurately reflect clinical ambiguity. In prognostic tasks characterized by severe class imbalance, where the clinical outcome of interest is a minority, this assumption breaks down. Standard uncertainty measures cease to capture clinically aligned ambiguity; instead, they become a proxy for class membership, systematically...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.37561v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-27",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.37561v1"
+    }
+  ],
+  "authors": [
+    "Walter Endrizzi",
+    "Flavio Ragni",
+    "Raffaele Marchesi",
+    "Stefano Bovo",
+    "Monica Moroni",
+    "Giuseppe Jurman",
+    "Venet Osmani"
+  ],
+  "paperId": "2610.37561",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-27",
+  "abstract": "Background. Selective prediction systems improve the safety of clinical artificial intelligence by deferring ambiguous cases to human experts while automating high-confidence decisions. However, this safety mechanism relies entirely on the premise that uncertainty scores accurately reflect clinical ambiguity. In prognostic tasks characterized by severe class imbalance, where the clinical outcome of interest is a minority, this assumption breaks down. Standard uncertainty measures cease to capture clinically aligned ambiguity; instead, they become a proxy for class membership, systematically..."
+}

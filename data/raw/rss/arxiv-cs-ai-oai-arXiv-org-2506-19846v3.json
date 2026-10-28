@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2506.19846v3",
+  "fetchedAt": "2026-10-28T08:14:27.059Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2506.19846v3",
+    "title": "HiMA-Ecom: A Long-Horizon Memory Benchmark for Hierarchical Multi-Agent E-commerce Assistants",
+    "link": "https://arxiv.org/abs/2506.19846",
+    "description": "arXiv:2506.19846v3 Announce Type: replace Abstract: Long-horizon agentic systems become long-context systems by accumulation rather than through a single long document, since every step reassembles a prompt from role instructions, tool and sub-agent descriptions, recalled memories, dialogue history, and previous tool outputs, separately for every agent. This paper studies how such accumulated context can be trained, evaluated, and managed in hierarchical multi-agent assistants. We present HiMA-Ecom, a hierarchical multi-agent benchmark for e-commerce assistants with 22.8K instances, of which 17.7K carry memory entries in context, pairing agent-specific supervised fine-tuning data with system-level supervision for end-to-end multi-agent reinforcement learning. Building upon it, HiMA-R1 keeps the context budget of a trajectory under control through Variance-Reduction Group Relative Policy Optimization (VR-GRPO), which samples along an initial trajectory so that sampling cost grows additively with trajectory length and updates the agents with the largest reward variance, together with an efficiency reward on trajectory length and a memory evolution mechanism that repurposes GRPO rewards as cost-free signals for what stays in context. Agents built upon 3B and 7B open-source models match DeepSeek-R1 and surpass DeepSeek-V3 by 6.0 points on average, while reward-driven memory reduces the update steps needed for convergence by roughly 55%.",
+    "publishedAt": "2026-10-28",
+    "author": "Junxing Hu, Ai Han, Haolan Zhan, Pu Wei, Zhiqian Zhang, Yuhang Guo, Jiawei Lu, Zhen Chen, Haoran Li, Zicheng Zhang, Ling Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
