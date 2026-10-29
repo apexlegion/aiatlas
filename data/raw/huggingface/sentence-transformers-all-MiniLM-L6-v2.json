@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "sentence-transformers/all-MiniLM-L6-v2",
-  "fetchedAt": "2026-10-28T08:14:09.701Z",
+  "fetchedAt": "2026-10-29T08:19:33.308Z",
   "data": {
     "_id": "621ffdc136468d709f180294",
     "id": "sentence-transformers/all-MiniLM-L6-v2",
@@ -57,8 +57,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 190086325,
-    "likes": 6030,
+    "downloads": 187976215,
+    "likes": 6038,
     "modelId": "sentence-transformers/all-MiniLM-L6-v2",
     "author": "sentence-transformers",
     "sha": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
@@ -226,28 +226,26 @@
       }
     ],
     "spaces": [
+      "Arbazkhan-cs/Retrieval-Augmented-Generation",
       "BIGJUTT/model-pulse",
       "embedl/hfviewer",
       "MTEB-BR/leaderboard",
-      "hakari-bench/leaderboard",
-      "Arbazkhan-cs/Retrieval-Augmented-Generation",
       "nickmuchi/semantic-search-with-retrieve-and-rerank",
       "Mr-TD/RAG-PDF-QnA-ChatBot",
+      "hakari-bench/leaderboard",
       "aseifert/ExplaiNER",
       "Huggingansuman/red_teaming_env",
       "syzdekbr/item_text_referencing_rag",
       "AjayChaki/chatbot-haaka",
-      "prajwalpujari16/menmo-backend",
       "MCP-1st-Birthday/guardrails-demo-agent",
       "Vanshcc/qa-rag-fastapi",
-      "gianlucamazza/emotional-memory-demo",
       "Karthikp1703/VeriDoc-AI",
       "IamBatman07/Semantic-Movie-Recommender",
       "teja0566/Ai_health_assisstant",
-      "Nituhimani/gfz",
-      "trigent09/ai-backend",
       "Jerrytrade/PredictIN_Server",
       "andiprayogi/vektor-semantik",
+      "tenperformer/healthcare_rag_system_langchain",
+      "JakoBob/Campus_Assistant",
       "cvachet/pdf-chatbot",
       "marcosv/InstructIR",
       "JournalistsonHF/ai-scraper",
@@ -325,7 +323,9 @@
       "RaviRaj988/Asking-question-to-video",
       "vjain/Trading-Chatbot",
       "OuroborosM/STLA-BABY",
-      "captain-awesome/Docuverse-zephyr-beta"
+      "captain-awesome/Docuverse-zephyr-beta",
+      "JDWebProgrammer/chatbot",
+      "Gololias/MetroCuadrado"
     ],
     "createdAt": "2022-03-02T23:29:05.000Z",
     "safetensors": {
