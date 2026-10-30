@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2610-40545",
+  "name": "Retrieval as Traversal: Value-Indexed Memory for Stateful Long-Context Agents",
+  "summary": "Long-context models repeatedly solve closely related retrieval problems. Attention or global retrieval can retain large stores, but each forward pass again searches for what matters. Recurrent comp...",
+  "description": "Long-context models repeatedly solve closely related retrieval problems. Attention or global retrieval can retain large stores, but each forward pass again searches for what matters. Recurrent compression avoids this search only by deciding earlier what information to preserve. Neither mechanism directly exploits that useful memories at neighbouring retrieval steps may substantially overlap. We propose an alternative in which retrieval is a persistent local traversal through an address space. We separate a memory's content from its address. Utility is defined by the information revealed by...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.40545v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-29",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.40545v1"
+    }
+  ],
+  "authors": [
+    "Daniel Strauß",
+    "Zhenshan Bing",
+    "Alois Knoll"
+  ],
+  "paperId": "2610.40545",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-29",
+  "abstract": "Long-context models repeatedly solve closely related retrieval problems. Attention or global retrieval can retain large stores, but each forward pass again searches for what matters. Recurrent compression avoids this search only by deciding earlier what information to preserve. Neither mechanism directly exploits that useful memories at neighbouring retrieval steps may substantially overlap. We propose an alternative in which retrieval is a persistent local traversal through an address space. We separate a memory's content from its address. Utility is defined by the information revealed by..."
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T08:19:36.873Z",
+  "generatedAt": "2026-10-30T08:27:29.134Z",
   "entries": {
     "automatic1111-stable-diffusion-webui": {
       "slug": "automatic1111-stable-diffusion-webui",
@@ -176,224 +176,301 @@
         "jupyter notebook"
       ]
     },
-    "2610-37547": {
-      "slug": "2610-37547",
-      "typedId": "paper/2610-37547",
-      "name": "When, Where, and What to Correct: Human-Guided Adaptive Residual Correction for Robot Policies",
+    "2610-40532": {
+      "slug": "2610-40532",
+      "typedId": "paper/2610-40532",
+      "name": "BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing",
       "type": "paper",
-      "summary": "Imitation policies that reliably execute most of a manipulation trajectory can still fail in localized regions requiring last-mile precision. Updating the full policy or exploring residual actions...",
+      "summary": "How effectively can vision-language-action (VLA) models learn diverse language-conditioned behaviors as training data scales? Investigating this question requires large and varied robot datasets, w...",
       "tags": [
         "arxiv",
         "cs.RO"
       ]
     },
-    "2610-37550": {
-      "slug": "2610-37550",
-      "typedId": "paper/2610-37550",
-      "name": "Kinematic Constraint-Referenced Evaluation for Articulated Object Manipulation",
+    "2610-40535": {
+      "slug": "2610-40535",
+      "typedId": "paper/2610-40535",
+      "name": "Efficient Scalable Oversight via Rewinding",
       "type": "paper",
-      "summary": "Manipulation policies are evaluated predominantly by binary task success, which cannot tell whether the commanded gesture is the one the object's kinematics admit. We introduce Constraint-Reference...",
+      "summary": "Scalable oversight asks how a weak verifier can check the outputs of computations performed by more powerful AI systems. One proposed approach uses relativizing interactive proofs, in which a weak...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-40541": {
+      "slug": "2610-40541",
+      "typedId": "paper/2610-40541",
+      "name": "On the Fundamental Limits of Prefill-Based Decoding Length Prediction",
+      "type": "paper",
+      "summary": "Predicting how many tokens a large language model (LLM) will decode, using only prefill-phase hidden states, is a key primitive for inference scheduling. We show that current benchmarks conflate pr...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-40545": {
+      "slug": "2610-40545",
+      "typedId": "paper/2610-40545",
+      "name": "Retrieval as Traversal: Value-Indexed Memory for Stateful Long-Context Agents",
+      "type": "paper",
+      "summary": "Long-context models repeatedly solve closely related retrieval problems. Attention or global retrieval can retain large stores, but each forward pass again searches for what matters. Recurrent comp...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-40551": {
+      "slug": "2610-40551",
+      "typedId": "paper/2610-40551",
+      "name": "Ramanujan Challenge Results: AI-Assisted Evaluation Pipeline for Multi-Format Proofs",
+      "type": "paper",
+      "summary": "As AI's mathematical capabilities rapidly improve, meaningful benchmarks are shifting from university-level problems and math olympiads to research-level mathematics. The Ramanujan Challenge is a b...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-40556": {
+      "slug": "2610-40556",
+      "typedId": "paper/2610-40556",
+      "name": "Advancing Clinical Genomic Analysis with a Skill-Centred Agent",
+      "type": "paper",
+      "summary": "Clinical genomic analysis requires experts to integrate evolving guidelines, databases, and computational evidence. As sequencing has become increasingly accessible, this complex and labor-intensiv...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-40560": {
+      "slug": "2610-40560",
+      "typedId": "paper/2610-40560",
+      "name": "FARMS: A Verifiable Foundation for Automated Computational Science",
+      "type": "paper",
+      "summary": "Automated computational science could accelerate discovery by selecting, adapting and developing numerical methods. This prospect requires mathematical knowledge that AI systems can interpret and r...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-40563": {
+      "slug": "2610-40563",
+      "typedId": "paper/2610-40563",
+      "name": "Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns",
+      "type": "paper",
+      "summary": "This study investigates the capabilities of Large Language Models to simulate counselling clients in educational role-plays in comparison to human role-players. Initially, we recorded role-playing...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-40565": {
+      "slug": "2610-40565",
+      "typedId": "paper/2610-40565",
+      "name": "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
+      "type": "paper",
+      "summary": "Realistic, fast robotics simulations could enable large-scale training of embodied AI models that transfer to the real world. However, despite decades of progress, available simulations cover only...",
       "tags": [
         "arxiv",
         "cs.RO"
       ]
     },
-    "2610-37561": {
-      "slug": "2610-37561",
-      "typedId": "paper/2610-37561",
-      "name": "When uncertainty quantification fails: structural vulnerabilities and corrections for selective prediction under clinical class imbalance",
+    "2610-40578": {
+      "slug": "2610-40578",
+      "typedId": "paper/2610-40578",
+      "name": "VeriCUA: Verification as Agentic Exploration for Computer-Using Agents",
       "type": "paper",
-      "summary": "Background. Selective prediction systems improve the safety of clinical artificial intelligence by deferring ambiguous cases to human experts while automating high-confidence decisions. However, th...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2610-37567": {
-      "slug": "2610-37567",
-      "typedId": "paper/2610-37567",
-      "name": "Gym-Anything-RT: Scaling Real-Time Environments for Vision-Language Agents",
-      "type": "paper",
-      "summary": "AI agents have made substantial progress in domains where they have a non-trivial amount of time to deliberate between actions, such as mathematics, software engineering, and performing tasks on de...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2610-37571": {
-      "slug": "2610-37571",
-      "typedId": "paper/2610-37571",
-      "name": "TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information",
-      "type": "paper",
-      "summary": "Many real-world decisions require teams to integrate information distributed across participants. Yet AI agents are still primarily trained and benchmarked in isolation. We introduce TeamGym, an en...",
+      "summary": "Building and scaling computer-using agents (CUAs) across desktop, mobile, and web environments requires reliable task-completion verification for data curation, evaluation, and reinforcement learni...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2610-37584": {
-      "slug": "2610-37584",
-      "typedId": "paper/2610-37584",
-      "name": "REGER: Modeling inter-item Relations with Semantic IDs for Generative Recommendation",
+    "2610-40586": {
+      "slug": "2610-40586",
+      "typedId": "paper/2610-40586",
+      "name": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
       "type": "paper",
-      "summary": "Personalized recommendation depends on learning semantic and collaborative relations among items from online content and user interactions. Generative recommendation (GR) offers a promising paradig...",
+      "summary": "Integrated sensing and communications (ISAC) systems using 5G and beyond signals of opportunity enable joint wireless sensing and communication using shared infrastructure and spectrum resources. W...",
       "tags": [
         "arxiv",
-        "cs.IR"
+        "cs.NI"
       ]
     },
-    "2610-37585": {
-      "slug": "2610-37585",
-      "typedId": "paper/2610-37585",
-      "name": "Timestral",
+    "2610-40588": {
+      "slug": "2610-40588",
+      "typedId": "paper/2610-40588",
+      "name": "Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In",
       "type": "paper",
-      "summary": "We introduce Timestral, a family of four time series foundation models for probabilistic forecasting, with 5M, 28M, 123M, and 209M parameters. Timestral sets a new state of the art on GIFT-Eval, TI...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2610-37588": {
-      "slug": "2610-37588",
-      "typedId": "paper/2610-37588",
-      "name": "Understanding the limits of latent world models",
-      "type": "paper",
-      "summary": "World models are widely proposed as core components for enabling agents to reason over long temporal and spatial horizons. Yet current evaluations often emphasize task performance while providing l...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2610-37598": {
-      "slug": "2610-37598",
-      "typedId": "paper/2610-37598",
-      "name": "GAS-PFN: Graph-Aware Spatiotemporal Prior-Data Fitted Networks for Zero-Shot Traffic Forecasting",
-      "type": "paper",
-      "summary": "Traffic forecasting requires modeling complex temporal dynamics and the spatial dependencies imposed by road topology. Supervised graph-based models achieve strong performance, but are often traine...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2610-37599": {
-      "slug": "2610-37599",
-      "typedId": "paper/2610-37599",
-      "name": "MoI-Bench: A Benchmark for Image Generation and Editing on Mobile Devices",
-      "type": "paper",
-      "summary": "Developing on-device image models requires considering practical user needs, task types and device resource constraints. However, existing benchmarks provide limited guidance on identifying capabil...",
-      "tags": [
-        "arxiv",
-        "cs.CV"
-      ]
-    },
-    "2610-37605": {
-      "slug": "2610-37605",
-      "typedId": "paper/2610-37605",
-      "name": "Beyond Answer Changes: Matched Same-Class Controls for Local Audio Evidence",
-      "type": "paper",
-      "summary": "For audio-language models, an answer change after a local sound-event edit can reflect a response to the event's class, sensitivity to waveform rewriting, or both. We compare matched same-class and...",
-      "tags": [
-        "arxiv",
-        "cs.SD"
-      ]
-    },
-    "2610-37613": {
-      "slug": "2610-37613",
-      "typedId": "paper/2610-37613",
-      "name": "VideoLVR: Latent Visual Reasoning over Grounded Video Evidence",
-      "type": "paper",
-      "summary": "Chain-of-thought reasoning has substantially advanced video understanding in multimodal large language models (MLLMs). However, language-based reasoning traces do not provide a reliable mechanism f...",
-      "tags": [
-        "arxiv",
-        "cs.CV"
-      ]
-    },
-    "2610-37624": {
-      "slug": "2610-37624",
-      "typedId": "paper/2610-37624",
-      "name": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
-      "type": "paper",
-      "summary": "When an LLM group's discussion is compressed into a short memory for a final decision maker, what should the memory keep? Two natural heuristics keep the rarest claims or the claims relevant to the...",
+      "summary": "When AI agents share channels and credentials, one agent can press another to break its operator's rule, a first step towards collusion. Output filters check only what an agent has already written....",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2610-37631": {
-      "slug": "2610-37631",
-      "typedId": "paper/2610-37631",
-      "name": "What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models",
+    "2610-40589": {
+      "slug": "2610-40589",
+      "typedId": "paper/2610-40589",
+      "name": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins",
       "type": "paper",
-      "summary": "Language models pretrained on web corpora collected over multiple years learn both general and domain-specific knowledge. How these different kinds of knowledge are learned as pretraining progresse...",
+      "summary": "An autonomous research laboratory could conduct an entire study, from formulating questions to preparing manuscripts. Artificial intelligence (AI) offers one route towards this goal. Recent AI syst...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2610-37647": {
-      "slug": "2610-37647",
-      "typedId": "paper/2610-37647",
-      "name": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
+    "2610-40611": {
+      "slug": "2610-40611",
+      "typedId": "paper/2610-40611",
+      "name": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder",
       "type": "paper",
-      "summary": "Weight decay and explicit weight-norm constraints improve optimizer performance in language model pretraining, yet a unified understanding of why such control helps and how much is needed remains i...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2610-37649": {
-      "slug": "2610-37649",
-      "typedId": "paper/2610-37649",
-      "name": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
-      "type": "paper",
-      "summary": "Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected beha...",
+      "summary": "Proactive assistants offer short, memory-grounded hints during a conversation, deciding when to assist and what to suggest. Current systems split this between a gate and a larger generator; we eval...",
       "tags": [
         "arxiv",
         "cs.CL"
       ]
     },
-    "2610-37655": {
-      "slug": "2610-37655",
-      "typedId": "paper/2610-37655",
-      "name": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
+    "2610-40613": {
+      "slug": "2610-40613",
+      "typedId": "paper/2610-40613",
+      "name": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
       "type": "paper",
-      "summary": "Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which generates efficient Fortran or C code but does not fit into the differentiable prog...",
+      "summary": "We present TextSeal2, a distortion-free watermark for large language models that keeps its signal under speculative decoding: tokens that replace rejected drafts remain watermarked with the same ke...",
       "tags": [
         "arxiv",
-        "cs.AI"
+        "cs.CR"
       ]
     },
-    "2610-37656": {
-      "slug": "2610-37656",
-      "typedId": "paper/2610-37656",
-      "name": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+    "2610-40636": {
+      "slug": "2610-40636",
+      "typedId": "paper/2610-40636",
+      "name": "Probing Spatial State Representations in Visual Foundation Models",
       "type": "paper",
-      "summary": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's...",
+      "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it call...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2610-40641": {
+      "slug": "2610-40641",
+      "typedId": "paper/2610-40641",
+      "name": "From extreme weather to agricultural consequences with agentic AI",
+      "type": "paper",
+      "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, a...",
+      "tags": [
+        "arxiv",
+        "physics.ao-ph"
+      ]
+    },
+    "2610-40643": {
+      "slug": "2610-40643",
+      "typedId": "paper/2610-40643",
+      "name": "Luggage re-identification: A study of strategies towards a real-world application",
+      "type": "paper",
+      "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2610-40647": {
+      "slug": "2610-40647",
+      "typedId": "paper/2610-40647",
+      "name": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+      "type": "paper",
+      "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2610-40649": {
+      "slug": "2610-40649",
+      "typedId": "paper/2610-40649",
+      "name": "Rethinking Neural Thickets Without Weight Perturbations",
+      "type": "paper",
+      "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reprod...",
       "tags": [
         "arxiv",
         "cs.LG"
       ]
     },
-    "2610-37666": {
-      "slug": "2610-37666",
-      "typedId": "paper/2610-37666",
-      "name": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
-      "type": "paper",
-      "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demons...",
+    "huggingface-blog-https-huggingface-co-blog-announcing-project-protostar": {
+      "slug": "huggingface-blog-https-huggingface-co-blog-announcing-project-protostar",
+      "typedId": "news/huggingface-blog-https-huggingface-co-blog-announcing-project-protostar",
+      "name": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "type": "news",
+      "summary": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "tags": [
-        "arxiv",
-        "cs.RO"
+        "news",
+        "huggingface-blog"
       ]
     },
-    "2610-37668": {
-      "slug": "2610-37668",
-      "typedId": "paper/2610-37668",
-      "name": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
-      "type": "paper",
-      "summary": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We...",
+    "huggingface-blog-https-huggingface-co-blog-anydecisionmodel": {
+      "slug": "huggingface-blog-https-huggingface-co-blog-anydecisionmodel",
+      "typedId": "news/huggingface-blog-https-huggingface-co-blog-anydecisionmodel",
+      "name": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "type": "news",
+      "summary": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
       "tags": [
-        "arxiv",
-        "cs.CV"
+        "news",
+        "huggingface-blog"
+      ]
+    },
+    "huggingface-blog-https-huggingface-co-blog-ibm-granite-granite-switch-4-1-1": {
+      "slug": "huggingface-blog-https-huggingface-co-blog-ibm-granite-granite-switch-4-1-1",
+      "typedId": "news/huggingface-blog-https-huggingface-co-blog-ibm-granite-granite-switch-4-1-1",
+      "name": "Granite Switch 4.1.1 — Update models like you update software",
+      "type": "news",
+      "summary": "Granite Switch 4.1.1 — Update models like you update software",
+      "tags": [
+        "news",
+        "huggingface-blog"
+      ]
+    },
+    "huggingface-blog-https-huggingface-co-blog-mistral-large4": {
+      "slug": "huggingface-blog-https-huggingface-co-blog-mistral-large4",
+      "typedId": "news/huggingface-blog-https-huggingface-co-blog-mistral-large4",
+      "name": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "type": "news",
+      "summary": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "tags": [
+        "news",
+        "huggingface-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-how-we-detect-frontier-model-misalignment": {
+      "slug": "openai-blog-https-openai-com-index-how-we-detect-frontier-model-misalignment",
+      "typedId": "news/openai-blog-https-openai-com-index-how-we-detect-frontier-model-misalignment",
+      "name": "How we detect frontier model misalignment",
+      "type": "news",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-ropes-gray-ai-diligence": {
+      "slug": "openai-blog-https-openai-com-index-ropes-gray-ai-diligence",
+      "typedId": "news/openai-blog-https-openai-com-index-ropes-gray-ai-diligence",
+      "name": "How Ropes & Gray is developing AI for transactional diligence",
+      "type": "news",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-updated-model-spec": {
+      "slug": "openai-blog-https-openai-com-index-updated-model-spec",
+      "typedId": "news/openai-blog-https-openai-com-index-updated-model-spec",
+      "name": "An updated Model Spec for more capable and beneficial AI",
+      "type": "news",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "tags": [
+        "news",
+        "openai-blog"
       ]
     },
     "huggingface-blog-https-huggingface-co-blog-nvidia-nemotron-transcribe-granary": {
@@ -809,17 +886,6 @@
       "name": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
       "type": "news",
       "summary": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "tags": [
-        "news",
-        "huggingface-blog"
-      ]
-    },
-    "huggingface-blog-https-huggingface-co-blog-ibm-granite-granite-speech-5": {
-      "slug": "huggingface-blog-https-huggingface-co-blog-ibm-granite-granite-speech-5",
-      "typedId": "news/huggingface-blog-https-huggingface-co-blog-ibm-granite-granite-speech-5",
-      "name": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "type": "news",
-      "summary": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
       "tags": [
         "news",
         "huggingface-blog"
@@ -1733,61 +1799,6 @@
       "name": "The eternal complement",
       "type": "news",
       "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "tags": [
-        "news",
-        "openai-blog"
-      ]
-    },
-    "huggingface-blog-https-huggingface-co-blog-open-tts-leaderboard": {
-      "slug": "huggingface-blog-https-huggingface-co-blog-open-tts-leaderboard",
-      "typedId": "news/huggingface-blog-https-huggingface-co-blog-open-tts-leaderboard",
-      "name": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "type": "news",
-      "summary": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "tags": [
-        "news",
-        "huggingface-blog"
-      ]
-    },
-    "mit-news-ai-https-news-mit-edu-2026-game-playing-ai-stratego-new-champ-0930": {
-      "slug": "mit-news-ai-https-news-mit-edu-2026-game-playing-ai-stratego-new-champ-0930",
-      "typedId": "news/mit-news-ai-https-news-mit-edu-2026-game-playing-ai-stratego-new-champ-0930",
-      "name": "This game-playing AI is the new champ at Stratego",
-      "type": "news",
-      "summary": "Able to defeat top-ranked human players and more efficient than other models, the new system could help decision-makers in military maneuvers or business negotiations.",
-      "tags": [
-        "news",
-        "mit-news-ai"
-      ]
-    },
-    "mit-news-ai-https-news-mit-edu-2026-mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930": {
-      "slug": "mit-news-ai-https-news-mit-edu-2026-mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
-      "typedId": "news/mit-news-ai-https-news-mit-edu-2026-mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
-      "name": "MIT Transit Lab to develop an AI platform for public transit agencies",
-      "type": "news",
-      "summary": "With $2.1 million funding from Google.org, the open-source Public Transit Intelligence Hub will unify public transit monitoring, operations, and passenger communication.",
-      "tags": [
-        "news",
-        "mit-news-ai"
-      ]
-    },
-    "openai-blog-https-openai-com-index-disrupting-a-coordinated-model-distillation-campaign": {
-      "slug": "openai-blog-https-openai-com-index-disrupting-a-coordinated-model-distillation-campaign",
-      "typedId": "news/openai-blog-https-openai-com-index-disrupting-a-coordinated-model-distillation-campaign",
-      "name": "Disrupting a coordinated model-distillation campaign",
-      "type": "news",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "tags": [
-        "news",
-        "openai-blog"
-      ]
-    },
-    "openai-blog-https-openai-com-index-helping-small-businesses-put-ai-to-work": {
-      "slug": "openai-blog-https-openai-com-index-helping-small-businesses-put-ai-to-work",
-      "typedId": "news/openai-blog-https-openai-com-index-helping-small-businesses-put-ai-to-work",
-      "name": "Helping small businesses put AI to work",
-      "type": "news",
-      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
       "tags": [
         "news",
         "openai-blog"

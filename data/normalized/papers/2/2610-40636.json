@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2610-40636",
+  "name": "Probing Spatial State Representations in Visual Foundation Models",
+  "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it call...",
+  "description": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spatial state that is updated under self-motion and used to guide action. Do visual foundation models provide representations that support such a state? We study this question through four levels of spatial capability---spatial structure, object persistence, predictive spatial update, and actionability---using frozen-feature probes on ten representations under streaming egocentr...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.40636v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-29",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.40636v1"
+    }
+  ],
+  "authors": [
+    "Baiqiao Yin",
+    "Zhongang Cai",
+    "Ruisi Wang",
+    "Qiwei Liang",
+    "Lei Yang",
+    "Ziwei Liu"
+  ],
+  "paperId": "2610.40636",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-29",
+  "abstract": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spatial state that is updated under self-motion and used to guide action. Do visual foundation models provide representations that support such a state? We study this question through four levels of spatial capability---spatial structure, object persistence, predictive spatial update, and actionability---using frozen-feature probes on ten representations under streaming egocentr..."
+}

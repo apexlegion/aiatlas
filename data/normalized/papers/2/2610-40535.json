@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2610-40535",
+  "name": "Efficient Scalable Oversight via Rewinding",
+  "summary": "Scalable oversight asks how a weak verifier can check the outputs of computations performed by more powerful AI systems. One proposed approach uses relativizing interactive proofs, in which a weak...",
+  "description": "Scalable oversight asks how a weak verifier can check the outputs of computations performed by more powerful AI systems. One proposed approach uses relativizing interactive proofs, in which a weak verifier checks the output of a complex oracle-aided computation by interacting with one or more powerful provers. A prominent example is debate, which is highly efficient but assumes that one of two powerful AI models, or provers, is truthful. For certain classes of oracle-aided computations, this assumption can be removed, but at substantially greater computational cost. In this work, we introdu...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.40535v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-29",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.40535v1"
+    }
+  ],
+  "authors": [
+    "Ziyi Guan",
+    "Yael Tauman Kalai",
+    "Ron Rothblum",
+    "Zoe Xi"
+  ],
+  "paperId": "2610.40535",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-29",
+  "abstract": "Scalable oversight asks how a weak verifier can check the outputs of computations performed by more powerful AI systems. One proposed approach uses relativizing interactive proofs, in which a weak verifier checks the output of a complex oracle-aided computation by interacting with one or more powerful provers. A prominent example is debate, which is highly efficient but assumes that one of two powerful AI models, or provers, is truthful. For certain classes of oracle-aided computations, this assumption can be removed, but at substantially greater computational cost. In this work, we introdu..."
+}

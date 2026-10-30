@@ -1,0 +1,45 @@
+{
+  "type": "paper",
+  "slug": "2610-40556",
+  "name": "Advancing Clinical Genomic Analysis with a Skill-Centred Agent",
+  "summary": "Clinical genomic analysis requires experts to integrate evolving guidelines, databases, and computational evidence. As sequencing has become increasingly accessible, this complex and labor-intensiv...",
+  "description": "Clinical genomic analysis requires experts to integrate evolving guidelines, databases, and computational evidence. As sequencing has become increasingly accessible, this complex and labor-intensive process has become a major bottleneck to the timely use of genomic information in clinical decision-making. To fill this gap, we developed ClinGeX, a large-language-model agent that composes 105 curated executable skills through task-specific retrieval and dependency-aware orchestration. On 223 temporally held-out benchmark cases, ClinGeX achieved 71.7\\% macro-averaged task-level concordance wit...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.40556v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-29",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2610.40556v1"
+    }
+  ],
+  "authors": [
+    "Qiaoyu Zheng",
+    "Weike Zhao",
+    "Yanjie Fan",
+    "Ye Cao",
+    "Mengqi Jiang",
+    "Xiao Zhou",
+    "Xiaoman Zhang",
+    "Pengcheng Qiu",
+    "Yongguo Yu",
+    "Yanfeng Wang",
+    "Ya Zhang",
+    "Chaoyi Wu",
+    "Weidi Xie"
+  ],
+  "paperId": "2610.40556",
+  "category": "cs.AI",
+  "publishedAt": "2026-10-29",
+  "abstract": "Clinical genomic analysis requires experts to integrate evolving guidelines, databases, and computational evidence. As sequencing has become increasingly accessible, this complex and labor-intensive process has become a major bottleneck to the timely use of genomic information in clinical decision-making. To fill this gap, we developed ClinGeX, a large-language-model agent that composes 105 curated executable skills through task-specific retrieval and dependency-aware orchestration. On 223 temporally held-out benchmark cases, ClinGeX achieved 71.7\\% macro-averaged task-level concordance wit..."
+}

@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2610-40532",
+  "name": "BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing",
+  "summary": "How effectively can vision-language-action (VLA) models learn diverse language-conditioned behaviors as training data scales? Investigating this question requires large and varied robot datasets, w...",
+  "description": "How effectively can vision-language-action (VLA) models learn diverse language-conditioned behaviors as training data scales? Investigating this question requires large and varied robot datasets, whose collection on physical robots remains costly. We introduce BURGER, a language-conditioned robotic drawing benchmark with a scalable, prompt-driven pipeline for generating continuous drawing trajectories, both in simulation and the real world. In BURGER, an agent starts from the same blank canvas and controls a robot arm to draw the object or spatial composition specified by language, while ea...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.40532v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-29",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2610.40532v1"
+    }
+  ],
+  "authors": [
+    "Xiangyu Xu",
+    "Bangshuai Peng",
+    "Ziyi Liu",
+    "Mengjie Zhao",
+    "Chenhao Lu",
+    "Zhengyang Fan",
+    "Huazhe Xu",
+    "Kaizhe Hu"
+  ],
+  "paperId": "2610.40532",
+  "category": "cs.RO",
+  "publishedAt": "2026-10-29",
+  "abstract": "How effectively can vision-language-action (VLA) models learn diverse language-conditioned behaviors as training data scales? Investigating this question requires large and varied robot datasets, whose collection on physical robots remains costly. We introduce BURGER, a language-conditioned robotic drawing benchmark with a scalable, prompt-driven pipeline for generating continuous drawing trajectories, both in simulation and the real world. In BURGER, an agent starts from the same blank canvas and controls a robot arm to draw the object or spatial composition specified by language, while ea..."
+}
