@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.38634v1",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.38634v1",
+    "title": "\"Close enough?\" An investigation into multiplication errors in LLMs",
+    "link": "https://arxiv.org/abs/2610.38634",
+    "description": "arXiv:2610.38634v1 Announce Type: new Abstract: Large language models (LLMs) frequently fail at multi-digit arithmetic, but the underlying mechanisms governing these failures remain poorly understood. While recent work demonstrates that addition errors follow a \"noisy quantisation\" model localised around carry boundaries, whether this framework generalises to multiplication remains an open question. In this work, we evaluate multiplication capabilities across several small base LLMs on a dataset of 16,991 problems spanning varied operand lengths. We show that multiplication errors do not conform to the addition-style noisy quantisation model. Instead, we uncover a novel error regime in small Qwen models: errors in lower-order columns predominantly preserve parity. Conversely, higher-order digit errors shift toward off-by-one carry failures. Our findings suggest that arithmetic computation in LLMs relies on distinct, multi-periodic internal representations where parity is tracked more robustly than exact digit identity, providing new mechanistic insights into numerical reasoning in transformers.",
+    "publishedAt": "2026-10-31",
+    "author": "William Bolton, Bezawit Tilaye, Huw Day",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.24275v3",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.24275v3",
+    "title": "RePolicy: Learning to Select and Apply Safety Policies for Agent Safeguards",
+    "link": "https://arxiv.org/abs/2608.24275",
+    "description": "arXiv:2608.24275v3 Announce Type: replace Abstract: Agent safeguards must determine whether an agent's behavior violates the safety rules of the current task, environment, and user. Because these rules vary across contexts, a safeguard needs to select the relevant policy before judging the behavior. Existing policy-aware safeguards can apply a supplied policy, but generally assume that the correct policy is already known. They therefore do not learn how to select a policy from a library, even though an incorrect choice can lead to an incorrect safety judgment. We introduce RePolicy, a safeguard that jointly learns policy selection and safety assessment. Given an agent trajectory and a set of candidate policies, RePolicy selects the policy that best matches the situation, applies its requirements, and predicts whether the behavior is safe. We construct PolicyTraj-20K, a dataset of more than 20,000 agent trajectories annotated with applicable policies, safety labels, and explanations. We train RePolicy with supervised demonstrations followed by reinforcement learning, while randomizing policy order, identifiers, and distractors to reduce shortcut learning. Across six agent-safety benchmarks and 19 baselines, RePolicy-4B achieves leading overall safety-detection performance and improves policy-selection accuracy. These results show that safeguards can learn which safety requirements to use for assessing agent behavior.",
+    "publishedAt": "2026-10-31",
+    "author": "Houcheng Jiang, Boxuan Zhang, Qiyong Zhong, Junfeng Fang, Xiang Wang, Xiangnan He",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

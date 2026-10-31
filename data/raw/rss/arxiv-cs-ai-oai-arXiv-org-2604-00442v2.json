@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.00442v2",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.00442v2",
+    "title": "Learning to Model Optimization Problems from Solver Outcomes",
+    "link": "https://arxiv.org/abs/2604.00442",
+    "description": "arXiv:2604.00442v2 Announce Type: replace Abstract: Automating optimization modeling with LLMs is a promising path toward scalable decision intelligence, but existing approaches either rely on agentic pipelines built on closed-source LLMs with high inference latency or fine-tune smaller LLMs using costly process supervision that often overfits to a single solver API. We study how reinforcement learning from inexpensive outcome labels can improve optimization modeling and support reuse across heterogeneous solver environments. To this end, we propose Optimization Modeling from Solver Outcomes (OMSO), which uses reinforcement learning (RL) with a mathematical programming solver as a deterministic, interactive environment. Given a natural-language problem and a target solver, OMSO generates solver-specific code, executes it in a sandboxed harness, and converts execution outcomes into scalar rewards in a closed-loop generate-execute-feedback-update process. This RL formulation learns optimization modeling without process-level supervision and supports cross-solver generalization by switching the solver environment rather than reconstructing solver-specific datasets. Experiments on NL4OPT, MAMO, IndustryOR, and OptiBench across Gurobi, OR-Tools, and COPT show that OMSO matches or outperforms process-supervised SFT, supports zero-shot training-free transfer, direct RL training, and SFT-cold-started RL, and improves modeling reasoning and semantic correctness beyond solver API usage.",
+    "publishedAt": "2026-10-31",
+    "author": "Runda Guan, Xiangqing Shen, Jiajun Zhang, Yifan Zhang, Jian Cheng, Rui Xia",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-38694v1",
+  "name": "Geometry Matters in Packed 3D Attention",
+  "summary": "arXiv:2610.38694v1 Announce Type: cross Abstract: Packing a 3D volume into a token sequence is not merely long-sequence modeling. Once the volume is packed, sequence order no longer encodes the geo...",
+  "description": "arXiv:2610.38694v1 Announce Type: cross Abstract: Packing a 3D volume into a token sequence is not merely long-sequence modeling. Once the volume is packed, sequence order no longer encodes the geometry of the sample---so a positional mechanism indexed by sequence position can learn the memory layout rather than the object. This is a general failure mode for attention over packed geometric data...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.38694"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-31",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.38694"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-31",
+  "expiryAt": "2026-11-30T00:00:00.000Z",
+  "author": "Amil Khan, Anantajit Subrahmanya, B. S. Manjunath"
+}

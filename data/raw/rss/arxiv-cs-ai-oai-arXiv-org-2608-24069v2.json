@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.24069v2",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.24069v2",
+    "title": "Poisoning Agentic Alpha: Adversarial Vulnerabilities Across Roles and Architectures in Multi-Agent Trading Systems",
+    "link": "https://arxiv.org/abs/2608.24069",
+    "description": "arXiv:2608.24069v2 Announce Type: replace Abstract: LLM-based multi-agent trading systems are moving from research prototypes to live deployments that control real assets. They ingest news and social media from the open web and pass it between agents, so a single corrupted signal can reach the final decision and cause financial loss. We study two adversaries that can introduce such signals without access to model internals: a low-barrier data adversary that plants manipulated content in web sources, and a compromised-agent adversary that tampers with an agent's prompt. To our knowledge, this is the first systematic empirical study in finance of how an adversarial signal enters a multi-agent trading system and whether it survives to alter the final trading decision. Along the role axis, we pair each of four roles---Analyst, Researcher, Trader, and Risk Manager---with an attack matched to its interface. Along the structural axis, we compare four communication topologies, interpreted with a simple parameter-free heuristic, the Adversarial Signal Preservation Score. Experiments on post-cutoff data span five assets and two target directions. We find that no architecture is inherently robust: majority voting offers conditional protection depending on benign-agent agreement, while compromising a terminal decision node can bypass upstream safeguards. These findings provide empirical insights for developing more effective defense strategies for multi-agent systems.",
+    "publishedAt": "2026-10-31",
+    "author": "CheolWon Na, Hao Ni, Lukasz Szpruch, Zhangyang Wang, Dhagash Mehta, Saurabh Nagrecha, Alejandro Lopez-Lira, Chanyeol Choi, Yongjae Lee, Jee-Hyong Lee",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

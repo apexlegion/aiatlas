@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.38850v1",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.38850v1",
+    "title": "Autonomous Quantum Measurement with Agentic AI",
+    "link": "https://arxiv.org/abs/2610.38850",
+    "description": "arXiv:2610.38850v1 Announce Type: cross Abstract: Quantum materials exhibit diverse electronic and functional phenomena, but their characterization requires extensive experimental expertise, iterative decision-making and accumulated laboratory knowledge that is difficult to document and transfer. Here we introduce Quantum Agent (QUANTA), an agentic artificial intelligence (AI) framework for autonomous quantum-materials characterization. Using a widely adopted Physical Property Measurement System (PPMS) as an experimental platform, QUANTA combines retrieval augmentation using scientific literature, experimental protocols and prior measurements with specialized agents for experimental planning, troubleshooting, and data interpretation. A separate deterministic control layer validates instrument actions. Guided by incoming data, QUANTA evaluates measurement quality, revises experimental plans and selects subsequent measurements. We demonstrate these capabilities through transport measurements of the topological Weyl semimetal TaP, as well as investigations of nonlinear responses in magnetic material Co2MnGa. These results establish QUANTA as a generalizable framework for evidence-driven, safeguarded and closed-loop quantum-materials characterization.",
+    "publishedAt": "2026-10-31",
+    "author": "Eunbi Rha, Abhijatmedhi Chotrattanapituk, Mouyang Cheng, Chung-tao Chou, Shenyong Ye, Ashley S. Dale, Long Ju, Luqiao Liu, Mingda Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.36340v2",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.36340v2",
+    "title": "CrowdCC: Jointly Benchmarking Corruption Robustness and Deployment Quantization in Crowd Counting",
+    "link": "https://arxiv.org/abs/2610.36340",
+    "description": "arXiv:2610.36340v2 Announce Type: replace-cross Abstract: Crowd-counting models deployed on edge devices face two challenges: inputs are degraded along the capture and transmission pipeline, while models are often quantized to satisfy resource constraints of the edge. Yet corruption robustness and deployment quantization are typically evaluated separately. We introduce CrowdCC, a controlled benchmark that jointly evaluates these effects across 23 deployment-motivated corruptions at three severity levels, four crowd-counting datasets, and 26 models. We evaluate TensorRT engines at FP32, FP16, and post-training INT8 precision on an A100 GPU, alongside throughput and energy measurements on corresponding Jetson Orin~NX configurations. The corruptions span six families, with head annotations adjusted when geometry or visibility changes. Our results show that capture-chain corruptions consistently cause the largest degradation across evaluated models, while crowd density affects absolute and relative errors differently. Accuracy on clean images does not reliably predict performance on the corresponding corrupted images. INT8 changes corruption robustness more than FP16, without a consistent direction, and does not consistently improve latency or energy efficiency. INT8 inference efficiency is strongly associated with reformat overhead in the compiled engine, with slowdowns also observed under limited INT8 coverage. Precision changes corrupted-error rankings and robustness--cost frontiers, highlighting the need to consider corruption robustness and deployment cost jointly when selecting models and precision. The code is available at https://github.com/Tulane-Computer-Architecture-Systems/CrowdCC-Release.",
+    "publishedAt": "2026-10-31",
+    "author": "S Mahmudul Hasan, Lu Peng",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

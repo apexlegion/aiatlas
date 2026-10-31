@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.37647v2",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.37647v2",
+    "title": "Evaluating and Benchmarking the System One Model Jev",
+    "link": "https://arxiv.org/abs/2609.37647",
+    "description": "arXiv:2609.37647v2 Announce Type: replace-cross Abstract: Jev is a commercial \"System One\" model from TypeSafe AI that does not generate text: given a state and typed questions, it returns a choice from fixed options, a position on a rubric, or the probability that a statement is true, with probabilities described as calibrated. Such models target small decisions in information access pipelines. We evaluate Jev (jev-1.13.0) zero-shot on 37 datasets, from classification and routing to moderation and rubric scoring, with one frozen template per dataset and full evaluation splits: 346,009 requests for under US$10. For reference, we score Qwen3.8-27B and Gemma-4-E4B on identical requests via their exact option probabilities. Jev reaches 95-99% accuracy on IMDB, SST-2, HellaSwag and ARC, beats Qwen on 27 of 37 datasets, with none of Qwen's leads outside the bootstrap intervals, and Gemma on all 37, and its choice probabilities are well calibrated and support selective prediction. All three models degrade on low-resource languages, fine-grained or noisy labels, and rubric-based judgments, and binary probabilities need tuned thresholds, which raise micro-F1 on UNFAIR-ToS from 0.50 to 0.75. Jev answers MMLU's calculation-heavy questions more accurately than other MMLU questions, unlike both open models; probes rule out shallow memorization but not memorized question-answer pairs. Extending the protocol to sequential decisions, where the model chooses the next action at every step, Jev completes 35% of ALFWorld's unseen tasks, 42% of 90 TextWorld games and 21% of BabyAI-Text missions, chooses the optimal Blackjack action in 90% of decisions, and on FrozenLake almost never moves away from the goal to avoid holes. It often repeats actions that had no effect. Qwen completes more ALFWorld and TextWorld games than Jev (54.5% and 51.1%) but shares its failures on BabyAI-Text and FrozenLake. We release the code, harness and all raw responses.",
+    "publishedAt": "2026-10-31",
+    "author": "Tobias Deu{\\ss}er, Rajkumar Ramamurthy, Lorenz Sparrenberg, Rafet Sifa",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

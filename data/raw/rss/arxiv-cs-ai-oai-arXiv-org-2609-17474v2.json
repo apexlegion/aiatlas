@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.17474v2",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.17474v2",
+    "title": "Iterative Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback",
+    "link": "https://arxiv.org/abs/2609.17474",
+    "description": "arXiv:2609.17474v2 Announce Type: replace-cross Abstract: Large language model (LLM) distillation can propagate teacher bias under covariate shift when target reward feedback is unavailable. We propose Iterative Calibration and Learning (IterCaL), which alternates source-reward teacher calibration through token-level branching with student learning on target prompts. We prove polynomial convergence in expected average KL to the oracle student, the reference-regularized target-reward maximizer within a potentially misspecified student class; a quantified source-to-target calibration discrepancy gives an explicit additive true-return term. Our separation shows that regularized direct teacher matching retains positive oracle-KL error at its population optimum for every shared reference penalty, even when the teacher is stronger than every student. On the same instance, IterCaL converges to the oracle using source rewards alone.",
+    "publishedAt": "2026-10-31",
+    "author": "Haichen Hu, Yuheng Zhang, David Simchi-Levi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

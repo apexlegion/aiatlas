@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2509.12443v5",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2509.12443v5",
+    "title": "From Legacy Fortran to Portable Kokkos: An Autonomous Agentic AI Workflow",
+    "link": "https://arxiv.org/abs/2509.12443",
+    "description": "arXiv:2509.12443v5 Announce Type: replace-cross Abstract: Scientific applications still rely heavily on legacy Fortran codebases built for homogeneous, CPU-based systems. As High-Performance Computing (HPC) shifts toward GPU-accelerated architectures, many accelerators lack native Fortran bindings, creating a need to translate and optimize legacy code for portability. Kokkos offers performance portability through a single-source C++ abstraction, but manual porting from Fortran demands significant expertise and time. While large language models (LLMs) show promise in source-to-source code generation, their use in autonomous workflows for translating and optimizing parallel code is largely unexplored. This paper presents an agentic AI workflow in which specialized LLM agents collaborate to translate, validate, compile, run, test, debug, and optimize Fortran kernels into portable Kokkos C++ programs without human intervention, bounded by configurable retry and optimization thresholds. We evaluate the pipeline over five runs per configuration on an NVIDIA A100, characterizing its variability in success rates, token cost, and optimization behavior, on benchmark kernels including a real-world multi-file kernel from a production climate model. Proprietary models such as GPT-5 and o4-mini-high completed the full workflow most reliably, producing optimized code that exceeded the Fortran baselines for only a few U.S. dollars, whereas open-weights models such as gpt-oss-120b and Qwen3.5-397B-A17B handled simpler kernels but struggled with complex Kokkos abstractions such as parallel reductions and hierarchical parallelism. This work demonstrates, at the kernel level, the feasibility of agentic AI for Fortran-to-Kokkos transformation and, more broadly, for structured software-engineering tasks such as automated code modernization and refactoring.",
+    "publishedAt": "2026-10-31",
+    "author": "Sparsh Gupta, Kamalavasan Kamalakkannan, Maxim Moraru, Galen Shipman, Patrick Diehl",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

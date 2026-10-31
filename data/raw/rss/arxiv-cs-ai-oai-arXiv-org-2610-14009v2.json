@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.14009v2",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.14009v2",
+    "title": "When Log Parsing Removes What Matters: Detecting Failures in Distributed GPU Workloads",
+    "link": "https://arxiv.org/abs/2610.14009",
+    "description": "arXiv:2610.14009v2 Announce Type: replace-cross Abstract: Large AI models increasingly rely on distributed GPU execution, yet it remains unclear whether established anomaly detection methods transfer effectively to this setting. We introduce GF-Bench, a PyTorch-based framework for generating controlled failures in distributed GPU workloads, and a dataset produced with it. The framework supports extensible workload and fault-injection logic; based on this design, the current release targets failures visible in multi-GPU communication logs and provides 220 labeled two-GPU runs covering normal behavior, CUDA out-of-memory fail-stop faults, and persistent-straggler fail-slow faults. Using GF-Bench, we evaluate three sequence-based methods (DeepLog, LogAnomaly, and LogBERT) and the large language model (LLM)-based LogPrompt with in-context learning (ICL) and chain-of-thought (CoT) prompting strategies on parsed logs, and additionally evaluate LogPrompt on raw logs. On parsed inputs, no method reliably detects both failure classes, and the highest overall F1 score is 0.667. Raw inputs raise the overall F1 score of ICL-LogPrompt to 0.983, at 9.0x its average input-token usage and 8.9x its per-run cost. These results reveal a trade-off between effectiveness and efficiency: parsed inputs reduce LLM token use and inference cost but can discard the distributed execution context required for accurate failure detection. GF-Bench provides a reproducible basis for studying cost-efficient anomaly detection methods and can be extended to additional GPU workloads and failure types.",
+    "publishedAt": "2026-10-31",
+    "author": "Boyuan Cui, Yuyang Zeng, Yifang Tian, Hans-Arno Jacobsen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

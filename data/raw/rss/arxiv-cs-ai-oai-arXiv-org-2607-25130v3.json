@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.25130v3",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.25130v3",
+    "title": "How Do Developers Edit AI-Generated Code, and How Well Do LLMs Infer Their Edits? Insights from 53.6K Developer Edits",
+    "link": "https://arxiv.org/abs/2607.25130",
+    "description": "arXiv:2607.25130v3 Announce Type: replace-cross Abstract: Imperfections in AI-generated code require that software developers modify generations through manual code edits. However, little is known about how developers edit AI-generated code, and to what extent LLMs can infer implicit developer intent from this data, given the lack of high-quality, realistic code editing data. This information is essential for designing and building usable AI-developer interactions. To address this gap, we introduce DECODE (Developer Edits of Code Dataset), a dataset of 53.6K real-world in-IDE code edits of AI-generated code sourced from 1K+ developers. First, we use DECODE to analyze when, why, and how AI-generated code is edited. Developers invest little effort in editing code and abandon AI-generated code quickly, thereby motivating the need for LLMs to understand developer intents through their edits. Therefore, we next use DECODE to understand to what extent LLMs could infer developer edits. Predicting code edits is a challenging task for both frontier and fine-tuned models. Frontier models generate edits that best reflect developer intents, but are prone to over-editing and reverting developer-written edits. Fine-tuning LLMs can improve their ability to predict edits that are more similar to developers' as well as better reflect developer intent, but do not fully bridge the gap to frontier models. Together, our results demonstrate the unique insights on developer and LLM behavior that can be obtained through studying realistic code edit data to promote more better developer-AI interactions.",
+    "publishedAt": "2026-10-31",
+    "author": "Jenny T. Liang, Mihika Bairathi, Wayne Chi, Ameet Talwalkar, Nishant Subramani, Valerie Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

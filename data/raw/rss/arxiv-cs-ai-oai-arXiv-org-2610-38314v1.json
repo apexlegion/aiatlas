@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.38314v1",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.38314v1",
+    "title": "CHORD: Cross-Model Hallucination Detection via Relational Graph Discrimination",
+    "link": "https://arxiv.org/abs/2610.38314",
+    "description": "arXiv:2610.38314v1 Announce Type: new Abstract: Hallucination detection is critical for deploying large language models (LLMs) in real-world applications. Due to strong empirical performance, internal representation-based methods have emerged as the prevailing direction for detecting hallucinations, yet they remain largely model-specific and often fail to generalize to unseen LLMs. In this paper, we study an important yet underexplored problem, termed cross-model hallucination detection (CMHD), which aims to train hallucination detectors on source LLMs while ensuring performance on unseen target LLMs. The core challenge of CMHD lies in cross-model representation heterogeneity: hidden states from different LLMs exhibit severe semantic inconsistency, which limits the transferability of classical representation-based detectors. Through analysis and empirical validation, we show that relational structures over layers, tokens, and features capture transferable detection signals despite semantic inconsistency. Based on this observation, we propose cross-model hallucination detection via heterogeneity-oriented relational discrimination (CHORD), a relational graph discrimination framework that represents hidden states as joint relational graphs over layers, tokens, and features. It feeds these graphs into relation-aware attention to obtain structure-aware features, and uses meta-learning to shape these features toward transferable detection signals. Extensive experiments show that CHORD outperforms representative detection methods in cross-model generalization. Code is available at https://github.com/MiracleworkerD/CHORD.",
+    "publishedAt": "2026-10-31",
+    "author": "Yongxin Deng (University of Technology Sydney), Zhen Fang (University of Technology Sydney), Guansong Pang (Singapore Management University), Sharon Li (University of Wisconsin-Madison), Ling Chen (University of Technology Sydney)",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

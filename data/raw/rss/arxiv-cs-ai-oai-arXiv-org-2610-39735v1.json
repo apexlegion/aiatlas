@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.39735v1",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.39735v1",
+    "title": "From the Transformer to a Formal Semantics of Coordinated Transformations",
+    "link": "https://arxiv.org/abs/2610.39735",
+    "description": "arXiv:2610.39735v1 Announce Type: new Abstract: We develop a formal semantics for a general class of coordinated systems of parameterized transformations, taking the Transformer as a paradigmatic starting point but abstracting from its particular mathematical instantiation. Representational vectors receive both extensional reference and ordered intensional interpretations, while parameter structures acquire relative, second-level interpretations that determine how argument properties are preserved, replaced, or combined. This yields the notion of a transforming concept: a parameterized transformation whose numerical action is coordinated with a corresponding property-level map. We then distinguish the common algebraic-semantic core of these systems from their architecture-specific functional organization, allowing different mathematical instantiations and mechanical realizations of the same abstract system type. The framework is applied to attention heads and residual connections, providing semantic explanations that depend only on the shared algebraic-semantic core and their local functional organization and therefore generalize beyond the standard Transformer. These analyses also reveal the modularity of the framework: complex architectures can be decomposed into simpler semantically coordinated subsystems whose organization may recur across different abstract system types.",
+    "publishedAt": "2026-10-31",
+    "author": "Marco Giunti, Fabrizia Giulia Garavaglia",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

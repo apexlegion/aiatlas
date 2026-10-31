@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.20084v2",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.20084v2",
+    "title": "Evidence-Gated Task and Motion Planning with Vision-Language Models",
+    "link": "https://arxiv.org/abs/2608.20084",
+    "description": "arXiv:2608.20084v2 Announce Type: replace-cross Abstract: Robots executing long-horizon manipulation tasks from natural-language instructions must reason about both semantic task structure and geometric feasibility. Hierarchical approaches combining Vision-Language Models (VLMs) with Task and Motion Planning (TAMP) offer a promising solution, but VLM-generated subgoals may rely on prior knowledge without sufficient observational support. This can lead to the omission of task-relevant subgoals or attempts to execute instructions whose requirements cannot be met in the environment. We propose Evidence Acquisition and Feasibility Gating (EAFG), a framework for evidence-gated task and motion planning that acquires visual evidence to specify appropriate task plans and assess whether given instructions can be fulfilled. EAFG first acquires evidence by having a VLM generate subgoals and a robot execute action sequences planned by TAMP for these subgoals. For feasibility gating, the acquired evidence is used to decide whether to proceed with task planning, acquire further evidence, or halt. When proceeding, the VLM generates task subgoals conditioned on the acquired evidence, and TAMP computes low-level actions. We evaluate EAFG in three cooking scenarios involving explicitly specified required objects, underspecified instructions, and instructions requiring an absent object. EAFG improves task completion over a VLM-TAMP baseline in the explicit and underspecified scenarios and enables appropriate halting when a required object is absent.",
+    "publishedAt": "2026-10-31",
+    "author": "Tsunehiko Tanaka, Matthew Stephenson, Alistair Macvicar, Edgar Simo-Serra",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

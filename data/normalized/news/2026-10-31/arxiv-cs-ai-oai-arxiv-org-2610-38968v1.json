@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-38968v1",
+  "name": "TableTune: Measured, Self-Correcting Draft-Length Tables for Dynamic Speculative Decoding",
+  "summary": "arXiv:2610.38968v1 Announce Type: cross Abstract: Speculative decoding speeds up large language model (LLM) serving only while the GPU has spare compute, so the best draft length, the number of tok...",
+  "description": "arXiv:2610.38968v1 Announce Type: cross Abstract: Speculative decoding speeds up large language model (LLM) serving only while the GPU has spare compute, so the best draft length, the number of tokens a small drafter guesses per step, shrinks as the batch grows. vLLM lets operators set the draft length for each batch size with a hand-written table, but nothing measures or corrects that table. W...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.38968"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-31",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.38968"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-31",
+  "expiryAt": "2026-11-30T00:00:00.000Z",
+  "author": "Abhishek Malvankar, Paul Castro, Nick Mitchell, Lionel Villard"
+}

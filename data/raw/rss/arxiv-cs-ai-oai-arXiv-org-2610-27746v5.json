@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.27746v5",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.27746v5",
+    "title": "S$^2$-MAS: A Society-Scale Multi-Agent Simulation Framework with a 500-Million-Persona Resource",
+    "link": "https://arxiv.org/abs/2610.27746",
+    "description": "arXiv:2610.27746v5 Announce Type: replace-cross Abstract: Simulating economic responses at society scale requires decision rules that respond to household circumstances and accounting rules that track their consequences. We introduce S$^2$-MAS, a multi-agent simulation framework with a resource of 500 million synthetic household personas. It combines trainable candidate-scoring policies, reusable financial scenarios and explicit state transitions. Trained with SFT + RLCD on 2.93 million examples, YN-mini-MLX achieves 74.55% accuracy and 38.37% question-macro F1 on held-out consumer financial-choice tasks, improving on the training-question majority baseline by 2.78 and 6.21 percentage points. A completed application evaluates 12 million distinct households in two purchase-funding conditions: 24 million one-shot choices feed 288 million monthly ledger states in 3 h 59 min on 14 GPUs. Jointly increasing purchase goals and approved limits produces heterogeneous consumption, cash and repayment paths, with much of the consumption variation arising from transitions between deferral and purchase. In a separate 1,060-household retrospective consumption experiment, standalone YN-master-9B has 3.42% lower annual MAE than the deterministic fully rational benchmark, alongside a 19.7% lower predicted population mean than observed. Information-timing tests show how year labels and later outcome information change decisions. Together, these experiments establish an executable alternative for studying heterogeneous household behavior with learned policies and explicit financial accounting.",
+    "publishedAt": "2026-10-31",
+    "author": "Yang Li, Yike Wang, Di Wan, Chujun He, Zongsi Xu, Yitao Yu, Shuai Zhong, Minghao Pan, Quanfeng Lu, Xiyu Chen, Sheng Zhong, Deng Binjie, Yichen Guo, Zhenwei Guo, Hou Jun, Kunhan Guo, Weihao Lin, Tuo Zhou, Hai Liu, Chenwei Wu, Jianyuan Zhong, Xilin Dai, Ye Luo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

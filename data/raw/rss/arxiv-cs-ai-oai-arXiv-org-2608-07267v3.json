@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.07267v3",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.07267v3",
+    "title": "WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN",
+    "link": "https://arxiv.org/abs/2608.07267",
+    "description": "arXiv:2608.07267v3 Announce Type: replace Abstract: Recent vision-language navigation (VLN) systems increasingly adapt pretrained vision-language models (VLMs) into vision-language-action (VLA) policies that map egocentric observations and language instructions directly to navigation actions. Although semantically capable, such action-centric training does not explicitly model how the agent's visual observations evolve under its predicted motion. Generative world-action models (WAMs) jointly predict future observations and actions, yet existing WAMs for continuous VLN do not condition joint future-view and action generation on geometry-aware representations inferred from the observation history. We present WNM-3D, a generative World Navigation Model with 3D scene conditioning for continuous VLN. A frozen feed-forward geometry encoder extracts cross-view representations from monocular RGB history, and a trainable 3D Scene-to-Token Adapter converts them into a fixed-length scene prefix for the world-action Diffusion Transformer. Through block-causal attention, this prefix remains visible to every future video-action block throughout joint denoising, providing persistent geometric context. We train WNM-3D with supervised world-action learning, DAgger-style adaptation on policy-visited states, and Counterfactual DanceGRPO refinement. Across GN-Bench and VLN-CE, WNM-3D consistently outperforms the backbone-matched WNM-2D counterpart, demonstrating gains from 3D scene conditioning across distinct visual domains. WNM-3D further outperforms strong VLN baselines on GN-Bench and demonstrates closed-loop deployment on a physical robot. Component and stage-wise ablations support the Adapter design and the complementary roles of DAgger-SFT and subsequent reward-guided refinement.",
+    "publishedAt": "2026-10-31",
+    "author": "Yuehao Huang, Yunzi Wu, Xiaotao Zhang, Xinhai Li, Jiankun Dong, Sunyao Zhou, Jiajun Lv, Chi Zhang, Chenjia Bai, Yong Liu, Xuelong Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.29572v2",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.29572v2",
+    "title": "Turbo4DGen: Ultra-Fast Acceleration for 4D Generation",
+    "link": "https://arxiv.org/abs/2603.29572",
+    "description": "arXiv:2603.29572v2 Announce Type: replace-cross Abstract: 4D generation, or dynamic 3D content generation, integrates spatial, temporal, and view dimensions to model realistic dynamic scenes, playing a foundational role in advancing world models and physical AI. However, maintaining long-chain consistency across both frames and viewpoints through the unique spatio-camera-motion (SCM) attention mechanism introduces substantial computational and memory overhead, often leading to out-of-memory (OOM) failures and prohibitive generation times. To address these challenges, we propose Turbo4DGen, an ultra-fast acceleration framework for diffusion-based multi-view 4D content generation. Turbo4DGen introduces a spatiotemporal cache mechanism that persistently reuses intermediate attention across denoising steps, combined with dynamically semantic-aware attention pruning and an adaptive SCM chain bypass scheduler, to drastically reduce redundant SCM attention computation. Our experimental results show that Turbo4DGen achieves an average 9.7$\\times$ speedup without quality degradation on the ObjaverseDy and Consistent4D datasets. To the best of our knowledge, Turbo4DGen is the first dedicated acceleration framework for 4D generation.",
+    "publishedAt": "2026-10-31",
+    "author": "Yuanbin Man, Ying Huang, Zhile Ren, Miao Yin",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

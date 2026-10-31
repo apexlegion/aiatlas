@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-39372v1",
+  "name": "Cord: Confidence-Anchored Order Residual Decoding for Masked Diffusion Language Models",
+  "summary": "arXiv:2610.39372v1 Announce Type: cross Abstract: The decoding order of masked diffusion language models (dLLMs) can substantially affect generation quality, yet common decoders typically apply the...",
+  "description": "arXiv:2610.39372v1 Announce Type: cross Abstract: The decoding order of masked diffusion language models (dLLMs) can substantially affect generation quality, yet common decoders typically apply the same reveal rule throughout generation. Confidence provides a strong default, but it measures how decisively a position can be predicted now, not how useful revealing that position will be for subseq...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.39372"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-31",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.39372"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-31",
+  "expiryAt": "2026-11-30T00:00:00.000Z",
+  "author": "Chengwei Zhou, Zhaoyan Jia, Massoud Pedram, Gourav Datta"
+}

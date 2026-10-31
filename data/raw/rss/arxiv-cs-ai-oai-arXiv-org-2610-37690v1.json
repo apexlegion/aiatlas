@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.37690v1",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.37690v1",
+    "title": "Cassette-Editor: A Video Editing Agent That Edits the Way You Do",
+    "link": "https://arxiv.org/abs/2610.37690",
+    "description": "arXiv:2610.37690v1 Announce Type: cross Abstract: Language agents increasingly work by calling tools on a persistent artifact, such as a code repository, and the result of each call shapes their next step. Video editing is a demanding case of this pattern: what a frame shows depends on how every clip is trimmed, retimed, cropped, and nested, so knowledge about the footage holds only for particular uses of it, and an invalid edit can leave the timeline structurally broken. Existing video editing agents keep their edits valid with critic agents, reviewers, or restricted output formats. We present Cassette-Editor, a video editing agent with a deliberately simple interface: one tool reads the project and one tool writes to it. Every write passes through the same executor, rules, and commit service as the user's manual edits, and either commits atomically or is rejected with located diagnostics and repair options, while the model keeps the creative choices and decides how to recover. Reads relate stored analysis of the footage to each use of it on the timeline. In a controlled experiment, a real model is shown 277 of its own committed edits after damaging them. It corrected nearly every call with full or minimal feedback, but locating each problem cut the input tokens a correction needed to less than half, and its corrections dropped other values the model had written in one case rather than seven.",
+    "publishedAt": "2026-10-31",
+    "author": "Zhixin Zeng, Jiahao Zhong",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

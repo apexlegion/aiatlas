@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.02959v2",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.02959v2",
+    "title": "The Direction of Ignorance: LLMs Encode and Temper a Unigram Prior",
+    "link": "https://arxiv.org/abs/2609.02959",
+    "description": "arXiv:2609.02959v2 Announce Type: replace-cross Abstract: What does a language model predict when it has few clues?The answer lies in its unembedding geometry: a single direction of the unembedding matrix encodes the unigram distribution of the training corpus, which serves as the Bayesian prior the model falls back on when uncertain. This structure, termed the direction of ignorance, appears across all model families examined (Llama, Qwen, Gemma, and Pythia), ranging from 0.4B to 405B parameters. Projecting the final prediction state onto this direction yields a per-token prior loading factor $\\lambda$, which declines steadily as the context becomes more informative. Formally, the same projection decomposes the prediction state into two orthogonal vectors interpretable as the two components of a tempered Bayesian update: a unigram prior raised to the exponent $\\lambda$ and a context-driven likelihood. This geometric probabilistic connection makes $\\lambda$ meaningfully comparable across model sizes and families. Larger models generally exhibit lower prior reliance, and reasoning models exhibit lower reliance than their base counterparts. Finally, we show that $\\lambda$ serves as a causal, inference-time control: reducing it can promote context-driven continuations and improve Llama-3.2-3B-Instruct on GSM8K, whereas amplifying it or applying matched perturbations along random directions degrades performance.",
+    "publishedAt": "2026-10-31",
+    "author": "Toni J. B. Liu, Jiajun Bao, Gurbir Arora, Mitchell Ostrow, Yizhou Liu, Rapha\\\"el Sarfati, Nicolas Boull\\'e, Christopher J. Earls",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

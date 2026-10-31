@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.22973v3",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.22973v3",
+    "title": "Worse than Random: The Importance of a Baseline for Unsupervised Feature Selection -- Extended Version",
+    "link": "https://arxiv.org/abs/2605.22973",
+    "description": "arXiv:2605.22973v3 Announce Type: replace-cross Abstract: Many novel unsupervised feature selection methods are proposed each year, yet their empirical evaluation is limited to supervised and unsupervised evaluation metrics computed on selected datasets, along with comparisons to existing methods. However, in the absence of an established evaluation baseline, it is difficult to determine the value added to the existing literature by each of these methods, and how effective their underlying approaches are. In this evaluation study, we are using random feature selection as a baseline for evaluating unsupervised feature selection methods. While a random selection of features might seem to be a rather weak baseline, we show in this evaluation study that many of the state-of-the-art methods in unsupervised feature selection are outperformed by random feature selection in both performance and efficiency. Accordingly, we emphasize the strict requirement of considering random feature selection as a baseline in the development process of novel unsupervised feature selection methods, and we encourage the community to develop better evaluation measures for feature selection. Both would help to ensure consistent improvement and realistic assessment.",
+    "publishedAt": "2026-10-31",
+    "author": "Muhammad Rajabinasab, Michael E. Houle, Oussama Chelly, Arthur Zimek",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-38526v1",
+  "name": "Value Probes: Learned Value Functions for Beam-Search Red Teaming",
+  "summary": "arXiv:2610.38526v1 Announce Type: new Abstract: Automated red-team auditing of language models is an important way to evaluate safety-relevant behaviors. These audits implicitly search a tree of po...",
+  "description": "arXiv:2610.38526v1 Announce Type: new Abstract: Automated red-team auditing of language models is an important way to evaluate safety-relevant behaviors. These audits implicitly search a tree of possible conversation pathways: at each turn an auditor model decides which conversation to continue, and an LLM judge scores the dialogue. We emphasize that this auditing procedure is a Markov decision...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.38526"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-31",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.38526"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-31",
+  "expiryAt": "2026-11-30T00:00:00.000Z",
+  "author": "Jonathan F. Jao, Andrew Kyle Lampinen"
+}

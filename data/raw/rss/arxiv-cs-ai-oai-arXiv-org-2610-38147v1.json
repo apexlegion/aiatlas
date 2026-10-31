@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.38147v1",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.38147v1",
+    "title": "SkillCT: A Multidimensional Benchmark and Execution-Free Baseline for Agent Skill Assessment",
+    "link": "https://arxiv.org/abs/2610.38147",
+    "description": "arXiv:2610.38147v1 Announce Type: new Abstract: Agent skills package instructions, scripts, and resources for specialized tasks and are increasingly distributed through public Web repositories. However, existing skill benchmarks primarily focus on downstream task execution, insufficiently assessing specification quality, behavioral robustness, semantic alignment, and responsibility boundaries. Their reliance on task-specific tools, environments, and repeated executions limits scalability and pre-deployment assessment. To address these challenges, we introduce SkillCT, a benchmark that broadens skill assessment from downstream utility to a multidimensional characterization of skill quality. SkillCT evaluates skills across nine complementary dimensions spanning three aspects: Static Assessment, which captures intrinsic properties of the skill specification; Dynamic Assessment, which measures whether the induced behavior remains stable across backbone models and request variations; and Human-Assisted Assessment, which examines behavior-chain consistency and task granularity. These dimensions provide a broader view of skill quality than execution success. Applying SkillCT to a public skill corpus establishes a reference benchmark for analyzing quality weaknesses and relationships across dimensions. Building on this benchmark, we propose an execution-free quality evaluation baseline that predicts the multidimensional quality profiles of unseen skills by retrieving and leveraging similar reference skills, without executing the skills under evaluation. This reduces token consumption and evaluation time, while preserving consistency with the full assessment. Furthermore, SkillCT-guided optimization improves downstream task success and execution efficiency, demonstrating its value for skill refinement. These findings highlight the effectiveness of SkillCT in supporting scalable skill assessment, optimization, and repository maintenance.",
+    "publishedAt": "2026-10-31",
+    "author": "Mengyu Sun, Zunlong Zhou, Ziyuan Yang, Yi Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

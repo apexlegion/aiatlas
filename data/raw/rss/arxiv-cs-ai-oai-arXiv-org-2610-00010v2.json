@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.00010v2",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.00010v2",
+    "title": "Heavy-Tailed Memory Traces in Long-Horizon Language Agents",
+    "link": "https://arxiv.org/abs/2610.00010",
+    "description": "arXiv:2610.00010v2 Announce Type: replace Abstract: Long-horizon language agents are becoming increasingly important for tasks that require persistent interaction, planning, and reasoning over extended trajectories. External memory plays a central role in these agents by preserving past states, transitions, and experiences beyond the limited context window. Existing memory systems, however, are typically evaluated mainly by task success and token cost, with much less attention to how memory usage is distributed across stored information. We show that repeated retrieval can produce heavy-tailed memory usage, where a small set of states is accessed frequently while many others are rarely retrieved and more prone to prediction errors. We study this phenomenon through a systematic tail audit across retrieval policies and graph structures. We find that memory concentration is reproducible but strongly policy-dependent, ranging from log-normal-compatible patterns under random walks to truncated-power-law-compatible heavy tails under semantic LLM policies. Motivated by these findings, we propose Core-Tail Memory Controller (CTMC), a rank-based memory controller that allocates prompt budget with a single exponent $\\tau$ while preserving summarized information from the tail. Across Synthetic Graph World and ALFWorld, CTMC substantially reduces memory usage while preserving performance, and on LongMemEval it reduces prompt tokens by 24.48% while maintaining aggregate accuracy. These results show that heavy-tailed memory usage is both a measurable property of long-horizon agent memory and a practical signal for improving memory efficiency.",
+    "publishedAt": "2026-10-31",
+    "author": "Xinyuan Song, Zekun Cai",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2510.00361v3",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2510.00361v3",
+    "title": "Attribution Gradients: Incrementally Unfolding Citations for Critical Examination of Attributed AI Answers",
+    "link": "https://arxiv.org/abs/2510.00361",
+    "description": "arXiv:2510.00361v3 Announce Type: replace-cross Abstract: AI answer engines are a relatively new kind of information search tool: rather than returning a ranked list of documents, they generate an answer to a search question with inline citations to sources. But reading the cited sources is costly, and citation links themselves offer little guidance about what evidence they contain. We present attribution gradients, a technique to boost the informativeness of citations by consolidating scent and information prey in place. Its first feature is bringing evidence counts, supporting/contradictory excerpts, links to sources, and contextual explanations into one place. Its second feature is the ability to unravel second-degree citations in place. In a lab study, we demonstrate usage of the full gradient in a critical reading task and its support for deep engagement that increased the depth of what readers took away from the sources versus a standard citation and document QA design.",
+    "publishedAt": "2026-10-31",
+    "author": "Hita Kambhamettu, Alyssa Hwang, Philippe Laban, Andrew Head",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2412.08556v4",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2412.08556v4",
+    "title": "Exact Algorithms for Multiagent Path Finding with Communication Constraints on Tree-Like Structures",
+    "link": "https://arxiv.org/abs/2412.08556",
+    "description": "arXiv:2412.08556v4 Announce Type: replace-cross Abstract: Consider the scenario where multiple agents have to move in an optimal way through a network, each one towards their ending position while avoiding collisions. By optimal, we mean as fast as possible, which is evaluated by a measure known as the makespan of the proposed solution. This is the setting studied in the Multiagent Path Finding problem. In this work, we additionally provide the agents with a way to communicate with each other. Due to size constraints, it is reasonable to assume that the range of communication of each agent will be limited. What should be the trajectories of the agents to, additionally, maintain a backbone of communication? In this work, we study the Multiagent Path Finding with Communication Constraint problem under the parameterized complexity framework. Our main contribution is three exact algorithms that are efficient when considering particular structures for the input network. We provide such algorithms for the case when the communication range and the number of agents (the makespan resp.) are provided in the input and the network has a tree topology, or bounded maximum degree (has a tree-like topology, i.e., bounded treewidth resp.). We complement these results by showing that it is highly unlikely to construct efficient algorithms when considering the number of agents as part of the input, even if the makespan is $3$ and the communication range is $1$.",
+    "publishedAt": "2026-10-31",
+    "author": "Foivos Fioravantes, Du\\v{s}an Knop, Jan Maty\\'a\\v{s} K\\v{r}i\\v{s}\\v{t}an, Nikolaos Melissinos, Michal Opler",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

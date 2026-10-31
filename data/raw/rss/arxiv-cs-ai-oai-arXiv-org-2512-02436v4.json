@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2512.02436v4",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2512.02436v4",
+    "title": "Agentic AI for Clustering and Relationship Discovery in Prediction Markets",
+    "link": "https://arxiv.org/abs/2512.02436",
+    "description": "arXiv:2512.02436v4 Announce Type: replace Abstract: Prediction market platforms list thousands of contracts whose logical and economic connections are implicit in their resolution rules. We introduce a hierarchical agentic reduction (HAR) pipeline for constructing inspectable cross-event relation graphs and a behavioral benchmark for evaluating their alignment with market prices. This partitions a catalog of prediction markets, specified by question and resolution text, into topic clusters, applies typed LLM reasoning to small batches, and proposes signed relations with rationales between specific markets. We evaluate semantic relation graphs spanning eight monthly Kalshi catalogs (February to September 2026). Using data from 30.3 million trades, we compute a benchmark that compares linked pairs' signed price-change correlations with those of matched, unlinked controls from the same topic cluster on identical timestamps. Under full-sample and leave-first-week-out evaluation, relations identified by our pipeline exhibit higher signed Pearson price-change correlations, with statistical significance, than matched within-topic controls. This increase also appears under Spearman correlation and becomes larger among relations labeled as medium or high strength. This benchmark provides a criterion for comparing relation-discovery methods against observations beyond their input text, and our results indicate the ability of agentic AI and LLM reasoning to identify meaningful relations between individual markets in connected Web marketplaces.",
+    "publishedAt": "2026-10-31",
+    "author": "Agostino Capponi, Alfio Gliozzo, Brian Zhu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

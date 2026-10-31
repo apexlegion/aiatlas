@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.33478v2",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.33478v2",
+    "title": "MarineLife-16K: An Attribute-Rich Video-Text Dataset for Motion-Aware Marine Video Understanding",
+    "link": "https://arxiv.org/abs/2610.33478",
+    "description": "arXiv:2610.33478v2 Announce Type: replace-cross Abstract: Marine video understanding is crucial for a wide range of real-world applications. However, existing marine video datasets suffer from limitations, including the limited number of data samples, fine-grained text descriptions, and detailed visual attributes. To address these limitations, we introduce a large-scale, video-text dataset featuring rich, in-the-wild visual attributes tailored for complex marine environments. Our dataset comprises 2,000 video-text pairs annotated with 13 attributes covering up to four objects per scene, object visual/geometric properties, behaviors, environmental context, and camera motion, spanning diverse lighting conditions, times of day, and 7 countries. From these annotations, we generate 16,080 video-question pairs (12,080 multiple-choice, 4,000 open-ended). Furthermore, we benchmark both proprietary and open-source video-LLM models on video question answering and video captioning tasks. We find that (i) proprietary models often achieves superior performances; (ii) VLMs handle object motion well but struggle with complex camera motion; (iii) closed-source models struggle to perceive camera motion; and (iv) VLMs struggle to reason in static cameras.",
+    "publishedAt": "2026-10-31",
+    "author": "Quang-Trung Truong, Thanh-Nghia Nguyen, Phu-Phong Vo, Jaeyeon Kim, Cheng Chen, Jie Zhang, Binh-Son Hua, Duc Thanh Nguyen, Ivor Tsang, Sai-Kit Yeung",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

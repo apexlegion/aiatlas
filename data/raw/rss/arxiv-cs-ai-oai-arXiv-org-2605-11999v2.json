@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.11999v2",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.11999v2",
+    "title": "The Illusion of Power Capping in LLM Decode: A Phase-Aware Energy Characterisation Across Attention Architectures",
+    "link": "https://arxiv.org/abs/2605.11999",
+    "description": "arXiv:2605.11999v2 Announce Type: replace-cross Abstract: Power capping is a common GPU energy lever in LLM serving, and it appears to work: the cap is set, the GPU reports drawing less than it, and the energy budget is met. We show the cap does little for the phase that dominates LLM serving: autoregressive decode. Across four attention paradigms (GQA, MLA, Gated DeltaNet, and Mamba2) on an NVIDIA H200 under vLLM eager execution, decode kernels wait on HBM and the GPU idles between kernel launches, so decode draws less than half of the GPU's 700W rating and throughput stays within a few percent under every cap we set. The cap engages only when a large batch runs a long generation. Locking the SM clock instead lowers power without slowing memory-bound decode and recovers up to 32% of decode energy at minimal throughput loss. We identify three architecture-dependent frequency-scaling classes and find that, once prefill is measured without prefix caching, the recurrent architectures pay no prefill penalty: their linear-time mixing undercuts quadratic attention on long prompts, so their efficient decode adds to the prefill saving and lowers total request energy from the first output token at large batch.",
+    "publishedAt": "2026-10-31",
+    "author": "Bole Ma, Ayesha Afzal, Jan Eitzinger, Gerhard Wellein",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

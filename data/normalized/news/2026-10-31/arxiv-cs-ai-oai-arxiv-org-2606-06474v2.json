@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2606-06474v2",
+  "name": "Self-Augmenting Retrieval for Diffusion Language Models",
+  "summary": "arXiv:2606.06474v2 Announce Type: replace-cross Abstract: Diffusion language models generate text by iteratively denoising an entire response in parallel, holding a noisy draft of the answer at eve...",
+  "description": "arXiv:2606.06474v2 Announce Type: replace-cross Abstract: Diffusion language models generate text by iteratively denoising an entire response in parallel, holding a noisy draft of the answer at every step. We show that these intermediate states surface salient entities early in the denoising trajectory, making them a useful lookahead signal for retrieval-augmented generation (RAG). We further d...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2606.06474"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-31",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2606.06474"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-10-31",
+  "expiryAt": "2026-11-30T00:00:00.000Z",
+  "author": "Paul J\\\"unger, Justin Lovelace, Linxi Zhao, Dongyoung Go, Kilian Q. Weinberger"
+}

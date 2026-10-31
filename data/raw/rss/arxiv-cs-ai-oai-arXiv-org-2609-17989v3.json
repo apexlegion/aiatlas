@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.17989v3",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.17989v3",
+    "title": "Whom Do AI Agents Serve? Role-Induced Sponsorship Bias in Decision Models and Generative LLMs",
+    "link": "https://arxiv.org/abs/2609.17989",
+    "description": "arXiv:2609.17989v3 Announce Type: replace-cross Abstract: Consumers increasingly delegate product search to AI shopping agents powered either by generative large language models (LLMs) that deliberate in natural language or by non-generative decision models that output calibrated choice probabilities in a single forward pass. Because retail platforms monetize through sponsored placements that shoppers typically discount, we examine whether an AI agent's evaluation of paid listings depends on who delegates the agent across both model families. Across three studies with no instructions to favor advertisers, naming a booking platform (vs. a traveler) as the agent's principal significantly attenuates the penalty applied to sponsored listings. Study 1 establishes this sponsorship bias across generative LLMs, prompt wordings, and reasoning efforts, showing that platform delegation weakens pre-choice skepticism and that naming the consumer as the beneficiary eliminates the bias. Study 2 establishes the bias across six commercial and open-weight decision models on calibrated choice probabilities and shows that consumer-aligned fine-tuning of an open-weight decision model (Kev 9B) across non-hotel retail categories eliminates the bias zero-shot on hotel choices. Study 3 decomposes the disclosure label across both model families, showing that attributing the placement to the platform triggers the sponsorship bias, whereas stricter disclosure wording (\"Sponsored\" vs. \"Promoted\") lowers paid-listing evaluation without eliminating this bias.",
+    "publishedAt": "2026-10-31",
+    "author": "Davood Wadi, Yu Ma",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

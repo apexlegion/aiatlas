@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.04127v2",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.04127v2",
+    "title": "Epistemic Warrant for LLM Recommendations: Characterizing the Basis for Reliance When Ground Truth Is Unavailable",
+    "link": "https://arxiv.org/abs/2609.04127",
+    "description": "arXiv:2609.04127v2 Announce Type: replace Abstract: Large language models are increasingly used to support organizational decisions. Despite their rapid and widespread adoption, users often lack a principled basis for assessing whether to rely on a specific recommendation. We introduce \\emph{epistemic warrant}, a decision-level construct that characterizes the scope over which a recommendation is supported. We operationalize this construct through a reliance certificate that uses behavioral evidence from four tiers of tests to assess a recommendation's underlying warrant and assign it to a warrant category. We assess this operationalization using complementary forms of construct-validity evidence, including transformation validity, known-groups tests, independent human consensus, discriminant analyses, and robustness across models and alternative implementations. The results show that the certificate behaves in theoretically expected ways: its transformations instantiate their intended relationships, certificate assignments increase across groups prespecified to represent increasing levels of warrant, and stronger assigned warrant is associated with greater independent human consensus. Certificate assignments also capture information beyond verbalized confidence and are not readily explained by decision difficulty. The main conclusions remain robust across models and operationalizations. These findings support the reliance certificate as an operationalization of epistemic warrant for assessing the scope of support for a particular LLM recommendation when ground truth is unavailable.",
+    "publishedAt": "2026-10-31",
+    "author": "Shai Vardi, Jo\\~ao Sedoc",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

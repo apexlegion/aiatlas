@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.06840v4",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.06840v4",
+    "title": "Characterize Then Distill: Mechanistic Reasoning in Large Output Spaces",
+    "link": "https://arxiv.org/abs/2606.06840",
+    "description": "arXiv:2606.06840v4 Announce Type: replace-cross Abstract: Reasoning-trained language models can select, zero-shot, a small set of relevant labels from thousands to hundreds of thousands of candidates. We ask how they do it mechanistically, and whether the mechanism can be distilled. We treat each decision as a token-level event scored by the model's own decision margin: the token that picks a coarse region of the label space, the tokens that pick a label within it, and the token where the output departs from a near-miss named earlier in the reasoning. Attribution, exact mean-ablation, knock-in into another example's context and a null calibration give individual attention heads causal standing. On clinical coding of MIMIC-IV discharge summaries, with all 5,651 candidate codes in context, a small, global, phase-structured set of heads is necessary and sufficient on essentially every summary; distinct head families read the candidate region and the earlier near-miss, and blocking what they read removes their effect; for mentions elicitable in the reasoning, a disjoint mid-layer set makes the region elicitable several tokens before the code. The structure recurs in a second reasoner. We introduce MISTILL, which, unlike chain-of-thought distillation, also supervises the student's pooled attention at these decision events. Read on heads found after training, it nearly doubles the causal recovery of the contrastive decision in a cross-family student and adds a small, seed-stable gain in one that already carries most of it, with no detected task difference at matched precision; under matched selection it exceeds a frozen random-head pool on both recovery and task score. A pre-registered evidence-flip test detected no improvement in evidence-dependent decisions through the tested routes.",
+    "publishedAt": "2026-10-31",
+    "author": "Debjyoti Saha Roy",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

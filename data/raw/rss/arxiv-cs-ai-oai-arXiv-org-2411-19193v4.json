@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2411.19193v4",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2411.19193v4",
+    "title": "The Price of Failure Risk: Clipped Barrier Policy Gradients with Convex Regularization",
+    "link": "https://arxiv.org/abs/2411.19193",
+    "description": "arXiv:2411.19193v4 Announce Type: replace-cross Abstract: In many control problems, actions consume a resource budget, such as a wear allowance, and the probability of exhausting it within a given horizon must stay below a tolerance. A simple, widely used approach is to augment the state with the remaining budget, subtract an interior barrier from the utility and penalize exhaustion, so that policy-gradient methods can be applied unchanged. We clip the combined one-step reward from below at a level m to keep the returns of exploratory policies finite. The clip level is a price of failure risk, since the clipped value decomposes exactly into the utility before failure, the cost of the interior margin and m times a geometric failure risk. Consequently, an approximately optimal policy maximizes utility net of margin cost among policies with no greater risk. Its risk exceeds that of any comparison policy by at most order 1/m and can be certified from its value or from validation data. Our main result proves exponential convergence of the population policy-gradient flow for every parameter regularizer that is convex along generalized geodesics and sufficiently strong relative to the price. This extends the mean-field analysis from relative entropy to weight decay and to finite networks. Relative entropy adds parameter noise and a pull toward a prior, whereas weight decay provides only the pull. Action regularization bounds changes in failure risk by the relative entropy to a reference policy. The bounds are evaluated on an exact maintenance benchmark, a fuel-tank controller, a solvable flow and a benchmark-suite task.",
+    "publishedAt": "2026-10-31",
+    "author": "Pekka Malo, Lauri Viitasaari, Antti Suominen, Eeva Vilkkumaa, Olli Tahvonen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

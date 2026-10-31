@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.17843v2",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.17843v2",
+    "title": "Decodable but Not Actionable: Auditing the Representation-Behavior Gap in Frozen LLMs for Geometric Constraints",
+    "link": "https://arxiv.org/abs/2608.17843",
+    "description": "arXiv:2608.17843v2 Announce Type: replace-cross Abstract: Large language models (LLMs) perform well on structured reasoning tasks, but what they encode and whether encoded information guides their behavior remain unclear. We introduce a controlled auditing framework that uses parametric CAD to distinguish failures of encoding, expression, and activation-level control. Applied to eight pretrained models and matched randomly initialized controls, our framework reveals that pretraining contributes substantially more to linear decoding of local relations than to global constraint status, which is already highly decodable from random representations. Yet strong local decodability does not translate into the models' zero-shot predictions, which remain far below supervised probe performance. Restoring clean internal activations can repair probe predictions, whereas simple activation steering does not provide reliable targeted control. With only 400 labeled relation pairs, low-rank fine-tuning substantially improves generation on three representative models, showing that the representation--behavior gap can be reduced through adaptation. Together, these findings show why decodability alone is insufficient evidence that encoded information will be expressed or controllable in model behavior.",
+    "publishedAt": "2026-10-31",
+    "author": "Man Liang, Xinzhao Cheng, Faizan Wajid",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

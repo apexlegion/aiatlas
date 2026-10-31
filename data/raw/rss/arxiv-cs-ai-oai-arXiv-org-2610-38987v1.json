@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.38987v1",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.38987v1",
+    "title": "Syntactic Segmentation and Collage Generation for Videogame Levels with Perceptual Distance",
+    "link": "https://arxiv.org/abs/2610.38987",
+    "description": "arXiv:2610.38987v1 Announce Type: new Abstract: In procedural videogame level design, many existing techniques combine hand-authored level chunks. Some existing analysis techniques also rely on a higher-level graph structure which abstracts the level design. In this paper, we explore techniques for computing both of these things automatically from an existing design. We introduce the concept of perceptual distance, based on analysis techniques from the architecture subfield of Space Syntax. We use this perceptual distance to segment level designs with hierarchical clustering. We compare with past work on StarCraft analysis, show results on rooms from Super Metroid, and also demonstrate a proof-of-concept level generation algorithm based on this segmentation method.",
+    "publishedAt": "2026-10-31",
+    "author": "Ross Mawhorter, Matthew Guzdial",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.03918v3",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.03918v3",
+    "title": "Hedge-Bench: Can Agents Reason Their Way to Better Predictions?",
+    "link": "https://arxiv.org/abs/2606.03918",
+    "description": "arXiv:2606.03918v3 Announce Type: replace Abstract: Modern AI agents are increasingly capable of routine financial-analysis tasks such as retrieving documents and updating spreadsheets. A harder challenge is forecasting an unknown future from incomplete information. Public markets provide a natural testbed: analysts routinely predict discrete events with information from that point in time. We present Hedge-Bench, a benchmark of 92 real-world environments derived from hedge fund analysts' reasoning traces paired with subsequently resolved prediction questions. Agents reason from frozen information snapshots, and their forecasts are evaluated against real-world outcomes. Across 11 frontier models and three trials per environment, joint success rates, which require both a correct forecast and over 60% research coverage, range from 2.54 to 31.52%. Using GRPO with turn-level credit assignment, we train Muse-Glimmer on 165 environments, increasing coverage on 22 held-out environments from 17.17% to 33.36% at low reasoning effort and from 30.19% to 47.02% at extra-high effort. The trained model at low effort also exceeds the base model's extra-high-effort coverage while using 47.9% fewer tokens. We also observe evidence of generalization: held-out forecasting accuracy at high effort improves by 10.06 percentage points, while out-of-distribution evaluation scores improve by 3.94 points on GDPval, 2.29 on GDP_pdf, 7.07 on Harvey LAB, and 4.96 on Frontier Finance under their respective metrics. Code: https://github.com/Trata-Inc/trata-hedge-bench-verified.",
+    "publishedAt": "2026-10-31",
+    "author": "Mahesh Ramesh, Eric Cho, Alice Lu, Shawn Huang, Baiqing Lyu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

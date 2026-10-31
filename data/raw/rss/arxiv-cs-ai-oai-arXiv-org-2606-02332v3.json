@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.02332v3",
+  "fetchedAt": "2026-10-31T08:17:37.136Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.02332v3",
+    "title": "Forget Attention: Importance-Aware Attention Is All You Need",
+    "link": "https://arxiv.org/abs/2606.02332",
+    "description": "arXiv:2606.02332v3 Announce Type: replace Abstract: Attention retrieves content precisely, but its scores depend only on query--key products, leaving order and recency to positional encodings. Conversely, state-space models (SSMs) such as Mamba-3 track order and recency through input-dependent state transitions that decay and rotate, yet compressing context into a fixed-size state hampers precise retrieval. Hybrids like Samba and Hymba exploit this complementarity only across layers or heads, so SSM transitions never shape attention scores directly. The closest prior work, the Forgetting Transformer (FoX), adds an input-dependent forget gate to the scores but reweights attention by recency alone. We propose SSM-Informed Softmax Attention (SISA), which builds Mamba-3-style state transitions, rotation included, directly into the scores alongside FoX's gate. Each logit receives the weight such an SSM would give that token pair: a decayed match between rotated SSM projections. This rotation already encodes relative position, so SISA drops RoPE; restoring it raises loss. SISA outperforms parameter-matched Transformer and FoX in language modeling and length extrapolation. Among the attention models we compare, hybrids included, only SISA benefits from context beyond the training window. Building SSM transitions into the scores yields stronger attention, and our kernels make it faster and leaner than baselines on their official or standard kernels.",
+    "publishedAt": "2026-10-31",
+    "author": "Suhyeong Shin, Yeongwook Yang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
