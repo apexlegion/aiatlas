@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2610-41998",
+  "name": "SecPO: Principled Adversarial Training for Prompt Injection Security",
+  "summary": "Recognized as a top threat to AI agents, prompt injection allows instructions from untrusted data (email, documents, websites) to manipulate the agent's operation. The existing best-defended LLM, M...",
+  "description": "Recognized as a top threat to AI agents, prompt injection allows instructions from untrusted data (email, documents, websites) to manipulate the agent's operation. The existing best-defended LLM, Meta-SecAlign, is trained with the DPO loss but still suffers from attack success rates (ASRs) approaching 100% under adaptive prompt injections. One reason is that DPO anchors the model around the undefended reference model, which is insecure. We show an idealized reference model---an injection-invariant, utility-preserving oracle---can nevertheless be approximated, as its output distribution in t...",
+  "tags": [
+    "arxiv",
+    "cs.CR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.41998v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-30",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CR.",
+      "href": "https://arxiv.org/abs/2610.41998v1"
+    }
+  ],
+  "authors": [
+    "Sizhe Chen",
+    "Yibo Peng",
+    "Jaewon Chang",
+    "Chawin Sitawarin",
+    "David Wagner"
+  ],
+  "paperId": "2610.41998",
+  "category": "cs.CR",
+  "publishedAt": "2026-10-30",
+  "abstract": "Recognized as a top threat to AI agents, prompt injection allows instructions from untrusted data (email, documents, websites) to manipulate the agent's operation. The existing best-defended LLM, Meta-SecAlign, is trained with the DPO loss but still suffers from attack success rates (ASRs) approaching 100% under adaptive prompt injections. One reason is that DPO anchors the model around the undefended reference model, which is insecure. We show an idealized reference model---an injection-invariant, utility-preserving oracle---can nevertheless be approximated, as its output distribution in t..."
+}

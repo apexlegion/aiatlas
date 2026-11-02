@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2610-42030",
+  "name": "There Is No Free Loop: When Does Looping a Trained Model Pay for Its Inference Compute?",
+  "summary": "Looping re-applies a block of layers so that each token passes through the block more than once. Adding a loop to a trained model is attractive because it leaves the parameter count, and hence the...",
+  "description": "Looping re-applies a block of layers so that each token passes through the block more than once. Adding a loop to a trained model is attractive because it leaves the parameter count, and hence the disk size, the memory footprint and the training cost unchanged. Unfortunately, every generated token pays for the loop. Re-applying m of N layers makes each token about (N+m)/N times as expensive. Loops that a model learns during large-scale pretraining justify this price, but whether loops added after pretraining justify this cost remains unclear. We compare a looped model with two simple baseli...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.42030v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-30",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2610.42030v1"
+    }
+  ],
+  "authors": [
+    "Rhea Sanjay Sukthanker",
+    "Pashmina Cameron"
+  ],
+  "paperId": "2610.42030",
+  "category": "cs.LG",
+  "publishedAt": "2026-10-30",
+  "abstract": "Looping re-applies a block of layers so that each token passes through the block more than once. Adding a loop to a trained model is attractive because it leaves the parameter count, and hence the disk size, the memory footprint and the training cost unchanged. Unfortunately, every generated token pays for the loop. Re-applying m of N layers makes each token about (N+m)/N times as expensive. Loops that a model learns during large-scale pretraining justify this price, but whether loops added after pretraining justify this cost remains unclear. We compare a looped model with two simple baseli..."
+}

@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2610-42036",
+  "name": "Learning Clean Generative Processes from Noisy Measurements",
+  "summary": "We study how to learn a generative model of clean images using only noisy observations. Diffusion processes and their generalizations to non-Gaussian noise require posterior predictions at every no...",
+  "description": "We study how to learn a generative model of clean images using only noisy observations. Diffusion processes and their generalizations to non-Gaussian noise require posterior predictions at every noise level. We first show that it is possible to learn these predictions from independent noisy views using Noise2Noise regression, but only at or above the noise level of the training data. To learn the predictions below that level, needed to generate clean images, we impose consistency: a prediction should equal its expectation after continuing the sampling process. We derive conditions under whi...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.42036v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-30",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2610.42036v1"
+    }
+  ],
+  "authors": [
+    "Fabian Kruse",
+    "Lorenzo Baldassari",
+    "Ivan Dokmanić"
+  ],
+  "paperId": "2610.42036",
+  "category": "cs.CV",
+  "publishedAt": "2026-10-30",
+  "abstract": "We study how to learn a generative model of clean images using only noisy observations. Diffusion processes and their generalizations to non-Gaussian noise require posterior predictions at every noise level. We first show that it is possible to learn these predictions from independent noisy views using Noise2Noise regression, but only at or above the noise level of the training data. To learn the predictions below that level, needed to generate clean images, we impose consistency: a prediction should equal its expectation after continuing the sampling process. We derive conditions under whi..."
+}

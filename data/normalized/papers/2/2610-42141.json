@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2610-42141",
+  "name": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+  "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet...",
+  "description": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses are built by hand and redesigned for each new robot or benchmark. We show that harness design can be automated, offering a strong alternative to finetuning on a novel setup. In RoboArchitect, a coding model observes a robot's rollouts, diagnoses failures, and iteratively revises the harness around the frozen policy. The harness evolves on a set of episodes for its optimizati...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2610.42141v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-10-30",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2610.42141v1"
+    }
+  ],
+  "authors": [
+    "Shengguang Wu",
+    "Suning Huang",
+    "Cherie Ho",
+    "Ria Doshi",
+    "Hao Zhu",
+    "Serena Yeung-Levy"
+  ],
+  "paperId": "2610.42141",
+  "category": "cs.RO",
+  "publishedAt": "2026-10-30",
+  "abstract": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harnesses are built by hand and redesigned for each new robot or benchmark. We show that harness design can be automated, offering a strong alternative to finetuning on a novel setup. In RoboArchitect, a coding model observes a robot's rollouts, diagnoses failures, and iteratively revises the harness around the frozen policy. The harness evolves on a set of episodes for its optimizati..."
+}

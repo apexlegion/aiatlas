@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T09:00:29.529Z",
+  "generatedAt": "2026-11-02T09:15:50.197Z",
   "entries": {
     "automatic1111-stable-diffusion-webui": {
       "slug": "automatic1111-stable-diffusion-webui",
@@ -176,224 +176,224 @@
         "jupyter notebook"
       ]
     },
-    "2610-40532": {
-      "slug": "2610-40532",
-      "typedId": "paper/2610-40532",
-      "name": "BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing",
+    "2610-41968": {
+      "slug": "2610-41968",
+      "typedId": "paper/2610-41968",
+      "name": "Prune Gradually, Adapt Sparsely: Efficient Pruning of Large Language Models at Extreme Sparsity",
       "type": "paper",
-      "summary": "How effectively can vision-language-action (VLA) models learn diverse language-conditioned behaviors as training data scales? Investigating this question requires large and varied robot datasets, w...",
-      "tags": [
-        "arxiv",
-        "cs.RO"
-      ]
-    },
-    "2610-40535": {
-      "slug": "2610-40535",
-      "typedId": "paper/2610-40535",
-      "name": "Efficient Scalable Oversight via Rewinding",
-      "type": "paper",
-      "summary": "Scalable oversight asks how a weak verifier can check the outputs of computations performed by more powerful AI systems. One proposed approach uses relativizing interactive proofs, in which a weak...",
+      "summary": "Weight pruning can reduce the storage and inference cost of large language models (LLMs), but preserving quality at high sparsity levels remains challenging. Existing methods face a quality-cost tr...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2610-40541": {
-      "slug": "2610-40541",
-      "typedId": "paper/2610-40541",
-      "name": "On the Fundamental Limits of Prefill-Based Decoding Length Prediction",
+    "2610-41970": {
+      "slug": "2610-41970",
+      "typedId": "paper/2610-41970",
+      "name": "When Does Test-Time Search Help World Action Models? An Empirical Audit of Candidate Selection and Simulator Integrity",
       "type": "paper",
-      "summary": "Predicting how many tokens a large language model (LLM) will decode, using only prefill-phase hidden states, is a key primitive for inference scheduling. We show that current benchmarks conflate pr...",
+      "summary": "World-action models increasingly apply test-time scaling, spending extra inference computation on candidate selection and adaptive allocation to improve control. Such gains are credible only when c...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2610-40545": {
-      "slug": "2610-40545",
-      "typedId": "paper/2610-40545",
-      "name": "Retrieval as Traversal: Value-Indexed Memory for Stateful Long-Context Agents",
+    "2610-41988": {
+      "slug": "2610-41988",
+      "typedId": "paper/2610-41988",
+      "name": "ID2Pattern: Pretraining Generalizable Identity Behavior Patterns for Transaction Risk Foundation Models",
       "type": "paper",
-      "summary": "Long-context models repeatedly solve closely related retrieval problems. Attention or global retrieval can retain large stores, but each forward pass again searches for what matters. Recurrent comp...",
+      "summary": "Large-scale behavioral pretraining offers a promising route to generalizable representations in online payment systems. However, high-cardinality identity fields such as card, device, and account I...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2610-40551": {
-      "slug": "2610-40551",
-      "typedId": "paper/2610-40551",
-      "name": "Ramanujan Challenge Results: AI-Assisted Evaluation Pipeline for Multi-Format Proofs",
+    "2610-41994": {
+      "slug": "2610-41994",
+      "typedId": "paper/2610-41994",
+      "name": "DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention",
       "type": "paper",
-      "summary": "As AI's mathematical capabilities rapidly improve, meaningful benchmarks are shifting from university-level problems and math olympiads to research-level mathematics. The Ramanujan Challenge is a b...",
+      "summary": "Linear attention scales linearly with sequence length, but its finite-state memory can limit long-context retrieval. In gated linear recurrences, memory retention depends on state decay, which is s...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2610-40556": {
-      "slug": "2610-40556",
-      "typedId": "paper/2610-40556",
-      "name": "Advancing Clinical Genomic Analysis with a Skill-Centred Agent",
+    "2610-41998": {
+      "slug": "2610-41998",
+      "typedId": "paper/2610-41998",
+      "name": "SecPO: Principled Adversarial Training for Prompt Injection Security",
       "type": "paper",
-      "summary": "Clinical genomic analysis requires experts to integrate evolving guidelines, databases, and computational evidence. As sequencing has become increasingly accessible, this complex and labor-intensiv...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2610-40560": {
-      "slug": "2610-40560",
-      "typedId": "paper/2610-40560",
-      "name": "FARMS: A Verifiable Foundation for Automated Computational Science",
-      "type": "paper",
-      "summary": "Automated computational science could accelerate discovery by selecting, adapting and developing numerical methods. This prospect requires mathematical knowledge that AI systems can interpret and r...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2610-40563": {
-      "slug": "2610-40563",
-      "typedId": "paper/2610-40563",
-      "name": "Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns",
-      "type": "paper",
-      "summary": "This study investigates the capabilities of Large Language Models to simulate counselling clients in educational role-plays in comparison to human role-players. Initially, we recorded role-playing...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2610-40565": {
-      "slug": "2610-40565",
-      "typedId": "paper/2610-40565",
-      "name": "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
-      "type": "paper",
-      "summary": "Realistic, fast robotics simulations could enable large-scale training of embodied AI models that transfer to the real world. However, despite decades of progress, available simulations cover only...",
-      "tags": [
-        "arxiv",
-        "cs.RO"
-      ]
-    },
-    "2610-40578": {
-      "slug": "2610-40578",
-      "typedId": "paper/2610-40578",
-      "name": "VeriCUA: Verification as Agentic Exploration for Computer-Using Agents",
-      "type": "paper",
-      "summary": "Building and scaling computer-using agents (CUAs) across desktop, mobile, and web environments requires reliable task-completion verification for data curation, evaluation, and reinforcement learni...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2610-40586": {
-      "slug": "2610-40586",
-      "typedId": "paper/2610-40586",
-      "name": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
-      "type": "paper",
-      "summary": "Integrated sensing and communications (ISAC) systems using 5G and beyond signals of opportunity enable joint wireless sensing and communication using shared infrastructure and spectrum resources. W...",
-      "tags": [
-        "arxiv",
-        "cs.NI"
-      ]
-    },
-    "2610-40588": {
-      "slug": "2610-40588",
-      "typedId": "paper/2610-40588",
-      "name": "Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In",
-      "type": "paper",
-      "summary": "When AI agents share channels and credentials, one agent can press another to break its operator's rule, a first step towards collusion. Output filters check only what an agent has already written....",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2610-40589": {
-      "slug": "2610-40589",
-      "typedId": "paper/2610-40589",
-      "name": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins",
-      "type": "paper",
-      "summary": "An autonomous research laboratory could conduct an entire study, from formulating questions to preparing manuscripts. Artificial intelligence (AI) offers one route towards this goal. Recent AI syst...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2610-40611": {
-      "slug": "2610-40611",
-      "typedId": "paper/2610-40611",
-      "name": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder",
-      "type": "paper",
-      "summary": "Proactive assistants offer short, memory-grounded hints during a conversation, deciding when to assist and what to suggest. Current systems split this between a gate and a larger generator; we eval...",
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ]
-    },
-    "2610-40613": {
-      "slug": "2610-40613",
-      "typedId": "paper/2610-40613",
-      "name": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
-      "type": "paper",
-      "summary": "We present TextSeal2, a distortion-free watermark for large language models that keeps its signal under speculative decoding: tokens that replace rejected drafts remain watermarked with the same ke...",
+      "summary": "Recognized as a top threat to AI agents, prompt injection allows instructions from untrusted data (email, documents, websites) to manipulate the agent's operation. The existing best-defended LLM, M...",
       "tags": [
         "arxiv",
         "cs.CR"
       ]
     },
-    "2610-40636": {
-      "slug": "2610-40636",
-      "typedId": "paper/2610-40636",
-      "name": "Probing Spatial State Representations in Visual Foundation Models",
+    "2610-42001": {
+      "slug": "2610-42001",
+      "typedId": "paper/2610-42001",
+      "name": "AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration",
       "type": "paper",
-      "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it call...",
+      "summary": "As generative artificial intelligence (AI) becomes more capable and widely used, understanding when and how humans should work with these systems is becoming increasingly important. However, the em...",
       "tags": [
         "arxiv",
-        "cs.CV"
+        "cs.HC"
       ]
     },
-    "2610-40641": {
-      "slug": "2610-40641",
-      "typedId": "paper/2610-40641",
-      "name": "From extreme weather to agricultural consequences with agentic AI",
+    "2610-42004": {
+      "slug": "2610-42004",
+      "typedId": "paper/2610-42004",
+      "name": "TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents",
       "type": "paper",
-      "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, a...",
+      "summary": "Multi-turn negotiation remains a challenging problem for large language model (LLM) agents. While LLMs can conduct natural-language dialogue, existing benchmarks predominantly assess only agreement...",
       "tags": [
         "arxiv",
-        "physics.ao-ph"
+        "cs.AI"
       ]
     },
-    "2610-40643": {
-      "slug": "2610-40643",
-      "typedId": "paper/2610-40643",
-      "name": "Luggage re-identification: A study of strategies towards a real-world application",
+    "2610-42024": {
+      "slug": "2610-42024",
+      "typedId": "paper/2610-42024",
+      "name": "Know When the Equation Is Wrong: Structural Uncertainty for LLM-Guided Symbolic Regression under Extrapolation",
       "type": "paper",
-      "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (...",
-      "tags": [
-        "arxiv",
-        "cs.CV"
-      ]
-    },
-    "2610-40647": {
-      "slug": "2610-40647",
-      "typedId": "paper/2610-40647",
-      "name": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
-      "type": "paper",
-      "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer...",
-      "tags": [
-        "arxiv",
-        "cs.CV"
-      ]
-    },
-    "2610-40649": {
-      "slug": "2610-40649",
-      "typedId": "paper/2610-40649",
-      "name": "Rethinking Neural Thickets Without Weight Perturbations",
-      "type": "paper",
-      "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reprod...",
+      "summary": "Large language models (LLMs) can help discover mathematical equations from data, but most LLM-guided symbolic regression methods focus on a single best equation without quantifying uncertainty over...",
       "tags": [
         "arxiv",
         "cs.LG"
+      ]
+    },
+    "2610-42030": {
+      "slug": "2610-42030",
+      "typedId": "paper/2610-42030",
+      "name": "There Is No Free Loop: When Does Looping a Trained Model Pay for Its Inference Compute?",
+      "type": "paper",
+      "summary": "Looping re-applies a block of layers so that each token passes through the block more than once. Adding a loop to a trained model is attractive because it leaves the parameter count, and hence the...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2610-42036": {
+      "slug": "2610-42036",
+      "typedId": "paper/2610-42036",
+      "name": "Learning Clean Generative Processes from Noisy Measurements",
+      "type": "paper",
+      "summary": "We study how to learn a generative model of clean images using only noisy observations. Diffusion processes and their generalizations to non-Gaussian noise require posterior predictions at every no...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2610-42039": {
+      "slug": "2610-42039",
+      "typedId": "paper/2610-42039",
+      "name": "Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice",
+      "type": "paper",
+      "summary": "Hundreds of millions of people now ask large language model (LLM) chatbots for health advice, which raises a question that is simple to pose and hard to answer: does everyone get the same advice? W...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-42040": {
+      "slug": "2610-42040",
+      "typedId": "paper/2610-42040",
+      "name": "Near-Optimal Second-Order Convex Finite-Sum Optimization under Individual Smoothness",
+      "type": "paper",
+      "summary": "We study the stochastic second-order oracle complexity of solving smooth convex finite-sum optimization with $n$ components. Very recently, Tsedenov \\&amp; Kovalev (2026) showed that the minimax op...",
+      "tags": [
+        "arxiv",
+        "math.OC"
+      ]
+    },
+    "2610-42054": {
+      "slug": "2610-42054",
+      "typedId": "paper/2610-42054",
+      "name": "CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness",
+      "type": "paper",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) has become the standard method for training language models to reason. However, RLVR typically relies solely on outcome correctness, which does...",
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ]
+    },
+    "2610-42066": {
+      "slug": "2610-42066",
+      "typedId": "paper/2610-42066",
+      "name": "The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Results",
+      "type": "paper",
+      "summary": "AI answers require more than apparent correctness: reviewers need to inspect their recorded basis. We introduce the Knowledge Layer Model (KLM), an open, implementation-neutral specification for in...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-42096": {
+      "slug": "2610-42096",
+      "typedId": "paper/2610-42096",
+      "name": "CausalWAM: Learning the Causes of Actions in World Action Models",
+      "type": "paper",
+      "summary": "World action models (WAMs) learn latent variables from observations and use these to both predict the evolution of the scene and to generate actions. The prediction has to be of the whole scene, wh...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-42112": {
+      "slug": "2610-42112",
+      "typedId": "paper/2610-42112",
+      "name": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
+      "type": "paper",
+      "summary": "The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilities of large language models (LLMs). A variety of approaches have attempted to circumvent this, but...",
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ]
+    },
+    "2610-42116": {
+      "slug": "2610-42116",
+      "typedId": "paper/2610-42116",
+      "name": "ACCT: Asymmetric Cross-LLM Context Transfer",
+      "type": "paper",
+      "summary": "In real-world deployments, large language model (LLM) systems are increasingly evolving from single-model invocation toward heterogeneous deployments in which different models are dynamically invok...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2610-42141": {
+      "slug": "2610-42141",
+      "typedId": "paper/2610-42141",
+      "name": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+      "type": "paper",
+      "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet...",
+      "tags": [
+        "arxiv",
+        "cs.RO"
+      ]
+    },
+    "2610-42146": {
+      "slug": "2610-42146",
+      "typedId": "paper/2610-42146",
+      "name": "Hierarchical World Models with Implicit Dynamics",
+      "type": "paper",
+      "summary": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative...",
+      "tags": [
+        "arxiv",
+        "cs.RO"
+      ]
+    },
+    "2610-42147": {
+      "slug": "2610-42147",
+      "typedId": "paper/2610-42147",
+      "name": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+      "type": "paper",
+      "summary": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
       ]
     },
     "huggingface-blog-https-huggingface-co-blog-nvidia-nemotron-halloween": {
@@ -1736,17 +1736,6 @@
       "tags": [
         "news",
         "openai-blog"
-      ]
-    },
-    "huggingface-blog-https-huggingface-co-blog-microsoft-thinkingbox": {
-      "slug": "huggingface-blog-https-huggingface-co-blog-microsoft-thinkingbox",
-      "typedId": "news/huggingface-blog-https-huggingface-co-blog-microsoft-thinkingbox",
-      "name": "The Agent Said It Was Done. The Database Disagreed.",
-      "type": "news",
-      "summary": "The Agent Said It Was Done. The Database Disagreed.",
-      "tags": [
-        "news",
-        "huggingface-blog"
       ]
     },
     "meta-llama-meta-llama-3-8b": {
