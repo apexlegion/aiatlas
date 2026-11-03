@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.41378v1",
+  "fetchedAt": "2026-11-03T09:21:04.345Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.41378v1",
+    "title": "Ask on Demand: Targeted Peer Communication for Parallel Agentic Systems",
+    "link": "https://arxiv.org/abs/2610.41378",
+    "description": "arXiv:2610.41378v1 Announce Type: new Abstract: Parallel LLM agents tackle complex tasks by exploring multiple trajectories, yet useful discoveries remain isolated in individual execution histories. Existing sharing methods often select or summarize information before other agents' needs become clear, potentially overlooking details that become important later. We propose Ask on Demand (AOD), a communication framework that enables agents to seek targeted peer assistance when specific information needs arise. Upon an approved request, AOD retrieves relevant evidence from peer execution histories, selects a suitable peer, and generates a response tailored to the request. To determine when such assistance is worthwhile, we train a lightweight gate using paired team continuations, with supervision derived from final team outcomes and inference cost. Experiments on AppWorld and WebShop demonstrate that AOD consistently improves task performance over independent parallel execution while achieving lower inference cost than existing information-sharing baselines. These findings highlight the benefits of aligning peer communication with agents' evolving information needs to achieve more effective and efficient collaboration.",
+    "publishedAt": "2026-11-02",
+    "author": "Haofu Yang, Hongyang Yin, Ran Bi, Faguo Wu, Peng Xue, Feng Zhou, Han Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

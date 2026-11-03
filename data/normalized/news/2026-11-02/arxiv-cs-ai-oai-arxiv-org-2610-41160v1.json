@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-41160v1",
+  "name": "ARK: Avoiding Routing Collisions for KV Cache Transfer in Disaggregated LLM Inference",
+  "summary": "arXiv:2610.41160v1 Announce Type: cross Abstract: Disaggregated LLM inference separates the prefill and decode phases across GPU pools, generating massive KV-cache transfers. Because these transfer...",
+  "description": "arXiv:2610.41160v1 Announce Type: cross Abstract: Disaggregated LLM inference separates the prefill and decode phases across GPU pools, generating massive KV-cache transfers. Because these transfers last hundreds of milliseconds to seconds, they behave as mega elephant flows that dominate link bandwidth utilization. In this regime, stateless ECMP can perform poorly: hash collisions may overload...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.41160"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.41160"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-02",
+  "expiryAt": "2026-12-02T00:00:00.000Z",
+  "author": "Hung-Chun Lin, Ting-Wei Hsu, Chung-En Ho, Ahmed Saeed"
+}

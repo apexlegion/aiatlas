@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2506.20856v1",
+  "fetchedAt": "2026-11-03T09:21:04.345Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2506.20856v1",
+    "title": "Leaner Training, Lower Leakage: Revisiting Memorization in LLM Fine-Tuning with LoRA",
+    "link": "https://arxiv.org/abs/2506.20856",
+    "description": "arXiv:2506.20856v1 Announce Type: cross Abstract: Memorization in large language models (LLMs) makes them vulnerable to data extraction attacks. While pre-training memorization has been extensively studied, fewer works have explored its impact in fine-tuning, particularly for LoRA fine-tuning, a widely adopted parameter-efficient method. In this work, we re-examine memorization in fine-tuning and uncover a surprising divergence from prior findings across different fine-tuning strategies. Factors such as model scale and data duplication, which strongly influence memorization in pre-training and full fine-tuning, do not follow the same trend in LoRA fine-tuning. Using a more relaxed similarity-based memorization metric, we demonstrate that LoRA significantly reduces memorization risks compared to full fine-tuning, while still maintaining strong task performance.",
+    "publishedAt": "2026-11-02",
+    "author": "Fei Wang, Baochun Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

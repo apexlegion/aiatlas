@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-41850v1",
+  "name": "Dynamical Memory Transformer: Selective Recurrent Memories with Constant Cost Attention",
+  "summary": "arXiv:2610.41850v1 Announce Type: new Abstract: Transformers retain an explicit history of the sequence, allowing attention to directly retrieve past representations. However, the size of the KV-Ca...",
+  "description": "arXiv:2610.41850v1 Announce Type: new Abstract: Transformers retain an explicit history of the sequence, allowing attention to directly retrieve past representations. However, the size of the KV-Cache and the cost of a new token increase with the context length. State Space Models compress the past into a fixed-size recurrent state, at the cost of reduced addressability. We present the Dynamica...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.41850"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.41850"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-02",
+  "expiryAt": "2026-12-02T00:00:00.000Z",
+  "author": "Yannis Bendi-Ouis (Mnemosyne), Xavier Hinaut (Mnemosyne)"
+}

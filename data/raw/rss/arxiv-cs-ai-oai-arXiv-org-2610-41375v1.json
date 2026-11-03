@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.41375v1",
+  "fetchedAt": "2026-11-03T09:21:04.345Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.41375v1",
+    "title": "From the Zoo to the BULLPEN: Sample-Efficient LLM Profiling via Multi-Channel Model Embeddings",
+    "link": "https://arxiv.org/abs/2610.41375",
+    "description": "arXiv:2610.41375v1 Announce Type: new Abstract: Choosing among the hundreds of thousands of available large language models (LLMs) requires a thorough understanding of each candidate model's properties. In practice, each property is measured by its own benchmark suite, so profiling a model on many properties means paying for many separate evaluations. To address this, model embeddings compress each model into a fixed-length vector from which many properties can be predicted. Existing methods, such as EmbedLLM, build these vectors from correctness patterns and question features, and often need large probe batteries to do so. However, many behaviors that are important when choosing a model, such as its verbosity, safety and style, show up more in how it answers than in whether it is correct. We introduce BULLPEN (Behavioral Understanding of Large Language models via Profile ENcodings), a framework that extends EmbedLLM in three ways. First, BULLPEN organizes the downstream tasks that prior work uses and adds 20 task benchmarks we built on behavior, style and provenance. Second, it is the first framework to read a model's own answer text jointly with its correctness and the question text. Third, it encodes models from a few hundred questions instead of the full 24,118-question pool. Across 260 open-weight models, our answer-text encoder scores 0.48 +/- 0.10 on the new tasks against 0.35 +/- 0.10 for the best prior encoder. Our encoders that read answer text keep at least 91% of their full-pool skill from only 400 questions (1.3% of the inference compute of the full question pool), while a correctness-only baseline keeps 83% with the same 400 questions. Because these embeddings need only model outputs, they support behavioral auditing and low-cost profiling, and could extend to API-only models. Code and data: https://github.com/wcquesera/bullpen",
+    "publishedAt": "2026-11-02",
+    "author": "Russell Ro, Qiming Cui, Reza Abbasi-Asl",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

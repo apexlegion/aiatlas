@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-41130v1",
+  "name": "One Verdict Is Not Enough: Regression Testing Learned World Models and Their Test Harnesses",
+  "summary": "arXiv:2610.41130v1 Announce Type: cross Abstract: Learned world models ship as software components whose model versions, preprocessing, and test harnesses change between releases. Work on model upd...",
+  "description": "arXiv:2610.41130v1 Announce Type: cross Abstract: Learned world models ship as software components whose model versions, preprocessing, and test harnesses change between releases. Work on model updates already counts per-sample regressions, or negative flips, that an accuracy check hides. Two problems remain: a test can pass under one configuration and fail under another, and a harness fault ca...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.41130"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.41130"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-02",
+  "expiryAt": "2026-12-02T00:00:00.000Z",
+  "author": "Junyu Huo, Zihao Wan, Ziqi Mao, Gouri Ginde"
+}

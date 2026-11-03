@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2611-03617",
+  "name": "Tracing the Scientific Discovery Capacity of LLMs to Their Training Data",
+  "summary": "Large language models (LLMs) show growing promise for scientific discovery, yet basic questions remain about what enables reliable discovery. How can we trace the scientific discovery capacity of L...",
+  "description": "Large language models (LLMs) show growing promise for scientific discovery, yet basic questions remain about what enables reliable discovery. How can we trace the scientific discovery capacity of LLMs to their training data? We study this question as one of missing probability mass and develop a theoretical account in which monofacts-the facts observed once during training-set the discovery capacity. In materials science and regulatory genomics, we directly manipulate monofact rates in training sets and find that more monofacts consistently yield more discoveries across two open-weight mode...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.03617v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-02",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2611.03617v1"
+    }
+  ],
+  "authors": [
+    "Arda Uzunoglu",
+    "Mahler Revsine",
+    "Michael Schatz",
+    "Benjamin Van Durme",
+    "Mehrdad Farajtabar",
+    "Daniel Khashabi",
+    "Eric Nalisnick"
+  ],
+  "paperId": "2611.03617",
+  "category": "cs.CL",
+  "publishedAt": "2026-11-02",
+  "abstract": "Large language models (LLMs) show growing promise for scientific discovery, yet basic questions remain about what enables reliable discovery. How can we trace the scientific discovery capacity of LLMs to their training data? We study this question as one of missing probability mass and develop a theoretical account in which monofacts-the facts observed once during training-set the discovery capacity. In materials science and regulatory genomics, we directly manipulate monofact rates in training sets and find that more monofacts consistently yield more discoveries across two open-weight mode..."
+}

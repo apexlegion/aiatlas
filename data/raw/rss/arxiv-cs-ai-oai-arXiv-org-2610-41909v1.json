@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.41909v1",
+  "fetchedAt": "2026-11-03T09:21:04.345Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.41909v1",
+    "title": "Structure-Aware Skill Retrieval and Arbitration for Optimization Modeling",
+    "link": "https://arxiv.org/abs/2610.41909",
+    "description": "arXiv:2610.41909v1 Announce Type: new Abstract: Large Language Models (LLMs) can turn natural-language optimization tasks into solver-checked answers, but current agents remain brittle under narrative rewrites and often store reusable experience at the instance level. We introduce \\textsc{ArchOR}, an archetype-centric skill agent that builds on \\textsc{OptSkills} by adding two retrieval-focused modules. \\emph{Centroid-Aware Representation Learning} (CARL) refines the ordering of cached skill representations through a low-rank prototype residual. \\emph{Signature-Guided Retrieval} (S\\textsuperscript{3}R) attaches open-dimensional structural signatures to skills, prioritizes candidates by weighted Jaccard overlap, and bounds semantic re-ranking to a top-$K$ set. A baseline-preserving arbitration rule determines when the structural route should replace the original selector. With the same DeepSeek-V4.1-Flash backbone and released skill library, \\textsc{ArchOR} reaches 65.00\\% Micro-Avg.\\ Pass@1 across five benchmarks, improving over \\textsc{OptSkills} by 1.64~pp Micro-Avg.\\ and 2.68~pp Macro-Avg.",
+    "publishedAt": "2026-11-02",
+    "author": "Anran Liu, Benzhao Hou, Zongsheng Cao, Daichao Wang, Lang Chen, Shitong Chen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

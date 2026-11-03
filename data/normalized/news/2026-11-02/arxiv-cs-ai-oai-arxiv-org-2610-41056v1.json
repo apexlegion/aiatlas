@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-41056v1",
+  "name": "Accept Changes, Reject Attacks: Robust Memory Management for LLM Agents",
+  "summary": "arXiv:2610.41056v1 Announce Type: cross Abstract: Since large language model (LLM) agents rely on long-term memory, what they store now shapes what they do later. A memory manager decides how each...",
+  "description": "arXiv:2610.41056v1 Announce Type: cross Abstract: Since large language model (LLM) agents rely on long-term memory, what they store now shapes what they do later. A memory manager decides how each input changes this memory and which records the agent acts on. It can fail in two ways: keeping a fact that has since changed (outdated memory), or storing a planted passage or injected instruction (m...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.41056"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.41056"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-02",
+  "expiryAt": "2026-12-02T00:00:00.000Z",
+  "author": "Runze Zhao, Dongruo Zhou, Sumit Kumar Jha, Nathaniel D. Bastian, Ankit Shah"
+}

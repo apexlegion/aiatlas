@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.40735v1",
+  "fetchedAt": "2026-11-03T09:21:04.345Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.40735v1",
+    "title": "RiskyPy: Toward Model-Calibrated Prompt Generation for Joint Security and Functionality Evaluation of LLM-Generated Code",
+    "link": "https://arxiv.org/abs/2610.40735",
+    "description": "arXiv:2610.40735v1 Announce Type: cross Abstract: Evaluating approaches that improve the security of LLM code generation requires datasets that jointly assess security and functionality and remain adapted to the capabilities of the models being studied. However, existing benchmarks are costly to produce and are generally not calibrated to a chosen range of model capabilities. We introduce RiskyPy, an automated pipeline that generates security-oriented code-generation datasets calibrated to model proficiency using functionality and vulnerability canaries. We instantiate RiskyPy for Python using domains covering 18 CWEs from the 2025 CWE Top 25, producing 101 prompts. Experiments on Qwen3-4B and Seed-Coder-8B show that the generated tasks remain functionally accessible, with 57-72% of prompts yielding functional code, while only 5-10% of generations are free of Bandit findings, leaving room for joint evaluation of security and functionality of security improvement approaches.",
+    "publishedAt": "2026-11-02",
+    "author": "Zacharie Chenail-Larcher, Daniele Lunghi, Melissa Tessa, Quentin Sti\\'evenart, Jacques Klein, Tegawend\\'e F. Bissyand\\'e, Florent Avellaneda, Naouel Moha",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.41112v1",
+  "fetchedAt": "2026-11-03T09:21:04.345Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.41112v1",
+    "title": "Calibration of Large Model Quantization based on HiFloat4 Format",
+    "link": "https://arxiv.org/abs/2610.41112",
+    "description": "arXiv:2610.41112v1 Announce Type: new Abstract: Quantization of Large Language Models (LLMs) has be- coming increasingly important for reducing the computa- tional costs and resource requirements for practical deploy- ment.Growinginterestinthisareahasmotivatedthecommu- nity to move beyond 8-bit quantization towards 4-bit preci- sion, leading to the development of customized 4-bit formats such as MXFP4 and NVFP4. Recently, HiFloat4 (HiF4) has emerged as a competitive alternative which adopts a Block Floating-Point(BFP)formatwithathree-levelscalinghierar- chy, thereby achieving a significantly larger dynamic range. While quantization can substantially reduce memory usage and accelerate inference, it frequently introduces accuracy degradation. Calibration is therefore essential for narrowing theperformancegapbetweenlow-precisionquantizedmodels and their full-precision counterparts. Nevertheless, existing calibration methods are mainly designed and validated us- ing integer-precision formats, such as INT4, lacking support for HiF4 due to its hierarchical BFP structure. In this paper, weinvestigatethreecalibrationapproaches,namelyHiGPTQ, HiAutoRound, and HiFlatQuant, to further enhance model quantizationbasedontheHiF4format.Extensiveexperiments demonstratethatallthreeproposedapproachesimproveinfer- ence accuracy compared with direct HiF4 conversion, reduc- ing the gap between HiF4 and BF16 to less than 1% and out- performing the state-of-the-art NVFP4 format across various models and downstream tasks.",
+    "publishedAt": "2026-11-02",
+    "author": "Jing Huang, Yu Cheng, Ziwei Yu, Lan Zhao, Sitan Li, Guangxiu Yao, Xin Wang, Yuanyong Luo, Hengyi Liang, Ting Li, Bo Liu, Hu Liu, Michael Bi Mi, Heng Liao",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

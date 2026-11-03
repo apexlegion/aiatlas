@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.41009v1",
+  "fetchedAt": "2026-11-03T09:21:04.345Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.41009v1",
+    "title": "STAR: Steering Action Representations during Inference",
+    "link": "https://arxiv.org/abs/2610.41009",
+    "description": "arXiv:2610.41009v1 Announce Type: cross Abstract: Vision-language-action models (VLAs) map language instructions and visual observations to robot actions, showing strong capabilities across robotic manipulation tasks. However, in our probing experiment, we find that action representations near the action output do not fully preserve task-relevant visual grounding. Motivated by this late-layer grounding gap, we introduce STAR, for STeering Action Representations, a training-free inference method for pre-trained VLAs. STAR applies an exponential moving average over late-layer residual updates, allowing later action representations to inherit object-aware update directions from earlier layers without model updates or architectural changes. It further uses recent proprioceptive states to adapt the mixing strength, using conservative mixing when execution dynamics change rapidly. Experiments on robot manipulation benchmarks show that STAR improves late-layer object awareness and increases average task success rates by 4.0 percentage points. Our code is available at https://github.com/PKU-VaLuE-Lab/STAR.",
+    "publishedAt": "2026-11-02",
+    "author": "Guangyu Zhao, Yongchang Zhang, Haoxuan Ru, Kaichen He, Haoran Wen, Kun Zhan, Zeyu Zhang, Yin Li, Yiwu Zhong",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

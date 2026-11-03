@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "sentence-transformers/all-MiniLM-L6-v2",
-  "fetchedAt": "2026-11-02T09:15:46.211Z",
+  "fetchedAt": "2026-11-03T09:21:03.099Z",
   "data": {
     "_id": "621ffdc136468d709f180294",
     "id": "sentence-transformers/all-MiniLM-L6-v2",
@@ -57,8 +57,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 182509097,
-    "likes": 6054,
+    "downloads": 182461837,
+    "likes": 6059,
     "modelId": "sentence-transformers/all-MiniLM-L6-v2",
     "author": "sentence-transformers",
     "sha": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
@@ -226,19 +226,16 @@
       }
     ],
     "spaces": [
-      "BIGJUTT/model-pulse",
-      "Arbazkhan-cs/Retrieval-Augmented-Generation",
       "uv-scripts/run-on-jobs",
+      "Arbazkhan-cs/Retrieval-Augmented-Generation",
+      "BIGJUTT/model-pulse",
+      "Huggingansuman/red_teaming_env",
       "MTEB-BR/leaderboard",
       "Mr-TD/RAG-PDF-QnA-ChatBot",
       "hakari-bench/leaderboard",
-      "Huggingansuman/red_teaming_env",
       "syzdekbr/item_text_referencing_rag",
       "guanqiantong/edu_ai",
-      "MCP-1st-Birthday/guardrails-demo-agent",
-      "Vanshcc/qa-rag-fastapi",
       "linkinmallik/1_foundations",
-      "IamBatman07/Semantic-Movie-Recommender",
       "leopardyzzj/ai-signals-daily",
       "tenperformer/healthcare_rag_system_langchain",
       "JakoBob/Campus_Assistant",
@@ -325,7 +322,10 @@
       "vjain/Trading-Chatbot",
       "OuroborosM/STLA-BABY",
       "captain-awesome/Docuverse-zephyr-beta",
-      "JDWebProgrammer/chatbot"
+      "JDWebProgrammer/chatbot",
+      "Gololias/MetroCuadrado",
+      "KrishnaKumar23/documentQABot",
+      "ABBNikit/Nikit_PDF_Chatbot"
     ],
     "createdAt": "2022-03-02T23:29:05.000Z",
     "safetensors": {

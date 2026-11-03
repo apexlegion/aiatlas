@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2611-03551",
+  "name": "Can LLM Agents Be Forward-Deployed Engineers? Requirement Discovery and Delivery for Enterprise Text-to-SQL",
+  "summary": "LLM coding agents can increasingly automate model post-training, but whether they can act as forward-deployed engineer (FDE) agents, discovering customer requirements and turning them into deployme...",
+  "description": "LLM coding agents can increasingly automate model post-training, but whether they can act as forward-deployed engineer (FDE) agents, discovering customer requirements and turning them into deployment decisions, remains unclear. We study this on a real enterprise text-to-SQL engagement: a simulated customer, grounded in the real use case's requirements, starts with an ambiguous request. An agent must discover acceptance criteria, data permissions, and hardware constraints in the discovery phase, then plan and execute a post-training recipe in the delivery phase. Across 15 models, the stronge...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.03551v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-02",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2611.03551v1"
+    }
+  ],
+  "authors": [
+    "Marianne Menglin Liu",
+    "Rongguang Wang",
+    "Zheng Wang",
+    "Yewen Wang",
+    "Leonid Boytsov",
+    "Tao Sheng",
+    "Sujith Ravi",
+    "Dan Roth"
+  ],
+  "paperId": "2611.03551",
+  "category": "cs.CL",
+  "publishedAt": "2026-11-02",
+  "abstract": "LLM coding agents can increasingly automate model post-training, but whether they can act as forward-deployed engineer (FDE) agents, discovering customer requirements and turning them into deployment decisions, remains unclear. We study this on a real enterprise text-to-SQL engagement: a simulated customer, grounded in the real use case's requirements, starts with an ambiguous request. An agent must discover acceptance criteria, data permissions, and hardware constraints in the discovery phase, then plan and execute a post-training recipe in the delivery phase. Across 15 models, the stronge..."
+}

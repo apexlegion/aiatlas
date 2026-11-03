@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.23143v5",
+  "fetchedAt": "2026-11-03T09:21:04.345Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.23143v5",
+    "title": "ThinkSafe: Self-Generated Safety Alignment for Reasoning Models",
+    "link": "https://arxiv.org/abs/2601.23143",
+    "description": "arXiv:2601.23143v5 Announce Type: replace Abstract: Large reasoning models achieve strong performance through reinforcement learning but can suffer safety degradation. External teacher distillation can restore safety yet may compromise reasoning performance. We formalize safety realignment as a KL projection: the student's native filter-accepted distribution is uniquely KL-optimal, while teacher targets incur excess KL when they differ. Guided by this analysis, we propose ThinkSafe, which generates safety-alignment data from the frozen student without external teachers. Refusal steering elicits safety reasoning, and a safety guard filters the responses before offline fine-tuning. Our analysis bounds steering-induced target distortion and gives a sufficient condition for lower average target KL than teacher distillation. Experiments on DeepSeek-R1-Distill and Qwen3 show substantial safety improvements with competitive reasoning performance. On Qwen3-0.6B, ThinkSafe achieves better safety and comparable reasoning to GRPO in about one-seventh of the wall-clock time, including data generation. Code, models, and datasets are available at https://github.com/seanie12/ThinkSafe and https://huggingface.co/Seanie-lee/collections.",
+    "publishedAt": "2026-11-03",
+    "author": "Seanie Lee, Sangwoo Park, Yumin Choi, Gyeongman Kim, Minki Kang, Jihun Yun, Sung Ju Hwang, Dongmin Park, Jongho Park",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

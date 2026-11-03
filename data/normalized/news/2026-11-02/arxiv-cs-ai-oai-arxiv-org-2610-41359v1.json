@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-41359v1",
+  "name": "LEAP: Efficient LLM Inference Scheduling with Generalizable Length Prediction",
+  "summary": "arXiv:2610.41359v1 Announce Type: new Abstract: Length-aware scheduling reduces request latency in LLM serving by prioritizing shorter requests. However, despite their large model sizes, length pre...",
+  "description": "arXiv:2610.41359v1 Announce Type: new Abstract: Length-aware scheduling reduces request latency in LLM serving by prioritizing shorter requests. However, despite their large model sizes, length predictors can suffer degraded ranking performance under domain and task shifts, and adapting them can require costly retraining. Their prediction overhead can further offset the benefits of scheduling....",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.41359"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.41359"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-02",
+  "expiryAt": "2026-12-02T00:00:00.000Z",
+  "author": "Kwan Yan, Jialun Zhong, Yanzeng Li"
+}

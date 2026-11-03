@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2611-03618",
+  "name": "Strategist: Evolving Reasoning with Agents",
+  "summary": "A model is only half of an AI agent system. The other half is the inference strategy: the reasoning procedure that turns model calls into a response. Today that second half is written by hand, and...",
+  "description": "A model is only half of an AI agent system. The other half is the inference strategy: the reasoning procedure that turns model calls into a response. Today that second half is written by hand, and the experience of building one strategy never carries to the next. We introduce Strategist, a meta-agent that evolves inference strategies across tasks. Each strategy is written as a blueprint,executable code that other strategies can reuse, and together the blueprints form a library. Given a task and a small development set, Strategist retrieves related blueprints, writes candidate strategies, te...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.03618v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-02",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.03618v1"
+    }
+  ],
+  "authors": [
+    "Taiming Lu",
+    "Qi Xu",
+    "Zhigang Hua",
+    "Zhuang Liu"
+  ],
+  "paperId": "2611.03618",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-02",
+  "abstract": "A model is only half of an AI agent system. The other half is the inference strategy: the reasoning procedure that turns model calls into a response. Today that second half is written by hand, and the experience of building one strategy never carries to the next. We introduce Strategist, a meta-agent that evolves inference strategies across tasks. Each strategy is written as a blueprint,executable code that other strategies can reuse, and together the blueprints form a library. Given a task and a small development set, Strategist retrieves related blueprints, writes candidate strategies, te..."
+}

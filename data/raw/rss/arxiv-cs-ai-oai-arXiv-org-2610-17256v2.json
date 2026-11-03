@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.17256v2",
+  "fetchedAt": "2026-11-03T09:21:04.345Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.17256v2",
+    "title": "Does a Governed Confidence Score Know When a Text-to-SQL Answer Is Right? An Exploratory Study on BIRD and a Pre-registered Confirmation on Spider",
+    "link": "https://arxiv.org/abs/2610.17256",
+    "description": "arXiv:2610.17256v2 Announce Type: replace Abstract: Conversational analytics lets people ask questions of records spread across many systems and get answers in plain language; it is useful only if each answer can be trusted and explained. A production system of this kind attaches a confidence score to every answer it writes over a database and uses it to show the answer, show it with a warning, or withhold it. The score's weights, caps and thresholds were set by design. This paper audits that design. On the 1,534 questions of BIRD dev, answered by GPT-5.1 with five samples per question, the designed score separates right from wrong answers weakly (AUROC 0.624) and withholds 35.7% of correct answers. Nearly all of its ranking signal comes from agreement among the samples, and most of it is lost where agreement is combined by a minimum with a checklist that drops to zero on any unsupported claim, including commentary. Before any Spider answer existed we froze and hashed a rule in which agreement with the shown answer is the score, with deterministic vetoes and deterministic and judge-based caps. On Spider dev AUROC rose from 0.566 to 0.725 (+0.159, 95% CI +0.097 to +0.221; database-level CI +0.098 to +0.234), with PASS accuracy 95.7% against a 92.6% base rate. The frozen rule was not the best agreement-based rule on Spider, and the harness and prompts were rebuilt after registration. Added after review: a GPT-5.1 judge asked for P(correct), averaged with agreement, ranked higher in every evaluation (0.837 on Spider), but it grades its own model's answers and its gain shrinks under execution-match labels; one answer per question from a second model family raised agreement's AUROC from 0.749 to 0.800 on Spider, a gain that held under both label definitions. Labels are model-judged; a ten-answer human pilot found no disagreement, and a full audit has not been done.",
+    "publishedAt": "2026-11-03",
+    "author": "Raghu Venkat, Tricha Anjali",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

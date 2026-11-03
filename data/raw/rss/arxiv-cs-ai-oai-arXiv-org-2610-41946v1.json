@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.41946v1",
+  "fetchedAt": "2026-11-03T09:21:04.345Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.41946v1",
+    "title": "Sensorium: An Open-Source Multimodal Data Collection and Curation Library for Embodied Surgical AI",
+    "link": "https://arxiv.org/abs/2610.41946",
+    "description": "arXiv:2610.41946v1 Announce Type: new Abstract: Embodied surgical AI requires reliable multimodal data, yet surgical data collection remains costly, difficult to repeat, and strongly dependent on the hardware setup. We present Sensorium, an open-source Python library for recording, processing, annotating, and curating multimodal surgical data from configurable robot and sensor streams using the Robot Operating System (ROS) and ROS2 middleware. The library combines operator-facing data acquisition, configurable processing, semantic annotation, and episodic dataset generation. We evaluate Sensorium across 1516 recordings of phantom, ex vivo, and in vivo porcine experiments involving multiple surgical tasks and sensing configurations, and report preliminary usability feedback.",
+    "publishedAt": "2026-11-02",
+    "author": "Lorenzo Mazza, Ariel Rodriguez, Stefanie Speidel",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

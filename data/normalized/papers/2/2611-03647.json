@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2611-03647",
+  "name": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+  "summary": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware w...",
+  "description": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whole-body policies from human data. We first introduce Environment-Aware Retargeting (EAR), which combines reconstructed scene geometry with demonstrated head and gripper trajectories to determine robot posture and generate collision-aware joint and base targets. Delay-calibrated action assignment converts these trajectories into actions. However, kinematic differences can leave residual pose erro...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.03647v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-02",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2611.03647v1"
+    }
+  ],
+  "authors": [
+    "Jason Jingzhou Liu",
+    "Tony Tao",
+    "Deepak Pathak",
+    "Ruslan Salakhutdinov"
+  ],
+  "paperId": "2611.03647",
+  "category": "cs.RO",
+  "publishedAt": "2026-11-02",
+  "abstract": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whole-body policies from human data. We first introduce Environment-Aware Retargeting (EAR), which combines reconstructed scene geometry with demonstrated head and gripper trajectories to determine robot posture and generate collision-aware joint and base targets. Delay-calibrated action assignment converts these trajectories into actions. However, kinematic differences can leave residual pose erro..."
+}

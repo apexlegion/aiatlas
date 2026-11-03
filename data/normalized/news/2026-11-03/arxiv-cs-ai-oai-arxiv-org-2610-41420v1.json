@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-41420v1",
+  "name": "SparseGDN: Chunk Sparse in Linear Attention",
+  "summary": "arXiv:2610.41420v1 Announce Type: cross Abstract: Gated Delta Networks (GDNs) offer linear-time sequence modeling, yet long-context prefill remains costly due to dense intra-chunk computation, recu...",
+  "description": "arXiv:2610.41420v1 Announce Type: cross Abstract: Gated Delta Networks (GDNs) offer linear-time sequence modeling, yet long-context prefill remains costly due to dense intra-chunk computation, recurrent-state updates, and intermediate state storage. We introduce SparseGDN, a hardware-aware framework that combines structured intra-chunk approximation with input-dependent recurrent-event selectio...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.41420"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-03",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.41420"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-03",
+  "expiryAt": "2026-12-03T00:00:00.000Z",
+  "author": "Jiedong Zhuang, Peng Zhao, Jialin Tang, Haoji Hu"
+}

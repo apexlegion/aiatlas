@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-41107v1",
+  "name": "Differential rank preservation manifold learning",
+  "summary": "arXiv:2610.41107v1 Announce Type: new Abstract: Manifold learning methods like t-SNE and UMAP preserve local neighborhoods, but they do not preserve the ranking of the neighbors inside them. Two em...",
+  "description": "arXiv:2610.41107v1 Announce Type: new Abstract: Manifold learning methods like t-SNE and UMAP preserve local neighborhoods, but they do not preserve the ranking of the neighbors inside them. Two embeddings can return the same neighbor set while disagreeing on which point is closest. This loss of order degrades downstream applications that value the order in the embedding. We propose Smooth Rank...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.41107"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-02",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.41107"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-02",
+  "expiryAt": "2026-12-02T00:00:00.000Z",
+  "author": "Henry Han, Luyu Niu, Diane Li, Jiacun Wang"
+}

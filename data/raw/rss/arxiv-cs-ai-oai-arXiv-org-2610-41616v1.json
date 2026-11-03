@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.41616v1",
+  "fetchedAt": "2026-11-03T09:21:04.345Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.41616v1",
+    "title": "What Should LLMs Forget: Reinforcement Unlearning of Knowledge Associations",
+    "link": "https://arxiv.org/abs/2610.41616",
+    "description": "arXiv:2610.41616v1 Announce Type: new Abstract: Large language models (LLMs) acquire extensive factual knowledge during pre-training, which may include sensitive, private, or copyrighted information, motivating the development of unlearning methods that selectively remove specific knowledge while preserving general capabilities. However, existing approaches typically optimize entire responses without explicitly identifying the knowledge to be forgotten, resulting in coarse and uncontrolled forgetting. To address this, we revisit the forgetting target of LLM unlearning and introduce Knowledge Association (KA), which characterizes the association between a query context and its target knowledge and is instantiated by the corresponding conditional predictive distribution, as the fundamental target of forgetting. Based on KA, we propose Knowledge Association Reinforcement Unlearning (KARU), a unified reinforcement learning framework that suppresses forgotten knowledge associations while preserving retained ones. Specifically, KARU derives complementary mechanisms from the KA-based formulation: token-level reward construction for finer-grained forgetting supervision, distribution-level regularization for precise knowledge suppression, and proximity-aware retain sampling to mitigate collateral degradation. Experiments across diverse LLMs on representative benchmarks demonstrate that KARU consistently improves forgetting effectiveness over existing baselines while maintaining comparable retention performance and general utility.",
+    "publishedAt": "2026-11-02",
+    "author": "Wutong Xu, Yun Qu, Haiyan Feng, Qi Wang, Xiangyang Ji",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
