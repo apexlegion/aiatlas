@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "sentence-transformers/all-MiniLM-L6-v2",
-  "fetchedAt": "2026-11-03T09:21:03.099Z",
+  "fetchedAt": "2026-11-04T08:55:23.861Z",
   "data": {
     "_id": "621ffdc136468d709f180294",
     "id": "sentence-transformers/all-MiniLM-L6-v2",
@@ -57,8 +57,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 182461837,
-    "likes": 6059,
+    "downloads": 181007867,
+    "likes": 6067,
     "modelId": "sentence-transformers/all-MiniLM-L6-v2",
     "author": "sentence-transformers",
     "sha": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
@@ -227,13 +227,7 @@
     ],
     "spaces": [
       "uv-scripts/run-on-jobs",
-      "Arbazkhan-cs/Retrieval-Augmented-Generation",
-      "BIGJUTT/model-pulse",
-      "Huggingansuman/red_teaming_env",
-      "MTEB-BR/leaderboard",
-      "Mr-TD/RAG-PDF-QnA-ChatBot",
       "hakari-bench/leaderboard",
-      "syzdekbr/item_text_referencing_rag",
       "guanqiantong/edu_ai",
       "linkinmallik/1_foundations",
       "leopardyzzj/ai-signals-daily",
@@ -241,10 +235,12 @@
       "JakoBob/Campus_Assistant",
       "anmolsingh-ai/Rag_System",
       "raymuz/NLLUniversalProfessionalEditor",
+      "Huggingansuman/red_teaming_env",
       "cvachet/pdf-chatbot",
       "marcosv/InstructIR",
       "embedl/hfviewer",
       "JournalistsonHF/ai-scraper",
+      "MTEB-BR/leaderboard",
       "mteb/arena",
       "build-small-hackathon/FamilyLegacy",
       "Illia56/Ask-AI-Youtube",
@@ -256,6 +252,7 @@
       "coder-vansh/JARVIS",
       "q-future/Co-Instruct",
       "onkar-waghmode/neural-humanizer",
+      "Mr-TD/RAG-PDF-QnA-ChatBot",
       "FireRedTeam/FireRed-OpenStoryline",
       "radames/sentence-embeddings-visualization",
       "radames/Candle-BERT-Semantic-Similarity-Wasm",
@@ -307,6 +304,7 @@
       "somosnlp-hackathon-2022/AbstractGen_ES",
       "Volkopat/arXivGPT",
       "yardi/phrase-semantic-similarity",
+      "Arbazkhan-cs/Retrieval-Augmented-Generation",
       "dnzblgn/RAG_PDF_langchain",
       "khalifssa/medicine-chartbot",
       "VIDraft/Local-RAG-llama-3-8b",
@@ -325,7 +323,9 @@
       "JDWebProgrammer/chatbot",
       "Gololias/MetroCuadrado",
       "KrishnaKumar23/documentQABot",
-      "ABBNikit/Nikit_PDF_Chatbot"
+      "ABBNikit/Nikit_PDF_Chatbot",
+      "CyranoB/search_agent",
+      "sickcell/AskCTI"
     ],
     "createdAt": "2022-03-02T23:29:05.000Z",
     "safetensors": {

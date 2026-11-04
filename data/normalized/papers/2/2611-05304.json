@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2611-05304",
+  "name": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers",
+  "summary": "Looped transformers are a parameter-efficient alternative to standard transformers for language modeling. By reapplying the same layers across multiple loop steps, recent looped language models mat...",
+  "description": "Looped transformers are a parameter-efficient alternative to standard transformers for language modeling. By reapplying the same layers across multiple loop steps, recent looped language models match the performance of non-looped models several times their size. While this architecture effectively reduces parameter memory, each loop step still stores its own keys and values, so the key-value (KV) cache grows linearly with the number of loop steps and becomes the main memory bottleneck. We observe that the KV cache of looped models is highly redundant along the loop axis and that the loop st...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.05304v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-03",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2611.05304v1"
+    }
+  ],
+  "authors": [
+    "Minsoo Cheong",
+    "Sungjoo Yoo"
+  ],
+  "paperId": "2611.05304",
+  "category": "cs.LG",
+  "publishedAt": "2026-11-03",
+  "abstract": "Looped transformers are a parameter-efficient alternative to standard transformers for language modeling. By reapplying the same layers across multiple loop steps, recent looped language models match the performance of non-looped models several times their size. While this architecture effectively reduces parameter memory, each loop step still stores its own keys and values, so the key-value (KV) cache grows linearly with the number of loop steps and becomes the main memory bottleneck. We observe that the KV cache of looped models is highly redundant along the loop axis and that the loop st..."
+}

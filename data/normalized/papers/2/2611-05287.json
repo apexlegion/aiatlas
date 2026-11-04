@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2611-05287",
+  "name": "Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment",
+  "summary": "Fine-tuning a large language model (LLM) on harmful data in a narrow domain, such as bad medical advice, can make it broadly misaligned. How realistic this risk is remains unclear, since models are...",
+  "description": "Fine-tuning a large language model (LLM) on harmful data in a narrow domain, such as bad medical advice, can make it broadly misaligned. How realistic this risk is remains unclear, since models are very rarely fine-tuned on explicitly harmful data in practice. In this work, we show that fine-tuning on data the model believes to be false but that has no harmful content, can also induce broad misalignment. Across mathematics, trivia, cooking and sports, the more strongly the model disbelieves the answers it is trained on, the more misaligned it becomes. In mathematics, misaligned answers rise...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.05287v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-03",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2611.05287v1"
+    }
+  ],
+  "authors": [
+    "Ariana M. Villegas-Suarez",
+    "Guido Freire",
+    "Sohan Venkatesh",
+    "Bartosz Cywiński"
+  ],
+  "paperId": "2611.05287",
+  "category": "cs.CL",
+  "publishedAt": "2026-11-03",
+  "abstract": "Fine-tuning a large language model (LLM) on harmful data in a narrow domain, such as bad medical advice, can make it broadly misaligned. How realistic this risk is remains unclear, since models are very rarely fine-tuned on explicitly harmful data in practice. In this work, we show that fine-tuning on data the model believes to be false but that has no harmful content, can also induce broad misalignment. Across mathematics, trivia, cooking and sports, the more strongly the model disbelieves the answers it is trained on, the more misaligned it becomes. In mathematics, misaligned answers rise..."
+}

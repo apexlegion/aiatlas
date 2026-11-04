@@ -1,0 +1,33 @@
+{
+  "type": "paper",
+  "slug": "2611-05340",
+  "name": "MedPhysBench: A Benchmark for Evaluating Language Models on Medical Physics Calculations and Error Detection",
+  "summary": "Medical physicists turn a prescription into a delivered dose and check one another's calculations, because one error in a beam calibration or a monitor-unit (MU) calculation can affect every patien...",
+  "description": "Medical physicists turn a prescription into a delivered dose and check one another's calculations, because one error in a beam calibration or a monitor-unit (MU) calculation can affect every patient treated with it. MedPhysBench has ten seeded generators of calculation items in radiation therapy, diagnostic imaging, nuclear medicine and radiation protection, up to clinical tasks such as a TG-51 calibration worksheet. Reference answers come from code implementing the governing protocols, and a grader converts units and applies tolerance bands. From the same inputs, separate checking items te...",
+  "tags": [
+    "arxiv",
+    "physics.med-ph"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.05340v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-03",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category physics.med-ph.",
+      "href": "https://arxiv.org/abs/2611.05340v1"
+    }
+  ],
+  "authors": [
+    "Omar Nusrat"
+  ],
+  "paperId": "2611.05340",
+  "category": "physics.med-ph",
+  "publishedAt": "2026-11-03",
+  "abstract": "Medical physicists turn a prescription into a delivered dose and check one another's calculations, because one error in a beam calibration or a monitor-unit (MU) calculation can affect every patient treated with it. MedPhysBench has ten seeded generators of calculation items in radiation therapy, diagnostic imaging, nuclear medicine and radiation protection, up to clinical tasks such as a TG-51 calibration worksheet. Reference answers come from code implementing the governing protocols, and a grader converts units and applies tolerance bands. From the same inputs, separate checking items te..."
+}

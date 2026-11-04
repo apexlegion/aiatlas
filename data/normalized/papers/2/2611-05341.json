@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2611-05341",
+  "name": "Weight-space programming for auditing clinical decision networks",
+  "summary": "Machine learning models in radiotherapy are commissioned by testing them on cases with known answers, which may not reveal a shortcut that the test cases share with the training data. Frontier lang...",
+  "description": "Machine learning models in radiotherapy are commissioned by testing them on cases with known answers, which may not reveal a shortcut that the test cases share with the training data. Frontier language models have recently been reported to read and write the raw weights of small neural networks, an ability called weight-space programming. The purpose of this study was to determine whether such a model, given only a clinical protocol and a network's weights, can audit and repair the network. Networks with 433 to 4,801 parameters were trained to screen head-and-neck planning requests against...",
+  "tags": [
+    "arxiv",
+    "physics.med-ph"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.05341v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-03",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category physics.med-ph.",
+      "href": "https://arxiv.org/abs/2611.05341v1"
+    }
+  ],
+  "authors": [
+    "Humza Nusrat",
+    "Omar Nusrat"
+  ],
+  "paperId": "2611.05341",
+  "category": "physics.med-ph",
+  "publishedAt": "2026-11-03",
+  "abstract": "Machine learning models in radiotherapy are commissioned by testing them on cases with known answers, which may not reveal a shortcut that the test cases share with the training data. Frontier language models have recently been reported to read and write the raw weights of small neural networks, an ability called weight-space programming. The purpose of this study was to determine whether such a model, given only a clinical protocol and a network's weights, can audit and repair the network. Networks with 433 to 4,801 parameters were trained to screen head-and-neck planning requests against..."
+}

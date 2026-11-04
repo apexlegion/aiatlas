@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-11-03T09:21:02.850Z",
+  "fetchedAt": "2026-11-04T08:55:23.604Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 3525552,
-    "likes": 6738,
+    "downloads": 3530961,
+    "likes": 6746,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -346,21 +346,19 @@
       }
     ],
     "spaces": [
+      "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "openai/whisper",
       "treble-technologies/ffasr",
       "hugging-apps/voice-isolator",
-      "elmresearchcenter/open_universal_arabic_asr_leaderboard",
+      "Quran-Lab/quranic-asr-leaderboard",
       "yuaning/ai-viral-shorts-studio",
       "hf-audio/whisper-large-v3",
       "nari-labs/Dia2-2B",
-      "cstr/transcribe_audio",
       "gobeldan/insanely-fast-whisper-webui",
-      "Quran-Lab/quranic-asr-leaderboard",
       "tvosch/Dutch-ASR-Leaderboard",
       "ArtFix0/speech-to-speech-dashboard",
       "BuzzASR/buzzasr-persian",
       "bouessomberi/mavoix-whisperx",
-      "Mati83moni/kos-pl",
       "yuaning/free-opusclip-alternative",
       "hchcsuim/Automatic-Speech-Recognition-Speech-to-Text",
       "artificialguybr/Video-Transcription-Smart-Summary",
@@ -370,6 +368,7 @@
       "OpenSound/CapSpeech-TTS",
       "Illia56/Ask-AI-Youtube",
       "kadirnar/Audio-WebUI",
+      "cstr/transcribe_audio",
       "distil-whisper/whisper-vs-distil-whisper",
       "alexnasa/HuMo_local",
       "devilent2/whisper-v3-zero",
@@ -392,8 +391,8 @@
       "richardzheng/whisper-large-v3",
       "hfmlsoc/different-flops",
       "xianbao/whisper-v3-zero",
-      "ameerazam08/Voice-Mistral-Voice",
       "hynt/ZipVoice-Vietnamese-100h",
+      "ameerazam08/Voice-Mistral-Voice",
       "AFischer1985/AI-RAG-Interface-to-Hub",
       "yerang/LivePortrait",
       "FreedomIntelligence/EchoX",
@@ -445,7 +444,8 @@
       "ghourmetto/openai-whisper-large-v3",
       "Speedofmastery/orynxml-backend",
       "Yash030/claude-code-proxy",
-      "ysharma/gr-workflow-microduck-lab"
+      "ysharma/gr-workflow-microduck-lab",
+      "geraldadli/speech-emotion-recognition"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {
