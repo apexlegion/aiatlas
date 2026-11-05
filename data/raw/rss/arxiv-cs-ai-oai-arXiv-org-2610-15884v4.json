@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.15884v4",
+  "fetchedAt": "2026-11-05T09:19:15.124Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.15884v4",
+    "title": "RetryBench: Separating Retry Permission from Recovery Outcomes in GPT Tool Use",
+    "link": "https://arxiv.org/abs/2610.15884",
+    "description": "arXiv:2610.15884v4 Announce Type: replace Abstract: LLM agents that call external tools must decide what to do when a tool call times out: retrying risks duplicate side effects, while not retrying can leave the task incomplete. We present RetryBench, an evaluation protocol for retry decisions and failure recovery in tool-using LLM agents. Each decision is scored on retry permission (is the retry justified by an idempotency-key guarantee or proof of non-execution?), settled effects (duplicates and omissions), and completion, by replaying it across all hidden execution worlds consistent with the observation. On four synthetic software-engineering tasks, we run two controlled prompt-sensitivity studies (1,728 decisions). Study 1 (idempotency-key descriptions): with the contract fixed, GPT-5.6 Luna reuses the valid idempotency key in 10/40 decisions when an extra key is described as a \"Candidate recovery key\" but in 39/40 when it is an \"Alternative key string\"; across three further phrasings per family the gap is 27/120 versus 113/120. GPT-5.6 Sol and Terra are at ceiling (40/40). Study 2 (action order): under underspecified lookup guarantees, retry rates are 17-27 points lower for GPT-5.6 Terra and GPT-5.4 when retry is listed first (option-order bias), mainly on two tasks; we make no claim about which behavior is better. Findings are limited to researcher-chosen phrasings, four tasks and unpinned model aliases. Code and all model responses are released.",
+    "publishedAt": "2026-11-05",
+    "author": "You Liu, Yue Liu, Quanchao Lu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

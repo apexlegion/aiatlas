@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.29300v3",
+  "fetchedAt": "2026-11-05T09:19:15.124Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.29300v3",
+    "title": "MusTBench: Benchmarking and Advancing Temporal Grounding in Music LLMs",
+    "link": "https://arxiv.org/abs/2605.29300",
+    "description": "arXiv:2605.29300v3 Announce Type: replace-cross Abstract: Recent Large Audio-Language Models (LALMs) have demonstrated promising abilities in understanding musical content. However, whether their responses are grounded in the correct temporal regions of the audio remains underexplored. This limitation is particularly critical for music understanding, where key information often occurs as temporally localized events, such as instrument entries and rhythmic transitions. To address this gap, we introduce MusTBench, a reliable benchmark with stem-wise data and music-expert validation designed to evaluate temporal grounding in LALMs through five temporally grounded question-answering tasks. To further improve temporal grounding in existing models, we propose MusT, a novel four-stage temporal optimization recipe spanning music encoder adaptation, LLM adaptation, LLM supervised fine-tuning, and RL-based optimization. Experiments on MusTBench show that existing LALMs face challenges in precise temporal grounding, while MusT consistently improves performance across different LALM backbones and scales. These results highlight temporal grounding as an important challenge in current LALMs and provide a benchmark and training recipe that may support future research on temporally grounded music understanding.",
+    "publishedAt": "2026-11-05",
+    "author": "Daeyong Kwon, Qiyu Wu, Shinobu Kuriya, Junghyun Koo, Shuyang Cui, Zhi Zhong, Wei-Hsiang Liao, Hiromi Wakaki, Yuki Mitsufuji",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

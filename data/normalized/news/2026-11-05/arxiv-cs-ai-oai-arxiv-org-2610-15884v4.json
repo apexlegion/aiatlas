@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2610-15884v4",
+  "name": "RetryBench: Separating Retry Permission from Recovery Outcomes in GPT Tool Use",
+  "summary": "arXiv:2610.15884v4 Announce Type: replace Abstract: LLM agents that call external tools must decide what to do when a tool call times out: retrying risks duplicate side effects, while not retrying...",
+  "description": "arXiv:2610.15884v4 Announce Type: replace Abstract: LLM agents that call external tools must decide what to do when a tool call times out: retrying risks duplicate side effects, while not retrying can leave the task incomplete. We present RetryBench, an evaluation protocol for retry decisions and failure recovery in tool-using LLM agents. Each decision is scored on retry permission (is the retr...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2610.15884"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-05",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2610.15884"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-05",
+  "expiryAt": "2026-12-05T00:00:00.000Z",
+  "author": "You Liu, Yue Liu, Quanchao Lu"
+}

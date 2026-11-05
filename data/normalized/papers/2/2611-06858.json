@@ -1,0 +1,41 @@
+{
+  "type": "paper",
+  "slug": "2611-06858",
+  "name": "CompressionBench: How can your coding agents compress LLMs?",
+  "summary": "Recursive self-improvement requires AI systems to improve the models and infrastructure used by subsequent systems. LLM compression offers a concrete efficiency objective: retain a pretrained model...",
+  "description": "Recursive self-improvement requires AI systems to improve the models and infrastructure used by subsequent systems. LLM compression offers a concrete efficiency objective: retain a pretrained model's behavior within a smaller model storage budget. We study whether coding agents can carry out this step autonomously. We formulate compression as a terminal task in which an agent receives a source checkpoint, storage limit, inference environment, and time budget, then constructs compressed weights and executable inference code. The agent controls its algorithm and experiments; perplexity feedba...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.06858v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-04",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.06858v1"
+    }
+  ],
+  "authors": [
+    "Xinrui Zhong",
+    "Zhifeng Li",
+    "Zhiming Wang",
+    "Yongqi Liu",
+    "Shanglin Yang",
+    "Yang Zhou",
+    "Zikun Li",
+    "Zhuoming Chen",
+    "Beidi Chen"
+  ],
+  "paperId": "2611.06858",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-04",
+  "abstract": "Recursive self-improvement requires AI systems to improve the models and infrastructure used by subsequent systems. LLM compression offers a concrete efficiency objective: retain a pretrained model's behavior within a smaller model storage budget. We study whether coding agents can carry out this step autonomously. We formulate compression as a terminal task in which an agent receives a source checkpoint, storage limit, inference environment, and time budget, then constructs compressed weights and executable inference code. The agent controls its algorithm and experiments; perplexity feedba..."
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2509.23003v4",
+  "fetchedAt": "2026-11-05T09:19:15.124Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2509.23003v4",
+    "title": "Discovering Phase Space Structure in Learned Hamiltonian Systems",
+    "link": "https://arxiv.org/abs/2509.23003",
+    "description": "arXiv:2509.23003v4 Announce Type: replace-cross Abstract: Mechanics-inspired neural networks provide physically structured models of dynamical systems, but typically assume access to the coordinates in which the underlying dynamics are expressed. While recent generative approaches relax this assumption, they remain limited in their ability to jointly model different dynamical regimes and discover interpretable latent structure. We introduce Structured Phase Space GAN (SPS-GAN), a conditional generative framework that learns mechanical dynamics and discovers latent phase-space structure from Cartesian trajectories or video observations. We achieve this by combining adversarial generation with port-Hamiltonian latent dynamics and extending cyclic-coordinate regularization to account for dissipation and forcing. This formulation supports conservative, dissipative, and forced systems while encouraging compact latent representations from which active degrees of freedom can be identified. Experiments on simulated and real-world systems demonstrate improved trajectory accuracy and video generation quality over competitive baselines, while identifying active latent dimensions consistent with the expected effective degrees of freedom and recovering physically interpretable coordinates across observation modalities and dynamical regimes.",
+    "publishedAt": "2026-11-05",
+    "author": "Yulong Yang, Jiayin Liu, Vineet Bansal, Christine Allen-Blanchette",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

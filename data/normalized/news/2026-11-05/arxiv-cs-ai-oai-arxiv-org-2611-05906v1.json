@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-05906v1",
+  "name": "CHARM+: Cross-Hardware Attention with Re-Merge Multistream Mechanism",
+  "summary": "arXiv:2611.05906v1 Announce Type: new Abstract: As sequence lengths continue to grow, distributed attention based on sequence parallel (e.g., Ring-Attention) has become a mainstream solution for la...",
+  "description": "arXiv:2611.05906v1 Announce Type: new Abstract: As sequence lengths continue to grow, distributed attention based on sequence parallel (e.g., Ring-Attention) has become a mainstream solution for large language models (LLMs). Nevertheless, inherent communication dependencies limit computation-communication overlap, reducing GPU utilization. Moreover, in cross-hardware (NUMA or node) architecture...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.05906"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-05",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.05906"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-05",
+  "expiryAt": "2026-12-05T00:00:00.000Z",
+  "author": "Xinhang Zhang, Boning Zhang, Chengchun Liu, Chunpu Li, Lei Sun, Weifeng Zhang, Limin Xiao"
+}

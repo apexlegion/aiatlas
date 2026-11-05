@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2611-06868",
+  "name": "On Turn-Level Best-of-N Sampling for Scaling LLM Agents",
+  "summary": "In this work, we evaluate a simple inference-time scaling approach based on \\textit{turn-level best-of-N sampling} (\\method) for large language model (LLM) agents on complex, long-horizon tasks. We...",
+  "description": "In this work, we evaluate a simple inference-time scaling approach based on \\textit{turn-level best-of-N sampling} (\\method) for large language model (LLM) agents on complex, long-horizon tasks. We instantiate this using a \\textit{generator-selector} framework with two LLMs; at each turn, a \\emph{generator} model generates $N$ candidate actions and a \\emph{selector} model selects one of them, which is then executed in the environment. This paper is closely related to the work of \\cite{zainullina2025guided} who used critic models for guided search at inference time. Different from their work...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.06868v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-04",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.06868v1"
+    }
+  ],
+  "authors": [
+    "Jalaj Bhandari",
+    "Dhawal Gupta",
+    "Hongli Zhan",
+    "Zhenting Wang",
+    "Varad Pimpalkhute",
+    "Zhengzhong Liu",
+    "Eric Xing",
+    "Rupesh Srivastava"
+  ],
+  "paperId": "2611.06868",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-04",
+  "abstract": "In this work, we evaluate a simple inference-time scaling approach based on \\textit{turn-level best-of-N sampling} (\\method) for large language model (LLM) agents on complex, long-horizon tasks. We instantiate this using a \\textit{generator-selector} framework with two LLMs; at each turn, a \\emph{generator} model generates $N$ candidate actions and a \\emph{selector} model selects one of them, which is then executed in the environment. This paper is closely related to the work of \\cite{zainullina2025guided} who used critic models for guided search at inference time. Different from their work..."
+}

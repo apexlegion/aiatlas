@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2611-06841",
+  "name": "ServerBench: How can your coding agents design specialized LLM serving systems?",
+  "summary": "Large language model (LLM) coding agents develop software through experimentation, offering an opportunity to design the serving systems supporting their own operation. Effective serving requires c...",
+  "description": "Large language model (LLM) coding agents develop software through experimentation, offering an opportunity to design the serving systems supporting their own operation. Effective serving requires coordinating implementation and operating decisions under session dependencies, latency constraints, and correctness requirements. We introduce ServerBench, a benchmark for agentic design of complete, specialized LLM serving systems. Agents experiment against a common objective, dollars per dollar: latency-qualified token value per dollar of GPU cost. Stateful replay preserves session dependencies,...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.06841v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-04",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.06841v1"
+    }
+  ],
+  "authors": [
+    "Xinrui Zhong",
+    "Zhiming Wang",
+    "Yongqi Liu",
+    "Zhaohui Wang",
+    "Shanglin Yang",
+    "Zikun Li",
+    "Zhuoming Chen",
+    "Beidi Chen"
+  ],
+  "paperId": "2611.06841",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-04",
+  "abstract": "Large language model (LLM) coding agents develop software through experimentation, offering an opportunity to design the serving systems supporting their own operation. Effective serving requires coordinating implementation and operating decisions under session dependencies, latency constraints, and correctness requirements. We introduce ServerBench, a benchmark for agentic design of complete, specialized LLM serving systems. Agents experiment against a common objective, dollars per dollar: latency-qualified token value per dollar of GPU cost. Stateful replay preserves session dependencies,..."
+}

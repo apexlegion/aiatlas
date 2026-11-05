@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-06338v1",
+  "name": "Learning to Tune with Biased Gradients: Iterative Feedback Tuning of Model-Free Control on Throttle Valves",
+  "summary": "arXiv:2611.06338v1 Announce Type: cross Abstract: Iterative feedback tuning (IFT) learns the parameters of a fixed-structure controller by stochastic gradient descent. At each iteration, two closed...",
+  "description": "arXiv:2611.06338v1 Announce Type: cross Abstract: Iterative feedback tuning (IFT) learns the parameters of a fixed-structure controller by stochastic gradient descent. At each iteration, two closed-loop experiments are run on the plant: the first one measures the tracking error, and the second one, driven by this error, provides the sensitivities from which the gradient of the cost is estimated...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.06338"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-05",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.06338"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-05",
+  "expiryAt": "2026-12-05T00:00:00.000Z",
+  "author": "F\\'elix Martinez-Jim\\'enez (GIPSA-INFINITY), Sander Miller-Murphy (GIPSA-INFINITY), Tobie Ondoa-Essomba (GIPSA-INFINITY), Emmanuel Witrant (GIPSA-INFINITY)"
+}

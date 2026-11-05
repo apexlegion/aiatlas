@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2611-06908",
+  "name": "Perceptive Humanoid Motion from Simulation",
+  "summary": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and fr...",
+  "description": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-form language to low-level joint commands requires paired supervision, and no corpus of such data exists at sufficiently large scale. Some approaches rely on human teleoperation and wearable capture devices, which require at least an hour of human time to produce an hour of data. We present HALO, a humanoid autonomy system powered by a pipeline that synthesizes vision-language-motion data acros...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.06908v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-04",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2611.06908v1"
+    }
+  ],
+  "authors": [
+    "Siyuan Hu",
+    "Abulikemu Abuduweili",
+    "Yue Meng",
+    "Shipeng Liu",
+    "Quentin Leboutet",
+    "Chen Chen",
+    "Matthias Müller",
+    "Vladlen Koltun"
+  ],
+  "paperId": "2611.06908",
+  "category": "cs.RO",
+  "publishedAt": "2026-11-04",
+  "abstract": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-form language to low-level joint commands requires paired supervision, and no corpus of such data exists at sufficiently large scale. Some approaches rely on human teleoperation and wearable capture devices, which require at least an hour of human time to produce an hour of data. We present HALO, a humanoid autonomy system powered by a pipeline that synthesizes vision-language-motion data acros..."
+}

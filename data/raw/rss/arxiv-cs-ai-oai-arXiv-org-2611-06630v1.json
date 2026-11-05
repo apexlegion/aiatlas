@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.06630v1",
+  "fetchedAt": "2026-11-05T09:19:15.124Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.06630v1",
+    "title": "Noise-regularized training of quantum circuit Born machines under a finite shot budget",
+    "link": "https://arxiv.org/abs/2611.06630",
+    "description": "arXiv:2611.06630v1 Announce Type: cross Abstract: Quantum circuit Born machines (QCBMs) can learn distributions that are hard to sample from classically, but their value depends on generalizing from finite training data. Here, we study how hardware noise affects this generalization. We show that, for any noise process, the generalization gap of a QCBM trained with the maximum mean discrepancy is bounded by the complexity of the distributions the noisy model can reach. Scrambled local Pauli noise contracts this complexity but biases the model towards the uniform distribution, so residual noise acts as a regularizer whose optimal strength can be intermediate. We propose GENIE, a framework that realizes a chosen noise level with capped error mitigation and selects it during training from held-out data within a fixed execution budget, with provably bounded regret. In simulations on synthetic and census data, GENIE stays close to the best of four noise-control strategies, whereas every fixed noise level falls short in many settings.",
+    "publishedAt": "2026-11-05",
+    "author": "Hoang M. Ngo, Quan Nguyen, Jung Taek Seo, Wanli Xing, My T. Thai",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

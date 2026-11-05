@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2611-06899",
+  "name": "Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues",
+  "summary": "Knowing that a pedestrian is occluded is useful to a robot even when the detector cannot recover the hidden pixels, but occlusion estimators are normally trained on occlusion annotations that deplo...",
+  "description": "Knowing that a pedestrian is occluded is useful to a robot even when the detector cannot recover the hidden pixels, but occlusion estimators are normally trained on occlusion annotations that deployment settings rarely have. We show that occlusion can be read off two distance estimates a camera-only pipeline already computes. Apparent height is largely unchanged by occlusion, because the detected box still spans the whole person; monocular metric depth is pulled toward the occluder, because the nearest surface inside the box is what a depth map reports. Only their ordering matters, so no fo...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.06899v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-04",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2611.06899v1"
+    }
+  ],
+  "authors": [
+    "Chibueze Praise Onyenweaku",
+    "Toyibat Adele",
+    "Sikirulahi Opeyemi Abdulkareem",
+    "Obed Honour Eje"
+  ],
+  "paperId": "2611.06899",
+  "category": "cs.CV",
+  "publishedAt": "2026-11-04",
+  "abstract": "Knowing that a pedestrian is occluded is useful to a robot even when the detector cannot recover the hidden pixels, but occlusion estimators are normally trained on occlusion annotations that deployment settings rarely have. We show that occlusion can be read off two distance estimates a camera-only pipeline already computes. Apparent height is largely unchanged by occlusion, because the detected box still spans the whole person; monocular metric depth is pulled toward the occluder, because the nearest surface inside the box is what a depth map reports. Only their ordering matters, so no fo..."
+}

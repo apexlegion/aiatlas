@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-05401v1",
+  "name": "A Training-Free Socket for DNA in Frozen Language Models",
+  "summary": "arXiv:2611.05401v1 Announce Type: cross Abstract: Connecting a DNA foundation model to a large language model (LLM) usually requires training a connector, and often the LLM too. We show that a clos...",
+  "description": "arXiv:2611.05401v1 Announce Type: cross Abstract: Connecting a DNA foundation model to a large language model (LLM) usually requires training a connector, and often the LLM too. We show that a closed-form map is enough for gene-level questions. Our method, the socket, fits one ridge regression (the plug) from frozen Evo 2 features to the host LLM's own representation of the gene's symbol, name,...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.05401"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-05",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.05401"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-05",
+  "expiryAt": "2026-12-05T00:00:00.000Z",
+  "author": "Arash Fatehi"
+}

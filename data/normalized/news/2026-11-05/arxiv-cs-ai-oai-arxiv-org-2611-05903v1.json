@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-05903v1",
+  "name": "EchoKV: Self-Corrective KV Cache Eviction via Iterative Query Feedback",
+  "summary": "arXiv:2611.05903v1 Announce Type: new Abstract: KV cache eviction is not merely a token-ranking problem: the workspace retained for generating eviction queries also determines the quality of those...",
+  "description": "arXiv:2611.05903v1 Announce Type: new Abstract: KV cache eviction is not merely a token-ranking problem: the workspace retained for generating eviction queries also determines the quality of those queries. Consequently, an early workspace error can distort later query observations and reinforce an incorrect final eviction decision, particularly when evidence is dispersed across a long context....",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.05903"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-05",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.05903"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-05",
+  "expiryAt": "2026-12-05T00:00:00.000Z",
+  "author": "JianKun Zou, Tongtong Yuan"
+}
