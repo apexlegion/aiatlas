@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.24737v2",
+  "fetchedAt": "2026-11-06T09:13:06.655Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.24737v2",
+    "title": "Learning to Think from Multiple Thinkers: How Chain-of-Thought Heterogeneity Affects Efficient Learnability",
+    "link": "https://arxiv.org/abs/2604.24737",
+    "description": "arXiv:2604.24737v2 Announce Type: replace-cross Abstract: Chain-of-thought (CoT) supervision makes computationally hard learning problems tractable by exposing intermediate steps that are easy to learn via next-token prediction. However, in practice, CoT datasets draw on heterogeneous sources with different reasoning styles, and substantial effort goes into curating supervision suitable for next-token training. What role does this curation play in enabling the computational advantage of CoT supervision? In this work, we take a first step toward understanding this question from a learning-theoretic perspective. We introduce several models of $heterogeneous$ $CoT$ $supervision$ from multiple sources, each providing correct traces with the same final answer but different intermediate steps. Assuming that fitting a next-token predictor to $homogeneous$ traces from any single source is computationally tractable, we ask when this suffices for efficient learning from heterogeneous supervision. We show $cryptographic$ $hardness$ of learning from $passively$ collected traces from multiple sources, even though learning from homogeneous CoTs is easy. This hardness can stem either from $hard$-$to$-$learn$ $contribution$ $biases$ determining which sources contribute traces on different parts of the domain, or from receiving an $unfiltered$ heterogeneous mixture (though a filtered subset of homogeneous traces is sufficient for efficient learning). On the positive side, inspired by iterative and adaptive fine-tuning of language models, we give a computationally efficient learning algorithm that $actively$ and $adaptively$ collects CoTs from multiple sources with a per-source CoT budget completely independent of the target error $\\varepsilon$. We argue that our results illuminate data collection and curation practices central to making CoT supervision effective for learning.",
+    "publishedAt": "2026-11-06",
+    "author": "Nirmit Joshi, Roey Magen, Nathan Srebro, Nikolaos Tsilivis, Gal Vardi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

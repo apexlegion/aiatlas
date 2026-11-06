@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2605-19049v2",
+  "name": "KVBuffer: IO-aware Serving for Linear Attention",
+  "summary": "arXiv:2605.19049v2 Announce Type: replace-cross Abstract: Linear attention has recently gained significant attention for long-context inference due to its constant decoding cost with respect to con...",
+  "description": "arXiv:2605.19049v2 Announce Type: replace-cross Abstract: Linear attention has recently gained significant attention for long-context inference due to its constant decoding cost with respect to context length. However, existing serving systems typically serve linear attention by recurrently computing and updating a large linear attention state in every decoding step. Since the state is much lar...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2605.19049"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-06",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2605.19049"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-06",
+  "expiryAt": "2026-12-06T00:00:00.000Z",
+  "author": "Longwei Zou, Lin Zhong"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-07256v1",
+  "name": "TriAttention: Unified Sparse Mixed-Precision Attention for Long-Context LLM Inference",
+  "summary": "arXiv:2611.07256v1 Announce Type: cross Abstract: Sparsity and quantization reduce the cost of attention by skipping interactions and lowering the precision of those retained. However, useful inter...",
+  "description": "arXiv:2611.07256v1 Announce Type: cross Abstract: Sparsity and quantization reduce the cost of attention by skipping interactions and lowering the precision of those retained. However, useful interactions differ in their precision requirements: some tolerate low-precision scores while remaining sensitive to removal. We therefore introduce TriAttention, which assigns query-key (QK) tiles to skip...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.07256"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-06",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.07256"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-06",
+  "expiryAt": "2026-12-06T00:00:00.000Z",
+  "author": "Hanzhi Zhang, Qiao Zhang, Qinglei Cao, Heng Fan, Yan Huang, Kewei Sha, Yunhe Feng"
+}

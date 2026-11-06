@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-07756v1",
+  "name": "Scaling Laws for SAE Training Data",
+  "summary": "arXiv:2611.07756v1 Announce Type: cross Abstract: Activation storage is often a bottleneck in sparse autoencoder (SAE) training. We study how many unique activations an SAE needs when its total tra...",
+  "description": "arXiv:2611.07756v1 Announce Type: cross Abstract: Activation storage is often a bottleneck in sparse autoencoder (SAE) training. We study how many unique activations an SAE needs when its total training budget is fixed. Quality improves rapidly as the buffer grows, then reaches a plateau where replaying the buffer is nearly as effective as using fresh activations throughout training. Beyond thi...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.07756"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-06",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.07756"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-06",
+  "expiryAt": "2026-12-06T00:00:00.000Z",
+  "author": "Nikita Koriagin, Nikita Balagansky, Daniil Gavrilov"
+}

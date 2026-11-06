@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-07932v1",
+  "name": "AttnSR: Attention Step Reward for Long-Horizon Agentic RL",
+  "summary": "arXiv:2611.07932v1 Announce Type: cross Abstract: Long-horizon LLM agents make multi-step decisions, yet outcome-reward-only reinforcement learning provides little direct supervision for individual...",
+  "description": "arXiv:2611.07932v1 Announce Type: cross Abstract: Long-horizon LLM agents make multi-step decisions, yet outcome-reward-only reinforcement learning provides little direct supervision for individual steps. We introduce AttnSR, a step-level reward augmentation method that derives reward allocations from policy attention extracted during training replay, without a separately trained reward model o...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.07932"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-06",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.07932"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-06",
+  "expiryAt": "2026-12-06T00:00:00.000Z",
+  "author": "Mengsong Wu, Tianchen Zhou, Zhaochen Su, Zhenhua Liu, Zhe Cui, Aimin Zhou"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-07736v1",
+  "name": "Extending Reasoning in Typed Decision Models via Looping",
+  "summary": "arXiv:2611.07736v1 Announce Type: cross Abstract: Typed decision models choose among a fixed set of answer options in a single forward pass, so unlike generative language models they cannot spend m...",
+  "description": "arXiv:2611.07736v1 Announce Type: cross Abstract: Typed decision models choose among a fixed set of answer options in a single forward pass, so unlike generative language models they cannot spend more test-time compute on hard inputs by generating more tokens. Looping a block of layers offers this compute in latent space without adding parameters, but prior work found no gain from loops retrofi...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.07736"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-06",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.07736"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-06",
+  "expiryAt": "2026-12-06T00:00:00.000Z",
+  "author": "David Berghaus, Arber Zela, Behzad Shomali, Markus Frey, Mehdi Ali, Rafet Sifa, Volkan Cevher"
+}

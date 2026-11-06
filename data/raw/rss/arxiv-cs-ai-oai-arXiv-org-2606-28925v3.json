@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.28925v3",
+  "fetchedAt": "2026-11-06T09:13:06.655Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.28925v3",
+    "title": "Set-Valued Routing for Language-Model Agent Systems: A WildChat Benchmark and Cost-Aware Evaluation",
+    "link": "https://arxiv.org/abs/2606.28925",
+    "description": "arXiv:2606.28925v3 Announce Type: replace-cross Abstract: Language-model agent systems must map natural-language requests to one or more specialized agents before planning or tool execution. This decision is often treated as top-1 selection, although compositional requests can require several capabilities and unnecessary dispatch raises cost. We formulate fixed-catalog routing as set-valued language understanding and construct a benchmark of 3,000 WildChat prompts over 12 capability-defined agents. Reproducible schema-guided reference sets are balanced by agent frequency and route cardinality. We compare profile retrieval, multilabel classifiers, a fine-tuned text encoder, and catalog-conditioned zero-shot GPT-4o. Evaluation combines set quality, latency, capability coverage, and ordinal-cost utility. The encoder attains 89.59 F1, compared with 71.79 for linear SVM and 41.51 for GPT-4o, and retains 88.02 F1 under a harder semantic-group split. We further introduce Weighted Agent Routing (WAR), a deterministic post-scoring rule that changes the quality-cost operating point without retraining; Encoder+WAR obtains the best constrained utility. The results show that catalog-specific supervision and explicit set construction are important for multi-agent dispatch, while cost-aware decision layers can complement strong language encoders.",
+    "publishedAt": "2026-11-06",
+    "author": "Ananto Nayan Bala, Faisal Muhammad Shah",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

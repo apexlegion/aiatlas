@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2509.25549v4",
+  "fetchedAt": "2026-11-06T09:13:06.655Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2509.25549v4",
+    "title": "Hybrid Approach for Enhancing Lesion Segmentation in Fundus Images",
+    "link": "https://arxiv.org/abs/2509.25549",
+    "description": "arXiv:2509.25549v4 Announce Type: replace-cross Abstract: Choroidal nevi (CN) are common benign fundus lesions that require longitudinal monitoring because a small fraction transform into melanoma. Accurate delineation at native resolution is challenging: CN typically occupy &lt;2% of the image, boundaries are indistinct, and expert annotations are limited. We propose a hybrid pipeline in which an unmodified UNet trained on 128 * 128 images provides a coarse location prior, while a training-free superpixel method (SLIC) recovers the boundary at the full input resolution. The prior further drives automatic per-image selection of the superpixel count via an image-to-lesion ratio, eliminating manual tuning. On 25 held-out 1024 * 1024 images, the proposed method achieved a mean Dice of 90.9% (IoU 87.9%), outperforming nnU-Net (83.2%), Swin UNet (73.0%), and Attention UNet (60.6%) trained at the same resolution, with all paired differences significant after Holm correction. On 90 external images from a second centre, the advantage persisted (76.8% vs. 69.3% for nnU-Net). Ablation studies identify the automated superpixel count as the key component. Inference needs no GPU, requiring 1.6 s per 1024 * 1024 image and 15 s at 3900 * 3900 on a laptop.",
+    "publishedAt": "2026-11-06",
+    "author": "Mohammadmahdi Eshragh, Emad A. Mohammed, Behrouz Far, Ezekiel Weis, Carol L Shields, Sandor R Ferenczy, Trafford Crump",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

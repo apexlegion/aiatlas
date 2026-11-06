@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.16541v2",
+  "fetchedAt": "2026-11-06T09:13:06.655Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.16541v2",
+    "title": "A Cyber Range Evaluation of Inductive Autonomous Network Incident Response Agents",
+    "link": "https://arxiv.org/abs/2609.16541",
+    "description": "arXiv:2609.16541v2 Announce Type: replace-cross Abstract: We have applied a novel combination of classic relational database modeling and modern reinforcement learning to automated intrusion response to enable inductive decision agents. Unlike previous work in the area, our approach allows agents to handle variable quantities of network assets without retraining. We test the operational performance of our approach in a virtualized computer network with variable topologies, red-team automation and simulated user agents. The task of the agents is to prevent hosts in the network from being accessed by the red-team agent, while minimizing the availability costs induced from defensive measures. We test a combination of heuristic agents and policies trained using relational reinforcement learning. The reinforcement learning agents were overall more efficient at defending the system than the heuristic policy, and the closest to the performance of human operators at the task.",
+    "publishedAt": "2026-11-06",
+    "author": "Jakob Nyberg, Teodor Sommestad, Andrei Buhaiu, Joakim Loxdal, Pontus Johnson, Mathias Ekstedt",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

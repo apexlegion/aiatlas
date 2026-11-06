@@ -1,0 +1,48 @@
+{
+  "type": "paper",
+  "slug": "2611-08369",
+  "name": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
+  "summary": "Current medical benchmarks typically break down clinical competence into isolated factual questions, single-image tasks, or static case vignettes. These tests score individual answers, but reveal l...",
+  "description": "Current medical benchmarks typically break down clinical competence into isolated factual questions, single-image tasks, or static case vignettes. These tests score individual answers, but reveal less about whether a model can integrate subspecialty knowledge with multimodal evidence and track a patient's condition throughout a course of care. To close this gap, we introduce NPCBench, a clinical apprenticeship benchmark for nasopharyngeal carcinoma (NPC). NPCBench mirrors specialist training, from guideline and foundational knowledge to case planning, longitudinal review, CarePath integrati...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.08369v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-05",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.08369v1"
+    }
+  ],
+  "authors": [
+    "Pengkai Wang",
+    "Wei-Wei Zhang",
+    "Yan Li",
+    "Min Tang",
+    "Zhitian Hou",
+    "Zeyu Liu",
+    "Guanghao Zhu",
+    "Yuanyi Wang",
+    "Yanggan Gu",
+    "Wenjun Wang",
+    "Minheng Ni",
+    "Congkai Xie",
+    "Zhijie Sang",
+    "Jianmin Wu",
+    "Ying Sun",
+    "Hongxia Yang"
+  ],
+  "paperId": "2611.08369",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-05",
+  "abstract": "Current medical benchmarks typically break down clinical competence into isolated factual questions, single-image tasks, or static case vignettes. These tests score individual answers, but reveal less about whether a model can integrate subspecialty knowledge with multimodal evidence and track a patient's condition throughout a course of care. To close this gap, we introduce NPCBench, a clinical apprenticeship benchmark for nasopharyngeal carcinoma (NPC). NPCBench mirrors specialist training, from guideline and foundational knowledge to case planning, longitudinal review, CarePath integrati..."
+}
