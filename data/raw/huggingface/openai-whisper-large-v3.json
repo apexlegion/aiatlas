@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-11-07T08:38:04.850Z",
+  "fetchedAt": "2026-11-08T08:51:36.325Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 3562122,
-    "likes": 6766,
+    "downloads": 3548526,
+    "likes": 6772,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -347,14 +347,12 @@
     ],
     "spaces": [
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
-      "yuaning/ai-viral-shorts-studio",
       "openai/whisper",
       "treble-technologies/ffasr",
       "microsoft/paza-bench",
-      "Quran-Lab/quranic-asr-leaderboard",
       "BuzzASR/buzzasr-persian",
+      "yuaning/ai-viral-shorts-studio",
       "bouessomberi/mavoix-whisperx",
-      "yuaning/free-opusclip-alternative",
       "hchcsuim/Automatic-Speech-Recognition-Speech-to-Text",
       "hf-audio/whisper-large-v3",
       "artificialguybr/Video-Transcription-Smart-Summary",
@@ -445,7 +443,9 @@
       "Speedofmastery/orynxml-backend",
       "Yash030/claude-code-proxy",
       "ysharma/gr-workflow-microduck-lab",
-      "geraldadli/speech-emotion-recognition"
+      "geraldadli/speech-emotion-recognition",
+      "Maximofn/subtify",
+      "TogetherAI/whisper-large-v3"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {
