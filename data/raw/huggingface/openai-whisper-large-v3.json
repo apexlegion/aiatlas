@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-11-08T08:51:36.325Z",
+  "fetchedAt": "2026-11-09T09:34:44.297Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 3548526,
-    "likes": 6772,
+    "downloads": 3515562,
+    "likes": 6777,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -348,6 +348,7 @@
     "spaces": [
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "openai/whisper",
+      "OpenSound/CapSpeech-TTS",
       "treble-technologies/ffasr",
       "microsoft/paza-bench",
       "BuzzASR/buzzasr-persian",
@@ -359,7 +360,6 @@
       "artificialguybr/video-dubbing",
       "embedl/hfviewer",
       "sanchit-gandhi/whisper-jax-spaces",
-      "OpenSound/CapSpeech-TTS",
       "nari-labs/Dia2-2B",
       "Illia56/Ask-AI-Youtube",
       "kadirnar/Audio-WebUI",

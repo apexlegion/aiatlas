@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T08:51:39.443Z",
+  "generatedAt": "2026-11-09T09:34:59.705Z",
   "entries": {
     "automatic1111-stable-diffusion-webui": {
       "slug": "automatic1111-stable-diffusion-webui",
@@ -176,224 +176,246 @@
         "jupyter notebook"
       ]
     },
-    "2611-08368": {
-      "slug": "2611-08368",
-      "typedId": "paper/2611-08368",
-      "name": "VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception",
+    "2611-09746": {
+      "slug": "2611-09746",
+      "typedId": "paper/2611-09746",
+      "name": "Continuous wavelet-based feature extraction for laser-induced breakdown spectroscopy classification of human plasma samples",
       "type": "paper",
-      "summary": "Robotic perception increasingly relies on heterogeneous sensor suites combining cameras with emerging modalities (event, SPAD, iToF/dToF, and thermal). Yet existing simulators idealize these sensor...",
-      "tags": [
-        "arxiv",
-        "cs.RO"
-      ]
-    },
-    "2611-08369": {
-      "slug": "2611-08369",
-      "typedId": "paper/2611-08369",
-      "name": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
-      "type": "paper",
-      "summary": "Current medical benchmarks typically break down clinical competence into isolated factual questions, single-image tasks, or static case vignettes. These tests score individual answers, but reveal l...",
+      "summary": "Extracting discriminative features from laser-induced breakdown spectroscopy (LIBS) spectra is important for the classification of complex biological samples. This study evaluates continuous wavele...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2611-08372": {
-      "slug": "2611-08372",
-      "typedId": "paper/2611-08372",
-      "name": "MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation",
+    "2611-09768": {
+      "slug": "2611-09768",
+      "typedId": "paper/2611-09768",
+      "name": "Language as Trait, Politeness as Strategy: Controlled Tests of Linguistic Effects in LLM Social-Deduction Agents",
       "type": "paper",
-      "summary": "Visuomotor policies trained through imitation learning are highly sensitive to changes in camera viewpoint. This is particularly problematic for mobile manipulation (MoMa), where robots rarely exec...",
-      "tags": [
-        "arxiv",
-        "cs.RO"
-      ]
-    },
-    "2611-08383": {
-      "slug": "2611-08383",
-      "typedId": "paper/2611-08383",
-      "name": "FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning",
-      "type": "paper",
-      "summary": "Federated learning servers combine client models with a fixed aggregation rule, and each rule in common use is designed for one kind of heterogeneity. We study whether a large language model (LLM)...",
-      "tags": [
-        "arxiv",
-        "cs.CR"
-      ]
-    },
-    "2611-08386": {
-      "slug": "2611-08386",
-      "typedId": "paper/2611-08386",
-      "name": "Hybrid Machine Learning for Imbalanced Landing-Phase Safety Event Prediction from Flight Data",
-      "type": "paper",
-      "summary": "Landing-phase safety-event prediction requires the detection of rare abnormal approaches within strongly imbalanced multivariate flight data. Capturing coupled temporal behavior while distinguishin...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2611-08392": {
-      "slug": "2611-08392",
-      "typedId": "paper/2611-08392",
-      "name": "Learning a patient world model for health system simulation in intensive care",
-      "type": "paper",
-      "summary": "Designing healthcare strategies requires anticipating their clinical and operational consequences before implementation, a task that often relies on health system simulation. Such a simulation nece...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2611-08403": {
-      "slug": "2611-08403",
-      "typedId": "paper/2611-08403",
-      "name": "StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning",
-      "type": "paper",
-      "summary": "Self-consistency (SC) is a widely used decoding strategy for improving chain-of-thought reasoning, but it requires sampling many complete reasoning trajectories with a preset budget. Its efficient...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2611-08412": {
-      "slug": "2611-08412",
-      "typedId": "paper/2611-08412",
-      "name": "The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?",
-      "type": "paper",
-      "summary": "The growing use of AI in mathematics raises a question: can we detect AI involvement in proofs, separately from AI assistance with writing? Historical arXiv papers, recent papers disclosing substan...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2611-08417": {
-      "slug": "2611-08417",
-      "typedId": "paper/2611-08417",
-      "name": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
-      "type": "paper",
-      "summary": "Coding agents are among the most economically consequential deployments of LLMs to date, making reliable evaluation increasingly important. Yet even benchmarks that are carefully validated at relea...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2611-08425": {
-      "slug": "2611-08425",
-      "typedId": "paper/2611-08425",
-      "name": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
-      "type": "paper",
-      "summary": "Vision-Language-Action models (VLAs) enable general-purpose embodied intelligence, but their performance is brittle under distribution shift, where unanticipated failures can damage equipment or en...",
-      "tags": [
-        "arxiv",
-        "cs.RO"
-      ]
-    },
-    "2611-08428": {
-      "slug": "2611-08428",
-      "typedId": "paper/2611-08428",
-      "name": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
-      "type": "paper",
-      "summary": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not th...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2611-08433": {
-      "slug": "2611-08433",
-      "typedId": "paper/2611-08433",
-      "name": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
-      "type": "paper",
-      "summary": "LLM-based medical assistants that follow a patient across visits need a memory that keeps the patient's clinical state correct as it changes. We examine the errors of five memory systems on longitu...",
+      "summary": "Large language model (LLM) agents coordinate through conversation, and the same message can be phrased in simpler or more complex language, bluntly or politely. We test whether such differences cha...",
       "tags": [
         "arxiv",
         "cs.CL"
       ]
     },
-    "2611-08438": {
-      "slug": "2611-08438",
-      "typedId": "paper/2611-08438",
-      "name": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+    "2611-09770": {
+      "slug": "2611-09770",
+      "typedId": "paper/2611-09770",
+      "name": "ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models",
       "type": "paper",
-      "summary": "Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more capable and autonomous, their potential to cause societal harm also grows, mak...",
+      "summary": "Multimodal Large Language Models (MLLMs) require continuous factual updates to stay current, yet lifelong knowledge editing remains a daunting challenge. The primary obstacle is the severe Locality...",
       "tags": [
         "arxiv",
         "cs.CL"
       ]
     },
-    "2611-08439": {
-      "slug": "2611-08439",
-      "typedId": "paper/2611-08439",
-      "name": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes",
+    "2611-09791": {
+      "slug": "2611-09791",
+      "typedId": "paper/2611-09791",
+      "name": "Assessing the Impact of Retrieval-Augmented Generation on Algorithmic Problem-Solving",
       "type": "paper",
-      "summary": "Typed-decision models score options that the caller supplies at request time, so their accuracy depends on label wording that the model's developer does not control. We compare two releases of a 30...",
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ]
-    },
-    "2611-08452": {
-      "slug": "2611-08452",
-      "typedId": "paper/2611-08452",
-      "name": "ReproBridge: Building Reproducibility into ML Research Artifacts",
-      "type": "paper",
-      "summary": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction succes...",
+      "summary": "Competitive programming problems pose distinctive challenges for Large Language Models, as they demand not only proficient code generation but also advanced algorithmic reasoning. This study presen...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2611-08465": {
-      "slug": "2611-08465",
-      "typedId": "paper/2611-08465",
-      "name": "Towards interpreting any residual stream direction by scaling activation inversion",
+    "2611-09792": {
+      "slug": "2611-09792",
+      "typedId": "paper/2611-09792",
+      "name": "Knowing When to Intervene: Causal Evaluation of AI Agents",
       "type": "paper",
-      "summary": "To interpret a direction in a language model's residual stream, we can look for text that strongly activates it. But when such text is found by scanning a corpus, it is limited to what that corpus...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2611-08469": {
-      "slug": "2611-08469",
-      "typedId": "paper/2611-08469",
-      "name": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information",
-      "type": "paper",
-      "summary": "Interpretability, AI auditing and assessments of machine consciousness increasingly rest on mechanism-level quantities: functionals of a system's causal transition law that describe how it computes...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2611-08472": {
-      "slug": "2611-08472",
-      "typedId": "paper/2611-08472",
-      "name": "XStack: A Benchmark for ML Repo Migration",
-      "type": "paper",
-      "summary": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating re...",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2611-08478": {
-      "slug": "2611-08478",
-      "typedId": "paper/2611-08478",
-      "name": "Scientist World: Grow a Research World for AI-Scientists",
-      "type": "paper",
-      "summary": "AI-Scientists arrived, but a world for them to grow in did not. Human scientists take theirs for granted $-$ centuries of open problems and shared ideas, waiting in the scientific literature. To AI...",
+      "summary": "Current evaluations of agentic AI systems primarily rely on benchmarks. However, the static nature of benchmarks makes them uninformative about the value of auditing interventions at deployment tim...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2611-08483": {
-      "slug": "2611-08483",
-      "typedId": "paper/2611-08483",
-      "name": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+    "2611-09798": {
+      "slug": "2611-09798",
+      "typedId": "paper/2611-09798",
+      "name": "Test-Time Compute Scales Better with Parallel Agent Teams",
       "type": "paper",
-      "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the proc...",
+      "summary": "Test-time scaling improves the performance of a fixed model by spending more computation at inference. There are two common ways to spend it on agents when a verifier can score every attempt. Best-...",
       "tags": [
         "arxiv",
         "cs.AI"
+      ]
+    },
+    "2611-09802": {
+      "slug": "2611-09802",
+      "typedId": "paper/2611-09802",
+      "name": "When Instruction Files Go Stale: Documentation Debt and Hidden Cost in Coding Agents",
+      "type": "paper",
+      "summary": "LLM-based coding agents such as Claude Code are guided by repository instruction files (also called context files or agent configuration files) like AGENTS.md and CLAUDE.md, which are read in every...",
+      "tags": [
+        "arxiv",
+        "cs.SE"
+      ]
+    },
+    "2611-09803": {
+      "slug": "2611-09803",
+      "typedId": "paper/2611-09803",
+      "name": "Maya a1: Do the Options Read the Model, or Does Their Position? Order Sensitivity in a Non-Autoregressive Decision Model",
+      "type": "paper",
+      "summary": "Laya answers typed multiple-choice questions in one forward pass by scoring a hidden state at one [MASK] marker per option. We re-engineer the checkpoint (421M parameters; a 2-layer option head wit...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2611-09805": {
+      "slug": "2611-09805",
+      "typedId": "paper/2611-09805",
+      "name": "Scaling Graph Similarity Learning with Graph Neural Networks",
+      "type": "paper",
+      "summary": "Graph similarity computation is an important task in graph mining with many real-world applications, such as chemical compound analysis, program dependence comparison, and social network analysis....",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2611-09818": {
+      "slug": "2611-09818",
+      "typedId": "paper/2611-09818",
+      "name": "Generative Latent Priors for Interpreting and Steering Protein Language Models",
+      "type": "paper",
+      "summary": "Dominant methods for interpreting large models impose strong structural assumptions. Generative Latent Priors (GLP) are a complementary approach: a diffusion model that learns the distribution of a...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2611-09822": {
+      "slug": "2611-09822",
+      "typedId": "paper/2611-09822",
+      "name": "Discovering formally verified quantum programs with AI",
+      "type": "paper",
+      "summary": "The timeline by which quantum computers can solve breakthrough problems in science depends on improved quantum algorithms as much as on better hardware. Such algorithmic advances are typically achi...",
+      "tags": [
+        "arxiv",
+        "quant-ph"
+      ]
+    },
+    "2611-09825": {
+      "slug": "2611-09825",
+      "typedId": "paper/2611-09825",
+      "name": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
+      "type": "paper",
+      "summary": "The key-value (KV) cache dominates memory capacity and bandwidth in long-context LLM serving. While 4-bit microscaling formats (NVFP4, MXFP4) shrink the cache and run attention on FP4 Tensor Cores,...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2611-09836": {
+      "slug": "2611-09836",
+      "typedId": "paper/2611-09836",
+      "name": "Can Agentic Systems Close the Gap in Radiology with Production AI Tools?",
+      "type": "paper",
+      "summary": "Radiology AI has developed along two paths: specialized models that perform well on narrow tasks but cover few clinical findings, and generalist models that address a broader range of tasks but rem...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2611-09846": {
+      "slug": "2611-09846",
+      "typedId": "paper/2611-09846",
+      "name": "Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code Summarization",
+      "type": "paper",
+      "summary": "This paper describes an approach and use case to estimate the correctness of LLM-generated COBOL summaries without access to human-authored references. The core intuition is that inter-model agreem...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2611-09863": {
+      "slug": "2611-09863",
+      "typedId": "paper/2611-09863",
+      "name": "Flow-Guided Target-Space Alignment via Path Consistency",
+      "type": "paper",
+      "summary": "Many multimodal alignment problems require mapping a source modality into a fixed space defined by a target modality, where the target space is not merely an intermediate embedding but is used dire...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2611-09864": {
+      "slug": "2611-09864",
+      "typedId": "paper/2611-09864",
+      "name": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
+      "type": "paper",
+      "summary": "Loco-manipulation, which requires mobile manipulators to coordinate locomotion and manipulation over long horizons, is a key capability for large-object rearrangement in applications such as servic...",
+      "tags": [
+        "arxiv",
+        "cs.RO"
+      ]
+    },
+    "2611-09866": {
+      "slug": "2611-09866",
+      "typedId": "paper/2611-09866",
+      "name": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
+      "type": "paper",
+      "summary": "Purpose: Surgical operative reports support procedural documentation, surgical training, performance assessment, and workflow review. However, extracting meaningful information often requires exten...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2611-09872": {
+      "slug": "2611-09872",
+      "typedId": "paper/2611-09872",
+      "name": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+      "type": "paper",
+      "summary": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2611-09891": {
+      "slug": "2611-09891",
+      "typedId": "paper/2611-09891",
+      "name": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+      "type": "paper",
+      "summary": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a tas...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2611-09892": {
+      "slug": "2611-09892",
+      "typedId": "paper/2611-09892",
+      "name": "On Agentic Manipulation Policies",
+      "type": "paper",
+      "summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies suc...",
+      "tags": [
+        "arxiv",
+        "cs.RO"
+      ]
+    },
+    "mit-news-ai-https-news-mit-edu-2026-ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109": {
+      "slug": "mit-news-ai-https-news-mit-edu-2026-ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "typedId": "news/mit-news-ai-https-news-mit-edu-2026-ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109",
+      "name": "AI-assisted learning platform helps robots reason beyond literal commands",
+      "type": "news",
+      "summary": "The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots.",
+      "tags": [
+        "news",
+        "mit-news-ai"
+      ]
+    },
+    "mit-news-ai-https-news-mit-edu-2026-single-ai-model-simulates-many-substances-behavior-1109": {
+      "slug": "mit-news-ai-https-news-mit-edu-2026-single-ai-model-simulates-many-substances-behavior-1109",
+      "typedId": "news/mit-news-ai-https-news-mit-edu-2026-single-ai-model-simulates-many-substances-behavior-1109",
+      "name": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+      "type": "news",
+      "summary": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
+      "tags": [
+        "news",
+        "mit-news-ai"
       ]
     },
     "huggingface-blog-https-huggingface-co-blog-allenai-toyblocks": {

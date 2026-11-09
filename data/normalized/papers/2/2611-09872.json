@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2611-09872",
+  "name": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+  "summary": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze...",
+  "description": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze majority-vote supervision for TTRL with online Direct Preference Optimization (DPO) and decompose its error into population-majority bias and prompt-dependent finite-rollout variation. Because population-majority bias is generally unidentifiable without external supervision, we focus on mitigating the downstream effects of finite-rollout variation. We propose \\emph{Prompt-Conditional Distribution...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.09872v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-06",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.09872v1"
+    }
+  ],
+  "authors": [
+    "Haoyu Wang",
+    "Ru Wang",
+    "Yuanyuan Wang",
+    "Jiaxian Guo",
+    "Mingming Gong"
+  ],
+  "paperId": "2611.09872",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-06",
+  "abstract": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze majority-vote supervision for TTRL with online Direct Preference Optimization (DPO) and decompose its error into population-majority bias and prompt-dependent finite-rollout variation. Because population-majority bias is generally unidentifiable without external supervision, we focus on mitigating the downstream effects of finite-rollout variation. We propose \\emph{Prompt-Conditional Distribution..."
+}

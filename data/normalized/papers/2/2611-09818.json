@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2611-09818",
+  "name": "Generative Latent Priors for Interpreting and Steering Protein Language Models",
+  "summary": "Dominant methods for interpreting large models impose strong structural assumptions. Generative Latent Priors (GLP) are a complementary approach: a diffusion model that learns the distribution of a...",
+  "description": "Dominant methods for interpreting large models impose strong structural assumptions. Generative Latent Priors (GLP) are a complementary approach: a diffusion model that learns the distribution of a frozen model's activations directly, imposing no assumptions. We port GLP to ESM-2 activations (UniRef50) and evaluate it at two host scales (ESM-2-8M and -650M), both as a lens for protein representations and as a prior for editing them. Generation quality scales smoothly with depth and compute. As a lens, single GLP \"meta-neurons\" are the strongest probes of discrete Swiss-Prot concepts at both...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.09818v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-06",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.09818v1"
+    }
+  ],
+  "authors": [
+    "Daniel Hinjos",
+    "Lucía Urcelay"
+  ],
+  "paperId": "2611.09818",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-06",
+  "abstract": "Dominant methods for interpreting large models impose strong structural assumptions. Generative Latent Priors (GLP) are a complementary approach: a diffusion model that learns the distribution of a frozen model's activations directly, imposing no assumptions. We port GLP to ESM-2 activations (UniRef50) and evaluate it at two host scales (ESM-2-8M and -650M), both as a lens for protein representations and as a prior for editing them. Generation quality scales smoothly with depth and compute. As a lens, single GLP \"meta-neurons\" are the strongest probes of discrete Swiss-Prot concepts at both..."
+}

@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2611-09798",
+  "name": "Test-Time Compute Scales Better with Parallel Agent Teams",
+  "summary": "Test-time scaling improves the performance of a fixed model by spending more computation at inference. There are two common ways to spend it on agents when a verifier can score every attempt. Best-...",
+  "description": "Test-time scaling improves the performance of a fixed model by spending more computation at inference. There are two common ways to spend it on agents when a verifier can score every attempt. Best-of-N sampling runs many independent agents and keeps the best result but saturates quickly. One large team of collaborating agents can score higher but stops improving as it grows. Can we get the best of both? Our method, parallel agent teams, does so by sampling many small teams in parallel and keeping the best team's result. We test it on 12 long-horizon tasks from GPU kernels and formal proofs...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.09798v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-06",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.09798v1"
+    }
+  ],
+  "authors": [
+    "Junlin Wang",
+    "Haozhe Chen",
+    "Ang Li",
+    "Rahul Chalamala",
+    "Zhuang Liu"
+  ],
+  "paperId": "2611.09798",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-06",
+  "abstract": "Test-time scaling improves the performance of a fixed model by spending more computation at inference. There are two common ways to spend it on agents when a verifier can score every attempt. Best-of-N sampling runs many independent agents and keeps the best result but saturates quickly. One large team of collaborating agents can score higher but stops improving as it grows. Can we get the best of both? Our method, parallel agent teams, does so by sampling many small teams in parallel and keeping the best team's result. We test it on 12 long-horizon tasks from GPU kernels and formal proofs..."
+}
