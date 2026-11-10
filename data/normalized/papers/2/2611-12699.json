@@ -1,0 +1,42 @@
+{
+  "type": "paper",
+  "slug": "2611-12699",
+  "name": "GeoScope: Training-Free Program Execution beyond the Counting Horizon for Ultra-High-Resolution Remote Sensing Question Answering",
+  "summary": "In ultra-high-resolution (UHR) remote sensing images, the objects that questions count in a region or relate by direction often span only a few pixels. Existing methods mainly decide where a vision...",
+  "description": "In ultra-high-resolution (UHR) remote sensing images, the objects that questions count in a region or relate by direction often span only a few pixels. Existing methods mainly decide where a vision-language model (VLM) should look and trust its answer in the chosen view. We show that this assumption fails for counting, and measure VLMs as one calibrates a sensor. All eight open VLMs tested fall increasingly short once a view holds more than a certain number of objects, about five for most on DOTA aerial images. This counting horizon narrows as views grow and objects appear smaller. An empir...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.12699v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-09",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2611.12699v1"
+    }
+  ],
+  "authors": [
+    "Guohui Deng",
+    "Yuhang Jiang",
+    "Chengjun Wang",
+    "Zhongwen Hu",
+    "Zhaocong Wu",
+    "Linsheng Huang",
+    "Jinling Zhao",
+    "Chao Ruan",
+    "Miaozhong Xu",
+    "Chi Chen"
+  ],
+  "paperId": "2611.12699",
+  "category": "cs.CV",
+  "publishedAt": "2026-11-09",
+  "abstract": "In ultra-high-resolution (UHR) remote sensing images, the objects that questions count in a region or relate by direction often span only a few pixels. Existing methods mainly decide where a vision-language model (VLM) should look and trust its answer in the chosen view. We show that this assumption fails for counting, and measure VLMs as one calibrates a sensor. All eight open VLMs tested fall increasingly short once a view holds more than a certain number of objects, about five for most on DOTA aerial images. This counting horizon narrows as views grow and objects appear smaller. An empir..."
+}

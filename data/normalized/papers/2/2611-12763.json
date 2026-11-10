@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2611-12763",
+  "name": "PORT: Preference Optimization via Robust Token-Level Reweighting",
+  "summary": "Preference optimization has become a central approach for aligning large language models with human values, but its effectiveness depends heavily on the quality of preference annotations. In practi...",
+  "description": "Preference optimization has become a central approach for aligning large language models with human values, but its effectiveness depends heavily on the quality of preference annotations. In practice, preference data is often noisy due to annotation errors and ambiguity. Existing robust preference optimization methods primarily operate at the sequence level, implicitly treating entire responses as uniformly correct or incorrect. However, rejected responses may still contain informative reasoning steps, while preferred responses can include subtle errors. In this work, we propose \\textbf{P}r...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.12763v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-09",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2611.12763v1"
+    }
+  ],
+  "authors": [
+    "Ding Zhu",
+    "Xiukun Wei",
+    "Tian Xie",
+    "Zhihui Zhu",
+    "Xueru Zhang",
+    "Mohammad Mahdi Khalili"
+  ],
+  "paperId": "2611.12763",
+  "category": "cs.CL",
+  "publishedAt": "2026-11-09",
+  "abstract": "Preference optimization has become a central approach for aligning large language models with human values, but its effectiveness depends heavily on the quality of preference annotations. In practice, preference data is often noisy due to annotation errors and ambiguity. Existing robust preference optimization methods primarily operate at the sequence level, implicitly treating entire responses as uniformly correct or incorrect. However, rejected responses may still contain informative reasoning steps, while preferred responses can include subtle errors. In this work, we propose \\textbf{P}r..."
+}

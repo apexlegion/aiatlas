@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T09:34:59.705Z",
+  "generatedAt": "2026-11-10T09:35:35.345Z",
   "entries": {
     "automatic1111-stable-diffusion-webui": {
       "slug": "automatic1111-stable-diffusion-webui",
@@ -176,224 +176,268 @@
         "jupyter notebook"
       ]
     },
-    "2611-09746": {
-      "slug": "2611-09746",
-      "typedId": "paper/2611-09746",
-      "name": "Continuous wavelet-based feature extraction for laser-induced breakdown spectroscopy classification of human plasma samples",
+    "2611-12675": {
+      "slug": "2611-12675",
+      "typedId": "paper/2611-12675",
+      "name": "Interpretability Is Not Model-Specific",
       "type": "paper",
-      "summary": "Extracting discriminative features from laser-induced breakdown spectroscopy (LIBS) spectra is important for the classification of complex biological samples. This study evaluates continuous wavele...",
+      "summary": "Interpretability tools are usually built for one model at a time: a refusal direction, a truthfulness probe, or a steering vector is found with labeled data inside the model it explains. We ask whe...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2611-09768": {
-      "slug": "2611-09768",
-      "typedId": "paper/2611-09768",
-      "name": "Language as Trait, Politeness as Strategy: Controlled Tests of Linguistic Effects in LLM Social-Deduction Agents",
+    "2611-12678": {
+      "slug": "2611-12678",
+      "typedId": "paper/2611-12678",
+      "name": "Library of Hands: Fix the Hands, Not the World Model",
       "type": "paper",
-      "summary": "Large language model (LLM) agents coordinate through conversation, and the same message can be phrased in simpler or more complex language, bluntly or politely. We test whether such differences cha...",
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ]
-    },
-    "2611-09770": {
-      "slug": "2611-09770",
-      "typedId": "paper/2611-09770",
-      "name": "ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models",
-      "type": "paper",
-      "summary": "Multimodal Large Language Models (MLLMs) require continuous factual updates to stay current, yet lifelong knowledge editing remains a daunting challenge. The primary obstacle is the severe Locality...",
-      "tags": [
-        "arxiv",
-        "cs.CL"
-      ]
-    },
-    "2611-09791": {
-      "slug": "2611-09791",
-      "typedId": "paper/2611-09791",
-      "name": "Assessing the Impact of Retrieval-Augmented Generation on Algorithmic Problem-Solving",
-      "type": "paper",
-      "summary": "Competitive programming problems pose distinctive challenges for Large Language Models, as they demand not only proficient code generation but also advanced algorithmic reasoning. This study presen...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2611-09792": {
-      "slug": "2611-09792",
-      "typedId": "paper/2611-09792",
-      "name": "Knowing When to Intervene: Causal Evaluation of AI Agents",
-      "type": "paper",
-      "summary": "Current evaluations of agentic AI systems primarily rely on benchmarks. However, the static nature of benchmarks makes them uninformative about the value of auditing interventions at deployment tim...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2611-09798": {
-      "slug": "2611-09798",
-      "typedId": "paper/2611-09798",
-      "name": "Test-Time Compute Scales Better with Parallel Agent Teams",
-      "type": "paper",
-      "summary": "Test-time scaling improves the performance of a fixed model by spending more computation at inference. There are two common ways to spend it on agents when a verifier can score every attempt. Best-...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2611-09802": {
-      "slug": "2611-09802",
-      "typedId": "paper/2611-09802",
-      "name": "When Instruction Files Go Stale: Documentation Debt and Hidden Cost in Coding Agents",
-      "type": "paper",
-      "summary": "LLM-based coding agents such as Claude Code are guided by repository instruction files (also called context files or agent configuration files) like AGENTS.md and CLAUDE.md, which are read in every...",
-      "tags": [
-        "arxiv",
-        "cs.SE"
-      ]
-    },
-    "2611-09803": {
-      "slug": "2611-09803",
-      "typedId": "paper/2611-09803",
-      "name": "Maya a1: Do the Options Read the Model, or Does Their Position? Order Sensitivity in a Non-Autoregressive Decision Model",
-      "type": "paper",
-      "summary": "Laya answers typed multiple-choice questions in one forward pass by scoring a hidden state at one [MASK] marker per option. We re-engineer the checkpoint (421M parameters; a 2-layer option head wit...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2611-09805": {
-      "slug": "2611-09805",
-      "typedId": "paper/2611-09805",
-      "name": "Scaling Graph Similarity Learning with Graph Neural Networks",
-      "type": "paper",
-      "summary": "Graph similarity computation is an important task in graph mining with many real-world applications, such as chemical compound analysis, program dependence comparison, and social network analysis....",
-      "tags": [
-        "arxiv",
-        "cs.LG"
-      ]
-    },
-    "2611-09818": {
-      "slug": "2611-09818",
-      "typedId": "paper/2611-09818",
-      "name": "Generative Latent Priors for Interpreting and Steering Protein Language Models",
-      "type": "paper",
-      "summary": "Dominant methods for interpreting large models impose strong structural assumptions. Generative Latent Priors (GLP) are a complementary approach: a diffusion model that learns the distribution of a...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2611-09822": {
-      "slug": "2611-09822",
-      "typedId": "paper/2611-09822",
-      "name": "Discovering formally verified quantum programs with AI",
-      "type": "paper",
-      "summary": "The timeline by which quantum computers can solve breakthrough problems in science depends on improved quantum algorithms as much as on better hardware. Such algorithmic advances are typically achi...",
-      "tags": [
-        "arxiv",
-        "quant-ph"
-      ]
-    },
-    "2611-09825": {
-      "slug": "2611-09825",
-      "typedId": "paper/2611-09825",
-      "name": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
-      "type": "paper",
-      "summary": "The key-value (KV) cache dominates memory capacity and bandwidth in long-context LLM serving. While 4-bit microscaling formats (NVFP4, MXFP4) shrink the cache and run attention on FP4 Tensor Cores,...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2611-09836": {
-      "slug": "2611-09836",
-      "typedId": "paper/2611-09836",
-      "name": "Can Agentic Systems Close the Gap in Radiology with Production AI Tools?",
-      "type": "paper",
-      "summary": "Radiology AI has developed along two paths: specialized models that perform well on narrow tasks but cover few clinical findings, and generalist models that address a broader range of tasks but rem...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2611-09846": {
-      "slug": "2611-09846",
-      "typedId": "paper/2611-09846",
-      "name": "Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code Summarization",
-      "type": "paper",
-      "summary": "This paper describes an approach and use case to estimate the correctness of LLM-generated COBOL summaries without access to human-authored references. The core intuition is that inter-model agreem...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2611-09863": {
-      "slug": "2611-09863",
-      "typedId": "paper/2611-09863",
-      "name": "Flow-Guided Target-Space Alignment via Path Consistency",
-      "type": "paper",
-      "summary": "Many multimodal alignment problems require mapping a source modality into a fixed space defined by a target modality, where the target space is not merely an intermediate embedding but is used dire...",
-      "tags": [
-        "arxiv",
-        "cs.AI"
-      ]
-    },
-    "2611-09864": {
-      "slug": "2611-09864",
-      "typedId": "paper/2611-09864",
-      "name": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
-      "type": "paper",
-      "summary": "Loco-manipulation, which requires mobile manipulators to coordinate locomotion and manipulation over long horizons, is a key capability for large-object rearrangement in applications such as servic...",
+      "summary": "A world model predicts how a scene changes after an action, and a planner uses it to search for actions that reach a goal. If the camera moves or the controller changes, the same command moves the...",
       "tags": [
         "arxiv",
         "cs.RO"
       ]
     },
-    "2611-09866": {
-      "slug": "2611-09866",
-      "typedId": "paper/2611-09866",
-      "name": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
+    "2611-12687": {
+      "slug": "2611-12687",
+      "typedId": "paper/2611-12687",
+      "name": "reComposer: Editable Planning for Controllable Image Generation",
       "type": "paper",
-      "summary": "Purpose: Surgical operative reports support procedural documentation, surgical training, performance assessment, and workflow review. However, extracting meaningful information often requires exten...",
+      "summary": "Prompt-based image generation makes it easy to produce visual assets, but offers little support for engaging with the creative process. Prompting collapses interdependent creative decisions into a...",
+      "tags": [
+        "arxiv",
+        "cs.HC"
+      ]
+    },
+    "2611-12699": {
+      "slug": "2611-12699",
+      "typedId": "paper/2611-12699",
+      "name": "GeoScope: Training-Free Program Execution beyond the Counting Horizon for Ultra-High-Resolution Remote Sensing Question Answering",
+      "type": "paper",
+      "summary": "In ultra-high-resolution (UHR) remote sensing images, the objects that questions count in a region or relate by direction often span only a few pixels. Existing methods mainly decide where a vision...",
       "tags": [
         "arxiv",
         "cs.CV"
       ]
     },
-    "2611-09872": {
-      "slug": "2611-09872",
-      "typedId": "paper/2611-09872",
-      "name": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+    "2611-12705": {
+      "slug": "2611-12705",
+      "typedId": "paper/2611-12705",
+      "name": "Multi-Agent Screening: What Agreement and Acceptance Cannot Tell You",
       "type": "paper",
-      "summary": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze...",
+      "summary": "When AI agents screen items for a costly human assessor, as in agentic search, e-discovery and AI reviewing of papers, only what they pass gets judged. We show what each kind of evidence can establ...",
+      "tags": [
+        "arxiv",
+        "cs.MA"
+      ]
+    },
+    "2611-12728": {
+      "slug": "2611-12728",
+      "typedId": "paper/2611-12728",
+      "name": "Safe Reinforcement Learning for Multi-Turn Clinical Agents: When Dense Rewards Beat Outcome Rewards",
+      "type": "paper",
+      "summary": "Reinforcement learning with verifiable rewards is increasingly used to improve language model reasoning, yet its effects on sequential decision procedures remain poorly understood. We study this pr...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2611-12732": {
+      "slug": "2611-12732",
+      "typedId": "paper/2611-12732",
+      "name": "$Σ$-LeWM: Learning World Models via S-Information for Robot Control",
+      "type": "paper",
+      "summary": "World models have increasingly been applied as a model-based control method for robotics tasks such as manipulation and locomotion. While early world model architectures relied on decoders to preve...",
+      "tags": [
+        "arxiv",
+        "cs.LG"
+      ]
+    },
+    "2611-12750": {
+      "slug": "2611-12750",
+      "typedId": "paper/2611-12750",
+      "name": "The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?",
+      "type": "paper",
+      "summary": "Large language models (LLMs) increasingly mediate how people seek and consume information, including accounts that differ across languages and regions, especially on contested topics. Supporting di...",
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ]
+    },
+    "2611-12760": {
+      "slug": "2611-12760",
+      "typedId": "paper/2611-12760",
+      "name": "DeepChronos: Temporal Neuro-Symbolic Reasoning for Multi-Step Attack Detection",
+      "type": "paper",
+      "summary": "Modern cyber threats commonly unfold as multi-step attacks comprising temporally and causally related phases. Current defenses commonly follow a detect first and correlate later paradigm. Intrusion...",
+      "tags": [
+        "arxiv",
+        "cs.CR"
+      ]
+    },
+    "2611-12762": {
+      "slug": "2611-12762",
+      "typedId": "paper/2611-12762",
+      "name": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+      "type": "paper",
+      "summary": "We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitorin...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2611-09891": {
-      "slug": "2611-09891",
-      "typedId": "paper/2611-09891",
-      "name": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+    "2611-12763": {
+      "slug": "2611-12763",
+      "typedId": "paper/2611-12763",
+      "name": "PORT: Preference Optimization via Robust Token-Level Reweighting",
       "type": "paper",
-      "summary": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a tas...",
+      "summary": "Preference optimization has become a central approach for aligning large language models with human values, but its effectiveness depends heavily on the quality of preference annotations. In practi...",
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ]
+    },
+    "2611-12775": {
+      "slug": "2611-12775",
+      "typedId": "paper/2611-12775",
+      "name": "LogCDM: Interpretable Log Anomaly Detection via Behavioral Graph Drift and Adaptive Signal Fusion",
+      "type": "paper",
+      "summary": "Log-based anomaly detection is increasingly dominated by large pretrained models, from BERT-scale encoders to 8B-parameter language models, which require GPUs at inference time and are difficult to...",
       "tags": [
         "arxiv",
         "cs.AI"
       ]
     },
-    "2611-09892": {
-      "slug": "2611-09892",
-      "typedId": "paper/2611-09892",
-      "name": "On Agentic Manipulation Policies",
+    "2611-12799": {
+      "slug": "2611-12799",
+      "typedId": "paper/2611-12799",
+      "name": "Agentic-OPD: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks",
       "type": "paper",
-      "summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies suc...",
+      "summary": "Reinforcement learning is now the mainstream paradigm for training LLMs on agentic tasks, yet standard practice keeps only the best-validation checkpoint and discards the rest. We show that this is...",
       "tags": [
         "arxiv",
-        "cs.RO"
+        "cs.LG"
+      ]
+    },
+    "2611-12805": {
+      "slug": "2611-12805",
+      "typedId": "paper/2611-12805",
+      "name": "2D Gum-Net: Unsupervised Dense Elastic Image Registration via Symmetric Correlation and Spectral Pooling",
+      "type": "paper",
+      "summary": "Dense non-rigid registration, the recovery of a pixel-wise deformation field that warps one image into geometric agreement with another, is fundamental across medical imaging, structural biology, a...",
+      "tags": [
+        "arxiv",
+        "cs.CV"
+      ]
+    },
+    "2611-12816": {
+      "slug": "2611-12816",
+      "typedId": "paper/2611-12816",
+      "name": "Automated Knowledge Acquisition Pipeline for Disassembly Instructions: A Comparison of NLP and Generative AI Frameworks",
+      "type": "paper",
+      "summary": "The push towards circularity and Re-X principles presents a challenge to SMEs, particularly due to increasing product complexity that impedes the adoption of disassembly automation. This paper intr...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2611-12817": {
+      "slug": "2611-12817",
+      "typedId": "paper/2611-12817",
+      "name": "LUCQUE: A lung cancer screening dataset from Québec for reliable AI evaluation",
+      "type": "paper",
+      "summary": "BACKGROUND: AI-based tools are expected to play a key role in lung cancer screening (LCS). The evaluation of these tools often relied on private datasets or fragmented public datasets with inconsis...",
+      "tags": [
+        "arxiv",
+        "cs.DB"
+      ]
+    },
+    "2611-12825": {
+      "slug": "2611-12825",
+      "typedId": "paper/2611-12825",
+      "name": "MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning",
+      "type": "paper",
+      "summary": "AI systems must often maintain bounded memory of unbounded interaction histories. However, optimizing the memory representation, and its updates, for downstream task utility is difficult for standa...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2611-12834": {
+      "slug": "2611-12834",
+      "typedId": "paper/2611-12834",
+      "name": "Programming Prescience: Issues in Human Construction of Forecasting Bots",
+      "type": "paper",
+      "summary": "AI models' growing capacity for complex reasoning has made them attractive tools for forecasting, or the systematic prediction of the future based on past and present data. However, should AI forec...",
+      "tags": [
+        "arxiv",
+        "cs.HC"
+      ]
+    },
+    "2611-12865": {
+      "slug": "2611-12865",
+      "typedId": "paper/2611-12865",
+      "name": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
+      "type": "paper",
+      "summary": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including re...",
+      "tags": [
+        "arxiv",
+        "cs.AI"
+      ]
+    },
+    "2611-12872": {
+      "slug": "2611-12872",
+      "typedId": "paper/2611-12872",
+      "name": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+      "type": "paper",
+      "summary": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems ty...",
+      "tags": [
+        "arxiv",
+        "cs.CL"
+      ]
+    },
+    "mit-news-ai-https-news-mit-edu-2026-mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110": {
+      "slug": "mit-news-ai-https-news-mit-edu-2026-mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
+      "typedId": "news/mit-news-ai-https-news-mit-edu-2026-mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
+      "name": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers",
+      "type": "news",
+      "summary": "With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply.",
+      "tags": [
+        "news",
+        "mit-news-ai"
+      ]
+    },
+    "openai-blog-https-openai-com-index-closing-ai-guidance-gap-education": {
+      "slug": "openai-blog-https-openai-com-index-closing-ai-guidance-gap-education",
+      "typedId": "news/openai-blog-https-openai-com-index-closing-ai-guidance-gap-education",
+      "name": "Closing the AI guidance gap in education",
+      "type": "news",
+      "summary": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "huggingface-blog-https-huggingface-co-blog-amazon-higher-order-pruning-experts": {
+      "slug": "huggingface-blog-https-huggingface-co-blog-amazon-higher-order-pruning-experts",
+      "typedId": "news/huggingface-blog-https-huggingface-co-blog-amazon-higher-order-pruning-experts",
+      "name": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
+      "type": "news",
+      "summary": "Your Experts Have Partners. There&apos;s HOPE for Keeping Them Together",
+      "tags": [
+        "news",
+        "huggingface-blog"
+      ]
+    },
+    "huggingface-blog-https-huggingface-co-blog-nvidia-nemotron-personas-finance-japan": {
+      "slug": "huggingface-blog-https-huggingface-co-blog-nvidia-nemotron-personas-finance-japan",
+      "typedId": "news/huggingface-blog-https-huggingface-co-blog-nvidia-nemotron-personas-finance-japan",
+      "name": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
+      "type": "news",
+      "summary": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan&apos;s Demographics and Financial Context",
+      "tags": [
+        "news",
+        "huggingface-blog"
       ]
     },
     "mit-news-ai-https-news-mit-edu-2026-ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109": {
@@ -416,6 +460,50 @@
       "tags": [
         "news",
         "mit-news-ai"
+      ]
+    },
+    "openai-blog-https-openai-com-index-chatgpt-enterprise-aws-marketplace": {
+      "slug": "openai-blog-https-openai-com-index-chatgpt-enterprise-aws-marketplace",
+      "typedId": "news/openai-blog-https-openai-com-index-chatgpt-enterprise-aws-marketplace",
+      "name": "ChatGPT Enterprise now available in AWS Marketplace",
+      "type": "news",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-coderabbit-codex-daybreak": {
+      "slug": "openai-blog-https-openai-com-index-coderabbit-codex-daybreak",
+      "typedId": "news/openai-blog-https-openai-com-index-coderabbit-codex-daybreak",
+      "name": "CodeRabbit scales agentic software development and ships 20x more",
+      "type": "news",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-control-room": {
+      "slug": "openai-blog-https-openai-com-index-control-room",
+      "typedId": "news/openai-blog-https-openai-com-index-control-room",
+      "name": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "type": "news",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "tags": [
+        "news",
+        "openai-blog"
+      ]
+    },
+    "openai-blog-https-openai-com-index-kuken": {
+      "slug": "openai-blog-https-openai-com-index-kuken",
+      "typedId": "news/openai-blog-https-openai-com-index-kuken",
+      "name": "Kuken Industries searches 70 years of drawings in minutes",
+      "type": "news",
+      "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+      "tags": [
+        "news",
+        "openai-blog"
       ]
     },
     "huggingface-blog-https-huggingface-co-blog-allenai-toyblocks": {
@@ -482,17 +570,6 @@
       "tags": [
         "news",
         "google-ai-blog"
-      ]
-    },
-    "huggingface-blog-https-huggingface-co-blog-nvidia-cosmos-interactive-world-simulation": {
-      "slug": "huggingface-blog-https-huggingface-co-blog-nvidia-cosmos-interactive-world-simulation",
-      "typedId": "news/huggingface-blog-https-huggingface-co-blog-nvidia-cosmos-interactive-world-simulation",
-      "name": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "type": "news",
-      "summary": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "tags": [
-        "news",
-        "huggingface-blog"
       ]
     },
     "huggingface-blog-https-huggingface-co-blog-phonon-tts": {
@@ -1957,6 +2034,7 @@
         "license:apache-2.0",
         "eval-results",
         "text-generation-inference",
+        "deploy:sagemaker",
         "region:us"
       ]
     },

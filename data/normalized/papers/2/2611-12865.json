@@ -1,0 +1,33 @@
+{
+  "type": "paper",
+  "slug": "2611-12865",
+  "name": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
+  "summary": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including re...",
+  "description": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including reward hacking, through verifiable reward--context conflicts, where compliant task completion remains feasible while some executable shortcuts earn more reward than every compliant strategy. Encoding these conflicts in task dynamics lets us generate diverse interactive environments at scale and derive compliance feedback from execution histories. In resource and reporting workflows, task optimizatio...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.12865v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-09",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.12865v1"
+    }
+  ],
+  "authors": [
+    "Xinjie Shen"
+  ],
+  "paperId": "2611.12865",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-09",
+  "abstract": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including reward hacking, through verifiable reward--context conflicts, where compliant task completion remains feasible while some executable shortcuts earn more reward than every compliant strategy. Encoding these conflicts in task dynamics lets us generate diverse interactive environments at scale and derive compliance feedback from execution histories. In resource and reporting workflows, task optimizatio..."
+}

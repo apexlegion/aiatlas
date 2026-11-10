@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2611-12825",
+  "name": "MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning",
+  "summary": "AI systems must often maintain bounded memory of unbounded interaction histories. However, optimizing the memory representation, and its updates, for downstream task utility is difficult for standa...",
+  "description": "AI systems must often maintain bounded memory of unbounded interaction histories. However, optimizing the memory representation, and its updates, for downstream task utility is difficult for standard reinforcement learning (RL) due to severe credit assignment bottlenecks induced by sparse, delayed rewards. We introduce MaxIM (Maximally Informative Incremental Memory), a framework that formulates incremental summarization as a capacity-constrained, information-theoretic reward-shaping problem. Grounded in value suboptimality bounds, we show that bounding sequential information loss motivates...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.12825v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-09",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.12825v1"
+    }
+  ],
+  "authors": [
+    "Jihwan Jeong",
+    "Guy Tennenholtz",
+    "Yinlam Chow",
+    "Chih-Wei Hsu",
+    "Craig Boutilier"
+  ],
+  "paperId": "2611.12825",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-09",
+  "abstract": "AI systems must often maintain bounded memory of unbounded interaction histories. However, optimizing the memory representation, and its updates, for downstream task utility is difficult for standard reinforcement learning (RL) due to severe credit assignment bottlenecks induced by sparse, delayed rewards. We introduce MaxIM (Maximally Informative Incremental Memory), a framework that formulates incremental summarization as a capacity-constrained, information-theoretic reward-shaping problem. Grounded in value suboptimality bounds, we show that bounding sequential information loss motivates..."
+}
