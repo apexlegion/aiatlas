@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.06639v2",
+  "fetchedAt": "2026-11-11T09:10:51.637Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.06639v2",
+    "title": "RECAP: Local Hebbian Prototype Learning as a Self-Organizing Readout for Reservoir Dynamics",
+    "link": "https://arxiv.org/abs/2603.06639",
+    "description": "arXiv:2603.06639v2 Announce Type: replace-cross Abstract: Robust perception in brains is often attributed to high-dimensional population activity together with local plasticity mechanisms that reinforce recurring structure. In contrast, most modern image recognition systems are trained by error backpropagation and end-to-end gradient optimization, which are not naturally aligned with local computation and local plasticity. We introduce RECAP (Reservoir Computing with Hebbian Co-Activation Prototypes), a bio-inspired learning strategy for robust image classification that couples untrained reservoir dynamics with a self-organizing Hebbian prototype readout. RECAP discretizes time-averaged reservoir responses into activation levels, constructs a co-activation mask over reservoir unit pairs, and incrementally updates class-wise prototype matrices via a Hebbian-like potentiation-decay rule. Inference is performed by overlap-based prototype matching. The method avoids error backpropagation and is naturally compatible with online prototype updates. We illustrate the resulting robustness behavior on MNIST-C, where RECAP remains robust under diverse corruptions without exposure to corrupted training samples.",
+    "publishedAt": "2026-11-11",
+    "author": "Heng Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

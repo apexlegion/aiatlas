@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2611-14407",
+  "name": "Causal Concept Explanations for Deep Neural Models",
+  "summary": "Concept-based explanations in neural models are important for the development, certification, and adoption of autonomous systems. Yet, interpretability remains correlational. Without methods to gui...",
+  "description": "Concept-based explanations in neural models are important for the development, certification, and adoption of autonomous systems. Yet, interpretability remains correlational. Without methods to guide and quantify causal relationships between explanations, a concept explanation can be provided without being necessary or sufficient for the observed output thereby appearing correct while misleading. We introduce Causal Concept Wrapper Network (CCW-Net), the first use of interventional mediation analysis from fields such as economics, medicine, and epidemiology as a training objective to align...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.14407v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-10",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2611.14407v1"
+    }
+  ],
+  "authors": [
+    "Josh Rountree",
+    "Pulkit Verma",
+    "Oswin So",
+    "Chuchu Fan",
+    "Julie A. Shah"
+  ],
+  "paperId": "2611.14407",
+  "category": "cs.LG",
+  "publishedAt": "2026-11-10",
+  "abstract": "Concept-based explanations in neural models are important for the development, certification, and adoption of autonomous systems. Yet, interpretability remains correlational. Without methods to guide and quantify causal relationships between explanations, a concept explanation can be provided without being necessary or sufficient for the observed output thereby appearing correct while misleading. We introduce Causal Concept Wrapper Network (CCW-Net), the first use of interventional mediation analysis from fields such as economics, medicine, and epidemiology as a training objective to align..."
+}

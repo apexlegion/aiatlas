@@ -1,0 +1,41 @@
+{
+  "type": "paper",
+  "slug": "2611-14492",
+  "name": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+  "summary": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they...",
+  "description": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose every step of every run, which adds latency and cost at scale. We present ReTrace, which turns an SOP and a few logged agent runs into a reusable workflow in which code, not an LLM, selects the next step. The agent's reasoning, the explanation it writes with each tool call, often states why it took an action; the tool calls alone do not. ReTrace extracts the condition behind...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.14492v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-10",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.14492v1"
+    }
+  ],
+  "authors": [
+    "Kaiyuan Hou",
+    "Yang Ping Kuo",
+    "Indranil Bhattacharya",
+    "Rohith Nama",
+    "Arushi Gupta",
+    "Carlos D. Castillo",
+    "Prathap Ramachandra",
+    "Xiaofan Jiang",
+    "Francesco Carbone"
+  ],
+  "paperId": "2611.14492",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-10",
+  "abstract": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose every step of every run, which adds latency and cost at scale. We present ReTrace, which turns an SOP and a few logged agent runs into a reusable workflow in which code, not an LLM, selects the next step. The agent's reasoning, the explanation it writes with each tool call, often states why it took an action; the tool calls alone do not. ReTrace extracts the condition behind..."
+}

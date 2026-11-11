@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.02157v3",
+  "fetchedAt": "2026-11-11T09:10:51.637Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.02157v3",
+    "title": "RamanPFN: A physics-guided spectral foundation framework for in-context learning across diverse Raman applications",
+    "link": "https://arxiv.org/abs/2608.02157",
+    "description": "arXiv:2608.02157v3 Announce Type: replace-cross Abstract: Raman spectroscopy enables label-free molecular characterization across materials science, analytical chemistry, biomedicine, and industrial process monitoring. However, machine learning for high-dimensional spectroscopy remains constrained by limited labeled data and a mismatch between the physical organization of spectra and feature-agnostic models. Tabular foundation models such as TabPFN predict in context without parameter updates, but on wide spectra feature subsampling preserves channel coverage while losing joint visibility: in the five widest tasks, every channel was covered, yet only 4.4% of random channel pairs co-occurred in any forward pass. We present RamanPFN, a general-purpose spectral foundation framework for unified in-context inference through physics-guided spectral learning, which encodes the additive mixing of constituent spectra and the locality of vibrational bands. Global Compositional Unmixing decomposes distributed, multi-band mixture signatures into shared non-negative bases to couple covarying peaks across the full spectrum, while Local Vibrational Subspace Encoding extracts orthogonal modes within contiguous spectral neighborhoods to preserve peak morphology, intensity fluctuations, and peak shifts. Posterior marginalization over admissible unmixings unifies both scales into in-context prediction without updating the model. Across 74 public Raman datasets exceeding 330,000 spectra, RamanPFN outperformed 26 methods spanning chemometrics, spectral neural networks, deep tabular learners, and tabular foundation models on 129 regression targets, reducing backbone RMSE by 13.2%. We demonstrate across TabPFN-3, TabICLv2, and Kumo-Tabular that this advantage generalizes to both regression and classification tasks, reducing regression error by 12.3%-25.7% and multiclass log loss by 42.4%-63.5% to enable data-efficient quantitative analysis and sample identification.",
+    "publishedAt": "2026-11-11",
+    "author": "Xingyu Pan, Huan Wang, Jinjia Guo, Zhenlin Zhao, Siming Dong, Jixi Lu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

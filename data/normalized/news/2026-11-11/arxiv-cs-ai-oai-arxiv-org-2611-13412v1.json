@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-13412v1",
+  "name": "Bursts That Outlast Themselves: Persistent Degradation in Prefix-Cached Agent Serving",
+  "summary": "arXiv:2611.13412v1 Announce Type: cross Abstract: LLM agents drive inference engines with closed-loop sessions whose context grows every turn, and serving them economically depends on prefix cachin...",
+  "description": "arXiv:2611.13412v1 Announce Type: cross Abstract: LLM agents drive inference engines with closed-loop sessions whose context grows every turn, and serving them economically depends on prefix caching: a hit costs an incremental prefill of about a thousand tokens, a miss recomputes a 10--40K-token context. We show that this makes prefix-cached agent serving metastable. With an identical base work...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.13412"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-11",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.13412"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-11",
+  "expiryAt": "2026-12-11T00:00:00.000Z",
+  "author": "Wen Huang, Jack Liu"
+}

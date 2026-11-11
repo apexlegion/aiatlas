@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-09767v2",
+  "name": "Listen to the Features: Voice Anonymization Driven by Content Embedding Matching over Signal Reconstruction",
+  "summary": "arXiv:2607.09767v2 Announce Type: replace-cross Abstract: The paper presents a voice anonymization model focusing on preserving content rather than producing realistic speech. It relies on content...",
+  "description": "arXiv:2607.09767v2 Announce Type: replace-cross Abstract: The paper presents a voice anonymization model focusing on preserving content rather than producing realistic speech. It relies on content embeddings extracted from a frozen pretrained wav2vec2 encoder. These embeddings are decoded into an anonymized signal using vector quantization and a HiFi-GAN vocoder, both trained on LibriTTS withou...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.09767"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-11",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.09767"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-11",
+  "expiryAt": "2026-12-11T00:00:00.000Z",
+  "author": "Adrien Schneider (M-PSI), Kacper Zabkowski (M-PSI), Anderson Augusma (M-PSI), Fr{\\'e}d{\\'e}rique Letu{\\'e} (SVH), Maria Camila Pinzon (M-PSI), Dominique Vaufreydaz (M-PSI)"
+}

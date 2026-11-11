@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.05726v3",
+  "fetchedAt": "2026-11-11T09:10:51.637Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.05726v3",
+    "title": "Do Language Models Know Which Constraints Belong Together?",
+    "link": "https://arxiv.org/abs/2611.05726",
+    "description": "arXiv:2611.05726v3 Announce Type: replace-cross Abstract: Dantzig--Wolfe reformulation strengthens the linear relaxation of a mixed-integer program by convexifying constraint families, and each candidate costs a column generation run. The choice is hard when families strengthen the bound only together, as in classical lot-sizing, network-design, and facility-location formulations. We prove that when an evaluation convexifies at most $s$ of $k$ families, methods that observe only bounds need of order $k^w$ evaluations to find a hidden group of $w$ families in the worst case. A prediction missing $e$ members reduces this to $\\Theta(k^e)$ through a staged search that need not know $e$. The orders extend to several groups, prices, and growing evaluation costs. We study two predictors: a lookahead at an optimal LP dual, which vanishes on groups whose families share no variable, and language models reading the model, verified by the staged search in JointDW. Such groups appear in three of ten MIPLIB-NL models whose bound can be improved and in all 59 benchmark instances. Given the coefficients of models with up to 16 families, one language model names a true group first in 249 of 252 answers. On the benchmark instances, decompositions chosen by language models from the text solve faster than those of GCG's detector.",
+    "publishedAt": "2026-11-11",
+    "author": "Junbo Jacob Lian, Kaixuan Chen, Hanzhang Qin, Huiling Chen, Chaoyu Zhang, Chung-Piaw Teo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

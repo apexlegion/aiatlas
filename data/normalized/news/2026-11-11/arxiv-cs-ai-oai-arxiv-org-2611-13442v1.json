@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-13442v1",
+  "name": "ForeSpark: Joint Draft and Verification Budget Scheduling for Parallel Speculative Decoding",
+  "summary": "arXiv:2611.13442v1 Announce Type: cross Abstract: Parallel drafters accelerate LLM decoding by proposing a whole block of draft tokens in a single forward pass, making them attractive for LLM servi...",
+  "description": "arXiv:2611.13442v1 Announce Type: cross Abstract: Parallel drafters accelerate LLM decoding by proposing a whole block of draft tokens in a single forward pass, making them attractive for LLM serving. Recent systems optimize goodput (i.e., accepted tokens per second) because rejected drafts steal compute from other requests. However, these systems control only how many tokens are verified, so e...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.13442"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-11",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.13442"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-11",
+  "expiryAt": "2026-12-11T00:00:00.000Z",
+  "author": "Jaeyong Song, Daniel Wang, Pratyush Patel, Jonny Kong, Preyas Shah, Shobhit Kanaujia"
+}

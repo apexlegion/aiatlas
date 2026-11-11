@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2611-14355",
+  "name": "CLADE: Category-Level Answering from Deficient Evidence in Retrieval-Augmented Language Models",
+  "summary": "Retrieval-augmented systems often retrieve passages that are accurate and relevant but state the answer at a coarser level of granularity than the question requires. For example, a question may ask...",
+  "description": "Retrieval-augmented systems often retrieve passages that are accurate and relevant but state the answer at a coarser level of granularity than the question requires. For example, a question may ask which specific disease a drug treats (familial hyperlipidemia), while the retrieved passage mentions the broader disease family (hyperlipidemia). Prior work on context sufficiency treats such coarse passages simply as insufficient. We argue that they form a distinct case, which we call resolvable insufficiency: text alone cannot settle the fine-grained answer, but the broader category it mentions...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.14355v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-10",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.14355v1"
+    }
+  ],
+  "authors": [
+    "S M Rayeed",
+    "Charles V. Stewart",
+    "Yao Ma"
+  ],
+  "paperId": "2611.14355",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-10",
+  "abstract": "Retrieval-augmented systems often retrieve passages that are accurate and relevant but state the answer at a coarser level of granularity than the question requires. For example, a question may ask which specific disease a drug treats (familial hyperlipidemia), while the retrieved passage mentions the broader disease family (hyperlipidemia). Prior work on context sufficiency treats such coarse passages simply as insufficient. We argue that they form a distinct case, which we call resolvable insufficiency: text alone cannot settle the fine-grained answer, but the broader category it mentions..."
+}

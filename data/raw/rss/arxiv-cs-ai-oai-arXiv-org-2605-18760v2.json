@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.18760v2",
+  "fetchedAt": "2026-11-11T09:10:51.637Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.18760v2",
+    "title": "DOTRAG: Retrieval-Time Reasoning Along Paths",
+    "link": "https://arxiv.org/abs/2605.18760",
+    "description": "arXiv:2605.18760v2 Announce Type: replace-cross Abstract: Graph Retrieval-Augmented Generation (GraphRAG) faces significant challenges in complex relational retrieval tasks, particularly in densely connected knowledge graphs where the number of possible paths grows rapidly with reasoning depth. Existing GraphRAG retrieval algorithms either rely on rigid, predefined heuristics to identify relevant graph context or employ costly LLM-based reasoning to guide graph traversal. To address these limitations, we propose DotRAG, a lightweight, training-free GraphRAG retrieval algorithm that uses large language model (LLM) reasoning to narrow the search space and recover task-relevant relational paths. During indexing, DotRAG constructs an entity-relation knowledge graph, generates a graph-wide overview summarizing its contents, and leverages graph reachability indexing to avoid expensive online graph traversals. At query time, the LLM uses this overview to identify promising graph regions and hypothesizes relationship sequences connecting graph information to the query. The LLM then performs targeted relational searches, using graph constraints to restrict the candidate pool progressively. On MetaQA 2-hop queries, DotRAG achieves 97.78% retrieval recall and 51.27% F1, compared to the best baseline scores of 34.74% and 6.33%, respectively. On STaRK-MAG, DotRAG achieves 85.07% recall on 2-hop queries while demonstrating greater computational efficiency than reasoning-based GraphRAG baselines, with 12.2x lower retrieval latency than HopRAG.",
+    "publishedAt": "2026-11-11",
+    "author": "Larnell Moore, Naihao Deng, Rada Mihalcea, Farnaz Jahanbakhsh",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

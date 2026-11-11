@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.36630v2",
+  "fetchedAt": "2026-11-11T09:10:51.637Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.36630v2",
+    "title": "A Comprehensive Survey of Agent Distillation across Models, Artifacts, and Harnesses",
+    "link": "https://arxiv.org/abs/2609.36630",
+    "description": "arXiv:2609.36630v2 Announce Type: replace Abstract: Knowledge distillation provides a teacher-student framework for transferring capabilities at reduced cost and has been widely studied for large language models (LLMs). As LLM-based agents move from response generation to sustained, closed-loop task solving, distillation expands beyond model parameters to knowledge retained in reusable resources and execution workflows. This shift from model-level to agent-level knowledge transfer supports efficient deployment, broader capability access, and continual self-evolution. However, existing surveys largely examine model distillation and agent system design separately, limiting comparison of transfer strategies across agent components. To bridge this gap, we formalize Agent Distillation as persistent knowledge transfer between teacher and student agents and present its first unified survey. Distinguishing experience used for transfer from knowledge retained for reuse, we develop a knowledge-substrate taxonomy based on where knowledge persists: models, artifacts, or harnesses. Building on this taxonomy, we analyze cross-substrate transfer paths and hybrid strategies. To assess the resulting capabilities, we review benchmarks and evaluation protocols for retention, causal attribution, and deployed utility without further teacher support. This survey provides a unified basis for studying agent knowledge transfer and developing efficient, adaptable, and self-evolving agents.",
+    "publishedAt": "2026-11-11",
+    "author": "Ziluowen Luo, Senzhang Wang, Chaozhuo Li, Jun Yin, Hao Yan, Ming Cheng, Chenxu Wang, Songyang Liu, Litian Zhang, Qiwei Ye, Zheng Liu, Chengqi Zhang, Philip S. Yu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

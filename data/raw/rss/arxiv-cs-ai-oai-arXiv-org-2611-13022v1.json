@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.13022v1",
+  "fetchedAt": "2026-11-11T09:10:51.637Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.13022v1",
+    "title": "Understanding-First AI Engineering: Purposes, Reference Architecture, and Architectural Patterns for Human Understanding",
+    "link": "https://arxiv.org/abs/2611.13022",
+    "description": "arXiv:2611.13022v1 Announce Type: new Abstract: AI systems can produce reliable results without developing human understanding. However, human understanding remains valuable for shaping subsequent AI-supported work, forming preferences, governing collective choices and satisfying curiosity, even when human participation is unnecessary for correcting errors. We propose understanding-first AI engineering, which treats purpose-specific human understanding as a first-class design principle guiding requirements, design and operation. The purposes of understanding are organised into four complementary rationales: reflective agency, effective action, collective governance and epistemic value. A reference architecture connects production, verification, use, and learning and exploration through shared records, supporting understanding through explanation and participation. Five candidate architectural patterns guide choices about parallel learning, explanatory models, goal exploration, audience-specific views and distributed expertise. Qualitative scenario analysis of two hypothetical use cases demonstrates how the purpose classification, reference architecture and selected patterns guide investigation, participation and decision processes while retaining operational controls. The cases illustrate design consequences and limitations rather than establish empirical effectiveness. The approach makes human understanding an explicit engineering commitment whose justification need not depend on improving the original AI task.",
+    "publishedAt": "2026-11-11",
+    "author": "Liming Zhu, Qinghua Lu, Ming Ding",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

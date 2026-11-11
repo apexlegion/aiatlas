@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2602.04512v2",
+  "fetchedAt": "2026-11-11T09:10:51.637Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2602.04512v2",
+    "title": "BrainVista: Modeling Naturalistic Brain Dynamics as Multimodal Next-Token Prediction",
+    "link": "https://arxiv.org/abs/2602.04512",
+    "description": "arXiv:2602.04512v2 Announce Type: replace-cross Abstract: Naturalistic fMRI offers a time-resolved window into cortical dynamics during continuous multimodal experience, where future brain states are jointly governed by endogenous neural context and exogenous sensory drive. Forecasting such dynamics, however, remains challenging because fast-changing stimulus streams must be reconciled with the sluggish hemodynamic BOLD response, while cortical activity is organized across functionally heterogeneous brain networks. To address these challenges, we introduce BrainVista, a multimodal autoregressive framework for observed-stimulus conditional brain-state forecasting. BrainVista predicts future fMRI states from the history of brain activity and stimulus tokens temporally aligned to each prediction query, enabling autoregressive prediction without access to future ground-truth fMRI states. Recursive rollout provides a within-run predictive test of brain-state evolution under continuing sensory input. Specifically, we combine Network-wise Tokenizers for functionally structured brain representations, a Spatial Mixer Head for cross-network interaction refinement, and Stimulus-to-Brain (S2B) masking to preserve temporally causal stimulus-brain conditioning while preventing future brain-state leakage and stimulus look-ahead. We evaluate BrainVista on Algonauts 2025, CineBrain, and HAD, three large-scale naturalistic fMRI benchmarks, under long-horizon conditional autoregressive forecasting. BrainVista consistently outperforms baselines, improving pattern correlation by 10.8% and 9.4% relative to the strongest baseline on Algonauts 2025 and CineBrain, respectively. Code is available at https://github.com/xuanhuayin/BrainVista.",
+    "publishedAt": "2026-11-11",
+    "author": "Xuanhua Yin, Runkai Zhao, Lina Yao, Weidong Cai",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

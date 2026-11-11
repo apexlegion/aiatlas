@@ -1,0 +1,41 @@
+{
+  "type": "paper",
+  "slug": "2611-14356",
+  "name": "EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities",
+  "summary": "Rapidly evolving LLM architectures and heterogeneous mobile hardware make supporting new models in on-device inference engines a recurring and costly system challenge. Each model may require coordi...",
+  "description": "Rapidly evolving LLM architectures and heterogeneous mobile hardware make supporting new models in on-device inference engines a recurring and costly system challenge. Each model may require coordinated changes across conversion, graph construction, operators, and hardware backends. Existing coding agents often miss these cross-layer dependencies and struggle to diagnose failures across host--device execution paths. We present EngineAgent, an agentic system for automating on-device LLM model enablement. Its key insight is to separate reusable engine and hardware knowledge from model-specifi...",
+  "tags": [
+    "arxiv",
+    "cs.OS"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.14356v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-10",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.OS.",
+      "href": "https://arxiv.org/abs/2611.14356v1"
+    }
+  ],
+  "authors": [
+    "Zhengxiang Huang",
+    "Yujie Sun",
+    "Shengheng Chen",
+    "Zhaode Wang",
+    "Chaoyue Niu",
+    "Zeyu Zhao",
+    "Chengfei Lv",
+    "Fan Wu",
+    "Guihai Chen"
+  ],
+  "paperId": "2611.14356",
+  "category": "cs.OS",
+  "publishedAt": "2026-11-10",
+  "abstract": "Rapidly evolving LLM architectures and heterogeneous mobile hardware make supporting new models in on-device inference engines a recurring and costly system challenge. Each model may require coordinated changes across conversion, graph construction, operators, and hardware backends. Existing coding agents often miss these cross-layer dependencies and struggle to diagnose failures across host--device execution paths. We present EngineAgent, an agentic system for automating on-device LLM model enablement. Its key insight is to separate reusable engine and hardware knowledge from model-specifi..."
+}
