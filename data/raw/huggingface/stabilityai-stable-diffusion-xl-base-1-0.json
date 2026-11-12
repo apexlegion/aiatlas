@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-11-11T09:10:49.211Z",
+  "fetchedAt": "2026-11-12T09:39:05.498Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,8 +25,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4693406,
-    "likes": 8461,
+    "downloads": 4688522,
+    "likes": 8466,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -222,18 +222,17 @@
     "spaces": [
       "RioShiina/ImageGen",
       "frogleo/Image-to-3D",
-      "InstantX/InstantID",
       "Nymbo/Serverless-ImgGen-Hub",
-      "yanze/PuLID-FLUX",
+      "InstantX/InstantID",
       "jasperai/LBM_relighting",
-      "fffiloni/InstantIR",
+      "emanforhelp/model-pulse",
+      "yanze/PuLID-FLUX",
       "tencent/Hunyuan3D-2mv",
       "tencent/Hunyuan3D-2mini-Turbo",
+      "embedl/hfviewer",
       "frogleo/AI-Clothes-Changer",
       "hugging-apps/t3-video-4k",
-      "emanforhelp/model-pulse",
       "Or1290/LP12",
-      "HTBris/zerogpu-sdxlTrainer",
       "Dekonstruktio/Fluxus",
       "davidquicast/generador-imagenes-2",
       "yisol/IDM-VTON",
@@ -251,6 +250,7 @@
       "radames/Enhance-This-HiDiffusion-SDXL",
       "multimodalart/lora-ease",
       "hysts/SDXL",
+      "fffiloni/InstantIR",
       "jallenjia/Change-Clothes-AI",
       "Nymbo/Virtual-Try-On",
       "ByteDance/SDXL-Lightning",
@@ -272,7 +272,6 @@
       "AP123/Upside-Down-Diffusion",
       "openfree/ColorRevive",
       "linoyts/scribble-sdxl-flash",
-      "embedl/hfviewer",
       "latent-consistency/lcm-lora-for-sdxl",
       "radames/Real-Time-Latent-Consistency-Model-Text-To-Image",
       "artificialguybr/artificialguybr-demo-lora",
@@ -319,7 +318,8 @@
       "tight-inversion/tight-inversion-pulid-demo",
       "fffiloni/StyleAligned_Transfer",
       "wcy1122/MGM",
-      "latent-consistency/Real-Time-LCM-ControlNet-Lora-SD1.5"
+      "latent-consistency/Real-Time-LCM-ControlNet-Lora-SD1.5",
+      "prs-eth/rollingdepth"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {
