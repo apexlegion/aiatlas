@@ -1,0 +1,33 @@
+{
+  "type": "paper",
+  "slug": "2611-17239",
+  "name": "When Both Sides Adapt: The Challenges of Evaluating Interactive LLM Systems",
+  "summary": "In interactive systems where users engage with LLMs, users are adaptive and, after observing LLM responses, can change their prompting strategy, as well as the type and difficulty of subsequent tas...",
+  "description": "In interactive systems where users engage with LLMs, users are adaptive and, after observing LLM responses, can change their prompting strategy, as well as the type and difficulty of subsequent tasks. Thus model responses can influence the set of prompts on which the model is subsequently evaluated. We study the implications of this user adaptivity and prompt endogeneity for the evaluation of LLMs. We define two classes of estimands for comparing models: the common-distribution effect, which compares model performance on the same distribution of prompts, and the induced-distribution effect,...",
+  "tags": [
+    "arxiv",
+    "stat.ME"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.17239v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-12",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category stat.ME.",
+      "href": "https://arxiv.org/abs/2611.17239v1"
+    }
+  ],
+  "authors": [
+    "Hannah Li"
+  ],
+  "paperId": "2611.17239",
+  "category": "stat.ME",
+  "publishedAt": "2026-11-12",
+  "abstract": "In interactive systems where users engage with LLMs, users are adaptive and, after observing LLM responses, can change their prompting strategy, as well as the type and difficulty of subsequent tasks. Thus model responses can influence the set of prompts on which the model is subsequently evaluated. We study the implications of this user adaptivity and prompt endogeneity for the evaluation of LLMs. We define two classes of estimands for comparing models: the common-distribution effect, which compares model performance on the same distribution of prompts, and the induced-distribution effect,..."
+}

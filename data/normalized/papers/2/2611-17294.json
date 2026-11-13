@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2611-17294",
+  "name": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon",
+  "summary": "On-device inference requires kernels that make effective use of local accelerators. Efficient training and evaluation of models that generate Apple Metal kernels benefit from native macOS tools and...",
+  "description": "On-device inference requires kernels that make effective use of local accelerators. Efficient training and evaluation of models that generate Apple Metal kernels benefit from native macOS tools and concurrent agent sessions. These sessions alternate between model requests, development commands, and GPU execution, leaving GPU capacity idle for much of a rollout. We present Metal Sandbox, infrastructure that combines restricted per-instance file access, native command execution, and command-level scheduling across interconnected Macs. Each agent retains its workspace and private development e...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.17294v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-12",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2611.17294v1"
+    }
+  ],
+  "authors": [
+    "Haozhe Wang",
+    "Lina Chen",
+    "Fanqi Wan",
+    "Qi Han",
+    "Yinmin Zhang",
+    "Zheng Ge",
+    "Daxin Jiang",
+    "Junchi Yan"
+  ],
+  "paperId": "2611.17294",
+  "category": "cs.LG",
+  "publishedAt": "2026-11-12",
+  "abstract": "On-device inference requires kernels that make effective use of local accelerators. Efficient training and evaluation of models that generate Apple Metal kernels benefit from native macOS tools and concurrent agent sessions. These sessions alternate between model requests, development commands, and GPU execution, leaving GPU capacity idle for much of a rollout. We present Metal Sandbox, infrastructure that combines restricted per-instance file access, native command execution, and command-level scheduling across interconnected Macs. Each agent retains its workspace and private development e..."
+}

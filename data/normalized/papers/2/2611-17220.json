@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2611-17220",
+  "name": "Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline",
+  "summary": "Oral exams are compelling because (1) students can be asked to provide their reasoning for an answer and (2) their interactive nature permits follow-up questions to resolve ambiguous answers. But o...",
+  "description": "Oral exams are compelling because (1) students can be asked to provide their reasoning for an answer and (2) their interactive nature permits follow-up questions to resolve ambiguous answers. But oral exams scale poorly. In this paper, we present scalable conversational assessment, an LLM-based system that conducts interactive text-based conversations with students to assess their ability to make and support an argument. We use a two-agent architecture to separate concerns and reduce the likelihood that answers are leaked to the student: the interviewer interacts directly with the student,...",
+  "tags": [
+    "arxiv",
+    "cs.CY"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.17220v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-12",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CY.",
+      "href": "https://arxiv.org/abs/2611.17220v1"
+    }
+  ],
+  "authors": [
+    "Geoffrey Challen",
+    "Craig Zilles"
+  ],
+  "paperId": "2611.17220",
+  "category": "cs.CY",
+  "publishedAt": "2026-11-12",
+  "abstract": "Oral exams are compelling because (1) students can be asked to provide their reasoning for an answer and (2) their interactive nature permits follow-up questions to resolve ambiguous answers. But oral exams scale poorly. In this paper, we present scalable conversational assessment, an LLM-based system that conducts interactive text-based conversations with students to assess their ability to make and support an argument. We use a two-agent architecture to separate concerns and reduce the likelihood that answers are leaked to the student: the interviewer interacts directly with the student,..."
+}
