@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-11-13T09:23:06.360Z",
+  "fetchedAt": "2026-11-14T08:51:33.770Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,8 +25,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4747305,
-    "likes": 8466,
+    "downloads": 4755797,
+    "likes": 8471,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -226,19 +226,19 @@
       "Nymbo/Serverless-ImgGen-Hub",
       "InstantX/InstantID",
       "jasperai/LBM_relighting",
+      "tencent/Hunyuan3D-2mv",
       "emanforhelp/model-pulse",
       "yanze/PuLID-FLUX",
       "VAST-AI/TripoSG",
-      "tencent/Hunyuan3D-2mv",
       "tencent/Hunyuan3D-2mini-Turbo",
       "embedl/hfviewer",
-      "frogleo/AI-Clothes-Changer",
       "hugging-apps/qwen-video-edit",
       "Or1290/LP12",
+      "davidzhao66/Free-AI-Art-Gen",
       "asnamarrium/automated-video-seo",
       "Dekonstruktio/Fluxus",
-      "bh-ab/Deepmind",
       "davidquicast/generador-imagenes-2",
+      "Chris007696907/flux-abliterated-demo",
       "yisol/IDM-VTON",
       "lllyasviel/Omost",
       "radames/Real-Time-Latent-Consistency-Model",
@@ -288,6 +288,7 @@
       "multimodalart/one-step-comparison",
       "ymzhang319/FoleyCrafter",
       "turboedit/turbo_edit",
+      "frogleo/AI-Clothes-Changer",
       "xingpng/CSGO",
       "VAST-AI/MV-Adapter-Img2Texture",
       "multimodalart/perturbed-attention-guidance-sdxl",
@@ -318,8 +319,7 @@
       "clinteroni/outpainting-with-differential-diffusion-demo",
       "briaai/BRIA-Eraser-API",
       "jeasinema/UltraEdit-SD3",
-      "tight-inversion/tight-inversion-pulid-demo",
-      "fffiloni/StyleAligned_Transfer"
+      "tight-inversion/tight-inversion-pulid-demo"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {
@@ -328,6 +328,7 @@
       },
       "total": 2567463684
     },
+    "inference": "warm",
     "usedStorage": 77369456618
   }
 }

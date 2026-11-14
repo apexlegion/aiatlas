@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2606-02955v3",
+  "name": "Fast-dLLM++: Fr\\'echet Profile Decoding for Faster Diffusion LLM Inference",
+  "summary": "arXiv:2606.02955v3 Announce Type: replace-cross Abstract: Diffusion large language models promise parallel token generation, yet inference remains bottlenecked by deciding which masked tokens can b...",
+  "description": "arXiv:2606.02955v3 Announce Type: replace-cross Abstract: Diffusion large language models promise parallel token generation, yet inference remains bottlenecked by deciding which masked tokens can be safely committed together. Fast-dLLM addressed this with KV caching and confidence-guided parallel decoding, but its decoding theory uses a homogeneous high-confidence assumption that effectively re...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2606.02955"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-14",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2606.02955"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-14",
+  "expiryAt": "2026-12-14T00:00:00.000Z",
+  "author": "Siva Rajesh Kasa, Yasong Dai, Sumit Negi, Hongdong Li"
+}

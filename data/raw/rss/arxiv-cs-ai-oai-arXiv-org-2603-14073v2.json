@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.14073v2",
+  "fetchedAt": "2026-11-14T08:51:35.865Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.14073v2",
+    "title": "MotionCFG: Boosting Motion Dynamics via Semantic Motion Sharpening",
+    "link": "https://arxiv.org/abs/2603.14073",
+    "description": "arXiv:2603.14073v2 Announce Type: replace-cross Abstract: Despite recent advancements in Text-to-Video (T2V) synthesis, generating high-fidelity and dynamic motion remains a significant challenge. Existing methods primarily rely on Classifier-Free Guidance (CFG), but standard CFG treats all semantic dimensions uniformly and provides no mechanism to selectively resolve ambiguity along the motion axis. To address this, we propose MotionCFG, a training-free approach that introduces selective guidance along the motion subspace of the condition embedding. Specifically, we construct a motion-perturbed negative condition by injecting Gaussian noise into motion-related embeddings, and steer generation away from it to selectively amplify motion intent. We show theoretically that this procedure implicitly approximates Semantic Laplacian Sharpening, a second-order correction that suppresses motion-ambiguous regions of the score landscape and amplifies well-resolved dynamic peaks. Combined with a piecewise guidance schedule that confines intervention to the early denoising steps, MotionCFG consistently improves motion dynamics across state-of-the-art T2V frameworks with negligible overhead. We further demonstrate that this Laplacian sharpening principle generalizes beyond motion, effectively steering complex, non-linear concepts such as precise object numerosity that are typically difficult to modulate via standard text-based guidance. Our project page is available at https://motion-cfg.vercel.app/.",
+    "publishedAt": "2026-11-14",
+    "author": "Byungjun Kim, Soobin Um, Jong Chul Ye",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

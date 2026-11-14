@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.11342v2",
+  "fetchedAt": "2026-11-14T08:51:35.865Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.11342v2",
+    "title": "Agent Self-Improvement with Frozen Weights: The Added Value and Limits of Failure Traces",
+    "link": "https://arxiv.org/abs/2611.11342",
+    "description": "arXiv:2611.11342v2 Announce Type: replace-cross Abstract: We evaluate whether an AI agent's harness, the notes around its model, can learn from the agent's failure traces beyond a matched search that never sees them. It can, but less than it looks. We tested an open 9-billion-parameter model with fixed weights; a larger teacher model wrote its notes. On generated customer-service decisions, where both note writers were told the target rules, notes based on the agent's mistakes improved accuracy by 4.0 percentage points over notes from the same process with the mistakes withheld. That process alone, trying and keeping better-scoring notes, reached about 60% of the total improvement. In full customer-service conversations the same notes showed no demonstrated improvement. Separately, a strict screen of single lessons admitted two customer-service lessons, still awaiting tests on new data, and one tool-use lesson, written without seeing the agent's mistakes, which showed no demonstrated gain on new tool-use tasks. A neutral note with no procedure scored higher than the learned lessons (exploratory). A blind audit judged 146 of 240 tool-use test items defective.",
+    "publishedAt": "2026-11-14",
+    "author": "Arkid Mitra, Snehil Saluja",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

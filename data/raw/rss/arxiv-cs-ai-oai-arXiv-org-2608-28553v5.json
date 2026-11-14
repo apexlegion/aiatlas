@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.28553v5",
+  "fetchedAt": "2026-11-14T08:51:35.865Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.28553v5",
+    "title": "Four conditions for composing plugin-based agents without a host agents",
+    "link": "https://arxiv.org/abs/2608.28553",
+    "description": "arXiv:2608.28553v5 Announce Type: replace Abstract: Large language model agents now run long-horizon, multi-tool, autonomous sessions, and the infrastructure must keep the current assembly of capabilities, the progress of execution, and the basis for recovery after a fault. A single-process host holds this information in its own running state, so its death takes the session record and the assembly with it. This paper gives four conditions under which a plugin-based agent needs no host process, one each on state placement, record carriers, recovery coordination, and provider resolution. The store, writer, and delivery disciplines keep the conditions in force, and each carries formal support from the spatiotemporal-composability calculus and from the proofs in the supplementary materials. An agent that meets them can be constructed with its assembly on a bus of peer processes and its record in an append-only carrier owned by no process, and removing any one part makes the assembly need a host again. The conditions themselves are the contribution, and every implementation that meets them inherits the same advantages. Such an agent keeps its session through the death of any process, wastes no calls after a fault, loses no records, recovers locally, changes its capability set while it runs, and carries its undo semantics across processes. This paper builds one SDK of the conditions, Logos, and measures whether it fulfills their promise against the single-process reference and a configuration over MCP under one fault in each of 200 tasks, realized in 197. The reference lost all 197 faulted sessions, the MCP configuration kept its sessions but issued 1,212 wasted calls, and the SDK kept every session, wasted no call, lost no record, and fulfilled the promise of the conditions in every faulted task, with task performance preserved. The conditions give builders a tested route from single-process hosts to peer processes.",
+    "publishedAt": "2026-11-14",
+    "author": "Hanzhang Jia, Liheng Zeng, Hao Cheng, Yi Gao, Bo Ma, Guolong Xu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

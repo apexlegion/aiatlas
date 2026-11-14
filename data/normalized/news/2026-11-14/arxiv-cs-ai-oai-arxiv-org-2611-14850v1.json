@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-14850v1",
+  "name": "Effective Teacher Support for Reasoning Distillation",
+  "summary": "arXiv:2611.14850v1 Announce Type: new Abstract: Forward-KL language-model distillation normally computes dense teacher and student scores over the full vocabulary at every supervised position, maki...",
+  "description": "arXiv:2611.14850v1 Announce Type: new Abstract: Forward-KL language-model distillation normally computes dense teacher and student scores over the full vocabulary at every supervised position, making training and stored teacher targets expensive. We instead distill from the teacher's highest-probability vocabulary fraction, renormalizing the retained mass as we sweep support from 100% to 0.01%....",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.14850"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-14",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.14850"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-14",
+  "expiryAt": "2026-12-14T00:00:00.000Z",
+  "author": "Lavinia Ghita, Dhruv Desai"
+}

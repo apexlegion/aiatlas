@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.26020v2",
+  "fetchedAt": "2026-11-14T08:51:35.865Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.26020v2",
+    "title": "Training Computer Use Agents to Assess the Usability of Graphical User Interfaces",
+    "link": "https://arxiv.org/abs/2604.26020",
+    "description": "arXiv:2604.26020v2 Announce Type: replace-cross Abstract: Recent HCI research leverages AI agents to assess graphical user interfaces (GUIs) usability, but current agents still struggle. Computer use agents (CUAs) that are used in these assessments are predominantly developed using objective task trajectories with verifiable outcomes and lack an operationalized definition of usability and necessary training data. This work presents a novel training objective that operationalizes usability to fine-tune CUAs to assess GUI usability through relative comparisons between interface variants. We apply our method to CUA models using a large-scale dataset of fully interactive UIs paired with usability labels mixed with human preferences.Two empirical evaluations across real and synthetic GUIs show that our method i) improved relative usability assessment accuracy across three off-the-shelf CUA models, ii) enabled our best model to outperform proprietary baselines, and iii) produced grounded usability assessments. Our work lays a data-driven foundation for agent-based usability assessment, enabling exploration of new forms of scalable usability evaluation and interface design.",
+    "publishedAt": "2026-11-14",
+    "author": "Alice Gao, Weixi Tong, Rishab Vempati, Katharina Reinecke, R. Benjamin Shapiro, Tianyi Zhang, Jason Wu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

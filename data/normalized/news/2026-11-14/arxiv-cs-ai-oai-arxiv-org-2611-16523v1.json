@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-16523v1",
+  "name": "RESYNC: Residual Latent-State Synchronization for Deadline-Bound Streaming Inference",
+  "summary": "arXiv:2611.16523v1 Announce Type: cross Abstract: Predicting every observation in a high-rate stream requires a model to finish before the next arrival. A large model may offer better predictions b...",
+  "description": "arXiv:2611.16523v1 Announce Type: cross Abstract: Predicting every observation in a high-rate stream requires a model to finish before the next arrival. A large model may offer better predictions but miss that deadline. We propose RESYNC: the large model runs asynchronously, while a fast path updates its latest exact but stale latent state using the observations received since that state was co...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.16523"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-14",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.16523"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-14",
+  "expiryAt": "2026-12-14T00:00:00.000Z",
+  "author": "Eljas Linna, Hao Dong, Juho Kanniainen"
+}

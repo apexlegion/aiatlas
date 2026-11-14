@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-15404v1",
+  "name": "Is the Importance Ratio Necessary for Stable Reinforcement Learning in LLMs?",
+  "summary": "arXiv:2611.15404v1 Announce Type: cross Abstract: Reinforcement learning (RL) has become central to post-training large language models (LLMs). However, popular RL methods like GRPO incur non-negli...",
+  "description": "arXiv:2611.15404v1 Announce Type: cross Abstract: Reinforcement learning (RL) has become central to post-training large language models (LLMs). However, popular RL methods like GRPO incur non-negligible overhead by computing both old-policy and current-policy likelihoods to form importance sampling ratios. In this work, we propose Likelihood-Gated Policy Optimization (LGPO), which enforces a so...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.15404"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-14",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.15404"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-14",
+  "expiryAt": "2026-12-14T00:00:00.000Z",
+  "author": "Shuibai Zhang, Junhyuck Kim, Gyeongman Kim, Jaewoong Cho"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-14545v1",
+  "name": "metalSPARSE: A 2:4 Semi-Structured Sparse GEMV Kernel for Apple Silicon GPUs",
+  "summary": "arXiv:2611.14545v1 Announce Type: cross Abstract: Autoregressive Large Language Models (LLMs) generate text one token at a time, and each token reads every weight from memory, so on edge devices, d...",
+  "description": "arXiv:2611.14545v1 Announce Type: cross Abstract: Autoregressive Large Language Models (LLMs) generate text one token at a time, and each token reads every weight from memory, so on edge devices, decoding is limited by memory bandwidth. 2:4 semi-structured sparsity keeps two of every four weights, but Apple-silicon GPUs have no sparse matrix hardware, so pruning helps only if a kernel actually...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.14545"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-14",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.14545"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-14",
+  "expiryAt": "2026-12-14T00:00:00.000Z",
+  "author": "Tek Raj Awasthi (Friedrich-Alexander-Universit\\\"at Erlangen-N\\\"urnberg), Babita Awasthi"
+}

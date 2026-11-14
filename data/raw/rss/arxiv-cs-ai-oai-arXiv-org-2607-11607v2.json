@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.11607v2",
+  "fetchedAt": "2026-11-14T08:51:35.865Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.11607v2",
+    "title": "When Can Learned Uncertainty Be Trusted? An Audit of Distributional Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2607.11607",
+    "description": "arXiv:2607.11607v2 Announce Type: replace Abstract: Many learned predictive models represent their uncertainty as a probability distribution, and planners and policies use this distribution to judge risk. However, the fact that a model outputs a distribution does not tell us whether that distribution captures the uncertainty in the environment which is relevant for a decision. In this work we study this question in distributional reinforcement learning, where the learned return distribution P_{\\theta}(Z | s,a) can be compared directly with an environment-grounded distribution P_env(Z | s,a) estimated by snapshot-restart Monte Carlo. Our audit first screens for the claims that a risk-sensitive user would act upon, using the excess Wasserstein gap between the top two actions (which is equal to the mass by which first-order stochastic dominance is violated). Each claim is then tested against ground truth using permutation nulls, bootstrap refutation and FDR control. Across QR-DQN, C51 and IQN on MinAtar (33 runs), 40-95% of the strongest claimed risk trade-offs are refuted at 95% confidence, their placement is statistically indistinguishable from a truth-blind placement, and almost none of them can be confirmed. A similar pattern is seen for a pretrained full-Atari QR-DQN. On positive controls of known magnitude the same audit confirms 96-100% of real claims (correlation 0.89-0.92), so it is able to detect real risk when it is present. Acting on the learned CVaR advice at the most-flagged states gives results ranging from beneficial to significantly worse than chance. Ensembling, risk-sensitive training and recalibration do not fix the problem, and the recalibration experiment indicates that the learned spread has no usable information about the true risk. Based on these results, we suggest that uncertainty estimates, including those of learned world models, should be checked against realized outcomes at the decisions where they are used..",
+    "publishedAt": "2026-11-14",
+    "author": "Hari Prasad",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

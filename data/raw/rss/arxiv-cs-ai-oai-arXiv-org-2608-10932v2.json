@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.10932v2",
+  "fetchedAt": "2026-11-14T08:51:35.865Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.10932v2",
+    "title": "CamChoreo: Benchmarking Temporally Grounded Compositional Camera Motion Understanding for Vision Language Models",
+    "link": "https://arxiv.org/abs/2608.10932",
+    "description": "arXiv:2608.10932v2 Announce Type: replace-cross Abstract: Understanding camera motion is fundamental to video perception, with applications in spatial intelligence and controllable video generation. Existing camera motion evaluations typically assign labels to entire clips, overlooking within-shot changes and simultaneous movements. We therefore formulate camera motion understanding as temporally grounded, compositional recognition, requiring models to localize motion-consistent intervals and identify all active movements. We introduce CamChoreo, the first benchmark for this task, comprising 4,229 diverse single-shot clips with expert temporal annotations using 20 direction-aware labels. Nearly half of its segments contain compound camera motion. We also construct a separate training corpus of approximately 43K clips with the same annotation format. On CamChoreo, supervised fine-tuning (SFT) on this corpus achieves 62.1/64.1 micro F1 with 4B/8B backbones, outperforming advanced closed-source vision language models (VLMs). To complement the primarily semantic representations of VLM visual encoders with cross-frame geometry, we introduce CamInject, which injects features from a frozen 3D foundation model into the VLM. CamInject improves over SFT but requires running the costly 3D model at inference. We instead propose CamDistill, which distills the same geometric knowledge into lightweight camera tokens during training and removes the 3D model at inference. CamDistill improves micro F1 over same-data SFT by 5.4/3.7 points on 4B/8B backbones, closely approaching CamInject. CamDistill-8B also demonstrates strong zero-shot transfer on the external camera motion understanding benchmarks CameraBench and CameraMotionVQA. Together, these resources and CamDistill enable benchmarking and improving temporally grounded, compositional camera motion understanding.",
+    "publishedAt": "2026-11-14",
+    "author": "Dazhao Du, Shiyan Du, Jian Liu, Yongjian Yu, Bohai Gu, Tao Han, Jie Zhang, Hualuo Liu, Eric Liu, Yujia Zhang, Xi Chen, Song Guo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

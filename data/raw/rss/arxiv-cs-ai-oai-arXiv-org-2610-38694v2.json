@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.38694v2",
+  "fetchedAt": "2026-11-14T08:51:35.865Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.38694v2",
+    "title": "Geometry Matters in Packed 3D Attention",
+    "link": "https://arxiv.org/abs/2610.38694",
+    "description": "arXiv:2610.38694v2 Announce Type: replace-cross Abstract: Packing a 3D field into a token sequence gives every token two indices: a coordinate in the sample and a position in memory. Raster, Morton, and block-contiguous layouts change the position and leave the coordinate alone. A positional mechanism indexed by sequence position can therefore learn the memory layout rather than the object, and accuracy on the training layout cannot reveal that it has. We introduce PACK3D, a local-global attention operator that separates memory layout from attention geometry. It attends exactly within a coordinate-defined neighborhood, sees the whole field through pooled summaries, and rotates queries and keys with axial RoPE at token-grid coordinates. Because keys are rotated before pooling, each query-to-summary logit is a weighted sum of query-key terms evaluated at the summarized tokens' displacements from the query. The operator is equivariant to any repacking that carries coordinates, neighborhoods, summary memberships, and within-block slots along with the tokens. When evaluated on Allen WTC-11 microscopy at 262k tokens, PACK3D and a matched packed-sequence RoPE control reach comparable Dice on the training layout. Repacking the same validation volumes then costs the packed control 0.048 macro Dice on average, with a loss in all six seeds, while PACK3D changes by 0.0001. On MSD Heart and Spleen, sequence indexing again changes more predictions under repacking, at little cost in Dice. PACK3D also exceeds a parameter-matched 3D U-Net by 0.009 Dice over six seeds, and a full PACK3D layer runs within 7-31% of window-attention latency while adding a global pathway. Geometry, not storage order, should index attention over packed 3D fields. Code is available at https://github.com/amilworks/Pack3D.",
+    "publishedAt": "2026-11-14",
+    "author": "Amil Khan, Anantajit Subrahmanya, B. S. Manjunath",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

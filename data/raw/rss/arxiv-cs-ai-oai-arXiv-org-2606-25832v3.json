@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.25832v3",
+  "fetchedAt": "2026-11-14T08:51:35.865Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.25832v3",
+    "title": "MiniOpt: Reasoning to Model and Solve General Optimization Problems with Limited Resources",
+    "link": "https://arxiv.org/abs/2606.25832",
+    "description": "arXiv:2606.25832v3 Announce Type: replace-cross Abstract: Achieving strong optimization generalization across diverse optimization problems while requiring limited training resources remains a challenging problem for optimization-oriented large language models (LLMs). Existing learning-based methods, however, typically require large-scale supervised data, expensive intermediate step verification, and extensive computational resources, while exhibiting limited optimization generalization across diverse optimization structures. In this paper, we propose \\textsc{MiniOpt}, a lightweight optimization-specialized LLM trained through a reasoning-to-model-and-solve paradigm and a two-stage training framework with reinforcement learning with verifiable rewards (RLVR). MiniOpt encourages structure-oriented optimization learning by reinforcing the completeness of optimization formulations and optimization outcomes. Extensive experiments on eight optimization benchmarks demonstrate that MiniOpt consistently outperforms existing learning-based optimization models while requiring substantially fewer parameters and training data. To further understand optimization generalization, we introduce a complementary parameter-decoupled evaluation protocol that disentangles optimization structure understanding from numerical parameter processing. The results reveal that MiniOpt preserves optimization capability under parameter-decoupled settings significantly better than previous optimization-specialized models, suggesting that its performance gains primarily originate from stronger optimization structure understanding. These findings demonstrate an effective pathway toward efficient and generalizable optimization-specialized LLMs. The code is available at https://github.com/Hsiang-1/MiniOpt.",
+    "publishedAt": "2026-11-14",
+    "author": "Ke Zhao, Zixiang Di, Hong Qian, Xiang Shu, Yaolin Wen, Qitao Shi, Bingdong Li, Xingyu Lu, Xiangfeng Wang, Jun Zhou, Ke Tang, Yang Yu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

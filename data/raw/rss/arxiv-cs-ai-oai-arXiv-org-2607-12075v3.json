@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.12075v3",
+  "fetchedAt": "2026-11-14T08:51:35.865Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.12075v3",
+    "title": "Calibrated selective prediction using deep ensembles for thyroid nodule ultrasound classification under dataset shift",
+    "link": "https://arxiv.org/abs/2607.12075",
+    "description": "arXiv:2607.12075v3 Announce Type: replace-cross Abstract: Background: Deep learning can classify thyroid nodules on ultrasound, but discrimination alone does not establish clinical reliability. We developed a calibrated deep-ensemble framework with uncertainty-aware selective prediction and conservative image-based triage. Methods: Nested five-fold cross-validation with three-fold inner architecture selection chose ConvNeXt-Tiny with a squeeze-and-excitation block, used to build a deterministic five-member ensemble. Training, early-stopping, calibration, and threshold subsets were separated within each fold; outer-test data remained isolated. Mutual information (MI), predictive variance, and maximum-softmax-probability (MSP) uncertainty were compared by risk-coverage and triage analyses, and predictive values across assumed malignancy prevalences of 5%-70%. The frozen TN5000 ensemble was applied to TN3K without recalibration. Results: On TN5000, pooled out-of-fold AUC-ROC was 0.9377, average precision 0.9708, expected calibration error 0.0138, and Brier score 0.0827. Under the primary MI-guided policy, 8.86% of images received a No-FNA suggestion, 60.00% an FNA recommendation, and 31.14% radiologist review; of 3574 malignant images, 14 (0.39%) received No-FNA and 708 (19.81%) review. Predictive variance and MSP ranked errors better than MI (AURC, AUGRC); no measure optimized all triage outcomes. Across prevalences of 5%-70%, NPV ranged 99.95%-97.93% and PPV 29.28%-94.75%. On TN3K, AUC-ROC was 0.7870, average precision 0.7254, expected calibration error 0.1899, and radiologist-review rate 83.7%. Conclusion: The ensemble showed strong internal discrimination and calibration, but performance deteriorated substantially on TN3K, indicating limited transportability under dataset shift. Multicentre validation, site-specific recalibration, threshold validation, and prospective evaluation are needed before clinical use.",
+    "publishedAt": "2026-11-14",
+    "author": "Md. Sadibul Hasan Sadib, Md. Mohayminul Mukit, Rahmatul Kabir Rasel Sarker, Tahmid Alam Tamim, Md. Nazmul Hasan, Md. Monir Hossain Shimul",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

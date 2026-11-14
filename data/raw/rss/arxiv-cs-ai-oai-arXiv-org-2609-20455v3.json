@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.20455v3",
+  "fetchedAt": "2026-11-14T08:51:35.865Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.20455v3",
+    "title": "GraphSkillAA: Attribution-Guided Skill-Graph Updating with Targeted Validation and Rollback",
+    "link": "https://arxiv.org/abs/2609.20455",
+    "description": "arXiv:2609.20455v3 Announce Type: replace Abstract: External skills provide domain knowledge and procedures without updating model parameters, but flat text makes their applicability, dependencies, and composition difficult to express. Existing skill graphs organize rules into nodes and relations mainly for retrieval and composition. They give less attention to what should change after a failure, which examples should be retested, and which edits should be reverted. We introduce GraphSkillAA, short for Graph-Skill Abductive Attribution, which connects rule use, error localization, and update validation through the same skill graph. Nodes record applicability, procedures, and exclusion conditions, while edges describe prerequisite and enhancement relations. The student records the nodes and edges used during execution. The teacher contrasts related successful and failed trajectories to identify the fields or relations that need repair, keeping changes as small as possible. Execution lapses or insufficient evidence leave the graph unchanged. A Local Gate retests affected examples, while a Big Gate checks the merged graph on the complete update pool. Rejected edits are rolled back, and model parameters remain frozen throughout. With GPT-5.6-sol, GraphSkillAA reaches 81.5%, 66.7%, and 91.2% on SearchQA, LiveMath, and DocVQA, respectively, and achieves the highest mean performance in every main setting. These results show that graph structure supports skill selection and composition while also providing explicit targets for repair, retesting, and rollback.",
+    "publishedAt": "2026-11-14",
+    "author": "Ziqiao Shang, Ling-Yue Ge, Lan-Zhe Guo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

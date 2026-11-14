@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.15276v1",
+  "fetchedAt": "2026-11-14T08:51:35.865Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.15276v1",
+    "title": "Verify by Doing: Co-Evolving Agent Execution and Evaluation without External Feedback",
+    "link": "https://arxiv.org/abs/2611.15276",
+    "description": "arXiv:2611.15276v1 Announce Type: new Abstract: Agent self-improvement requires feedback about task success, yet external feedback may be unavailable at test time. Agents must then infer success from observable evidence, and incomplete verification can misguide subsequent updates. We introduce Verify by Doing (VbD), a method that co-evolves Actor and Evaluator harnesses within a single task while keeping model weights fixed. The Evaluator actively inspects artifacts and environment state with tools; its findings ground an internal signal for output selection and guide updates to both execution and verification procedures. Proposed Evaluators undergo comparative review on common candidates, while Actor updates require support from their own fresh outputs. Across AutomationBench, $\\tau^3$ Banking, and selected GDPval tasks, VbD achieves the highest overall scores among the compared methods operating without external feedback, with gains of 3.3, 4.1, and 2.3 percentage points over the strongest baselines on the main backbone. Ablations support the contributions of active verification and Evaluator evolution, and selection from fixed candidate pools shows that improved verification can recover successful outputs without generating new ones.",
+    "publishedAt": "2026-11-14",
+    "author": "Yitong Lin, Jianda Chen, Yihao Hu, Pan Wang, Hang Wang, Zhihao Wen, Xiaoxue Ren, Wei Wu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

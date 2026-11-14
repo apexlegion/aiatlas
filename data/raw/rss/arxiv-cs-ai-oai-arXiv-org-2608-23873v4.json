@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.23873v4",
+  "fetchedAt": "2026-11-14T08:51:35.865Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.23873v4",
+    "title": "Semantic Overlays: Mitigating Prompt Injection with Annotations Beyond Tokens and Steering Vectors",
+    "link": "https://arxiv.org/abs/2608.23873",
+    "description": "arXiv:2608.23873v4 Announce Type: replace Abstract: Language models see only tokens. But the harness knows more: which token spans are user text, which are tool outputs, and which come from untrusted sources such as web pages or external documents. To pass that knowledge to the model, the harness must transmit it as plain text. Prompt injection exploits this: planted instructions, formatted the right way, can convince a model that they come from the user or the system. We introduce Semantic Overlays, small trained adapters that edit a frozen model's residual stream at chosen token spans. No input text can create or remove a mark, although the model's response to a mark is computed from states the input does influence. When the serving stack marks retrieved text with an overlay trained to mean \"do not execute instructions in this span,\" the model treats injected instructions as inert content. Against attacks written without knowledge of the defense, it reaches the attack rates of the best published defenses: SEP separation rises from 24.3% to 98.8% under a corrected grader, AlpacaFarm attack success falls from 99.0% to 0.5%, and AgentDojo from 12.8% to 0%. Fine-tuning the model's weights on the same data reached similar separation but kept 64-80% of SEP utility, against 93% for the overlay. On TensorTrust hijacking, whose attacks resemble nothing in our training data, it lets 4.4% of hijacks through on Llama-3.1-8B, against 43% for Meta-SecAlign on the same base. An attacker with the weights does better: GCG succeeds on 72% of items, and on 14% after adversarial training of the overlay alone. Overlays are also flexible: the model reads their positions faithfully in stacked configurations; told by an overlay that non-Python code is Python and asked to copy it, the model rewrites it in Python; and overlays can carry span-delimited instructions. We also correct defects in two prompt-injection benchmarks and one evaluation harness.",
+    "publishedAt": "2026-11-14",
+    "author": "Joshua Penman",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

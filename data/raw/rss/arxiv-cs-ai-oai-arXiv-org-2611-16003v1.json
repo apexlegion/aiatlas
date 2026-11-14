@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.16003v1",
+  "fetchedAt": "2026-11-14T08:51:35.865Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.16003v1",
+    "title": "Fit-LRP: Fitting Linear Relaxations to Polytopes for Neural Network Verification over Non-Convex Regions",
+    "link": "https://arxiv.org/abs/2611.16003",
+    "description": "arXiv:2611.16003v1 Announce Type: cross Abstract: State-of-the-art neural network verifiers evaluate linear relaxations over axis-aligned bounding boxes. However, verification domains in cyber-physical systems are rarely boxes. Reachability specifications, obstacle-avoidance constraints, and neural Lyapunov certificates typically yield oblique or non-convex polyhedral regions, over which box-based bounds become extremely loose. This paper proposes Fit-LRP (Fitting Linear Relaxations to Polytopes), a framework the implements exact optimization of affine bounds over non-convex domains (represented by unions of polytopes) by solving a sequence of small, low-dimensional linear programs. Our approach seamlessly enhances the final optimization step of LiRPA and $\\alpha,\\! \\beta$-CROWN branch-and-bound (BaB) algorithms. In BaB verification, approximating oblique constraints with axis-aligned splits causes severe combinatorial blowup and risks non-termination. By optimizing the final affine bound of a nonlinear function over the exact polyhedral state-space constraints our method eliminates box-induced over-approximations, enabling earlier search-tree pruning. On ARCH-COMP and neural Lyapunov benchmarks, Fit-LRP reduces branching on the hardest region by $47\\times$, cuts worst-case verification time by $15\\times$, and with region-wise partitioning, verifies on a single CPU $6.1\\times$ faster than $\\alpha,\\! \\beta$-CROWN on a GPU.",
+    "publishedAt": "2026-11-14",
+    "author": "Brian Yarbrough, Jesse Wayment, Jingbo Wang, Philip E. Par\\'{e}, Shreyas Sundaram",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

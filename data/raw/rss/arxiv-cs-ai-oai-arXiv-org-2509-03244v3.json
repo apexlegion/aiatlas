@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2509.03244v3",
+  "fetchedAt": "2026-11-14T08:51:35.865Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2509.03244v3",
+    "title": "FoMEMO: Towards Foundation Models for Expensive Multi-objective Optimization",
+    "link": "https://arxiv.org/abs/2509.03244",
+    "description": "arXiv:2509.03244v3 Announce Type: replace-cross Abstract: Expensive multi-objective optimization is a prevalent and crucial concern in many real-world scenarios, where sample-efficiency is vital due to the limited evaluations to recover the true Pareto front for decision making. Existing works either involve repeatedly fitting Gaussian process surrogates from scratch for each newly encountered problem, or rely on computationally demanding hypervolume-oriented policy learning for amortized optimization, making it challenging to achieve scalable pre-training and efficient yet robust adaptation for diverse emerging real-world applications. To address these challenges, we propose FoMEMO (Foundation Models for Expensive Multi-objective Optimization), which adopts a decomposition-based training paradigm that converts multi-objective optimization into preference-wise aggregated posterior learning tasks, enabling scalable pre-training on hundreds of millions of diverse synthetic datasets without relying on extensive real-world domain experiments. At test time, given observed trajectories from unseen problems and user preferences, the foundation model performs in-context posterior prediction and optimizes the derived acquisition functions for efficient candidate generation, achieving strong generalization and optimization performance without any subsequent model training or updates.",
+    "publishedAt": "2026-11-14",
+    "author": "Yiming Yao, Fei Liu, Liang Zhao, Xi Lin, Yilu Liu, Qingfu Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
