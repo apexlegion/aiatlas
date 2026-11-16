@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2611-18493",
+  "name": "TradeGauntlet: Evaluating Compliance Controls for Autonomous Trading Agents",
+  "summary": "Autonomous trading agents need controls that prevent problematic orders without making legitimate tasks impractical. We study this aspect of agentic compliance with TradeGauntlet, a replayable limi...",
+  "description": "Autonomous trading agents need controls that prevent problematic orders without making legitimate tasks impractical. We study this aspect of agentic compliance with TradeGauntlet, a replayable limit-order-book simulator that separates detection, prevention, and execution cost. In 1,680 simulated sessions with Claude Haiku 5.5 and Sonnet 5.5, all conduct alerts were self-matches. Gates eliminated those alerts by rejecting self-crossing orders, while the aggregate-gate condition reduced Sonnet's two-sided fills by about 15%. A conduct reminder reduced Sonnet's alert rate but reduced Haiku's f...",
+  "tags": [
+    "arxiv",
+    "cs.MA"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.18493v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-13",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.MA.",
+      "href": "https://arxiv.org/abs/2611.18493v1"
+    }
+  ],
+  "authors": [
+    "Sandip Nandi",
+    "Aishwarya Bose",
+    "Apurba Bose",
+    "Soovadeep Bakshi"
+  ],
+  "paperId": "2611.18493",
+  "category": "cs.MA",
+  "publishedAt": "2026-11-13",
+  "abstract": "Autonomous trading agents need controls that prevent problematic orders without making legitimate tasks impractical. We study this aspect of agentic compliance with TradeGauntlet, a replayable limit-order-book simulator that separates detection, prevention, and execution cost. In 1,680 simulated sessions with Claude Haiku 5.5 and Sonnet 5.5, all conduct alerts were self-matches. Gates eliminated those alerts by rejecting self-crossing orders, while the aggregate-gate condition reduced Sonnet's two-sided fills by about 15%. A conduct reminder reduced Sonnet's alert rate but reduced Haiku's f..."
+}

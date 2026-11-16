@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2510.22953v3",
+  "fetchedAt": "2026-11-16T09:23:41.109Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2510.22953v3",
+    "title": "Manifold Approximation leads to Robust Kernel Alignment",
+    "link": "https://arxiv.org/abs/2510.22953",
+    "description": "arXiv:2510.22953v3 Announce Type: replace-cross Abstract: Centered kernel alignment (CKA) is a popular metric for comparing representations, determining equivalence of networks, and conducting neuroscience research. However, CKA does not account for the underlying manifold and relies on numerous heuristics that cause it to behave differently at different scales of data. In this work, we propose Manifold-approximated Kernel Alignment (MKA), which incorporates manifold geometry (i.e., local neighborhood) into the alignment task. We derive a theoretical framework for MKA. Our construction removes representation-dependent degree weighting, yields a closed-form alignment score, and gives each row a probabilistic interpretation as a local Markov transition distribution. We further establish kernel- and score-level stability with respect to the neighborhood size. We perform empirical evaluations on synthetic datasets and real-world examples to characterize and compare MKA to its contemporaries. In controlled synthetic experiments, MKA is consistently less sensitive to hyperparameters and captures the selected topology-preserving relationships. On the large-scale benchmark, MKA achieves its strongest aggregate performance in vision, is competitive on graphs, and is weaker than CKA in several NLP evaluations. Our findings suggest that manifold-aware kernel alignment provides a robust foundation for measuring representations and is potentially useful when local neighborhood geometry is important, with possible applications in representation learning.",
+    "publishedAt": "2026-11-16",
+    "author": "Mohammad Tariqul Islam, Du Liu, Deblina Sarkar",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2611-18453",
+  "name": "Black-Box Uncertainty Quantification for Large Language Models via Ensemble-of-Ensembles",
+  "summary": "Reliable use of large language models (LLMs) requires uncertainty estimates that separate ambiguity intrinsic to a prompt from genuine knowledge gaps. Bayesian and deep-ensemble methods deliver thi...",
+  "description": "Reliable use of large language models (LLMs) requires uncertainty estimates that separate ambiguity intrinsic to a prompt from genuine knowledge gaps. Bayesian and deep-ensemble methods deliver this aleatoric/epistemic decomposition in principle, but are computationally prohibitive at LLM scale and require white-box access. Existing black-box methods, in contrast, summarize to a single scalar that cannot make the distinction. We introduce a two-level ensemble that bridges this gap. Stochastic decoding of a fixed prompt forms the inner ensemble; meaning-preserving semantic perturbations of t...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.18453v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-13",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2611.18453v1"
+    }
+  ],
+  "authors": [
+    "Wang Ma",
+    "Debarun Bhattacharjya",
+    "Junkyu Lee",
+    "Nhan H Pham",
+    "Harsha Kokel",
+    "Qiang Ji"
+  ],
+  "paperId": "2611.18453",
+  "category": "cs.LG",
+  "publishedAt": "2026-11-13",
+  "abstract": "Reliable use of large language models (LLMs) requires uncertainty estimates that separate ambiguity intrinsic to a prompt from genuine knowledge gaps. Bayesian and deep-ensemble methods deliver this aleatoric/epistemic decomposition in principle, but are computationally prohibitive at LLM scale and require white-box access. Existing black-box methods, in contrast, summarize to a single scalar that cannot make the distinction. We introduce a two-level ensemble that bridges this gap. Stochastic decoding of a fixed prompt forms the inner ensemble; meaning-preserving semantic perturbations of t..."
+}

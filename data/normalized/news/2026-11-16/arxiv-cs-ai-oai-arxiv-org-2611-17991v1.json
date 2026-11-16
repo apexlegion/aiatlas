@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-17991v1",
+  "name": "LACCO: Local Accumulation with Computation--Communication Overlap",
+  "summary": "arXiv:2611.17991v1 Announce Type: new Abstract: Training language models across low-bandwidth networks requires reducing synchronization overhead. Local optimization methods such as DiLoCo communic...",
+  "description": "arXiv:2611.17991v1 Announce Type: new Abstract: Training language models across low-bandwidth networks requires reducing synchronization overhead. Local optimization methods such as DiLoCo communicate only after several local steps, but outer gradient averaging and the outer update remain on the critical path. Existing computation-communication overlap methods avoid this stall through delayed o...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.17991"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.17991"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-16",
+  "expiryAt": "2026-12-16T00:00:00.000Z",
+  "author": "Daniele Kopyshevskiy (MLIA), Benjamin Th{\\'e}rien (Mila, UdeM), Nicolas Pinto (MLIA), Edouard Oyallon (MLIA)"
+}

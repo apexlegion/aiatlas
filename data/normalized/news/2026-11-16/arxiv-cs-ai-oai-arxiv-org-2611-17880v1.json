@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-17880v1",
+  "name": "Soteria: Formally Verified Planning with Runtime Enforcement for Safe LLM Agents",
+  "summary": "arXiv:2611.17880v1 Announce Type: new Abstract: LLM agents that execute multi-step tool calls must satisfy two objectives simultaneously: completing the user's task (utility) and conforming to doma...",
+  "description": "arXiv:2611.17880v1 Announce Type: new Abstract: LLM agents that execute multi-step tool calls must satisfy two objectives simultaneously: completing the user's task (utility) and conforming to domain policies and correctness constraints (safety). These objectives are in tension -- blocking an unsafe action prevents a violation but can leave the agent stranded with no principled way to recover....",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.17880"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.17880"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-16",
+  "expiryAt": "2026-12-16T00:00:00.000Z",
+  "author": "Mike He, Ankush Desai, Sharad Malik, Aarti Gupta"
+}

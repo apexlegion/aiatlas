@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-17629v1",
+  "name": "Training-Free Acceleration of Multi-View 3D Transformers via Regime-Aware Attention Approximation",
+  "summary": "arXiv:2611.17629v1 Announce Type: cross Abstract: Multi-view 3D transformers such as VGGT reconstruct a scene from a set of unposed images in a single forward pass, predicting camera poses, depth a...",
+  "description": "arXiv:2611.17629v1 Announce Type: cross Abstract: Multi-view 3D transformers such as VGGT reconstruct a scene from a set of unposed images in a single forward pass, predicting camera poses, depth and 3D points, but the cost of their global attention grows quadratically with the num- ber of images. Accelerators borrowed from large language models assume that each token attends to only a few oth-...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.17629"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.17629"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-16",
+  "expiryAt": "2026-12-16T00:00:00.000Z",
+  "author": "Muhammed Izzet Sezer, Sevval Belkis Dikkaya"
+}

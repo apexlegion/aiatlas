@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2611-18504",
+  "name": "Agentic AI for Discovering Fault-Tolerant Quantum Circuits",
+  "summary": "Scaling quantum computing toward practical quantum advantage is currently limited by the efficiency of circuits that operate on information encoded by quantum error-correcting codes. The full stack...",
+  "description": "Scaling quantum computing toward practical quantum advantage is currently limited by the efficiency of circuits that operate on information encoded by quantum error-correcting codes. The full stack of quantum computing encompasses several tasks: preparation of logical code states, implementation of logical gates, logical routines on encoded qubits, etc. Yet, these circuits are largely designed by hand for individual cases, with some recent works incorporating machine learning for certain aspects. We formulate this problem as agentic evolutionary program synthesis, wherein a large language m...",
+  "tags": [
+    "arxiv",
+    "quant-ph"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.18504v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-13",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category quant-ph.",
+      "href": "https://arxiv.org/abs/2611.18504v1"
+    }
+  ],
+  "authors": [
+    "Aritra Lahiri",
+    "Florian Marquardt"
+  ],
+  "paperId": "2611.18504",
+  "category": "quant-ph",
+  "publishedAt": "2026-11-13",
+  "abstract": "Scaling quantum computing toward practical quantum advantage is currently limited by the efficiency of circuits that operate on information encoded by quantum error-correcting codes. The full stack of quantum computing encompasses several tasks: preparation of logical code states, implementation of logical gates, logical routines on encoded qubits, etc. Yet, these circuits are largely designed by hand for individual cases, with some recent works incorporating machine learning for certain aspects. We formulate this problem as agentic evolutionary program synthesis, wherein a large language m..."
+}

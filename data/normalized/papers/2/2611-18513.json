@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2611-18513",
+  "name": "MeReader: An Offline, Privacy-Preserving, Progress-Aware AI Assistant for Narrative eBook Reading",
+  "summary": "This paper introduces MeReader, a privacy-preserving, offline and progress-aware AI assistant designed to function as a contextual companion for narrative reading on consumer hardware. Unlike conve...",
+  "description": "This paper introduces MeReader, a privacy-preserving, offline and progress-aware AI assistant designed to function as a contextual companion for narrative reading on consumer hardware. Unlike conventional Large Language Model (LLM)-based systems that process documents/books online in an all-texts-at-once type of way, thereby risking narrative spoilers, MeReader confines both retrieval and generation to the reader's distinct position in the text. The system integrates a hybrid retrieval architecture, combining vector similarity, BM25, and summary embeddings, to ensure high fidelity to the re...",
+  "tags": [
+    "arxiv",
+    "cs.IR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.18513v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-13",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.IR.",
+      "href": "https://arxiv.org/abs/2611.18513v1"
+    }
+  ],
+  "authors": [
+    "Mohammed Efaz",
+    "Udo Bub",
+    "Itilekha Podder"
+  ],
+  "paperId": "2611.18513",
+  "category": "cs.IR",
+  "publishedAt": "2026-11-13",
+  "abstract": "This paper introduces MeReader, a privacy-preserving, offline and progress-aware AI assistant designed to function as a contextual companion for narrative reading on consumer hardware. Unlike conventional Large Language Model (LLM)-based systems that process documents/books online in an all-texts-at-once type of way, thereby risking narrative spoilers, MeReader confines both retrieval and generation to the reader's distinct position in the text. The system integrates a hybrid retrieval architecture, combining vector similarity, BM25, and summary embeddings, to ensure high fidelity to the re..."
+}
