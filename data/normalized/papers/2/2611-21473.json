@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2611-21473",
+  "name": "Network Intrusion Detection Adaptability under Spurious Labels: A Noise-Aware Few-Shot Class-Incremental Learning Framework",
+  "summary": "Network Intrusion Detection Systems (NIDSs) must incrementally adapt to emerging attacks, even when only a limited amount of labeled network traffic is available. Consequently, Few-Shot Class-Incre...",
+  "description": "Network Intrusion Detection Systems (NIDSs) must incrementally adapt to emerging attacks, even when only a limited amount of labeled network traffic is available. Consequently, Few-Shot Class-Incremental Learning (FSCIL)-based NIDSs have gained growing attention. However, existing FSCIL-based NIDSs are highly vulnerable to label noise in newly-observed attack classes. To address this limitation, we propose NAFN, a noise-aware FSCIL-based NIDS framework that reduces the impact of mislabeled data during incremental adaptation. NAFN consists of two components: (i) Noise Detection, which identi...",
+  "tags": [
+    "arxiv",
+    "cs.NI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.21473v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.NI.",
+      "href": "https://arxiv.org/abs/2611.21473v1"
+    }
+  ],
+  "authors": [
+    "Zijian Zhao",
+    "Davide Di Monda",
+    "Domenico Ciuonzo",
+    "Yipeng Wang",
+    "Antonio Pescapè"
+  ],
+  "paperId": "2611.21473",
+  "category": "cs.NI",
+  "publishedAt": "2026-11-16",
+  "abstract": "Network Intrusion Detection Systems (NIDSs) must incrementally adapt to emerging attacks, even when only a limited amount of labeled network traffic is available. Consequently, Few-Shot Class-Incremental Learning (FSCIL)-based NIDSs have gained growing attention. However, existing FSCIL-based NIDSs are highly vulnerable to label noise in newly-observed attack classes. To address this limitation, we propose NAFN, a noise-aware FSCIL-based NIDS framework that reduces the impact of mislabeled data during incremental adaptation. NAFN consists of two components: (i) Noise Detection, which identi..."
+}

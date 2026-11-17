@@ -1,0 +1,33 @@
+{
+  "type": "paper",
+  "slug": "2611-21548",
+  "name": "TRACE: Topological Representations for Anomaly detection through Contrastive Embeddings",
+  "summary": "Intrusion detectors must recognize evolving malicious behavior even when confirmed attack labels are scarce or incomplete. We present TRACE, a topology-aware graph contrastive learning framework fo...",
+  "description": "Intrusion detectors must recognize evolving malicious behavior even when confirmed attack labels are scarce or incomplete. We present TRACE, a topology-aware graph contrastive learning framework for label-efficient intrusion detection. TRACE learns from benign system-activity graphs by combining message-passing and topological representations, then assigns anomaly scores in the same projected embedding space optimized by the contrastive objective. This design captures both local interactions and graph-scale structural deviations without using attack labels during representation learning. A...",
+  "tags": [
+    "arxiv",
+    "cs.CR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.21548v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CR.",
+      "href": "https://arxiv.org/abs/2611.21548v1"
+    }
+  ],
+  "authors": [
+    "Sydney Johns"
+  ],
+  "paperId": "2611.21548",
+  "category": "cs.CR",
+  "publishedAt": "2026-11-16",
+  "abstract": "Intrusion detectors must recognize evolving malicious behavior even when confirmed attack labels are scarce or incomplete. We present TRACE, a topology-aware graph contrastive learning framework for label-efficient intrusion detection. TRACE learns from benign system-activity graphs by combining message-passing and topological representations, then assigns anomaly scores in the same projected embedding space optimized by the contrastive objective. This design captures both local interactions and graph-scale structural deviations without using attack labels during representation learning. A..."
+}

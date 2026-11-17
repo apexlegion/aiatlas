@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2611-21541",
+  "name": "SciResearch-Eval: Evaluating Scientific Judgment in Autonomous Experimental Agents",
+  "summary": "We introduce SciResearch-Eval, an interactive benchmark of scientific judgment built on a standard laboratory problem: measuring a material's thermal properties by heating it and fitting a heat-con...",
+  "description": "We introduce SciResearch-Eval, an interactive benchmark of scientific judgment built on a standard laboratory problem: measuring a material's thermal properties by heating it and fitting a heat-conduction simulator. An agent designs its own experiments, uses a supplied simulator that may be under-resolved or physically wrong, and reports each property with a 95% interval. To our knowledge it is the first benchmark to combine agent-designed experiments, a deliberately flawed simulator, and proper scoring of calibrated intervals against exact ground truth. On a held-out split (93 tasks, 9 mod...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.21541v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.21541v1"
+    }
+  ],
+  "authors": [
+    "Brian T. Weston",
+    "Alondra Torres Contreras",
+    "Aldair E. Gongora"
+  ],
+  "paperId": "2611.21541",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-16",
+  "abstract": "We introduce SciResearch-Eval, an interactive benchmark of scientific judgment built on a standard laboratory problem: measuring a material's thermal properties by heating it and fitting a heat-conduction simulator. An agent designs its own experiments, uses a supplied simulator that may be under-resolved or physically wrong, and reports each property with a 95% interval. To our knowledge it is the first benchmark to combine agent-designed experiments, a deliberately flawed simulator, and proper scoring of calibrated intervals against exact ground truth. On a held-out split (93 tasks, 9 mod..."
+}

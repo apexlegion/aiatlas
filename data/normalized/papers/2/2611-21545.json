@@ -1,0 +1,33 @@
+{
+  "type": "paper",
+  "slug": "2611-21545",
+  "name": "Right Reason, Wrong Advice: Evaluating Recourse in LLM Explanations of Denied Requests",
+  "summary": "Language models increasingly write the explanations people receive when a rule system denies their request. If several rules deny the request independently, an explanation can name a true reason an...",
+  "description": "Language models increasingly write the explanations people receive when a rule system denies their request. If several rules deny the request independently, an explanation can name a true reason and still leave the person denied after they fix it. We call the missing property recourse validity: changing what the explanation cites, without changing what was asked for, can flip the decision. We compute it exactly, and a hitting-set argument predicts from the policy alone when a correct reason fails. In six of seven rule systems ported from access control and US benefit eligibility, a single c...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.21545v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.21545v1"
+    }
+  ],
+  "authors": [
+    "Arunkumar V"
+  ],
+  "paperId": "2611.21545",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-16",
+  "abstract": "Language models increasingly write the explanations people receive when a rule system denies their request. If several rules deny the request independently, an explanation can name a true reason and still leave the person denied after they fix it. We call the missing property recourse validity: changing what the explanation cites, without changing what was asked for, can flip the decision. We compute it exactly, and a hitting-set argument predicts from the policy alone when a correct reason fails. In six of seven rule systems ported from access control and US benefit eligibility, a single c..."
+}

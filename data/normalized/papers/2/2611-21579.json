@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2611-21579",
+  "name": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Exercises",
+  "summary": "Cyber-range and capture-the-flag scenario construction remains labor-intensive because authors must coordinate infrastructure, vulnerable services, attack paths, artifacts, and success conditions....",
+  "description": "Cyber-range and capture-the-flag scenario construction remains labor-intensive because authors must coordinate infrastructure, vulnerable services, attack paths, artifacts, and success conditions. LLMs can propose detailed exercises, but plausible descriptions do not guarantee deployable software or verifiable objectives. We present ScenarioForge, which turns high-level requirements into resource-grounded topologies, services, traffic, segmentation, and challenge chains, then instantiates and validates them in the Common Open Research Emulator (CORE). The ScenarioForge Execution Dataset con...",
+  "tags": [
+    "arxiv",
+    "cs.CR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.21579v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-16",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CR.",
+      "href": "https://arxiv.org/abs/2611.21579v1"
+    }
+  ],
+  "authors": [
+    "Jaime C. Acosta",
+    "Anantaa Kotal",
+    "Aritran Piplai"
+  ],
+  "paperId": "2611.21579",
+  "category": "cs.CR",
+  "publishedAt": "2026-11-16",
+  "abstract": "Cyber-range and capture-the-flag scenario construction remains labor-intensive because authors must coordinate infrastructure, vulnerable services, attack paths, artifacts, and success conditions. LLMs can propose detailed exercises, but plausible descriptions do not guarantee deployable software or verifiable objectives. We present ScenarioForge, which turns high-level requirements into resource-grounded topologies, services, traffic, segmentation, and challenge chains, then instantiates and validates them in the Common Open Research Emulator (CORE). The ScenarioForge Execution Dataset con..."
+}
