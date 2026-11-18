@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-22061v1",
+  "name": "FM-Mamba: An Efficient Native 2D Selective State Space Model with Stability-Aware Discretization",
+  "summary": "arXiv:2611.22061v1 Announce Type: cross Abstract: When applied to two-dimensional features such as images, Mamba-based methods either flatten the feature map into 1D sequences and fuse multiple sca...",
+  "description": "arXiv:2611.22061v1 Announce Type: cross Abstract: When applied to two-dimensional features such as images, Mamba-based methods either flatten the feature map into 1D sequences and fuse multiple scans, which breaks spatial adjacency and multiplies computation, or recurse directly on the 2D grid but rescale the recurrence with a fixed input-independent factor and aggregate only the predecessors o...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.22061"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-18",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.22061"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-18",
+  "expiryAt": "2026-12-18T00:00:00.000Z",
+  "author": "Shengyuan Hu, Yiyong Sun, Weihang Shan, Yongzhe Chang"
+}

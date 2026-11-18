@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.22301v1",
+  "fetchedAt": "2026-11-18T09:59:19.843Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.22301v1",
+    "title": "MCTS Is Counting the Wrong Thing: Learning Exploration Counts for LLM Reasoning",
+    "link": "https://arxiv.org/abs/2611.22301",
+    "description": "arXiv:2611.22301v1 Announce Type: new Abstract: Monte Carlo tree search (MCTS) has powered landmark successes in reinforcement learning, yet its gains in LLM reasoning can remain modest despite substantial search effort. We identify an overlooked bottleneck: what MCTS counts. Standard UCT assigns independent visit counts to textual branches, allowing different formulations of the same reasoning strategy to repeatedly receive exploration bonuses. Our theoretical analysis shows that this count fragmentation can impair exploration efficiency, as quantified by increased cumulative regret. To address this problem, we introduce Learned Pseudo-Count MCTS (LPC-MCTS), which changes only the exploration statistic in UCT. A lightweight Coin-Flipping Network head on the policy's hidden representations estimates representation coverage, enabling related branches to share exploration evidence. Across 5 mathematical-reasoning and 7 search benchmarks, LPC-MCTS consistently outperforms strong MCTS baselines. Holding each LPC-MCTS-trained policy fixed, replacing standard MCTS counts at inference improves average mean@16 accuracy across 5 mathematical benchmarks by 3.79 percentage points on Qwen2.5-7B and 2.71 points on Qwen3-4B. Applying LPC-MCTS during both training and inference yields gains of 4.96 and 4.37 points over standard MCTS, respectively. Together, our theory and experiments show that changing what MCTS counts can substantially improve its exploration efficiency and reasoning performance.",
+    "publishedAt": "2026-11-18",
+    "author": "Xuan Zhang, Zhijian Zhou, Zicheng Hu, Yan Feng, Hongyan Hao, Yuan Qi, Chao Qu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

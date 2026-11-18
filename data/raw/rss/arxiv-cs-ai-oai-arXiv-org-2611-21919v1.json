@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.21919v1",
+  "fetchedAt": "2026-11-18T09:59:19.843Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.21919v1",
+    "title": "ALOHA Lightning: Learning Fast and Precise Manipulation",
+    "link": "https://arxiv.org/abs/2611.21919",
+    "description": "arXiv:2611.21919v1 Announce Type: cross Abstract: Learning from human demonstrations has enabled robots to acquire a wide range of manipulation skills, but learned policies typically execute far slower than ordinary humans. This speed gap is mainly due to lack of an interface for collecting demonstration data at high speed, and the difficulty in training policies that can robustly execute high-speed motions. In this paper, we present ALOHA Lightning (Flash ALOHA), a system for learning fast and precise robotic manipulation. Our system uses kinesthetic teaching to intuitively collect near-human-speed demonstrations on a backdrivable bimanual platform, yielding natural and fast trajectories. We also present a learning pipeline that enables smooth high-speed execution through test-time action smoothing and aligns the visual data distribution between data collection and deployment with masking. Given 50 demonstrations for each task, ALOHA Lightning autonomously completes bimanual tasks such as ball tossing and catching, folding shorts, battery insertion, and bussing tables for over 80% success rates while close to human speed. Project website: https://flash-aloha.github.io/",
+    "publishedAt": "2026-11-18",
+    "author": "John Hua Yao. Qi Wu, Yihuai Gao, Chelsea Finn, Zipeng Fu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

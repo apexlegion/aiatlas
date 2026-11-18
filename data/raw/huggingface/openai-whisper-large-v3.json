@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-11-17T10:29:26.525Z",
+  "fetchedAt": "2026-11-18T09:59:18.353Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 3315495,
-    "likes": 6821,
+    "downloads": 3314125,
+    "likes": 6827,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -151,8 +151,8 @@
       "tokenizer_config": {
         "bos_token": "<|endoftext|>",
         "eos_token": "<|endoftext|>",
-        "pad_token": "<|endoftext|>",
-        "unk_token": "<|endoftext|>"
+        "unk_token": "<|endoftext|>",
+        "pad_token": "<|endoftext|>"
       }
     },
     "cardData": {
@@ -350,14 +350,12 @@
       "embedl/hfviewer",
       "emanforhelp/model-pulse",
       "Steveeeeeeen/smallest-s2s",
-      "phinam112/OmniVoice-Studio",
       "hf-audio/whisper-large-v3",
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "treble-technologies/ffasr",
       "msalhab96/open_universal_arabic_asr_leaderboard_all",
       "Yash030/claude-code-proxy",
-      "eustlb/asr-models-on-the-hub",
-      "hablaip/whisper-chileno-demo",
+      "Metric-AI/ArmBench-ASR",
       "artificialguybr/Video-Transcription-Smart-Summary",
       "artificialguybr/video-dubbing",
       "sanchit-gandhi/whisper-jax-spaces",
@@ -378,6 +376,7 @@
       "AudioLLMs/AudioBench-Leaderboard-Extend",
       "gabrielchua/hey-gemma",
       "Illia56/transcribe-video-via-whisper-v3",
+      "phinam112/OmniVoice-Studio",
       "ylacombe/create-your-own-TTS-dataset",
       "RyeAI/danish-asr-leaderboard",
       "navidved/open_persian_asr_leaderboard",
@@ -445,7 +444,8 @@
       "ysharma/gr-workflow-microduck-lab",
       "geraldadli/speech-emotion-recognition",
       "BuzzASR/buzzasr-persian",
-      "yuaning/ai-viral-shorts-studio"
+      "yuaning/ai-viral-shorts-studio",
+      "Maximofn/subtify"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {

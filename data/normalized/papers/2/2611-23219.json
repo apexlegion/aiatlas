@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2611-23219",
+  "name": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+  "summary": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates...",
+  "description": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a basic question: do these increasingly capable models still need us to specify how they should self-improve? In this paper we study an autonomous paradigm in which, given basic primitives, resources, and a general goal for self-improvement, agents construct their own self-learning algorithm for context-based optimization. Using the setting of gameplay as a testbed, a frozen LLM agent is given a c...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.23219v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-17",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2611.23219v1"
+    }
+  ],
+  "authors": [
+    "Shobhita Sundaram",
+    "Cansu Sancaktar",
+    "Phillip Isola"
+  ],
+  "paperId": "2611.23219",
+  "category": "cs.LG",
+  "publishedAt": "2026-11-17",
+  "abstract": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a basic question: do these increasingly capable models still need us to specify how they should self-improve? In this paper we study an autonomous paradigm in which, given basic primitives, resources, and a general goal for self-improvement, agents construct their own self-learning algorithm for context-based optimization. Using the setting of gameplay as a testbed, a frozen LLM agent is given a c..."
+}

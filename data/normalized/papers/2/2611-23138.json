@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2611-23138",
+  "name": "RSI-Prime: Training Models to Train Models",
+  "summary": "Enabling large language models (LLMs) to autonomously conduct training and improve target models is an important foundation for recursive self-improvement (RSI). As LLMs expand their role from bein...",
+  "description": "Enabling large language models (LLMs) to autonomously conduct training and improve target models is an important foundation for recursive self-improvement (RSI). As LLMs expand their role from being trained to conducting training, their model-training capability warrants dedicated study and systematic development. To this end, we construct RSI-Prime, a dataset for improving model-training capability, comprising 350 complete experimental trajectories across seven task categories. To help LLMs learn to make high-quality experimental decisions from training practice, we perform fine-grained de...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.23138v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-17",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.23138v1"
+    }
+  ],
+  "authors": [
+    "Dewu Zheng",
+    "Yang Ye",
+    "Hongyu Zhang",
+    "Jun Yu",
+    "Yanlin Wang"
+  ],
+  "paperId": "2611.23138",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-17",
+  "abstract": "Enabling large language models (LLMs) to autonomously conduct training and improve target models is an important foundation for recursive self-improvement (RSI). As LLMs expand their role from being trained to conducting training, their model-training capability warrants dedicated study and systematic development. To this end, we construct RSI-Prime, a dataset for improving model-training capability, comprising 350 complete experimental trajectories across seven task categories. To help LLMs learn to make high-quality experimental decisions from training practice, we perform fine-grained de..."
+}

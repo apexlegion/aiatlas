@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-11-17T10:29:26.276Z",
+  "fetchedAt": "2026-11-18T09:59:18.101Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,8 +25,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4795926,
-    "likes": 8481,
+    "downloads": 4794303,
+    "likes": 8486,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -221,23 +221,23 @@
     ],
     "spaces": [
       "RioShiina/ImageGen",
-      "fastgpu/vram-and-gpu-cost-calculator",
       "frogleo/Image-to-3D",
-      "Nymbo/Serverless-ImgGen-Hub",
+      "fastgpu/vram-and-gpu-cost-calculator",
       "embedl/hfviewer",
-      "emanforhelp/model-pulse",
       "VAST-AI/TripoSG",
-      "jasperai/LBM_relighting",
       "tencent/Hunyuan3D-2mv",
       "hugging-apps/qwen-video-edit",
-      "InstantX/InstantID",
+      "emanforhelp/model-pulse",
+      "jasperai/LBM_relighting",
+      "Nymbo/Serverless-ImgGen-Hub",
       "tencent/Hunyuan3D-2mini-Turbo",
-      "Or1290/LP12",
+      "kandinskylab/Kandinsky-6.0-Pro-distill-5s",
+      "nazdridoy/inferoxy-hub",
       "davidzhao66/Free-AI-Art-Gen",
+      "franckgastel/Hunyuan3D-2mv",
       "asnamarrium/automated-video-seo",
-      "Dekonstruktio/Fluxus",
-      "davidquicast/generador-imagenes-2",
       "Chris007696907/flux-abliterated-demo",
+      "InstantX/InstantID",
       "yisol/IDM-VTON",
       "yanze/PuLID-FLUX",
       "lllyasviel/Omost",
@@ -329,6 +329,6 @@
       "total": 2567463684
     },
     "inference": "warm",
-    "usedStorage": 77369456618
+    "usedStorage": 77393930374
   }
 }

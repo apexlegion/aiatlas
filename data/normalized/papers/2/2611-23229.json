@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2611-23229",
+  "name": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+  "summary": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datase...",
+  "description": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrophic forgetting of the tails of the data distribution. To prevent this collapse, we introduce Ambient SFT, a principled framework for leveraging imperfect predictions to augment the fine-tuning set. In our method, a \"frozen\" version of the pre-trained model serves as a noisy teacher that the fine-...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.23229v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-17",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2611.23229v1"
+    }
+  ],
+  "authors": [
+    "Giannis Daras",
+    "Marios Papachristou",
+    "Adam Klivans",
+    "Antonio Torralba",
+    "Constantinos Daskalakis"
+  ],
+  "paperId": "2611.23229",
+  "category": "cs.LG",
+  "publishedAt": "2026-11-17",
+  "abstract": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets significantly smaller than those used for pre-training, which leads to overfitting and the catastrophic forgetting of the tails of the data distribution. To prevent this collapse, we introduce Ambient SFT, a principled framework for leveraging imperfect predictions to augment the fine-tuning set. In our method, a \"frozen\" version of the pre-trained model serves as a noisy teacher that the fine-..."
+}

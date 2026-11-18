@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2611-23091",
+  "name": "BugGen 2.0: Rethinking the Roles of LLMs for Scalable RTL Bug Synthesis",
+  "summary": "AI-assisted RTL localization and debugging need ground-truth bug datasets with known locations and observable failures, while testbench grading uses injected bugs to measure detection capability. C...",
+  "description": "AI-assisted RTL localization and debugging need ground-truth bug datasets with known locations and observable failures, while testbench grading uses injected bugs to measure detection capability. Creating such datasets at scale remains a major EDA challenge. BugGen 1.0 shows that Large Language Models (LLMs) can generate context-aware RTL mutations. Still, it relies on the model for both choosing where to mutate and generating the edit, which increases inference costs and can lead to invalid choices. BugGen 2.0 changes this division of labor. Deterministic algorithms handle structural analy...",
+  "tags": [
+    "arxiv",
+    "cs.SE"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.23091v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-17",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.SE.",
+      "href": "https://arxiv.org/abs/2611.23091v1"
+    }
+  ],
+  "authors": [
+    "Minh Luu",
+    "Michael Quinn",
+    "Aakash Tyagi",
+    "David Houngninou",
+    "Jiang Hu"
+  ],
+  "paperId": "2611.23091",
+  "category": "cs.SE",
+  "publishedAt": "2026-11-17",
+  "abstract": "AI-assisted RTL localization and debugging need ground-truth bug datasets with known locations and observable failures, while testbench grading uses injected bugs to measure detection capability. Creating such datasets at scale remains a major EDA challenge. BugGen 1.0 shows that Large Language Models (LLMs) can generate context-aware RTL mutations. Still, it relies on the model for both choosing where to mutate and generating the edit, which increases inference costs and can lead to invalid choices. BugGen 2.0 changes this division of labor. Deterministic algorithms handle structural analy..."
+}
