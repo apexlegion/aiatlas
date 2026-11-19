@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2611-24830",
+  "name": "A Foundation Model to Measure and Predict Human Behaviour",
+  "summary": "Large language models (LLMs) are increasingly used to infer psychological attributes, predict individual behaviour, and simulate human populations. However, despite generating plausible responses,...",
+  "description": "Large language models (LLMs) are increasingly used to infer psychological attributes, predict individual behaviour, and simulate human populations. However, despite generating plausible responses, they often misrepresent individuals and distort population statistics. Here we introduce Chiron, a foundation model to measure and predict human behaviour. We jointly fine-tune an LLM to represent psychological constructs, predict individual behaviour, and align population response distributions with human statistics. The training and evaluation data span 36 behavioural domains and 78 social scien...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.24830v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-18",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2611.24830v1"
+    }
+  ],
+  "authors": [
+    "Haoran Ye",
+    "Tianrui Huo",
+    "Hangzhen Li",
+    "Xin Zhang",
+    "Guojie Song"
+  ],
+  "paperId": "2611.24830",
+  "category": "cs.CL",
+  "publishedAt": "2026-11-18",
+  "abstract": "Large language models (LLMs) are increasingly used to infer psychological attributes, predict individual behaviour, and simulate human populations. However, despite generating plausible responses, they often misrepresent individuals and distort population statistics. Here we introduce Chiron, a foundation model to measure and predict human behaviour. We jointly fine-tune an LLM to represent psychological constructs, predict individual behaviour, and align population response distributions with human statistics. The training and evaluation data span 36 behavioural domains and 78 social scien..."
+}

@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2503.23326v4",
-  "fetchedAt": "2026-11-18T09:59:19.843Z",
+  "fetchedAt": "2026-11-19T10:07:44.693Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2503.23326v4",
     "title": "Exploring Explainable Multi-agent MCTS-minimax Hybrids in Board Game Using Process Mining",
     "link": "https://arxiv.org/abs/2503.23326",
     "description": "arXiv:2503.23326v4 Announce Type: replace Abstract: Monte-Carlo Tree Search (MCTS) is a family of sampling-based search algorithms widely used for online planning in sequential decision-making domains and at the heart of many recent advances in artificial intelligence. Understanding the behavior of MCTS agents is difficult for developers and users due to the frequently large and complex search trees that result from the simulation of many possible futures, their evaluations, and their relationships. This paper presents our ongoing investigation into potential explanations for the decision-making and behavior of MCTS. A weakness of MCTS is that it constructs a highly selective tree and, as a result, can miss crucial moves and fall into tactical traps. Full-width minimax search constitutes the solution. We integrate shallow minimax search into the rollout phase of multi-agent MCTS and use process mining technique to explain agents' strategies in 3v3 checkers.",
-    "publishedAt": "2026-11-18",
+    "publishedAt": "2026-11-19",
     "author": "Yiyu Qian, Tim Miller, Liyuan Zhao",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

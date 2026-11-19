@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.22323v1",
-  "fetchedAt": "2026-11-18T09:59:19.843Z",
+  "fetchedAt": "2026-11-19T10:07:44.693Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2611.22323v1",
     "title": "Agent Trajectories as Evidence for Software Quality Assurance",
     "link": "https://arxiv.org/abs/2611.22323",
     "description": "arXiv:2611.22323v1 Announce Type: cross Abstract: Autonomous software agents increasingly plan, implement, and test software with limited human oversight. Their decisions may introduce implicit assumptions that final code and passing tests do not adequately expose. We propose analyzing observable agent trajectories alongside software and agent specifications and AI generated artifacts as evidence for targeted quality assurance. The aim is to prioritize consequential decisions for scrutiny, investigate their possible contribution to software problems, and inform improvements to specifications and development practices. Industrial experience motivates the idea; available execution records and preliminary analysis methods make it plausible. However, trajectories alone do not establish that decisions are justified, outcomes acceptable, or corrective changes effective. We ask how this evidence can support review, diagnosis, and continuous quality improvement, and when simpler QA approaches suffice. Perspectives from requirements engineering, verification and validation, agent systems, causal inference, empirical software engineering, and human factors could help develop and evaluate the idea.",
-    "publishedAt": "2026-11-18",
+    "publishedAt": "2026-11-19",
     "author": "Jonathan Ullrich, Julien Siebert, Michael Kl\\\"as, Adam Trendowicz, Andreas Jedlitschka",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

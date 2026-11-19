@@ -1,0 +1,37 @@
+{
+  "type": "paper",
+  "slug": "2611-24782",
+  "name": "Learning Trajectories Leave Decodable Traces in Neural Network Weight Space and Internal Representations",
+  "summary": "Neural networks trained on the same task develop related weight-space structures, yet remain distinguishable after learning. Do these differences merely reflect alternative solutions, or do they pr...",
+  "description": "Neural networks trained on the same task develop related weight-space structures, yet remain distinguishable after learning. Do these differences merely reflect alternative solutions, or do they preserve information about individual learning histories? We tested whether final weights reveal initialization, task order, and earlier trajectory states. Training reorganized the ensemble: initial pairwise distances did not consistently predict final distances. Nevertheless, all 30 trained networks were correctly matched to their initial weights among ten candidates per dataset. Networks sharing a...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.24782v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-18",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2611.24782v1"
+    }
+  ],
+  "authors": [
+    "Patrick Krauss",
+    "Achim Schilling",
+    "Andreas Maier",
+    "Thomas Kinfe",
+    "Claus Metzner"
+  ],
+  "paperId": "2611.24782",
+  "category": "cs.LG",
+  "publishedAt": "2026-11-18",
+  "abstract": "Neural networks trained on the same task develop related weight-space structures, yet remain distinguishable after learning. Do these differences merely reflect alternative solutions, or do they preserve information about individual learning histories? We tested whether final weights reveal initialization, task order, and earlier trajectory states. Training reorganized the ensemble: initial pairwise distances did not consistently predict final distances. Nevertheless, all 30 trained networks were correctly matched to their initial weights among ten candidates per dataset. Networks sharing a..."
+}

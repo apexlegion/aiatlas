@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.21954v1",
-  "fetchedAt": "2026-11-18T09:59:19.843Z",
+  "fetchedAt": "2026-11-19T10:07:44.693Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2611.21954v1",
     "title": "ThermLeT: Transformer-based Temperature Prediction for 2.5D Chiplet Architecture",
     "link": "https://arxiv.org/abs/2611.21954",
     "description": "arXiv:2611.21954v1 Announce Type: cross Abstract: The drive toward heterogeneous 2.5D chiplet packages promises unmatched performance and customization, yet the resulting density amplifies thermal challenges. To facilitate rapid design space exploration, we present ThermLeT, a multimodal transformer-based, scale invariant surrogate that integrates power density maps, spatial coordinate embeddings, material properties and heat transfer rate to predict steady state temperature in 13 ms, about four orders of magnitude faster than conventional finite element solvers such as ANSYS. To train the transformer model, we also create a dataset of 6,221 chiplet layouts perturbed from three representative architectures. On a 150 sample test set, ThermLeT achieves an RMSE of 3.16{\\deg}C and an MAE of 2.24{\\deg}C, improving accuracy by 35% over ThermEDGe and by 71% over HotSpot, while running approximately 6x and 11x lower inference latencies respectively. Ablation studies confirm robust generalization to unseen floorplans. Code and dataset available at https://github.com/MicroSystemsDesignLab/ThermLeT",
-    "publishedAt": "2026-11-18",
+    "publishedAt": "2026-11-19",
     "author": "Varun Darshana Parekh, Anusha Devulapally, Sivani Devarapalli, Cassius Henderson, Shimeng Yu, Vijaykrishnan Narayanan",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

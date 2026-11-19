@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-21956v1",
+  "name": "Eight in Ten LLMs Leak System-Prompt Secrets: Nevan, an Agentic Capture-the-Flag Study",
+  "summary": "arXiv:2611.21956v1 Announce Type: cross Abstract: We audit instruction-hierarchy enforcement across 363 text-in/text-out models from the OpenRouter catalog. The research question we answer with thi...",
+  "description": "arXiv:2611.21956v1 Announce Type: cross Abstract: We audit instruction-hierarchy enforcement across 363 text-in/text-out models from the OpenRouter catalog. The research question we answer with this experiment is which models disclose a protected secret embedded in the system prompt, and through which techniques. Each model guards a secret 16-character flag set in its system prompt, while an ar...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.21956"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-19",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.21956"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-19",
+  "expiryAt": "2026-12-19T00:00:00.000Z",
+  "author": "Ana Clara Zoppi Serpa, Anderson Rocha, H\\'elio Pedrini"
+}

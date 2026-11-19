@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-11-18T09:59:18.101Z",
+  "fetchedAt": "2026-11-19T10:07:42.714Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,8 +25,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4794303,
-    "likes": 8486,
+    "downloads": 4767348,
+    "likes": 8487,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -220,23 +220,22 @@
       }
     ],
     "spaces": [
-      "RioShiina/ImageGen",
       "frogleo/Image-to-3D",
       "fastgpu/vram-and-gpu-cost-calculator",
-      "embedl/hfviewer",
+      "RioShiina/ImageGen",
       "VAST-AI/TripoSG",
       "tencent/Hunyuan3D-2mv",
-      "hugging-apps/qwen-video-edit",
+      "embedl/hfviewer",
       "emanforhelp/model-pulse",
-      "jasperai/LBM_relighting",
-      "Nymbo/Serverless-ImgGen-Hub",
       "tencent/Hunyuan3D-2mini-Turbo",
       "kandinskylab/Kandinsky-6.0-Pro-distill-5s",
       "nazdridoy/inferoxy-hub",
       "davidzhao66/Free-AI-Art-Gen",
       "franckgastel/Hunyuan3D-2mv",
       "asnamarrium/automated-video-seo",
+      "Dhshshd/Ninqggoai",
       "Chris007696907/flux-abliterated-demo",
+      "hugging-apps/qwen-video-edit",
       "InstantX/InstantID",
       "yisol/IDM-VTON",
       "yanze/PuLID-FLUX",
@@ -250,9 +249,11 @@
       "okaris/omni-zero",
       "Shopify/background-replacement",
       "InstantX/InstantStyle",
+      "jasperai/LBM_relighting",
       "radames/Enhance-This-HiDiffusion-SDXL",
       "multimodalart/lora-ease",
       "hysts/SDXL",
+      "Nymbo/Serverless-ImgGen-Hub",
       "fffiloni/InstantIR",
       "jallenjia/Change-Clothes-AI",
       "Nymbo/Virtual-Try-On",
@@ -318,8 +319,7 @@
       "tight-inversion/tight-inversion",
       "clinteroni/outpainting-with-differential-diffusion-demo",
       "briaai/BRIA-Eraser-API",
-      "jeasinema/UltraEdit-SD3",
-      "tight-inversion/tight-inversion-pulid-demo"
+      "jeasinema/UltraEdit-SD3"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {
@@ -328,7 +328,6 @@
       },
       "total": 2567463684
     },
-    "inference": "warm",
-    "usedStorage": 77393930374
+    "usedStorage": 77369456618
   }
 }

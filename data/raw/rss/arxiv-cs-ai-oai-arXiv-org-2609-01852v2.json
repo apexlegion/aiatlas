@@ -1,13 +1,13 @@
 {
   "source": "rss",
   "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.01852v2",
-  "fetchedAt": "2026-11-18T09:59:19.843Z",
+  "fetchedAt": "2026-11-19T10:07:44.693Z",
   "data": {
     "guid": "arxiv-cs-ai:oai:arXiv.org:2609.01852v2",
     "title": "The Memory Trust Gap: Reliance on Stale Evidence Across Model Scales in LLM Agents",
     "link": "https://arxiv.org/abs/2609.01852",
     "description": "arXiv:2609.01852v2 Announce Type: replace Abstract: Persistent-memory agents can follow stale information despite current authoritative evidence. We study stale-evidence reliance across Qwen3 0.6/1.7/4/8B checkpoints using two controlled, action-scored suites: a Benefit suite requiring stored information and a Safety suite providing current evidence as static prompt text. We distinguish stale-value reliance from net accuracy loss relative to no memory. Benefit-suite reliance is 0.92-1.00 across checkpoints. In the Safety suite, larger checkpoints resist a plain stale note but incur substantial harm when it appears newer. A full $2\\times2\\times2\\times2$ factorial manipulates label, recency, source authority, and position. Direct cross-size contrasts identify stronger recency effects in the larger tested checkpoints and a position-effect sign reversal within Qwen3. Metadata improves accuracy at all four checkpoints, with larger gains at 4B/8B; pre-resolution yields near-ceiling accuracy across all four. Llama-Instruct comparisons provide cross-family evidence for selected effects, while RGB and MisBench corroborate stale-value reliance. A framing control shows that the failure extends beyond memory-labeled content. These results characterize cue-dependent vulnerability across tested checkpoints without isolating capability or evaluating a complete memory lifecycle.",
-    "publishedAt": "2026-11-18",
+    "publishedAt": "2026-11-19",
     "author": "Jundong Hu, Shekar Ramachandran",
     "feedId": "arxiv-cs-ai",
     "source": "arXiv cs.AI"

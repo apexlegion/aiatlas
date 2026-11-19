@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2611-24778",
+  "name": "Counterfactual World Models: JEPAs That Reason About \"What If\"",
+  "summary": "World models operate in a world they cannot fully observe. When a hidden disturbance, such as a current pushing a boat, changes the outcome of an action, a counterfactual question follows: what wou...",
+  "description": "World models operate in a world they cannot fully observe. When a hidden disturbance, such as a current pushing a boat, changes the outcome of an action, a counterfactual question follows: what would have happened under a different action, subject to the same disturbance? Its answer separates bad decisions from bad luck. We prove that world models trained on factual transitions cannot answer it on their own, whatever their data or capacity. For many physical systems, the observed outcome and a simple property of the dynamics suffice: natura non facit saltus, nature makes no leaps. When acti...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.24778v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-18",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2611.24778v1"
+    }
+  ],
+  "authors": [
+    "Randall Balestriero",
+    "Yann LeCun",
+    "Kerda Varaku"
+  ],
+  "paperId": "2611.24778",
+  "category": "cs.LG",
+  "publishedAt": "2026-11-18",
+  "abstract": "World models operate in a world they cannot fully observe. When a hidden disturbance, such as a current pushing a boat, changes the outcome of an action, a counterfactual question follows: what would have happened under a different action, subject to the same disturbance? Its answer separates bad decisions from bad luck. We prove that world models trained on factual transitions cannot answer it on their own, whatever their data or capacity. For many physical systems, the observed outcome and a simple property of the dynamics suffice: natura non facit saltus, nature makes no leaps. When acti..."
+}

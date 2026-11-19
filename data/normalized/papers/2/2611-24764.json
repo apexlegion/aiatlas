@@ -1,0 +1,36 @@
+{
+  "type": "paper",
+  "slug": "2611-24764",
+  "name": "Horizontal Flow Matching for Single-Cell Spatiotemporal Dynamics",
+  "summary": "Learning the spatiotemporal dynamics of cells from spatial transcriptomics requires connecting snapshots of different cells acquired in different coordinate frames. A rotation or translation of a s...",
+  "description": "Learning the spatiotemporal dynamics of cells from spatial transcriptomics requires connecting snapshots of different cells acquired in different coordinate frames. A rotation or translation of a section can appear as cell movement and distort the inferred correspondence. We introduce horizontal flow matching, which learns changes in tissue organization, molecular state, and cell abundance up to shared rigid motion. The dynamics follow a continuity--reaction equation whose action assigns no cost to shared rigid motion, and the resulting horizontal projector removes this component from spati...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.24764v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-18",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2611.24764v1"
+    }
+  ],
+  "authors": [
+    "Zihan Wang",
+    "Jianzhe Li",
+    "Zhenyi Zhang",
+    "Peijie Zhou"
+  ],
+  "paperId": "2611.24764",
+  "category": "cs.LG",
+  "publishedAt": "2026-11-18",
+  "abstract": "Learning the spatiotemporal dynamics of cells from spatial transcriptomics requires connecting snapshots of different cells acquired in different coordinate frames. A rotation or translation of a section can appear as cell movement and distort the inferred correspondence. We introduce horizontal flow matching, which learns changes in tissue organization, molecular state, and cell abundance up to shared rigid motion. The dynamics follow a continuity--reaction equation whose action assigns no cost to shared rigid motion, and the resulting horizontal projector removes this component from spati..."
+}
