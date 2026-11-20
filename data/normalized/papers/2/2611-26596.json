@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2611-26596",
+  "name": "PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation",
+  "summary": "Robotic vision-language-action (VLA) models can execute diverse individual manipulation skills, yet they still struggle with long-horizon loco-manipulation tasks, where temporal structure, skills,...",
+  "description": "Robotic vision-language-action (VLA) models can execute diverse individual manipulation skills, yet they still struggle with long-horizon loco-manipulation tasks, where temporal structure, skills, and precision are tightly coupled within a monolithic model. We propose Physically Grounded Execution (PGX), a framework that offloads temporal and precision control to two classical training-free components, allowing the VLA to focus on stage-specific skill dynamics. PGX decomposes long-horizon loco-manipulation into three layers: (i) a predicate-based state machine governs task progression, usin...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.26596v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-19",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2611.26596v1"
+    }
+  ],
+  "authors": [
+    "Kai Lu",
+    "Chenyang Ma",
+    "Ioannis Havoutis"
+  ],
+  "paperId": "2611.26596",
+  "category": "cs.RO",
+  "publishedAt": "2026-11-19",
+  "abstract": "Robotic vision-language-action (VLA) models can execute diverse individual manipulation skills, yet they still struggle with long-horizon loco-manipulation tasks, where temporal structure, skills, and precision are tightly coupled within a monolithic model. We propose Physically Grounded Execution (PGX), a framework that offloads temporal and precision control to two classical training-free components, allowing the VLA to focus on stage-specific skill dynamics. PGX decomposes long-horizon loco-manipulation into three layers: (i) a predicate-based state machine governs task progression, usin..."
+}

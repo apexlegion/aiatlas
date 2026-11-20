@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.23323v1",
+  "fetchedAt": "2026-11-20T09:54:37.347Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.23323v1",
+    "title": "HydroMind: A Checkable Agent for Autonomous Hydrological Research",
+    "link": "https://arxiv.org/abs/2611.23323",
+    "description": "arXiv:2611.23323v1 Announce Type: cross Abstract: General-purpose coding agents have written code for hydrological and Earth-system models. In these studies the researchers decided in advance how the model would be evaluated, for example the test period, the scoring function, and the standard the model had to meet. No study has tested what happens when the agent makes these decisions itself: how many of its claims are supported by its own data, code, and results, and whether readers can check them. Both may depend on the agent's harness, that is, the tools it can call and the written instructions it follows. We compared three harnesses: the agent's own harness; this harness plus the modeling tools of HydroMind, a hydrological modeling system we developed for general-purpose agents, which run every model through fixed commands and store its settings, trained model, and predictions; and both plus HydroMind's research procedure, under which the agent writes a research design before running any model and records every change to it. Under each harness, the same agent studied four open questions in hydrological model development and was given only the data. Under the three harnesses, the experiments submitted 23, 20, and 41 claims, each stating that one model or approach is better than, worse than, or similar to another. A claim does not hold if the difference recomputed from the experiment's own code and predictions disagrees with it, or if the code did not compare the two models or approaches the claim names. Under the three harnesses, 30%, 20%, and 5% of the claims did not hold. A statistical test, confidence interval, or decision rule that lets readers judge the stated difference was reported for 48%, 53%, and 83% of the claims. With the language model unchanged, changing only the harness reduced the share of claims that do not hold and increased the share that readers can check.",
+    "publishedAt": "2026-11-20",
+    "author": "Zheng Fang, Yiqun Sun, Simin Qu, Shijie Jiang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

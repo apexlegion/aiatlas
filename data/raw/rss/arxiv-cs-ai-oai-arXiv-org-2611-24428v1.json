@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.24428v1",
+  "fetchedAt": "2026-11-20T09:54:37.347Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.24428v1",
+    "title": "Keeping Shielded Data-Driven Controllers Safe Under System Evolution via Model Consistency",
+    "link": "https://arxiv.org/abs/2611.24428",
+    "description": "arXiv:2611.24428v1 Announce Type: cross Abstract: Cyber-physical systems (CPS) increasingly contain data-driven controllers, which raise safety concerns given their black-box nature. A common mitigation is to enforce system safety via a shield around the controller, which restricts the inputs based on assumptions about the physical system. However, these assumptions are usually fixed and may become invalid as the system evolves (during development or due to component degradation), possibly leading to unsafe behavior. We address this limitation in a model-driven approach that treats both the data-driven controller and safety shield as first-class models that are integrated into a virtual single underlying model (V-SUM) alongside system models. We describe system evolution as changes in the associated models, such that consistency checking yields a continuous assessment of safety guarantees. In case of inconsistencies, consistency-preservation rules automatically update the models and restore a valid safety shield. We evaluate our approach on a reach-avoid task for a unicycle system. The results show that consistency-driven evolution effectively maintains safety guarantees under system changes and provides a principled basis for evaluating and restoring performance.",
+    "publishedAt": "2026-11-20",
+    "author": "Roland Stolz, Vitus L\\\"untzel, Romain Pascual, Eric Sax, Matthias Althoff",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.27084v4",
+  "fetchedAt": "2026-11-20T09:54:37.347Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.27084v4",
+    "title": "SciFigQual-Bench: Scientific Figure Quality Assessment with Manuscript-Linked Context",
+    "link": "https://arxiv.org/abs/2607.27084",
+    "description": "arXiv:2607.27084v4 Announce Type: replace-cross Abstract: Scientific figure quality is bound to the manuscript: a crop can be visually clear and still contradict its caption or the paragraph that cites it. Most image quality assessment and chart-understanding methods target a detached visual surface or a question-answering score, rather than alignment among the figure, its caption, and the citing text. A single end-to-end prompt that sees the image and the text together still mixes what is visible with what the caption and the citing paragraph claim, so fluent wording can raise a visual score and missing text can be treated as low quality. To address this gap, we introduce SciFigQual-Bench, a manuscript-linked benchmark for published CS-conference figures that binds each figure to its caption and to index-resolved citing paragraphs, and scores visual clarity, layout, caption consistency, context consistency, and misleading risk, leaving a dimension unevaluated when its evidence is absent. SFQ-Agent reads the image and the text in separate calls and records modality-specific evidence. A cross-modal judge scores caption and citing-text alignment from those reports, and a deterministic runner keeps the visual scores, sets misleading risk by a fixed rule, and applies the written caps, so each dimension follows the rubric instead of a single end-to-end prompt. Experiments comparing this staged judge with single-pass and OCR-sidecar protocols find the closest point-estimate fit to mean human ratings under staged judging, while the gap between protocols remains small. Caption consistency remains the main gap, and agreement with the rater mean answers a different question from agreement among human raters. Project page: https://frankdengai.github.io/SciFigQual-Bench/",
+    "publishedAt": "2026-11-20",
+    "author": "Zihan Deng, Chuanzhi Xu, Huiqi Liang, Xiaozhen Zhong, Weidong Cai, Lequan Yu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

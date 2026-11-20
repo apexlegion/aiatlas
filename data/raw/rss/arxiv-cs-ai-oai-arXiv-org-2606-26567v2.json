@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.26567v2",
+  "fetchedAt": "2026-11-20T09:54:37.347Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.26567v2",
+    "title": "Multi-Modal Environment-Aware Beam Management for Massive MIMO: A Geometry-Driven Virtual Base Station Framework",
+    "link": "https://arxiv.org/abs/2606.26567",
+    "description": "arXiv:2606.26567v2 Announce Type: replace-cross Abstract: High-frequency massive multiple-input multiple-output (MIMO) systems promise ultra-high data rates. However, efficient beam management remains challenging due to the prohibitive beam training overhead and intricate coordination required in multi-user MIMO (MU-MIMO) scenarios. To address these bottlenecks, environment-aware communications have emerged as a promising paradigm, leveraging site-specific knowledge to circumvent exhaustive pilot-based beam training and streamline multi-user communications. In this paper, we propose a geometry-driven framework that utilizes multi-modal environmental data, specifically regional 3D light detection and ranging (LiDAR) point clouds and location information, to construct an offline virtual base station (VBS) database. By modeling dominant reflection paths via mirror symmetry across building facades reconstructed from the point clouds, the VBS database provides a compact and sparse description of the wireless propagation environment. Given a user location, the VBS representation supports online coarse channel reconstruction and the generation of a beamspace prior. To refine the coarse estimates, we design a VBS-assisted orthogonal-pilot (VOP)-based partial beam training scheme with limited online measurements. Finally, to coordinate beam selection under inter-user interference, we develop a hierarchical dual-agent dueling double deep Q-network for coordinated beam selection (DD3QN-CBS). Simulation results show that the proposed framework improves effective spectral efficiency over the evaluated stochastic, heuristic, and conventional learning-based baselines, while achieving competitive performance with fewer online beam measurements.",
+    "publishedAt": "2026-11-20",
+    "author": "Yijie Bian, Wei Guo, Jie Yang, Shenghui Song, Jun Zhang, Shi Jin, Khaled B. Letaief",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

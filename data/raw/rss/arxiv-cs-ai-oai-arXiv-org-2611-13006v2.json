@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.13006v2",
+  "fetchedAt": "2026-11-20T09:54:37.347Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.13006v2",
+    "title": "Measuring and Attributing Evidence Sensitivity in Medical Vision-Language Models via Symmetric Counterfactual Controls",
+    "link": "https://arxiv.org/abs/2611.13006",
+    "description": "arXiv:2611.13006v2 Announce Type: replace Abstract: Medical vision-language models (VLMs) asked closed clinical questions (\"Is there a polyp?\") can score well by relying on the question rather than the image, and current hallucination benchmarks cannot separate true visual discrimination from editing shortcuts or shifts in the answer threshold. We introduce a Counterfactual Evidence Framework that pairs each lesion erasure with a shape- and tool-matched control edit elsewhere in the image, adds same-site ring controls, restored and partial erasures, degraded views and natural negatives, tests on held-out inpainting tools, separates discrimination (the Evidence Sensitivity Gap, ESG, and AUROC) from the answer threshold, and checks the labels with blinded physician readers and hidden-state probes. Across 507 main-test cases (1,115 views), nine frontier VLMs claim 41.1% to 61.6% of erased lesions (ESG 0.269 to 0.470), whereas MedScope-4B, a Qwen3.5-4B agent trained on automatically built counterfactual trajectories, claims 9.6% (ESG 0.758; p &lt;= 0.001 in all 27 primary comparisons). Physician readers support automated erasure in colonoscopy, where frontier models still claim 45% of erased lesions against 1% for MedScope-4B, but call a finding present on 54.7% of pooled erased reads across all sources, which bounds what unverified erasure can certify. Across 12 pre-registered training or system arms and 270 decision policies screened under a rule fixed in advance, every apparent utility gain comes from shifting the threshold rather than improving held-out discrimination, and probes point to perception as the remaining limit. We also report a 0/48 pneumothorax failure on an external cohort; retraining with pneumothorax patients in every stage finds 53% of pneumothoraxes on new patients without changing the main-test results.",
+    "publishedAt": "2026-11-20",
+    "author": "Bhaskar Gurram",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

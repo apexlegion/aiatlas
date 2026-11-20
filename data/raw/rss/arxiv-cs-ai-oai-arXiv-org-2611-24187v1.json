@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.24187v1",
+  "fetchedAt": "2026-11-20T09:54:37.347Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.24187v1",
+    "title": "Worth Another Look:Constrained World-Model Planning for Visual Inspection",
+    "link": "https://arxiv.org/abs/2611.24187",
+    "description": "arXiv:2611.24187v1 Announce Type: cross Abstract: Visual inspection in field robotics and environmental monitoring must localize multiple targets under strict compute and sensing caps. Exhaustive sweeps waste calls on absent classes, while myopic and search-free policies stumble over heterogeneous tariff cliffs or discard viewport edits whose value emerges only after re-querying. We formulate inspection over frozen detectors as neuro-symbolic observation planning under partial observability, decoupling a compact recurrent world model (WM) from exact symbolic feasibility and tariff rules. Receding-horizon beam search with online replanning jointly schedules class queries, crops, enhancements, and termination (stop), paired with slack-aware shadow pricing and legal fallback at larger budgets. Across eight terrestrial, optical, and sonar benchmarks, multi-step lookahead outperforms static schedules and search-free offline RL under tight budgets -- gaining up to 28.4 AP percentage points over static priority on RUOD and 15.1 on ARIS -- while dynamic pricing lifts large-budget performance on all eight domains at 11 ms planning cost. Ultimately, pairing lightweight learned dynamics with exact symbolic constraints turns frozen detectors into adaptive, budget-aware inspection agents without retraining.",
+    "publishedAt": "2026-11-20",
+    "author": "Ziyue Kang, Zixi Qi, Yuchen Dai, Nana Lv, Xirong Cheng, Liang Liu, Ying Li, Haoyan Wei, Haiyang Yao",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

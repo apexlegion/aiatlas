@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.23862v1",
+  "fetchedAt": "2026-11-20T09:54:37.347Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.23862v1",
+    "title": "Grounding Radiology Reports in 3D Chest CT: Results of the ReXGrounding Challenge",
+    "link": "https://arxiv.org/abs/2611.23862",
+    "description": "arXiv:2611.23862v1 Announce Type: cross Abstract: Segmenting each reported finding in a radiology scan would allow findings to be measured and tracked over time and let AI systems generate reports that are verifiable, but so far AI models have performed poorly at this task. To advance this task, we organized the ReXGrounding Challenge at MICCAI 2026, the first challenge dedicated to it. Given a non-contrast chest CT scan and the set of findings from its report, participants trained models to produce the corresponding set of 3D segmentations. The challenge used 2,992 training and 200 validation scans from the ReXGroundingCT dataset, and evaluated methods on a held-out test set of 300 scans with 582 findings, exhaustively annotated by board-certified radiologists. In total, 48 teams from 15 countries made 760 submissions, and the best method reached a Dice of 0.375 and a hit rate of 0.77, matching agreement between two independent radiologist groups (Dice 0.32, hit rate 0.76, on a 50-scan subset). On the 100 scans of the pre-challenge benchmark, the winner reached a Dice of 0.390, against 0.285 for VoxTell, the best model before the challenge, which five of the six best teams fine-tuned. Non-focal findings remained far harder to segment than focal ones, instance F1 stayed below inter-reader agreement (0.34 vs. 0.47), and models sometimes segmented the right abnormality in the wrong location. Top methods thus match radiologist agreement in Dice, but non-focal findings, findings with multiple instances, and adherence to the anatomical location described in the text remain open problems.",
+    "publishedAt": "2026-11-20",
+    "author": "Mohammed Baharoon, Mahmoud Hussain Alabbad, Sung Eun Kim, Xiaoman Zhang, Lucas Bijnens, Zirong Chen, Jiayu Wang, Xi Ouyang, Mingyang Yu, Weiqiu Jin, Xiaodan Ye, Dijia Wu, Kwang-Hyun Uhm, Inhwa Son, Rachel van 't Hull, Tim Veenboer, Cees Snoek, Kevin Groot Lipman, Daesung Kim, Junha Im, Youngjun Jun, Sangwon Lee, Katelyn Morrison, Adam Perer, Mijin Yun, Ali Piracha, Reem Alwasiah, Talal Yahyan, Abdulrahman Alamoudi, Mashael Alshehri, Rayan Alsager, Hannah Hancock, Anna M. Hunkem\\\"oller, Peter Youssef, Mona A. Alhammad, Afnan Aljumayan, Brecht Van Berkel, Eric Bijnens, Saud Alhussain, Maarten Steyvers, Rolf Symons, Bryan Eelen, Ayed Alaklubi, Maha Buraykan Alshammari, Amirah Fahad Alshammeri, Tomas Gilvydis, Ibrahim AlTurki, Monerah Almohideb, Ali Alburkani, Shahad Alhomaiani, Fatima Jabali, Maximilian Rokuss, Moritz Langenberg, Yannick Kirchhoff, Benjamin Hamm, Klaus Maier-Hein, Ibrahim Ethem Hamamci, Sezgin Er, Michael Moritz, Hassan R. Alomaish, Luyang Luo, Pranav Rajpurkar",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

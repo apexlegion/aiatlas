@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-24145v1",
+  "name": "Inherited Adapter Experts for Replay-Free Domain-Incremental Learning",
+  "summary": "arXiv:2611.24145v1 Announce Type: cross Abstract: Replay-free domain-incremental learning trains a model on the same classes in successive domains without keeping earlier images. Per-domain learner...",
+  "description": "arXiv:2611.24145v1 Announce Type: cross Abstract: Replay-free domain-incremental learning trains a model on the same classes in successive domains without keeping earlier images. Per-domain learners freeze a pre-trained ViT and train an additional expert for each new domain: the small set of parameters and the classification head learned on that domain. Test images carry no domain label, so a r...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.24145"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-20",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.24145"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-20",
+  "expiryAt": "2026-12-20T00:00:00.000Z",
+  "author": "Gyutae Oh, Hyunmin Kong, Jitae Shin"
+}

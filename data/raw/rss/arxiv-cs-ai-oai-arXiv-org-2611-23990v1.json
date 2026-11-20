@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.23990v1",
+  "fetchedAt": "2026-11-20T09:54:37.347Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.23990v1",
+    "title": "SCAFFOLD: Toward Warrant-Preserving Evidence Transport for Reusable LLM-Agent Skills",
+    "link": "https://arxiv.org/abs/2611.23990",
+    "description": "arXiv:2611.23990v1 Announce Type: new Abstract: An agent skill that succeeded yesterday may be executable today without being justified for reuse today. Tests may cover only observable contract clauses, outcome oracles may be absent, evaluations may inherit the same erroneous specification, and permissions or dependencies may change between validation and invocation. We argue that the appropriate unit of prospective trust is a Warranted Reuse Claim (WRC): a defeasible, claim-specific authorization tied to a versioned skill, target context, evidence, assumptions, and identified defeaters. The paper sharpens this position through Warrant-Preserving Evidence Transport (WPET), a proposed discipline for deciding which historical evidence remains admissible after context change. It distinguishes evidence admissibility from truth of the supported safety or effectiveness claim; states a conditional preservation result and its limits; specifies three-valued applicability and asymmetric context-transfer judgments; and illustrates how provenance dependence and policy-invalidating changes alter authorization. We explicitly relate the proposal to assurance cases, contracts, and skill-library maintenance rather than claiming novelty for their ingredients. A falsifiable longitudinal evaluation would compare WRC-guided policies with strong version-aware baselines at matched coverage, utility, and review cost. This paper contributes a formalized problem statement, testable design obligations, and reporting protocol, not an implemented verifier, empirical superiority result, or proof of universal agent safety.",
+    "publishedAt": "2026-11-20",
+    "author": "Nami Cho, Shailja Gupta",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

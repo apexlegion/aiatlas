@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2611-26557",
+  "name": "MM-SystemOneBias: Evaluating Bias in Multimodal Jev-Style System One Decision Models",
+  "summary": "When multimodal decision models determine actions, moderation outcomes, or quality judgments, their reliability depends on preserving semantic decisions across presentation changes, ignoring irrele...",
+  "description": "When multimodal decision models determine actions, moderation outcomes, or quality judgments, their reliability depends on preserving semantic decisions across presentation changes, ignoring irrelevant additions, and distinguishing information consistent with task evidence from information that conflicts with it. Existing evaluations study decision-interface biases and multimodal model behavior in separate settings, leaving no common protocol to compare multimodal decision models with their backbones on practical tasks. We introduce \\textbf{MM-SystemOneBias}, which evaluates 13 models on 5,...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.26557v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-19",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.26557v1"
+    }
+  ],
+  "authors": [
+    "Jinzhe Li",
+    "Qi Wang",
+    "Dandan Guo",
+    "Li Liu",
+    "Yuan Wu",
+    "Yi Chang"
+  ],
+  "paperId": "2611.26557",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-19",
+  "abstract": "When multimodal decision models determine actions, moderation outcomes, or quality judgments, their reliability depends on preserving semantic decisions across presentation changes, ignoring irrelevant additions, and distinguishing information consistent with task evidence from information that conflicts with it. Existing evaluations study decision-interface biases and multimodal model behavior in separate settings, leaving no common protocol to compare multimodal decision models with their backbones on practical tasks. We introduce \\textbf{MM-SystemOneBias}, which evaluates 13 models on 5,..."
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.23258v1",
+  "fetchedAt": "2026-11-20T09:54:37.347Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.23258v1",
+    "title": "EnvAgent: Multi-Agent Approach to Building Science Environments in the Clouds",
+    "link": "https://arxiv.org/abs/2611.23258",
+    "description": "arXiv:2611.23258v1 Announce Type: cross Abstract: AI agents are transforming scientific computing and software workflows, but generating and executing code requires a correctly configured execution environment. Automating environment construction remains difficult because repositories encode heterogeneous, often incomplete requirements for operating systems, toolchains, dependencies, and build procedures. Existing workflows thus rely on developer-maintained Dockerfiles and setup scripts, making preparation labor-intensive, hard to scale, and potentially biasing evaluations. We present ENVAGENT, an agentic framework that synthesizes, builds, and verifies repository-level Docker environments. ENVAGENT combines deterministic utilities for Docker execution and state management with coordinated agents for repository analysis, planning, Dockerfile synthesis, and iterative failure diagnosis and repair. We also introduce ENVBENCH, a benchmark of 54 scientific artifacts and open-source repositories spanning seven languages from Chameleon Trovi and Multi-SWE-bench. For each repository, we curate a declarative rubric of required structure, configuration, and functionality, and a shared evaluator applies 2,108 weighted checks across generated environments. Across four matched language-model settings, ENVAGENT constructs 43.5 executable environments out of 54 on average, versus 23.5 for Codex and Claude Code, and scores 62.02 versus 24.19 on a composite of executability and rubric satisfaction. These results show that environment-specific agent orchestration substantially improves automated environment construction.",
+    "publishedAt": "2026-11-20",
+    "author": "Yiming Cheng, Chris Low, Binrui Huang, Mengshi Zhang, Zihao Chen, Kate Keahey, Paul Marshall, Kexin Pei",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

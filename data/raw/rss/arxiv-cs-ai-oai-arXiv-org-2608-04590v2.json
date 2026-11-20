@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.04590v2",
+  "fetchedAt": "2026-11-20T09:54:37.347Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.04590v2",
+    "title": "JUDOR: CTDE-Based Multi-Agent Reinforcement Learning for the Co-Optimization of Joint UAV Motion and Decentralized Opportunistic Routing in Delay-Tolerant Network",
+    "link": "https://arxiv.org/abs/2608.04590",
+    "description": "arXiv:2608.04590v2 Announce Type: replace Abstract: The growing deployment of delay-tolerant networks (DTNs) has made store-carry-forward (SCF) communication indispensable for operating under sparse intermittent connectivity. However, intermittent contact opportunities, finite node buffers, and limited message time-to-live (TTL) degrade message delivery performance and induce network congestion. Yet unmanned aerial vehicles (UAVs), with extended radio coverage and controllable trajectories, can bridge ground-node pairs that would otherwise suffer poor connectivity. Nevertheless, conventional routing schemes decouple UAV motion control from message replication, and consequently fail to leverage UAV mobility to proactively create future contact opportunities. This paper presents JUDOR (Joint-UAV-Decentralized-Opportunistic-Routing), a centralized training with decentralized execution (CTDE)-based multi-agent reinforcement learning framework optimized for joint discrete UAV heading control and decentralized opportunistic routing. Specifically, we model the tightly coupled UAV motion-routing co-optimization task as a factored partially observable Markov decision process with a shared team reward. JUDOR adopts decentralized actors for local-node execution and a centralized critic used exclusively in training, with optional multi-horizon congestion-hotspot auxiliary supervision. Through evaluation across four distinct traffic modes, JUDOR yields consistent performance gains over both classical and learning-based DTN baselines, including PRoPHET and MaxProp, whilst preserving contact-limited decentralized execution suitable for real-world DTN deployments.",
+    "publishedAt": "2026-11-20",
+    "author": "Xiao Wang, Shun-Ren Yang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

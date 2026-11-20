@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.15995v5",
+  "fetchedAt": "2026-11-20T09:54:37.347Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.15995v5",
+    "title": "What competing constraints reveal about representation learning",
+    "link": "https://arxiv.org/abs/2605.15995",
+    "description": "arXiv:2605.15995v5 Announce Type: replace-cross Abstract: Learning latent states from temporal, multimodal, and partially observed data requires decisions about what information representations should retain, discard, and organize. I argue that six complementary properties help clarify these decisions: predictive sufficiency, minimality, temporal coherence, observation compatibility, nuisance invariance, and structural constraints. Drawing on established approaches, I distinguish desired representation properties from the objectives used to encourage them and the diagnostics used to assess them, since neither a training objective nor an evaluation metric guarantees that a property has been achieved. Controlled synthetic experiments examine how training objectives influence predictive performance, nuisance decodability, and latent organization. The results reveal discrepancies between seemingly favorable diagnostics and the information retained in learned representations, as well as latent-coordinate ambiguities under equivalent predictive performance, illustrating how complementary evaluations can improve interpretation and guide design choices. Together, these analyses provide a basis for designing, comparing, and evaluating learned latent states.",
+    "publishedAt": "2026-11-20",
+    "author": "Gwenol\\'e Quellec",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

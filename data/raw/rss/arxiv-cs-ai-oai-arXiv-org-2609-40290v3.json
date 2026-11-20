@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.40290v3",
+  "fetchedAt": "2026-11-20T09:54:37.347Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.40290v3",
+    "title": "Orbits as Strong Models: Kolmogorov Structure Function under Symmetry",
+    "link": "https://arxiv.org/abs/2609.40290",
+    "description": "arXiv:2609.40290v3 Announce Type: replace-cross Abstract: Strong models in algorithmic statistics are essentially the cells of simple partitions of $\\{0,1\\}^n$. We study the partitions that come from symmetry, the orbit partitions of groups acting on strings, and the structure function $h^G_x$ they induce. A set is a cell of such a partition exactly when its setwise stabiliser acts transitively on it, so $h^G_x$ is Kolmogorov's structure function restricted to $G$-homogeneous sets. For the full symmetric group this recovers all models and exactly the strong ones. For $GL(n,2)$ the cells are the linearly homogeneous sets, $h^{GL}_x$ lies in a band between $C(x)-\\alpha$ and $n-\\alpha$ with both edges attained, and some stochastic normal strings have simple structure that is invisible to linear symmetry. Writing each permutation group as a Burnside-ring type with a placement, we show that any space of symmetry hypotheses small enough to search is small enough to miss simple structure. Finally we cast the search for orbit models as value estimation on subgroup lattices, with computable bounds, certified training targets and a lattice version of Monte Carlo tree search.",
+    "publishedAt": "2026-11-20",
+    "author": "Romie Banerjee",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2611-26590",
+  "name": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+  "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is...",
+  "description": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing. Its vision encoder and language decoder lenses map intermediate states to a shared semantic space defined by the decoder's output vocabulary to compa...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.26590v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-19",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.26590v1"
+    }
+  ],
+  "authors": [
+    "Jiahao Huang",
+    "Jun Wang"
+  ],
+  "paperId": "2611.26590",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-19",
+  "abstract": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing. Its vision encoder and language decoder lenses map intermediate states to a shared semantic space defined by the decoder's output vocabulary to compa..."
+}

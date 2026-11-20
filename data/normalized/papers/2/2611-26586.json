@@ -1,0 +1,43 @@
+{
+  "type": "paper",
+  "slug": "2611-26586",
+  "name": "ProtoDiffusion: Token-per-Layer Generative Modeling of Multi-Layer Images",
+  "summary": "Graphic designs are ordered compositions of RGBA layers whose separation enables selection, movement, and reuse. Existing layered models represent each layer with a full-canvas or region-sized spat...",
+  "description": "Graphic designs are ordered compositions of RGBA layers whose separation enables selection, movement, and reuse. Existing layered models represent each layer with a full-canvas or region-sized spatial latent grid, so representation size grows with the cumulative spatial extent of the layers. We present ProtoDiffusion, a latent-diffusion framework built on ProtoVAE, a multi-layer variational autoencoder that encodes a design into one shared spatial prototype and one candidate vector per layer. Each candidate conditions a shared decoder to reconstruct its corresponding RGBA layer. For $N$ lay...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.26586v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-19",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.26586v1"
+    }
+  ],
+  "authors": [
+    "Adrià Ciurana Lanau",
+    "Harleen Hanspal",
+    "Lusine Abrahamyan",
+    "Emilio Tylson Baixauli",
+    "Yu Cao",
+    "Danai Triantafyllidou",
+    "Stefano Zorzi",
+    "Gustavo Zanoni Felipe",
+    "Peter Griger",
+    "Stefan Sietzen",
+    "Petru-Daniel Tudosiu"
+  ],
+  "paperId": "2611.26586",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-19",
+  "abstract": "Graphic designs are ordered compositions of RGBA layers whose separation enables selection, movement, and reuse. Existing layered models represent each layer with a full-canvas or region-sized spatial latent grid, so representation size grows with the cumulative spatial extent of the layers. We present ProtoDiffusion, a latent-diffusion framework built on ProtoVAE, a multi-layer variational autoencoder that encodes a design into one shared spatial prototype and one candidate vector per layer. Each candidate conditions a shared decoder to reconstruct its corresponding RGBA layer. For $N$ lay..."
+}

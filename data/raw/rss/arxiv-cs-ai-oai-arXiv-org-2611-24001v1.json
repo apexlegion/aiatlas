@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.24001v1",
+  "fetchedAt": "2026-11-20T09:54:37.347Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.24001v1",
+    "title": "Rethinking Fixed-Horizon Latent Reasoning",
+    "link": "https://arxiv.org/abs/2611.24001",
+    "description": "arXiv:2611.24001v1 Announce Type: cross Abstract: Existing latent reasoners typically run for a preset latent horizon during inference. Intuitively, a longer horizon should provide more opportunity for reasoning. However, in this work, we find that extending latent Chain-of-Thought (CoT) to the full preset horizon may in fact degrade reasoning performance. We observe that latent CoT evolves through distinct functional stages, with earlier computation forming frontier reasoning states, while later computation mainly reorganizes existing candidates and can weaken gold candidate support. These findings motivate a rethink of fixed-horizon latent inference. To address this, we characterize the reasoning benefits of latent CoT by realized and remaining constructive progress. Empirically, we find that higher realized constructive progress corresponds to higher current reasoning accuracy, while more remaining progress corresponds to larger future gains from continued latent CoT. To this end, we introduce a lightweight method that estimates the remaining reasoning progress and adaptively adjusts the latent horizon during inference. Across representative latent CoT reasoners and multiple arithmetic benchmarks, our method improves reasoning accuracy by up to 7.2 percentage points while reducing latent computation by up to 29.0%, without retraining the LLM.",
+    "publishedAt": "2026-11-20",
+    "author": "Tianxiang Chen, Jingyuan Zhou, Weiming Yang, Kaidi Yang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2606-30852v3",
+  "name": "When Does Learning to Stop Help? Configuring Risk-Controlled Early Exit for Reasoning-Model Services",
+  "summary": "arXiv:2606.30852v3 Announce Type: replace Abstract: Early exit lowers the cost of serving a reasoning model by stopping its reasoning once a provisional answer looks final. An operator must choose...",
+  "description": "arXiv:2606.30852v3 Announce Type: replace Abstract: Early exit lowers the cost of serving a reasoning model by stopping its reasoning once a provisional answer looks final. An operator must choose between a learned stopping rule and one static token budget, and savings against full reasoning do not settle the choice. We present a procedure that decides on calibration data from the workload. It...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2606.30852"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-20",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2606.30852"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-20",
+  "expiryAt": "2026-12-20T00:00:00.000Z",
+  "author": "Zhe Dong (University of Maine at Presque Isle), Fang Qin (Stanford University), Manish Shah (Independent Researcher)"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "paper",
+  "slug": "2611-26531",
+  "name": "Cost-Aware Agentic Feature Optimization System for Fleet-Scale Ranking Models",
+  "summary": "Large Web platforms operate large fleets of ranking models, each selecting features from a shared pool of tens of thousands. We present an end-to-end agentic system that optimizes features across t...",
+  "description": "Large Web platforms operate large fleets of ranking models, each selecting features from a shared pool of tens of thousands. We present an end-to-end agentic system that optimizes features across the fleet under resource constraints shared across models and those set per model, such as feature pipeline cost and serving throughput (QPS), respectively. In this system, LLM agents propose hypotheses, and deterministic tools execute experiments and verify them. For each model, an LLM generates and shortlists cross features from a combinatorial candidate space, and all features are then ranked by...",
+  "tags": [
+    "arxiv",
+    "cs.IR"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.26531v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-19",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.IR.",
+      "href": "https://arxiv.org/abs/2611.26531v1"
+    }
+  ],
+  "authors": [
+    "Chang Yang",
+    "Yao Xuan",
+    "Wendan Yan",
+    "Nhat Le",
+    "Jiang Liu",
+    "Longhao Jin",
+    "Zhen Peggy Yao",
+    "Alireza Vahdatpour",
+    "Djordje Gligorijevic"
+  ],
+  "paperId": "2611.26531",
+  "category": "cs.IR",
+  "publishedAt": "2026-11-19",
+  "abstract": "Large Web platforms operate large fleets of ranking models, each selecting features from a shared pool of tens of thousands. We present an end-to-end agentic system that optimizes features across the fleet under resource constraints shared across models and those set per model, such as feature pipeline cost and serving throughput (QPS), respectively. In this system, LLM agents propose hypotheses, and deterministic tools execute experiments and verify them. For each model, an LLM generates and shortlists cross features from a combinatorial candidate space, and all features are then ranked by..."
+}

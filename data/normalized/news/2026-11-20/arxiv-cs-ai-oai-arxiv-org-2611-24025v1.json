@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-24025v1",
+  "name": "Intent Contracts: Taking Tools Away from Agents",
+  "summary": "arXiv:2611.24025v1 Announce Type: cross Abstract: Intent contracts are an authorization interface for tool-using LLM agents in which the planning model holds no tools. For each step it submits a sh...",
+  "description": "arXiv:2611.24025v1 Announce Type: cross Abstract: Intent contracts are an authorization interface for tool-using LLM agents in which the planning model holds no tools. For each step it submits a short logged contract: a goal, a verbatim quotation of the user, and scope fields. Code validates the contract, and a small trusted model checks it against the user's words and writes the tool call itse...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.24025"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-20",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.24025"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-20",
+  "expiryAt": "2026-12-20T00:00:00.000Z",
+  "author": "Ziyuan Wang, Genliang Zhu, Xiaobo Chen, Chu Wang"
+}

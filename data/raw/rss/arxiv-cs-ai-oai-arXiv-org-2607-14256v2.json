@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.14256v2",
+  "fetchedAt": "2026-11-20T09:54:37.347Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.14256v2",
+    "title": "Disagreement-Guided Agentic Data Curation for Multimodal Safety",
+    "link": "https://arxiv.org/abs/2607.14256",
+    "description": "arXiv:2607.14256v2 Announce Type: replace Abstract: Written safety policies in multimodal settings define categories whose visual boundaries span many contexts. We study disagreement as a signal for identifying useful synthetic boundary cases. Our pipeline generates policy-conditioned images, selects cases with target--rater or inter-rater disagreement, conditionally escalates unresolved cases, and retrieves the resulting rater-labeled examples as in-context demonstrations. On a failure-enriched multimodal safety benchmark, policy grounding reduces false negative rate (FNR) from 0.875 to 0.413 and raises F1 from 0.220 to 0.731; retrieval from 50 disagreement-selected examples further reduces FNR to 0.245, compared with 0.297 from a 350-example Regular pool. The selected memory also improves a different target-model family, with a smaller gain on a proprietary benchmark with a refined policy. In a blinded human study, experts disagree on 24% of disagreement-guided images and 17% of baseline-curated images. These findings support traceable, disagreement-guided curation for multimodal safety evaluation and example selection.",
+    "publishedAt": "2026-11-20",
+    "author": "Genglin Liu, Muye Zhang, Krishnamurthy Viswanathan, Nichole J. Hansen, Bla\\v{z} Bratani\\v{c}, Nathan L Clement, Shalini Ghosh, Ariel Fuxman",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

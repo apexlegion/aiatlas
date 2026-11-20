@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-24357v1",
+  "name": "Semantic Context Handoff with On-Demand Evidence for Long-Horizon Agents",
+  "summary": "arXiv:2611.24357v1 Announce Type: new Abstract: Traditional long-horizon LLM agents often hand off context through full-history prompting, retaining all previous action--observation interactions. A...",
+  "description": "arXiv:2611.24357v1 Announce Type: new Abstract: Traditional long-horizon LLM agents often hand off context through full-history prompting, retaining all previous action--observation interactions. As execution proceeds, this history keeps growing, increasing inference cost and potentially degrading accuracy. Existing methods control this growth by preserving compact conclusions while removing ea...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.24357"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-20",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.24357"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-20",
+  "expiryAt": "2026-12-20T00:00:00.000Z",
+  "author": "Guolong Zheng, Chen Hou, Xu Yang, Jianshan Zhang, Tao Huang"
+}

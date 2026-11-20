@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-24379v1",
+  "name": "MoE-Context: Show the Model Only What It Needs",
+  "summary": "arXiv:2611.24379v1 Announce Type: new Abstract: AI agents read their whole history at every step. People do not work like that: we keep what the moment needs and hold the rest as a rough note we ca...",
+  "description": "arXiv:2611.24379v1 Announce Type: new Abstract: AI agents read their whole history at every step. People do not work like that: we keep what the moment needs and hold the rest as a rough note we can recall. MoE-Context applies this to language models. The context is split into blocks. Before each step a fast yes or no pass decides which blocks the step needs; the rest stay as one-line notes tha...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.24379"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-20",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.24379"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-20",
+  "expiryAt": "2026-12-20T00:00:00.000Z",
+  "author": "Vedant Navale"
+}

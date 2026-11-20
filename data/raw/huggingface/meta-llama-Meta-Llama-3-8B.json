@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "meta-llama/Meta-Llama-3-8B",
-  "fetchedAt": "2026-11-19T10:07:42.274Z",
+  "fetchedAt": "2026-11-20T09:54:35.438Z",
   "data": {
     "_id": "661f97d48e7f3438386f755d",
     "id": "meta-llama/Meta-Llama-3-8B",
@@ -25,7 +25,7 @@
       "deploy:sagemaker",
       "region:us"
     ],
-    "downloads": 101522,
+    "downloads": 98730,
     "likes": 6807,
     "modelId": "meta-llama/Meta-Llama-3-8B",
     "author": "meta-llama",
@@ -144,7 +144,6 @@
       }
     ],
     "spaces": [
-      "fastgpu/vram-and-gpu-cost-calculator",
       "kazutab/mindmap-studio",
       "mlabonne/AutoMerger",
       "logikon/open_cot_leaderboard",
@@ -243,7 +242,8 @@
       "BadBoyz555/meta-llama-Meta-Llama-3-8B",
       "Airop/meta-llama-Meta-Llama-3-8B",
       "GTGenesis/meta-llama-Meta-Llama-3-8B",
-      "TestJarditips/meta-llama-Meta-Llama-3-8B"
+      "TestJarditips/meta-llama-Meta-Llama-3-8B",
+      "TestJarditips/meta-llama-Meta-Llama-3-8B-HK"
     ],
     "createdAt": "2024-04-17T09:35:16.000Z",
     "safetensors": {
