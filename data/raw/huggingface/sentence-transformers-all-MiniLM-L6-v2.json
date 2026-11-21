@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "sentence-transformers/all-MiniLM-L6-v2",
-  "fetchedAt": "2026-11-20T09:54:36.402Z",
+  "fetchedAt": "2026-11-21T09:31:58.341Z",
   "data": {
     "_id": "621ffdc136468d709f180294",
     "id": "sentence-transformers/all-MiniLM-L6-v2",
@@ -57,8 +57,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 167481431,
-    "likes": 6150,
+    "downloads": 166834847,
+    "likes": 6152,
     "modelId": "sentence-transformers/all-MiniLM-L6-v2",
     "author": "sentence-transformers",
     "sha": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
@@ -228,14 +228,15 @@
     "spaces": [
       "cfahlgren1/pixel-search",
       "embedl/hfviewer",
+      "MTEB-BR/leaderboard",
       "uv-scripts/run-on-jobs",
       "emanforhelp/model-pulse",
       "Varun2007/document-qa-system",
-      "MTEB-BR/leaderboard",
+      "Ma120/PhishGuard-Pro",
       "leopardyzzj/ai-signals-daily",
       "mishrarahulkr/career_conversation",
-      "huzaifauddin/sap-pm-assistant",
       "Sushil2k4/career_conversation",
+      "wahab5763/AIstudentAssistant",
       "Dhshshd/Ninqggoai",
       "JakoBob/Campus_Assistant_App",
       "cvachet/pdf-chatbot",
@@ -250,8 +251,8 @@
       "nickmuchi/article-text-summarizer",
       "SeaLLMs/SeaLLM-Chat",
       "coder-vansh/JARVIS",
-      "q-future/Co-Instruct",
       "Mr-TD/RAG-PDF-QnA-ChatBot",
+      "q-future/Co-Instruct",
       "onkar-waghmode/neural-humanizer",
       "hakari-bench/leaderboard",
       "FireRedTeam/FireRed-OpenStoryline",
@@ -324,8 +325,7 @@
       "captain-awesome/Docuverse-zephyr-beta",
       "JDWebProgrammer/chatbot",
       "Gololias/MetroCuadrado",
-      "KrishnaKumar23/documentQABot",
-      "ABBNikit/Nikit_PDF_Chatbot"
+      "KrishnaKumar23/documentQABot"
     ],
     "createdAt": "2022-03-02T23:29:05.000Z",
     "safetensors": {

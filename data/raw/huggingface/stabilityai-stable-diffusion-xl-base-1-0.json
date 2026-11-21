@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-11-20T09:54:35.906Z",
+  "fetchedAt": "2026-11-21T09:31:57.837Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,8 +25,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4786154,
-    "likes": 8489,
+    "downloads": 4808740,
+    "likes": 8491,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -220,21 +220,19 @@
       }
     ],
     "spaces": [
+      "RioShiina/ImageGen",
       "fastgpu/vram-and-gpu-cost-calculator",
       "frogleo/Image-to-3D",
-      "RioShiina/ImageGen",
-      "tencent/Hunyuan3D-2mv",
       "tencent/Hunyuan3D-2mini-Turbo",
       "embedl/hfviewer",
+      "hugging-apps/qwen-video-edit",
       "emanforhelp/model-pulse",
       "VAST-AI/TripoSG",
-      "hugging-apps/qwen-video-edit",
+      "tencent/Hunyuan3D-2mv",
       "kandinskylab/Kandinsky-6.0-Pro-distill-5s",
       "nazdridoy/inferoxy-hub",
-      "davidzhao66/Free-AI-Art-Gen",
       "franckgastel/Hunyuan3D-2mv",
       "Dhshshd/Ninqggoai",
-      "Chris007696907/flux-abliterated-demo",
       "InstantX/InstantID",
       "yisol/IDM-VTON",
       "yanze/PuLID-FLUX",
@@ -319,7 +317,9 @@
       "clinteroni/outpainting-with-differential-diffusion-demo",
       "briaai/BRIA-Eraser-API",
       "jeasinema/UltraEdit-SD3",
-      "tight-inversion/tight-inversion-pulid-demo"
+      "tight-inversion/tight-inversion-pulid-demo",
+      "fffiloni/StyleAligned_Transfer",
+      "wcy1122/MGM"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {
