@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.06751v2",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.06751v2",
+    "title": "Unifying matrix completion across domains with a synthetically pretrained foundation model",
+    "link": "https://arxiv.org/abs/2610.06751",
+    "description": "arXiv:2610.06751v2 Announce Type: replace-cross Abstract: Matrix completion underlies problems from tabular imputation to causal inference. While matrix completion provides a common setup for these domains, the best methods in each domain are still specialized and do not transfer well across domains. We introduce MatrixFormer, a pre-trained matrix-native transformer that predicts a full distribution for every missing entry in a single forward pass. MatrixFormer is trained entirely on synthetic low-rank and latent-factor matrices under diverse missingness patterns. Applied zero-shot with fixed network weights, MatrixFormer achieves competitive performance on causal inference panel-data tasks, tabular imputation, and recommendation systems matrix completion. These results position MatrixFormer as a general-purpose foundation model for matrix completion.",
+    "publishedAt": "2026-11-23",
+    "author": "Dwaipayan Saha, Jacob Feitelberg, Kyuseong Choi, Raaz Dwivedi, Anish Agarwal",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

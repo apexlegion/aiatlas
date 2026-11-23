@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2601.06222v2",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2601.06222v2",
+    "title": "Learning and Comparing Local Traces for Weakly Supervised Image Manipulation Localization",
+    "link": "https://arxiv.org/abs/2601.06222",
+    "description": "arXiv:2601.06222v2 Announce Type: replace-cross Abstract: Image manipulation localization identifies edited regions and provides spatial evidence for assessing image reliability, but fully supervised methods require costly pixel-level annotations. Weakly supervised methods reduce this cost using image-level labels, but classification can rely on a few salient cues without ensuring accurate or complete localization. This difficulty is pronounced when manipulation traces are weak and unevenly distributed and authentic and manipulated regions share similar appearance. We propose a CLIP-based framework that integrates Trace-Oriented Vision--Language Adaptation (TOVA) and Relation-Aware Trace Discrimination (RATD). TOVA adapts the visual encoder and uses global visual context to aggregate edge-weighted patch features into image-conditioned class prompts. The resulting class representations support image-level alignment and guide patch selection for Hierarchical Trace Contrastive Learning, providing local contrastive supervision across visual layers. RATD combines local context, spatial structure, and original-image details, then compares learned descriptors between appearance-matched regions. Bidirectional comparison messages are integrated with local features for dense localization. The two components share a visual encoder and are jointly trained using only image-level authenticity labels. Experiments on multiple public benchmarks demonstrate that our framework outperforms the evaluated weakly supervised baselines in image manipulation localization.",
+    "publishedAt": "2026-11-23",
+    "author": "Xinghao Wang, Changtao Miao, Dianmo Sheng, Tao Gong, Qi Chu, Nenghai Yu, Quanchen Zou, Deyue Zhang, Xiangzheng Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

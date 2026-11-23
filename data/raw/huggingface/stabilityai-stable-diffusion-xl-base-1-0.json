@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-11-22T09:37:50.510Z",
+  "fetchedAt": "2026-11-23T10:35:51.460Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,8 +25,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4793279,
-    "likes": 8496,
+    "downloads": 4791225,
+    "likes": 8501,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -227,16 +227,16 @@
       "tencent/Hunyuan3D-2mini-Turbo",
       "embedl/hfviewer",
       "hugging-apps/qwen-video-edit",
-      "VAST-AI/TripoSG",
-      "tencent/Hunyuan3D-2mv",
-      "VAST-AI/MV-Adapter-I2MV-SDXL",
       "kandinskylab/Kandinsky-6.0-Pro-distill-5s",
+      "yanze/PuLID-FLUX",
+      "VAST-AI/TripoSG",
+      "VAST-AI/MV-Adapter-I2MV-SDXL",
       "nazdridoy/inferoxy-hub",
       "franckgastel/Hunyuan3D-2mv",
+      "FlexTheTRex/dreamforge-ai-3d-world-sculptor",
       "Dhshshd/Ninqggoai",
       "InstantX/InstantID",
       "yisol/IDM-VTON",
-      "yanze/PuLID-FLUX",
       "lllyasviel/Omost",
       "radames/Real-Time-Latent-Consistency-Model",
       "radames/Real-Time-Text-to-Image-SDXL-Lightning",
@@ -254,6 +254,7 @@
       "Nymbo/Serverless-ImgGen-Hub",
       "fffiloni/InstantIR",
       "jallenjia/Change-Clothes-AI",
+      "tencent/Hunyuan3D-2mv",
       "Nymbo/Virtual-Try-On",
       "ByteDance/SDXL-Lightning",
       "radames/Enhance-This-DemoFusion-SDXL",
@@ -318,8 +319,7 @@
       "briaai/BRIA-Eraser-API",
       "jeasinema/UltraEdit-SD3",
       "tight-inversion/tight-inversion-pulid-demo",
-      "fffiloni/StyleAligned_Transfer",
-      "wcy1122/MGM"
+      "fffiloni/StyleAligned_Transfer"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {

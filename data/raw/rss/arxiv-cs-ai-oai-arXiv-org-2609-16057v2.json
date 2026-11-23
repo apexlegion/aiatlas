@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.16057v2",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.16057v2",
+    "title": "OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning",
+    "link": "https://arxiv.org/abs/2609.16057",
+    "description": "arXiv:2609.16057v2 Announce Type: replace-cross Abstract: Unified multimodal large language models and multi-agent systems have advanced visual generation. However, several limitations remain. (1) Experience acquisition is typically reactive, occurring only in response to downstream tasks. (2) Accumulated knowledge varies in relevance and reliability, making efficient and effective reuse challenging. To address these limitations, we introduce OmniHarness, a framework for generalizable visual generation via symbolic policy learning. Before downstream objectives are specified, self-directed inquiry autonomously generates and executes practice tasks, with selection guided by capability novelty and the current competence frontier. Verified workflows are abstracted into symbolic policies that encode experience for task families. Symbolic retrieval searches workflow metadata in stages rather than full parameterized workflows, using reliability tiers to prioritize reliable knowledge. Execution feedback updates these policies after each task, guiding subsequent retrieval and reuse while model parameters remain fixed. Experiments across six benchmarks demonstrate strong performance and generalizable visual generation capabilities. On ComfyBench's Creative tasks, OmniHarness achieves a 95.0% resolve rate, exceeding the strongest baseline by 27.5 percentage points.",
+    "publishedAt": "2026-11-23",
+    "author": "Xu Xu, Jinxiu Liu, Zhangbo Qiao, Cheng Song, Jiaxing Lu, Xiangyu Zhang, Yubin Gu, Fangwei Ning, Yan Shi",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

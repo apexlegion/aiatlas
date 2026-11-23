@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.16062v2",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.16062v2",
+    "title": "Auditing Reward Hackability in Code RL Training Environments",
+    "link": "https://arxiv.org/abs/2606.16062",
+    "description": "arXiv:2606.16062v2 Announce Type: replace Abstract: Code RL rewards a policy for passing a task's tests, so a test suite that accepts a wrong patch trains the wrong behavior. We measure how often open code RL environments accept wrong patches and how reliably hackable tasks can be detected and repaired, checking each claim by execution against the task's gold patch. First, 22.4% of 49 SWE-bench Verified tasks accept a Docker-verified patch that behaves differently from the gold patch, and 57.8% against a stronger attacker. The gold-patch check is necessary: an attacker not shown the gold patch returns it for 31% of its passing \"exploits\". Second, across 134 public SWE-bench submissions, models pass hackable tasks 28.6 pp more often than tasks of the same difficulty, mostly because those tasks are passable at all; pooled over three attacker runs, hackable tasks still exceed matched passable ones (p = 0.014). Third, repair is harder to verify than detection: 61.9% of LLM-written repair tests fail on the gold patch, and even behind a gate an LLM judge is wrong on 38% of the verdicts execution can check. Finally, of 873 training trajectories behind an open coding agent run beside the gold fix, 19.4% answer differently on a case the issue describes; an LLM review that can only demote these executed differences judges 6.9% to be wrong fixes the tests rewarded (6.4-10.5% across three model reviews), and 5.4% in a second public training set (R2E-Gym). Audits and repairs of code RL environments should be decided by execution wherever execution can decide.",
+    "publishedAt": "2026-11-23",
+    "author": "Shreshth Rajan",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2607.22139v2",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2607.22139v2",
+    "title": "A Multi-Center Dataset and Benchmark for SYNTAX Segmentation of Coronary Angiograms",
+    "link": "https://arxiv.org/abs/2607.22139",
+    "description": "arXiv:2607.22139v2 Announce Type: replace-cross Abstract: Dense pixel-level classification of coronary angiography is essential for automated cardiovascular diagnostics, yet the computer vision community lacks gold-standard protocols and robust datasets to tackle this topologically complex, heavily long-tailed domain. To bridge this gap, we introduce CARDIAG: a rigorous, multi-center benchmark dataset designed to evaluate deep learning architectures on fine-grained SYNTAX segment classification. Unlike prior efforts, CARDIAG systematically prevents patient- and center-level data leakage while providing an unprecedented suite of annotations: highly imbalanced multi-class labels, explicit catheter and stenosis masks, expert uncertainty maps, temporal sequence frames, and spatial metadata. Using CARDIAG, we conduct the most extensive architectural sweep in this domain, benchmarking 24 models spanning classic CNNs, Vision Transformers (ViTs), and State-Space Models (SSMs). Moving beyond naive overlap metrics, we evaluate topological preservation (clDice), vessel diameter error, and uncertainty error-detection. Our analysis reveals an insight: modern large-kernel CNNs (particularly ConvNeXt V2 with DeepLabV3+) still outperform recent ViTs and SSMs under a shared training recipe, establishing a Dice = 0.456. By ensembling complementary models, we push the baseline to Dice = 0.479. Through leave-one-center-out cross-validation and data efficiency analyses, we explore the current limits of out-of-distribution generalization. Ultimately, CARDIAG establishes a foundation for advancing medical computer vision for cardiology across many downstream tasks, including lesion detection, temporal frame interpolation, and 3D reconstruction.",
+    "publishedAt": "2026-11-23",
+    "author": "Dominik Bernard Lau, Jerzy Szyjut, Hubert Malinowski, Adam Brzeski, Tomasz Dziubich, Natalia Zieli\\'nska, Tomasz Figatowski, Rados{\\l}aw Targo\\'nski",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

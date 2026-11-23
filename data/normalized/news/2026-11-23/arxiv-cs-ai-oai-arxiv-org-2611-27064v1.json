@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-27064v1",
+  "name": "Dynamic Token Merging for Efficient Vision-Language Models",
+  "summary": "arXiv:2611.27064v1 Announce Type: new Abstract: Vision-language models (VLMs) represent each image with hundreds of visual tokens, which can make inference costly even when a prompt depends on only...",
+  "description": "arXiv:2611.27064v1 Announce Type: new Abstract: Vision-language models (VLMs) represent each image with hundreds of visual tokens, which can make inference costly even when a prompt depends on only part of the image. Dynamic Token Merging (DTM), introduced in MrT5 for byte-level text encoders, learns which tokens to remove: a lightweight delete gate scores contextualized hidden states, acts as...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.27064"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-23",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.27064"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-23",
+  "expiryAt": "2026-12-23T00:00:00.000Z",
+  "author": "Chris Gu, Marco Andono Sie, Nathan Zhou, Christopher Potts, Julie Kallini"
+}

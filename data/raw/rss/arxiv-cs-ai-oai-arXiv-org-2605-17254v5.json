@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.17254v5",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.17254v5",
+    "title": "CatalyticMLLM: A Graph-Text Multimodal Large Language Model for Catalytic Materials",
+    "link": "https://arxiv.org/abs/2605.17254",
+    "description": "arXiv:2605.17254v5 Announce Type: replace Abstract: Property prediction and inverse structural design of catalytic materials are typically modeled as two independent tasks: the former predicts target properties from given structures, whereas the latter generates candidate structures conditioned on desired properties. Although this decoupled paradigm facilitates the construction of a ``generation--evaluation--screening'' workflow, the two models may have different domains of applicability because they are trained on different data distributions. Consequently, during closed-loop optimization, the generative model may produce structures that fall outside the reliable applicability domain of the evaluation model, while prediction errors from the evaluator may accumulate over successive iterations, ultimately degrading inverse-design performance. In this work, we propose CatalyticMLLM, a unified graph--text multimodal large language model for catalytic materials that integrates \\textbf{property prediction} and \\textbf{inverse design} within a single model and a shared representation space. Under this unified framework, CatalyticMLLM not only performs reliable property prediction by jointly leveraging three-dimensional structures and textual information, but also generates and screens physically feasible CIF candidates conditioned on target properties, thereby establishing a closed-loop workflow of ``inverse design--prediction--screening--redesign.'' Experimental results demonstrate that the unified paradigm outperforms decoupled baselines in both catalytic relaxation-energy prediction and inverse-design tasks, validating the effectiveness of jointly modeling property prediction and structure generation within a single multimodal model.",
+    "publishedAt": "2026-11-23",
+    "author": "Yanjie Li, Jian Xu, Xu-Yao Zhang, Shiming Xiang, Nian Ran, Weijun Li, Cheng-Lin Liu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

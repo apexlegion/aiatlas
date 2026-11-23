@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.15011v2",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.15011v2",
+    "title": "Protecting Private Values in Tool-Using LLM Agents via Recoverable Context Projection",
+    "link": "https://arxiv.org/abs/2609.15011",
+    "description": "arXiv:2609.15011v2 Announce Type: replace Abstract: Memory-augmented and tool-using agents may expose exact private values when a remote LLM processes retrieved memory, tool actions, and observations. One-way masking limits initial exposure but removes values needed for trusted execution and may allow them to reappear in later observations. We propose Trustworthy Virtual Memory (TVM), a closed-loop runtime that exposes only projected context to the remote model, resolves exact values locally for trusted execution, and reprojects subsequent observations. We study whole-field and structure-preserving span-level projection, using a trusted local model to predict protected spans without access to the evaluation manifest. Experiments show that span-level projection preserves task-relevant structure, while recovery is necessary to turn protected reasoning into executable utility with low measured exposure.",
+    "publishedAt": "2026-11-23",
+    "author": "Yu Li, Qikun Cai, Tao Huang, Chen Hou",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

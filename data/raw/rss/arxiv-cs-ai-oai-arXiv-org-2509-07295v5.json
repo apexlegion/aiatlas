@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2509.07295v5",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2509.07295v5",
+    "title": "Reconstruction Alignment Improves Unified Multimodal Models",
+    "link": "https://arxiv.org/abs/2509.07295",
+    "description": "arXiv:2509.07295v5 Announce Type: replace-cross Abstract: We discover a simple but effective way for visual understanding to help visual generation in a unified model. Unified multimodal models (UMMs) unify visual understanding and generation within a single architecture. However, conventional training relies on image-text pairs (or sequences) whose captions are typically sparse and miss fine-grained visual details, even when they use hundreds of words to describe a simple image. We introduce Reconstruction Alignment (RecA), a resource-efficient post-training method that leverages visual understanding encoder embeddings as dense \"text prompts,\" providing rich supervision without captions. Concretely, RecA conditions a UMM on its own visual understanding embeddings and optimizes it to reconstruct the input image with a self-supervised reconstruction loss, thereby using visual understanding to improve image generation. Despite its simplicity, RecA is broadly applicable: across autoregressive, masked-autoregressive, and diffusion-based UMMs, it consistently improves generation and editing fidelity. With only 27 GPU hours, post-training with RecA substantially improves image generation performance on GenEval (0.73 $\\rightarrow$ 0.90) and DPGBench (80.93 $\\rightarrow$ 88.15), while also boosting editing benchmarks (ImgEdit 3.38 $\\rightarrow$ 3.75, GEdit 6.94 $\\rightarrow$ 7.27). Notably, RecA surpasses much larger open-source models and applies broadly across diverse UMM architectures, establishing it as an efficient and general post-training alignment strategy for UMMs.",
+    "publishedAt": "2026-11-23",
+    "author": "Ji Xie, Trevor Darrell, Luke Zettlemoyer, XuDong Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

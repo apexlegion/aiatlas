@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-23353v2",
+  "name": "Idempotency Is Not Recovery: A Fault-Injection Study of Language-Model Agent Tool Actions",
+  "summary": "arXiv:2611.23353v2 Announce Type: replace-cross Abstract: When a language-model agent's tool call is interrupted, the action may already have changed an external system without confirmation. Retryi...",
+  "description": "arXiv:2611.23353v2 Announce Type: replace-cross Abstract: When a language-model agent's tool call is interrupted, the action may already have changed an external system without confirmation. Retrying risks duplication; assuming success may conceal an action that never occurred. We study these failure modes in a controlled agent runtime combining authorization, an action ledger, target-side idem...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.23353"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-23",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.23353"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-23",
+  "expiryAt": "2026-12-23T00:00:00.000Z",
+  "author": "Song Xu"
+}

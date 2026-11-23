@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2606.13723v3",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2606.13723v3",
+    "title": "Morphology-Aware Sample Assignment: Overcoming IoU Insensitivity for Surface Defect Detection",
+    "link": "https://arxiv.org/abs/2606.13723",
+    "description": "arXiv:2606.13723v3 Announce Type: replace-cross Abstract: Intersection-over-Union (IoU), as a pivotal metric for evaluating the spatial alignment between candidate proposals and ground-truth annotations, directly determines the quality of positive sample sets and the training efficacy of visual detection models. Through theoretical modeling and analysis, we uncover a non-sensitive region on the IoU response curve, within which samples yield nearly identical IoU scores despite distinct geometric overlaps. To overcome this limitation, we introduce a set of morphological similarity metrics covering area, shape, and aspect ratio, to refine the positive sample assignment process, thereby ensuring more discriminative and reliable matching. A supplementary matching score is derived via mean-based aggregation of these multidimensional similarities, compensating for the intrinsic limitation of IoU in representing structural correspondence. Theoretically, incorporating morphological similarity reshapes the response distribution of the matching function, yielding both effective directional gradients and polygon-like iso-response contours, which tightly confine high-response regions around each ground-truth instance and substantially enhance the precision of positive sample selection. Experiments based on the YOLOv9 framework demonstrate consistent performance gains on both NEUDET and GC10- DET datasets. Notably, the proposed approach is fully plug-and-play and incurs zero additional inference overhead, thereby ensuring deployment efficiency for industrial visual inspection.",
+    "publishedAt": "2026-11-23",
+    "author": "Pengfei Liu, Yuanbo Wang, Deng Zhang, Changguang Song, Biwei Wu, Fang Li, Weibo Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

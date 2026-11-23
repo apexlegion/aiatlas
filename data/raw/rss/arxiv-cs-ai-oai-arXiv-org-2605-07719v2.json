@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.07719v2",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.07719v2",
+    "title": "Mosaic: Efficient CPU-GPU Coordinated Block-Sparse Attention",
+    "link": "https://arxiv.org/abs/2605.07719",
+    "description": "arXiv:2605.07719v2 Announce Type: replace-cross Abstract: Long-context LLM serving increasingly relies on CPU-resident context KV cache, driven by KV offloading and disaggregated prefill--decode execution. Although block-sparse attention reduces KV access, existing designs remain inefficient: GPU-centralized execution fetches selected KV blocks from CPU memory at each decoding step, making it PCIe-bound, while CPU--GPU partitioned execution places CPU-side sparse attention on the critical path, leaving substantial GPU time idle. This paper presents Mosaic, a CPU--GPU coordinated block-sparse attention system for efficient long-context decoding with CPU-resident context KV. Mosaic builds on three key insights: output-contribution-aware KV budgeting, head-specific and granularity-aware sparse configuration, and cross-device coordinated scheduling for sparse tasks over CPU-resident KV. Guided by these insights, Mosaic integrates a lightweight head-property predictor, a granularity--budget selector, and a priority-based scheduler to automatically configure and coordinate sparse attention, preserving output quality while improving efficiency on heterogeneous architectures. Across 2 models, 3 benchmarks, and 40 tasks, Mosaic preserves near-FULL quality while achieving a better overall quality--efficiency tradeoff than the evaluated baselines. Compared with the best-quality fixed Quest configuration, Mosaic improves TPOT by up to 3.7$\\times$. We further validate Mosaic across four hardware configurations and in a large-model multi-GPU deployment.",
+    "publishedAt": "2026-11-23",
+    "author": "Feiyu Yao, Zhixiong Niu, Xiaqing Li, Yongqiang Xiong, Juan Fang, Qian Wang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

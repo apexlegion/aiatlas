@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.10854v3",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.10854v3",
+    "title": "No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers",
+    "link": "https://arxiv.org/abs/2609.10854",
+    "description": "arXiv:2609.10854v3 Announce Type: replace-cross Abstract: When auditing remotely hosted services or commercially gated software for vulnerabilities, third-party analysts may lack both direct system access and the ability to interact with the running system. We call this a no-box setting, in which analysts have access only to functionality metadata that may describe the intended inputs, behaviors, and outputs of the system. Such descriptions constrain the possible implementations of a system, enabling analysts to hypothesize potential implementations and their underlying vulnerabilities. These hypotheses can subsequently guide validation when system access becomes available. To demonstrate the feasibility of conducting vulnerability analysis under no-box setting, we implemented MCPSEC, a prototype that audits Model Context Protocol (MCP) servers for indirect prompt injection vulnerabilities using only the tool metadata exposed at server registration time. Flagging vulnerable tools, MCPSEC produces hypothesized vulnerabilities and attack scenarios for later validation. We evaluated MCPSEC on 20 widely deployed MCP servers comprising 177 tools, among which human evaluators confirmed 95 as vulnerable. Using only tool metadata, MCPSEC successfully identified 94 of these confirmed vulnerable tools (98.9% recall), compared to 81 (85.3% recall) identified by an agentic baseline. Overall, we operationalize and evaluate no-box vulnerability analysis and demonstrate its practical feasibility in realistic systems.",
+    "publishedAt": "2026-11-23",
+    "author": "Zehua Zhang, Jie Hu, Pratham Hegde, Aditya Maheshbhai Gabani, Souradip Nath, Yibo Liu, Siyu Liu, Hongkai Chen, Hulin Wang, Zhuoer Lyu, Chang Zhu, Divij Handa, Yan Shoshitaishvili, Tiffany Bao, Ruoyu Wang, Adam Doup\\'e",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

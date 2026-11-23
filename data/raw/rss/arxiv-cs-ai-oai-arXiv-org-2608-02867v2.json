@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.02867v2",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.02867v2",
+    "title": "BODHI: Do LLMs Branch Out and Discover Heterogeneous Inferences?",
+    "link": "https://arxiv.org/abs/2608.02867",
+    "description": "arXiv:2608.02867v2 Announce Type: replace-cross Abstract: Although reinforcement learning with verifiable rewards (RLVR) has improved the reasoning performance of large language models (LLMs), whether it expands reasoning capabilities or primarily improves sampling efficiency remains debated. In this paper, we investigate the nature of test-time exploration in RLVR-trained LLMs by employing controlled maze-solving experiments and BODHI-TREEs, a reusable representation that groups mathematical reasoning segments based on semantic equivalence. These probes help delineate preferences between stylistic variations and semantically distinct continuations. We show that RLVR-trained models exhibit lower candidate preference entropy between semantically distinct continuations than their distilled counterparts, and complementary sampling experiments show lower empirical semantic entropy and fewer observed branches under equal sampling budgets. Thus, policy concentration extends beyond stylistic choices and reduces observed semantic diversity. This reduction coexists with improved constraint adherence and backtracking in mazes, and improved recovery from distracting steps in mathematical reasoning. We conjecture that improved trace validity drives RLVR's sampling-efficiency gains, while policy concentration reduces rollout diversity. Our findings identify a central challenge for RLVR: preserving diverse reasoning trajectories alongside improved trace validity.",
+    "publishedAt": "2026-11-23",
+    "author": "Soumadeep Saha, Krish Sharma, Akshay Chaturvedi, Nicholas Asher",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

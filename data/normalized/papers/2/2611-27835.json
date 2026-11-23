@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2611-27835",
+  "name": "Auditable Financial Knowledge Graphs: Schema-Driven Construction and Intrinsic Quality Evaluation",
+  "summary": "Financial documents combine narrative disclosures, accounting metrics, corporate structures, management commentary, and time-dependent facts, making them difficult to represent using conventional c...",
+  "description": "Financial documents combine narrative disclosures, accounting metrics, corporate structures, management commentary, and time-dependent facts, making them difficult to represent using conventional chunk-based retrieval-augmented generation systems. This paper presents an auditable, schema-driven methodology for constructing temporal financial knowledge graphs from page-delimited documents parsed using a general purpose document intelligence service. Overlapping document windows undergo phased large language model extraction of structural entities, quantitative observations, and domain-specif...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.27835v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-20",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.27835v1"
+    }
+  ],
+  "authors": [
+    "Samarth Sarin",
+    "Lovepreet Singh",
+    "Dhagash Mehta"
+  ],
+  "paperId": "2611.27835",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-20",
+  "abstract": "Financial documents combine narrative disclosures, accounting metrics, corporate structures, management commentary, and time-dependent facts, making them difficult to represent using conventional chunk-based retrieval-augmented generation systems. This paper presents an auditable, schema-driven methodology for constructing temporal financial knowledge graphs from page-delimited documents parsed using a general purpose document intelligence service. Overlapping document windows undergo phased large language model extraction of structural entities, quantitative observations, and domain-specif..."
+}

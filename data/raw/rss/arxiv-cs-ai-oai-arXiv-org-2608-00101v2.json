@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.00101v2",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.00101v2",
+    "title": "Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale",
+    "link": "https://arxiv.org/abs/2608.00101",
+    "description": "arXiv:2608.00101v2 Announce Type: replace Abstract: AI coding agents (e.g., GitHub Copilot, Claude Code, Codex) interleave multi-step LLM inference with tool execution, creating a workload different from chatbots. We present the first production-scale characterization of coding agents using sampled GitHub Copilot traces from June-July 2026, comprising 7.4M users, 819M conversations, 5.7B LLM calls, and 946T tokens. Our analysis reveals distinctive workload properties with unique systems implications: e.g., sparse user-initiated turns unfold into autonomous agent loops with nearly 1:1 coupling between LLM calls and tool execution; parallel LLM calls are rare but exist in turns that trigger subagents; KV cache hit rates average 90% within a turn, but fall to 52% across turn boundaries and to 6% after model switches; workflows and user behaviors exhibit diverse, long-tailed resource footprints. We further distinguish short agentic turnaround times from minutes-long user idle periods between turns, and develop a lightweight idle-time predictor that captures 87-89% of total idle time. We demonstrate two use cases: (1) a harness-side LLM API keep-alive policy that preserves provider-side context KV cache, reducing token costs by 14.9% on turn boundaries; and (2) a serving-side KV cache residency policy that uses predicted idle time to guide DRAM offloading, reducing time to first token (TTFT) by 3-33% compared with LRU during a one-week evaluation with GitHub Copilot traces.",
+    "publishedAt": "2026-11-23",
+    "author": "Banruo Liu, Haoran Qiu, \\'I\\~nigo Goiri, Rodrigo Fonseca, Ricardo Bianchini, Esha Choukse",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

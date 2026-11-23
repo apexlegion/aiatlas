@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2510.02848v3",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2510.02848v3",
+    "title": "Rhythm-TTS: High-Fidelity Shortcut Latent Modeling and Probabilistic Rhythm Generation for Zero-Shot Text-to-Speech",
+    "link": "https://arxiv.org/abs/2510.02848",
+    "description": "arXiv:2510.02848v3 Announce Type: replace-cross Abstract: Zero-shot text-to-speech (TTS) systems are commonly built on either discrete codec tokens or continuous acoustic representations. Discrete-token models benefit from stable sequence modeling and explicit speech factorization, but they ultimately synthesize speech through codebook lookup and codeword composition, which can accumulate errors and impose a quality ceiling on naturalness and speaker similarity. Continuous-representation models can generate fine-grained speech latents directly, but often require heavier in-context modeling and less explicit alignment. This paper presents Rhythm-TTS, a shortcut zero-shot TTS framework that combines the factorizability of discrete codec tokens with the fidelity of continuous latent generation. Instead of using predicted codec tokens as the final acoustic representation, Rhythm-TTS uses them as a semantic-acoustic prior and directly generates holistic continuous speech latents with flow matching, bypassing the discrete-to-latent reconstruction path at inference time. We further address an underexplored dimension of speech naturalness: rhythm diversity across multiple synthesis runs. Motivated by the hypothesis that rhythm variation is largely governed by phoneme duration changes and the occurrence of silent pauses, we introduce probabilistic Duration and Silence Generators to sample dynamic pacing patterns before acoustic generation. Experiments on zero-shot TTS benchmarks evaluate intelligibility, naturalness, speaker similarity, efficiency, and run-to-run rhythm diversity, showing that the proposed shortcut latent modeling and probabilistic rhythm generation improve the fidelity and temporal naturalness of non-autoregressive zero-shot TTS. Code and audio samples are available at our demo page https://rhythm-tts.github.io.",
+    "publishedAt": "2026-11-23",
+    "author": "Hieu-Nghia Huynh-Nguyen, Ngoc-Son Nguyen, Long-Khanh Pham, Huynh Nguyen Dang, Huy Tien Nguyen, Van Nguyen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

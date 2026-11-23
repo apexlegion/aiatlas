@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.27306v1",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.27306v1",
+    "title": "$\\gamma$-Scape: An Agent-Centric World for Mobile Embodied Intelligence",
+    "link": "https://arxiv.org/abs/2611.27306",
+    "description": "arXiv:2611.27306v1 Announce Type: new Abstract: Recent embodied agents construct and adapt robot behavior through executable programs, tool use, and interaction feedback. Studying these systems in mobile manipulation calls for physical worlds that connect agent-directed execution with its physical consequences and reusable interaction experience. We introduce $\\gamma$-Scape, an agent-centric simulation and benchmark platform for mobile embodied intelligence. Agents compose motion tools and learned skills to carry out complete tasks that combine navigation and manipulation in a persistent physical world. BenchForge grounds structured objectives in physical task instances with instructions, reference programs, and goal evaluators, defining task goals while preserving agents' choice of valid solutions. An agentic collection harness further enables agents to produce demonstrations by carrying out contact-rich interactions through sustained control and physical feedback. Assisted reference execution and human guidance provide complementary experience. The resulting tool traces and aligned observation-action records support program refinement and policy learning, with common task-goal criteria for subsequent evaluation. We benchmark representative agent systems on complete tasks and demonstrate contact collection and trace-informed program revision. Together, these workflows provide infrastructure for research on embodied recursive self-improvement.",
+    "publishedAt": "2026-11-23",
+    "author": "Xiaotao Zhang, Lin Qian, Hao Zhang, Xuanrui Cui, Yuehao Huang, Yunzi Wu, Yucheng Deng, Jiankun Dong, Hujun Yin, Xinhai Li, Chenjia Bai, Xuelong Li",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

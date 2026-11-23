@@ -1,0 +1,33 @@
+{
+  "type": "paper",
+  "slug": "2611-27839",
+  "name": "Beyond Self-Critique: Epistemic Convergence Control for Multi-Agent Research Verification",
+  "summary": "Multi-agent systems for scientific claim verification increasingly rely on role-structured LLM debate to pressure-test hypotheses. However, when debating agents are instantiated from the same under...",
+  "description": "Multi-agent systems for scientific claim verification increasingly rely on role-structured LLM debate to pressure-test hypotheses. However, when debating agents are instantiated from the same underlying base model, they share identical latent representations, making self-critique bias structurally inevitable. Static fixed-iteration protocols compound this by either halting prematurely before evidence stabilizes or wasting inference compute after convergence. We present \\sys{}, a multi-agent research verification framework that addresses both failure modes. First, we introduce an asymmetric...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.27839v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-20",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.27839v1"
+    }
+  ],
+  "authors": [
+    "Chrisantus Eze"
+  ],
+  "paperId": "2611.27839",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-20",
+  "abstract": "Multi-agent systems for scientific claim verification increasingly rely on role-structured LLM debate to pressure-test hypotheses. However, when debating agents are instantiated from the same underlying base model, they share identical latent representations, making self-critique bias structurally inevitable. Static fixed-iteration protocols compound this by either halting prematurely before evidence stabilizes or wasting inference compute after convergence. We present \\sys{}, a multi-agent research verification framework that addresses both failure modes. First, we introduce an asymmetric..."
+}

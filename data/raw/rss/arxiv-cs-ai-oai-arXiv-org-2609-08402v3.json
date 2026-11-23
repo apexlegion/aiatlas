@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.08402v3",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.08402v3",
+    "title": "Towards Embodied Air-Ground Cooperative Object Search: Benchmark, Dataset and Agentic Method",
+    "link": "https://arxiv.org/abs/2609.08402",
+    "description": "arXiv:2609.08402v3 Announce Type: replace-cross Abstract: Urban object search, locating a specific object from a single reference image without route or direction instructions and confirming the instance up close, is a fundamental capability for embodied agents. Existing urban embodied benchmarks evaluate one segment of this chain: navigation ends at a coordinate, and detection and question answering stop at an answer. We present AGOS-Bench, the first benchmark for urban cooperative object search by an air-ground team, integrating aerial discovery and ground-level instance verification in one closed loop. Nine metrics assess search, cooperation, and verification, and they distinguish \"found but unconfirmed\" from \"never found\". AGOS-Dataset instantiates the task in 2,125 episodes across six city maps under seen and unseen test settings, contributing 27,720 Train Examples along with 1,100 Expert Trajectories. To solve the task, we propose AGOS-Agent, which combines algorithmic coverage and approach routing with event-driven MLLM judgments for target verification and cooperation. On the unseen test set, zero-shot AGOS-Agent (Qwen3.5-4B) achieves a success rate (SR) of 37.67%, 7.00 percentage points (pp) above a controlled baseline with identical information, actions, and prompts. LoRA fine-tuning raises SR to 57.00% (+19.33 pp). Adapted existing systems AGC-VLN-OS and AeroDuo-OS achieve SRs of 31.33% and 28.67%, respectively. Project page: https://github.com/Yomier/AGOS-Bench.",
+    "publishedAt": "2026-11-23",
+    "author": "Boao Yu, Zimo Chen, Junreng Rao, Yue Hu, Zhengqiu Zhu, Yong Zhao, Jianzhe Gao, Pengfei Zhu, Rusheng Ju",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

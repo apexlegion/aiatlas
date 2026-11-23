@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2603-20521v3",
+  "name": "Delightful Policy Gradient under Distributed Friction",
+  "summary": "arXiv:2603.20521v3 Announce Type: replace-cross Abstract: Distributed reinforcement learning trains on data from stale, buggy, or mismatched actors, whose actions often have high surprisal (negativ...",
+  "description": "arXiv:2603.20521v3 Announce Type: replace-cross Abstract: Distributed reinforcement learning trains on data from stale, buggy, or mismatched actors, whose actions often have high surprisal (negative log-probability) under the learner's policy. Supervised fine-tuning learns stably from such logged data, while policy gradient often does not. We trace the difference to negative learning from surpr...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2603.20521"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-23",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2603.20521"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-23",
+  "expiryAt": "2026-12-23T00:00:00.000Z",
+  "author": "Ian Osband"
+}

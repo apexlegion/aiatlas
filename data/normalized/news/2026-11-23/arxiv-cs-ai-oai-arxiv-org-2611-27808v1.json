@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-27808v1",
+  "name": "$\\mathtt{DistP}$: Scaling Local-Update Training with Zero-Shot Hyperparameter Transfer",
+  "summary": "arXiv:2611.27808v1 Announce Type: cross Abstract: Local-update methods offer a communication-efficient alternative to Distributed Data Parallelism ($\\mathtt{DDP}$), but introduce additional hyperpa...",
+  "description": "arXiv:2611.27808v1 Announce Type: cross Abstract: Local-update methods offer a communication-efficient alternative to Distributed Data Parallelism ($\\mathtt{DDP}$), but introduce additional hyperparameters that require costly tuning. For $\\mathtt{DDP}$, zero-shot hyperparameter transfer reduces this cost by reusing settings tuned on smaller models, but its applicability to local-update training...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.27808"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-23",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.27808"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-23",
+  "expiryAt": "2026-12-23T00:00:00.000Z",
+  "author": "Andrej Jovanovi\\'c, Alex Iacob, Philipp Wiesner, Christophe Roux, Max Zimmer, Lorenzo Sani, Sebastian Pokutta, Nicholas D. Lane"
+}

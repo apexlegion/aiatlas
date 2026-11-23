@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2605-07719v2",
+  "name": "Mosaic: Efficient CPU-GPU Coordinated Block-Sparse Attention",
+  "summary": "arXiv:2605.07719v2 Announce Type: replace-cross Abstract: Long-context LLM serving increasingly relies on CPU-resident context KV cache, driven by KV offloading and disaggregated prefill--decode ex...",
+  "description": "arXiv:2605.07719v2 Announce Type: replace-cross Abstract: Long-context LLM serving increasingly relies on CPU-resident context KV cache, driven by KV offloading and disaggregated prefill--decode execution. Although block-sparse attention reduces KV access, existing designs remain inefficient: GPU-centralized execution fetches selected KV blocks from CPU memory at each decoding step, making it P...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2605.07719"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-23",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2605.07719"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-23",
+  "expiryAt": "2026-12-23T00:00:00.000Z",
+  "author": "Feiyu Yao, Zhixiong Niu, Xiaqing Li, Yongqiang Xiong, Juan Fang, Qian Wang"
+}

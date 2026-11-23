@@ -1,0 +1,62 @@
+{
+  "type": "paper",
+  "slug": "2611-27924",
+  "name": "BioEmu2: Scalable Emulation of Biomolecular Dynamics",
+  "summary": "Despite major advances in structure prediction, modelling the motions and interactions that drive biomolecular function at scale remains a central challenge. We introduce BioEmu2, a generative mode...",
+  "description": "Despite major advances in structure prediction, modelling the motions and interactions that drive biomolecular function at scale remains a central challenge. We introduce BioEmu2, a generative model for atomically resolved biomolecular structures combining static structure prediction, equilibrium sampling and time evolution, that samples orders of magnitude faster than molecular dynamics (MD). Trained on experimental and synthetic structures and extensive MD data, it supports multi-component systems containing proteins, nucleic acids, modified residues, ligands and ions. Structure-predictio...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.27924v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-20",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.27924v1"
+    }
+  ],
+  "authors": [
+    "Michael Gastegger",
+    "Adam E. Foster",
+    "José Jiménez-Luna",
+    "Tim Hempel",
+    "Sarah Lewis",
+    "Yu Xie",
+    "Lixin Sun",
+    "Iryna Zaporozhets",
+    "J. Thorben Frank",
+    "Yaoyi Chen",
+    "Michael Plainer",
+    "Ludwig Winkler",
+    "Pedro B. P. S. Reis",
+    "Sven H. Giese",
+    "Roberto Sordillo",
+    "Victor García Satorras",
+    "Eray Inanc",
+    "Kacper Kapuśniak",
+    "Soojung Yang",
+    "Rishwanth Raghu",
+    "Rachel Kim",
+    "Gabriel Dernbach",
+    "Deniz Gunceler",
+    "Hannes Schulz",
+    "Bonnie Kruft",
+    "Marwin Segler",
+    "Christopher M. Bishop",
+    "Cecilia Clementi",
+    "Ryota Tomioka",
+    "Frank Noé"
+  ],
+  "paperId": "2611.27924",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-20",
+  "abstract": "Despite major advances in structure prediction, modelling the motions and interactions that drive biomolecular function at scale remains a central challenge. We introduce BioEmu2, a generative model for atomically resolved biomolecular structures combining static structure prediction, equilibrium sampling and time evolution, that samples orders of magnitude faster than molecular dynamics (MD). Trained on experimental and synthetic structures and extensive MD data, it supports multi-component systems containing proteins, nucleic acids, modified residues, ligands and ions. Structure-predictio..."
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2603.20526v2",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2603.20526v2",
+    "title": "Does This Gradient Spark Joy?",
+    "link": "https://arxiv.org/abs/2603.20526",
+    "description": "arXiv:2603.20526v2 Announce Type: replace-cross Abstract: Policy gradient computes a backward pass for every sample, although the backward pass is expensive and most samples carry little learning value. The Delightful Policy Gradient (DG) scores learning value in the forward pass with \\emph{delight}, the product of advantage and surprisal (negative log-probability). We introduce the \\emph{Kondo gate}, which compares delight against a compute price and pays for a backward pass only when the sample is worth it; sweeping the price traces a quality--cost trade-off. On MNIST, keeping 3\\% of gradient terms learns faster than standard policy gradient even when backward passes are free, and nearly matches full DG. In bandits, zero-price gating preserves the expected gradient direction and removes its perpendicular noise, delight ranks samples more reliably than additive mixes of value and surprise, and a rare action with high reward variance marks where delight fails. On transformer token reversal, the gate's advantage grows with sequence length and vocabulary size. Because delight tolerates moderate noise, a cheap approximate forward pass could screen samples before expensive backpropagation, a training analogue of speculative decoding.",
+    "publishedAt": "2026-11-23",
+    "author": "Ian Osband",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

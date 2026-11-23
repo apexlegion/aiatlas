@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-27372v1",
+  "name": "ReActWAM: Action-Consistent Caching for Efficient World-Action Models",
+  "summary": "arXiv:2611.27372v1 Announce Type: new Abstract: World-action models (WAMs) often generate future visual states alongside robot actions, introducing substantial computational overhead during inferen...",
+  "description": "arXiv:2611.27372v1 Announce Type: new Abstract: World-action models (WAMs) often generate future visual states alongside robot actions, introducing substantial computational overhead during inference. During closed-loop execution, consecutive inference cycles often predict similar action sequences, leading to redundant computation. However, reducing this redundancy requires distinguishing consi...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.27372"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-23",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.27372"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-23",
+  "expiryAt": "2026-12-23T00:00:00.000Z",
+  "author": "Zhaochen Guo, Yunke Wang, Siyu Xu, Zijian Wang, Chenghao Xia, Chengbin Du, Shinan Liu, Chang Xu"
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.27302v1",
+  "fetchedAt": "2026-11-23T10:35:53.525Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.27302v1",
+    "title": "Can Reasoning and Image Description Enhance Yes/No Visual Mathematical Understanding?",
+    "link": "https://arxiv.org/abs/2611.27302",
+    "description": "arXiv:2611.27302v1 Announce Type: cross Abstract: Large Vision-Language Models (VLMs) have achieved strong performance on general visual tasks, yet their ability to understand mathematical images remains limited. This paper investigates whether explicit reasoning and textual image descriptions can enhance VLMs' performance on binary yes/no visual mathematical questions. To achieve this, we curated a paired evaluation set to benchmark prominent open-source VLMs under varying prompt and input conditions. In particular, we leverage Chain-of-Thought (CoT) prompting and use textual descriptions, either replacing or augmenting visual inputs, to isolate and evaluate mathematical comprehension. Our results show that explicit reasoning improves performance, especially in paired consistency accuracy, while textual image descriptions do not consistently help and may degrade performance. These findings suggest that reasoning is important for stable visual mathematical judgement, whereas description-based intermediates require more careful design.",
+    "publishedAt": "2026-11-23",
+    "author": "Guangcheng Song, Weichuan Wang, Linqi Song",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
