@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "openai/whisper-large-v3",
-  "fetchedAt": "2026-11-23T10:35:51.713Z",
+  "fetchedAt": "2026-11-24T12:19:08.509Z",
   "data": {
     "_id": "654a84cadff2f49007ce6c37",
     "id": "openai/whisper-large-v3",
@@ -124,8 +124,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 3158199,
-    "likes": 6843,
+    "downloads": 3189842,
+    "likes": 6848,
     "modelId": "openai/whisper-large-v3",
     "author": "openai",
     "sha": "06f233fe06e710322aca913c1bc4249a0d71fce1",
@@ -347,17 +347,17 @@
     ],
     "spaces": [
       "hf-audio/open_tts_leaderboard",
-      "emanforhelp/model-pulse",
       "Metric-AI/ArmBench-ASR",
-      "hf-audio/whisper-large-v3",
       "openai/whisper",
-      "embedl/hfviewer",
+      "hf-audio/whisper-large-v3",
+      "emanforhelp/model-pulse",
+      "Dhshshd/Ninqggoai",
       "tvosch/Dutch-ASR-Leaderboard",
       "hugging-apps/voice-isolator",
-      "Yash030/claude-code-proxy",
-      "Dhshshd/Ninqggoai",
+      "2998901a/kitten-tts-2",
       "artificialguybr/Video-Transcription-Smart-Summary",
       "artificialguybr/video-dubbing",
+      "embedl/hfviewer",
       "sanchit-gandhi/whisper-jax-spaces",
       "elmresearchcenter/open_universal_arabic_asr_leaderboard",
       "OpenSound/CapSpeech-TTS",
@@ -423,6 +423,7 @@
       "Johnyquest7/medical-transcription-notes",
       "MGZON/mgzon-app",
       "strangertoolshf/huggingface-tree",
+      "Yash030/claude-code-proxy",
       "build-small-hackathon/thuna",
       "ArtFix0/speech-to-speech-dashboard",
       "saja55/smart-advisor",
@@ -444,8 +445,7 @@
       "ghourmetto/openai-whisper-large-v3",
       "Speedofmastery/orynxml-backend",
       "ysharma/gr-workflow-microduck-lab",
-      "geraldadli/speech-emotion-recognition",
-      "BuzzASR/buzzasr-persian"
+      "geraldadli/speech-emotion-recognition"
     ],
     "createdAt": "2023-11-07T18:41:14.000Z",
     "safetensors": {
