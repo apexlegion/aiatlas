@@ -1,0 +1,38 @@
+{
+  "type": "paper",
+  "slug": "2611-33022",
+  "name": "RecordRoute: Auditing Agent Failures with Localization-Guided Diagnosis",
+  "summary": "Auditing failed agent executions requires identifying the responsible actor, the earliest decisive step, and the error mode. Representative supervised methods either focus on step localization or p...",
+  "description": "Auditing failed agent executions requires identifying the responsible actor, the earliest decisive step, and the error mode. Representative supervised methods either focus on step localization or predict multiple attribution targets from shared trajectory representations. These methods do not use the localization result to select the text for mode diagnosis. To address this limitation, we propose RecordRoute, which couples comparative localization with local diagnosis. Specifically, it represents each record with word and character features and learns to rank records through comparisons wit...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.33022v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-24",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.33022v1"
+    }
+  ],
+  "authors": [
+    "Yifan Duan",
+    "Lihuan Li",
+    "Chao Xue",
+    "Siyuan Zheng",
+    "Du Yin",
+    "Flora D. Salim"
+  ],
+  "paperId": "2611.33022",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-24",
+  "abstract": "Auditing failed agent executions requires identifying the responsible actor, the earliest decisive step, and the error mode. Representative supervised methods either focus on step localization or predict multiple attribution targets from shared trajectory representations. These methods do not use the localization result to select the text for mode diagnosis. To address this limitation, we propose RecordRoute, which couples comparative localization with local diagnosis. Specifically, it represents each record with word and character features and learns to rank records through comparisons wit..."
+}

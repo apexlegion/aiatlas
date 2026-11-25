@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2611-33086",
+  "name": "Uncertainty-Aware Candidate Generation for Entity Linking in Cyber Threat Intelligence",
+  "summary": "Entity Resolution (ER) pipelines often collapse ambiguity into early hard decisions: upstream Named Entity Recognition (NER) selects a single span and type, and downstream Entity Linking (EL) treat...",
+  "description": "Entity Resolution (ER) pipelines often collapse ambiguity into early hard decisions: upstream Named Entity Recognition (NER) selects a single span and type, and downstream Entity Linking (EL) treats that choice as ground truth. This discards valuable information about the ambiguity of the underlying data (e.g., span boundary disagreement and type confusion), leading to brittle systems that fail unpredictably when faced with uncertainty in inputs. Therefore, this work presents a proof-of-concept for uncertainty-aware ER that treats uncertainty as native data that should be preserved and expl...",
+  "tags": [
+    "arxiv",
+    "cs.AI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.33086v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-24",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.AI.",
+      "href": "https://arxiv.org/abs/2611.33086v1"
+    }
+  ],
+  "authors": [
+    "Nasser Alkhulaifi",
+    "Direnc Pekaslan",
+    "Christian Wagner"
+  ],
+  "paperId": "2611.33086",
+  "category": "cs.AI",
+  "publishedAt": "2026-11-24",
+  "abstract": "Entity Resolution (ER) pipelines often collapse ambiguity into early hard decisions: upstream Named Entity Recognition (NER) selects a single span and type, and downstream Entity Linking (EL) treats that choice as ground truth. This discards valuable information about the ambiguity of the underlying data (e.g., span boundary disagreement and type confusion), leading to brittle systems that fail unpredictably when faced with uncertainty in inputs. Therefore, this work presents a proof-of-concept for uncertainty-aware ER that treats uncertainty as native data that should be preserved and expl..."
+}

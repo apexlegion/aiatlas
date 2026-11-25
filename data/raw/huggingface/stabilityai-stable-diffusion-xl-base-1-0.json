@@ -1,7 +1,7 @@
 {
   "source": "huggingface",
   "sourceId": "stabilityai/stable-diffusion-xl-base-1.0",
-  "fetchedAt": "2026-11-24T12:19:08.261Z",
+  "fetchedAt": "2026-11-25T11:05:35.031Z",
   "data": {
     "_id": "64bfcd5ff462a99a04fd1ec8",
     "id": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -25,8 +25,8 @@
       "deploy:azure",
       "region:us"
     ],
-    "downloads": 4796191,
-    "likes": 8503,
+    "downloads": 4783288,
+    "likes": 8506,
     "modelId": "stabilityai/stable-diffusion-xl-base-1.0",
     "author": "stabilityai",
     "sha": "462165984030d82259a11f4367a4eed129e94a7b",
@@ -220,19 +220,17 @@
       }
     ],
     "spaces": [
-      "fastgpu/vram-and-gpu-cost-calculator",
       "RioShiina/ImageGen",
       "frogleo/Image-to-3D",
       "emanforhelp/model-pulse",
-      "kandinskylab/Kandinsky-6.0-Pro-distill-5s",
       "Dhshshd/Ninqggoai",
       "yanze/PuLID-FLUX",
       "Nymbo/Serverless-ImgGen-Hub",
       "tencent/Hunyuan3D-2mini-Turbo",
       "VAST-AI/MV-Adapter-I2MV-SDXL",
       "hugging-apps/qwen-video-edit",
-      "nazdridoy/inferoxy-hub",
-      "franckgastel/Hunyuan3D-2mv",
+      "kandinskylab/Kandinsky-6.0-Pro-distill-5s",
+      "ksalokranjan/SilaI",
       "Dekonstruktio/Fluxus",
       "FlexTheTRex/dreamforge-ai-3d-world-sculptor",
       "BoobyBoobs/Flux_Lustly_AI_Uncensored_NSFW_V1",
@@ -275,8 +273,8 @@
       "openfree/ColorRevive",
       "embedl/hfviewer",
       "linoyts/scribble-sdxl-flash",
-      "latent-consistency/lcm-lora-for-sdxl",
       "radames/Real-Time-Latent-Consistency-Model-Text-To-Image",
+      "latent-consistency/lcm-lora-for-sdxl",
       "artificialguybr/artificialguybr-demo-lora",
       "PAIR/StreamingT2V",
       "chansung/co-write-with-llama2",
@@ -319,7 +317,9 @@
       "clinteroni/outpainting-with-differential-diffusion-demo",
       "briaai/BRIA-Eraser-API",
       "jeasinema/UltraEdit-SD3",
-      "tight-inversion/tight-inversion-pulid-demo"
+      "tight-inversion/tight-inversion-pulid-demo",
+      "fffiloni/StyleAligned_Transfer",
+      "wcy1122/MGM"
     ],
     "createdAt": "2023-07-25T13:25:51.000Z",
     "safetensors": {
