@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-32159v1",
+  "name": "Breaking the Binary-Lifting Barrier for DNA Minimizer Density: Exact Optimization of a Native 4-ary Order at (w, k) = (12, 5)",
+  "summary": "arXiv:2611.32159v1 Announce Type: new Abstract: Minimizer schemes sample at least one $k$-mer from every window of $w$ consecutive $k$-mers via a total order $\\pi$ on $\\Sigma^k$. For DNA ($\\sigma =...",
+  "description": "arXiv:2611.32159v1 Announce Type: new Abstract: Minimizer schemes sample at least one $k$-mer from every window of $w$ consecutive $k$-mers via a total order $\\pi$ on $\\Sigma^k$. For DNA ($\\sigma = 4$), state-of-the-art lookup schemes such as GreedyMini and OptMini optimize a binary order ($2^k$ ranks) and lift it to $\\Sigma^k$ by ranking one bit-plane primarily and breaking $2^k$-way ties lexi...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.32159"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-26",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.32159"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-26",
+  "expiryAt": "2026-12-26T00:00:00.000Z",
+  "author": "Stefan G. Creadore, Peyton Berntsen"
+}

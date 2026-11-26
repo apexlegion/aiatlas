@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-31256v1",
+  "name": "Directly Maximizing On-policy Expected Accepted Length for Speculative Decoding",
+  "summary": "arXiv:2611.31256v1 Announce Type: cross Abstract: Speculative decoding accelerates large language model inference by using a lightweight draft model to propose tokens for verification by a target m...",
+  "description": "arXiv:2611.31256v1 Announce Type: cross Abstract: Speculative decoding accelerates large language model inference by using a lightweight draft model to propose tokens for verification by a target model. Draft training commonly optimizes token-level distribution alignment, but this does not directly optimize the length of the accepted prefix: once a draft token is rejected, all subsequent draft...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.31256"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-26",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.31256"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-26",
+  "expiryAt": "2026-12-26T00:00:00.000Z",
+  "author": "Ziying Zhang, Yaqing Wang, Yong Liu, Quanming Yao"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-26976v3",
+  "name": "MixFold: Sub-4-Bit Mixed-Precision LLM Inference via Output-Channel Grouping on Mobile NPUs",
+  "summary": "arXiv:2611.26976v3 Announce Type: replace Abstract: Sub-4-bit quantization allows mobile devices to run larger LLMs, but its memory savings do not always translate into faster decoding on mobile NP...",
+  "description": "arXiv:2611.26976v3 Announce Type: replace Abstract: Sub-4-bit quantization allows mobile devices to run larger LLMs, but its memory savings do not always translate into faster decoding on mobile NPUs. Their matrix units support only a few native integer datatypes, and converting unsupported weight formats on the vector unit can erase the gains from fewer bits. Mixed precision faces an additiona...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.26976"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-26",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.26976"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-26",
+  "expiryAt": "2026-12-26T00:00:00.000Z",
+  "author": "Vinnam Kim, Seong Hoon Seo, Junhan Kim, Jaeseong You, An Chen"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2611-34887",
+  "name": "Interpretable and Accurate Hybrid Decision Trees with Selective Case-Based Splits",
+  "summary": "Decision trees are among the most well-known interpretable models in Machine Learning. Over the years, a wide variety of strategies have been proposed to define split conditions within the greedy l...",
+  "description": "Decision trees are among the most well-known interpretable models in Machine Learning. Over the years, a wide variety of strategies have been proposed to define split conditions within the greedy learning framework, aiming to guide instance routing and enhance predictive performance. These strategies range from axis-parallel and oblique splits based on feature values to proximity-based splits using exemplar instances and more complex hybrid approaches. However, no single method has emerged as universally superior. In this work, we present two key contributions to the construction of greedy...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.34887v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2611.34887v1"
+    }
+  ],
+  "authors": [
+    "Cristiano Landi",
+    "Alessio Cascione",
+    "Riccardo Guidotti"
+  ],
+  "paperId": "2611.34887",
+  "category": "cs.LG",
+  "publishedAt": "2026-11-25",
+  "abstract": "Decision trees are among the most well-known interpretable models in Machine Learning. Over the years, a wide variety of strategies have been proposed to define split conditions within the greedy learning framework, aiming to guide instance routing and enhance predictive performance. These strategies range from axis-parallel and oblique splits based on feature values to proximity-based splits using exemplar instances and more complex hybrid approaches. However, no single method has emerged as universally superior. In this work, we present two key contributions to the construction of greedy..."
+}

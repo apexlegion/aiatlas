@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-31813v1",
+  "name": "Agentic Discovery of Soundness Bugs in Safe Rust Bindings",
+  "summary": "arXiv:2611.31813v1 Announce Type: cross Abstract: Rust crates confine unsafe code, such as calls into C or C++ libraries or system calls, behind safe interfaces that must uphold Rust's invariants....",
+  "description": "arXiv:2611.31813v1 Announce Type: cross Abstract: Rust crates confine unsafe code, such as calls into C or C++ libraries or system calls, behind safe interfaces that must uphold Rust's invariants. If an interface encodes one rule of the code beneath it too weakly, a program written in purely safe Rust can cause undefined behavior. Static analyzers and fuzzers are bound to fixed patterns or to t...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.31813"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-26",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.31813"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-26",
+  "expiryAt": "2026-12-26T00:00:00.000Z",
+  "author": "Marius Momeu, Koushik Sen"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "paper",
+  "slug": "2611-34920",
+  "name": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
+  "summary": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when par...",
+  "description": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when participants react throughout a session. We introduce $μ$-Bench, a benchmark for joint task completion in closed-loop, full-duplex multi-user voice interaction. Simulated participants act from isolated profiles of goals, knowledge, and permissions, adapting to the agent's speech and tool outcomes. Across 20 domains, 100 scenarios vary group size, acoustics, and follow-up demands to form 800 cases (40...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.34920v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2611.34920v1"
+    }
+  ],
+  "authors": [
+    "Qihao Lin",
+    "Guanxu Chen",
+    "Shuhang Zheng",
+    "Xiaoya Lu",
+    "Jingyi Yang",
+    "Terumi Chiba",
+    "Wenyi Yu",
+    "Chao Zhang",
+    "Zhuan Shi",
+    "Jing Shao"
+  ],
+  "paperId": "2611.34920",
+  "category": "cs.CL",
+  "publishedAt": "2026-11-25",
+  "abstract": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when participants react throughout a session. We introduce $μ$-Bench, a benchmark for joint task completion in closed-loop, full-duplex multi-user voice interaction. Simulated participants act from isolated profiles of goals, knowledge, and permissions, adapting to the agent's speech and tool outcomes. Across 20 domains, 100 scenarios vary group size, acoustics, and follow-up demands to form 800 cases (40..."
+}

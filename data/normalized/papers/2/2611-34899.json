@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2611-34899",
+  "name": "Enhancing Maritime Domain Awareness using Latent Space Representations",
+  "summary": "This work presents a novel application of Earth Observation (EO) embeddings for Maritime Domain Awareness (MDA) from the perspective of the geospatial foundation model TerraMind. By operating direc...",
+  "description": "This work presents a novel application of Earth Observation (EO) embeddings for Maritime Domain Awareness (MDA) from the perspective of the geospatial foundation model TerraMind. By operating directly on compressed latent-space representations rather than on the original Sentinel-1 imagery, this approach directly addresses the data gravity bottleneck that increasingly constrains operational EO processing, in line with the objectives of the Embed2Scale project. In particular, linear and non-linear probing of compressed embeddings, latent space representations of synthetic aperture radar (SAR...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.34899v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2611.34899v1"
+    }
+  ],
+  "authors": [
+    "Rikard Vinge",
+    "Miguel A. Belenguer-Plomer",
+    "Isabelle Wittmann",
+    "Octavian Dumitru",
+    "Michele Lazzarini",
+    "Sergio Albani",
+    "Conrad M Albrecht"
+  ],
+  "paperId": "2611.34899",
+  "category": "cs.CV",
+  "publishedAt": "2026-11-25",
+  "abstract": "This work presents a novel application of Earth Observation (EO) embeddings for Maritime Domain Awareness (MDA) from the perspective of the geospatial foundation model TerraMind. By operating directly on compressed latent-space representations rather than on the original Sentinel-1 imagery, this approach directly addresses the data gravity bottleneck that increasingly constrains operational EO processing, in line with the objectives of the Embed2Scale project. In particular, linear and non-linear probing of compressed embeddings, latent space representations of synthetic aperture radar (SAR..."
+}

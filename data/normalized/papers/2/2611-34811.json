@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2611-34811",
+  "name": "HOG-WAM: Improving Visual Robustness through Future Gradient Prediction",
+  "summary": "World-action models jointly predict future observations and actions, yet visual corruption can disrupt the resulting policies. We introduce HOG-WAM, which adds future Histograms of Oriented Gradien...",
+  "description": "World-action models jointly predict future observations and actions, yet visual corruption can disrupt the resulting policies. We introduce HOG-WAM, which adds future Histograms of Oriented Gradients (HOG) as structural supervision derived directly from demonstration images. An auxiliary HOG diffusion transformer (DiT) module reads RGB features through asymmetric attention, allowing its objective to shape the visual representation used for control. The module is used only during training and removed at inference, preserving FastWAM's RGB-to-action architecture. We evaluate four controlled o...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.34811v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2611.34811v1"
+    }
+  ],
+  "authors": [
+    "Boxuan Dong",
+    "Yupeng Qian",
+    "Ying Wu",
+    "Heshuai Li",
+    "Junhao Tan",
+    "Zhenxiong Tan",
+    "Weijia Wu",
+    "Weihao Yu"
+  ],
+  "paperId": "2611.34811",
+  "category": "cs.CV",
+  "publishedAt": "2026-11-25",
+  "abstract": "World-action models jointly predict future observations and actions, yet visual corruption can disrupt the resulting policies. We introduce HOG-WAM, which adds future Histograms of Oriented Gradients (HOG) as structural supervision derived directly from demonstration images. An auxiliary HOG diffusion transformer (DiT) module reads RGB features through asymmetric attention, allowing its objective to shape the visual representation used for control. The module is used only during training and removed at inference, preserving FastWAM's RGB-to-action architecture. We evaluate four controlled o..."
+}

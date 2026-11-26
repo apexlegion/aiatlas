@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2609.22086v3",
+  "fetchedAt": "2026-11-26T10:42:38.331Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2609.22086v3",
+    "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Graphic Design Agent",
+    "link": "https://arxiv.org/abs/2609.22086",
+    "description": "arXiv:2609.22086v3 Announce Type: replace Abstract: Deployed software agents face a continuous stream of user requests while their foundation-model weights remain frozen between releases. Recursive self-improvement (RSI) via external memory offers a practical path to continual adaptation, yet prior methods largely assume programmatic verifiers, cheap retries, or a single global prompt. Creative software breaks these assumptions, as open-ended visual briefs lack ground truth, VLM judges are noisy, and multi-step tool executions are costly and confounded by external assets. We present Designer-RSI, which evolves a modular skill bank from unlabeled design trajectories for an agent spanning over 230 raster, vector, and layout tools. Designer-RSI couples widening (acquiring new skills for recurring capability gaps) with deepening (revising failing skills by contrasting successful and failed runs), and screens updates through a Pareto-style matched replay gate that requires strict gains on sampled briefs without local regressions. Across held-out product briefs, eight external benchmarks, and two backbones, traffic-driven evolution outperforms static documentation skills, lifts execution success up to 99.8%, improves requirement fulfillment, and reaches up to a 67.6% blind win rate over the base agent. Ablations further show that skill acquisition and revision are strongly synergistic: neither suffices alone, and reliable gains require evolving coverage and execution quality together.",
+    "publishedAt": "2026-11-26",
+    "author": "Hongyang Du, Lan Yan, Christian Flores, Asim Kadav",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

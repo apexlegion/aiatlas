@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2611-34852",
+  "name": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+  "summary": "Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, bu...",
+  "description": "Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated knowledge-centric evaluation of which research directions a report covers and how deeply it explores them. We introduce DRBench Pro, a benchmark that makes structured knowledge coverage the primary evaluation target. Our automated pipeline builds local knowledge trees from Wikipedia and uses sampled subgraphs to generate research queries and evidence-grounded rubrics. Each rubri...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.34852v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2611.34852v1"
+    }
+  ],
+  "authors": [
+    "Han Huang",
+    "Yuchen Yan",
+    "Xingyu Wu",
+    "Yijun Li",
+    "Chao Deng",
+    "Jie Liu",
+    "Jin Ma",
+    "Yongliang Shen"
+  ],
+  "paperId": "2611.34852",
+  "category": "cs.CL",
+  "publishedAt": "2026-11-25",
+  "abstract": "Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but lack a dedicated knowledge-centric evaluation of which research directions a report covers and how deeply it explores them. We introduce DRBench Pro, a benchmark that makes structured knowledge coverage the primary evaluation target. Our automated pipeline builds local knowledge trees from Wikipedia and uses sampled subgraphs to generate research queries and evidence-grounded rubrics. Each rubri..."
+}

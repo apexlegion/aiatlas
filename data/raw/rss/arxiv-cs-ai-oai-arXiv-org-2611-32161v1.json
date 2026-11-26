@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.32161v1",
+  "fetchedAt": "2026-11-26T10:42:38.331Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.32161v1",
+    "title": "Making Evaluation Explicit Is Not Enough: Supervising the Evaluation Process in Generative Reward Models",
+    "link": "https://arxiv.org/abs/2611.32161",
+    "description": "arXiv:2611.32161v1 Announce Type: cross Abstract: Generative reward models (GRMs) make language-model evaluation more explicit by generating critiques, rubrics, or intermediate analyses before predicting a final preference. However, explicit evaluation does not necessarily imply a reliable evaluation process: under outcome-only supervision, a model may reach the correct final preference while producing weak or unsupported intermediate judgments, turning the evaluation into a post-hoc rationalization. We introduce STEP-GRM, a framework that directly supervises the intermediate evaluation process of rubric-based GRMs. In addition to conventional preference supervision, STEP-GRM provides structural guidance for rubric construction and local supervision for criterion-level judgments, encouraging the model to learn not only the correct final preference but also a more reliable process for reaching it. Extensive experiments show that STEP-GRM achieves strong performance on standard reward-modeling benchmarks while improving the consistency and correctness of intermediate evaluations. Moreover, reward signals produced by STEP-GRM lead to better downstream policy optimization, demonstrating that more reliable evaluation processes can translate into practical gains beyond reward-model accuracy.",
+    "publishedAt": "2026-11-26",
+    "author": "Qiyuan Chen, Yuze Zhao, Jiahe Chen, Hongsen Huang, Hongxia Xu, Yingda Chen, Jian Wu",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

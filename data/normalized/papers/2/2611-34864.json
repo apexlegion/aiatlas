@@ -1,0 +1,39 @@
+{
+  "type": "paper",
+  "slug": "2611-34864",
+  "name": "RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies",
+  "summary": "Since vision-language-action (VLA) policies can inherit the slow pace of human demonstrations, accelerating these demonstrations before fine-tuning can lead to faster VLA policies without an additi...",
+  "description": "Since vision-language-action (VLA) policies can inherit the slow pace of human demonstrations, accelerating these demonstrations before fine-tuning can lead to faster VLA policies without an additional speed-selection module at deployment. Several offline speedup methods have focused on identifying segments that require less precision and assigning predefined speedup factors to the segments. However, even within a single segment, a speedup factor suitable for steady motion may be too high when precise alignment is required. To this end, this paper presents RePace, an offline reasoning frame...",
+  "tags": [
+    "arxiv",
+    "cs.RO"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.34864v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.RO.",
+      "href": "https://arxiv.org/abs/2611.34864v1"
+    }
+  ],
+  "authors": [
+    "Insup Lee",
+    "Hojin Jeon",
+    "Sunguk Shin",
+    "Seoungbin Bae",
+    "Taekwan Kim",
+    "Jinwoo Shin",
+    "Dongsu Han"
+  ],
+  "paperId": "2611.34864",
+  "category": "cs.RO",
+  "publishedAt": "2026-11-25",
+  "abstract": "Since vision-language-action (VLA) policies can inherit the slow pace of human demonstrations, accelerating these demonstrations before fine-tuning can lead to faster VLA policies without an additional speed-selection module at deployment. Several offline speedup methods have focused on identifying segments that require less precision and assigning predefined speedup factors to the segments. However, even within a single segment, a speedup factor suitable for steady motion may be too high when precise alignment is required. To this end, this paper presents RePace, an offline reasoning frame..."
+}

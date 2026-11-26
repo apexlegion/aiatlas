@@ -1,0 +1,40 @@
+{
+  "type": "paper",
+  "slug": "2611-34928",
+  "name": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+  "summary": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare u...",
+  "description": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare under independent Monte Carlo (MC) sampling. To address this, we propose Diverse Alternative Reasoning Traces (DART), a trace-mining method that starts from a rejected trace, decomposes it into reasoning steps, and ranks them by position-weighted uncertainty. It then generates deliberately distinct alternative candidates for highly ranked steps using reference-answer guidance and a meta-thought bef...",
+  "tags": [
+    "arxiv",
+    "cs.CL"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.34928v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CL.",
+      "href": "https://arxiv.org/abs/2611.34928v1"
+    }
+  ],
+  "authors": [
+    "Lukas Aichberger",
+    "Adam Golinski",
+    "Arno Blaas",
+    "Arwen Bradley",
+    "Jacob Springer",
+    "Mehrdad Farajtabar",
+    "Michael Kirchhof",
+    "Sinead Williamson"
+  ],
+  "paperId": "2611.34928",
+  "category": "cs.CL",
+  "publishedAt": "2026-11-25",
+  "abstract": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare under independent Monte Carlo (MC) sampling. To address this, we propose Diverse Alternative Reasoning Traces (DART), a trace-mining method that starts from a rejected trace, decomposes it into reasoning steps, and ranks them by position-weighted uncertainty. It then generates deliberately distinct alternative candidates for highly ranked steps using reference-answer guidance and a meta-thought bef..."
+}

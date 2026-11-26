@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-31638v1",
+  "name": "Wavefront: Low-Rank Drafting with Parallel Causal Refinement for Speculative Decoding",
+  "summary": "arXiv:2611.31638v1 Announce Type: new Abstract: Speculative decoding accelerates LLM inference by letting a cheap drafter propose tokens that the target model verifies in parallel. Parallel block d...",
+  "description": "arXiv:2611.31638v1 Announce Type: new Abstract: Speculative decoding accelerates LLM inference by letting a cheap drafter propose tokens that the target model verifies in parallel. Parallel block drafters such as DFlash and P-EAGLE propose a whole block in one forward pass, but they lose the dependence between tokens in the block; DSpark restores part of it with a lightweight correction head th...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.31638"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-26",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.31638"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-26",
+  "expiryAt": "2026-12-26T00:00:00.000Z",
+  "author": "Huy Huu Nguyen, Xin Huang"
+}

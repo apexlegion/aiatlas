@@ -1,0 +1,47 @@
+{
+  "type": "paper",
+  "slug": "2611-34862",
+  "name": "BOP-Refer: Benchmark for Monocular 3D and 2D Object Grounding",
+  "summary": "We introduce BOP-Refer, the first benchmark for monocular 3D and 2D grounding of everyday and industrial objects sourced from 9 diverse BOP datasets. We pair images from these datasets with VLM-gen...",
+  "description": "We introduce BOP-Refer, the first benchmark for monocular 3D and 2D grounding of everyday and industrial objects sourced from 9 diverse BOP datasets. We pair images from these datasets with VLM-generated and human-verified referring expressions, and derive accurate ground-truth 3D and 2D bounding boxes of the referred objects from their 3D models and 6DoF pose annotations. Our systematic evaluation of 17 frontier VLMs across the major proprietary and open-weight families (Gemini, GPT, Claude, Qwen, Gemma) shows that the best model, Gemini 4 Carbon, reaches 72.6% AP_IoU2D in 2D but only 12.4...",
+  "tags": [
+    "arxiv",
+    "cs.CV"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.34862v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.CV.",
+      "href": "https://arxiv.org/abs/2611.34862v1"
+    }
+  ],
+  "authors": [
+    "Tomas Hodan",
+    "Vineet Bhat",
+    "Martin Sundermeyer",
+    "Jonathan Tremblay",
+    "Yash Patel",
+    "Médéric Fourmy",
+    "Stephen Tyree",
+    "Junwen Huang",
+    "Varun Burde",
+    "Martin Cífka",
+    "Eric Brachmann",
+    "Vincent Lepetit",
+    "Stan Birchfield",
+    "Jiri Matas",
+    "Carsten Rother"
+  ],
+  "paperId": "2611.34862",
+  "category": "cs.CV",
+  "publishedAt": "2026-11-25",
+  "abstract": "We introduce BOP-Refer, the first benchmark for monocular 3D and 2D grounding of everyday and industrial objects sourced from 9 diverse BOP datasets. We pair images from these datasets with VLM-generated and human-verified referring expressions, and derive accurate ground-truth 3D and 2D bounding boxes of the referred objects from their 3D models and 6DoF pose annotations. Our systematic evaluation of 17 frontier VLMs across the major proprietary and open-weight families (Gemini, GPT, Claude, Qwen, Gemma) shows that the best model, Gemini 4 Carbon, reaches 72.6% AP_IoU2D in 2D but only 12.4..."
+}

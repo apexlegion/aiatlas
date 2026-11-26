@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.31262v1",
+  "fetchedAt": "2026-11-26T10:42:38.331Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.31262v1",
+    "title": "RegioZH: Unveiling Comprehension Disparities across Regional Chinese Varieties in LLMs",
+    "link": "https://arxiv.org/abs/2611.31262",
+    "description": "arXiv:2611.31262v1 Announce Type: cross Abstract: Current evaluations often treat Chinese varieties as monolithic, obscuring failures for regional users. We introduce RegioZH, a 2,607-item multiple-choice benchmark for regional lexical reasoning across Mainland China, Taiwan, Hong Kong, Singapore, and Malaysia. Built by region-specific annotators and expert-validated, it targets localized idioms, slang, code-mixing, politeness conventions, and sociocultural expressions. Zero-shot results on eleven LLMs show large disparities, including a 29.4-point average accuracy gap between Taiwan and Singapore. Persona and structured chain-of-thought prompts for five models yield selective gains, suggesting that some errors stem from retrieval or framing rather than only missing knowledge. Representation, attention, calibration, and surface-feature analyses show a dissociation between marker attention and semantic grounding, overconfident forced-choice errors, and localized lexical density as a consistent difficulty predictor. Qualitative analysis finds terminology misunderstandings, sociocultural inference gaps, and cross-regional semantic divergence. RegioZH demonstrates that apparent Chinese proficiency can mask uneven understanding across regional varieties, motivating intra-language robustness evaluation alongside multilingual generalization.",
+    "publishedAt": "2026-11-26",
+    "author": "Weihua Zheng, Wu Kui, Thong T. Doan, Lin Jingxia, AiTi Aw, Nancy F. Chen, Roy Ka-Wei Lee",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

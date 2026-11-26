@@ -1,0 +1,35 @@
+{
+  "type": "paper",
+  "slug": "2611-34816",
+  "name": "Transferring Architecture as an Optimization Prior",
+  "summary": "Initialization determines the optimization \"fate\" of a model, going far beyond just setting the scale of its weights. It establishes a fundamental initial geometry over the input data, dictating ce...",
+  "description": "Initialization determines the optimization \"fate\" of a model, going far beyond just setting the scale of its weights. It establishes a fundamental initial geometry over the input data, dictating certain aspects such as which examples are considered close and which representations gradient descent will naturally refine first. In this paper, we view the initial geometry of a network as an optimization prior and ask whether a network can change its optimization prior by referencing a completely different architecture. To investigate this question, we use an initialization procedure where a tar...",
+  "tags": [
+    "arxiv",
+    "cs.LG"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.34816v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.LG.",
+      "href": "https://arxiv.org/abs/2611.34816v1"
+    }
+  ],
+  "authors": [
+    "Vighnesh Subramaniam",
+    "Boris Katz",
+    "Brian Cheung"
+  ],
+  "paperId": "2611.34816",
+  "category": "cs.LG",
+  "publishedAt": "2026-11-25",
+  "abstract": "Initialization determines the optimization \"fate\" of a model, going far beyond just setting the scale of its weights. It establishes a fundamental initial geometry over the input data, dictating certain aspects such as which examples are considered close and which representations gradient descent will naturally refine first. In this paper, we view the initial geometry of a network as an optimization prior and ask whether a network can change its optimization prior by referencing a completely different architecture. To investigate this question, we use an initialization procedure where a tar..."
+}

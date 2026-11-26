@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2608.26949v2",
+  "fetchedAt": "2026-11-26T10:42:38.331Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2608.26949v2",
+    "title": "A Table Is Worth 64 Tokens: Pixel-level Compression for Multi-Table Document Question Answering",
+    "link": "https://arxiv.org/abs/2608.26949",
+    "description": "arXiv:2608.26949v2 Announce Type: replace Abstract: Answering questions over real-world documents requires processing long inputs that interleave text with tables. Optical context compression, which represents context as images, promises to reduce token cost, but its effect on table understanding remains unclear. We study pixel-level table compression for question answering over documents with multiple tables, evaluating seven VLMs across two benchmarks and five visual-token budgets. At moderate budgets, table images match html in accuracy with fewer tokens, but aggressive downscaling makes models reason longer without recovering accuracy, eroding the savings. Yet even at 64 visual tokens per table, tables preserve enough signal to identify whether they are relevant to a question. We exploit this asymmetry with a training-free, two-stage method: the model first identifies the tables needed to answer a question from a pixel-compressed context, and then reasons over those tables at native resolution. On long financial documents, it uses 41% fewer tokens than single-step QA over native-resolution tables while gaining 5 accuracy points, and 21% fewer than the most efficient compressed configuration at no accuracy cost. It also still saves tokens when applied to retrieved context.",
+    "publishedAt": "2026-11-26",
+    "author": "I\\~nigo Alonso, Mirella Lapata",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "paper",
+  "slug": "2611-34942",
+  "name": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+  "summary": "End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter...",
+  "description": "End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter and the receiver. This paper studies AI-native communications with AEs and quantifies the sensitivity to training-test mismatch in channel models. Models trained only on an AWGN channel achieve low bit error rates (BERs) under matched conditions but degrade severely on Rayleigh fading with practical front-end impairments. To reduce the time and energy required to adapt to new channel conditions,...",
+  "tags": [
+    "arxiv",
+    "cs.NI"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv abstract",
+      "href": "https://arxiv.org/abs/2611.34942v1"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-25",
+      "type": "paper",
+      "title": "Published on arXiv",
+      "description": "Listed in category cs.NI.",
+      "href": "https://arxiv.org/abs/2611.34942v1"
+    }
+  ],
+  "authors": [
+    "Yalin E. Sagduyu",
+    "Tugba Erpek"
+  ],
+  "paperId": "2611.34942",
+  "category": "cs.NI",
+  "publishedAt": "2026-11-25",
+  "abstract": "End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter and the receiver. This paper studies AI-native communications with AEs and quantifies the sensitivity to training-test mismatch in channel models. Models trained only on an AWGN channel achieve low bit error rates (BERs) under matched conditions but degrade severely on Rayleigh fading with practical front-end impairments. To reduce the time and energy required to adapt to new channel conditions,..."
+}

@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.32233v1",
+  "fetchedAt": "2026-11-26T10:42:38.331Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.32233v1",
+    "title": "Roboclock: A Unified Benchmark for Time-Aware Robotic Intelligence",
+    "link": "https://arxiv.org/abs/2611.32233",
+    "description": "arXiv:2611.32233v1 Announce Type: cross Abstract: Time is a fundamental dimension of robotic intelligence: a robot may fail despite physically correct actions if it acts outside a valid time window, responds too slowly to an event, or fails to meet required throughput. Yet existing robotic benchmarks primarily emphasize spatial correctness and logical task completion, largely overlooking the temporal constraints of real-world applications. We present RoboClock, a unified benchmark for time-aware robotic manipulation featuring 60 tasks across five application domains. Mirroring these failure modes, RoboClock structures tasks around three types of temporal constraints: Temporal Window, Event-Reactive, and Throughput. Furthermore, RoboClock incorporates a Latency-Aligned evaluation protocol that continuously advances environment time during model inference and control-interface delays, paired with time-sensitive metrics. Evaluating over 30 methods, we find that the best-performing approach is the trained VLA, yet it achieves only 8.3% temporal success even on Easy-level tasks, with persistent challenges in generalization and transfer. These findings reveal fundamental limitations in current robotic systems and highlight the need to jointly optimize physical competence, temporal reasoning, and execution latency.",
+    "publishedAt": "2026-11-26",
+    "author": "Yujie Zhao, Anthony L. Hu, Zimeng Huang, Zhijing Wu, Luobin Wang, Richard Li, Shrivas Sudharsan, Henrik I. Christensen, Jishen Zhao",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
