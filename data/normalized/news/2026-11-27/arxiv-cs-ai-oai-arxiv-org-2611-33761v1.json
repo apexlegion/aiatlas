@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-33761v1",
+  "name": "ScanAR: Parallel Row-Scan Decoding for Efficient Image Generation in Unified Autoregressive Models",
+  "summary": "arXiv:2611.33761v1 Announce Type: cross Abstract: Unified multimodal autoregressive (AR) models represent text and images in one token sequence and generate all modalities with a shared next-token...",
+  "description": "arXiv:2611.33761v1 Announce Type: cross Abstract: Unified multimodal autoregressive (AR) models represent text and images in one token sequence and generate all modalities with a shared next-token prediction head. Their image generation, however, decodes an $H\\times W$ visual grid token by token in raster order, which takes $HW$ sequential steps and dominates inference time. Existing accelerati...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.33761"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-27",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.33761"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-27",
+  "expiryAt": "2026-12-27T00:00:00.000Z",
+  "author": "Jingen Qu, Xi Chen, Yingbo Tang, Xinghang Li, Tao Kong"
+}

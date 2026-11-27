@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.15215v2",
+  "fetchedAt": "2026-11-27T10:44:02.452Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.15215v2",
+    "title": "$\\varepsilon$-WM: Error-Driven Dynamics Adaptation across Fast--Slow Timescales for World Modeling",
+    "link": "https://arxiv.org/abs/2611.15215",
+    "description": "arXiv:2611.15215v2 Announce Type: replace Abstract: A core challenge for world models is adapting to sudden, persistent, yet initially unknown changes in robot dynamics. If the world model fails to adapt, its prediction errors accumulate over the open-loop rollout and ultimately mislead the robot's actions. Existing world models, however, struggle to balance three key requirements for dynamics adaptation: responsiveness, rapidly correcting sudden changes; stability, avoiding lasting model updates from transient disturbances; and persistence, retaining adapted dynamics during the observation-free open-loop rollout. Inspired by multi-timescale predictive coding in the human brain, we propose $\\varepsilon$-WM, a world model that adapts to unknown dynamics through error-driven corrections across fast and slow timescales. $\\varepsilon$-WM incorporates three novel features: 1) Multiple internal experts (MiE) emulate neural pathway reweighting, each combining a fixed base expert with fast--slow adaptation networks. 2) Fast--slow timescale adaptation captures distinct adaptation dynamics: fast states respond rapidly and decay, whereas slow states accumulate corrections and persist. 3) Predictive correction uses prediction errors to update fast and slow states and reweight experts without gradients. During open-loop rollout, each expert feeds back its own predictions, and $\\varepsilon$-WM aggregates their outputs through adaptive weighting. Extensive experiments show $\\varepsilon$-WM has a consistently lower multi-step mean error than all ten baselines on six datasets, verifying the effectiveness of each feature.",
+    "publishedAt": "2026-11-27",
+    "author": "Haoyi Zhang, Qi Zhang, Yunfan Ren, Yi Bin, Lei Zhu, Heng Tao Shen",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

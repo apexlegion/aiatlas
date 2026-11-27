@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2611-33827v1",
+  "name": "FEAST: Fair and Efficient Adaptive Sampling for Task-Free On-Policy Learning",
+  "summary": "arXiv:2611.33827v1 Announce Type: cross Abstract: Language agents trained from self-generated experience must allocate a limited rollout budget across heterogeneous capabilities. A common strategy...",
+  "description": "arXiv:2611.33827v1 Announce Type: cross Abstract: Language agents trained from self-generated experience must allocate a limited rollout budget across heterogeneous capabilities. A common strategy is to prioritize capabilities with strong current learning signals, but in on-policy learning these signals are endogenous: past allocation changes the policy and therefore the evidence available for...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2611.33827"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-27",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2611.33827"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-27",
+  "expiryAt": "2026-12-27T00:00:00.000Z",
+  "author": "Yongxi Zhu, Ziyi Wang, Yichen Wu, Ruite Lu, Liao Chang, Haipeng Li, Ying Wei"
+}

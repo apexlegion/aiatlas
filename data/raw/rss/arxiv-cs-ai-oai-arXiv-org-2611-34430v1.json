@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.34430v1",
+  "fetchedAt": "2026-11-27T10:44:02.452Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.34430v1",
+    "title": "One Representation to Rule Them All -- Open-Vocabulary Change Detection from Text or Visual Examples",
+    "link": "https://arxiv.org/abs/2611.34430",
+    "description": "arXiv:2611.34430v1 Announce Type: cross Abstract: Open-vocabulary change detection (OVCD) aims to localise user-specified changes without retraining for predefined categories. Existing approaches typically rely on textual descriptions and combine separate models for region proposal, semantic recognition, and temporal comparison. This limits how target concepts can be expressed and makes detection dependent on several intermediate predictions. We introduce OVTSID3, a training-free framework that unifies region grouping, concept identification, and temporal comparison in the representation space of DINOv3. OVTSID3 supports two complementary modes of concept specification: zero-shot textual queries or one-shot visual prompting through a masked reference pair. OVTSID3 outperforms all prior training-free OVCD methods on two building and two natural-disaster benchmarks, raising the average F1 by 8.9 points. OVTSID3 also supports semantic change detection and achieves state-of-the-art on SECOND. These results demonstrate the flexibility of a unified representation for text- or example-guided change detection without task-specific model training.",
+    "publishedAt": "2026-11-27",
+    "author": "Bla\\v{z} Rolih, Matic Fu\\v{c}ka, Filip Wolf, Luka \\v{C}ehovin Zajc",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

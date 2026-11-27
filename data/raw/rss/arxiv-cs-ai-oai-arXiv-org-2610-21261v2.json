@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.21261v2",
+  "fetchedAt": "2026-11-27T10:44:02.453Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.21261v2",
+    "title": "Behavioral Compositionality of Sparse Autoencoder Representations",
+    "link": "https://arxiv.org/abs/2610.21261",
+    "description": "arXiv:2610.21261v2 Announce Type: replace-cross Abstract: Sparse autoencoders (SAEs) provide features that can be combined to explain and steer language model behavior. Understanding these combinations requires knowing how reliably individual feature effects predict their joint impact on the model. We study this relationship by retaining or removing subsets of SAE feature contributions and measuring the resulting behavioral responses. We introduce SAE Additivity Residuals (SAR) to quantify how much behavioral variation is explained by feature interactions beyond a chosen order. We prove that, under independent feature subset sampling, SAR measures the normalized energy of these interactions and bounds errors in ranking feature combinations. Across 18 model and behavior settings, learned SAE coordinates have lower first order residuals than matched rotations of the same activation subspace. This shows that SAE coordinates support comparatively simple descriptions of joint feature effects. Pairwise modeling further improves the ranking of held out feature combinations in all 18 settings. We also demonstrate the practical value of modeling these interactions. Across five challenging benchmarks, pairwise models select feature combinations that give higher probability to the correct answer and preserve the original behavioral response more closely than first order models. In MMLU-Pro steering, pairwise modeling improves rank fidelity from 0.5874 to 0.7790 and reduces ordering error from 0.1444 to 0.0606. These results establish behavioral compositionality as a measurable property of SAE representations and show how modeling feature interactions improves the analysis and selection of feature combinations.",
+    "publishedAt": "2026-11-27",
+    "author": "Haotian Ma, Ziye Mei, Frederic Sala",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

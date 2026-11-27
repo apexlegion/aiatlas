@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2603-21676v3",
+  "name": "Thinking Deeper, Not Longer: Memory-Efficient Latent Chain-of-Thought with Depth-Recurrent Transformers for Compositional Generalization",
+  "summary": "arXiv:2603.21676v3 Announce Type: replace-cross Abstract: Standard Transformers have a fixed computational depth, limiting their ability to generalize to tasks that require variable-depth reasoning...",
+  "description": "arXiv:2603.21676v3 Announce Type: replace-cross Abstract: Standard Transformers have a fixed computational depth, limiting their ability to generalize to tasks that require variable-depth reasoning. The usual remedy, Chain-of-Thought (CoT), spends tokens to reason, inflating the key--value cache, so memory becomes the limiting cost when reasoning is served over large query batches. We study a d...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2603.21676"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-27",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2603.21676"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-27",
+  "expiryAt": "2026-12-27T00:00:00.000Z",
+  "author": "Hung-Hsuan Chen"
+}

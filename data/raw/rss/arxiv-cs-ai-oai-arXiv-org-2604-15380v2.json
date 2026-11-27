@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2604.15380v2",
+  "fetchedAt": "2026-11-27T10:44:02.453Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2604.15380v2",
+    "title": "Exascale Multi-Task Graph Foundation Models for Imbalanced, Multi-Fidelity Atomistic Data",
+    "link": "https://arxiv.org/abs/2604.15380",
+    "description": "arXiv:2604.15380v2 Announce Type: replace-cross Abstract: We present an exascale workflow for atomistic graph foundation models using HydraGNN. Multi-task learning enables joint training across 16 heterogeneous first-principles datasets representing over 467 million unique structures (over 544 million cumulative branch records) and covering 85+ elements. A shared graph neural network backbone with dataset-specific prediction heads accommodates the strongly imbalanced, multi-source, multi-fidelity corpus, supported by scalable ADIOS2/DDStore data management. Composition-conditioned weighting combines source-specific predictions into a single deployable model. Six large-scale hyperparameter optimization campaigns, followed by resource-aware continual training on 2,048 Frontier nodes, identify PaiNN as the lead architecture under a fixed computational budget. We evaluate scalability across Frontier, Aurora, and Perlmutter and characterize transfer across twelve down-stream tasks, including comparisons with pretrained UMA and MACE models under different adaptation strategies. These results reveal task-dependent transfer benefits and highlight the importance of matching adaptation strategies to downstream applications. Finally, we assess inference optimizations and BF16/FP32/FP64 precision tradeoffs, achieving the screening of 1.1 billion atomistic structures in approximately 50 seconds on Frontier. Together, these results establish a scalable framework for multi-source atomistic foundation model training, evaluation, and high-throughput deployment, thereby allowing for a fast and reliable exploration of vast chemical design spaces that are otherwise inaccessible to first-principles methods",
+    "publishedAt": "2026-11-27",
+    "author": "Massimiliano Lupo Pasini, Jong Youl Choi, Kshitij Mehta, Richard Messerly, Rylie Weaver, Linda Ungerboeck, Isaac Lyngaas, Benajmin Stump, Ashwin M. Aji, Karl W. Schulz, Jorda Polo",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

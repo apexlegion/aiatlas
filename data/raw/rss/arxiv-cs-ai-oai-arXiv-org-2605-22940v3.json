@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2605.22940v3",
+  "fetchedAt": "2026-11-27T10:44:02.453Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2605.22940v3",
+    "title": "Human-Centered Learning Mechanics: Observable Entropy Control under Protected-Risk Constraints",
+    "link": "https://arxiv.org/abs/2605.22940",
+    "description": "arXiv:2605.22940v3 Announce Type: replace-cross Abstract: Human-Centered Learning Mechanics (HCLM) treats learning as an open, controlled process in which task progress, representation information, structural restrictions and externally specified risk limits jointly govern parameter updates. We characterise this mechanism through a normalised covariance-information force, metric observability and exact feasible rate constraints. The projected task rate depends on an observable cross-product that differs from the ordinary task information product when a probe set does not contain the training task. Error, finite-step and delay margins specify when admissible local requests can be implemented. A primary 288-run neural study separates information control from empirical risk protection and retains cases where extra compression worsens held-out loss. Follow-up experiments train the observable restriction in a declared 13-dimensional subspace, implement a frozen-public-encoder readout through an actual Gaussian sample channel, evaluate a fixed-coefficient sensitivity grid, and test targeted nuisance control with two-hidden-layer minibatch learning on Fashion-MNIST. The nuisance study improves shifted accuracy over ERM, while generic protected balancing accounts for most of the gain. Together, the theory and experiments identify attainable information actions, predictive costs and the separate assumptions required for population-risk certification.",
+    "publishedAt": "2026-11-27",
+    "author": "Kim Phuc Tran",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

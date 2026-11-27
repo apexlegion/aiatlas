@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.06917v2",
+  "fetchedAt": "2026-11-27T10:44:02.452Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.06917v2",
+    "title": "FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving",
+    "link": "https://arxiv.org/abs/2610.06917",
+    "description": "arXiv:2610.06917v2 Announce Type: replace Abstract: Prefill-decode (P/D) disaggregation serves the two phases of LLM inference on separate workers, typically with a fixed prefill/decode worker ratio. Real workloads exhibit both short bursts and sustained shifts in the prefill-to-decode demand ratio, so a fixed split can violate latency SLOs while capacity sits idle in the other pool. Autoscaling adds capacity, but it reacts slowly, requires spare GPUs, and does not address short-timescale phase imbalance. We present FluidPD, a P/D-disaggregated serving system with SLO-aware in-place elasticity. FluidToken absorbs transient imbalance by offloading a bounded portion of prefill computation to decode workers that have slack. FluidRole absorbs sustained imbalance by switching running workers between the prefill and decode roles in place, without model reload or engine restart. Both are guided by indices that expose the pressure in each phase before it causes SLO violations. On workloads derived from production Azure traces and ShareGPT conversations with sustained shifts in the prefill-to-decode demand ratio, FluidPD improves overall SLO attainment by up to 47.9 percentage points over the best static P/D split for each load, without additional workers.",
+    "publishedAt": "2026-11-27",
+    "author": "Kartik Ramesh, Kaidi Fu, Zihan Zheng, Yi Zhao, Jiahuan Yu, Fabio Oliveira, Carlos H. A. Costa, Minjia Zhang",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

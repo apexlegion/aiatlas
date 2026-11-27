@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.34662v1",
+  "fetchedAt": "2026-11-27T10:44:02.452Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.34662v1",
+    "title": "Multi-Party Authorization of Maintenance Prescriptions on a Permissioned Blockchain",
+    "link": "https://arxiv.org/abs/2611.34662",
+    "description": "arXiv:2611.34662v1 Announce Type: cross Abstract: In industrial prescriptive maintenance, an equipment supplier's model may recommend an intervention that a plant schedules, a contractor executes, and a quality or safety function approves. A shared ledger records who submitted the prescription, yet cannot check whether the agreed model and decision rule produced it. We require permissioned-blockchain endorsers to verify a succinct proof of that calculation before releasing a work order. On a four-organization Hyperledger Fabric testbed using a public engine benchmark, this stopped all nine contested or mis-operated prescriptions, whereas hash checks accepted four that either raised simulated maintenance cost or reintroduced late failures.",
+    "publishedAt": "2026-11-27",
+    "author": "Siyuan Chen, Ebru Turanoglu Bekar, Anders Skoogh",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

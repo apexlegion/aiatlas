@@ -1,0 +1,30 @@
+{
+  "type": "news",
+  "slug": "arxiv-cs-ai-oai-arxiv-org-2607-02781v3",
+  "name": "Safe Inference-Time Alignment via Lagrangian Reward Augmentation",
+  "summary": "arXiv:2607.02781v3 Announce Type: replace-cross Abstract: Inference-time alignment steers a frozen language model during decoding using auxiliary reward signals, avoiding the cost of repeated weigh...",
+  "description": "arXiv:2607.02781v3 Announce Type: replace-cross Abstract: Inference-time alignment steers a frozen language model during decoding using auxiliary reward signals, avoiding the cost of repeated weight updates. However, existing inference-time alignment methods typically optimize a single scalar score, so explicit safety constraints must either be ignored or encoded through manually tuned penaltie...",
+  "tags": [
+    "news",
+    "arxiv-cs-ai"
+  ],
+  "externalLinks": [
+    {
+      "label": "arXiv cs.AI",
+      "href": "https://arxiv.org/abs/2607.02781"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2026-11-27",
+      "type": "milestone",
+      "title": "Published",
+      "description": "Posted by arXiv cs.AI.",
+      "href": "https://arxiv.org/abs/2607.02781"
+    }
+  ],
+  "source": "arXiv cs.AI",
+  "publishedAt": "2026-11-27",
+  "expiryAt": "2026-12-27T00:00:00.000Z",
+  "author": "Yaswanth Chittepu, Ativ Joshi, Sohini Chintala, Scott Niekum"
+}

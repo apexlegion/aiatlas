@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.23166v2",
+  "fetchedAt": "2026-11-27T10:44:02.453Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.23166v2",
+    "title": "Explaining Chess and Go with Discovered Motifs",
+    "link": "https://arxiv.org/abs/2610.23166",
+    "description": "arXiv:2610.23166v2 Announce Type: replace-cross Abstract: Modern chess engines play far beyond human ability, often choosing moves whose underlying ideas are difficult for humans to understand. We propose an automatic metric for chess explanations based on how well the motifs they describe generalize to new positions. Evaluating state-of-the-art language models using this metric, we find that they perform surprisingly poorly, often relying on surface-level board observations rather than robust, transferable chess concepts. We then introduce BinProp, a training-free method that enables these same models to discover reusable chess concepts and use them to explain moves in natural language. BinProp improves motif generalization for every model tested, nearly tripling the average score compared with direct prompting. Beyond chess, the same method discovers useful concepts in Go, draughts, and shogi without additional tuning.",
+    "publishedAt": "2026-11-27",
+    "author": "Ori Press, Alexander Golubev",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

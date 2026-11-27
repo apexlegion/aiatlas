@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2610.21240v2",
+  "fetchedAt": "2026-11-27T10:44:02.453Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2610.21240v2",
+    "title": "Representation Redistribution in Sparse Autoencoders",
+    "link": "https://arxiv.org/abs/2610.21240",
+    "description": "arXiv:2610.21240v2 Announce Type: replace-cross Abstract: Presenting the same request with different context or formatting can change which sparse autoencoder (SAE) features respond inside a language model. Understanding these changes raises two questions. Which feature responses recur across related inputs, and which of them contribute to downstream computation? We study this phenomenon as representation redistribution and introduce the redistribution sensitivity score (RSS) to identify large feature changes that recur in a consistent direction. We select features on one set of prompt variants and evaluate them on separate variants. Across 27 pretrained SAEs spanning eight language models, RSS reveals a consistent pattern of redistribution. Context and wrapper transformations produce stronger recurring responses than local edits. We then use two frozen safety readouts to measure how these changes contribute to downstream computation. RSS identifies features with approximately twice the mean held out contribution of features selected by the largest readout coefficients, using activation responses alone. An exact decomposition explains how feature changes and readout coefficients determine their effects on the decision margin. Combining RSS contributions with the clean margin improves recurrent failure AUROC from 0.863 to 0.935 and from 0.901 to 0.958, approaching the full readout results of 0.965 and 0.964. These findings show that recurring changes in sparse representations provide a way to identify features with meaningful downstream contributions. Code is available at https://github.com/OpenSAE/Redistribution-Sensitivity-Score.",
+    "publishedAt": "2026-11-27",
+    "author": "Ziye Mei, Haotian Ma",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}

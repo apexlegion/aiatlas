@@ -1,0 +1,19 @@
+{
+  "source": "rss",
+  "sourceId": "arxiv-cs-ai:oai:arXiv.org:2611.23700v3",
+  "fetchedAt": "2026-11-27T10:44:02.452Z",
+  "data": {
+    "guid": "arxiv-cs-ai:oai:arXiv.org:2611.23700v3",
+    "title": "Auditable Clinical Support with Decision Agents",
+    "link": "https://arxiv.org/abs/2611.23700",
+    "description": "arXiv:2611.23700v3 Announce Type: replace Abstract: Emergency care requires auditable decisions, but a language-model agent just outputs text. We introduce Decision2Care, a decision agent that generates a probability for every option at each step. It diagnosed 546 emergency admissions across 12 diseases with 86.5% accuracy in a median of 2.2 s; language-model agents reached 86.1 to 91.7% but took more than 90 s. Its drug orders were judged guideline-adherent more often than documented first-day care and with about half as many records, it predicted death as well as three ICU clinicians. In the four cases where it was confident but wrong, we traced each decision to one imaging report. Our study suggests that an agent's work-up can be reviewed like a clinician's, motivating prospective trials.",
+    "publishedAt": "2026-11-27",
+    "author": "Tiancheng Bao, Riga Wu, Jan Wienhold, Sebastian Billig, Patrick Winnersbach, Hsuan-Chih Chen, Akis Giannoukos, Jiayang Li, Li Shen, Gary Weissman, Eduardo J. Mortani Barbosa Jr, Dyke Ferber, Jakob Nikolas Kather, Christos Davatzikos, Daniel Truhn, Tianyu Han",
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  },
+  "extra": {
+    "feedId": "arxiv-cs-ai",
+    "source": "arXiv cs.AI"
+  }
+}
